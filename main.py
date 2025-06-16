@@ -260,6 +260,10 @@ def generate_master_report(report_data, vpa_analyses):
             
             f.write(f"![Price Chart for {data['ticker']}]({data['chart_path']})\n\n")
             
+            # Add a formatted "Back to Top" link, aligned to the right.
+            up_link_html = '<p align="right"><a href="#table-of-contents">↑ Back to Top</a></p>\n\n'
+            f.write(up_link_html)
+
             # --- Statistics Table ---
             f.write("#### Key Statistics\n")
             f.write("| Metric | Value |\n")
