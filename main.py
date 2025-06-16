@@ -3,6 +3,8 @@ import time
 import matplotlib.pyplot as plt
 import pandas as pd
 import mplfinance as mpf
+import re
+from collections import defaultdict
 from datetime import datetime
 from vnstock import Vnstock
 
@@ -160,6 +162,57 @@ def parse_vpa_analysis(file_path):
     print(f"   - Found analysis for {len(analyses)} tickers.")
     return analyses
 
+def get_latest_vpa_signal(analysis_text: str) -> str | None:
+    """
+    Parses the VPA analysis text for a single ticker to find the signal
+    from the most recent entry.
+
+    Args:
+        analysis_text: The full VPA analysis content for one ticker.
+
+    Returns:
+        The normalized signal string (e.g., "Sign of Strength") or None.
+    """
+    # CORRECTED: Use \s+ to match one or more spaces after the dash,
+    # matching the format in VPA.md ("-   **Ngày...")
+    entries = re.split(r'\n-\s+\*\*Ngày.*?\:\*\*', analysis_text)
+
+    if len(entries) <= 1:
+        return None  # No valid date entries found
+
+    # The text of the last entry is the last element of the split list.
+    latest_entry_text = entries[-1]
+
+    # Less important signals are at the top, most important are at the bottom.
+    # The last match found in this dictionary will be the one that is returned.
+    signals_to_check = {
+        # --- Minor Signals ---
+        "Test for Supply": r"Test for Supply",
+        "No Demand": r"No Demand",
+        "No Supply": r"No Supply",
+        # --- Effort Signals ---
+        "Effort to Rise": r"Effort to Rise",
+        "Effort to Fall": r"Effort to Fall",
+        # --- Potential Turning Points ---
+        "Stopping Volume": r"Stopping Volume",
+        "Buying Climax": r"Buying Climax|Topping Out Volume",
+        "Selling Climax": r"Selling Climax",
+        "Anomaly": r"Anomaly|sự bất thường",
+        # --- Major, More Definitive Signals ---
+        "Shakeout": r"Shakeout",
+        "Sign of Weakness": r"Sign of Weakness",
+        "Sign of Strength": r"Sign of Strength",
+    }
+
+    found_signal = None  # Initialize variable to store the latest match
+    for signal_name, signal_pattern in signals_to_check.items():
+        if re.search(signal_pattern, latest_entry_text, re.IGNORECASE):
+            # If a match is found, update the variable.
+            # This will be overwritten by any subsequent matches.
+            found_signal = signal_name
+    # After checking all possible signals, return the last one that was found.
+    return found_signal
+
 def generate_candlestick_report(df, ticker):
     """
     Generates and saves a candlestick chart with volume.
@@ -212,13 +265,49 @@ def generate_master_report(report_data, vpa_analyses):
     This file is overwritten on each run.
     """
     print(f"\n-> Generating master report: {MASTER_REPORT_FILENAME}")
-    
+    signal_groups = defaultdict(list)
+    for ticker, analysis_text in vpa_analyses.items():
+        # Skip any tickers that might have been parsed but have no actual analysis text
+        if not analysis_text or not analysis_text.strip():
+            continue
+
+        latest_signal = get_latest_vpa_signal(analysis_text)
+
+        if latest_signal:
+            signal_groups[latest_signal].append(ticker)
+        else:
+            # If no specific signal is found in the latest entry, group it as "Others"
+            signal_groups["Others"].append(ticker)
+
     with open(MASTER_REPORT_FILENAME, 'w', encoding='utf-8') as f:
         # --- Main Header ---
         f.write("# AIPriceAction Market Report\n")
         f.write(f"*Report generated for data from **{START_DATE}** to **{END_DATE}**.*\n")
         f.write(f"*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n\n")
         
+        # --- Write the VPA Signal Summary Table ---
+        if signal_groups:
+            f.write("### VPA Signal Summary (from Latest Analysis)\n\n")
+            f.write("| Signal | Tickers |\n")
+            f.write("|:---|:---|\n")
+
+            # Pop "Others" from the dictionary to handle it separately at the end
+            other_tickers = sorted(signal_groups.pop("Others", []))
+
+            # Sort and write the main, recognized signals
+            sorted_signals = sorted(signal_groups.keys())
+            for signal in sorted_signals:
+                tickers = sorted(signal_groups[signal])
+                ticker_links = [f"[{t}](#{t.lower()})" for t in tickers]
+                f.write(f"| {signal} | {', '.join(ticker_links)} |\n")
+
+            # Now, write the "Others" row at the end of the table if it's not empty
+            if other_tickers:
+                ticker_links = [f"[{t}](#{t.lower()})" for t in other_tickers]
+                f.write(f"| Others | {', '.join(ticker_links)} |\n")
+
+            f.write("\n---\n\n")
+
         # --- Table of Contents ---
         f.write("## Table of Contents\n")
         f.write("| Ticker | Actions |\n")
