@@ -117,7 +117,7 @@ def save_data_to_csv(df, ticker, start_date, end_date):
 
 def parse_vpa_analysis(file_path):
     """
-    Parses the VPA.md file to extract analysis for each ticker.
+    Parses the VPA.md file to extract analysis for each ticker, preserving indentation.
     
     Args:
         file_path (str): The path to the VPA.md file.
@@ -134,16 +134,28 @@ def parse_vpa_analysis(file_path):
     current_ticker = None
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
-            line = line.strip()
-            if line.startswith('# ') and len(line.split()) == 2:
-                current_ticker = line.split('# ')[1]
+            stripped_line = line.strip()
+
+            # Check for a ticker header (e.g., "# VNINDEX").
+            # The header line should only contain the ticker and the leading '#'.
+            if stripped_line.startswith('# ') and len(stripped_line.split()) == 2:
+                current_ticker = stripped_line.split()[1]
                 analyses[current_ticker] = []
-            elif current_ticker and line:
-                analyses[current_ticker].append(line)
-    
-    # Join the lines for each ticker into a single string
+                continue
+
+            # Stop capturing content at a separator line
+            if stripped_line == '---':
+                current_ticker = None
+                continue
+
+            # If we are inside a ticker's section, append the line
+            if current_ticker:
+                # Use rstrip() to remove the trailing newline but preserve leading spaces
+                analyses[current_ticker].append(line.rstrip('\n'))
+
+    # Join the collected lines for each ticker into a single block of text
     for ticker, lines in analyses.items():
-        analyses[ticker] = '\n'.join(lines)
+        analyses[ticker] = '\n'.join(lines).strip()
         
     print(f"   - Found analysis for {len(analyses)} tickers.")
     return analyses
