@@ -419,8 +419,6 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
             f.write(f"| Period High | {data['period_high']:,} |\n")
             f.write(f"| Period Low | {data['period_low']:,} |\n")
             f.write(f"| Period Change % | {data['change_pct']:.2f}% |\n")
-            f.write(f"| 52-Week High | {data['high52w']:,} |\n")
-            f.write(f"| 52-Week Low | {data['low52w']:,} |\n")
 
             f.write(f"\n**[Download {data['ticker']} Data (.csv)]({data['csv_path']})**\n\n")
             f.write("---\n\n")
@@ -466,12 +464,6 @@ def main():
             period_open = stock_df['open'].iloc[0]
             latest_close = stock_df['close'].iloc[-1]
             change_pct = ((latest_close - period_open) / period_open) * 100 if period_open != 0 else 0
-
-            # Get 52-week high/low from the full (unfiltered) dataset if possible
-            # This is a simplification; a more robust solution would download a year of data.
-            full_year_df = stock_reader.quote.history(symbol=ticker, start=(datetime.now() - pd.DateOffset(years=1)).strftime('%Y-%m-%d'), end=END_DATE)
-            high_52w = full_year_df['high'].max() if not full_year_df.empty else stock_df['high'].max()
-            low_52w = full_year_df['low'].min() if not full_year_df.empty else stock_df['low'].min()
             
             # Gather all information for the master report
             report_entry = {
@@ -485,8 +477,6 @@ def main():
                 'period_low': stock_df['low'].min(),
                 'change_pct': change_pct,
                 'total_volume': stock_df['volume'].sum(),
-                'high52w': high_52w,
-                'low52w': low_52w,
                 'csv_path': csv_path,
                 'chart_path': chart_path,
             }
