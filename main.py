@@ -200,8 +200,8 @@ def get_latest_vpa_signal(analysis_text: str) -> str | None:
         "Anomaly": r"Anomaly|sự bất thường",
         # --- Major, More Definitive Signals ---
         "Shakeout": r"Shakeout",
-        "Sign of Weakness": r"Sign of Weakness",
-        "Sign of Strength": r"Sign of Strength",
+        "Sign of Weakness": r"Sign of Weakness|SOW",
+        "Sign of Strength": r"Sign of Strength|SOS",
     }
 
     found_signal = None  # Initialize variable to store the latest match
