@@ -6,6 +6,7 @@ on:
 
   # Sets up a scheduled run
   schedule:
+    - cron: "30 4 * * *"
     # Runs at 7:45 UTC, which is 2:45 PM in Vietnam (ICT), after the market closes.
     # Format is: Minute Hour Day(month) Month Day(week)
     - cron: "45 7 * * *"
