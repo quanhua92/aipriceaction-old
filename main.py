@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import mplfinance as mpf
 import re
+import json
 from collections import defaultdict
 from datetime import datetime
 from vnstock import Vnstock
@@ -259,7 +260,7 @@ def generate_candlestick_report(df, ticker):
     print(f"   - Report saved to: {output_file}")
     return output_file
 
-def generate_master_report(report_data, vpa_analyses):
+def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_group_map):
     """
     Generates an improved master REPORT.md file with a Table of Contents and deep links.
     This file is overwritten on each run.
@@ -287,7 +288,8 @@ def generate_master_report(report_data, vpa_analyses):
         
         # --- Write the VPA Signal Summary Table ---
         if signal_groups:
-            f.write("### VPA Signal Summary\n\n")
+            # Use an explicit ID for a stable anchor link
+            f.write('<h3 id="vpa-signal-summary">VPA Signal Summary (from Latest Analysis)</h3>\n\n')
             f.write("| Signal | Tickers |\n")
             f.write("|:---|:---|\n")
 
@@ -307,6 +309,22 @@ def generate_master_report(report_data, vpa_analyses):
                 f.write(f"| Others | {', '.join(ticker_links)} |\n")
 
             f.write("\n---\n\n")
+
+        # --- Write the Ticker Groups Section ---
+        if ticker_groups:
+            f.write("## Groups\n")
+            # Create a set of tickers that are actually in the report for efficient lookup
+            tickers_in_report = {rd['ticker'] for rd in report_data}
+            sorted_groups = sorted(ticker_groups.keys())
+            for group in sorted_groups:
+                tickers_in_group = sorted(ticker_groups[group])
+                # Create a list of markdown links ONLY for tickers that are both in the group and in the report
+                ticker_links = [f"[{t}](#{t.lower()})" for t in tickers_in_group if t in tickers_in_report]
+                if ticker_links:
+                    group_anchor = group.lower().replace('_', '-')
+                    f.write(f'<h3 id="{group_anchor}">{group}</h3>\n\n')
+                    f.write(', '.join(ticker_links) + "\n\n")
+            f.write("---\n\n")
 
         # --- Table of Contents ---
         f.write("## Table of Contents\n")
@@ -374,8 +392,21 @@ def generate_master_report(report_data, vpa_analyses):
 
             f.write(f"![Price Chart for {data['ticker']}]({data['chart_path']})\n\n")
             
-            # Add a formatted "Back to Top" link, aligned to the right.
-            up_link_html = '<p align="right"><a href="#vpa-signal-summary">↑ Back to Top</a></p>\n\n'
+            # --- Build the Back to Top / Back to Group links ---
+            # Start with the standard Back to Top link
+            links = []
+
+            # Check if the current ticker belongs to a group
+            ticker_name = data['ticker']
+            if ticker_name in ticker_to_group_map:
+                group_name = ticker_to_group_map[ticker_name]
+                group_anchor = group_name.lower().replace('_', '-')
+                # Add the "Back to Group" link
+                links.append(f'<a href="#{group_anchor}">↑ Back to group {group_name}</a>')
+
+            links.append('<a href="#vpa-signal-summary">↑ Back to Top</a>')
+            # Join the links with a separator and wrap them in the paragraph tag
+            up_link_html = f'<p align="right">{" &nbsp;|&nbsp; ".join(links)}</p>\n\n'
             f.write(up_link_html)
 
             # --- Statistics Table ---
@@ -403,6 +434,21 @@ def main():
     
     setup_directories()
     vpa_analyses = parse_vpa_analysis(VPA_ANALYSIS_FILENAME)
+
+    # --- Load Ticker Groups ---
+    try:
+        with open('ticker_group.json', 'r', encoding='utf-8') as f:
+            ticker_groups = json.load(f)
+        print("Loaded ticker groups from ticker_group.json")
+    except FileNotFoundError:
+        print("ticker_group.json not found. Skipping group section.")
+        ticker_groups = {}
+
+    # Create a reverse mapping for quick lookup: ticker -> group
+    ticker_to_group_map = {}
+    for group, tickers in ticker_groups.items():
+        for ticker in tickers:
+            ticker_to_group_map[ticker] = group
     
     master_report_data = []
 
@@ -448,7 +494,7 @@ def main():
             
     # Generate the final master markdown report if any data was processed
     if master_report_data:
-        generate_master_report(master_report_data, vpa_analyses)
+        generate_master_report(master_report_data, vpa_analyses, ticker_groups, ticker_to_group_map)
             
     print("\n--- AIPriceAction Data Pipeline: FINISHED ---")
 
