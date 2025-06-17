@@ -14,6 +14,14 @@ The primary output of this project is the **`REPORT.md`** file. This file is aut
 
 ---
 
+## 🎯 View the Trading Plan
+
+Based on the latest analysis, the **`PLAN.md`** file outlines potential trading strategies and top opportunities. This plan synthesizes VPA signals for a mid-term perspective.
+
+**➡️ [Click here to view the trading plan](PLAN.md)**
+
+---
+
 ## Key Features
 
 -   **Configurable Ticker List**: Easily manage which stocks to analyze by editing a simple `TICKERS.csv` file.
