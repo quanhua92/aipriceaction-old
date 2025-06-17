@@ -285,7 +285,13 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
         f.write("# AIPriceAction Market Report\n")
         f.write(f"*Report generated for data from **{START_DATE}** to **{END_DATE}**.*\n")
         f.write(f"*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n\n")
-        
+        # --- START: Add invitation to view Trading Plan ---
+        f.write("---\n\n")
+        f.write("## 🎯 View the Trading Plan\n\n")
+        f.write("**➡️ [Click here to view the trading plan](PLAN.md)**\n\n")
+        f.write("---\n\n")
+        # --- END: Add invitation ---
+
         # --- Write the VPA Signal Summary Table ---
         if signal_groups:
             # Use an explicit ID for a stable anchor link
