@@ -287,7 +287,7 @@ def generate_master_report(report_data, vpa_analyses):
         
         # --- Write the VPA Signal Summary Table ---
         if signal_groups:
-            f.write("### VPA Signal Summary (from Latest Analysis)\n\n")
+            f.write("### VPA Signal Summary\n\n")
             f.write("| Signal | Tickers |\n")
             f.write("|:---|:---|\n")
 
@@ -339,18 +339,43 @@ def generate_master_report(report_data, vpa_analyses):
             ticker_id = data['ticker'].lower()
             f.write(f"### {data['ticker']}\n\n")
             
-            # --- VPA Analysis Section with Deep Link and Blockquote Rendering ---
+            # --- VPA Analysis Section with Deep Link and Limited Blockquote ---
             if data['ticker'] in vpa_analyses:
-                f.write(f"#### [VPA Analysis](./{VPA_ANALYSIS_FILENAME}#{ticker_id})\n")
-                # Format the analysis text as a blockquote for better rendering
-                analysis_text = vpa_analyses[data['ticker']]
-                blockquote_analysis = '> ' + analysis_text.replace('\n', '\n> ')
-                f.write(blockquote_analysis + "\n\n")
-            
+                full_analysis_text = vpa_analyses[data['ticker']]
+
+                # Check if there is any analysis text to process
+                if full_analysis_text and full_analysis_text.strip():
+                    # 1. Extract all dates from the full analysis to create the date range for the link
+                    dates = re.findall(r'\d{4}-\d{2}-\d{2}', full_analysis_text)
+                    if dates:
+                        # Sort unique dates to ensure correct start and end
+                        sorted_dates = sorted(list(set(dates)))
+                        start_date_str = sorted_dates[0]
+                        end_date_str = sorted_dates[-1]
+                        vpa_link_text = f"VPA Analysis ({start_date_str} - {end_date_str})"
+                    else:
+                        vpa_link_text = "VPA Analysis"  # Fallback if no dates are found
+
+                    f.write(f"#### [{vpa_link_text}](./{VPA_ANALYSIS_FILENAME}#{ticker_id})\n")
+
+                    # 2. Split the full analysis into daily entries using a positive lookahead.
+                    # This splits before "-   **Ngày" without consuming the delimiter.
+                    daily_entries = re.split(r'\n(?=-   \*\*Ngày)', full_analysis_text)
+
+                    # 3. Get the last 4 daily entries for the summary
+                    limited_entries = daily_entries[-4:]
+
+                    # 4. Join the limited entries back into a single text block
+                    limited_analysis_text = "\n".join(limited_entries)
+
+                    # 5. Format the limited analysis as a blockquote for better rendering in Markdown
+                    blockquote_analysis = '> ' + limited_analysis_text.replace('\n', '\n> ')
+                    f.write(blockquote_analysis + "\n\n")
+
             f.write(f"![Price Chart for {data['ticker']}]({data['chart_path']})\n\n")
             
             # Add a formatted "Back to Top" link, aligned to the right.
-            up_link_html = '<p align="right"><a href="#table-of-contents">↑ Back to Top</a></p>\n\n'
+            up_link_html = '<p align="right"><a href="#vpa-signal-summary">↑ Back to Top</a></p>\n\n'
             f.write(up_link_html)
 
             # --- Statistics Table ---
@@ -432,4 +457,3 @@ if __name__ == "__main__":
     # This environment variable is required by vnstock to accept the terms and conditions.
     os.environ["ACCEPT_TC"] = "tôi đồng ý"
     main()
-
