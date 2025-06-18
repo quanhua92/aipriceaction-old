@@ -15,18 +15,19 @@ _Ngày lập kế hoạch: 20xx-xx-xx_
 
 ---
 
-**1. Phân Tích Trạng Thái VNINDEX & Chiến Lược (Updated)**
+**1. Phân Tích Trạng Thái VNINDEX & Chiến Lược**
 
 -   Provide a concise, updated summary of the current state of the VNINDEX, synthesizing key VPA signals to determine the overall market trend (e.g., `"xu hướng tăng mạnh," "giai đoạn phân phối," "kiểm tra lại hỗ trợ"`).
 -   Define a specific **"Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng"** for the market. This should be a clear price range for the VNINDEX, justified by referencing key support/resistance levels and VPA principles (e.g., `"Một nhịp điều chỉnh về kiểm tra lại vùng kháng cự cũ 1330-1350 trên khối lượng thấp sẽ là một điểm vào lý tưởng"`).
 
-**2. Top 10 Cơ Hội Giao Dịch (Updated)**
+**2. Top 1x Cơ Hội Giao Dịch**
 
 -   Identify and rank the 10 best tickers for a potential mid-term trade, updating the list from the previous plan.
 -   The selection must be strictly based on the strength, clarity, and confirmation of bullish VPA/Wyckoff patterns (e.g., Sign of Strength, Shakeout, No Supply followed by a confirmed Effort to Rise).
 -   Rank this list by priority, from 1 (highest) to 10.
+-   The previous `PLAN.md` may have the 11th ticker that is manually selected. In that case, we will have 11 tickers.
 
-**3. Phân Tích Chi Tiết Từng Cổ Phiếu (Updated)**
+**3. Phân Tích Chi Tiết Từng Cổ Phiếu**
 
 -   For each of the 10 selected tickers, provide an updated, detailed breakdown using the following Vietnamese template:
 
