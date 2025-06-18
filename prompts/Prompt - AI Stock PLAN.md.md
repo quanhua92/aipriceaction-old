@@ -35,8 +35,9 @@ _Ngày lập kế hoạch: 20xx-xx-xx_
 ---
 
 ### **Ưu tiên [X]: [Tên Cổ Phiếu]**
--   Make sure you have an image to view ticker candle chart (e.g., `![Price Chart for LPB](reports/LPB/LPB_candlestick_chart.png)` )
--   Make sure you have a link to view ticker in REPORT.md (e.g., `[View Report](REPORT.md#LPB)`)
+
+-   Make sure you have a markdown link to view ticker candle chart (e.g., `[Price Chart for LPB](reports/LPB/LPB_candlestick_chart.png)` )
+-   Make sure you have a markdown link to view ticker in REPORT.md (e.g., `[View Report](REPORT.md#LPB)`)
 -   **Phân Tích Cốt Lõi:** Một đoạn văn súc tích giải thích _tại sao_ cổ phiếu này là một lựa chọn hàng đầu. Tổng hợp câu chuyện VPA từ file `VPA.md` và **đối chiếu với dữ liệu giá/khối lượng thô trong `combined.txt`**. Giải thích bối cảnh rộng hơn của xu hướng giá trong nhiều ngày/tuần để xác nhận sức mạnh của tín hiệu. (e.g., `"Sau một giai đoạn tích lũy đi ngang kéo dài nhiều tuần trên khối lượng thấp (kiểm chứng trong combined.txt), cổ phiếu này đã thực hiện một cú Shakeout kinh điển vào ngày [Ngày], theo sau là sự phục hồi mạnh mẽ trên khối lượng lớn (xác nhận trong VPA.md và combined.txt), cho thấy dòng tiền thông minh đã hấp thụ lực bán. Các phiên đi ngang sau đó trên khối lượng cạn kiệt cho thấy áp lực bán không còn đáng kể..."`).
 -   **Vùng Tham Gia Tốt Nhất:** Cung cấp một khoảng giá cụ thể để vào lệnh (e.g., `"18.5 - 19.0"`). Nêu rõ điểm dừng lỗ, chốt lời.
 -   **Lý Do Cho Vùng Tham Gia:** Giải thích rõ ràng logic cho vùng tham gia được đề xuất dựa trên các nguyên tắc VPA (e.g., `"Vùng này đại diện cho một nhịp điều chỉnh rủi ro thấp về lại điểm bứt phá của nền giá trước đó,"` hoặc `"Tham gia sau một phiên kiểm tra cung thành công trên khối lượng thấp tại vùng hỗ trợ được tạo bởi cây nến SOS."`).
