@@ -13,7 +13,14 @@ def extract_ticker_blocks(md_text):
     blocks = {}
     for m in pattern.finditer(md_text):
         header, ticker, body = m.groups()
-        blocks[ticker] = header + body.strip() + '\n'
+        blocks[ticker] = header
+        if body:
+            # Split by ---
+            parts = re.split(r'\n---+\n', body)
+            for part in parts:
+                part = part.strip()
+                if part:
+                    blocks[ticker] += part + '\n'
     return blocks
 
 def extract_new_lines(md_text):
@@ -42,13 +49,13 @@ for ticker, new_parts in vpa_new_lines.items():
     if ticker in vpa_blocks:
         old_block = vpa_blocks[ticker].rstrip('\n')
         for part in new_parts:
-            old_block += '\n---\n' + part.strip()
+            old_block += '\n' + part.strip()
         vpa_blocks[ticker] = old_block + '\n'
     else:
         block = f'# {ticker}\n'
         for i, part in enumerate(new_parts):
             if i > 0:
-                block += '\n---\n'
+                block += '\n'
             block += part.strip()
         vpa_blocks[ticker] = block + '\n'
 
