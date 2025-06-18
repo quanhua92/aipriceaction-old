@@ -21,24 +21,25 @@ _Ngày lập kế hoạch: 2025-06-18_
 
 Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung hạn tiềm năng nhất, được xếp hạng theo mức độ ưu tiên từ cao xuống thấp.
 
-1.  **LPB** (Ngân Hàng)
-2.  **TCB** (Ngân Hàng)
-3.  **VND** (Chứng Khoán)
-4.  **PNJ** (Bán Lẻ)
-5.  **DGC** (Hóa Chất)
-6.  **GVR** (Cao Su)
-7.  **FPT** (Công Nghệ)
-8.  **BSR** (Dầu Khí)
-9.  **CTG** (Ngân Hàng)
-10. **DPM** (Hóa Chất)
-11. **MWG** (Bán Lẻ)
+1.  [**LPB**](REPORT.md#LPB) (Ngân Hàng)
+2.  [**TCB**](REPORT.md#TCB) (Ngân Hàng)
+3.  [**VND**](REPORT.md#VND) (Chứng Khoán)
+4.  [**PNJ**](REPORT.md#PNJ) (Bán Lẻ)
+5.  [**DGC**](REPORT.md#DGC) (Hóa Chất)
+6.  [**GVR**](REPORT.md#GVR) (Cao Su)
+7.  [**FPT**](REPORT.md#FPT) (Công Nghệ)
+8.  [**BSR**](REPORT.md#BSR) (Dầu Khí)
+9.  [**CTG**](REPORT.md#CTG) (Ngân Hàng)
+10. [**DPM**](REPORT.md#DPM) (Hóa Chất)
+11. [**MWG**](REPORT.md#MWG) (Bán Lẻ)
 
 **3. Phân Tích Chi Tiết Từng Cổ Phiếu**
 
 ---
 
 ### **Ưu tiên 1: LPB**
-
+![Price Chart for LPB](reports/LPB/LPB_candlestick_chart.png)
+-   [View Report](REPORT.md#LPB)
 -   **Phân Tích Cốt Lõi:** Cổ phiếu này đã thể hiện một chuỗi hành động giá kinh điển theo Wyckoff, cho thấy một quá trình tích lũy sắp hoàn tất. Sau một nhịp điều chỉnh, phiên **No Supply (Không có Nguồn Cung)** ngày 2025-06-11 với khối lượng cạn kiệt (chỉ 1.24 triệu đơn vị, mức thấp nhất trong nhiều tuần) cho thấy lực bán đã vắng mặt. Tiếp theo, phiên **Test for Supply (Kiểm tra Nguồn cung)** ngày 2025-06-13 xác nhận rằng nguồn cung còn lại không đáng kể khi giá không giảm dù khối lượng tăng. Cuối cùng, phiên **Sign of Strength (SOS)** ngày 2025-06-17 với giá tăng vọt trên khối lượng lớn là sự xác nhận cuối cùng, cho thấy "dòng tiền thông minh" đã quay trở lại và sẵn sàng cho một xu hướng tăng giá trung hạn.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `31.7 - 32.2`
@@ -49,7 +50,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 2: TCB**
-
+![Price Chart for TCB](reports/TCB/TCB_candlestick_chart.png)
+-   [View Report](REPORT.md#TCB)
 -   **Phân Tích Cốt Lõi:** TCB cho thấy các dấu hiệu rõ ràng của việc cạn kiệt nguồn cung trước khi bứt phá. Đối chiếu với dữ liệu `combined.txt`, sau nhịp giảm về 30.3 ngày 06/06, tín hiệu **No Supply (Không có Nguồn Cung)** điển hình xuất hiện vào ngày 2025-06-11, khi giá đi ngang trên khối lượng giao dịch rất thấp (6.1 triệu đơn vị, mức thấp nhất trong nhiều tuần). Ngay sau đó, phiên **Sign of Strength (SOS)** ngày 2025-06-16 đã xác nhận điều này, khi phe mua dễ dàng quay trở lại và đẩy giá lên mạnh mẽ với khối lượng cao (23.1 triệu đơn vị). Phiên đi ngang củng cố ngày 17/06 cho thấy sự hấp thụ cung lành mạnh.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `31.2 - 32.0`
@@ -60,7 +62,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 3: VND**
-
+![Price Chart for VND](reports/VND/VND_candlestick_chart.png)
+-   [View Report](REPORT.md#VND)
 -   **Phân Tích Cốt Lõi:** VND đã thực hiện một cú **Shakeout (Rũ bỏ)** kinh điển. Phiên giảm mạnh **Sign of Weakness (SOW)** ngày 2025-06-13 với khối lượng tăng vọt (31 triệu đơn vị) đã rũ bỏ những nhà đầu tư yếu vía. Ngay sau đó, phiên 2025-06-16 đã tăng vọt trở lại 16.8, tạo một cây nến tăng bao trùm hoàn toàn nến giảm hôm trước. Hành động này, được xác thực bằng dữ liệu trong `combined.txt`, cho thấy "dòng tiền thông minh" đã nhanh chóng mua vào, hấp thụ hết lực bán và lấy lại quyền kiểm soát. Đây là một tín hiệu rất tích cực, thường bắt đầu một xu hướng tăng mạnh.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `16.2 - 16.7`
@@ -71,7 +74,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 4: PNJ**
-
+![Price Chart for PNJ](reports/PNJ/PNJ_candlestick_chart.png)
+-   [View Report](REPORT.md#PNJ)
 -   **Phân Tích Cốt Lõi:** PNJ đang ở trong một kịch bản có rủi ro thấp. Sau khi phe mua thể hiện sức mạnh áp đảo qua phiên **Sign of Strength (SOS)** ngày 2025-06-16 với giá tăng vọt lên 82.0 trên khối lượng tăng mạnh (1.58 triệu đơn vị), cổ phiếu đã có một phiên điều chỉnh vào ngày 2025-06-17. Kiểm tra `combined.txt`, phiên điều chỉnh này diễn ra với khối lượng RẤT THẤP (485.3k đơn vị), cho thấy đây là một tín hiệu **Test for Supply (Kiểm tra Nguồn cung)** lý tưởng, xác nhận áp lực bán chốt lời không đáng kể.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `79.5 - 81.0`
@@ -82,7 +86,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 5: DGC**
-
+![Price Chart for DGC](reports/DGC/DGC_candlestick_chart.png)
+-   [View Report](REPORT.md#DGC)
 -   **Phân Tích Cốt Lõi:** DGC đã có một màn trình diễn sức mạnh ấn tượng. Sau một giai đoạn tích lũy, cổ phiếu có phiên bùng nổ **Sign of Strength (SOS)** ngày 2025-06-16, tăng vọt từ 92.7 lên 98.0 với khối lượng đột biến (4.96 triệu đơn vị), xác nhận dòng tiền lớn tham gia. Quan trọng hơn, phiên tiếp theo (17/06) là một phiên **Test for Supply** hoàn hảo khi giá đi ngang trên khối lượng giảm mạnh còn 2.37 triệu đơn vị. Chuỗi hành động này, đối chiếu với dữ liệu thô, cho thấy lực bán đã được hấp thụ hết và phe mua đang kiểm soát hoàn toàn.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `96.5 - 98.0`
@@ -93,7 +98,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 6: GVR**
-
+![Price Chart for GVR](reports/GVR/GVR_candlestick_chart.png)
+-   [View Report](REPORT.md#GVR)
 -   **Phân Tích Cốt Lõi:** GVR đã hình thành một mẫu hình **Shakeout (Rũ bỏ)** rất đáng chú ý. Tín hiệu **Sign of Weakness** xuất hiện ngày 13/06 khi giá giảm mạnh với khối lượng lớn. Tuy nhiên, thay vì tiếp tục giảm, giá đã tăng vọt trở lại vào ngày 17/06, đóng cửa ở mức cao nhất phiên trên khối lượng lớn. Đối chiếu với dữ liệu `combined.txt` trong nhiều ngày, hành động này đã phủ nhận hoàn toàn tín hiệu yếu kém trước đó, cho thấy lực cầu mạnh đã bất ngờ quay lại hấp thụ hết lượng cung và loại bỏ các nhà giao dịch yếu tâm lý.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `28.0 - 28.8`
@@ -104,7 +110,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 7: FPT**
-
+![Price Chart for FPT](reports/FPT/FPT_candlestick_chart.png)
+-   [View Report](REPORT.md#FPT)
 -   **Phân Tích Cốt Lõi:** FPT đã xác nhận sức mạnh vượt trội khi có phiên **Sign of Strength (SOS)** ngày 2025-06-16, phá vỡ lên một tầm cao mới tại 119.0 với khối lượng bùng nổ (8 triệu đơn vị), phủ nhận các tín hiệu yếu trong nhịp điều chỉnh trước đó. Ngay sau phiên bùng nổ, cổ phiếu đã có một phiên đi ngang tích lũy ngày 2025-06-17 với biên độ hẹp và khối lượng giảm mạnh (4.6 triệu đơn vị). Hành động giá này, khi kiểm tra trên `combined.txt`, là một kịch bản tích lũy lại rất lành mạnh, cho thấy áp lực bán chốt lời không đáng kể và phe mua đang củng cố vị thế.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `116.0 - 118.0`
@@ -115,7 +122,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 8: BSR**
-
+![Price Chart for BSR](reports/BSR/BSR_candlestick_chart.png)
+-   [View Report](REPORT.md#BSR)
 -   **Phân Tích Cốt Lõi:** BSR cho thấy sức mạnh cực kỳ thuyết phục với hai phiên tăng giá liên tiếp. Phiên 13/06 là một **Sign of Strength (SOS)** với khối lượng bùng nổ cao nhất trong nhiều tháng (11 triệu đơn vị), phá vỡ nền giá tích lũy. Sức mạnh này tiếp tục được xác nhận ở phiên 16/06 khi giá tăng vọt lên 19.5 trên khối lượng rất cao. Phiên điều chỉnh giảm ngày 17/06 diễn ra với khối lượng thấp hơn hai phiên tăng trước đó, cho thấy đây là một nhịp chốt lời bình thường và lành mạnh trong một xu hướng tăng mạnh.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `18.5 - 19.0`
@@ -126,7 +134,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 9: CTG**
-
+![Price Chart for CTG](reports/CTG/CTG_candlestick_chart.png)
+-   [View Report](REPORT.md#CTG)
 -   **Phân Tích Cốt Lõi:** CTG là một cổ phiếu ngân hàng khác thể hiện sức mạnh vượt trội. Phiên 2025-06-13 là một **Sign of Strength (SOS)** điển hình với giá tăng vọt trên khối lượng giao dịch bùng nổ, cao nhất trong nhiều tháng (23.8 triệu đơn vị). Các phiên sau đó cho thấy sự xác nhận khi giá tiếp tục duy trì ở vùng cao, đi kèm khối lượng tốt. Việc giá đi ngang trong hai phiên gần nhất trên khối lượng cao cho thấy phe mua vẫn đang kiểm soát thị trường và đang trong giai đoạn hấp thụ cung sau phiên bùng nổ.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `39.5 - 40.0`
@@ -137,7 +146,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 10: DPM**
-
+![Price Chart for DPM](reports/DPM/DPM_candlestick_chart.png)
+-   [View Report](REPORT.md#DPM)
 -   **Phân Tích Cốt Lõi:** Sức mạnh của DPM được thể hiện rõ ràng và tuần tự. Sau một phiên **Test for Supply** thành công vào ngày 16/06 khi giá tăng nhẹ trên khối lượng giảm, cổ phiếu đã có một phiên **Sign of Strength (SOS)** vào ngày 17/06. Giá tăng dứt khoát từ 36.5 lên 38.35 với biên độ rất rộng và đóng cửa ở mức cao nhất, đi kèm khối lượng bùng nổ (11.4 triệu cổ phiếu). Chuỗi hành động này, khi đối chiếu với dữ liệu thô, cho thấy lực mua đang áp đảo hoàn toàn và xu hướng tăng vừa được xác nhận.
 -   **Vùng Tham Gia Tốt Nhất:**
     -   **Vùng Mua:** `37.0 - 38.0`
@@ -148,7 +158,8 @@ Dựa trên phân tích VPA, dưới đây là 11 cơ hội giao dịch trung h�
 ---
 
 ### **Ưu tiên 11: MWG**
-
+![Price Chart for MWG](reports/MWG/MWG_candlestick_chart.png)
+-   [View Report](REPORT.md#MWG)
 -   **Phân Tích Cốt Lõi:** MWG đang thể hiện một trong những kịch bản tăng giá kinh điển và đáng tin cậy nhất theo Wyckoff.
 
     -   Bắt đầu với phiên giao dịch ngày 2025-06-02, cổ phiếu đã có một cú **Shakeout (Rũ bỏ)** khi giá giảm mạnh xuống mức thấp 60.0 nhưng phục hồi ấn tượng để đóng cửa ở 61.0 với khối lượng giao dịch rất lớn (14.3 triệu đơn vị). Điều này cho thấy một lực cầu mạnh đã tham gia và hấp thụ hoàn toàn lực bán hoảng loạn.
