@@ -5,6 +5,7 @@ import pandas as pd
 import mplfinance as mpf
 import re
 import json
+import argparse
 from collections import defaultdict
 from datetime import datetime
 from vnstock import Vnstock
@@ -18,10 +19,6 @@ except FileNotFoundError:
     print("TICKERS.csv not found. Using default list.")
     TICKERS_TO_DOWNLOAD = ["VNINDEX", "TCB", "FPT"]
 
-
-# Define the start and end dates for the data you want to download.
-START_DATE = "2025-01-02"
-END_DATE = datetime.now().strftime('%Y-%m-%d')
 
 # Define the names for your data and report directories.
 DATA_DIR = "market_data"
@@ -214,7 +211,7 @@ def get_latest_vpa_signal(analysis_text: str) -> str | None:
     # After checking all possible signals, return the last one that was found.
     return found_signal
 
-def generate_candlestick_report(df, ticker):
+def generate_candlestick_report(df, ticker, start_date, end_date):
     """
     Generates and saves a candlestick chart with volume.
     Returns the path to the saved image.
@@ -239,8 +236,6 @@ def generate_candlestick_report(df, ticker):
     plot_df.set_index('Date', inplace=True)
 
     # Define a custom style for the chart
-    # style = 'charles'
-    # style = 'classic'
     style = 'yahoo'
 
     # Create and save the plot
@@ -248,7 +243,7 @@ def generate_candlestick_report(df, ticker):
         plot_df,
         type='candle',
         style=style,
-        title=f"{ticker} from {START_DATE} to {END_DATE}",
+        title=f"{ticker} from {start_date} to {end_date}",
         ylabel='Price (VND)',
         volume=True,
         ylabel_lower='Volume',
@@ -260,7 +255,7 @@ def generate_candlestick_report(df, ticker):
     print(f"   - Report saved to: {output_file}")
     return output_file
 
-def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_group_map):
+def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_group_map, start_date, end_date):
     """
     Generates an improved master REPORT.md file with a Table of Contents and deep links.
     This file is overwritten on each run.
@@ -283,7 +278,7 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
     with open(MASTER_REPORT_FILENAME, 'w', encoding='utf-8') as f:
         # --- Main Header ---
         f.write("# AIPriceAction Market Report\n")
-        f.write(f"*Report generated for data from **{START_DATE}** to **{END_DATE}**.*\n")
+        f.write(f"*Report generated for data from **{start_date}** to **{end_date}**.*\n")
         f.write(f"*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n\n")
         # --- START: Add invitation to view Trading Plan ---
         f.write("---\n\n")
@@ -434,7 +429,28 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
 
 def main():
     """Main function to orchestrate the data download and report generation."""
+    # --- Argument Parsing ---
+    parser = argparse.ArgumentParser(description="AIPriceAction Data Pipeline")
+    parser.add_argument(
+        '--start-date',
+        default="2025-01-02",
+        type=str,
+        help="The start date for data download in 'YYYY-MM-DD' format."
+    )
+    parser.add_argument(
+        '--end-date',
+        default=datetime.now().strftime('%Y-%m-%d'),
+        type=str,
+        help="The end date for data download in 'YYYY-MM-DD' format."
+    )
+    args = parser.parse_args()
+
+    # Use the parsed arguments
+    START_DATE = args.start_date
+    END_DATE = args.end_date
+
     print("--- AIPriceAction Data Pipeline: START ---")
+    print(f"--- Using data period: {START_DATE} to {END_DATE} ---")
     
     setup_directories()
     vpa_analyses = parse_vpa_analysis(VPA_ANALYSIS_FILENAME)
@@ -464,7 +480,7 @@ def main():
         
         if stock_df is not None and not stock_df.empty:
             csv_path = save_data_to_csv(stock_df, ticker, START_DATE, END_DATE)
-            chart_path = generate_candlestick_report(stock_df, ticker)
+            chart_path = generate_candlestick_report(stock_df, ticker, START_DATE, END_DATE)
             
             # Calculate additional stats for the report
             period_open = stock_df['open'].iloc[0]
@@ -490,7 +506,7 @@ def main():
             
     # Generate the final master markdown report if any data was processed
     if master_report_data:
-        generate_master_report(master_report_data, vpa_analyses, ticker_groups, ticker_to_group_map)
+        generate_master_report(master_report_data, vpa_analyses, ticker_groups, ticker_to_group_map, START_DATE, END_DATE)
             
     print("\n--- AIPriceAction Data Pipeline: FINISHED ---")
 
