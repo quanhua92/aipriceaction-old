@@ -33,7 +33,7 @@ Your task is to **update and rewrite** the `PLAN.md` file in **Vietnamese**. The
 -----
 
 **1. Phân Tích Trạng Thái VNINDEX & Chiến Lược**
-  - Make sure you have a markdown link to view ticker candle chart (e.g., `[Price Chart for VNINDEX](reports/VNINDEX/VNINDEX_candlestick_chart.png)` )
+  - **MAKE SURE** you have a markdown link to view ticker candle chart (e.g., `[Price Chart for VNINDEX](reports/VNINDEX/VNINDEX_candlestick_chart.png)` )
   - Provide a concise, updated summary of the current state of the VNINDEX, synthesizing the multi-day VPA story to determine the overall market trend (e.g., `"đang trong giai đoạn Tái Tích Lũy Ngắn Hạn sau khi bứt phá," "giai đoạn phân phối," "kiểm tra lại hỗ trợ"`).
   - Define a specific **"Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng"** for the market. This should be a clear price range for the VNINDEX, justified by referencing key support/resistance levels and VPA principles (e.g., `"Một nhịp điều chỉnh về kiểm tra lại vùng kháng cự cũ 1330-1350 trên khối lượng thấp sẽ là một điểm vào lý tưởng, xác nhận quá trình tái tích lũy thành công"`).
 
@@ -41,13 +41,16 @@ Your task is to **update and rewrite** the `PLAN.md` file in **Vietnamese**. The
 
   - Identify and rank the 10 best tickers for a potential mid-term trade, updating the list from the previous plan.
   - The selection must be strictly based on the **strength, clarity, and completeness of the bullish VPA/Wyckoff campaign**, not just a single signal. Prioritize stocks with clear, textbook patterns (e.g., a full sequence of Accumulation -\> Shakeout -\> SOS -\> successful Test).
-  - Rank this list by priority, from 1 (highest) to 10.
+  - Rank this list by priority, from 1 (highest) to 10. Add a success rate number from 0-> 100% to show how you confidence about this ticker.
   - The previous `PLAN.md` may have the 11th ticker that is manually selected. In that case, we will have 11 tickers.
   - Make sure you have a link to view ticker in this PLAN.md (e.g., `[**LPB**](#LPB) (Ngân Hàng)`)
+  - This list should be stable and should not be changed significantly unless you see the confirmation for multiple days of other potential tickers. For example, if a ticker is top 1 then it should not be removed completely after one day signal. If a ticker has new signal only for 1-2 days then it should be in the lower tier of this list. However, a **bold** warning text is necessary to get the reader attention to the recent signals.
 
 **3. Danh Sách Cổ Phiếu Bị Hạ Ưu Tiên (Chờ Loại Bỏ)**
 
-  - This new section must be added. Its purpose is to transparently track stocks that were previously in the Top 1x list but are now showing signs of weakness.
+  - This section has some existing downgraded tickers. Its purpose is to transparently track stocks that were previously in the Top 1x list but are now showing signs of weakness.
+  - You must cross check to see if the ticker was actually in the previous TOP list before adding here. DO NOT make mistakes and move an unknown ticker here.
+  - You must keep the downgraded tickers until it has significant reason to move back to Top list or completely remove. You can also move tickers from Top list to this downgrade tickers list. You must wait and confirm the reason before actually change tickers from/to this list.
   - Structure this section as follows, using Vietnamese headings and pulling examples directly from the latest `PLAN.md`:
       - List the downgraded tickers. For each, include the date it was moved and a clear, narrative-based reason for the downgrade.
       - e.g.,
@@ -62,8 +65,9 @@ Your task is to **update and rewrite** the `PLAN.md` file in **Vietnamese**. The
 
 ### **[Tên Cổ Phiếu]**
 
-  - Make sure you have a markdown link to view ticker candle chart (e.g., `[Price Chart for LPB](reports/LPB/LPB_candlestick_chart.png)` )
-  - Make sure you have a markdown link to view ticker in REPORT.md (e.g., `[View Report](REPORT.md#LPB)`)
+  - **MAKE SURE** you have a markdown link to view ticker candle chart (e.g., `[Price Chart for LPB](reports/LPB/LPB_candlestick_chart.png)` )
+  - **MAKE SURE** you have a markdown link to view ticker in REPORT.md (e.g., `[View Report](REPORT.md#LPB)`)
+  - Never hide information like this: "Phân tích chi tiết cho các cổ phiếu còn lại từ \#5 đến \#11 sẽ theo cấu trúc tương tự"
   - **Phân Tích Cốt Lõi:** Một đoạn văn súc tích giải thích *tại sao* cổ phiếu này là một lựa chọn hàng đầu bằng cách **kể lại câu chuyện VPA/Wyckoff** của nó. Tổng hợp chuỗi tín hiệu từ file `VPA.md` và **đối chiếu với dữ liệu giá/khối lượng thô trong `market_data.txt`**. Giải thích bối cảnh rộng hơn và chuỗi sự kiện để xác nhận sức mạnh của kịch bản. (e.g., `"TCB đang kể một câu chuyện VPA/Wyckoff hoàn hảo nhất trên thị trường hiện tại. 'Kịch bản' diễn ra như sau: (1) Giai đoạn tích lũy kéo dài với các tín hiệu No Supply (cạn cung) xuất hiện vào ngày 11/06 (xác nhận trên market_data.txt với khối lượng cạn kiệt). (2) Một phiên SOS bùng nổ vào ngày 19/06 để phá vỡ nền giá, xác nhận dòng tiền lớn đã nhập cuộc. (3) Một phiên Test for Supply kinh điển vào ngày 20/06, khi giá đi ngang trên khối lượng thấp hơn đáng kể. Chuỗi sự kiện này cho thấy một quá trình tích lũy và kiểm tra cung-cầu bài bản, tạo ra một thiết lập mua có độ tin cậy và rủi ro thấp rất cao."`).
   - **Vùng Tham Gia Tốt Nhất:** Cung cấp một khoảng giá cụ thể để vào lệnh (e.g., `"33.5 - 34.0"`). Nêu rõ điểm dừng lỗ, chốt lời.
   - **Lý Do Cho Vùng Tham Gia:** Giải thích rõ ràng logic cho vùng tham gia được đề xuất dựa trên các nguyên tắc VPA (e.g., `"Tham gia tại điểm 'Backing Up to the Edge of the Creek' theo Wyckoff. Đây là điểm vào ngay sau khi quá trình kiểm tra cung được xác nhận là thành công, mang lại rủi ro thấp nhất trước khi giá bước vào giai đoạn tăng tốc."`).
