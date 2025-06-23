@@ -381,8 +381,8 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
                     # This splits before "-   **Ngày" without consuming the delimiter.
                     daily_entries = re.split(r'\n(?=-   \*\*Ngày)', full_analysis_text)
 
-                    # 3. Get the last 4 daily entries for the summary
-                    limited_entries = daily_entries[-4:]
+                    # 3. Get the last 10 daily entries for the summary
+                    limited_entries = daily_entries[-10:]
 
                     # 4. Join the limited entries back into a single text block
                     limited_analysis_text = "\n".join(limited_entries)
