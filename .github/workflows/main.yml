@@ -73,7 +73,28 @@ jobs:
 
           echo "All market data files have been combined into $output_file"
 
-      # Step 7: Commit and push the updated report, data, and charts to the repository.
+      # Step 7: Combine only the last 40 lines of each market data file.
+      - name: Combine last 40 lines of market data
+        run: |
+          cd market_data
+          tail_output_file="market_data_40_days.txt"
+
+          if [ -f "$tail_output_file" ]; then
+              rm "$tail_output_file"
+          fi
+
+          for file in *; do
+              if [ -f "$file" ] && [ "$file" != "$tail_output_file" ]; then
+                  full_path=$(pwd)/"$file"
+                  echo "// $full_path" >> "$tail_output_file"
+                  tail -n 40 "$file" >> "$tail_output_file"
+                  echo "" >> "$tail_output_file"
+              fi
+          done
+
+          echo "Last 40 lines of each file have been combined into $tail_output_file"
+
+      # Step 8: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
