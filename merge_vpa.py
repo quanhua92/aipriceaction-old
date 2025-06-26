@@ -49,14 +49,20 @@ for ticker, new_parts in vpa_new_lines.items():
     if ticker in vpa_blocks:
         old_block = vpa_blocks[ticker].rstrip('\n')
         for part in new_parts:
-            old_block += '\n' + part.strip()
+            content = part.strip()
+            if not content.endswith('---'):
+                content += '\n---\n'
+            old_block += '\n' + content
         vpa_blocks[ticker] = old_block + '\n'
     else:
         block = f'# {ticker}\n'
         for i, part in enumerate(new_parts):
             if i > 0:
                 block += '\n'
-            block += part.strip()
+            content = part.strip()
+            if not content.endswith('---'):
+                content += '\n---\n'
+            block += content
         vpa_blocks[ticker] = block + '\n'
 
 # Sort tickers by name
