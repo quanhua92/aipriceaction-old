@@ -7,9 +7,9 @@ on:
   # Sets up a scheduled run
   schedule:
     - cron: "30 4 * * *"
-    # Runs at 7:45 UTC, which is 2:45 PM in Vietnam (ICT), after the market closes.
+    # Runs at 8:00 UTC, which is 3:00 PM in Vietnam (ICT), after the market closes.
     # Format is: Minute Hour Day(month) Month Day(week)
-    - cron: "45 7 * * *"
+    - cron: "0 8 * * *"
 
 # Grant write permissions to the GITHUB_TOKEN to allow the workflow to commit and push changes.
 permissions:
