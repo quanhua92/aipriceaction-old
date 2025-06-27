@@ -55,7 +55,7 @@ jobs:
       - name: Combine market data
         run: |
           cd market_data
-          output_file="market_data.txt"
+          output_file="market_data_full.txt"
 
           if [ -f "$output_file" ]; then
               rm "$output_file"
@@ -77,7 +77,7 @@ jobs:
       - name: Combine last 40 lines of market data
         run: |
           cd market_data
-          tail_output_file="market_data_40_days.txt"
+          tail_output_file="market_data.txt"
 
           if [ -f "$tail_output_file" ]; then
               rm "$tail_output_file"
