@@ -65,16 +65,18 @@ Dựa trên phân tích "câu chuyện" VPA của từng cổ phiếu, dưới �
 
 Đây là các cổ phiếu đã từng nằm trong danh sách ưu tiên nhưng hiện tại đang có những tín hiệu VPA suy yếu hoặc có câu chuyện kém hấp dẫn hơn so với các cổ phiếu trong Top 1x.
 
+  - [**HDG**](REPORT.md#HDG) (Năng Lượng) - (Chuyển vào ngày: 2025-06-26) - (Độ tin cậy giữ nguyên lý do: 70%)
+      - **Lý do:** Xuất hiện tín hiệu **Effort to Fall** nhẹ trong phiên 26/06 (giá giảm trên khối lượng gia tăng nhẹ), cho thấy áp lực bán đang quay trở lại và sự do dự sau các nỗ lực tăng giá. Điều này làm suy yếu câu chuyện tăng giá liền mạch.
   - [**MWG**](REPORT.md#MWG) (Bán Lẻ) - (Chuyển vào ngày: 2025-06-24) - (Độ tin cậy giữ nguyên lý do: 60%)
-      - **Lý do:** Nỗ lực phục hồi chững lại. Phiên 26/06 là một **Test for Supply** sau giai đoạn giằng co, áp lực bán không mạnh nhưng lực cầu cũng chưa thể hiện sự vượt trội.
+      - **Cập nhật:** Phiên 26/06 là một **Test for Supply** bình thường sau giai đoạn giằng co. Câu chuyện vẫn chưa có sự cải thiện rõ rệt, lực cầu chưa thể hiện sự vượt trội.
   - [**LPB**](REPORT.md#LPB) (Ngân Hàng) - (Chuyển vào ngày: 2025-06-24) - (Độ tin cậy giữ nguyên lý do: 75%)
-      - **Lý do:** Câu chuyện tăng giá bị suy yếu. Phiên 26/06 tiếp tục là **No Demand/No Supply**, thị trường thiếu động lực.
-  - [**BSR**](REPORT.md#BSR) (Chuyển vào ngày: 2025-06-20) - (Độ tin cậy giữ nguyên lý do: 85%)
-      - **Cập nhật:** Tín hiệu **No Demand** ngày 26/06 trên khối lượng rất thấp càng củng cố sự yếu kém của lực cầu.
+      - **Cập nhật:** Phiên 26/06 tiếp tục là **No Demand/No Supply**, thị trường thiếu động lực. Câu chuyện tăng giá sau SOS ngày 17/06 đã hoàn toàn suy yếu.
+  - [**BSR**](REPORT.md#BSR) (Dầu Khí) - (Chuyển vào ngày: 2025-06-20) - (Độ tin cậy giữ nguyên lý do: 85%)
+      - **Cập nhật:** Tín hiệu **No Demand** ngày 26/06 trên khối lượng rất thấp càng củng cố sự yếu kém của lực cầu sau tín hiệu Effort to Fall trước đó.
   - [**DPM**](REPORT.md#DPM) (Hoá Chất) - (Chuyển vào ngày: 2025-06-20) - (Độ tin cậy giữ nguyên lý do: 80%)
       - **Cập nhật:** Phiên tăng giá ngày 26/06 trên khối lượng thấp là một tín hiệu **No Demand**, cho thấy lực cầu chưa quay trở lại thuyết phục sau chuỗi ngày tiêu cực.
   - [**STB**](REPORT.md#STB) (Ngân Hàng) - (Chuyển vào ngày: 2025-06-23) - (Độ tin cậy giữ nguyên lý do: 70%)
-      - **Cập nhật:** Phiên 26/06 là một **Effort to Fall** nhẹ khi giá giảm trong phiên trên khối lượng tăng, áp lực bán vẫn còn.
+      - **Cập nhật:** Phiên 26/06 là một **Effort to Fall** nhẹ khi giá giảm trong phiên trên khối lượng tăng, áp lực bán vẫn còn hiện hữu.
   - [**DGC**](REPORT.md#DGC) (Hoá Chất) - (Chuyển vào ngày: 2025-06-23) - (Độ tin cậy giữ nguyên lý do: 75%)
       - **Cập nhật:** Phiên giảm điểm ngày 26/06 sau nỗ lực tăng yếu ớt xác nhận **No Demand**, thị trường vẫn yếu.
   - [**FPT**](REPORT.md#FPT) (Công nghệ) -  (Chuyển vào ngày: 2025-06-20) - (Độ tin cậy giữ nguyên lý do: 80%)
@@ -180,7 +182,7 @@ Dựa trên phân tích "câu chuyện" VPA của từng cổ phiếu, dưới �
       - Không có cổ phiếu nào được nâng từ `Potential List` lên `Top List` trong kỳ này.
 
   - **Cổ Phiếu Được Thêm Vào "Potential List":**
-      - **Thêm `VHC` vào Potential List:** Cổ phiếu được chuyển từ `Downgraded List`. Lý do: Xuất hiện tín hiệu **Sign of Strength (SOS)** mạnh mẽ vào ngày 26/06, xác nhận cho tín hiệu SOS trước đó (20/06) và cho thấy lực mua đã quay trở lại một cách áp đảo sau giai đoạn tích lũy, đáp ứng điều kiện #3A của giao thức. (Điểm tự tin cho việc thăng hạng: 95%)
+      - **Thêm `VHC` vào Potential List:** Cổ phiếu được chuyển từ `Downgraded List`. Lý do: Xuất hiện tín hiệu **Sign of Strength (SOS)** mạnh mẽ vào ngày 26/06, xác nhận cho tín hiệu SOS trước đó (20/06) và giai đoạn tích lũy thành công, đáp ứng điều kiện #3A của giao thức. (Điểm tự tin cho việc thăng hạng: 95%)
       - **Thêm `KBC` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted` (không có trong các danh sách ưu tiên trước đó). Lý do: Phiên **Effort to Rise** mạnh mẽ ngày 26/06 trên khối lượng lớn, xác nhận chuỗi các phiên kiểm tra cung thành công và câu chuyện phục hồi mạnh mẽ, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 90%)
       - **Thêm `VCG` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted`. Lý do: Phiên **Effort to Rise** ngày 26/06 với khối lượng gia tăng, tiếp nối chuỗi các nỗ lực tăng giá và kiểm tra cung thành công, cho thấy lực cầu đang chiếm ưu thế, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 90%)
       - **Thêm `ANV` vào Potential List:** Cổ phiếu được chuyển từ `Downgraded List`. Lý do: Phiên **Effort to Rise** rất mạnh mẽ ngày 26/06 đã phủ nhận các dấu hiệu yếu kém trước đó và xác nhận các phiên kiểm tra cung thành công, lực cầu quay lại quyết đoán, đáp ứng điều kiện #3A của giao thức. (Điểm tự tin cho việc thăng hạng: 90%)
