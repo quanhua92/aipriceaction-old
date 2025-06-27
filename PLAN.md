@@ -9,6 +9,8 @@
 
 **➡️ [Click here to view the latest market report](REPORT.md)**
 
+**🎢 [Click here to view the latest market leaders](LEADER.md)**
+
 -----
 
 **1. Phân Tích Trạng Thái VNINDEX & Chiến Lược**
