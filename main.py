@@ -284,6 +284,7 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
         f.write("---\n\n")
         f.write("## 🎯 View the Trading Plan\n\n")
         f.write("**➡️ [Click here to view the trading plan](PLAN.md)**\n\n")
+        f.write("**🎢 [Click here to view the latest market leaders](LEADER.md)**\n\n")
         f.write("---\n\n")
         # --- END: Add invitation ---
 
