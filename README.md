@@ -23,6 +23,31 @@ Based on the latest analysis, the **`PLAN.md`** file outlines potential trading 
 **➡️ [Click here to view the trading plan](PLAN.md)**
 
 ---
+## Analysis Sources
+
+1. **Daily Analysis Sources:** *
+
+* **`REPORT.md`**: For the most recent daily signals and price/volume activity (last 10 days).
+
+* **`VPA.md`**: For the detailed, multi-session daily VPA narrative of each ticker. 
+
+* **`market_data.txt`**: For the raw daily price, volume, and OHLC data (last 40 days) used to verify daily signals. 
+
+2. **Weekly Analysis Sources:** *
+
+* **`REPORT_week.md`**: For the most recent weekly signals, providing a strategic, big-picture view.
+
+* **`VPA_week.md`**: For the broader historical context and the multi-week VPA narrative.
+
+* **`market_data_week.txt`**: For the raw weekly OHLC data (last 40 weeks) to verify long-term signals. 
+
+
+3. **Contextual & Grouping Sources:**
+
+* **`LEADER.md`**: For assessing the **industry context** based on weekly analysis. You must use this to determine if a ticker is in a strong (`Dẫn dắt Đồng Thuận`), weakening, or weak (`Yếu/Phân Phối`) industry group.
+
+* **`GROUP.md`**: The definitive source for mapping individual tickers to their respective industry groups.
+
 
 ## Key Features
 
