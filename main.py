@@ -46,6 +46,7 @@ def setup_directories():
 def download_stock_data(ticker, start_date, end_date, interval='1D'):
     """
     Checks for local data first. If not found, downloads historical stock data.
+    The 'time' column will always be converted to datetime objects upon loading/download.
     """
     print(f"\n-> Processing ticker: {ticker} (Interval: {interval})")
     
@@ -56,13 +57,9 @@ def download_stock_data(ticker, start_date, end_date, interval='1D'):
     if os.path.exists(file_path):
         print(f"   - Found local data. Loading from: {file_path}")
         df = pd.read_csv(file_path)
-        # IMPORTANT FIX: Conditionally parse 'time' column based on interval
-        if interval == '1W':
-            # For weekly data loaded from cache, the 'time' column is a string like "YYYY-MM-DD-YYYY-MM-DD".
-            # We need to extract only the start date for pd.to_datetime to work.
-            df['time'] = df['time'].apply(lambda x: pd.to_datetime(x[:10]))
-        else: # '1D' or any other standard interval
-            df['time'] = pd.to_datetime(df['time'])
+        # Always convert 'time' to datetime objects, regardless of interval.
+        # The CSV is expected to contain standard 'YYYY-MM-DD' strings now.
+        df['time'] = pd.to_datetime(df['time']) 
         return df
     # --- END SMART CACHING ---
 
@@ -99,33 +96,13 @@ def download_stock_data(ticker, start_date, end_date, interval='1D'):
         print(f"   - ERROR: An exception occurred for {ticker}: {e}")
         return None
 
-def reformat_time_column_for_weekly_data(df):
-    """
-    Converts the 'time' column from a single date to a 'Monday-Friday' string range.
-    It correctly finds the Monday and Friday of the week for any given date.
-    This function is used specifically *before saving* weekly data to CSV.
-    """
-    print("   - Reformatting time column for weekly view (Mon-Fri) for CSV export...")
-    
-    def get_week_range(any_date):
-        """Calculates the Monday and Friday for the week of the given date."""
-        # weekday() returns 0 for Monday and 6 for Sunday.
-        days_to_monday = any_date.weekday()
-        monday = any_date - timedelta(days=days_to_monday)
-        friday = monday + timedelta(days=4)
-        return f"{monday.strftime('%Y-%m-%d')}-{friday.strftime('%Y-%m-%d')}"
-
-    # Ensure 'time' is a datetime object before applying transformations
-    # (It should be at this point, coming directly from stock_df)
-    df['time'] = pd.to_datetime(df['time']) 
-    
-    # Apply the robust function to calculate the week range for each row
-    df['time'] = df['time'].apply(get_week_range)
-    return df
+# REMOVED: reformat_time_column_for_weekly_data is no longer needed
+# as the 'time' column will always retain the datetime objects from vnstock.
 
 def save_data_to_csv(df, ticker, start_date, end_date, interval):
     """
     Saves the DataFrame to a CSV file in the main data directory.
+    The 'time' column is saved as is (datetime objects).
     """
     file_name = f"{ticker}_{start_date}_to_{end_date}.csv"
     output_file = os.path.join(DATA_DIR, file_name)
@@ -244,7 +221,8 @@ def generate_candlestick_report(df, ticker, start_date, end_date, interval):
 
     plot_df = df.copy()
     # At this point, plot_df['time'] should already contain valid datetime objects
-    # because download_stock_data has handled the parsing upon loading.
+    # because download_stock_data handles the parsing upon loading.
+    # No extra pd.to_datetime call needed here, but kept for explicitness/safety.
     plot_df['time'] = pd.to_datetime(plot_df['time']) 
     plot_df.rename(columns={
         'time': 'Date', 'open': 'Open', 'high': 'High',
@@ -486,26 +464,20 @@ def main():
 
     for ticker in TICKERS_TO_DOWNLOAD:
         # stock_df received here will always have 'time' as datetime objects
-        # because download_stock_data handles the parsing from cached CSVs.
+        # as download_stock_data handles the parsing from cached CSVs or new downloads.
         stock_df = download_stock_data(ticker, START_DATE, END_DATE, interval=data_interval)
         
         if stock_df is not None and not stock_df.empty:
-            # Generate chart and stats with the original datetime objects (or parsed start-of-week datetimes)
+            # Generate chart and stats with the datetime objects directly.
             chart_path = generate_candlestick_report(stock_df, ticker, START_DATE, END_DATE, data_interval)
             
             period_open = stock_df['open'].iloc[0]
             latest_close = stock_df['close'].iloc[-1]
             change_pct = ((latest_close - period_open) / period_open) * 100 if period_open != 0 else 0
             
-            # Create a copy for CSV export.
-            # IMPORTANT: Reformat 'time' column to date range string ONLY FOR THIS COPY, if in weekly mode.
-            df_for_csv = stock_df.copy()
-            if args.week:
-                # This will convert the 'time' column to 'Mon-Fri' strings for CSV export.
-                # The original 'stock_df' remains with datetime objects for charting/analysis.
-                df_for_csv = reformat_time_column_for_weekly_data(df_for_csv)
-            
-            csv_path = save_data_to_csv(df_for_csv, ticker, START_DATE, END_DATE, data_interval)
+            # Save the DataFrame to CSV directly.
+            # The 'time' column will be saved as the datetime representation provided by vnstock.
+            csv_path = save_data_to_csv(stock_df, ticker, START_DATE, END_DATE, data_interval)
 
             report_entry = {
                 'ticker': ticker, 'records': len(stock_df),
