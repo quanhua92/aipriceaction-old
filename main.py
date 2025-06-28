@@ -7,7 +7,7 @@ import re
 import json
 import argparse
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
 from vnstock import Vnstock
 
 # --- Configuration ---
@@ -21,6 +21,7 @@ except FileNotFoundError:
 
 
 # Define the names for your data and report directories.
+# These can be modified by the --week flag in main().
 DATA_DIR = "market_data"
 REPORTS_DIR = "reports"
 MASTER_REPORT_FILENAME = "REPORT.md"
@@ -34,6 +35,7 @@ stock_reader = Vnstock().stock(symbol="SSI", source="TCBS")
 def setup_directories():
     """
     Creates the main data and reports directories if they don't already exist.
+    Uses the global DATA_DIR and REPORTS_DIR variables.
     """
     print("Setting up base directories...")
     for directory in [DATA_DIR, REPORTS_DIR]:
@@ -41,30 +43,21 @@ def setup_directories():
             os.makedirs(directory)
             print(f"  - Created directory: {directory}")
 
-def download_stock_data(ticker, start_date, end_date):
+def download_stock_data(ticker, start_date, end_date, interval='1D'):
     """
     Checks for local data first. If not found, downloads historical stock data.
-    
-    Args:
-        ticker (str): The stock symbol or index name.
-        start_date (str): The start date in 'YYYY-MM-DD' format.
-        end_date (str): The end date in 'YYYY-MM-DD' format.
-
-    Returns:
-        pandas.DataFrame: A DataFrame containing the historical data, or None if fails.
     """
-    print(f"\n-> Processing ticker: {ticker}")
+    print(f"\n-> Processing ticker: {ticker} (Interval: {interval})")
     
     # --- SMART CACHING ---
-    # Construct filename based on ticker and date range
     file_name = f"{ticker}_{start_date}_to_{end_date}.csv"
     file_path = os.path.join(DATA_DIR, file_name)
 
-    # Check if the data file already exists
     if os.path.exists(file_path):
         print(f"   - Found local data. Loading from: {file_path}")
-        # Load from CSV, ensuring the 'time' column is parsed as dates
-        df = pd.read_csv(file_path, parse_dates=['time'])
+        df = pd.read_csv(file_path)
+        if interval == '1D':
+             df['time'] = pd.to_datetime(df['time'])
         return df
     # --- END SMART CACHING ---
 
@@ -74,7 +67,7 @@ def download_stock_data(ticker, start_date, end_date):
             symbol=ticker,
             start=start_date,
             end=end_date,
-            interval='1D'
+            interval=interval
         )
         time.sleep(2)
 
@@ -82,11 +75,9 @@ def download_stock_data(ticker, start_date, end_date):
             print(f"   - Success! Downloaded {len(df)} raw records for {ticker}.")
             df['time'] = pd.to_datetime(df['time'])
 
-            # Filter the DataFrame to the exact date range
             mask = (df['time'] >= pd.to_datetime(start_date)) & (df['time'] <= pd.to_datetime(end_date))
             df_filtered = df.loc[mask].copy()
 
-            # Add the 'ticker' column to each row
             df_filtered.insert(0, 'ticker', ticker)
 
             if not df_filtered.empty:
@@ -103,11 +94,32 @@ def download_stock_data(ticker, start_date, end_date):
         print(f"   - ERROR: An exception occurred for {ticker}: {e}")
         return None
 
-def save_data_to_csv(df, ticker, start_date, end_date):
+def reformat_time_column_for_weekly_data(df):
+    """
+    Converts the 'time' column from a single date to a 'Monday-Friday' string range.
+    It correctly finds the Monday and Friday of the week for any given date.
+    """
+    print("   - Reformatting time column for weekly view (Mon-Fri)...")
+    
+    def get_week_range(any_date):
+        """Calculates the Monday and Friday for the week of the given date."""
+        # weekday() returns 0 for Monday and 6 for Sunday.
+        days_to_monday = any_date.weekday()
+        monday = any_date - timedelta(days=days_to_monday)
+        friday = monday + timedelta(days=4)
+        return f"{monday.strftime('%Y-%m-%d')}-{friday.strftime('%Y-%m-%d')}"
+
+    # Ensure 'time' is a datetime object before applying transformations
+    df['time'] = pd.to_datetime(df['time'])
+    
+    # Apply the robust function to calculate the week range for each row
+    df['time'] = df['time'].apply(get_week_range)
+    return df
+
+def save_data_to_csv(df, ticker, start_date, end_date, interval):
     """
     Saves the DataFrame to a CSV file in the main data directory.
     """
-    # Construct filename with date range
     file_name = f"{ticker}_{start_date}_to_{end_date}.csv"
     output_file = os.path.join(DATA_DIR, file_name)
     
@@ -127,7 +139,7 @@ def parse_vpa_analysis(file_path):
     """
     print(f"\n-> Reading VPA analysis from: {file_path}")
     if not os.path.exists(file_path):
-        print("   - VPA.md not found. Skipping analysis section.")
+        print(f"   - {os.path.basename(file_path)} not found. Skipping analysis section.")
         return {}
 
     analyses = {}
@@ -159,6 +171,7 @@ def parse_vpa_analysis(file_path):
         
     print(f"   - Found analysis for {len(analyses)} tickers.")
     return analyses
+
 
 def get_latest_vpa_signal(analysis_text: str) -> str | None:
     """
@@ -211,10 +224,10 @@ def get_latest_vpa_signal(analysis_text: str) -> str | None:
     # After checking all possible signals, return the last one that was found.
     return found_signal
 
-def generate_candlestick_report(df, ticker, start_date, end_date):
+
+def generate_candlestick_report(df, ticker, start_date, end_date, interval):
     """
     Generates and saves a candlestick chart with volume.
-    Returns the path to the saved image.
     """
     print(f"   - Generating candlestick report for {ticker}...")
     
@@ -222,33 +235,23 @@ def generate_candlestick_report(df, ticker, start_date, end_date):
     os.makedirs(ticker_report_path, exist_ok=True)
     output_file = os.path.join(ticker_report_path, f"{ticker}_candlestick_chart.png")
 
-    # mplfinance requires specific column names and a DatetimeIndex.
-    # We'll create a copy to avoid changing the original DataFrame.
     plot_df = df.copy()
+    plot_df['time'] = pd.to_datetime(plot_df['time'])
     plot_df.rename(columns={
-        'time': 'Date',
-        'open': 'Open',
-        'high': 'High',
-        'low': 'Low',
-        'close': 'Close',
-        'volume': 'Volume'
+        'time': 'Date', 'open': 'Open', 'high': 'High',
+        'low': 'Low', 'close': 'Close', 'volume': 'Volume'
     }, inplace=True)
     plot_df.set_index('Date', inplace=True)
 
-    # Define a custom style for the chart
     style = 'yahoo'
+    timeframe = "Weekly" if interval == '1W' else "Daily"
 
-    # Create and save the plot
     mpf.plot(
         plot_df,
-        type='candle',
-        style=style,
-        title=f"{ticker} from {start_date} to {end_date}",
-        ylabel='Price (VND)',
-        volume=True,
-        ylabel_lower='Volume',
-        mav=(20, 50, 100),
-        figratio=(20, 10),
+        type='candle', style=style,
+        title=f"{ticker} ({timeframe}) from {start_date} to {end_date}",
+        ylabel='Price (VND)', volume=True, ylabel_lower='Volume',
+        mav=(20, 50, 100), figratio=(20, 10),
         savefig=dict(fname=output_file, dpi=150, bbox_inches='tight')
     )
     
@@ -430,23 +433,23 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
 
 def main():
     """Main function to orchestrate the data download and report generation."""
-    # --- Argument Parsing ---
+    global DATA_DIR, REPORTS_DIR, MASTER_REPORT_FILENAME, VPA_ANALYSIS_FILENAME
+
     parser = argparse.ArgumentParser(description="AIPriceAction Data Pipeline")
-    parser.add_argument(
-        '--start-date',
-        default="2025-01-02",
-        type=str,
-        help="The start date for data download in 'YYYY-MM-DD' format."
-    )
-    parser.add_argument(
-        '--end-date',
-        default=datetime.now().strftime('%Y-%m-%d'),
-        type=str,
-        help="The end date for data download in 'YYYY-MM-DD' format."
-    )
+    parser.add_argument('--start-date', default="2025-01-02", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
+    parser.add_argument('--end-date', default=datetime.now().strftime('%Y-%m-%d'), type=str, help="The end date for data download in 'YYYY-MM-DD' format.")
+    parser.add_argument('--week', action='store_true', help="Enable weekly data processing mode.")
     args = parser.parse_args()
 
-    # Use the parsed arguments
+    data_interval = '1D'
+    if args.week:
+        print("--- Weekly mode enabled. Changing directories and data interval. ---")
+        DATA_DIR = "market_data_week"
+        REPORTS_DIR = "reports_week"
+        MASTER_REPORT_FILENAME = "REPORT_week.md"
+        VPA_ANALYSIS_FILENAME = "VPA_week.md"
+        data_interval = '1W'
+
     START_DATE = args.start_date
     END_DATE = args.end_date
 
@@ -456,7 +459,6 @@ def main():
     setup_directories()
     vpa_analyses = parse_vpa_analysis(VPA_ANALYSIS_FILENAME)
 
-    # --- Load Ticker Groups ---
     try:
         with open('ticker_group.json', 'r', encoding='utf-8') as f:
             ticker_groups = json.load(f)
@@ -465,47 +467,43 @@ def main():
         print("ticker_group.json not found. Skipping group section.")
         ticker_groups = {}
 
-    # Create a reverse mapping for quick lookup: ticker -> group
     ticker_to_group_map = {}
     for group, tickers in ticker_groups.items():
         for ticker in tickers:
             ticker_to_group_map[ticker] = group
     
     master_report_data = []
-
-    # Sort the list, keeping 'VNINDEX' at the top and sorting the rest alphabetically
     TICKERS_TO_DOWNLOAD.sort(key=lambda t: (0, t) if t == 'VNINDEX' else (1, t))
 
     for ticker in TICKERS_TO_DOWNLOAD:
-        stock_df = download_stock_data(ticker, START_DATE, END_DATE)
+        stock_df = download_stock_data(ticker, START_DATE, END_DATE, interval=data_interval)
         
         if stock_df is not None and not stock_df.empty:
-            csv_path = save_data_to_csv(stock_df, ticker, START_DATE, END_DATE)
-            chart_path = generate_candlestick_report(stock_df, ticker, START_DATE, END_DATE)
+            # Generate chart and stats with original datetime objects first
+            chart_path = generate_candlestick_report(stock_df, ticker, START_DATE, END_DATE, data_interval)
             
-            # Calculate additional stats for the report
             period_open = stock_df['open'].iloc[0]
             latest_close = stock_df['close'].iloc[-1]
             change_pct = ((latest_close - period_open) / period_open) * 100 if period_open != 0 else 0
             
-            # Gather all information for the master report
+            # Create a copy for CSV and reformat if needed
+            df_for_csv = stock_df.copy()
+            if args.week:
+                df_for_csv = reformat_time_column_for_weekly_data(df_for_csv)
+            
+            csv_path = save_data_to_csv(df_for_csv, ticker, START_DATE, END_DATE, data_interval)
+
             report_entry = {
-                'ticker': ticker,
-                'records': len(stock_df),
+                'ticker': ticker, 'records': len(stock_df),
                 'start_date': stock_df['time'].min().strftime('%Y-%m-%d'),
                 'end_date': stock_df['time'].max().strftime('%Y-%m-%d'),
-                'period_open': period_open,
-                'latest_close': latest_close,
-                'period_high': stock_df['high'].max(),
-                'period_low': stock_df['low'].min(),
-                'change_pct': change_pct,
-                'total_volume': stock_df['volume'].sum(),
-                'csv_path': csv_path,
-                'chart_path': chart_path,
+                'period_open': period_open, 'latest_close': latest_close,
+                'period_high': stock_df['high'].max(), 'period_low': stock_df['low'].min(),
+                'change_pct': change_pct, 'total_volume': stock_df['volume'].sum(),
+                'csv_path': csv_path, 'chart_path': chart_path,
             }
             master_report_data.append(report_entry)
             
-    # Generate the final master markdown report if any data was processed
     if master_report_data:
         generate_master_report(master_report_data, vpa_analyses, ticker_groups, ticker_to_group_map, START_DATE, END_DATE)
             
@@ -513,6 +511,6 @@ def main():
 
 
 if __name__ == "__main__":
-    # This environment variable is required by vnstock to accept the terms and conditions.
     os.environ["ACCEPT_TC"] = "tôi đồng ý"
     main()
+
