@@ -6,7 +6,7 @@
 
 ### **MANDATORY PROCESSING PROTOCOL**
 
-You will process the entire universe of tickers by performing the following stages in order. You must consult all available data sources (`GROUP.md`, `VPA.md`, `REPORT.md`, `market_data.txt`, `PLAN.md`) to build a comprehensive analysis.
+You will process the entire universe of tickers by performing the following stages in order. You must consult all available data sources (`GROUP.md`, `VPA_week.md`, `REPORT_week.md`, `market_data_week.txt`) to build a comprehensive analysis. All the data sources are week-based to have a long term analysis.
 
 ---
 
@@ -25,7 +25,7 @@ This is a critical logical analysis you MUST perform for each *eligible* sector 
 
 1.  **Objective:** For each sector, identify a common, recent "base period" (a date range) that represents a phase of stability, consolidation, or accumulation *before* a significant sector-wide price move.
 2.  **Methodology:**
-    *   Analyze price and volume data from `market_data.txt` for all tickers within a given sector over the last 6 months.
+    *   Analyze price and volume data from `market_data_week.txt` for all tickers within a given sector over the last 6 months.
     *   Identify a time window where the *majority* of tickers in that sector exhibited low volatility, sideways price action, or clear VPA signs of accumulation (e.g., `No Supply` bars, low volume tests).
     *   This identified date range is the **"Sector Base Period"**. If no clear common base period exists, the sector is omitted from the report.
 
@@ -36,14 +36,14 @@ This is a critical logical analysis you MUST perform for each *eligible* sector 
 For every ticker within an *eligible* sector, you will perform the following calculations.
 
 1.  **VPA Story Score (Weight: 60%):**
-    *   **Condition:** Review the ticker's history in `VPA.md` and `REPORT.md`.
+    *   **Condition:** Review the ticker's history in `VPA_week.md` and `REPORT_week.md`.
     *   **Scoring (0-100):** Based on the clarity, completeness, and "textbook" quality of its bullish Wyckoff/VPA narrative.
         *   **High (90-100):** Perfect, multi-stage story (Accumulation -> Shakeout -> SOS -> successful Backing Up/Test).
         *   **Medium (70-89):** Strong story but with minor imperfections or still in development.
         *   **Low (<70):** Weak, unclear, or broken VPA narrative.
 
 2.  **Relative Performance Score (Weight: 40%):**
-    *   **Condition:** Using `market_data.txt`, calculate the percentage price change from the closing price on the **start date** of its **"Sector Base Period"** to the most recent closing price.
+    *   **Condition:** Using `market_data_week.txt`, calculate the percentage price change from the closing price on the **start date** of its **"Sector Base Period"** to the most recent closing price.
     *   **Scoring:** This percentage change is its score. A 25% gain equals a score of 25.
 
 3.  **Confidence Score (For Reporting Only):**
@@ -86,7 +86,9 @@ Generate the `LEADER.md` file based on all preceding analysis stages.
       Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức khỏe tổng thể của từng ngành. Phân tích dựa trên sự kết hợp giữa: (1) Sức mạnh câu chuyện VPA/Wyckoff, (2) Hiệu suất giá tương đối, và (3) Mức độ lan tỏa của xu hướng trong nội bộ ngành.
 
       **➡️ [Click here to view the latest market report](REPORT.md)**
-      
+
+      **➡️ [Click here to view the latest market report (week)](REPORT_week.md)** 
+
       **⛳ [Click here to view the trading plan](PLAN.md)**
 
 **2. Mục Lục (Table of Contents)**
@@ -120,11 +122,11 @@ Generate the `LEADER.md` file based on all preceding analysis stages.
 ---
 **Use this template for each of the top 3 tickers, explicitly outputting the scores.**
 
-#### **1. [Tên Cổ Phiếu] ([Mã CP])**
+#### **1. [Mã CP]**
 
-![View Chart](reports/[Mã CP]/[Mã CP]_candlestick_chart.png)
+![View Chart](reports_week/[Mã CP]/[Mã CP]_candlestick_chart.png)
 
-*   [View Report](REPORT.md#[Mã CP])
+*   [View Report](REPORT_week.md#[Mã CP])
 *   **Các Chỉ Số Chính:**
     *   **Điểm Câu Chuyện VPA:** `[VPA Story Score]` / 100
     *   **Điểm Hiệu Suất Tương Đối:** `[Relative Performance Score]` (tương ứng `+%` hoặc `-%` change)
@@ -137,9 +139,9 @@ Generate the `LEADER.md` file based on all preceding analysis stages.
 
 ---
 
-#### **2. [Tên Cổ Phiếu] ([Mã CP])**
-
-*   [View Report](REPORT.md#[Mã CP])
+#### **2. [Mã CP]**
+![View Chart](reports_week/[Mã CP]/[Mã CP]_candlestick_chart.png)
+*   [View Report](REPORT_week.md#[Mã CP])
 *   **Các Chỉ Số Chính:**
     *   **Điểm Câu Chuyện VPA:** `[Score]` / 100
     *   **Điểm Hiệu Suất Tương Đối:** `[Score]`
@@ -150,9 +152,9 @@ Generate the `LEADER.md` file based on all preceding analysis stages.
 
 ---
 
-#### **3. [Tên Cổ Phiếu] ([Mã CP])**
-
-*   [View Report](REPORT.md#[Mã CP])
+#### **3. [Mã CP]**
+![View Chart](reports_week/[Mã CP]/[Mã CP]_candlestick_chart.png)
+*   [View Report](REPORT_week.md#[Mã CP])
 *   **Các Chỉ Số Chính:**
     *   **Điểm Câu Chuyện VPA:** `[Score]` / 100
     *   **Điểm Hiệu Suất Tương Đối:** `[Score]`
