@@ -4,7 +4,7 @@
 
 ### **MANDATORY PROCESSING PROTOCOL**
 
-You will process the universe of tickers by performing the following two stages in order. Your analysis **MUST** be a synthesis of eight key data sources, with a core focus on **Multi-Timeframe Confirmation**. A signal or pattern is significantly more reliable when it is confirmed on both daily and weekly charts.
+You will process the universe of tickers by performing the following two stages in order. Your analysis **MUST** be a synthesis of key data sources, with a core focus on **Multi-Timeframe Confirmation**. A signal or pattern is significantly more reliable when it is confirmed on both daily and weekly charts.
 
 1.  **Daily Analysis Sources:**
     * **`REPORT.md`**: For the most recent daily signals and price/volume activity (last 10 days).
@@ -13,8 +13,6 @@ You will process the universe of tickers by performing the following two stages 
 
 2.  **Weekly Analysis Sources:**
     * **`REPORT_week.md`**: For the most recent weekly signals, providing a strategic, big-picture view.
-    * **`VPA_week.md`**: For the broader historical context and the multi-week VPA narrative.
-    * **`market_data_week.txt`**: For the raw weekly OHLC data (last 40 weeks) to verify long-term signals.
 
 3.  **Contextual & Grouping Sources:**
     * **`LEADER.md`**: For assessing the **industry context** based on weekly analysis. You must use this to determine if a ticker is in a strong (`Dẫn dắt Đồng Thuận`), weakening, or weak (`Yếu/Phân Phối`) industry group.
@@ -69,7 +67,7 @@ This is an internal logical analysis you MUST perform for every relevant ticker 
 You will now generate the `PLAN.md` file based *only* on the final states decided in Stage 1.
 
 **1. Phân Tích Trạng Thái VNINDEX & Chiến Lược**
-   * **MAKE SURE** you have markdown links to view both daily and weekly charts (e.g., `[Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)` `[Weekly Chart](reports/VNINDEX/VNINDEX_candlestick_chart_week.png)`).
+   * **MAKE SURE** you have markdown links to view both daily and weekly charts (e.g., `[Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)` `[Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png)`).
    * Provide a concise summary of the VNINDEX by synthesizing the **daily and weekly VPA story**.
    * Define a specific **"Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng"**, justified by referencing key support/resistance levels from both timeframes.
 

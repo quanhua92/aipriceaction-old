@@ -4,7 +4,17 @@
 
 ### **MANDATORY PROCESSING PROTOCOL**
 
-You will process the universe of tickers by performing the following two stages in order. For new data, prioritize **REPORT.md** for recent activity (last 10 days). If the information in **REPORT.md** is insufficient for a comprehensive assessment, you **must** consult **VPA.md** for a broader historical context and detailed VPA analysis to determine the ticker's state accurately. Your analysis should also consider the user's current holdings as provided in the *previous* `hold.md` (specifically, the `Dữ Liệu Danh Mục` table) and the overall market context from **PLAN.md**.
+You will process the universe of tickers by performing the following two stages in order. Your analysis **MUST** be a synthesis of key data sources, with a core focus on **Multi-Timeframe Confirmation**. A signal or pattern is significantly more reliable when it is confirmed on both daily and weekly charts. Your analysis should also consider the user's current holdings as provided in the *previous* `hold.md` (specifically, the `Dữ Liệu Danh Mục` table where the manual updated porfolio data is stored.) and the overall market context from **PLAN.md**.
+
+1.  **Daily Analysis Sources:**
+    * **`REPORT.md`**: For the most recent daily signals and price/volume activity (last 10 days).
+    * **`VPA.md`**: For the detailed, multi-session daily VPA narrative of each ticker.
+    * **`market_data.txt`**: For the raw daily price, volume, and OHLC data (last 40 days) used to verify daily signals.
+
+2.  **Contextual & Grouping Sources:**
+    * **`LEADER.md`**: For assessing the **industry context** based on weekly analysis. You must use this to determine if a ticker is in a strong (`Dẫn dắt Đồng Thuận`), weakening, or weak (`Yếu/Phân Phối`) industry group.
+    * **`GROUP.md`**: The definitive source for mapping individual tickers to their respective industry groups.
+    * **`PLAN.md`**: For the overall market context and ranked ticker lists
 
 ---
 
