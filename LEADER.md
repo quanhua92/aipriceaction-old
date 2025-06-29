@@ -4,7 +4,7 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **➡️ [Click here to view the latest market report](REPORT.md)**
 
-**➡️ [Click here to view the latest market report (week)](REPORT_week.md)**
+**➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)**
 
 **⛳ [Click here to view the trading plan](PLAN.md)**
 
@@ -45,11 +45,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**MWG**](#mwg) | 59.8 | 90% | Câu chuyện VPA rõ ràng nhất, cho thấy sự phục hồi mạnh mẽ sau SOW và tiếp tục xu hướng tăng vững chắc. |
-| 2 | [**FRT**](#frt) | 58.7 | 90% | Hiệu suất giá tốt nhất ngành và câu chuyện VPA cũng rất mạnh mẽ, xác nhận vai trò dẫn dắt. |
-| 3 | [**PNJ**](#pnj) | 53.0 | 85% | Phục hồi tốt từ đáy với tín hiệu "No Supply", hiệu suất giá tích cực nhưng câu chuyện chưa mạnh bằng hai mã đầu ngành. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                          |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**MWG**](#mwg)  | 59.8         | 90%        | Câu chuyện VPA rõ ràng nhất, cho thấy sự phục hồi mạnh mẽ sau SOW và tiếp tục xu hướng tăng vững chắc.                 |
+| 2    | [**FRT**](#frt)  | 58.7         | 90%        | Hiệu suất giá tốt nhất ngành và câu chuyện VPA cũng rất mạnh mẽ, xác nhận vai trò dẫn dắt.                             |
+| 3    | [**PNJ**](#pnj)  | 53.0         | 85%        | Phục hồi tốt từ đáy với tín hiệu "No Supply", hiệu suất giá tích cực nhưng câu chuyện chưa mạnh bằng hai mã đầu ngành. |
 
 ---
 
@@ -109,11 +109,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**BIC**](#bic) | 68.7 | 80% | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, hiệu suất giá vượt trội so với phần còn lại của ngành. |
-| 2 | [**BVH**](#bvh) | 48.0 | 70% | Phục hồi tốt từ đáy nhưng tín hiệu VPA gần đây có sự bất thường (khối lượng không xác nhận), cần thêm theo dõi. |
-| 3 | [**PVI**](#pvi) | 46.1 | 75% | Diễn biến giá tích cực nhưng yếu, chủ yếu là các tín hiệu "Test" và "No Supply" trên khối lượng thấp, chưa có sự bùng nổ. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                             |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**BIC**](#bic)  | 68.7         | 80%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, hiệu suất giá vượt trội so với phần còn lại của ngành.    |
+| 2    | [**BVH**](#bvh)  | 48.0         | 70%        | Phục hồi tốt từ đáy nhưng tín hiệu VPA gần đây có sự bất thường (khối lượng không xác nhận), cần thêm theo dõi.           |
+| 3    | [**PVI**](#pvi)  | 46.1         | 75%        | Diễn biến giá tích cực nhưng yếu, chủ yếu là các tín hiệu "Test" và "No Supply" trên khối lượng thấp, chưa có sự bùng nổ. |
 
 ---
 
@@ -173,11 +173,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**VHM**](#vhm) | 88.0 | 95% | Dẫn dắt tuyệt đối với câu chuyện VPA hoàn hảo, bứt phá mạnh mẽ khỏi xu hướng giảm và hiệu suất giá vượt trội. |
-| 2 | [**VIC**](#vic) | 87.0 | 90% | Sức mạnh giá phi thường, hiệu suất cao nhất ngành, dù tín hiệu VPA có chút lo ngại về sự suy kiệt nhưng xu hướng vẫn rất mạnh. |
-| 3 | [**NVL**](#nvl) | 74.0 | 95% | Câu chuyện VPA textbook với cú bứt phá SOS và một tuần "Test for Supply" cực kỳ thành công, cho thấy tiềm năng tăng giá lớn. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                  |
+| :--- | :--------------- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**VHM**](#vhm)  | 88.0         | 95%        | Dẫn dắt tuyệt đối với câu chuyện VPA hoàn hảo, bứt phá mạnh mẽ khỏi xu hướng giảm và hiệu suất giá vượt trội.                  |
+| 2    | [**VIC**](#vic)  | 87.0         | 90%        | Sức mạnh giá phi thường, hiệu suất cao nhất ngành, dù tín hiệu VPA có chút lo ngại về sự suy kiệt nhưng xu hướng vẫn rất mạnh. |
+| 3    | [**NVL**](#nvl)  | 74.0         | 95%        | Câu chuyện VPA textbook với cú bứt phá SOS và một tuần "Test for Supply" cực kỳ thành công, cho thấy tiềm năng tăng giá lớn.   |
 
 ---
 
@@ -237,11 +237,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**IDC**](#idc) | 88.3 | 95% | Dẫn dắt tuyệt đối với câu chuyện VPA hoàn hảo, bứt phá khỏi nền tích lũy bằng một phiên SOS mạnh mẽ và hiệu suất giá vượt trội. |
-| 2 | [**BCM**](#bcm) | 87.7 | 95% | Câu chuyện VPA rất mạnh mẽ với cú bứt phá không có bóng nến trên, xác nhận phe mua hoàn toàn kiểm soát. |
-| 3 | [**KBC**](#kbc) | 68.7 | 85% | Phục hồi tốt từ đáy với tín hiệu SOS xác nhận, nhưng hiệu suất giá vẫn còn cách biệt so với hai mã dẫn đầu. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                   |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**IDC**](#idc)  | 88.3         | 95%        | Dẫn dắt tuyệt đối với câu chuyện VPA hoàn hảo, bứt phá khỏi nền tích lũy bằng một phiên SOS mạnh mẽ và hiệu suất giá vượt trội. |
+| 2    | [**BCM**](#bcm)  | 87.7         | 95%        | Câu chuyện VPA rất mạnh mẽ với cú bứt phá không có bóng nến trên, xác nhận phe mua hoàn toàn kiểm soát.                         |
+| 3    | [**KBC**](#kbc)  | 68.7         | 85%        | Phục hồi tốt từ đáy với tín hiệu SOS xác nhận, nhưng hiệu suất giá vẫn còn cách biệt so với hai mã dẫn đầu.                     |
 
 ---
 
@@ -301,11 +301,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**DPR**](#dpr) | 91.0 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ, vượt đỉnh cũ và được xác nhận bởi khối lượng tăng vọt. Hiệu suất giá tốt nhất ngành. |
-| 2 | [**PHR**](#phr) | 90.0 | 95% | Sức mạnh tương đương DPR, cũng có một tuần bùng nổ SOS phá vỡ đỉnh cũ, khẳng định vai trò đồng dẫn dắt. |
-| 3 | [**DRC**](#drc) | 68.3 | 85% | Có một tuần "Effort to Rise" mạnh mẽ, cho thấy lực cầu đang trở nên quyết liệt, nhưng vẫn đang trong giai đoạn phục hồi. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                      |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**DPR**](#dpr)  | 91.0         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ, vượt đỉnh cũ và được xác nhận bởi khối lượng tăng vọt. Hiệu suất giá tốt nhất ngành. |
+| 2    | [**PHR**](#phr)  | 90.0         | 95%        | Sức mạnh tương đương DPR, cũng có một tuần bùng nổ SOS phá vỡ đỉnh cũ, khẳng định vai trò đồng dẫn dắt.                            |
+| 3    | [**DRC**](#drc)  | 68.3         | 85%        | Có một tuần "Effort to Rise" mạnh mẽ, cho thấy lực cầu đang trở nên quyết liệt, nhưng vẫn đang trong giai đoạn phục hồi.           |
 
 ---
 
@@ -365,11 +365,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**VND**](#vnd) | 88.0 | 90% | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, hiệu suất giá vượt trội và khối lượng bùng nổ. |
-| 2 | [**SSI**](#ssi) | 83.0 | 90% | Sức mạnh tương đương VND, cũng có một tuần SOS thuyết phục với khối lượng rất cao, khẳng định vai trò đồng dẫn dắt. |
-| 3 | [**FTS**](#fts) | 39.8 | 30% | Mặc dù xếp hạng 3, FTS đang cho thấy tín hiệu cực kỳ yếu kém với một cú "Up-thrust", cần hết sức thận trọng. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                       |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**VND**](#vnd)  | 88.0         | 90%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, hiệu suất giá vượt trội và khối lượng bùng nổ.      |
+| 2    | [**SSI**](#ssi)  | 83.0         | 90%        | Sức mạnh tương đương VND, cũng có một tuần SOS thuyết phục với khối lượng rất cao, khẳng định vai trò đồng dẫn dắt. |
+| 3    | [**FTS**](#fts)  | 39.8         | 30%        | Mặc dù xếp hạng 3, FTS đang cho thấy tín hiệu cực kỳ yếu kém với một cú "Up-thrust", cần hết sức thận trọng.        |
 
 ---
 
@@ -429,11 +429,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**CMG**](#cmg) | 89.2 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS ngoạn mục, hiệu suất giá vượt trội và câu chuyện VPA textbook. |
-| 2 | [**VGI**](#vgi) | 71.9 | 90% | Sức mạnh giá rất tốt, câu chuyện VPA rõ ràng với chuỗi tín hiệu SOS và kiểm tra cung thành công, khẳng định vai trò đồng dẫn dắt. |
-| 3 | [**FPT**](#fpt) | 68.3 | 85% | Là cổ phiếu blue-chip ổn định, đang cho thấy sự phục hồi tốt với tín hiệu "Test for Supply" thành công, theo sau xu hướng ngành. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                     |
+| :--- | :--------------- | :----------- | :--------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**CMG**](#cmg)  | 89.2         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS ngoạn mục, hiệu suất giá vượt trội và câu chuyện VPA textbook.                               |
+| 2    | [**VGI**](#vgi)  | 71.9         | 90%        | Sức mạnh giá rất tốt, câu chuyện VPA rõ ràng với chuỗi tín hiệu SOS và kiểm tra cung thành công, khẳng định vai trò đồng dẫn dắt. |
+| 3    | [**FPT**](#fpt)  | 68.3         | 85%        | Là cổ phiếu blue-chip ổn định, đang cho thấy sự phục hồi tốt với tín hiệu "Test for Supply" thành công, theo sau xu hướng ngành.  |
 
 ---
 
@@ -493,11 +493,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**PVS**](#pvs) | 36.7 | 20% | Hiệu suất giá tốt nhất nhưng câu chuyện VPA gần đây là phân phối rõ ràng, rủi ro rất cao. |
-| 2 | [**PLX**](#plx) | 34.7 | 20% | Tương tự PVS, có hai tuần liên tiếp xuất hiện tín hiệu "Up-thrust" và SOW, cho thấy phe bán hoàn toàn kiểm soát. |
-| 3 | [**GAS**](#gas) | 31.8 | 20% | Câu chuyện VPA rất tiêu cực với một cú "Up-thrust" kinh điển trong tuần gần nhất. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                    |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------- |
+| 1    | [**PVS**](#pvs)  | 36.7         | 20%        | Hiệu suất giá tốt nhất nhưng câu chuyện VPA gần đây là phân phối rõ ràng, rủi ro rất cao.                        |
+| 2    | [**PLX**](#plx)  | 34.7         | 20%        | Tương tự PVS, có hai tuần liên tiếp xuất hiện tín hiệu "Up-thrust" và SOW, cho thấy phe bán hoàn toàn kiểm soát. |
+| 3    | [**GAS**](#gas)  | 31.8         | 20%        | Câu chuyện VPA rất tiêu cực với một cú "Up-thrust" kinh điển trong tuần gần nhất.                                |
 
 ---
 
@@ -557,11 +557,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**VCG**](#vcg) | 87.0 | 90% | Là điểm sáng duy nhất với hai tuần SOS liên tiếp, cho thấy sức mạnh vượt trội và vai trò dẫn dắt trong một ngành đang yếu đi. |
-| 2 | [**HHV**](#hhv) | 71.9 | 85% | Có một tuần "Effort to Rise" tích cực nhưng vẫn đang trong giai đoạn phục hồi và chưa bứt phá mạnh mẽ như VCG. |
-| 3 | [**C4G**](#c4g) | 48.7 | 30% | Câu chuyện VPA rất tiêu cực với một cú "Up-thrust" rõ ràng trên khối lượng đột biến, cho thấy áp lực phân phối lớn. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                 |
+| :--- | :--------------- | :----------- | :--------- | :---------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**VCG**](#vcg)  | 87.0         | 90%        | Là điểm sáng duy nhất với hai tuần SOS liên tiếp, cho thấy sức mạnh vượt trội và vai trò dẫn dắt trong một ngành đang yếu đi. |
+| 2    | [**HHV**](#hhv)  | 71.9         | 85%        | Có một tuần "Effort to Rise" tích cực nhưng vẫn đang trong giai đoạn phục hồi và chưa bứt phá mạnh mẽ như VCG.                |
+| 3    | [**C4G**](#c4g)  | 48.7         | 30%        | Câu chuyện VPA rất tiêu cực với một cú "Up-thrust" rõ ràng trên khối lượng đột biến, cho thấy áp lực phân phối lớn.           |
 
 ---
 
@@ -621,11 +621,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**TNG**](#tng) | 88.6 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS không thể phủ nhận, khối lượng tăng vọt và hiệu suất giá vượt trội. |
-| 2 | [**VGT**](#vgt) | 87.4 | 95% | Sức mạnh tương đương TNG, cũng có một tuần bùng nổ SOS phá vỡ nền tích lũy, khẳng định vai trò đồng dẫn dắt. |
-| 3 | [**MSH**](#msh) | 68.3 | 85% | Đang phục hồi tốt với hai tuần "Effort to Rise" liên tiếp, nhưng vẫn còn cách biệt so với hai mã dẫn đầu. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                |
+| :--- | :--------------- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------- |
+| 1    | [**TNG**](#tng)  | 88.6         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS không thể phủ nhận, khối lượng tăng vọt và hiệu suất giá vượt trội.     |
+| 2    | [**VGT**](#vgt)  | 87.4         | 95%        | Sức mạnh tương đương TNG, cũng có một tuần bùng nổ SOS phá vỡ nền tích lũy, khẳng định vai trò đồng dẫn dắt. |
+| 3    | [**MSH**](#msh)  | 68.3         | 85%        | Đang phục hồi tốt với hai tuần "Effort to Rise" liên tiếp, nhưng vẫn còn cách biệt so với hai mã dẫn đầu.    |
 
 ---
 
@@ -685,11 +685,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**SCS**](#scs) | 88.9 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS cực kỳ mạnh mẽ khỏi nền tích lũy, khối lượng tăng vọt và hiệu suất giá vượt trội. |
-| 2 | [**ACV**](#acv) | 88.7 | 95% | Sức mạnh tương đương SCS, cũng có một tuần SOS thuyết phục phá vỡ nền, khẳng định vai trò đồng dẫn dắt. |
-| 3 | [**HVN**](#hvn) | 68.3 | 90% | Có một tuần "Test for Supply" rất tích cực sau chuỗi tăng giá mạnh, cho thấy tiềm năng tiếp tục xu hướng tăng. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                          |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**SCS**](#scs)  | 88.9         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS cực kỳ mạnh mẽ khỏi nền tích lũy, khối lượng tăng vọt và hiệu suất giá vượt trội. |
+| 2    | [**ACV**](#acv)  | 88.7         | 95%        | Sức mạnh tương đương SCS, cũng có một tuần SOS thuyết phục phá vỡ nền, khẳng định vai trò đồng dẫn dắt.                |
+| 3    | [**HVN**](#hvn)  | 68.3         | 90%        | Có một tuần "Test for Supply" rất tích cực sau chuỗi tăng giá mạnh, cho thấy tiềm năng tiếp tục xu hướng tăng.         |
 
 ---
 
@@ -749,11 +749,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**DGC**](#dgc) | 68.3 | 85% | Là cổ phiếu mạnh nhất ngành với tín hiệu "Test for Supply" thành công, nhưng vẫn cần cẩn trọng trong bối cảnh ngành đang yếu đi. |
-| 2 | [**DCM**](#dcm) | 33.2 | 25% | Câu chuyện VPA rất tiêu cực với một cú "Up-thrust" và SOW rõ ràng, cho thấy khả năng kết thúc đợt tăng giá. |
-| 3 | [**DPM**](#dpm) | 32.1 | 30% | Tương tự DCM, tín hiệu SOW sau một "Buying Climax" tiềm năng cho thấy áp lực phân phối đang gia tăng mạnh. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                    |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**DGC**](#dgc)  | 68.3         | 85%        | Là cổ phiếu mạnh nhất ngành với tín hiệu "Test for Supply" thành công, nhưng vẫn cần cẩn trọng trong bối cảnh ngành đang yếu đi. |
+| 2    | [**DCM**](#dcm)  | 33.2         | 25%        | Câu chuyện VPA rất tiêu cực với một cú "Up-thrust" và SOW rõ ràng, cho thấy khả năng kết thúc đợt tăng giá.                      |
+| 3    | [**DPM**](#dpm)  | 32.1         | 30%        | Tương tự DCM, tín hiệu SOW sau một "Buying Climax" tiềm năng cho thấy áp lực phân phối đang gia tăng mạnh.                       |
 
 ---
 
@@ -813,11 +813,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**MSR**](#msr) | 49.6 | 70% | Là cổ phiếu duy nhất có nỗ lực tăng giá, dù còn yếu nhưng vẫn là điểm sáng nhất trong một ngành đang rất tiêu cực. |
-| 2 | [**VPG**](#vpg) | 26.6 | 40% | Đang kiểm tra cung sau một cú "Selling Climax" tiềm năng, nhưng lực cầu vẫn chưa quay trở lại, tín hiệu vẫn còn yếu. |
-| 3 | [**CST**](#cst) | 20.0 | 30% | Gần như không có giao dịch, tín hiệu "No Demand" điển hình, cho thấy sự thiếu quan tâm hoàn toàn từ thị trường. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                        |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**MSR**](#msr)  | 49.6         | 70%        | Là cổ phiếu duy nhất có nỗ lực tăng giá, dù còn yếu nhưng vẫn là điểm sáng nhất trong một ngành đang rất tiêu cực.   |
+| 2    | [**VPG**](#vpg)  | 26.6         | 40%        | Đang kiểm tra cung sau một cú "Selling Climax" tiềm năng, nhưng lực cầu vẫn chưa quay trở lại, tín hiệu vẫn còn yếu. |
+| 3    | [**CST**](#cst)  | 20.0         | 30%        | Gần như không có giao dịch, tín hiệu "No Demand" điển hình, cho thấy sự thiếu quan tâm hoàn toàn từ thị trường.      |
 
 ---
 
@@ -877,11 +877,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**NT2**](#nt2) | 88.6 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, khối lượng tăng vọt, đi ngược lại xu hướng chung của ngành. |
-| 2 | [**POW**](#pow) | 57.8 | 65% | Đang trong giai đoạn kiểm tra cung tích cực ở vùng đáy với bóng nến dưới dài, nhưng lực cầu vẫn cần được xác nhận mạnh mẽ hơn. |
-| 3 | [**HDG**](#hdg) | 48.9 | 35% | Hiệu suất giá tốt nhưng câu chuyện VPA rất tiêu cực với tín hiệu phân phối (SOW) sau một "Buying Climax" tiềm năng. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                  |
+| :--- | :--------------- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**NT2**](#nt2)  | 88.6         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, khối lượng tăng vọt, đi ngược lại xu hướng chung của ngành.    |
+| 2    | [**POW**](#pow)  | 57.8         | 65%        | Đang trong giai đoạn kiểm tra cung tích cực ở vùng đáy với bóng nến dưới dài, nhưng lực cầu vẫn cần được xác nhận mạnh mẽ hơn. |
+| 3    | [**HDG**](#hdg)  | 48.9         | 35%        | Hiệu suất giá tốt nhưng câu chuyện VPA rất tiêu cực với tín hiệu phân phối (SOW) sau một "Buying Climax" tiềm năng.            |
 
 ---
 
@@ -941,11 +941,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**STB**](#stb) | 70.9 | 95% | Câu chuyện VPA gần như hoàn hảo với chuỗi tín hiệu SOS, No Supply và Test thành công, thể hiện vai trò dẫn dắt rõ ràng. |
-| 2 | [**CTG**](#ctg) | 68.3 | 90% | Sức mạnh giá rất tốt và câu chuyện VPA mạnh mẽ với các tín hiệu SOS và kiểm tra cung thành công trong xu hướng tăng. |
-| 3 | [**MBB**](#mbb) | 64.6 | 90% | Có cú bứt phá SOS mạnh mẽ và một tuần kiểm tra cung thành công, cho thấy sự tham gia tích cực vào xu hướng chung của ngành. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                               |
+| :--- | :--------------- | :----------- | :--------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**STB**](#stb)  | 70.9         | 95%        | Câu chuyện VPA gần như hoàn hảo với chuỗi tín hiệu SOS, No Supply và Test thành công, thể hiện vai trò dẫn dắt rõ ràng.     |
+| 2    | [**CTG**](#ctg)  | 68.3         | 90%        | Sức mạnh giá rất tốt và câu chuyện VPA mạnh mẽ với các tín hiệu SOS và kiểm tra cung thành công trong xu hướng tăng.        |
+| 3    | [**MBB**](#mbb)  | 64.6         | 90%        | Có cú bứt phá SOS mạnh mẽ và một tuần kiểm tra cung thành công, cho thấy sự tham gia tích cực vào xu hướng chung của ngành. |
 
 ---
 
@@ -1005,11 +1005,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**NTP**](#ntp) | 68.6 | 70% | Là cổ phiếu duy nhất có nỗ lực tăng giá rõ ràng và tín hiệu SOS, dù gần đây có dấu hiệu chững lại nhưng vẫn là mạnh nhất ngành. |
-| 2 | [**AAA**](#aaa) | 41.5 | 40% | Câu chuyện VPA rất yếu với tín hiệu "No Demand" trên khối lượng tăng, cho thấy áp lực bán tiềm tàng lớn. |
-| 3 | [**BMP**](#bmp) | 41.1 | 40% | Tương tự AAA, tín hiệu "No Demand" trong tuần gần nhất cho thấy đà tăng đang mất dần động lực và có thể sớm điều chỉnh. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                   |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**NTP**](#ntp)  | 68.6         | 70%        | Là cổ phiếu duy nhất có nỗ lực tăng giá rõ ràng và tín hiệu SOS, dù gần đây có dấu hiệu chững lại nhưng vẫn là mạnh nhất ngành. |
+| 2    | [**AAA**](#aaa)  | 41.5         | 40%        | Câu chuyện VPA rất yếu với tín hiệu "No Demand" trên khối lượng tăng, cho thấy áp lực bán tiềm tàng lớn.                        |
+| 3    | [**BMP**](#bmp)  | 41.1         | 40%        | Tương tự AAA, tín hiệu "No Demand" trong tuần gần nhất cho thấy đà tăng đang mất dần động lực và có thể sớm điều chỉnh.         |
 
 ---
 
@@ -1069,11 +1069,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**DBC**](#dbc) | 88.0 | 95% | Dẫn dắt tuyệt đối với chuỗi tín hiệu SOS và Effort to Rise mạnh mẽ, khối lượng bùng nổ và hiệu suất giá vượt trội. |
-| 2 | [**HAG**](#hag) | 64.9 | 85% | Đang trong giai đoạn kiểm tra cung rất tích cực sau một đợt điều chỉnh, cho thấy tiềm năng bứt phá sắp tới. |
-| 3 | [**PAN**](#pan) | 59.4 | 75% | Đang trong giai đoạn tích lũy với tín hiệu "Test for Supply" trên khối lượng thấp, nhưng lực cầu vẫn còn yếu. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                      |
+| :--- | :--------------- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------- |
+| 1    | [**DBC**](#dbc)  | 88.0         | 95%        | Dẫn dắt tuyệt đối với chuỗi tín hiệu SOS và Effort to Rise mạnh mẽ, khối lượng bùng nổ và hiệu suất giá vượt trội. |
+| 2    | [**HAG**](#hag)  | 64.9         | 85%        | Đang trong giai đoạn kiểm tra cung rất tích cực sau một đợt điều chỉnh, cho thấy tiềm năng bứt phá sắp tới.        |
+| 3    | [**PAN**](#pan)  | 59.4         | 75%        | Đang trong giai đoạn tích lũy với tín hiệu "Test for Supply" trên khối lượng thấp, nhưng lực cầu vẫn còn yếu.      |
 
 ---
 
@@ -1133,11 +1133,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**IPA**](#ipa) | 49.6 | 45% | Có hiệu suất giá tốt nhất nhưng câu chuyện VPA gần đây rất tiêu cực với một cú "Up-thrust", rủi ro cao. |
-| 2 | [**CSC**](#csc) | 40.6 | 40% | Tín hiệu "No Demand" rõ ràng cho thấy đà tăng đang mất động lực và có thể dễ bị tổn thương nếu áp lực bán xuất hiện. |
-| 3 | [**FIT**](#fit) | 39.4 | 50% | Đang trong giai đoạn "Test for Supply" nhưng lực cầu yếu, cần một nến tăng mạnh để xác nhận sự phục hồi. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                        |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**IPA**](#ipa)  | 49.6         | 45%        | Có hiệu suất giá tốt nhất nhưng câu chuyện VPA gần đây rất tiêu cực với một cú "Up-thrust", rủi ro cao.              |
+| 2    | [**CSC**](#csc)  | 40.6         | 40%        | Tín hiệu "No Demand" rõ ràng cho thấy đà tăng đang mất động lực và có thể dễ bị tổn thương nếu áp lực bán xuất hiện. |
+| 3    | [**FIT**](#fit)  | 39.4         | 50%        | Đang trong giai đoạn "Test for Supply" nhưng lực cầu yếu, cần một nến tăng mạnh để xác nhận sự phục hồi.             |
 
 ---
 
@@ -1197,11 +1197,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**DVN**](#dvn) | 83.0 | 90% | Câu chuyện VPA rất tích cực với chuỗi tín hiệu "No Supply" và một tuần SOS xác nhận, cho thấy tiềm năng bứt phá cao nhất ngành. |
-| 2 | [**DHG**](#dhg) | 59.5 | 50% | Có chuỗi tăng giá tốt nhưng tuần gần nhất là tín hiệu "No Demand", cho thấy đà tăng đang chững lại và cần cẩn trọng. |
-| 3 | [**IMP**](#imp) | 53.0 | 50% | Tương tự DHG, sau giai đoạn "No Supply" tích cực, tuần gần nhất cũng là tín hiệu "No Demand", cho thấy sự do dự của thị trường. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                   |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**DVN**](#dvn)  | 83.0         | 90%        | Câu chuyện VPA rất tích cực với chuỗi tín hiệu "No Supply" và một tuần SOS xác nhận, cho thấy tiềm năng bứt phá cao nhất ngành. |
+| 2    | [**DHG**](#dhg)  | 59.5         | 50%        | Có chuỗi tăng giá tốt nhưng tuần gần nhất là tín hiệu "No Demand", cho thấy đà tăng đang chững lại và cần cẩn trọng.            |
+| 3    | [**IMP**](#imp)  | 53.0         | 50%        | Tương tự DHG, sau giai đoạn "No Supply" tích cực, tuần gần nhất cũng là tín hiệu "No Demand", cho thấy sự do dự của thị trường. |
 
 ---
 
@@ -1261,11 +1261,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**HPG**](#hpg) | 88.7 | 95% | Dẫn dắt tuyệt đối với chuỗi tín hiệu SOS và No Supply mạnh mẽ, xu hướng tăng bền vững và hiệu suất vượt trội. |
-| 2 | [**NKG**](#nkg) | 68.7 | 85% | Có một câu chuyện VPA rất tích cực với tín hiệu SOS và các phiên kiểm tra cung thành công, cho thấy tiềm năng bứt phá cao. |
-| 3 | [**HSG**](#hsg) | 62.1 | 80% | Đang trong giai đoạn kiểm tra cung tích cực sau một nỗ lực tăng giá, sẵn sàng cho đợt tăng tiếp theo để bắt kịp ngành. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                              |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**HPG**](#hpg)  | 88.7         | 95%        | Dẫn dắt tuyệt đối với chuỗi tín hiệu SOS và No Supply mạnh mẽ, xu hướng tăng bền vững và hiệu suất vượt trội.              |
+| 2    | [**NKG**](#nkg)  | 68.7         | 85%        | Có một câu chuyện VPA rất tích cực với tín hiệu SOS và các phiên kiểm tra cung thành công, cho thấy tiềm năng bứt phá cao. |
+| 3    | [**HSG**](#hsg)  | 62.1         | 80%        | Đang trong giai đoạn kiểm tra cung tích cực sau một nỗ lực tăng giá, sẵn sàng cho đợt tăng tiếp theo để bắt kịp ngành.     |
 
 ---
 
@@ -1325,11 +1325,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**MSN**](#msn) | 90.5 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS cực kỳ mạnh mẽ khỏi vùng đi ngang, hiệu suất giá vượt trội và khối lượng bùng nổ. |
-| 2 | [**VNM**](#vnm) | 73.1 | 90% | Có cú bứt phá SOS mạnh mẽ khỏi xu hướng giảm dài hạn, cho thấy tiềm năng đảo chiều và vai trò dẫn dắt mới. |
-| 3 | [**SAB**](#sab) | 71.9 | 90% | Phục hồi tốt từ đáy với tín hiệu SOS xác nhận, cho thấy sự tham gia tích cực vào xu hướng chung của ngành. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                          |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**MSN**](#msn)  | 90.5         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS cực kỳ mạnh mẽ khỏi vùng đi ngang, hiệu suất giá vượt trội và khối lượng bùng nổ. |
+| 2    | [**VNM**](#vnm)  | 73.1         | 90%        | Có cú bứt phá SOS mạnh mẽ khỏi xu hướng giảm dài hạn, cho thấy tiềm năng đảo chiều và vai trò dẫn dắt mới.             |
+| 3    | [**SAB**](#sab)  | 71.9         | 90%        | Phục hồi tốt từ đáy với tín hiệu SOS xác nhận, cho thấy sự tham gia tích cực vào xu hướng chung của ngành.             |
 
 ---
 
@@ -1389,11 +1389,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**ANV**](#anv) | 90.2 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS kinh điển, khối lượng đột biến và hiệu suất giá vượt trội, mở ra một giai đoạn tăng giá mới. |
-| 2 | [**VHC**](#vhc) | 71.0 | 90% | Sức mạnh tốt với một tuần SOS thuyết phục, khẳng định vai trò đồng dẫn dắt và sự quay trở lại của lực mua. |
-| 3 | [**MPC**](#mpc) | 68.7 | 80% | Có chuỗi tăng giá mạnh mẽ nhưng tuần gần nhất có dấu hiệu chững lại với bóng nến trên, cần cẩn trọng với áp lực bán. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                     |
+| :--- | :--------------- | :----------- | :--------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**ANV**](#anv)  | 90.2         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS kinh điển, khối lượng đột biến và hiệu suất giá vượt trội, mở ra một giai đoạn tăng giá mới. |
+| 2    | [**VHC**](#vhc)  | 71.0         | 90%        | Sức mạnh tốt với một tuần SOS thuyết phục, khẳng định vai trò đồng dẫn dắt và sự quay trở lại của lực mua.                        |
+| 3    | [**MPC**](#mpc)  | 68.7         | 80%        | Có chuỗi tăng giá mạnh mẽ nhưng tuần gần nhất có dấu hiệu chững lại với bóng nến trên, cần cẩn trọng với áp lực bán.              |
 
 ---
 
@@ -1453,11 +1453,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**VTP**](#vtp) | 75.8 | 95% | Là cổ phiếu dẫn dắt duy nhất và là điểm sáng của ngành, với tín hiệu "No Supply" rất tích cực, cho thấy tiềm năng tăng giá lớn. |
-| 2 | [**PVT**](#pvt) | 39.4 | 30% | Hiệu suất giá tốt nhưng câu chuyện VPA rất tiêu cực với một tuần SOW mạnh mẽ, cho thấy sự từ chối giá ở vùng cao. |
-| 3 | [**HAH**](#hah) | 35.8 | 25% | Tương tự PVT, có tín hiệu SOW rõ ràng và cú phá vỡ xuống dưới, cho thấy nguồn cung đang kiểm soát và rủi ro giảm giá cao. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                   |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**VTP**](#vtp)  | 75.8         | 95%        | Là cổ phiếu dẫn dắt duy nhất và là điểm sáng của ngành, với tín hiệu "No Supply" rất tích cực, cho thấy tiềm năng tăng giá lớn. |
+| 2    | [**PVT**](#pvt)  | 39.4         | 30%        | Hiệu suất giá tốt nhưng câu chuyện VPA rất tiêu cực với một tuần SOW mạnh mẽ, cho thấy sự từ chối giá ở vùng cao.               |
+| 3    | [**HAH**](#hah)  | 35.8         | 25%        | Tương tự PVT, có tín hiệu SOW rõ ràng và cú phá vỡ xuống dưới, cho thấy nguồn cung đang kiểm soát và rủi ro giảm giá cao.       |
 
 ---
 
@@ -1517,11 +1517,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**HT1**](#ht1) | 88.3 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, khối lượng tăng vọt, mở ra một xu hướng tăng mới. |
-| 2 | [**PTB**](#ptb) | 77.0 | 90% | Sức mạnh tốt với một tuần SOS thuyết phục, khẳng định sự quay trở lại của lực mua sau một giai đoạn điều chỉnh. |
-| 3 | [**VLB**](#vlb) | 39.5 | 35% | Hiệu suất giá tốt nhưng câu chuyện VPA gần đây rất tiêu cực, với một tuần giảm giá cho thấy phe bán đang chiếm ưu thế. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                          |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**HT1**](#ht1)  | 88.3         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, khối lượng tăng vọt, mở ra một xu hướng tăng mới.      |
+| 2    | [**PTB**](#ptb)  | 77.0         | 90%        | Sức mạnh tốt với một tuần SOS thuyết phục, khẳng định sự quay trở lại của lực mua sau một giai đoạn điều chỉnh.        |
+| 3    | [**VLB**](#vlb)  | 39.5         | 35%        | Hiệu suất giá tốt nhưng câu chuyện VPA gần đây rất tiêu cực, với một tuần giảm giá cho thấy phe bán đang chiếm ưu thế. |
 
 ---
 
@@ -1581,11 +1581,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**CII**](#cii) | 88.3 | 95% | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, khối lượng tăng mạnh và hiệu suất giá vượt trội. |
-| 2 | [**CTD**](#ctd) | 87.0 | 95% | Câu chuyện VPA rất mạnh mẽ với cú bứt phá SOS và một tuần "Test for Supply" cực kỳ thành công, cho thấy tiềm năng tăng giá lớn. |
-| 3 | [**HUT**](#hut) | 57.8 | 60% | Đang trong giai đoạn giằng co, tích lũy. Tín hiệu trung lập và cần thêm xác nhận từ một cú phá vỡ để xác định hướng đi. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                   |
+| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | [**CII**](#cii)  | 88.3         | 95%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, khối lượng tăng mạnh và hiệu suất giá vượt trội.                |
+| 2    | [**CTD**](#ctd)  | 87.0         | 95%        | Câu chuyện VPA rất mạnh mẽ với cú bứt phá SOS và một tuần "Test for Supply" cực kỳ thành công, cho thấy tiềm năng tăng giá lớn. |
+| 3    | [**HUT**](#hut)  | 57.8         | 60%        | Đang trong giai đoạn giằng co, tích lũy. Tín hiệu trung lập và cần thêm xác nhận từ một cú phá vỡ để xác định hướng đi.         |
 
 ---
 
@@ -1645,11 +1645,11 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------ |
-| 1 | [**CTR**](#ctr) | 88.0 | 95% | Dẫn dắt tuyệt đối với chuỗi tín hiệu SOS mạnh mẽ, xu hướng tăng bền vững và hiệu suất vượt trội. |
-| 2 | [**TV2**](#tv2) | 73.1 | 90% | Có câu chuyện VPA rất tích cực với tín hiệu "No Supply" sau khi bứt phá, cho thấy tiềm năng tiếp tục tăng giá lớn. |
-| 3 | [**PC1**](#pc1) | 56.6 | 60% | Đang trong giai đoạn tích lũy chặt chẽ, tín hiệu trung lập và cần thêm xác nhận từ một cú phá vỡ để xác định hướng đi. |
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                          |
+| :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 1    | [**CTR**](#ctr)  | 88.0         | 95%        | Dẫn dắt tuyệt đối với chuỗi tín hiệu SOS mạnh mẽ, xu hướng tăng bền vững và hiệu suất vượt trội.                       |
+| 2    | [**TV2**](#tv2)  | 73.1         | 90%        | Có câu chuyện VPA rất tích cực với tín hiệu "No Supply" sau khi bứt phá, cho thấy tiềm năng tiếp tục tăng giá lớn.     |
+| 3    | [**PC1**](#pc1)  | 56.6         | 60%        | Đang trong giai đoạn tích lũy chặt chẽ, tín hiệu trung lập và cần thêm xác nhận từ một cú phá vỡ để xác định hướng đi. |
 
 ---
 

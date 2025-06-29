@@ -12,6 +12,8 @@ The primary output of this project is the **`REPORT.md`** file. This file is aut
 
 **➡️ [Click here to view the latest market report](REPORT.md)**
 
+**➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)**
+
 **🎢 [Click here to view the latest market leaders](LEADER.md)**
 
 ---

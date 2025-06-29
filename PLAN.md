@@ -1,7 +1,7 @@
 # **Kế Hoạch Giao Dịch Trung Hạn (1-3 Tháng)**
 
 *Phân tích dựa trên phương pháp VPA/Wyckoff, tổng hợp từ dữ liệu ngày 2025-01-02 đến 2025-06-27.*
-*Ngày lập kế hoạch: 2025-06-27*
+*Ngày lập kế hoạch: 2025-06-28*
 
 -----
 
@@ -9,215 +9,264 @@
 
 **➡️ [Click here to view the latest market report](REPORT.md)**
 
+**➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)**
+
 **🎢 [Click here to view the latest market leaders](LEADER.md)**
 
 -----
 
 **1. Phân Tích Trạng Thái VNINDEX & Chiến Lược**
-![Price Chart for VNINDEX](reports/VNINDEX/VNINDEX_candlestick_chart.png)
-  - [View Report](REPORT.md#VNINDEX)
-  - **Trạng thái hiện tại của VNINDEX là đang trong giai đoạn "Tăng Tốc (Mark Up)".** Sau các phiên kiểm tra cung thành công, phiên giao dịch ngày 27/06 là một tín hiệu **Effort to Rise** mạnh mẽ. Chỉ số tăng dứt khoát với khối lượng lớn, xác nhận lực cầu đã quay trở lại và hấp thụ hết áp lực bán chốt lời. Xu hướng tăng trung hạn được củng cố mạnh mẽ, mở ra tiềm năng chỉ số sẽ tiếp tục hướng đến các vùng giá cao hơn.
-  - **Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng:** `1355 - 1365` điểm. Đây là vùng hỗ trợ gần nhất, tương ứng với các đỉnh cũ và vùng giá mà chỉ số đã kiểm tra cung thành công. Một nhịp điều chỉnh về vùng này với khối lượng thấp dần sẽ là cơ hội tốt để gia tăng vị thế, xác nhận lực cầu vẫn đang hấp thụ tốt và sẵn sàng cho nhịp tăng tiếp theo.
 
-**2. Top 10 Cơ Hội Giao Dịch**
+![Weekly Chart](./reports_week/VNINDEX/VNINDEX_candlestick_chart.png)
 
-Dựa trên phân tích "câu chuyện" VPA của từng cổ phiếu, dưới đây là 10 cơ hội giao dịch tiềm năng nhất. Danh sách được ưu tiên dựa trên sự rõ ràng và hoàn chỉnh của cấu trúc tăng giá, sau khi đã so sánh và cân nhắc kỹ lưỡng với các cổ phiếu khác.
+![Daily Chart](./reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-1.  [**VHC**](#VHC) (Thủy Sản) - (Độ tin cậy: 95%)
-2.  [**BCM**](#BCM) (Bất Động Sản KCN) - (Độ tin cậy: 90%)
-3.  [**VCG**](#VCG) (Đầu Tư Công) - (Độ tin cậy: 90%)
-4.  [**ANV**](#ANV) (Thủy Sản) - (Độ tin cậy: 95%)
-5.  [**MSR**](#MSR) (Thép) - (Độ tin cậy: 90%)
-6.  [**PHR**](#PHR) (Cao Su) - (Độ tin cậy: 90%)
-7.  [**PNJ**](#PNJ) (Bán Lẻ) - (Độ tin cậy: 90%)
-8.  [**SCS**](#SCS) (Hàng Không) - (Độ tin cậy: 90%)
-9.  [**VNM**](#VNM) (Thực Phẩm) - (Độ tin cậy: 90%)
-10. [**VND**](#VND) (Chứng Khoán) - (Độ tin cậy: 90%)
+  - [View Report](./REPORT.md#VNINDEX)
+  - **Trạng thái hiện tại của VNINDEX là đang trong giai đoạn "Tăng Tốc (Mark Up)".** Câu chuyện VPA đa khung thời gian cho thấy một xu hướng tăng vững chắc. Trên biểu đồ tuần, VNINDEX đã có một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)** rõ ràng, xác nhận thị trường đang trong một xu hướng tăng trưởng. Phân tích trên biểu đồ ngày cũng cho thấy các tín hiệu **Effort to Rise (Nỗ lực tăng giá)** liên tiếp, với lực cầu quay trở lại mạnh mẽ sau những phiên kiểm tra cung thành công. Các phiên giảm điểm gần đây có khối lượng thấp, cho thấy áp lực bán không lớn và đang được hấp thụ tốt.
+  - **Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng:** `1350 - 1360` điểm. Đây là vùng hỗ trợ được hình thành bởi các đỉnh ngắn hạn trước đó. Một nhịp điều chỉnh lành mạnh về vùng này với khối lượng thấp sẽ là cơ hội lý tưởng để gia tăng vị thế, khi nó xác nhận rằng lực cầu vẫn đang kiểm soát và xu hướng tăng sẵn sàng tiếp diễn.
 
-**(Cổ phiếu bị loại khỏi Top List kỳ này: IDC, BVH, MBB, GEX, TCB, NT2, GVR, DBC - xem chi tiết ở Nhật Ký Thay Đổi)**
+**2. Top 1x Cơ Hội Giao Dịch**
+
+Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cảnh ngành, dưới đây là những cơ hội giao dịch hàng đầu.
+
+1.  [**TNG**](#TNG) (Dệt May - Dẫn dắt đồng thuận) - (Độ tin cậy: 95%)
+2.  [**ANV**](#ANV) (Thủy Sản - Dẫn dắt đồng thuận) - (Độ tin cậy: 95%)
+3.  [**DPR**](#DPR) (Cao Su - Dẫn dắt đồng thuận) - (Độ tin cậy: 95%)
+4.  [**IDC**](#IDC) (Bất Động Sản KCN - Dẫn dắt phân hóa) - (Độ tin cậy: 95%)
+5.  [**VND**](#VND) (Chứng Khoán - Yếu/Phân Phối) - (Độ tin cậy: 90%)
+6.  [**CMG**](#CMG) (Công Nghệ - Dẫn dắt đồng thuận) - (Độ tin cậy: 90%)
+7.  [**MSN**](#MSN) (Thực Phẩm - Dẫn dắt đồng thuận) - (Độ tin cậy: 90%)
+8.  [**CTR**](#CTR) (Xây Lắp Điện - Dẫn dắt đồng thuận) - (Độ tin cậy: 90%)
+9.  [**VHC**](#VHC) (Thủy Sản - Dẫn dắt đồng thuận) - (Độ tin cậy: 90%)
+10. [**BCM**](#BCM) (Bất Động Sản KCN - Dẫn dắt phân hóa) - (Độ tin cậy: 90%)
 
 **3. Danh Sách Cổ Phiếu Tiềm Năng (Chờ Xác Nhận Lên Top Hoặc Loại Bỏ)**
 
-Đây là các cổ phiếu đang cho thấy những tín hiệu VPA ban đầu hứa hẹn nhưng cần thêm thời gian và sự xác nhận từ thị trường để hoàn thiện câu chuyện tăng giá. Chỉ các cổ phiếu có "Điểm tự tin cho việc thăng hạng" > 80% mới được đưa vào danh sách này.
+Đây là các cổ phiếu đang cho thấy những tín hiệu VPA ban đầu hứa hẹn nhưng cần thêm thời gian và sự xác nhận để hoàn thiện câu chuyện tăng giá. Chỉ các cổ phiếu có "Điểm tự tin cho việc thăng hạng" > 80% mới được đưa vào danh sách này.
 
-  - [**ACV**](REPORT.md#ACV) (Hàng Không) - (Điểm tự tin cho việc thăng hạng: 95%)
-      - **Lý do:** ACV đã hoàn thành một chuỗi VPA kinh điển: Shakeout -> SOS -> Effort to Rise. Đây là một trong những mô hình tăng giá mạnh mẽ nhất, cho thấy lực cầu đã hoàn toàn áp đảo sau khi rũ bỏ thành công.
-  - [**CMG**](REPORT.md#CMG) (Công nghệ) - (Điểm tự tin cho việc thăng hạng: 95%)
-      - **Lý do:** CMG là điểm sáng duy nhất của ngành với tín hiệu SOS bùng nổ vào ngày 27/06, xác nhận phiên kiểm tra cung trước đó đã thành công. Dòng tiền lớn đã nhập cuộc quyết đoán, tạo ra sự khác biệt hoàn toàn.
-  - [**PVI**](REPORT.md#PVI) (Bảo Hiểm) - (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Lý do:** PVI có câu chuyện VPA gần như hoàn hảo: một phiên SOS bùng nổ vào ngày 26/06, được theo sau bởi một phiên Test for Supply với khối lượng cạn kiệt vào ngày 27/06. Đây là một trong những thiết lập mua đáng tin cậy nhất.
-  - [**DGC**](REPORT.md#DGC) (Hoá Chất) - (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Lý do:** DGC đã có một phiên SOS bùng nổ vào ngày 27/06, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng đã được thiết lập từ phiên SOS ngày 16/06.
-  - [**KBC**](REPORT.md#KBC) (Bất Động Sản KCN) - (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Lý do:** KBC đang kể một câu chuyện phục hồi mạnh mẽ với chuỗi các tín hiệu Effort to Rise liên tiếp. Phiên Test for Supply ngày 27/06 với khối lượng giảm cho thấy áp lực bán không lớn và cổ phiếu đã sẵn sàng cho nhịp tăng tiếp theo.
-  - [**IDC**](REPORT.md#IDC) (Bất Động Sản KCN) - (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Lý do:** IDC vẫn duy trì cấu trúc tăng giá mạnh mẽ. Mặc dù phiên gần nhất là một phiên Test for Supply, nhưng tín hiệu No Supply cạn kiệt vào ngày 26/06 là một điểm cộng rất lớn, cho thấy cổ phiếu có tiềm năng tăng giá mạnh.
-  - [**TNG**](REPORT.md#TNG) (Dệt May) - (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Lý do:** TNG là cổ phiếu dẫn dắt rõ ràng của ngành, thể hiện sức mạnh với chuỗi các phiên Effort to Rise mạnh mẽ, cho thấy lực cầu đang kiểm soát và sẵn sàng cho nhịp tăng tiếp theo.
-  - [**MWG**](REPORT.md#MWG) (Bán Lẻ) - (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Lý do:** MWG có phiên Effort to Rise mạnh mẽ vào ngày 27/06, với khối lượng tăng vọt, đã xác nhận phiên kiểm tra cung trước đó thành công. Điều này cho thấy lực cầu đã quay trở lại một cách quyết đoán.
-  - [**SSI**](REPORT.md#SSI) (Chứng Khoán) - (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Lý do:** SSI đã có phiên Test for Supply tích cực vào ngày 26/06 với khối lượng giảm và lực cầu xuất hiện đỡ giá. Mặc dù phiên gần nhất là trung tính, cấu trúc phục hồi sau Shakeout vẫn được duy trì tốt.
-  - [**CII**](REPORT.md#CII) (Xây Dựng) - (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Lý do:** CII là điểm sáng duy nhất của ngành Xây dựng. Phiên tăng giá mạnh mẽ vào ngày 26/06 và phiên Test for Supply thành công vào ngày 27/06 cho thấy lực cầu đã quay trở lại và CII có tiềm năng dẫn dắt ngành.
+  - [**ACV**](./REPORT.md#ACV) (Hàng Không) - (Điểm tự tin cho việc thăng hạng: 95%)
+      - **Lý do:** ACV đã có một cú **Shakeout** trên biểu đồ ngày, được xác nhận bởi một **Sign of Strength (SOS)** mạnh mẽ. Hành động này diễn ra ngay sau khi biểu đồ tuần cũng cho thấy một tín hiệu SOS, cho thấy sự đồng thuận mạnh mẽ giữa hai khung thời gian.
+  - [**CII**](./REPORT.md#CII) (Xây Dựng) - (Điểm tự tin cho việc thăng hạng: 90%)
+      - **Lý do:** CII đã có một **Sign of Strength (SOS)** bùng nổ trên cả biểu đồ ngày và tuần, cho thấy lực cầu đã quay trở lại một cách quyết đoán sau một thời gian dài tích lũy. Cần một phiên kiểm tra cung thành công để có điểm vào tối ưu.
+  - [**DGC**](./REPORT.md#DGC) (Hoá Chất) - (Điểm tự tin cho việc thăng hạng: 90%)
+      - **Lý do:** DGC là điểm sáng hiếm hoi trong ngành đang yếu đi. Cổ phiếu có tín hiệu SOS trên cả hai khung thời gian, cho thấy sức mạnh tương đối vượt trội. Một phiên kiểm tra cung thành công sẽ là cơ hội tốt.
+  - [**KBC**](./REPORT.md#KBC) (Bất Động Sản KCN) - (Điểm tự tin cho việc thăng hạng: 85%)
+      - **Lý do:** KBC đang trong giai đoạn phục hồi mạnh mẽ. Cổ phiếu đã có các tín hiệu **Effort to Rise** và **SOS** trên cả hai khung thời gian, cho thấy tiềm năng tiếp tục xu hướng tăng.
+  - [**DGW**](./REPORT.md#DGW) (Bán Lẻ) - (Điểm tự tin cho việc thăng hạng: 85%)
+      - **Lý do:** DGW đang trong một xu hướng tăng mạnh, được xác nhận bởi cả tín hiệu **Test for Supply** trên biểu đồ tuần và **Effort to Rise** trên biểu đồ ngày. Cần một nhịp điều chỉnh lành mạnh để có điểm vào an toàn hơn.
 
 **4. Danh Sách Cổ Phiếu Bị Hạ Ưu Tiên (Chờ Loại Bỏ)**
 
 Đây là các cổ phiếu đã từng nằm trong danh sách ưu tiên nhưng hiện tại đang có những tín hiệu VPA suy yếu hoặc có câu chuyện kém hấp dẫn hơn so với các cổ phiếu trong Top 1x.
 
-  - [**BVH**](REPORT.md#BVH) (Bảo Hiểm) - (Chuyển vào ngày: 2025-06-27) - (Độ tin cậy giữ nguyên lý do: 70%)
-      - **Lý do:** Xuất hiện tín hiệu **Effort to Fall** nhẹ trong phiên 27/06, cho thấy áp lực bán đang quay trở lại và phủ nhận tín hiệu No Supply tích cực của phiên trước. Điều này phá vỡ câu chuyện tăng giá liền mạch.
-  - [**GEX**](REPORT.md#GEX) (Others) - (Chuyển vào ngày: 2025-06-27) - (Độ tin cậy giữ nguyên lý do: 70%)
-      - **Lý do:** Các phiên **Test for Supply** liên tiếp không thành công, phe mua không thể hiện được sức mạnh để vượt qua vùng kháng cự sau phiên SOS, cho thấy lực cung vẫn đang chiếm ưu thế.
-  - [**TCB**](REPORT.md#TCB) (Ngân Hàng) - (Chuyển vào ngày: 2025-06-27) - (Độ tin cậy giữ nguyên lý do: 70%)
-      - **Lý do:** Nỗ lực tăng giá yếu ớt của phiên 26/06 đã bị phủ nhận ngay bởi phiên giảm điểm sau đó, xác nhận lực cầu không đủ mạnh để duy trì đà tăng.
-  - [**NT2**](REPORT.md#NT2) (Năng Lượng) - (Chuyển vào ngày: 2025-06-27) - (Độ tin cậy giữ nguyên lý do: 70%)
-      - **Lý do:** Câu chuyện tăng giá sau SOS đã hoàn toàn suy yếu và chuyển thành **No Demand**, cho thấy lực cầu đã cạn kiệt và không thể duy trì đà tăng.
-  - [**GVR**](REPORT.md#GVR) (Cao Su) - (Chuyển vào ngày: 2025-06-27) - (Độ tin cậy giữ nguyên lý do: 70%)
-      - **Lý do:** Xuất hiện tín hiệu **Effort to Fall** nhẹ trong phiên 27/06, cho thấy áp lực bán đang quay trở lại và phủ nhận nỗ lực phục hồi trước đó.
-  - [**DBC**](REPORT.md#DBC) (Nông Nghiệp) - (Chuyển vào ngày: 2025-06-27) - (Độ tin cậy giữ nguyên lý do: 60%)
-      - **Lý do:** Xuất hiện tín hiệu bất thường (upthrust-like) trong phiên 27/06, khi nỗ lực tăng giá thất bại trên khối lượng lớn, cho thấy một lượng cung đáng kể đang cản trở.
-  - [**LPB**](REPORT.md#LPB) (Ngân Hàng) - (Chuyển vào ngày: 2025-06-24) - (Độ tin cậy giữ nguyên lý do: 75%)
-      - **Cập nhật:** Các phiên gần đây tiếp tục là **No Demand/No Supply**, thị trường thiếu động lực. Câu chuyện tăng giá sau SOS ngày 17/06 đã hoàn toàn suy yếu.
+  - [**HPG**](./REPORT.md#HPG) (Thép) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 95%)
+      - **Lý do:** Xuất hiện tín hiệu **Up-thrust (SOW)** trên biểu đồ ngày, được xác nhận bởi một phiên **No Demand** ngay sau đó. Hành động này phủ nhận sức mạnh của tín hiệu SOS trên biểu đồ tuần trước đó, cho thấy áp lực phân phối lớn.
+  - [**TCB**](./REPORT.md#TCB) (Ngân Hàng) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 90%)
+      - **Lý do:** Tín hiệu **Up-thrust** trên biểu đồ tuần được xác nhận bởi các tín hiệu yếu kém (Effort to Fall, No Demand) trên biểu đồ ngày, cho thấy câu chuyện tăng giá đã bị phá vỡ.
+  - [**GAS**](./REPORT.md#GAS) (Dầu Khí) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 90%)
+      - **Lý do:** Xuất hiện tín hiệu **Up-thrust** trên biểu đồ tuần và được xác nhận bởi tín hiệu **No Demand** trên biểu đồ ngày. Sự đảo chiều giảm giá mạnh mẽ này sau một giai đoạn tăng tốc cho thấy áp lực phân phối lớn.
+  - [**FTS**](./REPORT.md#FTS) (Chứng Khoán) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 90%)
+      - **Lý do:** Tín hiệu **Up-thrust** trên biểu đồ tuần và **No Demand** trên biểu đồ ngày cho thấy lực cầu đã suy yếu nghiêm trọng và áp lực bán đang chiếm ưu thế.
+  - [**BSR**](./REPORT.md#BSR) (Dầu Khí) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
+      - **Lý do:** Một cú **Down-thrust** trên biểu đồ tuần và các tín hiệu **Effort to Fall** liên tiếp trên biểu đồ ngày xác nhận sự đảo chiều giảm giá mạnh mẽ.
+  - [**HAH**](./REPORT.md#HAH) (Vận Tải) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
+      - **Lý do:** Xuất hiện tín hiệu **Sign of Weakness (SOW)** trên cả hai khung thời gian, cho thấy áp lực bán đang áp đảo và xu hướng giảm có khả năng tiếp diễn.
+  - [**DCM**](./REPORT.md#DCM) (Hoá Chất) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
+      - **Lý do:** Một cú **Up-thrust** trên biểu đồ tuần và tín hiệu **Effort to Fall** trên biểu đồ ngày xác nhận sự kết thúc của đợt tăng giá và bắt đầu của một giai đoạn phân phối.
+  - [**DPM**](./REPORT.md#DPM) (Hoá Chất) - (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
+      - **Lý do:** Tín hiệu **SOW** trên biểu đồ tuần sau một **Buying Climax** tiềm năng, cùng với tín hiệu **No Demand** trên biểu đồ ngày, cho thấy áp lực phân phối đang gia tăng mạnh.
+  - [**STB**](./REPORT.md#STB) (Ngân Hàng) - (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 80%)
+      - **Lý do:** Mặc dù biểu đồ tuần vẫn tích cực, các tín hiệu **Effort to Fall** trên biểu đồ ngày cho thấy sự suy yếu trong ngắn hạn, cần thời gian để hấp thụ lực bán.
+  - [**VPB**](./REPORT.md#VPB) (Ngân Hàng) - (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 80%)
+      - **Lý do:** Một tín hiệu bất thường (anomaly) trên biểu đồ ngày (khối lượng cao, giá không tăng) đã được xác nhận bởi các tín hiệu yếu sau đó, cho thấy lực cung đang thắng thế.
+  - [**HDG**](./REPORT.md#HDG) (Năng Lượng) - (Chuyển vào ngày: 2025-06-26) - (Độ tin cậy giữ nguyên lý do: 80%)
+      - **Lý do:** Tín hiệu **Sign of Weakness (SOW)** trên biểu đồ tuần và các tín hiệu **Effort to Fall** trên biểu đồ ngày cho thấy áp lực bán đang gia tăng, làm suy yếu câu chuyện tăng giá.
 
-**5. Phân Tích Chi Tiết Từng Cổ Phiếu (Trong Top 10)**
-
------
-
-### **VHC**
-![Price Chart for VHC](reports/VHC/VHC_candlestick_chart.png)
-  - [View Report](REPORT.md#VHC)
-  - **Phân Tích Cốt Lõi:** VHC đang thể hiện một trong những câu chuyện VPA mạnh mẽ và hoàn chỉnh nhất. Cổ phiếu này là một trong những leader của ngành Thủy sản, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận" theo phân tích từ `LEADER.md`. Kịch bản VPA diễn ra như sau: (1) Một phiên **SOS** bùng nổ vào ngày 20/06, báo hiệu sự quay trở lại của dòng tiền lớn. (2) Các phiên sau đó là những nhịp **Test for Supply** lành mạnh với khối lượng giảm dần. (3) Một phiên **SOS** thứ hai vào ngày 26/06 và được xác nhận bởi phiên **Effort to Rise** ngày 27/06, cho thấy lực mua áp đảo và sẵn sàng cho một nhịp tăng giá mới.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `58.5 - 59.5` | **Dừng Lỗ:** Dưới `56.5` | **Chốt Lời:** `68.0 - 72.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu xác nhận sức mạnh bằng chuỗi SOS và Effort to Rise liên tiếp, sau khi đã hoàn thành giai đoạn kiểm tra cung. Đây là điểm vào có độ tin cậy cao khi cả sức mạnh cổ phiếu và sức mạnh ngành đều đồng thuận.
-
------
-
-### **BCM**
-![Price Chart for BCM](reports/BCM/BCM_candlestick_chart.png)
-  - [View Report](REPORT.md#BCM)
-  - **Phân Tích Cốt Lõi:** BCM là cổ phiếu dẫn dắt số 1 của ngành BĐS KCN, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận" mạnh mẽ. Câu chuyện VPA của BCM gần như hoàn hảo: (1) Chuỗi **Effort to Rise** mạnh mẽ vào ngày 23/06 và 24/06. (2) Các phiên **Test for Supply** và **No Supply** sau đó với khối lượng giảm dần, cho thấy lực bán đã cạn kiệt. (3) Phiên 27/06 là một **Effort to Rise** quyết đoán, xác nhận lực cầu đã quay trở lại và hấp thụ hết cung. Sự kết hợp giữa VPA hoàn hảo và vị thế dẫn đầu trong ngành mạnh nhất thị trường tạo ra một thiết lập có xác suất thành công rất cao.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `62.0 - 63.0` | **Dừng Lỗ:** Dưới `61.0` | **Chốt Lời:** `70.0 - 73.0`
-  - **Lý Do Cho Vùng Tham Gia:** Tham gia khi cổ phiếu xác nhận tín hiệu No Supply bằng một phiên Effort to Rise mạnh mẽ. Đây là điểm vào tối ưu theo Wyckoff, ngay trước khi cổ phiếu có thể bước vào giai đoạn tăng tốc.
+**5. Phân Tích Chi Tiết Từng Cổ Phiếu (Trong Top 1x)**
 
 -----
 
-### **VCG**
-![Price Chart for VCG](reports/VCG/VCG_candlestick_chart.png)
-  - [View Report](REPORT.md#VCG)
-  - **Phân Tích Cốt Lõi:** VCG là cổ phiếu dẫn dắt số 1 của ngành Đầu tư công, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Câu chuyện VPA của VCG rất thuyết phục: (1) Một chuỗi các phiên **Effort to Rise** mạnh mẽ từ ngày 17/06 đến 23/06. (2) Các phiên **Test for Supply** sau đó với khối lượng giảm dần, cho thấy sự hấp thụ lực bán tốt. (3) Phiên 27/06 là một **Effort to Rise** tiếp diễn trên khối lượng lớn, xác nhận lực cầu vẫn đang duy trì tốt và sẵn sàng đẩy giá lên cao hơn.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `21.8 - 22.2` | **Dừng Lỗ:** Dưới `21.2` | **Chốt Lời:** `25.5 - 27.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu đang trong một xu hướng tăng được xác nhận bởi chuỗi Effort to Rise và các phiên kiểm tra cung thành công. Vị thế dẫn đầu trong một ngành mạnh là yếu tố hỗ trợ quan trọng.
+### **TNG**
+
+![Weekly Chart](./reports_week/TNG/TNG_candlestick_chart.png)
+
+![Daily Chart](./reports/TNG/TNG_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#TNG)
+
+  - **Phân Tích Cốt Lõi:** TNG đang là cổ phiếu dẫn dắt không thể tranh cãi của ngành Dệt May, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Biểu đồ tuần cho thấy một cú bứt phá **SOS** hoàn hảo, với khối lượng tăng vọt gấp ba lần tuần trước, xác nhận sự tham gia của dòng tiền lớn và mở ra một giai đoạn tăng giá mới. Trên biểu đồ ngày, câu chuyện cũng rất thuyết phục với một chuỗi các tín hiệu **Effort to Rise** liên tiếp. Sự đồng thuận mạnh mẽ giữa hai khung thời gian, kết hợp với sức mạnh của ngành, tạo ra một cơ hội giao dịch có xác suất thành công rất cao.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `20.0 - 20.6` | **Dừng Lỗ:** Dưới `19.0` | **Chốt Lời:** `24.0 - 25.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào trong một nhịp điều chỉnh nhẹ sau khi cổ phiếu đã bứt phá mạnh mẽ khỏi nền giá. Điểm dừng lỗ được đặt dưới vùng hỗ trợ gần nhất, là vùng đỉnh cũ đã bị phá vỡ.
 
 -----
 
 ### **ANV**
-![Price Chart for ANV](reports/ANV/ANV_candlestick_chart.png)
-  - [View Report](REPORT.md#ANV)
-  - **Phân Tích Cốt Lõi:** ANV là cổ phiếu dẫn dắt số 1 của ngành Thủy sản, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Câu chuyện VPA của ANV rất mạnh mẽ: (1) Một phiên **SOS** bùng nổ vào ngày 20/06. (2) Các phiên **Test for Supply** sau đó với khối lượng giảm dần. (3) Một phiên **Effort to Rise** mạnh mẽ vào ngày 26/06, và được xác nhận bởi một phiên **SOS** bùng nổ khác vào ngày 27/06. Chuỗi hành động này cho thấy lực mua đang hoàn toàn áp đảo và xu hướng tăng rất bền vững.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `19.0 - 19.8` | **Dừng Lỗ:** Dưới `18.0` | **Chốt Lời:** `23.5 - 25.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu xác nhận sức mạnh bằng chuỗi SOS và Effort to Rise liên tiếp. Đây là điểm vào có độ tin cậy cao khi cả sức mạnh cổ phiếu và sức mạnh ngành đều đồng thuận.
+
+![Weekly Chart](./reports_week/ANV/ANV_candlestick_chart.png)
+
+![Daily Chart](./reports/ANV/ANV_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#ANV)
+
+  - **Phân Tích Cốt Lõi:** ANV đang trong một giai đoạn tăng tốc mạnh mẽ, là cổ phiếu dẫn dắt ngành Thủy Sản (một ngành "Dẫn dắt Đồng Thuận"). Biểu đồ tuần cho thấy một nến **Sign of Strength (SOS)** kinh điển, với biên độ rộng và khối lượng bùng nổ, xác nhận một giai đoạn tăng giá mới. Trên biểu đồ ngày, ANV cũng có một phiên SOS vào ngày 27/06, xác nhận cho một chuỗi các nỗ lực tăng giá thành công trước đó. Sự kết hợp của các yếu tố này tạo ra một cơ hội giao dịch có xác suất thành công cao.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `19.0 - 19.8` | **Dừng Lỗ:** Dưới `18.0` | **Chốt Lời:** `24.0 - 26.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi giá đang trong đà tăng mạnh, có sự xác nhận từ cả hai khung thời gian. Điểm dừng lỗ được đặt dưới vùng tích lũy gần nhất để bảo vệ vốn.
 
 -----
 
-### **MSR**
-![Price Chart for MSR](reports/MSR/MSR_candlestick_chart.png)
-  - [View Report](REPORT.md#MSR)
-  - **Phân Tích Cốt Lõi:** MSR là cổ phiếu dẫn dắt số 1 của ngành Thép, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Câu chuyện VPA của MSR rất thuyết phục: (1) Một phiên **SOS** bùng nổ vào ngày 26/06 sau một thời gian dài đi ngang thiếu động lực. (2) Phiên 27/06 là một **Effort to Rise** xác nhận, cho thấy lực cầu vẫn đang duy trì tốt. Sự bứt phá mạnh mẽ này cho thấy MSR có tiềm năng bắt đầu một xu hướng tăng mới.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `18.5 - 19.0` | **Dừng Lỗ:** Dưới `17.8` | **Chốt Lời:** `22.5 - 24.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu bứt phá khỏi nền tích lũy với tín hiệu SOS mạnh mẽ. Đây là điểm vào có tiềm năng lợi nhuận cao khi một xu hướng mới bắt đầu.
+### **DPR**
+
+![Weekly Chart](./reports_week/DPR/DPR_candlestick_chart.png)
+
+![Daily Chart](./reports/DPR/DPR_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#DPR)
+
+  - **Phân Tích Cốt Lõi:** DPR đang thể hiện một câu chuyện VPA cực kỳ mạnh mẽ, dẫn dắt ngành Cao Su (ngành "Dẫn dắt Đồng Thuận"). Trên biểu đồ tuần, cổ phiếu đã có một cú bứt phá **Sign of Strength (SOS)** khỏi vùng đỉnh cũ, được xác nhận bởi khối lượng tăng vọt. Biểu đồ ngày cũng cho thấy một chuỗi các tín hiệu **Effort to Rise** và **SOS**, gần đây nhất là phiên tăng giá bùng nổ ngày 25/06. Mặc dù có một phiên điều chỉnh nhẹ vào ngày 27/06, đây chỉ là một **Test for Supply** bình thường sau một đợt tăng mạnh. Sự đồng thuận giữa hai khung thời gian và sức mạnh của ngành tạo ra một thiết lập rất đáng tin cậy.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `40.5 - 41.5` | **Dừng Lỗ:** Dưới `39.5` | **Chốt Lời:** `48.0 - 50.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào trong nhịp điều chỉnh sau khi cổ phiếu bứt phá mạnh. Điểm dừng lỗ được đặt dưới vùng hỗ trợ gần nhất, là vùng đỉnh cũ đã bị phá vỡ.
 
 -----
 
-### **PHR**
-![Price Chart for PHR](reports/PHR/PHR_candlestick_chart.png)
-  - [View Report](REPORT.md#PHR)
-  - **Phân Tích Cốt Lõi:** PHR là cổ phiếu dẫn dắt số 1 của ngành Cao su, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Câu chuyện VPA của PHR rất mạnh mẽ: (1) Chuỗi **SOS** và **Effort to Rise** liên tiếp từ ngày 19/06 đến 25/06. (2) Một phiên **Test for Supply** thành công vào ngày 26/06 với khối lượng giảm. (3) Phiên 27/06 là một **Effort to Rise** xác nhận, cho thấy lực cầu đã quay trở lại và hấp thụ hết cung.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `60.0 - 61.0` | **Dừng Lỗ:** Dưới `58.5` | **Chốt Lời:** `68.0 - 71.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu xác nhận hoàn thành giai đoạn kiểm tra cung bằng một phiên Effort to Rise. Vị thế dẫn đầu trong một ngành mạnh là yếu tố hỗ trợ quan trọng.
+### **IDC**
 
------
+![Weekly Chart](./reports_week/IDC/IDC_candlestick_chart.png)
 
-### **PNJ**
-![Price Chart for PNJ](reports/PNJ/PNJ_candlestick_chart.png)
-  - [View Report](REPORT.md#PNJ)
-  - **Phân Tích Cốt Lõi:** PNJ là một trong những cổ phiếu dẫn dắt của ngành Bán lẻ, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Câu chuyện VPA của PNJ rất thuyết phục: (1) Một phiên **SOS** mạnh mẽ vào ngày 16/06. (2) Các phiên **Test for Supply** sau đó với khối lượng giảm dần. (3) Chuỗi **Effort to Rise** liên tiếp trong hai phiên gần nhất, xác nhận lực cầu đã quay trở lại một cách quyết đoán.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `81.0 - 82.0` | **Dừng Lỗ:** Dưới `79.5` | **Chốt Lời:** `90.0 - 93.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu xác nhận hoàn thành giai đoạn kiểm tra cung bằng chuỗi Effort to Rise. Sức mạnh của ngành là yếu tố hỗ trợ quan trọng.
+![Daily Chart](./reports/IDC/IDC_candlestick_chart.png) 
 
------
+  - [View Report](./REPORT.md#IDC)
 
-### **SCS**
-![Price Chart for SCS](reports/SCS/SCS_candlestick_chart.png)
-  - [View Report](REPORT.md#SCS)
-  - **Phân Tích Cốt Lõi:** SCS là một trong những cổ phiếu dẫn dắt của ngành Hàng không, một ngành đang trong trạng thái "Dẫn dắt Phân Hóa". Câu chuyện VPA của SCS rất mạnh mẽ: (1) Một phiên **SOS** bùng nổ vào ngày 26/06 với giá tăng vọt trên khối lượng lớn. (2) Phiên 27/06 là một **Effort to Rise** xác nhận, cho thấy phe mua đang kiểm soát hoàn toàn và sẵn sàng đẩy giá lên cao hơn.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `67.5 - 68.5` | **Dừng Lỗ:** Dưới `65.0` | **Chốt Lời:** `78.0 - 82.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu bứt phá mạnh mẽ với tín hiệu SOS và được xác nhận bởi Effort to Rise. Đây là điểm vào có tiềm năng lợi nhuận cao khi một xu hướng mới bắt đầu.
-
------
-
-### **VNM**
-![Price Chart for VNM](reports/VNM/VNM_candlestick_chart.png)
-  - [View Report](REPORT.md#VNM)
-  - **Phân Tích Cốt Lõi:** VNM là một trong những cổ phiếu dẫn dắt của ngành Thực phẩm, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận". Câu chuyện VPA của VNM rất thuyết phục: (1) Chuỗi **Effort to Rise** mạnh mẽ từ ngày 20/06 đến 25/06. (2) Một phiên **Test for Supply** thành công vào ngày 26/06 với khối lượng giảm. (3) Phiên 27/06 là một **Effort to Rise** mạnh mẽ, xác nhận lực cầu đã quay trở lại một cách quyết đoán.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `57.0 - 58.0` | **Dừng Lỗ:** Dưới `56.0` | **Chốt Lời:** `64.0 - 66.0`
-  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu xác nhận hoàn thành giai đoạn kiểm tra cung bằng một phiên Effort to Rise mạnh mẽ. Sức mạnh của ngành là yếu tố hỗ trợ quan trọng.
+  - **Phân Tích Cốt Lõi:** IDC là cổ phiếu dẫn dắt không thể tranh cãi của ngành BĐS KCN (ngành đang "Dẫn dắt Phân Hóa"). Biểu đồ tuần cho thấy một cú bứt phá **SOS** khỏi nền tích lũy, xác nhận xu hướng tăng mới. Câu chuyện trên biểu đồ ngày là một ví dụ textbook: sau phiên SOS ngày 24/06, cổ phiếu đã có hai phiên **Test for Supply** rất tích cực (đặc biệt là phiên 26/06 với khối lượng cạn kiệt), cho thấy áp lực bán gần như không còn. Hành động "backing up" này tạo ra một điểm vào có rủi ro thấp và tiềm năng cao.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `43.5 - 44.5` | **Dừng Lỗ:** Dưới `42.5` | **Chốt Lời:** `50.0 - 52.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào sau khi cổ phiếu hoàn thành quá trình kiểm tra cung (backing up) sau một cú phá vỡ mạnh mẽ. Điểm dừng lỗ được đặt ngay dưới vùng hỗ trợ được tạo bởi các phiên kiểm tra cung.
 
 -----
 
 ### **VND**
-![Price Chart for VND](reports/VND/VND_candlestick_chart.png)
-  - [View Report](REPORT.md#VND)
-  - **Phân Tích Cốt Lõi:** VND là cổ phiếu dẫn dắt số 1 của ngành Chứng khoán, một ngành đang trong trạng thái "Dẫn dắt Phân Hóa". Câu chuyện VPA của VND rất mạnh mẽ: (1) Một cú **Shakeout** mạnh mẽ vào ngày 13/06. (2) Một phiên **SOS** bùng nổ vào ngày 24/06. (3) Các phiên **Test for Supply** sau đó thành công, và được xác nhận bởi một phiên **Effort to Rise** vào ngày 26/06. Mặc dù phiên gần nhất là trung tính, cấu trúc tăng giá tổng thể vẫn rất tích cực.
-  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `16.8 - 17.2` | **Dừng Lỗ:** Dưới `16.3` | **Chốt Lời:** `20.0 - 21.5`
-  - **Lý Do Cho Vùng Tham Gia:** Tham gia khi cổ phiếu xác nhận sức mạnh sau một cú Shakeout và SOS, đồng thời đã vượt qua một phiên Test for Supply thành công. Vị thế dẫn đầu trong ngành là yếu tố hỗ trợ quan trọng.
+
+![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png)
+
+![Daily Chart](./reports/VND/VND_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#VND)
+
+  - **Phân Tích Cốt Lõi:** VND là một trường hợp đặc biệt, thể hiện sức mạnh tương đối vượt trội so với toàn ngành Chứng khoán (đang trong trạng thái "Yếu/Phân Phối"). Biểu đồ tuần cho thấy một cú bứt phá **SOS** ngoạn mục khỏi nền tích lũy, với khối lượng bùng nổ. Trên biểu đồ ngày, cổ phiếu cũng có một phiên SOS mạnh mẽ vào ngày 24/06, theo sau là các phiên **Test for Supply** và **Effort to Rise** thành công. Việc một cổ phiếu đi ngược lại xu hướng yếu của ngành là một minh chứng cho sức mạnh nội tại và sự thu hút dòng tiền riêng.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `16.8 - 17.2` | **Dừng Lỗ:** Dưới `16.0` | **Chốt Lời:** `20.0 - 21.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu đang thể hiện sức mạnh tương đối rõ ràng và đã hoàn thành các nhịp kiểm tra cung cần thiết. Điểm dừng lỗ được đặt dưới vùng hỗ trợ gần nhất.
+
+-----
+
+### **CMG**
+
+![Weekly Chart](./reports_week/CMG/CMG_candlestick_chart.png)
+
+![Daily Chart](./reports/CMG/CMG_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#CMG)
+
+  - **Phân Tích Cốt Lõi:** CMG là một trong những cơ hội giao dịch mạnh mẽ nhất ở thời điểm hiện tại. Biểu đồ tuần của CMG cho thấy một giai đoạn tăng tốc ngoạn mục, với một nến **Sign of Strength (SOS)** có biên độ rất rộng và đóng cửa ở mức cao nhất, xác nhận lực cầu đang áp đảo hoàn toàn. Hành động này được củng cố bởi các tín hiệu trên biểu đồ ngày, nơi CMG đã có một phiên SOS vào ngày 27/06 với khối lượng bùng nổ, xác nhận các phiên **Test for Supply** thành công trước đó. Đồng thời, CMG thuộc ngành Công nghệ, một ngành đang trong trạng thái "Dẫn dắt Đồng Thuận" theo `LEADER.md`. Sự kết hợp giữa sức mạnh vĩ mô (tuần) và điểm vào tối ưu (ngày) trong một ngành dẫn dắt tạo ra một cơ hội có xác suất thành công vượt trội.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `38.0 - 39.0` | **Dừng Lỗ:** Dưới `36.5` | **Chốt Lời:** `45.0 - 47.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi giá điều chỉnh nhẹ về vùng hỗ trợ gần nhất sau một phiên SOS mạnh mẽ. Điểm dừng lỗ được đặt dưới vùng tích lũy gần nhất, đảm bảo an toàn trong trường hợp tín hiệu thất bại.
+
+-----
+
+### **MSN**
+
+![Weekly Chart](./reports_week/MSN/MSN_candlestick_chart.png)
+
+![Daily Chart](./reports/MSN/MSN_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#MSN)
+
+  - **Phân Tích Cốt Lõi:** MSN đang trong một giai đoạn tăng tốc mạnh mẽ và là cổ phiếu dẫn dắt ngành Thực phẩm (ngành "Dẫn dắt Đồng Thuận"). Biểu đồ tuần cho thấy một chuỗi các nến **SOS** liên tiếp, với khối lượng gia tăng, xác nhận một xu hướng tăng rất vững chắc. Biểu đồ ngày cũng cho thấy một chuỗi các tín hiệu **Effort to Rise** và **SOS**, với phiên tăng giá bùng nổ ngày 27/06 là một ví dụ điển hình, cho thấy lực mua hoàn toàn áp đảo.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `75.0 - 76.8` | **Dừng Lỗ:** Dưới `72.0` | **Chốt Lời:** `85.0 - 90.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu đang trong một xu hướng tăng mạnh, có sự xác nhận từ cả hai khung thời gian và bối cảnh ngành thuận lợi. Điểm dừng lỗ được đặt dưới vùng hỗ trợ gần nhất.
+
+-----
+
+### **CTR**
+
+![Weekly Chart](./reports_week/CTR/CTR_candlestick_chart.png)
+
+![Daily Chart](./reports/CTR/CTR_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#CTR)
+
+  - **Phân Tích Cốt Lõi:** CTR đang thể hiện sức mạnh vượt trội, là cổ phiếu dẫn dắt ngành Xây lắp điện (ngành "Dẫn dắt Đồng Thuận"). Biểu đồ tuần cho thấy một nến **SOS** rõ ràng, thiết lập một đỉnh cao mới và xác nhận xu hướng tăng vững chắc. Câu chuyện trên biểu đồ ngày cũng rất thuyết phục, với một phiên SOS vào ngày 27/06, phủ nhận hoàn toàn các tín hiệu **No Demand** yếu ớt trước đó và cho thấy lực mua đã quay trở lại một cách áp đảo.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `100.0 - 102.0` | **Dừng Lỗ:** Dưới `97.5` | **Chốt Lời:** `115.0 - 120.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu đang trong một xu hướng tăng mạnh, vừa có tín hiệu bứt phá xác nhận. Điểm dừng lỗ được đặt dưới vùng hỗ trợ gần nhất.
+
+-----
+
+### **VHC**
+
+![Weekly Chart](./reports_week/VHC/VHC_candlestick_chart.png)
+
+![Daily Chart](./reports/VHC/VHC_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#VHC)
+
+  - **Phân Tích Cốt Lõi:** VHC là một trong những cổ phiếu dẫn dắt của ngành Thủy sản (ngành "Dẫn dắt Đồng Thuận"). Biểu đồ tuần cho thấy một xu hướng tăng mạnh mẽ được xác nhận bởi một chuỗi các tín hiệu **SOS** và **Test for Supply** thành công. Biểu đồ ngày cũng cho thấy một phiên SOS bùng nổ vào ngày 20/06, và sau một giai đoạn kiểm tra cung thành công, cổ phiếu lại tiếp tục có một phiên SOS khác vào ngày 26/06, xác nhận lực cầu mạnh mẽ.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `58.0 - 59.5` | **Dừng Lỗ:** Dưới `56.5` | **Chốt Lời:** `68.0 - 70.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu đang trong một xu hướng tăng mạnh, vừa có tín hiệu xác nhận từ cả hai khung thời gian. Điểm dừng lỗ được đặt dưới vùng hỗ trợ gần nhất.
+
+-----
+
+### **BCM**
+
+![Weekly Chart](./reports_week/BCM/BCM_candlestick_chart.png)
+
+![Daily Chart](./reports/BCM/BCM_candlestick_chart.png) 
+
+  - [View Report](./REPORT.md#BCM)
+
+  - **Phân Tích Cốt Lõi:** BCM là một trong hai cổ phiếu mạnh nhất ngành Bất Động Sản KCN. Biểu đồ tuần cho thấy một cú bứt phá **SOS** mạnh mẽ khỏi vùng đi ngang kéo dài, với một nến tăng thân dài không có bóng trên, cho thấy phe mua hoàn toàn kiểm soát. Biểu đồ ngày cũng xác nhận sức mạnh này với một chuỗi các tín hiệu **Effort to Rise** và **No Supply** thành công, gần nhất là phiên tăng giá quyết đoán ngày 27/06.
+  - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `62.0 - 63.0` | **Dừng Lỗ:** Dưới `60.5` | **Chốt Lời:** `68.0 - 70.0`
+  - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu vừa bứt phá khỏi một nền giá dài, với sự xác nhận từ cả hai khung thời gian. Điểm dừng lỗ được đặt dưới vùng hỗ trợ là đỉnh của nền giá cũ.
+
+-----
 
 **6. Nhật Ký Thay Đổi Kế Hoạch**
 
-*So với kế hoạch ngày 2025-06-26:*
+  * **Cổ Phiếu Được Nâng Lên "Top 1x":**
 
-  - **Cổ Phiếu Được Nâng Lên "Top 10":**
-      - **Nâng `VHC` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA hoàn hảo với chuỗi SOS và Effort to Rise. **Quan trọng hơn, `LEADER.md` xác nhận VHC là cổ phiếu dẫn dắt số 2 trong ngành Thủy sản, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `BCM` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA hoàn hảo với chuỗi Effort to Rise và No Supply. **Quan trọng hơn, `LEADER.md` xác nhận BCM là cổ phiếu dẫn dắt số 1 trong ngành BĐS KCN, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `VCG` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA với chuỗi Effort to Rise và Test for Supply thành công. **Quan trọng hơn, `LEADER.md` xác nhận VCG là cổ phiếu dẫn dắt số 1 trong ngành Đầu tư công, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `ANV` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA hoàn hảo với chuỗi SOS và Effort to Rise. **Quan trọng hơn, `LEADER.md` xác nhận ANV là cổ phiếu dẫn dắt số 1 trong ngành Thủy sản, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `MSR` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA với SOS và Effort to Rise. **Quan trọng hơn, `LEADER.md` xác nhận MSR là cổ phiếu dẫn dắt số 1 trong ngành Thép, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `PHR` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA với chuỗi SOS và Effort to Rise. **Quan trọng hơn, `LEADER.md` xác nhận PHR là cổ phiếu dẫn dắt số 1 trong ngành Cao su, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `PNJ` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA với chuỗi SOS và Effort to Rise. **Quan trọng hơn, `LEADER.md` xác nhận PNJ là cổ phiếu dẫn dắt số 2 trong ngành Bán lẻ, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
-      - **Nâng `SCS` lên Top List:** Cổ phiếu được nâng từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA với SOS và Effort to Rise. **Quan trọng hơn, `LEADER.md` xác nhận SCS là cổ phiếu dẫn dắt số 2 trong ngành Hàng không, một ngành 'Dẫn dắt Phân Hóa'**, đáp ứng đầy đủ điều kiện #2A của giao thức.
+      * `Nâng TNG lên Top List:` Từ `Unlisted`. Lý do: Hoàn thành cấu trúc tăng giá mạnh mẽ trên cả hai khung thời gian, với các tín hiệu SOS bùng nổ. `LEADER.md` cũng xác nhận đây là cổ phiếu dẫn dắt số 1 trong ngành Dệt May đang trong trạng thái "Dẫn dắt Đồng Thuận".
+      * `Nâng ANV lên Top List:` Từ `Potential List`. Lý do: Hoàn thành câu chuyện VPA với cú bứt phá SOS kinh điển trên cả biểu đồ ngày và tuần, với khối lượng tăng đột biến. `LEADER.md` xác nhận đây là cổ phiếu dẫn dắt trong ngành Thủy sản mạnh.
+      * `Nâng DPR lên Top List:` Từ `Unlisted`. Lý do: Bứt phá mạnh mẽ khỏi đỉnh cũ với tín hiệu SOS trên cả hai khung thời gian. Là cổ phiếu dẫn dắt số 1 ngành Cao su, một ngành "Dẫn dắt Đồng Thuận".
+      * `Nâng IDC lên Top List:` Từ `Unlisted`. Lý do: Hoàn thành một cấu trúc "backing up" hoàn hảo trên biểu đồ ngày sau khi có SOS trên biểu đồ tuần. Là cổ phiếu dẫn dắt số 1 trong ngành BĐS KCN đang mạnh lên.
+      * `Nâng VND lên Top List:` Từ `Unlisted`. Lý do: Thể hiện sức mạnh tương đối vượt trội, đi ngược lại ngành Chứng khoán đang yếu đi. Các tín hiệu SOS trên cả hai khung thời gian xác nhận lực mua mạnh.
+      * `Nâng CMG lên Top List:` Từ `Top List`. Lý do: Tiếp tục duy trì sức mạnh tuyệt đối với chuỗi SOS trên cả biểu đồ ngày và tuần.
+      * `Nâng MSN lên Top List:` Từ `Unlisted`. Lý do: Đang trong một giai đoạn tăng tốc mạnh mẽ với chuỗi SOS trên cả hai khung thời gian. Là cổ phiếu dẫn dắt ngành Thực phẩm.
+      * `Nâng CTR lên Top List:` Từ `Top List`. Lý do: Tiếp tục thể hiện sức mạnh vượt trội với chuỗi SOS trên cả hai khung thời gian.
+      * `Nâng VHC lên Top List:` Từ `Potential List`. Lý do: Hoàn thành cấu trúc "Backing Up" với một phiên SOS mạnh mẽ, xác nhận cho tín hiệu SOS trên biểu đồ tuần. Là cổ phiếu dẫn dắt ngành Thủy sản mạnh.
+      * `Nâng BCM lên Top List:` Từ `Top List`. Lý do: Tiếp tục duy trì sức mạnh với cú bứt phá SOS khỏi nền dài hạn.
 
-  - **Cổ Phiếu Được Thêm Vào "Potential List":**
-      - **Thêm `ACV` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted`. Lý do: Hoàn thành chuỗi VPA kinh điển: Shakeout -> SOS -> Effort to Rise. **Hành động này được củng cố bởi ACV là cổ phiếu dẫn dắt số 1 trong ngành Hàng không**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 95%)
-      - **Thêm `CMG` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted`. Lý do: Xuất hiện tín hiệu SOS bùng nổ. **Hành động này được củng cố bởi CMG là cổ phiếu dẫn dắt số 1 trong ngành Công nghệ**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 95%)
-      - **Thêm `PVI` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted`. Lý do: Hoàn thành chuỗi VPA kinh điển: SOS -> Test for Supply thành công. **Hành động này được củng cố bởi PVI là cổ phiếu dẫn dắt số 1 trong ngành Bảo hiểm**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Thêm `DGC` vào Potential List:** Cổ phiếu được chuyển từ `Downgraded List`. Lý do: Xuất hiện tín hiệu SOS mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. **Tín hiệu này đáng tin cậy hơn khi DGC là cổ phiếu dẫn dắt số 1 trong ngành Hóa chất**, đáp ứng điều kiện #3A. (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Thêm `KBC` vào Potential List:** Cổ phiếu được chuyển từ `Potential List`. Lý do: Câu chuyện phục hồi mạnh mẽ với chuỗi Effort to Rise và Test for Supply thành công. **Hành động này được củng cố bởi KBC là cổ phiếu dẫn dắt số 3 trong ngành BĐS KCN, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Thêm `IDC` vào Potential List:** Cổ phiếu được chuyển từ `Top List`. Lý do: Câu chuyện VPA vẫn rất mạnh mẽ với tín hiệu No Supply cạn kiệt, chỉ bị hạ bậc do các mã khác có sự xác nhận mạnh mẽ hơn trong phiên gần nhất. **Hành động này được củng cố bởi IDC là cổ phiếu dẫn dắt số 2 trong ngành BĐS KCN, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 90%)
-      - **Thêm `TNG` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted`. Lý do: Xuất hiện tín hiệu Effort to Rise mạnh mẽ. **Hành động này được củng cố bởi TNG là cổ phiếu dẫn dắt số 1 trong ngành Dệt may**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Thêm `MWG` vào Potential List:** Cổ phiếu được chuyển từ `Downgraded List`. Lý do: Xuất hiện tín hiệu Effort to Rise mạnh mẽ, xác nhận Test for Supply thành công. **Tín hiệu này đáng tin cậy hơn khi MWG là cổ phiếu dẫn dắt số 3 trong ngành Bán lẻ, một ngành 'Dẫn dắt Đồng Thuận'**, đáp ứng điều kiện #3A. (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Thêm `SSI` vào Potential List:** Cổ phiếu được chuyển từ `Potential List`. Lý do: Cấu trúc phục hồi sau Shakeout vẫn được duy trì tốt với Test for Supply thành công. **Hành động này được củng cố bởi SSI là cổ phiếu dẫn dắt số 2 trong ngành Chứng khoán**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 85%)
-      - **Thêm `CII` vào Potential List:** Cổ phiếu được chuyển từ `Unlisted`. Lý do: Xuất hiện tín hiệu Test for Supply thành công sau phiên tăng giá mạnh. **Hành động này được củng cố bởi CII là cổ phiếu dẫn dắt số 1 trong ngành Xây dựng**, đáp ứng điều kiện #4 của giao thức. (Điểm tự tin cho việc thăng hạng: 85%)
+  * **Cổ Phiếu Được Thêm Vào "Potential List":**
 
-  - **Cổ Phiếu Bị Giáng Xuống "Hạ Ưu Tiên":**
-      - **Giáng `BVH` xuống Downgraded (và loại khỏi Top 10):** Cổ phiếu bị chuyển từ `Top List`. Lý do: Xuất hiện tín hiệu **Effort to Fall** nhẹ trong phiên 27/06, phủ nhận tín hiệu No Supply tích cực của phiên trước, phá vỡ câu chuyện tăng giá liền mạch, đáp ứng điều kiện #1. (Chuyển vào ngày: 2025-06-27)
-      - **Giáng `GEX` xuống Downgraded (và loại khỏi Top 10):** Cổ phiếu bị chuyển từ `Top List`. Lý do: Các phiên **Test for Supply** liên tiếp không thành công, phe mua không thể hiện được sức mạnh để vượt qua vùng kháng cự sau phiên SOS, cho thấy lực cung vẫn đang chiếm ưu thế, đáp ứng điều kiện #1. (Chuyển vào ngày: 2025-06-27)
-      - **Giáng `TCB` xuống Downgraded (và loại khỏi Top 10):** Cổ phiếu bị chuyển từ `Top List`. Lý do: Nỗ lực tăng giá yếu ớt của phiên 26/06 đã bị phủ nhận ngay bởi phiên giảm điểm sau đó, xác nhận lực cầu không đủ mạnh để duy trì đà tăng, đáp ứng điều kiện #1. (Chuyển vào ngày: 2025-06-27)
-      - **Giáng `NT2` xuống Downgraded (và loại khỏi Top 10):** Cổ phiếu bị chuyển từ `Top List`. Lý do: Câu chuyện tăng giá sau SOS đã hoàn toàn suy yếu và chuyển thành **No Demand**, cho thấy lực cầu đã cạn kiệt và không thể duy trì đà tăng, đáp ứng điều kiện #1. (Chuyển vào ngày: 2025-06-27)
-      - **Giáng `GVR` xuống Downgraded (và loại khỏi Top 10):** Cổ phiếu bị chuyển từ `Top List`. Lý do: Xuất hiện tín hiệu **Effort to Fall** nhẹ trong phiên 27/06, cho thấy áp lực bán đang quay trở lại và phủ nhận nỗ lực phục hồi trước đó, đáp ứng điều kiện #1. (Chuyển vào ngày: 2025-06-27)
-      - **Giáng `DBC` xuống Downgraded (và loại khỏi Top 10):** Cổ phiếu bị chuyển từ `Top List`. Lý do: Xuất hiện tín hiệu bất thường (upthrust-like) trong phiên 27/06, khi nỗ lực tăng giá thất bại trên khối lượng lớn, cho thấy một lượng cung đáng kể đang cản trở, đáp ứng điều kiện #1. (Chuyển vào ngày: 2025-06-27)
+      * `Giữ ACV trong Potential List:` Từ `Potential List`. Lý do: Câu chuyện Shakeout và SOS đã được xác nhận, đang trong giai đoạn đầu của một xu hướng tăng mạnh.
+      * `Giữ CII trong Potential List:` Từ `Potential List`. Lý do: Đã có SOS trên cả hai khung thời gian nhưng cần một phiên kiểm tra cung thành công để có điểm vào tối ưu.
+      * `Thêm DGC vào Potential List:` Từ `Unlisted`. Lý do: Là điểm sáng hiếm hoi trong ngành đang yếu. Có SOS trên cả hai khung thời gian, thể hiện sức mạnh tương đối vượt trội.
+      * `Giữ KBC trong Potential List:` Từ `Potential List`. Lý do: Đang phục hồi mạnh mẽ với các tín hiệu SOS, cần thêm thời gian để hoàn thiện cấu trúc tăng giá.
+      * `Giữ DGW trong Potential List:` Từ `Potential List`. Lý do: Tiếp tục duy trì sức mạnh với các tín hiệu Test for Supply và Effort to Rise tích cực.
 
-  - **Cổ Phiếu Bị Loại Bỏ Hoàn Toàn:**
-      - **Loại bỏ `HDG`:** Cổ phiếu bị xóa khỏi kế hoạch từ danh sách `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu `Effort to Fall`, xác nhận kịch bản giảm giá và đáp ứng điều kiện #3B của giao thức.
-      - **Loại bỏ `BSR`:** Cổ phiếu bị xóa khỏi kế hoạch từ danh sách `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu `Effort to Fall`, xác nhận kịch bản giảm giá và đáp ứng điều kiện #3B của giao thức.
-      - **Loại bỏ `DPM`:** Cổ phiếu bị xóa khỏi kế hoạch từ danh sách `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu `No Demand` và `Effort to Fall`, xác nhận kịch bản giảm giá và đáp ứng điều kiện #3B của giao thức.
-      - **Loại bỏ `STB`:** Cổ phiếu bị xóa khỏi kế hoạch từ danh sách `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu `Effort to Fall`, xác nhận kịch bản giảm giá và đáp ứng điều kiện #3B của giao thức.
-      - **Loại bỏ `FPT`:** Cổ phiếu bị xóa khỏi kế hoạch từ danh sách `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu `No Demand` và giằng co, xác nhận kịch bản giảm giá và đáp ứng điều kiện #3B của giao thức.
+  * **Cổ Phiếu Bị Giáng Xuống "Hạ Ưu Tiên":**
 
-  - **Cổ Phiếu Bị Chuyển Từ "Potential List" Sang "Unlisted":**
-      - Không có cổ phiếu nào bị chuyển từ `Potential List` về `Unlisted` trong kỳ này.
+      * `Giáng HPG xuống Downgraded:` Từ `Potential List`. Lý do: Xuất hiện tín hiệu **Up-thrust (SOW)** trên biểu đồ ngày, được xác nhận bởi một phiên **No Demand** ngay sau đó. Sự kiện này phủ nhận sức mạnh của tín hiệu SOS trên biểu đồ tuần.
+      * `Giáng TCB xuống Downgraded:` Từ `Potential List`. Lý do: Tín hiệu **Up-thrust** trên biểu đồ tuần được xác nhận bởi các tín hiệu yếu kém (Effort to Fall, No Demand) trên biểu đồ ngày, cho thấy câu chuyện tăng giá đã bị phá vỡ.
+      * `Giữ GAS trong Downgraded:` Từ `Downgraded`. Lý do: Tiếp tục xác nhận kịch bản phân phối với tín hiệu **No Demand** trên biểu đồ ngày sau một cú **Up-thrust** trên biểu đồ tuần.
+      * `Giữ FTS trong Downgraded:` Từ `Downgraded`. Lý do: Tiếp tục xác nhận kịch bản phân phối với tín hiệu **No Demand** trên biểu đồ ngày sau một cú **Up-thrust** trên biểu đồ tuần.
+      * `Giữ BSR trong Downgraded:` Từ `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu **Effort to Fall** trên biểu đồ ngày sau một cú **Down-thrust** trên biểu đồ tuần.
+      * `Giữ HAH trong Downgraded:` Từ `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu **Sign of Weakness (SOW)** trên cả hai khung thời gian.
+      * `Giữ DCM trong Downgraded:` Từ `Downgraded`. Lý do: Tiếp tục xác nhận kịch bản phân phối với tín hiệu **Effort to Fall** trên biểu đồ ngày sau một cú **Up-thrust** trên biểu đồ tuần.
+      * `Thêm DPM vào Downgraded:` Từ `Unlisted`. Lý do: Xuất hiện tín hiệu **SOW** trên biểu đồ tuần sau một **Buying Climax** tiềm năng, cùng với tín hiệu **No Demand** trên biểu đồ ngày.
+      * `Thêm VPB vào Downgraded:` Từ `Unlisted`. Lý do: Xuất hiện tín hiệu bất thường (anomaly) trên biểu đồ ngày đã được xác nhận bởi các tín hiệu yếu sau đó, cho thấy lực cung đang thắng thế.
+      * `Thêm STB vào Downgraded:` Từ `Unlisted`. Lý do: Mặc dù biểu đồ tuần vẫn tích cực, các tín hiệu **Effort to Fall** trên biểu đồ ngày cho thấy sự suy yếu trong ngắn hạn, cần thời gian để hấp thụ lực bán.
 
-  - **Thay Đổi Thứ Tự Ưu Tiên (Trong `Top List`):**
-      - **VHC** được nâng lên vị trí #1 do câu chuyện VPA hoàn hảo và là leader trong ngành mạnh.
-      - **BCM, VCG, ANV, MSR, PHR, PNJ, SCS** được nâng lên `Top List` do hoàn thành các câu chuyện VPA rất mạnh mẽ và là leader trong các ngành có sự đồng thuận.
-      - **VNM, VND** giữ vững vị trí trong top nhờ câu chuyện VPA vẫn tích cực và ổn định.
-      - **IDC, MBB** bị hạ bậc trong `Top List` (và sau đó bị loại do các mã khác mạnh hơn) do các tín hiệu VPA gần đây kém thuyết phục hơn.
+  * **Cổ Phiếu Bị Loại Bỏ Hoàn Toàn:**
+
+      * `Loại bỏ HDG:` Từ `Downgraded`. Lý do: Tiếp tục cho thấy sự yếu kém với tín hiệu **Effort to Fall** trên biểu đồ ngày và giá đóng cửa tuần dưới mức hỗ trợ quan trọng, xác nhận kịch bản giảm giá.
+
+  * **Thay Đổi Thứ Tự Ưu Tiên (Trong `Top List` hoặc `Potential List`):**
+
+      * `Tăng hạng TNG, ANV, DPR, IDC, VND lên Top List:` Các cổ phiếu này thể hiện câu chuyện VPA hoàn hảo, với sự đồng thuận mạnh mẽ giữa hai khung thời gian và bối cảnh ngành rất thuận lợi, vượt trội so với các cổ phiếu khác.
+      * `Hạ hạng DBC, MWG, FRT, PNJ khỏi Top List:` Các cổ phiếu này, mặc dù vẫn còn tín hiệu tốt, nhưng câu chuyện VPA hiện tại không còn mạnh mẽ và rõ ràng bằng các cổ phiếu được thăng hạng. Một số có dấu hiệu chững lại hoặc suy yếu nhẹ.
