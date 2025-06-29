@@ -87,7 +87,7 @@ Generate the `LEADER.md` file based on all preceding analysis stages.
 
       **➡️ [Click here to view the latest market report](REPORT.md)**
 
-      **➡️ [Click here to view the latest market report (week)](REPORT_week.md)** 
+      **➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)** 
 
       **⛳ [Click here to view the trading plan](PLAN.md)**
 
