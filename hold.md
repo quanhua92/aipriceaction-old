@@ -1,6 +1,6 @@
 # Kế Hoạch Quản Lý Danh Mục
 
-**Cập Nhật Lần Cuối:** 2025-06-28
+**Cập Nhật Lần Cuối:** 2025-06-30
 
 ## Dữ Liệu Danh Mục
 
@@ -33,9 +33,9 @@ Danh mục hiện tại có sức khỏe tốt, với tất cả các vị thế
 
 *   **Giá Mua Trung Bình:** 29.843
 *   **Số Lượng Nắm Giữ:** 600
-*   **Giá Hiện Tại:** 30.35
-*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +1.70% (+304.2)
-*   **VPA Phân Tích Hiện Tại:** GVR thuộc ngành Cao su đang trong trạng thái "Dẫn dắt Đồng Thuận", một bối cảnh rất tích cực. Cổ phiếu đang trong một xu hướng tăng mạnh mẽ sau cú **Shakeout** và các tín hiệu **Sign of Strength (SOS)**. Phiên giao dịch cuối tuần (27/06) là một **Effort to Fall** nhẹ với khối lượng gia tăng, cho thấy một nhịp điều chỉnh/chốt lời ngắn hạn. Đây là một hành động giá bình thường và lành mạnh trong một xu hướng tăng, chưa phá vỡ cấu trúc.
+*   **Giá Hiện Tại:** 30.3
+*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +1.53% (+274.2)
+*   **VPA Phân Tích Hiện Tại:** GVR thuộc ngành Cao su đang trong trạng thái "Dẫn dắt Đồng Thuận", một bối cảnh rất tích cực. Cổ phiếu đang trong một xu hướng tăng mạnh mẽ sau cú **Shakeout** và các tín hiệu **Sign of Strength (SOS)**. Phiên giao dịch cuối tuần (30/06) là một phiên **No Demand** sau một nỗ lực giảm giá, cho thấy sự yếu kém của lực cầu trong ngắn hạn và khả năng điều chỉnh vẫn còn. Tuy nhiên, đây vẫn được xem là một hành động giá bình thường và lành mạnh trong một xu hướng tăng, chưa phá vỡ cấu trúc.
 *   **Hành Động Đề Xuất:** Hold
     *   **Lý Do Hành Động:** Cổ phiếu vẫn đang trong xu hướng tăng mạnh và thuộc ngành dẫn dắt. Nhịp điều chỉnh hiện tại là lành mạnh. Chưa có tín hiệu mua thêm rõ ràng, cần quan sát thêm để chờ một điểm vào gia tăng tỷ trọng tối ưu hơn, ví dụ như một phiên "Test for Supply" thành công với khối lượng thấp.
 *   **Điểm Dừng Lỗ:** 28.5
@@ -47,8 +47,8 @@ Danh mục hiện tại có sức khỏe tốt, với tất cả các vị thế
 
 *   **Giá Mua Trung Bình:** 33.117
 *   **Số Lượng Nắm Giữ:** 1600
-*   **Giá Hiện Tại:** 33.95
-*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +2.51% (+1,332.8)
+*   **Giá Hiện Tại:** 34.2
+*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +3.27% (+1,732.8)
 *   **VPA Phân Tích Hiện Tại:** **Cảnh báo!** Mặc dù TCB thuộc ngành Ngân hàng đang "Dẫn dắt Đồng Thuận", cổ phiếu này đã bị hạ bậc trong `PLAN.md` ngày 28/06. Lý do là sự xuất hiện của tín hiệu **Up-thrust** trên biểu đồ tuần, được xác nhận bởi các tín hiệu yếu kém trên biểu đồ ngày như **Effort to Fall**. Điều này cho thấy câu chuyện tăng giá đã bị phá vỡ ở khung thời gian lớn hơn và rủi ro đã tăng lên đáng kể. Khuyến nghị "Mua thêm" trước đó không còn hợp lệ.
 *   **Hành Động Đề Xuất:** Hold
     *   **Lý Do Hành Động:** Vị thế vẫn đang có lãi nhẹ, nhưng các tín hiệu VPA mới nhất đã chuyển sang tiêu cực. Hạ khuyến nghị từ "Mua thêm" về "Nắm giữ" để quan sát chặt chẽ. Nâng điểm dừng lỗ lên gần hơn để bảo vệ lợi nhuận. Không thực hiện mua thêm trong bất kỳ hoàn cảnh nào cho đến khi có tín hiệu VPA tích cực trở lại trên cả khung ngày và tuần.
@@ -63,7 +63,7 @@ Danh mục hiện tại có sức khỏe tốt, với tất cả các vị thế
 *   **Số Lượng Nắm Giữ:** 100
 *   **Giá Hiện Tại:** 59.7
 *   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +5.01% (+285.0)
-*   **VPA Phân Tích Hiện Tại:** VHC là cổ phiếu dẫn dắt số 2 trong ngành Thủy sản, một ngành đang "Dẫn dắt Đồng Thuận" rất mạnh mẽ. `PLAN.md` cũng xếp VHC vào danh sách Top cơ hội giao dịch với độ tin cậy 90%. Phân tích VPA cho thấy một câu chuyện tăng giá hoàn hảo: cổ phiếu có một phiên **Sign of Strength (SOS)** bùng nổ ngày 20/06, và sau một giai đoạn kiểm tra cung thành công, cổ phiếu lại tiếp tục có một phiên SOS khác vào ngày 26/06 được xác nhận bởi phiên tăng giá tiếp diễn ngày 27/06. Sức mạnh của phe mua là áp đảo.
+*   **VPA Phân Tích Hiện Tại:** VHC là cổ phiếu dẫn dắt số 2 trong ngành Thủy sản, một ngành đang "Dẫn dắt Đồng Thuận" rất mạnh mẽ. `PLAN.md` cũng xếp VHC vào danh sách "Potential List" với độ tin cậy 90%. Phân tích VPA cho thấy một câu chuyện tăng giá hoàn hảo: cổ phiếu có một phiên **Sign of Strength (SOS)** bùng nổ ngày 20/06, và sau một giai đoạn kiểm tra cung thành công, cổ phiếu lại tiếp tục có một phiên SOS khác vào ngày 26/06. Phiên cuối tuần là một **Test for Supply** thành công với khối lượng giảm, cho thấy áp lực bán không lớn và cổ phiếu sẵn sàng cho đợt tăng tiếp theo.
 *   **Hành Động Đề Xuất:** Buy More
     *   **Giá Đề Xuất:** Mua tại 58.5 - 59.7
     *   **Số Lượng Đề Xuất:** Thêm 100 cổ phiếu
@@ -79,9 +79,9 @@ Danh mục hiện tại có sức khỏe tốt, với tất cả các vị thế
 *   **Số Lượng Nắm Giữ:** 800
 *   **Giá Hiện Tại:** 17.2
 *   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +6.08% (+788.8)
-*   **VPA Phân Tích Hiện Tại:** VND là một trường hợp đặc biệt, được `PLAN.md` xếp vào Top cơ hội giao dịch. Cổ phiếu này là "điểm sáng hiếm hoi", dẫn dắt tuyệt đối trong ngành Chứng khoán đang trong giai đoạn "Yếu/Phân Phối". Phân tích VPA của riêng VND rất mạnh, với một cú **Shakeout** thành công vào ngày 16/06, theo sau là một phiên **Sign of Strength (SOS)** bùng nổ vào ngày 24/06 và các phiên kiểm tra cung thành công sau đó.
+*   **VPA Phân Tích Hiện Tại:** VND là một trường hợp đặc biệt, được `PLAN.md` xếp vào Top cơ hội giao dịch. Cổ phiếu này là "điểm sáng hiếm hoi", dẫn dắt tuyệt đối trong ngành Chứng khoán đang trong giai đoạn "Yếu/Phân Phối". Phân tích VPA của riêng VND rất mạnh, với một cú **Shakeout** thành công vào ngày 16/06, theo sau là một phiên **Sign of Strength (SOS)** bùng nổ vào ngày 24/06. Các phiên gần đây cho thấy sự giằng co, tích lũy sau đợt tăng mạnh, chưa có tín hiệu tiêu cực rõ ràng.
 *   **Hành Động Đề Xuất:** Hold
-    *   **Lý Do Hành Động:** Giữ vị thế để tiếp tục tham gia vào sức mạnh riêng lẻ của cổ phiếu. Các tín hiệu VPA của VND vẫn rất tích cực. Tuy nhiên, không gia tăng tỷ trọng do bối cảnh ngành tiêu cực có thể gây áp lực lên cổ phiếu bất cứ lúc nào.
+    *   **Lý Do Hành Động:** Giữ vị thế để tiếp tục tham gia vào sức mạnh riêng lẻ của cổ phiếu. Các tín hiệu VPA của VND vẫn đang trong giai đoạn tích lũy sau một đợt tăng mạnh. Tuy nhiên, không gia tăng tỷ trọng do bối cảnh ngành tiêu cực có thể gây áp lực lên cổ phiếu bất cứ lúc nào.
 *   **Điểm Dừng Lỗ:** 16.3
 *   **Điểm Chốt Lời:** 19.5
 
