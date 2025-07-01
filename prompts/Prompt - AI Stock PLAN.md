@@ -12,14 +12,14 @@ You will process the universe of tickers by performing the following two stages 
     * **`market_data.txt`**: For the raw daily price, volume, and OHLC data (last 40 days) used to verify daily signals.
 
 2.  **Weekly Analysis Sources:**
-    * **`REPORT_week.md`**: For the most recent weekly signals, providing a strategic, big-picture view.
+    * **`REPORT_week.md`**: For the most recent weekly signals, providing a strategic, big-picture view. **Crucially, you must recognize that this file reflects the state at the end of the *last completed trading week*.** It will not contain data for the current, ongoing week. Your analysis must intelligently bridge the gap between this weekly context and the most recent daily price action.
 
 3.  **Contextual & Grouping Sources:**
     * **`LEADER.md`**: For assessing the **industry context** based on weekly analysis. You must use this to determine if a ticker is in a strong (`Dẫn dắt Đồng Thuận`), weakening, or weak (`Yếu/Phân Phối`) industry group.
     * **`GROUP.md`**: The definitive source for mapping individual tickers to their respective industry groups.
 
 **Core Principle: Multi-Timeframe Confirmation**
-A strong daily VPA signal (e.g., a daily SOS) in a leading stock within a leading industry is potent. However, it becomes exceptionally reliable if the weekly chart (`VPA_week.md`) also shows a constructive pattern (e.g., coming out of a long-term accumulation base). Conversely, a daily sign of weakness is a major red flag if it occurs after a weekly chart has already shown topping signals. You must weigh your decisions according to this principle of dual-timeframe alignment.
+A strong daily VPA signal (e.g., a daily SOS) in a leading stock within a leading industry is potent. However, it becomes exceptionally reliable if the weekly chart (`REPORT_week.md`) also shows a constructive pattern (e.g., coming out of a long-term accumulation base). Conversely, a daily sign of weakness is a major red flag if it occurs after a weekly chart has already shown topping signals. You must weigh your decisions according to this principle of dual-timeframe alignment, always remembering that the daily action is the most recent "truth" that can either confirm or begin to contradict the thesis from the last completed week.
 
 ---
 
@@ -104,9 +104,9 @@ You will now generate the `PLAN.md` file based *only* on the final states decide
 ### **[Tên Cổ Phiếu]**
 
   - **MAKE SURE** you have markdown links to view the ticker's daily chart, weekly chart, and its report entry. (e.g., `[Daily Chart](reports/TCB/TCB_candlestick_chart.png)` `[Weekly Chart](reports/TCB/TCB_candlestick_chart_week.png)` `[View Report](REPORT.md#TCB)`)
-  - **Phân Tích Cốt Lõi:** Một đoạn văn súc tích giải thích *tại sao* cổ phiếu này là một lựa chọn hàng đầu bằng cách **tổng hợp câu chuyện VPA trên cả khung thời gian ngày và tuần, cùng với bối cảnh ngành**.
-      - **Weekly VPA Narrative (`VPA_week.md`):** Bắt đầu bằng việc kể lại câu chuyện lớn trên biểu đồ tuần. (e.g., "Biểu đồ tuần của TCB cho thấy một giai đoạn Tái Tích Lũy kéo dài nhiều tháng đã hoàn thành...").
-      - **Daily VPA Narrative (`VPA.md`, `REPORT.md`):** Mô tả hành động giá hàng ngày đã xác nhận cho câu chuyện tuần như thế nào. (e.g., "...Sự hoàn thành này được đánh dấu bằng một phiên SOS bùng nổ trên biểu đồ ngày vào ngày 19/06...").
+  - **Phân Tích Cốt Lõi:** Một đoạn văn súc tích giải thích *tại sao* cổ phiếu này là một lựa chọn hàng đầu bằng cách **tổng hợp câu chuyện VPA trên cả khung thời gian ngày và tuần, cùng với bối cảnh ngành**. Your narrative must explicitly address the time difference between sources.
+      - **Weekly VPA Narrative (`REPORT_week.md`):** First, set the stage by describing the strategic picture based on the most recent *completed* weekly candle. Acknowledge that this is the context from the previous week. (e.g., "Bối cảnh tuần của TCB, dựa trên cây nến kết thúc tuần trước, cho thấy một giai đoạn Tái Tích Lũy kéo dài đã hoàn thành...").
+      - **Daily VPA Narrative (`VPA.md`, `REPORT.md`):** Next, describe how the most recent daily price action (from the current, incomplete week) acts upon the weekly context. Does it confirm the weekly thesis? Does it challenge it? This is the most critical part of the synthesis. (e.g., "...Hành động giá trong tuần này đã xác nhận mạnh mẽ cho bối cảnh đó, với một phiên SOS bùng nổ trên biểu đồ ngày vào ngày 19/06...").
       - **Data Verification (`market_data.txt`, `market_data_week.txt`):** Xác thực các tín hiệu quan trọng với dữ liệu khối lượng từ cả hai khung thời gian.
       - **Industry Context (`LEADER.md`, `GROUP.md`):** Nêu rõ sức mạnh của ngành và vị thế của cổ phiếu trong ngành đó.
       - **Synthesis:** Giải thích tại sao sự **đồng thuận giữa câu chuyện tuần và ngày**, kết hợp với bối cảnh ngành thuận lợi, tạo ra một thiết lập có độ tin cậy cao. (e.g., *"TCB không chỉ đang kể một câu chuyện VPA hoàn hảo trên biểu đồ ngày, mà câu chuyện đó còn là sự xác nhận cho một kịch bản Tái Tích Lũy lớn trên biểu đồ tuần. Đồng thời, TCB là cổ phiếu dẫn dắt số 1 trong ngành Ngân hàng (xác định từ GROUP.md), một ngành đang trong trạng thái 'Dẫn dắt Đồng Thuận' (theo LEADER.md). Sự kết hợp giữa sức mạnh vĩ mô (tuần) và điểm vào tối ưu (ngày) trong một ngành dẫn dắt tạo ra một cơ hội có xác suất thành công vượt trội."*).
