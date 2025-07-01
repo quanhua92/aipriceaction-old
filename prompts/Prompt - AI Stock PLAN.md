@@ -44,7 +44,7 @@ This is an internal logical analysis you MUST perform for every relevant ticker 
         * If **Condition A** is met, its new state is **`Top List`**.
         * If **Condition B** is met, its new state is **`Downgraded`**.
         * If **Condition C** is met, its new state is **`Unlisted`**.
-        * If neither condition is met, its state remains **`Potential List`**.
+        * If neither condition is met, its state remains **`Potential List`**
 
 3.  **For Tickers Currently on the `Downgraded` List (from the previous `PLAN.md`):**
     * **Condition A (Promotion to `Potential List`):** Does the new data show a *significant initial bullish signal* (e.g., a strong volume weekly SOS, or a series of strong daily signals)? Is this recovery supported by an improving industry outlook in `LEADER.md`?
@@ -85,6 +85,7 @@ You will now generate the `PLAN.md` file based *only* on the final states decide
    * Only tickers with a **'confidence score for promotion' (0-100%) strictly greater than 80%** are eligible. If more than 10 meet this criterion, select the highest-ranked ones.
    * For each ticker, provide a brief (1-2 sentences) VPA rationale, ideally mentioning both timeframes.
    * Structure each ticker as follows:
+      ![Daily Chart](./reports/VHC/VHC_candlestick_chart.png)
       - [**VHC**](REPORT.md#VHC) (Thủy Sản) - (Điểm tự tin cho việc thăng hạng: 95%)
           - **Lý do:** VHC đang có hành động giá "Backing Up" trên biểu đồ ngày sau một **Sign of Strength (SOS)** mạnh. Hành động này diễn ra ngay sau khi biểu đồ tuần cũng cho thấy một tín hiệu SOS, cho thấy sự đồng thuận mạnh mẽ giữa hai khung thời gian.
 
@@ -93,6 +94,7 @@ You will now generate the `PLAN.md` file based *only* on the final states decide
    * For each ticker, state the date it was moved to this list and the explicit **multi-timeframe VPA reason** for the downgrade.
    * Include a **confidence score (0-100%)** reflecting the conviction that the downgrade reason remains valid.
    * Structure each ticker as follows:
+      ![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
       - [**MWG**](REPORT.md#MWG) (Bán Lẻ) (Chuyển vào ngày: 2025-06-24) - (Độ tin cậy giữ nguyên lý do: 85%)
           - **Lý do:** Nỗ lực phục hồi trên biểu đồ ngày thất bại với tín hiệu 'No Demand'. Sự yếu kém này xác nhận cho một tín hiệu 'Upthrust' trên biểu đồ tuần trước đó.
 

@@ -44,24 +44,43 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 Đây là các cổ phiếu đang cho thấy những tín hiệu VPA ban đầu hứa hẹn nhưng cần thêm thời gian và sự xác nhận để hoàn thiện câu chuyện tăng giá. Chỉ các cổ phiếu có "Điểm tự tin cho việc thăng hạng" > 80% mới được đưa vào danh sách này.
 
+![Daily Chart](./reports/VCB/VCB_candlestick_chart.png)
   - [**VCB**](./REPORT.md#VCB) (Ngân Hàng) - (Điểm tự tin cho việc thăng hạng: 95%)
       - **Lý do:** VCB vừa có một phiên SOS bùng nổ trên biểu đồ ngày, xác nhận cho tín hiệu SOS mạnh mẽ trên biểu đồ tuần. Sự đồng thuận đa khung thời gian trong một ngành đang dẫn dắt tạo ra một cơ hội rất đáng tin cậy.
+
+![Daily Chart](./reports/SCS/SCS_candlestick_chart.png)
   - [**SCS**](./REPORT.md#SCS) (Hàng Không) - (Điểm tự tin cho việc thăng hạng: 95%)
       - **Lý do:** SCS là cổ phiếu dẫn dắt ngành Hàng không. Sau cú bứt phá SOS trên cả hai khung thời gian, nhịp điều chỉnh trên biểu đồ ngày là một phiên "Test for Supply" lành mạnh, cho thấy tiềm năng tiếp tục tăng giá.
+
+![Daily Chart](./reports/VHM/VHM_candlestick_chart.png)
   - [**VHM**](./REPORT.md#VHM) (Bất Động Sản) - (Điểm tự tin cho việc thăng hạng: 95%)
       - **Lý do:** VHM là cổ phiếu dẫn dắt tuyệt đối của ngành Bất động sản. Câu chuyện VPA trên biểu đồ tuần là một cú SOS mạnh mẽ. Biểu đồ ngày đang trong giai đoạn "Test for Supply" tích cực, củng cố cho kịch bản tăng giá.
+
+![Daily Chart](./reports/PHR/PHR_candlestick_chart.png)
   - [**PHR**](./REPORT.md#PHR) (Cao Su) - (Điểm tự tin cho việc thăng hạng: 95%)
       - **Lý do:** PHR là cổ phiếu đồng dẫn dắt ngành Cao su. Cú bứt phá SOS trên biểu đồ tuần được xác nhận bởi các nỗ lực tăng giá và kiểm tra cung thành công trên biểu đồ ngày.
+
+![Daily Chart](./reports/DRC/DRC_candlestick_chart.png)
   - [**DRC**](./REPORT.md#DRC) (Cao Su) - (Điểm tự tin cho việc thăng hạng: 90%)
       - **Lý do:** DRC đang theo sau các mã dẫn đầu ngành Cao su một cách tích cực. Cổ phiếu có tín hiệu SOS trên biểu đồ tuần và đang hoàn thành một nhịp "Test for Supply" trên biểu đồ ngày.
+
+![Daily Chart](./reports/HT1/HT1_candlestick_chart.png)
   - [**HT1**](./REPORT.md#HT1) (VLXD) - (Điểm tự tin cho việc thăng hạng: 90%)
       - **Lý do:** HT1 là cổ phiếu dẫn dắt ngành VLXD, với tín hiệu SOS mạnh mẽ trên cả hai khung thời gian. Nhịp điều chỉnh gần đây trên biểu đồ ngày là một cơ hội để kiểm tra lại lực cầu.
+
+![Daily Chart](./reports/NLG/NLG_candlestick_chart.png)
   - [**NLG**](./REPORT.md#NLG) (Bất Động Sản) - (Điểm tự tin cho việc thăng hạng: 90%)
       - **Lý do:** NLG có tín hiệu SOS mạnh mẽ trên biểu đồ tuần. Biểu đồ ngày đang trong giai đoạn "Test for Supply" lành mạnh sau cú bứt phá, cho thấy tiềm năng tiếp tục xu hướng.
+
+![Daily Chart](./reports/HDB/HDB_candlestick_chart.png)
   - [**HDB**](./REPORT.md#HDB) (Ngân Hàng) - (Điểm tự tin cho việc thăng hạng: 90%)
       - **Lý do:** HDB vừa có một phiên SOS bùng nổ trên biểu đồ ngày, xác nhận cho một giai đoạn tích lũy chặt chẽ trước đó. Là một cổ phiếu mạnh trong ngành dẫn dắt.
+
+![Daily Chart](./reports/VNM/VNM_candlestick_chart.png)
   - [**VNM**](./REPORT.md#VNM) (Thực Phẩm) - (Điểm tự tin cho việc thăng hạng: 85%)
       - **Lý do:** VNM có tín hiệu SOS mạnh mẽ trên biểu đồ tuần, cho thấy tiềm năng đảo chiều xu hướng. Tuy nhiên, biểu đồ ngày đang có tín hiệu "No Demand", cần thêm sự xác nhận từ lực cầu.
+
+![Daily Chart](./reports/DGC/DGC_candlestick_chart.png)
   - [**DGC**](./REPORT.md#DGC) (Hoá Chất) - (Điểm tự tin cho việc thăng hạng: 85%)
       - **Lý do:** DGC là cổ phiếu mạnh nhất trong một ngành yếu. Câu chuyện VPA trên cả hai khung thời gian đều tích cực với các tín hiệu "Test for Supply" thành công, cho thấy khả năng đi ngược thị trường.
 
@@ -69,40 +88,75 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 Đây là các cổ phiếu đã từng nằm trong danh sách ưu tiên nhưng hiện tại đang có những tín hiệu VPA suy yếu hoặc có câu chuyện kém hấp dẫn hơn so với các cổ phiếu trong Top 1x.
 
+![Daily Chart](./reports/CTR/CTR_candlestick_chart.png)
   - [**CTR**](./REPORT.md#CTR) (Xây Lắp Điện) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 95%)
       - **Lý do:** Tín hiệu **Up-thrust** trên biểu đồ ngày được xác nhận bởi tín hiệu **Effort to Fall**. Hành động này phủ nhận sức mạnh của tín hiệu SOS trên biểu đồ tuần, cho thấy áp lực phân phối lớn.
+
+![Daily Chart](./reports/VND/VND_candlestick_chart.png)
   - [**VND**](./REPORT.md#VND) (Chứng Khoán) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 95%)
       - **Lý do:** Tín hiệu **Sign of Weakness (SOW)** trên biểu đồ ngày đã phá vỡ câu chuyện tăng giá mạnh mẽ. Sự suy yếu này đặc biệt đáng lo ngại khi ngành Chứng khoán đang trong trạng thái "Yếu/Phân Phối".
+
+![Daily Chart](./reports/ACV/ACV_candlestick_chart.png)
   - [**ACV**](./REPORT.md#ACV) (Hàng Không) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 90%)
       - **Lý do:** Tín hiệu **Sign of Weakness (SOW)** trên biểu đồ ngày sau một chuỗi tăng mạnh cho thấy áp lực chốt lời lớn, làm suy yếu câu chuyện tăng giá trên biểu đồ tuần.
+
+![Daily Chart](./reports/DPR/DPR_candlestick_chart.png)
   - [**DPR**](./REPORT.md#DPR) (Cao Su) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 90%)
       - **Lý do:** Tín hiệu **Effort to Fall** trên biểu đồ ngày xác nhận một cú "Up-thrust" không thành công, cho thấy áp lực bán đã quay trở lại và chiếm ưu thế.
+
+![Daily Chart](./reports/VHC/VHC_candlestick_chart.png)
   - [**VHC**](./REPORT.md#VHC) (Thủy Sản) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 90%)
       - **Lý do:** Tín hiệu **Effort to Fall** trên biểu đồ ngày sau một chuỗi tăng mạnh cho thấy áp lực chốt lời lớn, làm suy yếu câu chuyện tăng giá trên biểu đồ tuần.
+
+![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
   - [**MWG**](./REPORT.md#MWG) (Bán Lẻ) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 85%)
       - **Lý do:** Tín hiệu **Effort to Fall** trên biểu đồ ngày xác nhận cho tín hiệu "No Demand" trước đó, cho thấy lực cầu đã suy yếu và áp lực bán đang gia tăng.
+
+![Daily Chart](./reports/CII/CII_candlestick_chart.png)
   - [**CII**](./REPORT.md#CII) (Xây Dựng) (Chuyển vào ngày: 2025-07-02) - (Độ tin cậy giữ nguyên lý do: 85%)
       - **Lý do:** Tín hiệu **Effort to Fall** trên biểu đồ ngày cho thấy áp lực bán vẫn còn mạnh, phủ nhận nỗ lực phục hồi và cần thêm thời gian để hấp thụ.
+
+![Daily Chart](./reports/HPG/HPG_candlestick_chart.png)
   - [**HPG**](./REPORT.md#HPG) (Thép) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 95%)
       - **Lý do:** Tín hiệu **Up-thrust (SOW)** trên biểu đồ ngày đã được xác nhận bởi tín hiệu **Effort to Fall**. Hành động này phủ nhận sức mạnh của tín hiệu SOS trên biểu đồ tuần, cho thấy áp lực phân phối lớn.
+
+![Daily Chart](./reports/TCB/TCB_candlestick_chart.png)
   - [**TCB**](./REPORT.md#TCB) (Ngân Hàng) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 90%)
       - **Lý do:** Tín hiệu **Up-thrust** trên biểu đồ tuần được xác nhận bởi tín hiệu **Effort to Fall** trên biểu đồ ngày, cho thấy câu chuyện tăng giá đã bị phá vỡ.
+
+![Daily Chart](./reports/GAS/GAS_candlestick_chart.png)
   - [**GAS**](./REPORT.md#GAS) (Dầu Khí) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 90%)
       - **Lý do:** Tín hiệu **Up-thrust** trên biểu đồ tuần được xác nhận bởi tín hiệu **No Demand** trên biểu đồ ngày. Sự đảo chiều giảm giá mạnh mẽ này cho thấy áp lực phân phối lớn.
+
+![Daily Chart](./reports/FTS/FTS_candlestick_chart.png)
   - [**FTS**](./REPORT.md#FTS) (Chứng Khoán) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 90%)
       - **Lý do:** Tín hiệu **Up-thrust** trên biểu đồ tuần và **No Demand** trên biểu đồ ngày cho thấy lực cầu đã suy yếu nghiêm trọng và áp lực bán đang chiếm ưu thế.
+
+![Daily Chart](./reports/BSR/BSR_candlestick_chart.png)
   - [**BSR**](./REPORT.md#BSR) (Dầu Khí) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
       - **Lý do:** Một cú **Down-thrust** trên biểu đồ tuần và các tín hiệu **Effort to Fall** liên tiếp trên biểu đồ ngày xác nhận sự đảo chiều giảm giá mạnh mẽ.
+
+![Daily Chart](./reports/HAH/HAH_candlestick_chart.png)
   - [**HAH**](./REPORT.md#HAH) (Vận Tải) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
       - **Lý do:** Xuất hiện tín hiệu **Sign of Weakness (SOW)** trên cả hai khung thời gian, và cú hồi phục trên biểu đồ ngày không đủ mạnh để thay đổi câu chuyện.
+
+![Daily Chart](./reports/DCM/DCM_candlestick_chart.png)
   - [**DCM**](./REPORT.md#DCM) (Hoá Chất) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
       - **Lý do:** Một cú **Up-thrust** trên biểu đồ tuần và tín hiệu **Effort to Fall** trên biểu đồ ngày xác nhận sự kết thúc của đợt tăng giá và bắt đầu của một giai đoạn phân phối.
+
+![Daily Chart](./reports/DPM/DPM_candlestick_chart.png)
   - [**DPM**](./REPORT.md#DPM) (Hoá Chất) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 85%)
       - **Lý do:** Tín hiệu **SOW** trên biểu đồ tuần sau một **Buying Climax** tiềm năng. Cú hồi phục trên biểu đồ ngày không đủ mạnh để thay đổi câu chuyện.
+
+![Daily Chart](./reports/STB/STB_candlestick_chart.png)
   - [**STB**](./REPORT.md#STB) (Ngân Hàng) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 80%)
       - **Lý do:** Mặc dù biểu đồ tuần vẫn tích cực, các tín hiệu **No Demand** trên biểu đồ ngày cho thấy sự suy yếu trong ngắn hạn, cần thời gian để hấp thụ lực bán.
+
+![Daily Chart](./reports/VPB/VPB_candlestick_chart.png)
   - [**VPB**](./REPORT.md#VPB) (Ngân Hàng) (Chuyển vào ngày: 2025-06-28) - (Độ tin cậy giữ nguyên lý do: 80%)
       - **Lý do:** Một tín hiệu bất thường (anomaly) trên biểu đồ ngày đã được xác nhận bởi các tín hiệu yếu sau đó, cho thấy lực cung đang thắng thế.
+
+![Daily Chart](./reports/HDG/HDG_candlestick_chart.png)
   - [**HDG**](./REPORT.md#HDG) (Năng Lượng) (Chuyển vào ngày: 2025-06-26) - (Độ tin cậy giữ nguyên lý do: 80%)
       - **Lý do:** Tín hiệu **Sign of Weakness (SOW)** trên biểu đồ tuần và các tín hiệu **Effort to Fall** trên biểu đồ ngày cho thấy áp lực bán đang gia tăng, làm suy yếu câu chuyện tăng giá.
 
@@ -230,7 +284,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
   - [View Report](./REPORT.md#CTD)
 
-  - **Phân Tích Cốt Lõi:** CTD là cổ phiếu đồng dẫn dắt ngành Xây dựng (ngành "Dẫn dắt Đồng Thuận"). Biểu đồ tuần cho thấy một cú bứt phá **SOS** mạnh mẽ, theo sau là một tuần "Test for Supply" thành công, tạo nên một cấu trúc tăng giá rất bền vững. Hành động giá trong tuần này đã xác nhận mạnh mẽ cho bối cảnh đó. Sau một phiên **Effort to Rise** mạnh mẽ vào ngày 30/06, phiên ngày 01/07 là một **Test for Supply** lành mạnh, cho thấy thị trường đang hấp thụ tốt lực bán và sẵn sàng cho đợt tăng tiếp theo.
+  - **Phân Tốt Lõi:** CTD là cổ phiếu đồng dẫn dắt ngành Xây dựng (ngành "Dẫn dắt Đồng Thuận"). Biểu đồ tuần cho thấy một cú bứt phá **SOS** mạnh mẽ, theo sau là một tuần "Test for Supply" thành công, tạo nên một cấu trúc tăng giá rất bền vững. Hành động giá trong tuần này đã xác nhận mạnh mẽ cho bối cảnh đó. Sau một phiên **Effort to Rise** mạnh mẽ vào ngày 30/06, phiên ngày 01/07 là một **Test for Supply** lành mạnh, cho thấy thị trường đang hấp thụ tốt lực bán và sẵn sàng cho đợt tăng tiếp theo.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `83.5 - 84.5` | **Dừng Lỗ:** Dưới `82.0` | **Chốt Lời:** `95.0 - 100.0`
   - **Lý Do Cho Vùng Tham Gia:** Mua vào khi cổ phiếu vừa hoàn thành một nhịp điều chỉnh lành mạnh và có tín hiệu xác nhận tăng giá trở lại trên cả hai khung thời gian.
 
