@@ -115,6 +115,8 @@ You will now generate the `hold.md` file based *only* on the final actions decid
 -----
 
 ### **[Mã Cổ Phiếu](REPORT#[Mã Cổ Phiếu]) ([Ngành])**
+![Weekly Chart](./reports_week/[Mã Cổ Phiếu]/[Mã Cổ Phiếu]_candlestick_chart.png)
+![Daily Chart](./reports/[Mã Cổ Phiếu]/[Mã Cổ Phiếu]_candlestick_chart.png)
 
   * **Giá Mua Trung Bình:** [Value from `Dữ Liệu Danh Mục` table]
   * **Số Lượng Nắm Giữ:** [Value from `Dữ Liệu Danh Mục` table]

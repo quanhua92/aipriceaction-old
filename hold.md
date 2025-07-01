@@ -30,7 +30,8 @@ Danh mục đang đối mặt với những cơn gió ngược ngày càng tăng
 -----
 
 ### **GVR (CAO_SU)**
-
+![Weekly Chart](./reports_week/GVR/GVR_candlestick_chart.png)
+![Daily Chart](./reports/GVR/GVR_candlestick_chart.png)
 *   **Giá Mua Trung Bình:** 29.843
 *   **Số Lượng Nắm Giữ:** 600
 *   **Giá Hiện Tại:** 31.15
@@ -46,7 +47,8 @@ Danh mục đang đối mặt với những cơn gió ngược ngày càng tăng
 -----
 
 ### **TCB (NGAN_HANG)**
-
+![Weekly Chart](./reports_week/TCB/TCB_candlestick_chart.png)
+![Daily Chart](./reports/TCB/TCB_candlestick_chart.png)
 *   **Giá Mua Trung Bình:** 33.117
 *   **Số Lượng Nắm Giữ:** 1600
 *   **Giá Hiện Tại:** 34.4
@@ -62,7 +64,8 @@ Danh mục đang đối mặt với những cơn gió ngược ngày càng tăng
 -----
 
 ### **VHC (THUY_SAN)**
-
+![Weekly Chart](./reports_week/VHC/VHC_candlestick_chart.png)
+![Daily Chart](./reports/VHC/VHC_candlestick_chart.png)
 *   **Giá Mua Trung Bình:** 56.850
 *   **Số Lượng Nắm Giữ:** 100
 *   **Giá Hiện Tại:** 58.9
@@ -76,7 +79,8 @@ Danh mục đang đối mặt với những cơn gió ngược ngày càng tăng
 -----
 
 ### **VND (CHUNG_KHOAN)**
-
+![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png)
+![Daily Chart](./reports/VND/VND_candlestick_chart.png)
 *   **Giá Mua Trung Bình:** 16.279
 *   **Số Lượng Nắm Giữ:** 900
 *   **Giá Hiện Tại:** 16.8
