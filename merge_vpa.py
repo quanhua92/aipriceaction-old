@@ -51,7 +51,7 @@ for ticker, new_parts in vpa_new_lines.items():
         for part in new_parts:
             content = part.strip()
             if not content.endswith('---'):
-                content += '\n---\n'
+                content += '\n\n---\n'
             old_block += '\n' + content
         vpa_blocks[ticker] = old_block + '\n'
     else:
@@ -61,7 +61,7 @@ for ticker, new_parts in vpa_new_lines.items():
                 block += '\n'
             content = part.strip()
             if not content.endswith('---'):
-                content += '\n---\n'
+                content += '\n\n---\n'
             block += content
         vpa_blocks[ticker] = block + '\n'
 
