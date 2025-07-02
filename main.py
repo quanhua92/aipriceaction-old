@@ -566,8 +566,7 @@ def save_fund_data():
                     print(f"Downloading {report_name} for '{ticker}'...")
                     # Call the appropriate API function (e.g., fund_explorer.details.nav_report)
                     details_df = api_function(symbol=ticker)
-                    time.sleep(2)  # Sleep to avoid rate limiting
-                    
+                    time.sleep(3)  # Sleep to avoid rate limiting
                     
                     # Save the data to a CSV file
                     details_df.to_csv(file_path, index=False)
