@@ -10,13 +10,15 @@ It automatically fetches daily price data for a configurable list of tickers, ge
 
 The primary output of this project is the **`REPORT.md`** file. This file is automatically regenerated with the latest data and analysis every time the script runs.
 
-**➡️ [Click here to view the latest market report](REPORT.md)**
+**➡️ [Click here to view the Daily Market Report](REPORT.md)**
 
-**➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)**
+**➡️ [Click here to view the Weekly Market Report](REPORT_week.md)**
 
-**🎢 [Click here to view the latest market leaders](LEADER.md)**
+**🎢 [Click here to view the latest Market Leaders](LEADER.md)**
 
-**🐎 [Click here to view the latest market top impact contributors](IMPACT.md)**
+**🐎 [Click here to view the Market Impact Contributors](IMPACT.md)**
+
+**🏦 [Click here to view the Fund Performance Deep-Dive](FUNDS.md)**
 
 ---
 
@@ -29,29 +31,28 @@ Based on the latest analysis, the **`PLAN.md`** file outlines potential trading 
 ---
 ## Analysis Sources
 
-1. **Daily Analysis Sources:** *
+1. **Daily Analysis Sources:**
 
 * **`REPORT.md`**: For the most recent daily signals and price/volume activity (last 10 days).
-
 * **`VPA.md`**: For the detailed, multi-session daily VPA narrative of each ticker. 
-
 * **`market_data.txt`**: For the raw daily price, volume, and OHLC data (last 40 days) used to verify daily signals. 
 
-2. **Weekly Analysis Sources:** *
+2. **Weekly Analysis Sources:**
 
 * **`REPORT_week.md`**: For the most recent weekly signals, providing a strategic, big-picture view.
-
 * **`VPA_week.md`**: For the broader historical context and the multi-week VPA narrative.
-
 * **`market_data_week.txt`**: For the raw weekly OHLC data (last 40 weeks) to verify long-term signals. 
 
 
 3. **Contextual & Grouping Sources:**
 
 * **`LEADER.md`**: For assessing the **industry context** based on weekly analysis. You must use this to determine if a ticker is in a strong (`Dẫn dắt Đồng Thuận`), weakening, or weak (`Yếu/Phân Phối`) industry group.
-
 * **`GROUP.md`**: The definitive source for mapping individual tickers to their respective industry groups.
+* **`IMPACT.md`**: Identifies the top stocks and sectors driving or holding back the VN-Index, providing insight into market-wide momentum.
 
+### 4. Fund Universe Analysis
+
+*   **`FUNDS.md`**: A comprehensive deep-dive into the performance, risk profiles, and portfolio compositions of major Vietnamese investment funds. Use this to compare professional money managers against the market and each other.
 
 ## Key Features
 
