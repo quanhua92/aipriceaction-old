@@ -47,6 +47,8 @@ jobs:
           rm -f market_data/*
           # Remove the old reports directory to clear out stale charts.
           rm -rf reports/*
+          # Remove old funds data to ensure we start fresh.
+          rm -rf funds_data/*
 
       # Step 5: Run the main Python script to generate the new files.
       - name: Run data pipeline and generate report
@@ -95,7 +97,28 @@ jobs:
 
           echo "Last 40 lines of each file have been combined into $tail_output_file"
 
-      # Step 8: Commit and push the updated report, data, and charts to the repository.
+      # Step 8: Combine only the last 365 lines of each funds data file.
+      - name: Combine last 365 lines of funds data
+        run: |
+          cd funds_data
+          tail_output_file="funds_data.txt"
+
+          if [ -f "$tail_output_file" ]; then
+              rm "$tail_output_file"
+          fi
+
+          for file in *; do
+              if [ -f "$file" ] && [ "$file" != "$tail_output_file" ]; then
+                  full_path=$(pwd)/"$file"
+                  echo "// $full_path" >> "$tail_output_file"
+                  tail -n 365 "$file" >> "$tail_output_file"
+                  echo "" >> "$tail_output_file"
+              fi
+          done
+
+          echo "Last 365 lines of each file have been combined into $tail_output_file"
+
+      # Step 9: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
