@@ -2,78 +2,123 @@
 
 **Primary Objective:** Generate the updated content for the file `hold.md`, providing actionable suggestions for each ticker in the user's holdings.
 
+---
+
+### **Core Input Files**
+
+1.  **Portfolio Data:**
+    *   The *previous* `hold.md` file, specifically the `Dữ Liệu Danh Mục` table, which is the definitive source for the user's current holdings (`Giá Mua Trung Bình`, `Số Lượng Nắm Giữ`) and the previously recommended action for each ticker.
+
+2.  **Daily Analysis Sources:**
+    *   **`REPORT.md`**: For the most recent daily signals and price/volume activity (last 10 days).
+    *   **`VPA.md`**: For the detailed, multi-session daily VPA narrative of each ticker.
+    *   **`market_data.txt`**: For the raw daily price, volume, and OHLC data (last 40 days) used to verify daily signals and get the current price.
+
+3.  **Weekly Analysis Sources:**
+    *   **`REPORT_week.md`**: For the most recent weekly signals, providing a strategic, big-picture view.
+
+4.  **Contextual & Grouping Sources:**
+    *   **`LEADER.md`**: For assessing the **industry context**.
+    *   **`GROUP.md`**: For mapping tickers to their industry groups.
+    *   **`PLAN.md`**: For the overall market context (VNINDEX analysis) and ranked ticker lists.
+
+---
+
 ### **MANDATORY PROCESSING PROTOCOL**
 
-You will process the universe of tickers by performing the following two stages in order. Your analysis **MUST** be a synthesis of key data sources, with a core focus on **Multi-Timeframe Confirmation**. A signal or pattern is significantly more reliable when it is confirmed on both daily and weekly charts. Your analysis should also consider the user's current holdings as provided in the *previous* `hold.md` (specifically, the `Dữ Liệu Danh Mục` table where the manual updated porfolio data is stored.) and the overall market context from **PLAN.md**.
+You will process the universe of tickers held in the portfolio by performing the following stages in the exact order specified.
 
-1.  **Daily Analysis Sources:**
-    * **`REPORT.md`**: For the most recent daily signals and price/volume activity (last 10 days).
-    * **`VPA.md`**: For the detailed, multi-session daily VPA narrative of each ticker.
-    * **`market_data.txt`**: For the raw daily price, volume, and OHLC data (last 40 days) used to verify daily signals.
+#### **STAGE 0: PRE-PROCESSING & DATA VERIFICATION (INTERNAL STEP)**
 
-2.  **Contextual & Grouping Sources:**
-    * **`LEADER.md`**: For assessing the **industry context** based on weekly analysis. You must use this to determine if a ticker is in a strong (`Dẫn dắt Đồng Thuận`), weakening, or weak (`Yếu/Phân Phối`) industry group.
-    * **`GROUP.md`**: The definitive source for mapping individual tickers to their respective industry groups.
-    * **`PLAN.md`**: For the overall market context and ranked ticker lists
+This is a mandatory internal analysis you must perform **before** any other stage. For every single ticker listed in the `Dữ Liệu Danh Mục` table of the *previous* `hold.md` file, you **MUST** first create an internal "Fact Sheet". This process forces you to look up and isolate data correctly for each ticker, preventing cross-contamination of information.
+
+**For each ticker, create this internal data structure:**
+
+```json
+// Internal Fact Sheet for [TICKER_SYMBOL]
+{
+  "ticker": "...",
+  "holding_info": {
+    "avg_buy_price": ..., // From previous hold.md's "Dữ Liệu Danh Mục" table
+    "quantity": ...      // From previous hold.md's "Dữ Liệu Danh Mục" table
+  },
+  "previous_recommendation": "...", // From previous hold.md's "Hành Động Đề Xuất" for this ticker
+  "current_price": ...,             // The most recent closing price from market_data.txt
+  "most_recent_daily_signal": {
+    "signal": "...", // e.g., "Effort to Rise", "No Demand". From REPORT.md
+    "date": "..."     // The EXACT date of this signal from REPORT.md
+  },
+  "daily_narrative_context": "...", // A 1-sentence summary of the last 3-5 days from VPA.md
+  "weekly_context": {
+    "signal": "...", // e.g., "SOS Bar", "Upthrust". From REPORT_week.md
+    "week_ending_date": "..." // The end date of the week for this signal
+  },
+  "industry_group": "...", // From GROUP.md
+  "industry_status": "...", // From LEADER.md, e.g., "Dẫn dắt Đồng Thuận"
+  "overall_market_context": "..." // A 1-sentence summary of the VNINDEX analysis from PLAN.md
+}
+```
+
+**CRITICAL INSTRUCTION:** You will use these generated Fact Sheets as the **sole source of truth** for all subsequent stages. Do not refer back to the raw files in Stage 1 and 2; refer only to the verified data you just extracted into these Fact Sheets. This prevents confusion and guarantees consistency.
 
 ---
 
 ### STAGE 1: TICKER ACTION ASSESSMENT
 
-This is an internal logical analysis you MUST perform for every relevant ticker before generating any output.
-Each ticker will be assessed for a recommended action. You will compare the *previous* `hold.md` with new data from `market_data.txt`, `VPA.md`, `REPORT.md`, and `PLAN.md` to determine the new recommended action for each ticker according to the following transition rules.
+Using ONLY the internal Fact Sheets created in Stage 0, you will determine the new recommended action for each ticker. Each ticker will be assessed according to the following transition rules, which you must execute in order.
 
 **Action Recommendation Rules (Execute in this order):**
 
-For each ticker in the `hold.md` holdings (as defined in the `Dữ Liệu Danh Mục` table), determine the appropriate action based on the following:
+For each ticker's Fact Sheet:
 
-1.  **Current Status: `Hold`**
-    * **Condition A (Strong Bullish Continuation):** Does the new data show a *clear continuation of bullish VPA signals* (e.g., successful "Backing Up" after an SOS, continued "No Supply" on minor pullbacks, increasing volume on up moves) suggesting further upside? Is the current price significantly below a potential target?
-        * **Decision:** `Buy More` (with suggested price range and quantity: e.g., "Buy 100 shares at $X.XX - $Y.YY").
-    * **Condition B (Minor Weakness/Consolidation):** Does the new data show *minor weakness or healthy consolidation* (e.g., low volume pullback, sideways movement after a significant gain, `No Demand` at resistance) that is not severe enough for a sell, but suggests caution or a potential entry point for additional buys? Is the current price still within a reasonable range of the average buying price?
-        * **Decision:** `Hold` (if still strong, or consolidate), or `Prepare to Buy` (if a clear VPA entry is forming).
-    * **Condition C (Significant Weakness/Breakdown):** Does the new data show a *clear and confirmed break* in the bullish narrative (e.g., `Sign of Weakness` with high volume, breakdown below key support, confirmed `Effort to Fall`)? Is the current price significantly below the average buying price, or threatening a stop-loss?
-        * **Decision:** `Sell` (with suggested price range and quantity: e.g., "Sell 50% of holdings at $X.XX - $Y.YY") or `Panic Sell` (if the bearish trend is accelerating and risk is high).
+1.  **If `previous_recommendation` was `Hold`:**
+    *   **Condition A (Strong Bullish Continuation):** Does the Fact Sheet show a clear continuation of bullish signals? This is defined as: (`most_recent_daily_signal.signal` is bullish like 'SOS', 'Effort to Rise', 'Backing Up') AND (`weekly_context.signal` is supportive or bullish) AND (`daily_narrative_context` confirms strength).
+        *   **Decision:** `Buy More`.
+    *   **Condition B (Minor Weakness/Consolidation):** Does the Fact Sheet show minor weakness or healthy consolidation? This is defined as: (`most_recent_daily_signal.signal` is neutral or a minor bearish signal like 'No Demand' on low volume) AND (`daily_narrative_context` describes sideways movement or a low-volume pullback) AND (the underlying `weekly_context` remains bullish).
+        *   **Decision:** `Hold` (if still strong) or `Prepare to Buy` (if a clear VPA entry is forming, e.g., a test after a pullback).
+    *   **Condition C (Significant Weakness/Breakdown):** Does the Fact Sheet show a clear break in the bullish narrative? This is defined as: (`most_recent_daily_signal.signal` is a major bearish signal like 'Sign of Weakness', 'Effort to Fall' on high volume) OR (`weekly_context.signal` has turned bearish and the daily signal confirms it).
+        *   **Decision:** `Sell` (e.g., 50%) or `Panic Sell` (if breakdown is severe and accelerating).
 
-2.  **Current Status: `Buy More` (from previous recommendation)**
-    * **Condition A (Target Price Reached/Further Confirmation):** Has the suggested buy price been reached and/or has the ticker shown *further strong bullish confirmation* after the initial buy signal?
-        * **Decision:** `Hold` (if position is now sufficient), `Buy Fast` (if the move is accelerating and more allocation is desired, with suggested price and quantity), or `Prepare to Buy` (if a new entry point is forming after the initial buy).
-    * **Condition B (Failure to Confirm/Minor Weakness):** Has the ticker *failed to reach the buy zone* or has it shown *minor negative signals* after the `Buy More` recommendation, but not a full breakdown?
-        * **Decision:** Revert to `Hold` or `Prepare to Buy` (if waiting for a better setup).
+2.  **If `previous_recommendation` was `Buy More`:**
+    *   **Condition A (Confirmation/Continuation):** Does the Fact Sheet show *further* strong bullish confirmation after the initial `Buy More` signal? (`most_recent_daily_signal.signal` remains bullish, price is moving up).
+        *   **Decision:** `Hold` (position is now established) or `Buy Fast` (if the move is accelerating strongly and more allocation is justified).
+    *   **Condition B (Failure to Confirm/Minor Weakness):** Does the Fact Sheet show that the expected follow-through did not happen? (`most_recent_daily_signal.signal` is weak/neutral, price is stagnant or slightly down).
+        *   **Decision:** Revert to `Hold` or `Prepare to Buy` (if waiting for a better re-entry setup).
 
-3.  **Current Status: `Sell` (from previous recommendation)**
-    * **Condition A (Further Decline/Confirmation of Bearish Trend):** Has the ticker *continued its decline* and/or shown *further strong bearish confirmation* after the initial sell signal?
-        * **Decision:** `Panic Sell` (if not fully exited and the bearish trend is accelerating) or `Avoid` (if fully exited).
-    * **Condition B (Rebound/False Breakdown):** Has the ticker shown *signs of rebound or a false breakdown* after the `Sell` recommendation?
-        * **Decision:** `Re-evaluate` (if the bearish thesis is invalidated, and a new bullish setup is forming).
+3.  **If `previous_recommendation` was `Sell`:**
+    *   **Condition A (Further Decline/Confirmation):** Does the Fact Sheet show continued decline? (`most_recent_daily_signal.signal` is bearish, `daily_narrative_context` confirms weakness).
+        *   **Decision:** `Panic Sell` (if not fully exited and trend is accelerating down) or `Avoid` (if fully exited).
+    *   **Condition B (Rebound/False Breakdown):** Does the Fact Sheet show signs of a bullish reversal? (`most_recent_daily_signal.signal` is a strong bullish signal like 'SOS', invalidating the prior sell signal).
+        *   **Decision:** `Re-evaluate`.
 
-4.  **Current Status: `Prepare to Buy` (from previous recommendation)**
-    * **Condition A (Entry Signal Confirmed):** Has the *ideal VPA entry signal* (e.g., successful "Test for Supply," "No Supply" on pullback to support) been confirmed?
-        * **Decision:** `Buy` (with suggested price range and quantity).
-    * **Condition B (Entry Signal Failed/Weakness):** Has the *entry signal failed to materialize* or has the ticker shown *weakness* instead?
-        * **Decision:** `Hold` (if the situation is unclear) or `Avoid` (if the bullish thesis is invalidated).
+4.  **If `previous_recommendation` was `Prepare to Buy`:**
+    *   **Condition A (Entry Signal Confirmed):** Has the ideal VPA entry signal appeared? This is defined as: (`most_recent_daily_signal.signal` is a classic entry signal like 'Test for Supply', 'No Supply' on a pullback to support, or a small 'SOS' bar) AND (`daily_narrative_context` confirms the setup is complete).
+        *   **Decision:** `Buy`.
+    *   **Condition B (Entry Signal Failed/Weakness):** Did the entry signal fail to materialize, or did weakness appear instead? (`most_recent_daily_signal.signal` is bearish).
+        *   **Decision:** `Hold` (if situation is unclear) or `Avoid` (if the bullish thesis is now invalid).
 
-5.  **For Tickers with No Previous Action/New Holdings (i.e., newly added to `Dữ Liệu Danh Mục`):**
-    * **Condition (Initial VPA Setup):** Does the new data show a *clear and compelling initial bullish VPA setup* (e.g., end of accumulation, initial `Sign of Strength`, healthy pullback for a "Backing Up" action)?
-        * **Decision:** `Prepare to Buy` (if an entry point is forming) or `Buy` (if the entry is immediate and clear, with suggested price and quantity).
-    * **Condition (Bearish Setup):** Does the new data show a *clear bearish VPA setup* (e.g., distribution, `Sign of Weakness`, breakdown)?
-        * **Decision:** `Avoid` (for now).
+5.  **For Tickers with No Previous Recommendation / Newly Added:**
+    *   **Condition A (Initial Bullish Setup):** Does the Fact Sheet show a clear and compelling initial bullish VPA setup? (`weekly_context` is in accumulation/uptrend, `most_recent_daily_signal` is an 'SOS' or 'Backing Up').
+        *   **Decision:** `Prepare to Buy` (if an entry point is forming) or `Buy` (if the entry is immediate and clear).
+    *   **Condition B (Bearish Setup):** Does the Fact Sheet show a clear bearish setup? (`weekly_context` is in distribution, `most_recent_daily_signal` is 'SOW' or 'Upthrust').
+        *   **Decision:** `Avoid`.
 
 **Protocol Summary for Actions:**
-* `Buy More`: Used for strong bullish continuation on existing holdings.
-* `Sell`: Used for significant weakness or breakdown of the bullish narrative.
-* `Hold`: Default action when no strong signals for buy or sell.
-* `Panic Sell`: For accelerated bearish trends and high risk.
-* `Prepare to Buy`: When a VPA entry setup is forming but not yet confirmed.
-* `Buy Fast`: For accelerating bullish moves where immediate entry is desired.
-* `Re-evaluate`: When a previous bearish thesis is invalidated.
-* `Avoid`: To stay away from a ticker due to bearish signals or lack of clear setup.
+*   `Buy More`: Used for strong bullish continuation on existing holdings.
+*   `Sell`: Used for significant weakness or breakdown of the bullish narrative.
+*   `Hold`: Default action when no strong signals for buy or sell.
+*   `Panic Sell`: For accelerated bearish trends and high risk.
+*   `Prepare to Buy`: When a VPA entry setup is forming but not yet confirmed.
+*   `Buy`: To execute a purchase when a `Prepare to Buy` setup is confirmed.
+*   `Buy Fast`: For accelerating bullish moves where immediate entry is desired.
+*   `Re-evaluate`: When a previous bearish thesis is invalidated.
+*   `Avoid`: To stay away from a ticker due to bearish signals or lack of clear setup.
 
 ---
 
-#### **STAGE 2: OUTPUT GENERATION FOR `hold.md`**
+### STAGE 2: OUTPUT GENERATION FOR `hold.md`
 
-You will now generate the `hold.md` file based *only* on the final actions decided in Stage 1, applying them to the user's provided holdings.
+You will now generate the `hold.md` file based *only* on the final actions decided in Stage 1 and the data from the Fact Sheets.
 
 **Instructions for LLM:** Copy the entire content below, including the markdown fences, directly into your output for `hold.md`. Do not modify this section. Then, proceed with generating the rest of the `hold.md` content by filling in the details as instructed.
 
@@ -97,8 +142,8 @@ You will now generate the `hold.md` file based *only* on the final actions decid
 
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
-  * Provide a concise overview of the portfolio's general health based on the collective VPA signals and recommended actions. (e.g., "Danh mục đang trong giai đoạn tích lũy, với một số cơ hội gia tăng tỷ trọng tại các vùng giá tốt.")
-  * Provide a concise table similar to:
+  * Provide a concise overview of the portfolio's general health based on the collective recommended actions and the `overall_market_context` from the Fact Sheets. (e.g., "Danh mục đang trong giai đoạn tích lũy, với một số cơ hội gia tăng tỷ trọng tại các vùng giá tốt, phù hợp với bối cảnh thị trường chung đang đi ngang.")
+  * Provide a concise table summarizing the new recommendations:
      * **Tóm Tắt Hành Động Đề Xuất:**
        | Mã Cổ Phiếu                  | Trạng Thái Hiện Tại | Hành Động Đề Xuất Ngắn Gọn |
        | ---------------------------- | ------------------- | -------------------------- |
@@ -108,9 +153,9 @@ You will now generate the `hold.md` file based *only* on the final actions decid
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
 
-  * For each ticker listed in the `Dữ Liệu Danh Mục` table, calculate the P\&L and provide a detailed breakdown following the template below.
-  * Sort tickers from A to Z
-  * **Crucially, use the `Giá Hiện Tại` from `market_data.txt` to calculate P\&L, and the `Giá Mua Trung Bình` and `Số Lượng Nắm Giữ` from the `Dữ Liệu Danh Mục` table.**
+  * For each ticker, provide a detailed breakdown following the template below.
+  * Sort tickers from A to Z.
+  * **Crucially, all data points MUST come from the ticker's internal Fact Sheet created in Stage 0.**
 
 -----
 
@@ -118,38 +163,35 @@ You will now generate the `hold.md` file based *only* on the final actions decid
 ![Weekly Chart](./reports_week/[Mã Cổ Phiếu]/[Mã Cổ Phiếu]_candlestick_chart.png)
 ![Daily Chart](./reports/[Mã Cổ Phiếu]/[Mã Cổ Phiếu]_candlestick_chart.png)
 
-  * **Giá Mua Trung Bình:** [Value from `Dữ Liệu Danh Mục` table]
-  * **Số Lượng Nắm Giữ:** [Value from `Dữ Liệu Danh Mục` table]
-  * **Giá Hiện Tại:** [Value from market\_data.txt]
+  * **Giá Mua Trung Bình:** [Value from `Fact Sheet.holding_info.avg_buy_price`]
+  * **Số Lượng Nắm Giữ:** [Value from `Fact Sheet.holding_info.quantity`]
+  * **Giá Hiện Tại:** [Value from `Fact Sheet.current_price`]
   * **P\&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** [Calculated based on above, formatted as % and monetary value]
-  * **VPA Phân Tích Hiện Tại:** Một đoạn văn súc tích giải thích *tại sao* cổ phiếu này có hành động được đề xuất. Tổng hợp chuỗi tín hiệu từ file `VPA.md` và **đối chiếu với dữ liệu giá/khối lượng thô trong `market_data.txt`**. Giải thích bối cảnh rộng hơn và chuỗi sự kiện để xác nhận sức mạnh của kịch bản. (e.g., "`TCB đã hoàn thành pha 'Backing Up' lý tưởng, với các phiên test cung ở khối lượng thấp, xác nhận sự hấp thụ hoàn toàn lực bán. Đây là cơ hội vàng để gia tăng tỷ trọng trước khi giá bước vào giai đoạn tăng tốc chính.`")
-  * **Hành Động Đề Xuất:** [Buy More / Sell / Hold / Panic Sell / Prepare to Buy / Buy Fast / Re-evaluate / Avoid]
-      * **Giá Đề Xuất:** [Nếu hành động là mua hoặc bán, cung cấp khoảng giá cụ thể. e.g., "Mua tại 33.5 - 34.0"]
-      * **Số Lượng Đề Xuất:** [Nếu hành động là mua hoặc bán, cung cấp số lượng cụ thể hoặc tỷ lệ. e.g., "Thêm 100 cổ phiếu" hoặc "Bán 50% vị thế"]
-      * **Lý Do Hành Động:** Giải thích rõ ràng logic cho hành động được đề xuất dựa trên các nguyên tắc VPA. (e.g., "`Gia tăng tỷ trọng vì đây là điểm 'Backing Up to the Edge of the Creek' kinh điển, rủi ro thấp nhất cho một giai đoạn tăng giá mới.`" hoặc "`Cần cắt lỗ vì giá đã phá vỡ hỗ trợ quan trọng với khối lượng lớn, cho thấy áp lực bán mạnh mẽ và xu hướng giảm.`")
-  * **Điểm Dừng Lỗ:** [Mức giá cắt lỗ cụ thể]
-  * **Điểm Chốt Lời:** [Mức giá chốt lời cụ thể, hoặc các mức chốt lời theo từng phần]
+  * **VPA Phân Tích Hiện Tại:** A concise paragraph explaining *why* the recommended action was chosen. **Synthesize the story from the Fact Sheet**: Start with the `weekly_context` (e.g., "Bối cảnh tuần, kết thúc ngày [week_ending_date], cho thấy [signal]..."). Then, connect it to the daily action (e.g., "...điều này được xác nhận/thử thách bởi tín hiệu '[signal]' ngày [date] trên biểu đồ ngày."). Conclude with the `daily_narrative_context` and `industry_status`.
+  * **Hành Động Đề Xuất:** [The final decision from Stage 1: Buy More / Sell / Hold / etc.]
+      * **Giá Đề Xuất:** [If action is buy/sell, provide a specific price range. e.g., "Mua tại 33.5 - 34.0"]
+      * **Số Lượng Đề Xuất:** [If action is buy/sell, provide a specific quantity or ratio. e.g., "Thêm 100 cổ phiếu" or "Bán 50% vị thế"]
+      * **Lý Do Hành Động:** Explain the logic based on the VPA principles that triggered the decision in Stage 1. (e.g., "`Gia tăng tỷ trọng vì đây là điểm 'Backing Up to the Edge of the Creek' kinh điển, rủi ro thấp nhất cho một giai đoạn tăng giá mới.`" or "`Cần cắt lỗ vì giá đã phá vỡ hỗ trợ quan trọng với khối lượng lớn, cho thấy áp lực bán mạnh mẽ và xu hướng giảm.`")
+  * **Điểm Dừng Lỗ:** [A specific stop-loss price level]
+  * **Điểm Chốt Lời:** [A specific take-profit price level, or multiple levels for partial profit-taking]
 
 -----
 
 **3. Nhật Ký Thay Đổi Kế Hoạch**
 
-  * This section is a mandatory audit log. You must document all significant changes in recommended actions for tickers.
+  * This section is a mandatory audit log. You must document all changes in recommended actions compared to the `previous_recommendation` in the Fact Sheet.
 
   * **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
-
-      * List any ticker whose recommended action changed from `Hold` to a `Buy` related action.
-      * **Justification:** Explain which protocol condition was met. (e.g., "`Tăng khuyến nghị cho TCB từ Hold lên Buy More:` Xuất hiện tín hiệu VPA xác nhận quá trình Backing Up thành công, đáp ứng điều kiện \#1A.")
+      * List any ticker whose `previous_recommendation` was `Hold` and new action is `Buy`-related.
+      * **Justification:** Explain which protocol condition was met, citing the specific signals and dates from the Fact Sheet. (e.g., "`Tăng khuyến nghị cho TCB từ Hold lên Buy More:` Xuất hiện tín hiệu VPA **'Backing Up' ngày [date]**, xác nhận bối cảnh tuần bullish, đáp ứng điều kiện #1A.")
 
   * **Chuyển Từ Hold sang Sell/Panic Sell:**
+      * List any ticker whose `previous_recommendation` was `Hold` and new action is `Sell`-related.
+      * **Justification:** Explain which protocol condition was met, citing the specific signals and dates from the Fact Sheet. (e.g., "`Giảm khuyến nghị cho FPT từ Hold xuống Sell:` FPT cho thấy tín hiệu **'Sign of Weakness' ngày [date]** với khối lượng lớn, phá vỡ cấu trúc tăng giá, đáp ứng điều kiện #1C.")
 
-      * List any ticker whose recommended action changed from `Hold` to a `Sell` related action.
-      * **Justification:** Explain which protocol condition was met. (e.g., "`Giảm khuyến nghị cho FPT từ Hold xuống Sell:` FPT cho thấy tín hiệu SOS rõ ràng, phá vỡ hỗ trợ với khối lượng lớn, đáp ứng điều kiện \#1C.")
-
-  * **Thay Đổi Số Lượng/Giá Đề Xuất:**
-
-      * Document any changes to suggested quantity or price for `Buy` or `Sell` actions for existing recommendations. (e.g., "`Điều chỉnh giá mua cho LPB:` Từ '30-31' thành '31.5-32.0' do biến động thị trường.")
+  * **Thay Đổi Trạng Thái Khác:**
+      * Document any other significant changes. (e.g., "`Chuyển VHC từ Prepare to Buy sang Buy:` Tín hiệu **'Test for Supply' ngày [date]** đã xác nhận thành công vùng hỗ trợ, đáp ứng điều kiện #4A.")
+      * (e.g., "`Chuyển DBC từ Buy More về Hold:` Thiếu sự tiếp diễn tăng giá sau khuyến nghị, tín hiệu **'No Demand' ngày [date]** cho thấy cần quan sát thêm, đáp ứng điều kiện #2B.")
 
   * **Loại Bỏ/Thêm Mới Ticker:**
-
-      * Document if a ticker is completely removed from the analysis (e.g., due to full sell-off) or added as a new holding/consideration.
+      * Document if a ticker is completely removed from the analysis (e.g., due to full sell-off) or added as a new holding.
