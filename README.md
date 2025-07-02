@@ -16,6 +16,8 @@ The primary output of this project is the **`REPORT.md`** file. This file is aut
 
 **🎢 [Click here to view the latest market leaders](LEADER.md)**
 
+**🐎 [Click here to view the latest market top impact contributors](IMPACT.md)**
+
 ---
 
 ## 🎯 View the Trading Plan
