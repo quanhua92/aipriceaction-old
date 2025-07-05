@@ -151,9 +151,9 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 | Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                          |
 | :--- | :--------------- | :----------- | :--------- | :--------------------------------------------------------------------------------------------------------------------- |
-| 1    | [**MWG**](#mwg)  | 59.8         | 90%        | Câu chuyện VPA rõ ràng nhất, cho thấy sự phục hồi mạnh mẽ sau SOW và tiếp tục xu hướng tăng vững chắc.                 |
+| 1    | [**MWG**](#mwg)  | 62.5         | 90%        | Câu chuyện VPA rõ ràng nhất, cho thấy sự phục hồi mạnh mẽ sau SOW và tiếp tục xu hướng tăng vững chắc.                 |
 | 2    | [**FRT**](#frt)  | 58.7         | 90%        | Hiệu suất giá tốt nhất ngành và câu chuyện VPA cũng rất mạnh mẽ, xác nhận vai trò dẫn dắt.                             |
-| 3    | [**PNJ**](#pnj)  | 53.0         | 85%        | Phục hồi tốt từ đáy với tín hiệu "No Supply", hiệu suất giá tích cực nhưng câu chuyện chưa mạnh bằng hai mã đầu ngành. |
+| 3    | [**PNJ**](#pnj)  | 53.2         | 85%        | Phục hồi tốt từ đáy với tín hiệu "No Supply", hiệu suất giá tích cực nhưng câu chuyện chưa mạnh bằng hai mã đầu ngành. |
 
 ---
 
@@ -172,7 +172,7 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
     *   **Mức Độ Tin Cậy:** 90%
 *   **Phân Tích Dẫn Dắt:** Trong bối cảnh ngành Bán lẻ đang tăng trưởng đồng thuận, MWG nổi lên như một trong những đầu tàu mạnh mẽ nhất. Cổ phiếu này cho thấy khả năng phục hồi ấn tượng sau một tuần SOW, ngay lập tức tạo ra tín hiệu SOS và tiếp tục xu hướng tăng một cách bền vững. Điều này thể hiện sức mạnh nội tại vượt trội và vai trò dẫn dắt rõ ràng.
 *   **Câu Chuyện VPA Nổi Bật:** Sau tuần giảm giá (SOW), MWG phục hồi ngay lập tức với một nến SOS, theo sau là một tuần tăng giá trên khối lượng thấp ("No Supply") và một tuần SOS khác xác nhận xu hướng. Đây là một chuỗi hành động giá rất mạnh mẽ và mang tính xây dựng.
-*   **Hiệu Suất Tương Đối:** Mức tăng trưởng +21.2% từ nền giá tham chiếu, là một trong những mức tăng tốt nhất trong ngành, chỉ đứng sau FRT.
+*   **Hiệu Suất Tương Đối:** Mức tăng trưởng +21.2% từ nền giá tham chiếu, một trong những mức tăng tốt nhất trong ngành, chỉ đứng sau FRT.
 
 ---
 
@@ -215,9 +215,9 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 | Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                             |
 | :--- | :--------------- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------ |
-| 1    | [**BIC**](#bic)  | 68.7         | 80%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, hiệu suất giá vượt trội so với phần còn lại của ngành.    |
-| 2    | [**BVH**](#bvh)  | 48.0         | 70%        | Phục hồi tốt từ đáy nhưng tín hiệu VPA gần đây có sự bất thường (khối lượng không xác nhận), cần thêm theo dõi.           |
-| 3    | [**PVI**](#pvi)  | 46.1         | 75%        | Diễn biến giá tích cực nhưng yếu, chủ yếu là các tín hiệu "Test" và "No Supply" trên khối lượng thấp, chưa có sự bùng nổ. |
+| 1    | [**BIC**](#bic)  | 57.6         | 80%        | Dẫn dắt tuyệt đối với cú bứt phá SOS mạnh mẽ khỏi nền tích lũy, hiệu suất giá vượt trội so với phần còn lại của ngành.    |
+| 2    | [**BVH**](#bvh)  | 47.9         | 70%        | Phục hồi tốt từ đáy nhưng tín hiệu VPA gần đây có sự bất thường (khối lượng không xác nhận), cần thêm theo dõi.           |
+| 3    | [**PVI**](#pvi)  | 46.0         | 75%        | Diễn biến giá tích cực nhưng yếu, chủ yếu là các tín hiệu "Test" và "No Supply" trên khối lượng thấp, chưa có sự bùng nổ. |
 
 ---
 
@@ -234,8 +234,8 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
     *   **Điểm Câu Chuyện VPA:** 90 / 100
     *   **Điểm Hiệu Suất Tương Đối:** 9.0 (tương ứng +9.0% change)
     *   **Mức Độ Tin Cậy:** 80%
-*   **Phân Tích Dẫn Dắt:** BIC là cổ phiếu dẫn dắt không thể tranh cãi của ngành Bảo hiểm. Trong khi các cổ phiếu khác còn đang vật lộn, BIC đã có một tuần bùng nổ SOS, theo sau là các phiên kiểm tra cung thành công. Tuy nhiên, tuần gần nhất xuất hiện bóng nến trên cho thấy áp lực bán, làm giảm độ tin cậy.
-*   **Câu Chuyện VPA Nổi Bật:** Bứt phá mạnh mẽ khỏi vùng tích lũy với một tuần SOS, sau đó là một tuần điều chỉnh chốt lời (SOW ngắn hạn) và một tuần "No Supply" trên khối lượng cạn kiệt. Tuần gần nhất là "Effort to Rise" nhưng gặp kháng cự.
+*   **Phân Tích Dẫn Dắt:** BIC là cổ phiếu dẫn dắt không thể tranh cãi của ngành Bảo hiểm. Trong khi các cổ phiếu khác còn đang vật lộn, BIC đã có một tuần bùng nổ SOS, theo sau là các phiên kiểm tra cung thành công. Tuần gần nhất là tín hiệu "No Supply" tích cực, củng cố cho xu hướng tăng.
+*   **Câu Chuyện VPA Nổi Bật:** Bứt phá mạnh mẽ khỏi vùng tích lũy với một tuần SOS, sau đó là một tuần điều chỉnh chốt lời (SOW ngắn hạn) và một tuần "No Supply" trên khối lượng cạn kiệt. Tuần gần nhất tiếp tục là "No Supply", cho thấy áp lực bán yếu.
 *   **Hiệu Suất Tương Đối:** Mức tăng trưởng +9.0% từ nền giá tham chiếu, cao nhất trong ngành, cho thấy sức mạnh tương đối vượt trội.
 
 ---
@@ -249,9 +249,9 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
     *   **Điểm Câu Chuyện VPA:** 70 / 100
     *   **Điểm Hiệu Suất Tương Đối:** 14.8 (tương ứng +14.8% change)
     *   **Mức Độ Tin Cậy:** 70%
-*   **Phân Tích Dẫn Dắt:** BVH cho thấy sự phục hồi tốt từ đáy, nhưng câu chuyện VPA chưa thực sự thuyết phục. Tuần gần nhất có sự bất thường khi giá tăng trên khối lượng giảm, cho thấy tín hiệu tăng giá thiếu sự xác nhận mạnh mẽ. BVH đang theo sau xu hướng và cần thêm tín hiệu để khẳng định sức mạnh.
-*   **Câu Chuyện VPA Nổi Bật:** Phục hồi từ đáy sau tín hiệu "No Demand", có một tuần "Effort to Rise" tích cực, nhưng tuần tăng giá gần nhất lại thiếu sự hỗ trợ của khối lượng.
-*   **Hiệu Suất Tương Đối:** Mức tăng trưởng +14.8% từ nền giá tham chiếu là một con số ấn tượng, nhưng chất lượng của đà tăng này cần được kiểm chứng.
+*   **Phân Tích Dẫn Dắt:** BVH cho thấy sự phục hồi tốt từ đáy, nhưng câu chuyện VPA chưa thực sự thuyết phục. Tuần gần nhất là một cú bứt phá SOS mạnh mẽ, xác nhận lực cầu đang chiếm ưu thế và củng cố xu hướng tăng. BVH đang theo sau BIC nhưng có tín hiệu tích cực.
+*   **Câu Chuyện VPA Nổi Bật:** Phục hồi từ đáy sau tín hiệu "No Demand", có một tuần "Effort to Rise" tích cực, và tuần tăng giá gần nhất là một SOS mạnh mẽ với khối lượng xác nhận.
+*   **Hiệu Suất Tương Đối:** Mức tăng trưởng +14.8% từ nền giá tham chiếu là một con số ấn tượng, cho thấy chất lượng của đà tăng này đang được cải thiện.
 
 ---
 
@@ -279,8 +279,8 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 | Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do                                                                                                                  |
 | :--- | :--------------- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| 1    | [**VHM**](#vhm)  | 88.0         | 95%        | Dẫn dắt tuyệt đối với câu chuyện VPA hoàn hảo, bứt phá mạnh mẽ khỏi xu hướng giảm và hiệu suất giá vượt trội.                  |
-| 2    | [**VIC**](#vic)  | 87.0         | 90%        | Sức mạnh giá phi thường, hiệu suất cao nhất ngành, dù tín hiệu VPA có chút lo ngại về sự suy kiệt nhưng xu hướng vẫn rất mạnh. |
+| 1    | [**VHM**](#vhm)  | 84.8         | 95%        | Dẫn dắt tuyệt đối với câu chuyện VPA hoàn hảo, bứt phá mạnh mẽ khỏi xu hướng giảm và hiệu suất giá vượt trội.                  |
+| 2    | [**VIC**](#vic)  | 80.4         | 90%        | Sức mạnh giá phi thường, hiệu suất cao nhất ngành, dù tín hiệu VPA có chút lo ngại về sự suy kiệt nhưng xu hướng vẫn rất mạnh. |
 | 3    | [**NVL**](#nvl)  | 74.0         | 95%        | Câu chuyện VPA textbook với cú bứt phá SOS và một tuần "Test for Supply" cực kỳ thành công, cho thấy tiềm năng tăng giá lớn.   |
 
 ---
@@ -300,7 +300,7 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
     *   **Mức Độ Tin Cậy:** 95%
 *   **Phân Tích Dẫn Dắt:** VHM là cổ phiếu dẫn dắt mạnh mẽ và rõ ràng nhất của ngành Bất động sản. Trong bối cảnh ngành đang đồng thuận đi lên, VHM thể hiện vai trò đầu tàu khi bứt phá khỏi xu hướng giảm dài hạn với một chuỗi các tín hiệu SOS mạnh mẽ, được xác nhận bởi khối lượng lớn.
 *   **Câu Chuyện VPA Nổi Bật:** Sau khi thoát khỏi giai đoạn SOW, VHM có tín hiệu "No Supply" và sau đó là một tuần bùng nổ SOS với biên độ rất rộng, xác nhận sự quay trở lại của dòng tiền lớn và bắt đầu một xu hướng tăng mới.
-*   **Hiệu Suất Tương Đối:** Mức tăng trưởng phi thường +62.1% từ nền giá tham chiếu, thể hiện sức mạnh tuyệt đối so với toàn ngành.
+*   **Hiệu Suất Tương Đối:** Mức tăng trưởng +62.1% từ nền giá tham chiếu, một con số phi thường, thể hiện sức mạnh tuyệt đối so với toàn ngành.
 
 ---
 
@@ -377,7 +377,7 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
     *   **Điểm Câu Chuyện VPA:** 95 / 100
     *   **Điểm Hiệu Suất Tương Đối:** 79.4 (tương ứng +79.4% change)
     *   **Mức Độ Tin Cậy:** 95%
-*   **Phân Tích Dẫn Dắt:** BCM là một trong hai cổ phiếu mạnh nhất ngành, thể hiện sức mạnh tương đương IDC. Cú bứt phá trong tuần gần nhất là cực kỳ thuyết phục, với một nến tăng thân dài không có bóng trên, cho thấy phe mua kiểm soát hoàn toàn phiên giao dịch và sẵn sàng đẩy giá lên cao hơn.
+*   **Phân Tích Dẫn Dắt:** BCM là một trong hai cổ phiếu mạnh nhất ngành, thể hiện sức mạnh tương đương IDC. Cú bứt phá trong tuần gần nhất là cực kỳ thuyết phục, với một nến tăng thân dài không có bóng nến trên, cho thấy phe mua kiểm soát hoàn toàn phiên giao dịch và sẵn sàng đẩy giá lên cao hơn.
 *   **Câu Chuyện VPA Nổi Bật:** Sau các tuần "Test for Supply" và "No Demand" cho thấy sự tích lũy, BCM đã có một tuần SOS bùng nổ, phá vỡ vùng đi ngang kéo dài nhiều tuần với khối lượng tăng mạnh.
 *   **Hiệu Suất Tương Đối:** Mức tăng trưởng +79.4% từ nền giá tham chiếu, cao nhất ngành, khẳng định vị thế dẫn dắt.
 
@@ -913,7 +913,7 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 ## **KHAI KHOÁNG**
 
 *   **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-26 - 2025-06-16
-*   **Đánh Giá Tổng Quan Ngành:** **Yếu/Phân Phối**. Ngành Khai khoáng đang trong tình trạng rất yếu và thiếu động lực. Cả VPG và CST đều cho thấy các tín hiệu "Test for Supply" hoặc "No Demand" sau một giai đoạn giảm giá dài, cho thấy lực cầu gần như không có. MSR có chút nỗ lực phục hồi nhưng vẫn rất yếu.
+*   **Đánh Giá Tổng Quan Ngành:** **Yếu/Phân Phối**. Ngành Khai khoáng đang trong tình trạng rất yếu và thiếu động lực. Cả VPG và CST đều cho thấy các tín hiệu "Test for Supply" hoặc "No Demand" sau một giai đoạn giảm giá dài, cho thấy lực cầu gần như không có. MSR có chút nỗ lực phục hồi nhưng vẫn còn yếu.
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
@@ -1204,7 +1204,7 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 ![View Chart](reports_week/HAG/HAG_candlestick_chart.png)
 
-*   [View Report](REPORT_week.md#hage)
+*   [View Report](REPORT_week.md#hag)
 *   **Các Chỉ Số Chính:**
     *   **Điểm Câu Chuyện VPA:** 85 / 100
     *   **Điểm Hiệu Suất Tương Đối:** 37.1 (tương ứng +37.1% change)
