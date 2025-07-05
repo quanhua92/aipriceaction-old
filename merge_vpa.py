@@ -1,10 +1,33 @@
 import re
+import argparse
 from collections import defaultdict
 
+# --- Argument Parsing ---
+parser = argparse.ArgumentParser(
+    description='Merge new VPA analysis into a main VPA file.'
+)
+parser.add_argument(
+    '--week',
+    action='store_true',
+    help='If specified, reads from and writes to VPA_week.md instead of VPA.md.'
+)
+args = parser.parse_args()
+
+# --- File Configuration ---
+if args.week:
+    main_vpa_filename = 'VPA_week.md'
+else:
+    main_vpa_filename = 'VPA.md'
+
+new_vpa_filename = 'VPA_NEW.md'
+
+print(f"Using main VPA file: {main_vpa_filename}")
+print(f"Using new data from: {new_vpa_filename}")
+
 # Read files
-with open('VPA.md', 'r', encoding='utf-8') as f:
+with open(main_vpa_filename, 'r', encoding='utf-8') as f:
     vpa_content = f.read()
-with open('VPA_NEW.md', 'r', encoding='utf-8') as f:
+with open(new_vpa_filename, 'r', encoding='utf-8') as f:
     vpa_new_content = f.read()
 
 def extract_ticker_blocks(md_text):
@@ -69,12 +92,12 @@ for ticker, new_parts in vpa_new_lines.items():
 sorted_tickers = sorted(vpa_blocks.keys())
 
 # Write to new VPA.md
-with open('VPA.md', 'w', encoding='utf-8') as f:
+with open(main_vpa_filename, 'w', encoding='utf-8') as f:
     for ticker in sorted_tickers:
         f.write('\n' + vpa_blocks[ticker].strip() + '\n')
 
 # Post-process: Ensure blank lines before and after each # TICKER header
-with open('VPA.md', 'r', encoding='utf-8') as f:
+with open(main_vpa_filename, 'r', encoding='utf-8') as f:
     merged = f.read()
 
 # Ensure a blank line before each # TICKER (except at start)
@@ -84,5 +107,14 @@ merged = re.sub(r'# ([A-Z0-9]+)\n([^\n])', r'# \1\n\n\2', merged)
 # Normalize extra blank lines to just two
 merged = re.sub(r'\n{3,}', r'\n\n', merged)
 
-with open('VPA.md', 'w', encoding='utf-8') as f:
+# We use a regular expression with a negative lookbehind `(?<!...)`.
+# This finds any header `\n\n# TICKER` that is NOT already preceded by the `\n---\n` line.
+# The `\n\n` at the start of the pattern ensures we only modify headers that follow previous content,
+# leaving the very first header of the file untouched.
+merged = re.sub(r'(?<!\n---\n)\n\n(# [A-Z0-9]+)', r'\n\n---\n\n\1', merged)
+
+# One final normalization to ensure no more than two consecutive newlines exist anywhere.
+merged = re.sub(r'\n{3,}', r'\n\n', merged)
+
+with open(main_vpa_filename, 'w', encoding='utf-8') as f:
     f.write(merged)
