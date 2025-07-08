@@ -13,6 +13,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm điểm này là một **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không quá mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Test for Supply (Kiểm tra Nguồn cung)** của phiên trước, phiên hôm nay giá tăng nhẹ từ 7.2 lên 7.21. Cây nến có biên độ hẹp, trong khi khối lượng giao dịch tiếp tục giảm (1.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand (Không có Nhu cầu)**. Việc giá không thể tăng một cách thuyết phục trên nền khối lượng thấp cho thấy lực cầu rất yếu và không đủ sức để duy trì một đợt phục hồi bền vững. Tín hiệu này củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Demand (Không có Nhu cầu)** của phiên trước, phiên hôm nay AAA tăng mạnh từ 7.21 lên 7.28. Cây nến tăng có biên độ tốt, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (3.16 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
 
 ---
 
@@ -48,6 +50,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand** yếu ớt, phiên tăng giá mạnh mẽ với khối lượng lớn này là một tín hiệu **Effort to Rise** rõ ràng, phủ nhận các tín hiệu yếu kém trước đó và cho thấy lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay ACB tăng vọt từ 21.4 lên 21.85. Cây nến có biên độ rất rộng, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng đột biến (26.97 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho nỗ lực tăng giá trước đó. Lực cầu áp đảo cho thấy phe mua đang hoàn toàn kiểm soát và xu hướng tăng có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay ACB tiếp tục tăng từ 21.85 lên 22.25. Cây nến có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (17.31 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là sự xác nhận cho tín hiệu SOS, cho thấy sức mạnh của phe mua là bền vững và xu hướng tăng đang được củng cố. Tín hiệu rất tích cực.
 
 ---
 
@@ -87,6 +91,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên tăng giá mạnh mẽ với khối lượng lớn này là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém và cho thấy lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay ACV giảm từ 97.1 xuống 96.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (280.2k đơn vị) so với phiên tăng trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** của ngày hôm trước, phiên hôm nay ACV giảm từ 96.8 xuống 96.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (510.7k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -122,6 +128,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng giá bùng nổ, phiên giảm mạnh này là một tín hiệu **Sign of Weakness (SOW)** hoặc một phiên chốt lời mạnh. Áp lực bán đã xuất hiện một cách quyết đoán, cảnh báo về một đợt điều chỉnh.
 - **Ngày 2025-07-04:** Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay ANV phục hồi mạnh mẽ từ 22.6 lên 23.9, đóng cửa ở mức cao nhất phiên. Cây nến có biên độ rất rộng. Tuy nhiên, khối lượng giao dịch đã giảm đáng kể (3.67 triệu đơn vị) so với phiên giảm mạnh trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay ANV giảm từ 23.9 xuống 23.6. Cây nến giảm điểm (mở cửa 25.3) có biên độ rộng. Khối lượng giao dịch giảm (2.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -159,6 +167,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên giảm điểm với khối lượng vẫn ở mức cao này là một **Test for Supply** mạnh mẽ. Áp lực bán chốt lời đã xuất hiện và chiếm ưu thế trong phiên, là một tín hiệu cảnh báo về một đợt điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** mạnh mẽ của ngày hôm trước, phiên hôm nay BCM giảm từ 66.4 xuống 65.5. Cây nến có biên độ giảm rộng. Khối lượng giao dịch giảm mạnh (596.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau phiên kiểm tra cung không thành công xác nhận áp lực bán vẫn còn hiện hữu. Đây là một **Sign of Weakness (SOW)**, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay BCM tăng nhẹ từ 65.5 lên 66.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (592.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
 
 ---
 
@@ -176,6 +186,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên giảm điểm với khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, cho thấy xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-04:** Sau phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay BIC giảm nhẹ từ 39.7 xuống 39.6. Cây nến có biên độ hẹp. Khối lượng giao dịch cạn kiệt (11.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Việc giá chỉ giảm nhẹ trên khối lượng cực thấp cho thấy áp lực bán gần như không còn, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Supply (Không có Nguồn cung)** của phiên trước, phiên hôm nay BIC tăng nhẹ từ 39.6 lên 39.65. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (18.3k đơn vị) nhưng vẫn ở mức cạn kiệt.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
 
 ---
 
@@ -215,6 +227,8 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** hôm trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall**, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
 - **Ngày 2025-07-04:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay BID tăng nhẹ từ 36.3 lên 36.55. Cây nến có biên độ vừa phải. Khối lượng giao dịch giảm (3.91 triệu đơn vị) so với phiên giảm trước.
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu ớt không đủ để tạo ra sự tin cậy cho đà phục hồi. Sự thiếu vắng lực mua sau một phiên giảm có nỗ lực cho thấy xu hướng giảm vẫn đang chi phối.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay BID tăng vọt từ 36.55 lên 37.2. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (11.24 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
 
 ---
 
@@ -232,6 +246,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** và các tín hiệu yếu trước đó, phiên hôm nay BMP giảm từ 139.4 xuống 139.0. Cây nến có biên độ giảm vừa phải. Khối lượng giao dịch không đổi và vẫn ở mức thấp (93.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau chuỗi phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay BMP tăng mạnh từ 139.0 lên 140.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ (123.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -249,6 +265,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Nỗ lực tăng giá không thành công trên khối lượng lớn là một tín hiệu bất thường, cho thấy một lượng cung đáng kể đang cản trở đà tăng.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** không thành công của ngày hôm trước, phiên hôm nay BSI giảm từ 42.8 xuống 42.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.27 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá giảm sau tín hiệu bất thường xác nhận phe bán đang quay trở lại. Đây là một tín hiệu yếu, củng cố khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán đang quay trở lại, phiên hôm nay BSI tăng từ 42.5 lên 43.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (1.67 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
 
 ---
 
@@ -288,6 +306,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
 - **Ngày 2025-07-04:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay BSR tăng nhẹ từ 17.85 lên 17.95. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (2.62 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay BSR đi ngang, đóng cửa ở mức 17.95. Cây nến có biên độ hẹp. Khối lượng giao dịch không đổi (2.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -327,6 +347,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém trước đó, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, xác nhận phe bán vẫn đang kiểm soát và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay BVH tăng mạnh từ 53.0 lên 54.9. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (528.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Tuy nhiên, khối lượng giảm cho thấy lực cầu chưa thực sự bền vững.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay BVH giảm từ 54.9 xuống 54.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (303.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -344,6 +366,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu **No Demand** của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay C4G tăng nhẹ từ 8.0 lên 8.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (736.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay C4G đi ngang, đóng cửa ở mức 8.2. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (693.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -361,6 +385,8 @@
     - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên đi ngang trên khối lượng cực lớn này là một **sự bất thường (Anomaly)**. Nỗ lực (khối lượng khổng lồ) không tạo ra kết quả tương xứng, cho thấy một lượng cung rất lớn đã xuất hiện để cản trở đà tăng. Đây là một tín hiệu rất tiêu cực, có thể là một **Buying Climax**.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Buying Climax** rất tiêu cực của phiên trước, phiên hôm nay CII tăng nhẹ từ 14.9 lên 15.05. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (15.76 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật yếu ớt trên nền **No Demand**. Sau tín hiệu phân phối mạnh mẽ, việc giá không thể phục hồi một cách thuyết phục xác nhận sự yếu kém của lực cầu và củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật yếu ớt trên nền **No Demand**, phiên hôm nay CII tăng nhẹ từ 15.05 lên 15.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (14.92 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu phân phối mạnh mẽ (**Buying Climax**), việc giá không thể phục hồi một cách thuyết phục xác nhận sự yếu kém của lực cầu và củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -400,6 +426,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên đi ngang với khối lượng giảm này là một **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-04:** Sau tín hiệu **Sign of Weakness (SOW)** và một phiên **Test for Supply** không thành công, phiên hôm nay CMG tăng từ 40.8 lên 41.35. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.27 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay CMG giảm từ 41.35 xuống 41.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.68 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -417,6 +445,8 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Áp lực bán dù nhỏ vẫn đủ để đẩy giá xuống, cho thấy sự thiếu vắng của lực cầu.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay CSC tăng nhẹ từ 20.4 lên 20.8. Nến tăng có biên độ rộng. Khối lượng giao dịch vẫn CẠN KIỆT (38.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay CSC tăng nhẹ từ 20.8 lên 21.1. Nến tăng có biên độ rộng. Khối lượng giao dịch CẠN KIỆT (36.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 
 ---
 
@@ -433,6 +463,8 @@
 - **Ngày 2025-07-03:** CST đi ngang, đóng cửa ở mức 15.6. Nến có biên độ hẹp. Khối lượng giao dịch tăng (30.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
 - **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay CST tăng nhẹ từ 15.6 lên 15.7. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (10.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay CST đi ngang, đóng cửa ở mức 15.7. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (21.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 
 ---
@@ -469,6 +501,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các phiên kiểm tra cung không thành công, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Effort to Fall** rõ ràng, xác nhận phe bán đang chiếm ưu thế và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Sau tín hiệu **Effort to Fall** rõ ràng của phiên trước, phiên hôm nay CTD tăng nhẹ từ 83.2 lên 84.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (859.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay CTD giảm từ 84.2 xuống 84.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (1.14 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -508,6 +542,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** và giằng co trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay CTG tăng nhẹ từ 42.5 lên 42.7. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (4.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay CTG tăng vọt từ 42.7 lên 44.4. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (11.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -543,6 +579,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên giảm điểm với khối lượng thấp hơn này là một **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay CTR tăng nhẹ từ 100.5 lên 101.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch không đổi (483.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay CTR tăng nhẹ từ 101.7 lên 101.8. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (442.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -578,6 +616,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các phiên kiểm tra cung không thành công, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đang quay trở lại và chiếm ưu thế.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DBC tăng nhẹ từ 34.3 lên 34.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (6.78 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DBC tăng nhẹ từ 34.6 lên 34.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (8.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -613,6 +653,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu **No Demand** của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DCM giảm từ 33.55 xuống 33.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (3.47 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DCM tăng nhẹ từ 33.4 lên 33.75. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (4.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng không đột biến cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -648,6 +690,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu tích cực của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay DGC giảm từ 103.0 xuống 102.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.4 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay DGC tăng nhẹ từ 102.0 lên 102.2. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (2.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại, củng cố cho xu hướng tăng.
 
 ---
 
@@ -667,6 +711,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay DGW tăng nhẹ từ 43.75 lên 43.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.31 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DGW tăng nhẹ từ 43.8 lên 44.05. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
 
 ---
 
@@ -702,6 +748,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ, phiên đi ngang với khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, cho thấy xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay DHG đi ngang, đóng cửa ở mức 100.7. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (9.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Việc giá đi ngang trên khối lượng cực thấp cho thấy áp lực bán gần như không còn, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Supply (Không có Nguồn cung)** của phiên trước, phiên hôm nay DHG tăng nhẹ từ 100.7 lên 100.9. Nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (14.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
 
 ---
 
@@ -737,6 +785,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall**, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DPM giảm nhẹ từ 38.5 xuống 38.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (3.45 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DPM tăng nhẹ từ 38.45 lên 38.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (5.38 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -772,6 +822,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay DPR giảm từ 40.0 xuống 39.45. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay DPR tăng nhẹ từ 39.45 lên 40.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (695.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -810,6 +862,8 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên giằng co hôm trước, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đang quay trở lại và chiếm ưu thế.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DRC giảm từ 21.7 xuống 21.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (809.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DRC đi ngang, đóng cửa ở mức 21.6. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (708.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -826,6 +880,8 @@
 - **Ngày 2025-07-02:** DVN đi ngang, đóng cửa ở mức 23.4. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (47.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 - **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay DVN tăng nhẹ từ 23.4 lên 23.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (21.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay DVN giảm từ 23.7 xuống 23.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (48.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 
 ---
@@ -846,6 +902,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, xác nhận cho tín hiệu "No Demand" của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay FIT giảm nhẹ từ 4.34 xuống 4.37. Tuy nhiên, cây nến tăng điểm (mở cửa 4.39, đóng cửa 4.37). Khối lượng giao dịch giảm (511.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay FIT tăng nhẹ từ 4.37 lên 4.39. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (803.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -881,6 +939,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FOX tăng mạnh từ 62.5 lên 63.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (81.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau chuỗi ngày yếu kém, lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy khả năng xu hướng phục hồi sẽ tiếp diễn.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay FOX giảm từ 63.5 xuống 63.3. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (61.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -918,6 +978,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FPT tăng vọt từ 118.0 lên 122.5. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (12.85 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay FPT tăng từ 122.5 lên 123.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (6.38 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
 
 ---
 
@@ -953,6 +1015,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay FRT tăng từ 186.0 lên 188.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (511.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay FRT giảm từ 188.4 xuống 186.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (266.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
 
 ---
 
@@ -972,6 +1036,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay FTS giảm từ 39.8 xuống 39.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (5.1 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall**, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FTS tăng từ 39.4 lên 39.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (5.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
 
 ---
 
@@ -1011,6 +1077,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu **No Demand** của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay GAS tăng nhẹ từ 66.2 lên 66.4. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (555.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay GAS tăng nhẹ từ 66.4 lên 66.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (495.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -1046,6 +1114,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay GEX giảm từ 39.85 xuống 40.0. Tuy nhiên, cây nến tăng điểm (mở cửa 40.35, đóng cửa 40.0). Khối lượng giao dịch giảm (14.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay GEX giảm mạnh từ 40.0 xuống 39.0. Cây nến giảm có biên độ rất rộng. Khối lượng giao dịch tăng (19.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Việc giá giảm mạnh trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán đã quay trở lại và chiếm ưu thế, phủ nhận các tín hiệu tích cực trước đó.
 
 ---
 
@@ -1081,6 +1151,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay GMD đi ngang, đóng cửa ở mức 60.5. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.27 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-07:** Sau phiên đi ngang xác nhận sự yếu kém của lực cầu, phiên hôm nay GMD giảm từ 60.5 xuống 60.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -1120,6 +1192,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, xác nhận cho tín hiệu "No Demand" của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế một cách áp đảo, là một tín hiệu rất tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay GVR giảm từ 29.6 xuống 29.3. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (5.12 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay GVR tăng nhẹ từ 29.3 lên 29.75. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -1155,6 +1229,8 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực, phiên đi ngang trên khối lượng gia tăng này là một tín hiệu bất thường. Nỗ lực (khối lượng lớn) không tạo ra kết quả tương xứng, cho thấy một lượng cung lớn đã xuất hiện để cản trở đà tăng. Tín hiệu cảnh báo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu bất thường của ngày hôm trước, phiên hôm nay HAG tăng nhẹ từ 13.2 lên 13.35. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (8.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giằng co trên khối lượng lớn, phiên tăng nhẹ với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tình hình vẫn không chắc chắn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không chắc chắn của ngày hôm trước, phiên hôm nay HAG tăng từ 13.35 lên 13.55. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (8.67 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên giằng co, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
 
 ---
 
@@ -1174,6 +1250,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho các nỗ lực tăng giá trước đó. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay HAH giảm từ 69.7 xuống 69.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (1.47 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HAH giảm từ 69.0 xuống 68.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (2.58 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -1213,6 +1291,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HCM tăng nhẹ từ 23.2 lên 23.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (14.54 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HCM tăng từ 23.5 lên 23.75. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (12.46 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại, củng cố cho xu hướng tăng.
 
 ---
 
@@ -1248,6 +1328,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HDB đi ngang, đóng cửa ở mức 22.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (13.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên đi ngang với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HDB tăng vọt từ 22.55 lên 23.3. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (24.88 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1283,6 +1365,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay HDG tăng nhẹ từ 25.3 lên 25.35. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (3.37 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-07:** Sau phiên đi ngang xác nhận sự yếu kém của lực cầu, phiên hôm nay HDG tăng nhẹ từ 25.35 lên 25.6. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -1318,6 +1402,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu bất thường, phiên đi ngang trên khối lượng gia tăng này là một tín hiệu bất thường tiếp theo. Nỗ lực (khối lượng lớn) không tạo ra kết quả tương xứng, cho thấy một lượng cung lớn đã xuất hiện để cản trở đà tăng. Tín hiệu cảnh báo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu bất thường của ngày hôm trước, phiên hôm nay HHV tăng nhẹ từ 12.4 lên 12.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (7.39 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giằng co trên khối lượng lớn, phiên tăng nhẹ với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tình hình vẫn không chắc chắn và tiềm ẩn rủi ro.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không chắc chắn của ngày hôm trước, phiên hôm nay HHV tăng từ 12.5 lên 12.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (11.17 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu bất thường trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
 
 ---
 
@@ -1357,6 +1443,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HPG tăng nhẹ từ 23.1 lên 23.25. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (19.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HPG tăng mạnh từ 23.25 lên 23.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (35.7 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1396,6 +1484,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Effort to Rise** từ phiên trước. Lực cầu vẫn đang duy trì, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HSG giảm từ 17.1 xuống 16.95. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (6.95 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HSG tăng từ 16.95 lên 17.35. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (13.26 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1431,6 +1521,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise" mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay HT1 tăng mạnh từ 12.35 lên 12.65. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (553.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay HT1 tăng mạnh từ 12.65 lên 13.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (934.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1466,6 +1558,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay HUT tăng mạnh từ 12.6 lên 13.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (2.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HUT tăng nhẹ từ 13.0 lên 13.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.27 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -1501,6 +1595,8 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực, phiên giảm điểm này cho thấy lực cầu không thể duy trì và phe bán đã quay trở lại. Đây là một tín hiệu yếu, phủ nhận nỗ lực của phiên trước.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu yếu của phiên trước, phiên hôm nay HVN tăng nhẹ từ 38.35 lên 38.4. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (1.57 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay HVN giảm từ 38.4 xuống 38.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (1.7 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -1540,6 +1636,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** cực kỳ mạnh mẽ, phiên giảm mạnh với khối lượng bùng nổ này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn tín hiệu tích cực trước đó. Đây là một phiên đảo chiều mạnh mẽ.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay IDC giảm từ 47.8 xuống 46.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (3.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay IDC tăng nhẹ từ 46.4 lên 46.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -1559,6 +1657,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên giảm điểm với khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, cho thấy xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay IMP tăng từ 51.6 lên 52.0. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (95.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay IMP giảm từ 52.0 xuống 52.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (93.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -1594,6 +1694,8 @@
     - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay IPA tăng nhẹ từ 13.9 lên 14.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (136.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay IPA giảm từ 14.0 xuống 13.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng mạnh (461.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -1633,6 +1735,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận nỗ lực tăng giá của phiên trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay KBC tăng nhẹ từ 26.6 lên 26.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (3.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay KBC tăng nhẹ từ 26.8 lên 26.95. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (5.61 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -1652,6 +1756,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay KDC giảm từ 56.4 xuống 56.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (485.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay KDC giảm từ 56.0 xuống 55.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (449.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -1691,6 +1797,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay KDH tăng mạnh từ 29.35 lên 29.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (3.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay KDH tăng từ 29.7 lên 30.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -1728,6 +1836,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co, phiên tăng giá với khối lượng gia tăng này là một tín hiệu **Effort to Rise**. Lực cầu đang quay trở lại, cho thấy khả năng xu hướng phục hồi sẽ tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay LPB tăng từ 32.5 lên 32.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (3.01 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay LPB tăng vọt từ 32.75 lên 33.5. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch tăng mạnh (5.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận các phiên kiểm tra cung trước đó đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1767,6 +1877,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau tín hiệu **No Demand**, việc giá giảm trên khối lượng lớn xác nhận phe bán đang chiếm ưu thế và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, phiên hôm nay MBB đi ngang, đóng cửa ở mức 26.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm (15.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giảm mạnh, phiên đi ngang với khối lượng giảm này cho thấy áp lực bán đã tạm thời suy yếu. Tuy nhiên, lực cầu cũng chưa quay trở lại. Đây là một tín hiệu **No Demand**, củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-07:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay MBB tăng mạnh từ 26.0 lên 26.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (18.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
 
 ---
 
@@ -1802,6 +1914,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** cực kỳ tích cực sau phiên "Effort to Rise". Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu **No Supply**, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của ngày hôm trước, phiên hôm nay MBS tăng từ 27.3 lên 27.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng vọt (3.84 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "No Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay MBS tăng mạnh từ 27.4 lên 28.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (6.74 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1837,6 +1951,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay MCH giảm từ 127.9 xuống 125.7. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (248.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận nỗ lực tăng giá của phiên trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay MCH giảm mạnh từ 125.7 xuống 123.2. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (340.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau các phiên giằng co, áp lực bán đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -1856,6 +1972,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu tiêu cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay MPC đi ngang, đóng cửa ở mức 14.1. Nến có biên độ hẹp. Khối lượng giao dịch giảm (588.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên đi ngang với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay MPC giảm từ 14.1 xuống 14.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (267.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
 
 ---
 
@@ -1875,6 +1993,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, xác nhận cho tín hiệu bất thường của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế một cách áp đảo, là một tín hiệu rất tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay MSH giảm từ 37.1 xuống 36.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (584.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay MSH tăng nhẹ từ 36.4 lên 36.75. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (352.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -1914,6 +2034,8 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên giằng co hôm trước, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đang quay trở lại và chiếm ưu thế.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay MSN tăng nhẹ từ 74.5 lên 74.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay MSN tăng nhẹ từ 74.6 lên 74.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (5.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -1949,6 +2071,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay MSR tăng nhẹ từ 18.5 lên 18.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (916.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay MSR tăng nhẹ từ 18.6 lên 18.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (1.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -1988,6 +2112,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay MWG tăng mạnh từ 65.4 lên 66.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (6.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay MWG tăng nhẹ từ 66.3 lên 66.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (6.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên tăng giá, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
 
 ---
 
@@ -2007,6 +2133,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng nhẹ trên khối lượng cực lớn này là một **sự bất thường (Anomaly)**. Nỗ lực (khối lượng khổng lồ) không tạo ra kết quả tương xứng, cho thấy một lượng cung rất lớn đã xuất hiện để cản trở đà tăng. Tín hiệu cảnh báo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu bất thường của ngày hôm trước, phiên hôm nay NKG đi ngang, đóng cửa ở mức 13.65. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (8.06 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giằng co trên khối lượng lớn, phiên đi ngang với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tình hình vẫn không chắc chắn và tiềm ẩn rủi ro.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không chắc chắn của ngày hôm trước, phiên hôm nay NKG giảm từ 13.65 xuống 13.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (11.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2026,6 +2154,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay NLG tăng nhẹ từ 39.0 lên 39.15. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.3 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay NLG tăng từ 39.15 lên 39.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (2.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
 
 ---
 
@@ -2061,6 +2191,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường vẫn đang trong giai đoạn giằng co, thiếu động lực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay NT2 tăng từ 19.0 lên 19.5. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (880.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn đi ngang.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay NT2 giảm từ 19.5 lên 19.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (920.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng không đổi. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -2096,6 +2228,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay NTP tăng nhẹ từ 64.1 lên 64.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (315.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay NTP tăng mạnh từ 64.5 lên 65.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (184.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
 
 ---
 
@@ -2135,6 +2269,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, xác nhận phe bán vẫn đang kiểm soát và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay NVL tăng từ 14.9 lên 15.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (19.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay NVL tăng nhẹ từ 15.2 lên 15.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (22.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên tăng giá, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
 
 ---
 
@@ -2154,6 +2290,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay PAN giảm từ 28.55 xuống 28.25. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng phục hồi một cách dứt khoát.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không thành công của ngày hôm trước, phiên hôm nay PAN tăng nhẹ từ 28.25 lên 28.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (2.15 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -2189,6 +2327,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu **No Demand** của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PC1 tăng nhẹ từ 21.75 lên 21.85. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay PC1 đi ngang, đóng cửa ở mức 21.85. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (2.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -2208,6 +2348,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay PDR tăng mạnh từ 17.85 lên 18.35. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (21.52 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay PDR tăng mạnh từ 18.35 lên 18.95. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (19.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
 
 ---
 
@@ -2247,6 +2389,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên giảm mạnh này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay PHR giảm từ 60.0 xuống 59.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (531.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay PHR tăng nhẹ từ 59.6 lên 60.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (267.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -2286,6 +2430,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày tiêu cực, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay PLX tăng nhẹ từ 37.0 lên 37.25. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (938.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay PLX giảm từ 37.25 xuống 37.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (984.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -2325,6 +2471,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém trước đó, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, xác nhận phe bán vẫn đang kiểm soát và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PNJ tăng nhẹ từ 82.5 lên 82.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (382.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay PNJ giảm từ 82.7 xuống 82.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (329.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2358,6 +2506,8 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay POW tăng từ 13.25 lên 13.45. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (16.6 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay POW giảm từ 13.45 xuống 13.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (11.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -2377,6 +2527,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán vẫn còn và phe mua chưa thể hấp thụ. Đây là một tín hiệu **Effort to Fall**, củng cố cho sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PTB tăng mạnh từ 53.9 lên 54.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (154k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay PTB giảm từ 54.8 xuống 54.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (171.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên tăng giá cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2412,6 +2564,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay PVI giảm từ 57.2 xuống 56.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (59.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PVI tăng nhẹ từ 56.5 lên 56.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (19.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 
 ---
 
@@ -2447,6 +2601,8 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 - **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay PVS tăng nhẹ từ 32.1 lên 32.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (4.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay PVS giảm từ 32.2 xuống 32.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (5.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một giai đoạn thiếu động lực cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2482,6 +2638,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay PVT tăng nhẹ từ 17.85 lên 17.9. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.27 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay PVT giảm từ 17.9 xuống 17.85. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (1.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2515,6 +2673,8 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
 - **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay QNS tăng mạnh từ 47.9 lên 48.3. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (133.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay QNS tăng nhẹ từ 48.3 lên 48.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (106.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 
 ---
 
@@ -2534,6 +2694,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay REE giảm từ 66.9 xuống 66.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (624.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay REE giảm từ 66.6 xuống 66.5. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (820.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2573,6 +2735,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém trước đó, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, xác nhận phe bán vẫn đang kiểm soát và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay SAB tăng nhẹ từ 46.25 lên 46.4. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (849.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay SAB giảm từ 46.4 lên 46.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (1.3 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -2608,6 +2772,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay SCS tăng nhẹ từ 66.3 lên 66.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (227.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay SCS tăng nhẹ từ 66.6 lên 66.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (295.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -2641,6 +2807,8 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay SGT tăng mạnh từ 17.6 lên 17.85. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (86k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau một thời gian dài thiếu động lực, lực mua đã quay trở lại. Tuy nhiên, khối lượng tổng thể vẫn thấp, cần thêm xác nhận.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay SGT đi ngang, đóng cửa ở mức 17.85. Nến có biên độ hẹp. Khối lượng giao dịch tăng (127.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên đi ngang với khối lượng tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Thị trường vẫn trong trạng thái yếu.
 
 ---
 
@@ -2660,6 +2828,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay SHB giảm nhẹ từ 13.0 lên 13.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (28.62 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên đi ngang với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay SHB tăng vọt từ 13.0 lên 13.9. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (249.67 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng giá mới.
 
 ---
 
@@ -2699,6 +2869,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** tích cực, phiên đi ngang trên khối lượng cạn kiệt này tiếp tục là một tín hiệu **No Supply**, cho thấy áp lực bán đã hoàn toàn cạn kiệt. Đây là một tín hiệu rất tích cực, tạo điều kiện thuận lợi để xu hướng tăng tiếp diễn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của ngày hôm trước, phiên hôm nay SHS tăng từ 13.4 lên 13.5. Nến tăng có biên độ vừa phải. Khối lượng giao dịch CẠN KIỆT (500 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply** của phiên trước, phiên hôm nay SHS tăng vọt từ 13.5 lên 14.1. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch cạn kiệt (1.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng vọt trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất, giúp phe mua dễ dàng đẩy giá lên mà không cần tốn nhiều sức lực. Tín hiệu rất tích cực, củng cố mạnh mẽ cho xu hướng tăng.
 
 ---
 
@@ -2734,6 +2906,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay SIP đi ngang, đóng cửa ở mức 69.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.14 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giảm mạnh, phiên đi ngang với khối lượng giảm này cho thấy áp lực bán đã tạm thời suy yếu. Tuy nhiên, lực cầu cũng chưa quay trở lại. Đây là một tín hiệu **No Demand**, củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-07:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay SIP tăng mạnh từ 69.0 lên 70.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (1.1 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -2766,6 +2940,8 @@
 - **Ngày 2025-07-02:** SSH giảm nhẹ từ 89.3 xuống 89.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (45.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
 - **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay SSH giảm từ 89.2 xuống 88.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (40.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm thiếu động lực, phiên hôm nay SSH tăng nhẹ từ 88.1 lên 88.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (44.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 
 ---
@@ -2806,6 +2982,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay SSI tăng từ 25.75 lên 25.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (21.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay SSI tăng mạnh từ 25.9 lên 26.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (33.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -2841,6 +3019,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém trước đó, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, xác nhận phe bán vẫn đang kiểm soát và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay STB tăng từ 46.65 lên 47.05. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (9.44 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay STB tăng từ 47.05 lên 47.55. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (8.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
 
 ---
 
@@ -2888,6 +3068,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall**, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay TCB tăng nhẹ từ 34.85 lên 34.95. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (12.17 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay TCB tăng nhẹ từ 34.95 lên 35.3. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (12.23 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -2907,6 +3089,8 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng giá mạnh mẽ, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay TNG giảm từ 21.4 xuống 20.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (2.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay TNG giảm từ 20.9 xuống 21.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
 
 ---
 
@@ -2942,6 +3126,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay TPB đi ngang, đóng cửa ở mức 13.75. Nến có biên độ hẹp. Khối lượng giao dịch giảm (10.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên đi ngang với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay TPB tăng vọt từ 13.75 lên 14.15. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (26.25 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng giá mới.
 
 ---
 
@@ -2960,6 +3146,8 @@
 - **Ngày 2025-07-03:** TV2 tăng từ 36.9 lên 37.25. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (473k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay TV2 tăng mạnh từ 37.25 lên 38.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (816.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay TV2 tăng mạnh từ 38.1 lên 38.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1.15 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
@@ -3000,6 +3188,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận phiên "Test for Supply" hôm trước đã thất bại. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VCB tăng mạnh từ 57.9 lên 58.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (4.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VCB tăng nhẹ từ 58.4 lên 58.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (8.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -3035,6 +3225,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VCG giảm từ 23.0 xuống 22.85. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (9.56 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VCG giảm từ 22.85 xuống 22.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
 
 ---
 
@@ -3074,6 +3266,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Effort to Rise** từ phiên trước. Lực cầu vẫn đang duy trì, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VCI giảm từ 36.8 lên 36.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (5.16 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VCI tăng từ 36.7 lên 37.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (10.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -3093,6 +3287,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Up-thrust** hoặc một **Test for Supply** không thành công. Nỗ lực đẩy giá lên cao hơn đã thất bại trước áp lực bán mạnh. Việc giá không giữ được mức cao nhất trên khối lượng gia tăng là một dấu hiệu yếu kém, cho thấy phe bán đang quay trở lại.
 - **Ngày 2025-07-04:** Sau tín hiệu **Up-thrust** không thành công của phiên trước, phiên hôm nay VCS giảm từ 49.7 xuống 49.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (205.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá giảm sau tín hiệu bất thường xác nhận phe bán đang quay trở lại. Đây là một tín hiệu yếu, củng cố khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán đang quay trở lại, phiên hôm nay VCS giảm từ 49.1 xuống 48.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (172.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 
 ---
 
@@ -3128,6 +3324,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VEA tăng nhẹ từ 39.8 lên 40.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (216.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VEA giảm từ 40.0 xuống 39.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (528.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -3167,6 +3365,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay VGC giảm từ 44.6 xuống 44.3. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (970.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay VGC tăng nhẹ từ 44.3 lên 44.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (457.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -3202,6 +3402,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VGI tăng mạnh từ 74.0 lên 75.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (990.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VGI giảm từ 75.2 xuống 75.3. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (804.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
 
@@ -3237,6 +3439,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay VGT giảm từ 12.3 xuống 12.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay VGT tăng nhẹ từ 12.0 lên 12.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.24 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 
 ---
 
@@ -3272,6 +3476,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay VHC tăng nhẹ từ 57.4 lên 57.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VHC tăng nhẹ từ 57.8 lên 58.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (935.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
 
 ---
 
@@ -3311,6 +3517,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay VHM giảm từ 76.3 xuống 76.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (3.23 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay VHM tăng mạnh từ 76.0 lên 76.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ (3.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -3346,6 +3554,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VIB tăng nhẹ từ 18.35 lên 18.4. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VIB tăng mạnh từ 18.4 lên 18.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (10.38 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -3385,6 +3595,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận phiên "Test for Supply" hôm trước đã thất bại. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VIC giảm từ 94.5 xuống 91.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau các phiên giằng co, áp lực bán đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, phiên hôm nay VIC tăng nhẹ từ 91.9 lên 93.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.96 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 
 ---
 
@@ -3421,6 +3633,8 @@
 - **Ngày 2025-07-03:** VIX tăng mạnh từ 13.65 lên 14.15. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch vẫn ở mức cực cao (125.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VIX tăng từ 14.15 lên 14.55. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (74.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay VIX tăng mạnh từ 14.55 lên 14.85. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (69.85 triệu đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
 
 ---
@@ -3461,6 +3675,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận phiên "Test for Supply" hôm trước đã thất bại. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VJC tăng mạnh từ 89.0 lên 89.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (794.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VJC tăng nhẹ từ 89.8 lên 90.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (779.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
 
 ---
 
@@ -3480,6 +3696,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VLB tăng từ 46.3 lên 46.7. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (64.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay VLB giảm từ 46.7 xuống 46.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (73.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -3517,6 +3735,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận nỗ lực tăng giá của phiên trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VND giảm từ 17.35 xuống 17.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (14.62 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay VND tăng nhẹ từ 17.2 lên 17.45. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (20.05 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
 
 ---
 
@@ -3607,6 +3827,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)** mạnh mẽ. Sau phiên tăng giá hôm trước, một phiên đảo chiều giảm điểm trên khối lượng cực lớn cho thấy áp lực bán đã xuất hiện và áp đảo, cảnh báo về một đợt điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** mạnh mẽ của phiên trước, phiên hôm nay VNINDEX tăng nhẹ từ 1381.96 điểm lên 1386.97 điểm. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (836 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VNINDEX tăng vọt từ 1386.97 điểm lên 1402.06 điểm. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (1.29 tỷ đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -3646,6 +3868,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VNM tăng nhẹ từ 57.5 lên 57.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (2.7 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VNM tăng nhẹ từ 57.8 lên 57.9. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (3.74 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
 
 ---
 
@@ -3681,6 +3905,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VPB tăng nhẹ từ 18.65 lên 18.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (22.18 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VPB tăng mạnh từ 18.75 lên 19.3. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (53.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng giá mới.
 
 ---
 
@@ -3700,6 +3926,8 @@
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, xác nhận phe bán vẫn đang kiểm soát và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VPG tăng nhẹ từ 7.83 lên 7.96. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (418.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VPG giảm từ 7.96 xuống 7.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (532.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
 ---
 
@@ -3739,6 +3967,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận nỗ lực tăng giá của phiên trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VRE tăng nhẹ từ 25.05 lên 25.15. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.59 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VRE tăng nhẹ từ 25.15 lên 25.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.75 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
 
 ---
 
@@ -3758,5 +3988,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu tiêu cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VTP tăng mạnh từ 117.4 lên 121.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1.56 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VTP giảm từ 121.0 xuống 120.6. Cây nến giảm điểm (mở cửa 122.4) có biên độ rộng. Khối lượng giao dịch giảm (1.02 triệu đơn vị) so với phiên tăng mạnh trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 ---
