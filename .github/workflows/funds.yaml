@@ -1,4 +1,4 @@
-name: "AIPriceAction Daily Report"
+name: "AIPriceAction Funds Data"
 
 on:
   # Allows you to run this workflow manually from the Actions tab on GitHub
@@ -6,11 +6,9 @@ on:
 
   # Sets up a scheduled run
   schedule:
-    - cron: "30 4 * * *"
-    # Runs at 8:30 UTC, which is 3:30 PM in Vietnam (ICT), after the market closes.
-    # If we download at 3:00PM then the volume & price may not correct.
-    # Format is: Minute Hour Day(month) Month Day(week)
-    - cron: "30 8 * * *"
+    - cron: "0 0 * * *"
+    - cron: "0 5 * * *"
+    - cron: "0 9 * * *"
 
 # Grant write permissions to the GITHUB_TOKEN to allow the workflow to commit and push changes.
 permissions:
@@ -19,7 +17,7 @@ permissions:
 jobs:
   generate-report:
     runs-on: ubuntu-latest
-    name: Generate Daily Market Report
+    name: Get Funds Data
 
     steps:
       # Step 1: Check out the repository code so the workflow can access it.
@@ -39,48 +37,20 @@ jobs:
         run: pip install -r requirements.txt
 
       # Step 4: Clean up old data and reports before the new run.
-      - name: Clean up old data and reports
+      - name: Clean up old data
         run: |
-          # Create directories if they don't exist to prevent errors on the first run.
-          mkdir -p market_data reports
-          # Remove all previous data files to ensure a fresh download.
-          rm -f market_data/*
-          # Remove the old reports directory to clear out stale charts.
-          rm -rf reports/*
           # Remove old funds data to ensure we start fresh.
           rm -rf funds_data/*
 
-      # Step 5: Run the main Python script to generate the new files.
-      - name: Run data pipeline and generate report
-        run: python main.py
+      # Step 5: Run the Python script.
+      - name: Run data 
+        run: python get_fund_data.py
 
-      # Step 6: Combine all market data files into a single file.
-      - name: Combine market data
+      # Step 6: Combine only the last 365 lines of each funds data file.
+      - name: Combine last 365 lines of funds data
         run: |
-          cd market_data
-          output_file="market_data_full.txt"
-
-          if [ -f "$output_file" ]; then
-              rm "$output_file"
-          fi
-
-          for file in *; do
-              # Ensure that we are only processing files and not the output file itself.
-              if [ -f "$file" ] && [ "$file" != "$output_file" ]; then
-                  full_path=$(pwd)/"$file"
-                  echo "// $full_path" >> "$output_file"
-                  cat "$file" >> "$output_file"
-                  echo "" >> "$output_file"
-              fi
-          done
-
-          echo "All market data files have been combined into $output_file"
-
-      # Step 7: Combine only the last 40 lines of each market data file.
-      - name: Combine last 40 lines of market data
-        run: |
-          cd market_data
-          tail_output_file="market_data.txt"
+          cd funds_data
+          tail_output_file="funds_data.txt"
 
           if [ -f "$tail_output_file" ]; then
               rm "$tail_output_file"
@@ -90,14 +60,14 @@ jobs:
               if [ -f "$file" ] && [ "$file" != "$tail_output_file" ]; then
                   full_path=$(pwd)/"$file"
                   echo "// $full_path" >> "$tail_output_file"
-                  tail -n 40 "$file" >> "$tail_output_file"
+                  tail -n 365 "$file" >> "$tail_output_file"
                   echo "" >> "$tail_output_file"
               fi
           done
 
-          echo "Last 40 lines of each file have been combined into $tail_output_file"
+          echo "Last 365 lines of each file have been combined into $tail_output_file"
 
-      # Step 9: Commit and push the updated report, data, and charts to the repository.
+      # Step 7: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
@@ -108,15 +78,15 @@ jobs:
           git add .
 
           # Check if there are any changes to commit. If not, exit successfully.
-          # This prevents the workflow from failing on days when the market is closed (no new data).
           if git diff-index --quiet HEAD; then
             echo "No changes to commit. Exiting."
             exit 0
           fi
 
-          # Amend the last commit to avoid polluting the git history with daily update commits.
+          # Amend the last commit to avoid polluting the git history with weekly update commits.
           git commit --amend --no-edit
 
           # Force push the amended commit to the repository.
           # --force-with-lease is a safer alternative to a standard --force.
           git push --force-with-lease
+
