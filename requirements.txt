@@ -1,4 +1,4 @@
-vnstock
+vnstock3
 pandas
 matplotlib
 mplfinance

@@ -1,25 +1,25 @@
 # Kế Hoạch Quản Lý Danh Mục
 
-**Cập Nhật Lần Cuối:** 2025-07-09
+**Cập Nhật Lần Cuối:** 2025-07-11
 
 ## Dữ Liệu Danh Mục
 
 | Mã Cổ Phiếu | Giá Mua Trung Bình | Số Lượng Nắm Giữ |
 | :---------- | :----------------- | :--------------- |
-| TCB         | 33.312             | 300              |
-| VND         | 16.557             | 700              |
+| TCB         | 33.312             | 200              |
+| VND         | 16.557             | 500              |
 
 ## Phân tích
 
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
-Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạnh mẽ sau phiên **Sign of Strength (SOS) ngày 2025-07-09**. Danh mục hiện tại đang có sự phân hóa rõ rệt: VND tiếp tục cho thấy sức mạnh vượt trội, trong khi TCB lại xác nhận sự yếu kém bằng một phiên giảm giá mạnh. Chiến lược ưu tiên lúc này là quyết liệt cơ cấu lại danh mục, loại bỏ vị thế yếu kém (TCB) và tập trung vào cổ phiếu đang cho thấy sức mạnh (VND).
+Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạnh mẽ với tín hiệu **Effort to Rise ngày 2025-07-11**. Danh mục đang có sự phân hóa: VND tiếp tục cho thấy sức mạnh vượt trội, trong khi TCB vẫn đang trong giai đoạn điều chỉnh và kiểm tra cung sau tín hiệu yếu kém. Chiến lược lúc này là ưu tiên cơ cấu lại danh mục, loại bỏ vị thế yếu kém (TCB) và tập trung vào cổ phiếu đang cho thấy sức mạnh (VND).
 
 *   **Tóm Tắt Hành Động Đề Xuất:**
-    | Mã Cổ Phiếu | Trạng Thái Hiện Tại                 | Hành Động Đề Xuất Ngắn Gọn |
-    | :---------- | :---------------------------------- | :------------------------- |
-    | TCB         | Yếu kém, xác nhận xu hướng giảm     | Bán Hết (Panic Sell)       |
-    | VND         | Tăng giá mạnh mẽ, xác nhận sức mạnh | Giữ (Hold)                 |
+    | Mã Cổ Phiếu | Trạng Thái Hiện Tại                   | Hành Động Đề Xuất Ngắn Gọn |
+    | :---------- | :------------------------------------ | :------------------------- |
+    | TCB         | Yếu kém, đang kiểm tra lại nguồn cung | Bán Hết (Sell)             |
+    | VND         | Tăng giá mạnh mẽ, xác nhận sức mạnh   | Mua Thêm (Buy More)        |
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
 
@@ -30,14 +30,14 @@ Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạn
 ![Daily Chart](./reports/TCB/TCB_candlestick_chart.png)
 
 *   **Giá Mua Trung Bình:** 33.312
-*   **Số Lượng Nắm Giữ:** 300
-*   **Giá Hiện Tại:** 34.9
-*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +4.77% (+476.4)
-*   **VPA Phân Tích Hiện Tại:** TCB đang cho thấy sự yếu kém rõ rệt so với ngành Ngân hàng đang ở trạng thái "Dẫn dắt Đồng Thuận". Bối cảnh tuần (kết thúc 2025-07-04) là một tín hiệu "Sign of Weakness". Hành động giá gần đây đã xác nhận điều này một cách dứt khoát. Phiên ngày 2025-07-09 là một **Sign of Weakness (SOW)** với biên độ giảm rộng trên khối lượng bùng nổ, cho thấy phe bán đã hoàn toàn áp đảo và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
-*   **Hành Động Đề Xuất:** Panic Sell
-    *   **Giá Đề Xuất:** Bán ngay lập tức quanh vùng giá hiện tại (34.9)
-    *   **Số Lượng Đề Xuất:** Bán toàn bộ vị thế (300 cổ phiếu)
-    *   **Lý Do Hành Động:** Cổ phiếu liên tục cho thấy các tín hiệu yếu kém và đã xác nhận xu hướng giảm bằng một phiên SOW mạnh mẽ, đi ngược lại sức mạnh của ngành Ngân hàng và thị trường chung. Việc nắm giữ một cổ phiếu yếu trong một ngành mạnh là rủi ro lớn. Cần thoát khỏi vị thế ngay lập tức để bảo toàn lợi nhuận và cơ cấu sang các cơ hội mạnh hơn.
+*   **Số Lượng Nắm Giữ:** 200
+*   **Giá Hiện Tại:** 34.95
+*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +4.92% (+327.6)
+*   **VPA Phân Tích Hiện Tại:** TCB đang cho thấy sự yếu kém rõ rệt so với ngành Ngân hàng đang "Dẫn dắt Đồng Thuận". Bối cảnh tuần (kết thúc 2025-07-11) là một tín hiệu "Up-thrust" đáng lo ngại. Hành động giá trên biểu đồ ngày đã xác nhận điều này, với một phiên **Sign of Weakness (SOW) ngày 2025-07-09** trên khối lượng bùng nổ. Hai phiên gần nhất là các nỗ lực **Test for Supply** nhưng không cho thấy sức mạnh của phe mua, củng cố cho sự yếu kém tương đối của cổ phiếu so với ngành.
+*   **Hành Động Đề Xuất:** Sell
+    *   **Giá Đề Xuất:** Bán ngay lập tức quanh vùng giá hiện tại (34.95)
+    *   **Số Lượng Đề Xuất:** Bán toàn bộ vị thế (200 cổ phiếu)
+    *   **Lý Do Hành Động:** Cổ phiếu đã xác nhận xu hướng yếu hơn so với ngành và thị trường chung bằng một phiên SOW mạnh. Việc nắm giữ một cổ phiếu yếu trong một ngành mạnh là rủi ro không cần thiết. Cần thoát khỏi vị thế để bảo toàn lợi nhuận và cơ cấu sang các cơ hội mạnh hơn.
 *   **Điểm Dừng Lỗ:** N/A
 *   **Điểm Chốt Lời:** N/A
 
@@ -48,30 +48,29 @@ Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạn
 ![Daily Chart](./reports/VND/VND_candlestick_chart.png)
 
 *   **Giá Mua Trung Bình:** 16.557
-*   **Số Lượng Nắm Giữ:** 700
-*   **Giá Hiện Tại:** 18.05
-*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +9.02% (+1045.1)
-*   **VPA Phân Tích Hiện Tại:** VND đang thể hiện sức mạnh vượt trội so với ngành Chứng khoán đang "Yếu/Phân Phối". Bối cảnh tuần (kết thúc 2025-07-04) là một tín hiệu "Sign of Strength" mạnh mẽ. Hành động giá gần đây đã củng cố sức mạnh này. Cụ thể, vào ngày 2025-07-09, cổ phiếu đã có tín hiệu "Effort to Rise" mạnh mẽ, xác nhận cho chuỗi tăng giá thuyết phục trước đó. Tóm tắt từ VPA.md cho thấy lực cầu đang hoàn toàn kiểm soát thị trường.
-*   **Hành Động Đề Xuất:** Hold
-    *   **Giá Đề Xuất:** N/A
-    *   **Số Lượng Đề Xuất:** Giữ nguyên vị thế
-    *   **Lý Do Hành Động:** Khuyến nghị "Buy More" trước đó đã được xác nhận bởi đà tăng giá mạnh mẽ. Vị thế hiện tại đang tốt. Chiến lược bây giờ là giữ chặt vị thế và nâng điểm dừng lỗ để bảo vệ lợi nhuận.
-*   **Điểm Dừng Lỗ:** 17.5 (Nâng từ 16.8)
-*   **Điểm Chốt Lời:** 20.0
+*   **Số Lượng Nắm Giữ:** 500
+*   **Giá Hiện Tại:** 17.9
+*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +8.11% (+671.5)
+*   **VPA Phân Tích Hiện Tại:** VND đang thể hiện sức mạnh vượt trội, đồng pha với ngành Chứng khoán đang ở trạng thái "Dẫn dắt Đồng Thuận". Bối cảnh tuần (kết thúc 2025-07-11) là một tín hiệu "Sign of Strength" rất thuyết phục. Hành động giá trên biểu đồ ngày đã xác nhận sức mạnh này: sau phiên **Test for Supply** thành công vào ngày 2025-07-10, cổ phiếu đã có một phiên **Effort to Rise ngày 2025-07-11** với khối lượng gia tăng, cho thấy lực cầu đang hoàn toàn kiểm soát thị trường.
+*   **Hành Động Đề Xuất:** Buy More
+    *   **Giá Đề Xuất:** Mua thêm trong nhịp điều chỉnh về vùng `17.5 - 17.9`
+    *   **Số Lượng Đề Xuất:** Mua thêm 200 cổ phiếu
+    *   **Lý Do Hành Động:** Cổ phiếu đã xác nhận xu hướng tăng mạnh mẽ và bền vững, đồng pha với ngành và thị trường chung. Nhịp kiểm tra cung thành công và phiên tăng giá xác nhận ngay sau đó là một cơ hội kinh điển để gia tăng vị thế vào một cổ phiếu đang dẫn dắt.
+*   **Điểm Dừng Lỗ:** 17.0 (Nâng từ 17.5)
+*   **Điểm Chốt Lời:** 20.0 - 21.0
 
 -----
 
 **3. Nhật Ký Thay Đổi Kế Hoạch**
 
 *   **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
-    *   Không có.
+    *   `Tăng khuyến nghị cho VND từ Hold lên Buy More:` Tín hiệu **'Effort to Rise' ngày 2025-07-11** trên khối lượng tăng đã xác nhận thành công cho phiên **'Test for Supply' ngày 2025-07-10**. Điều này tạo ra một kịch bản tăng giá tiếp diễn rất mạnh mẽ, đáp ứng điều kiện #1A của giao thức.
 
 *   **Chuyển Từ Hold sang Sell/Panic Sell:**
     *   Không có.
 
 *   **Thay Đổi Trạng Thái Khác:**
-    *   `Giữ nguyên khuyến nghị Panic Sell cho TCB:` Tín hiệu **'Sign of Weakness' ngày 2025-07-09** với khối lượng bùng nổ đã xác nhận một cách dứt khoát sự yếu kém của cổ phiếu so với ngành và thị trường.
-    *   `Chuyển VND từ Buy More sang Hold:` Khuyến nghị mua thêm đã được xác nhận bởi tín hiệu **'Effort to Rise' ngày 2025-07-09**. Vị thế đã được thiết lập, chuyển sang trạng thái nắm giữ và quản lý rủi ro.
+    *   `Giữ nguyên khuyến nghị Bán Hết cho TCB (chuyển từ Panic Sell sang Sell):` Tín hiệu **'Sign of Weakness' ngày 2025-07-09** đã xác nhận một cách dứt khoát sự yếu kém. Các phiên **'Test for Supply' ngày 2025-07-10 và 2025-07-11** không cho thấy lực cầu quay trở lại, xác nhận luận điểm bán vẫn còn hiệu lực, đáp ứng điều kiện #3A của giao thức.
 
 *   **Loại Bỏ/Thêm Mới Ticker:**
     *   Không có.
