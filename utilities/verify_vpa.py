@@ -60,18 +60,25 @@ def parse_vpa_analysis(vpa_file: str) -> List[Dict]:
     
     return analyses
 
+def normalize_vietnamese_number(number_str: str) -> str:
+    """Convert Vietnamese number format (7,57) to English format (7.57)."""
+    # Remove any trailing dots that aren't decimal separators
+    number_str = number_str.rstrip('.')
+    # Replace comma with dot for decimal separator
+    return number_str.replace(',', '.')
+
 def extract_price_movement(text: str) -> Optional[Dict]:
     """Extract price movement information from analysis text."""
     # Pattern 1: Ticker name followed by specific price movement with from/to prices
-    # Examples: "AAA tăng từ 7.16 lên 7.17", "VCB giảm từ 57.2 xuống 56.7"
-    ticker_price_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang).*?từ\s+([\d.]+)\.?\s+(?:lên|xuống|đến|về)\s+([\d.]+)'
+    # Examples: "AAA tăng từ 7,16 lên 7,17", "VCB giảm từ 57,2 xuống 56,7"
+    ticker_price_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang).*?từ\s+([\d.,]+)\.?\s+(?:lên|xuống|đến|về)\s+([\d.,]+)'
     match = re.search(ticker_price_pattern, text)
     
     if match:
         direction = match.group(1)
         try:
-            from_price = float(match.group(2).rstrip('.'))
-            to_price = float(match.group(3).rstrip('.'))
+            from_price = float(normalize_vietnamese_number(match.group(2)))
+            to_price = float(normalize_vietnamese_number(match.group(3)))
             return {
                 'direction': direction,
                 'from_price': from_price,
@@ -81,15 +88,15 @@ def extract_price_movement(text: str) -> Optional[Dict]:
             pass
     
     # Pattern 2: General price movement with from/to prices (fallback)
-    # Examples: "tăng từ 7.16 lên 7.17", "giảm từ 7.25 xuống 7.15"
-    general_price_pattern = r'(tăng|giảm|đi ngang).*?từ\s+([\d.]+)\.?\s+(?:lên|xuống|đến|về)\s+([\d.]+)'
+    # Examples: "tăng từ 7,16 lên 7,17", "giảm từ 7,25 xuống 7,15"
+    general_price_pattern = r'(tăng|giảm|đi ngang).*?từ\s+([\d.,]+)\.?\s+(?:lên|xuống|đến|về)\s+([\d.,]+)'
     match = re.search(general_price_pattern, text)
     
     if match:
         direction = match.group(1)
         try:
-            from_price = float(match.group(2).rstrip('.'))
-            to_price = float(match.group(3).rstrip('.'))
+            from_price = float(normalize_vietnamese_number(match.group(2)))
+            to_price = float(normalize_vietnamese_number(match.group(3)))
             return {
                 'direction': direction,
                 'from_price': from_price,
@@ -99,14 +106,14 @@ def extract_price_movement(text: str) -> Optional[Dict]:
             pass
     
     # Pattern 3: Ticker name followed by direction with specific price levels
-    # Examples: "AAA tăng nhẹ lên 56.6", "VCB đóng cửa ở 56.2"
-    ticker_direction_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang)(?:\s+(?:nhẹ|mạnh|vọt))?(?:\s+(?:lên|xuống|về|ở))?\s+([\d.]+)'
+    # Examples: "AAA tăng nhẹ lên 56,6", "VCB đóng cửa ở 56,2"
+    ticker_direction_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang)(?:\s+(?:nhẹ|mạnh|vọt))?(?:\s+(?:lên|xuống|về|ở))?\s+([\d.,]+)'
     match = re.search(ticker_direction_pattern, text)
     
     if match:
         direction = match.group(1)
         try:
-            price = float(match.group(2).rstrip('.'))
+            price = float(normalize_vietnamese_number(match.group(2)))
             return {
                 'direction': direction,
                 'price': price
