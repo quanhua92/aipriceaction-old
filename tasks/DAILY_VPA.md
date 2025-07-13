@@ -70,6 +70,7 @@ For each ticker with new data, create this internal context structure:
 - **Comparative Analysis**: Explicitly compare new bar to previous bar (price, spread, volume)  
 - **Wyckoff Methodology**: Apply proper VPA signals (No Demand, Effort to Rise, Sign of Strength, etc.)
 - **Vietnamese Language**: Maintain natural Vietnamese financial terminology
+- **Number Formatting**: ALWAYS use DOT (.) as decimal separator, NEVER comma (,)
 - **Date Check**: Only generate analysis if new date doesn't already exist in VPA files
 
 **Example New Entry**:
@@ -77,6 +78,12 @@ For each ticker with new data, create this internal context structure:
 - **Ngày 2025-07-13:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay SIP tăng từ 64.4 lên 64.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại, cho thấy tiềm năng phục hồi.
 ```
+
+**IMPORTANT NUMBER FORMATTING RULE**:
+- **Always use DOT (.) as decimal separator** in all price and volume references
+- **NEVER use comma (,) as decimal separator** 
+- Examples: 64.4, 1.25, 123.45 (CORRECT)
+- Examples: 64,4, 1,25, 123,45 (INCORRECT)
 
 #### 2.3 File Output Processing
 **APPEND-ONLY MODE** (Default - unless dividends processed):
