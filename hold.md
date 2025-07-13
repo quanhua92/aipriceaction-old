@@ -1,6 +1,6 @@
 # Kế Hoạch Quản Lý Danh Mục
 
-**Cập Nhật Lần Cuối:** 2025-07-11
+**Cập Nhật Lần Cuối:** 2025-07-13
 
 ## Dữ Liệu Danh Mục
 
@@ -13,13 +13,13 @@
 
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
-Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạnh mẽ với tín hiệu **Effort to Rise ngày 2025-07-11**. Danh mục đang có sự phân hóa: VND tiếp tục cho thấy sức mạnh vượt trội, trong khi TCB vẫn đang trong giai đoạn điều chỉnh và kiểm tra cung sau tín hiệu yếu kém. Chiến lược lúc này là ưu tiên cơ cấu lại danh mục, loại bỏ vị thế yếu kém (TCB) và tập trung vào cổ phiếu đang cho thấy sức mạnh (VND).
+Thị trường chung đã xác nhận xu hướng tăng cực kỳ mạnh mẽ với VNINDEX thiết lập đỉnh mới tại 1,457.76 điểm. Danh mục hiện tại cho thấy sự phân hóa rõ rệt: VND tiếp tục thể hiện sức mạnh với ngành Chứng khoán dẫn dắt, trong khi TCB đang trong giai đoạn consolidation sau tín hiệu yếu kém trước đó. Chiến lược hiện tại tập trung vào việc duy trì vị thế mạnh (VND) và chờ đợi tín hiệu rõ ràng hơn từ TCB.
 
-*   **Tóm Tắt Hành Động Đề Xuất:**
-    | Mã Cổ Phiếu | Trạng Thái Hiện Tại                   | Hành Động Đề Xuất Ngắn Gọn |
-    | :---------- | :------------------------------------ | :------------------------- |
-    | TCB         | Yếu kém, đang kiểm tra lại nguồn cung | Bán Hết (Sell)             |
-    | VND         | Tăng giá mạnh mẽ, xác nhận sức mạnh   | Mua Thêm (Buy More)        |
+* **Tóm Tắt Hành Động Đề Xuất:**
+  | Mã Cổ Phiếu | Trạng Thái Hiện Tại | Hành Động Đề Xuất Ngắn Gọn |
+  | :---------- | :------------------ | :------------------------- |
+  | TCB         | Consolidation sau SOW, đang Test for Supply | Hold (chờ tín hiệu rõ ràng) |
+  | VND         | Phục hồi mạnh mẽ, Effort to Rise xác nhận | Hold (duy trì vị thế hiện tại) |
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
 
@@ -29,17 +29,17 @@ Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạn
 ![Weekly Chart](./reports_week/TCB/TCB_candlestick_chart.png)
 ![Daily Chart](./reports/TCB/TCB_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 33.312
-*   **Số Lượng Nắm Giữ:** 200
-*   **Giá Hiện Tại:** 34.95
-*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +4.92% (+327.6)
-*   **VPA Phân Tích Hiện Tại:** TCB đang cho thấy sự yếu kém rõ rệt so với ngành Ngân hàng đang "Dẫn dắt Đồng Thuận". Bối cảnh tuần (kết thúc 2025-07-11) là một tín hiệu "Up-thrust" đáng lo ngại. Hành động giá trên biểu đồ ngày đã xác nhận điều này, với một phiên **Sign of Weakness (SOW) ngày 2025-07-09** trên khối lượng bùng nổ. Hai phiên gần nhất là các nỗ lực **Test for Supply** nhưng không cho thấy sức mạnh của phe mua, củng cố cho sự yếu kém tương đối của cổ phiếu so với ngành.
-*   **Hành Động Đề Xuất:** Sell
-    *   **Giá Đề Xuất:** Bán ngay lập tức quanh vùng giá hiện tại (34.95)
-    *   **Số Lượng Đề Xuất:** Bán toàn bộ vị thế (200 cổ phiếu)
-    *   **Lý Do Hành Động:** Cổ phiếu đã xác nhận xu hướng yếu hơn so với ngành và thị trường chung bằng một phiên SOW mạnh. Việc nắm giữ một cổ phiếu yếu trong một ngành mạnh là rủi ro không cần thiết. Cần thoát khỏi vị thế để bảo toàn lợi nhuận và cơ cấu sang các cơ hội mạnh hơn.
-*   **Điểm Dừng Lỗ:** N/A
-*   **Điểm Chốt Lời:** N/A
+* **Giá Mua Trung Bình:** 33.312
+* **Số Lượng Nắm Giữ:** 200
+* **Giá Hiện Tại:** 34.95
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +4.92% (+327.6)
+* **VPA Phân Tích Hiện Tại:** TCB đang trong giai đoạn consolidation sau tín hiệu **'Sign of Weakness' ngày 2025-07-09** với khối lượng bùng nổ. Bối cảnh tuần cho thấy **'No Demand' kết thúc 2025-07-07**, và các phiên gần đây là **'Test for Supply' ngày 2025-07-11**. Mặc dù ngành Ngân hàng đang "Dẫn dắt Đồng Thuận", TCB vẫn thể hiện sự yếu kém tương đối. Tuy nhiên, việc giá không sụp đổ sau SOW cho thấy có lực cầu hấp thụ ở các mức thấp hơn.
+* **Hành Động Đề Xuất:** Hold
+  * **Giá Đề Xuất:** Tiếp tục quan sát, chờ tín hiệu rõ ràng
+  * **Số Lượng Đề Xuất:** Giữ nguyên 200 cổ phiếu
+  * **Lý Do Hành Động:** Sau tín hiệu SOW mạnh, việc cổ phiếu không sụp đổ mà chuyển sang Test for Supply cho thấy áp lực bán đã được hấp thụ phần nào. Cần chờ thêm tín hiệu để xác định liệu TCB có thể phục hồi cùng với ngành hay tiếp tục yếu kém.
+* **Điểm Dừng Lỗ:** 33.0 (bảo vệ vốn gốc)
+* **Điểm Chốt Lời:** 36.5 - 37.0 (nếu có tín hiệu phục hồi mạnh)
 
 -----
 
@@ -47,30 +47,31 @@ Bối cảnh thị trường chung đã xác nhận xu hướng tăng giá mạn
 ![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png)
 ![Daily Chart](./reports/VND/VND_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 16.557
-*   **Số Lượng Nắm Giữ:** 500
-*   **Giá Hiện Tại:** 17.9
-*   **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +8.11% (+671.5)
-*   **VPA Phân Tích Hiện Tại:** VND đang thể hiện sức mạnh vượt trội, đồng pha với ngành Chứng khoán đang ở trạng thái "Dẫn dắt Đồng Thuận". Bối cảnh tuần (kết thúc 2025-07-11) là một tín hiệu "Sign of Strength" rất thuyết phục. Hành động giá trên biểu đồ ngày đã xác nhận sức mạnh này: sau phiên **Test for Supply** thành công vào ngày 2025-07-10, cổ phiếu đã có một phiên **Effort to Rise ngày 2025-07-11** với khối lượng gia tăng, cho thấy lực cầu đang hoàn toàn kiểm soát thị trường.
-*   **Hành Động Đề Xuất:** Buy More
-    *   **Giá Đề Xuất:** Mua thêm trong nhịp điều chỉnh về vùng `17.5 - 17.9`
-    *   **Số Lượng Đề Xuất:** Mua thêm 200 cổ phiếu
-    *   **Lý Do Hành Động:** Cổ phiếu đã xác nhận xu hướng tăng mạnh mẽ và bền vững, đồng pha với ngành và thị trường chung. Nhịp kiểm tra cung thành công và phiên tăng giá xác nhận ngay sau đó là một cơ hội kinh điển để gia tăng vị thế vào một cổ phiếu đang dẫn dắt.
-*   **Điểm Dừng Lỗ:** 17.0 (Nâng từ 17.5)
-*   **Điểm Chốt Lời:** 20.0 - 21.0
+* **Giá Mua Trung Bình:** 16.557
+* **Số Lượng Nắm Giữ:** 500
+* **Giá Hiện Tại:** 17.9
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +8.11% (+671.5)
+* **VPA Phân Tích Hiện Tại:** VND đang thể hiện sức mạnh vượt trội, hoàn toàn đồng pha với ngành Chứng khoán đang "Dẫn dắt Đồng Thuận". Bối cảnh tuần cho thấy **'Sign of Strength' kết thúc 2025-07-07**. Sau giai đoạn yếu tạm thời với Effort to Fall ngày 2025-07-03 và 2025-07-04, cổ phiếu đã có **'Effort to Rise' ngày 2025-07-08** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu trước đó và xác nhận lực cầu đã quay trở lại quyết đoán.
+* **Hành Động Đề Xuất:** Hold
+  * **Giá Đề Xuất:** Duy trì vị thế hiện tại, có thể mua thêm nếu điều chỉnh về 17.0 - 17.3
+  * **Số Lượng Đề Xuất:** Giữ nguyên 500 cổ phiếu
+  * **Lý Do Hành Động:** Cổ phiếu đã xác nhận phục hồi mạnh mẽ với Effort to Rise sau giai đoạn test. Ở mức giá hiện tại (17.9), risk/reward không còn hấp dẫn như trước, nhưng xu hướng tăng vẫn còn nguyên vẹn với sự hỗ trợ mạnh mẽ từ ngành và thị trường chung.
+* **Điểm Dừng Lỗ:** 17.0 (nâng từ 16.5)
+* **Điểm Chốt Lời:** 20.0 - 21.0 (chốt từng phần)
 
 -----
 
 **3. Nhật Ký Thay Đổi Kế Hoạch**
 
-*   **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
-    *   `Tăng khuyến nghị cho VND từ Hold lên Buy More:` Tín hiệu **'Effort to Rise' ngày 2025-07-11** trên khối lượng tăng đã xác nhận thành công cho phiên **'Test for Supply' ngày 2025-07-10**. Điều này tạo ra một kịch bản tăng giá tiếp diễn rất mạnh mẽ, đáp ứng điều kiện #1A của giao thức.
+* **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
+  * Không có thay đổi trong kỳ này.
 
-*   **Chuyển Từ Hold sang Sell/Panic Sell:**
-    *   Không có.
+* **Chuyển Từ Hold sang Sell/Panic Sell:**
+  * Không có thay đổi trong kỳ này.
 
-*   **Thay Đổi Trạng Thái Khác:**
-    *   `Giữ nguyên khuyến nghị Bán Hết cho TCB (chuyển từ Panic Sell sang Sell):` Tín hiệu **'Sign of Weakness' ngày 2025-07-09** đã xác nhận một cách dứt khoát sự yếu kém. Các phiên **'Test for Supply' ngày 2025-07-10 và 2025-07-11** không cho thấy lực cầu quay trở lại, xác nhận luận điểm bán vẫn còn hiệu lực, đáp ứng điều kiện #3A của giao thức.
+* **Thay Đổi Trạng Thái Khác:**
+  * `Điều chỉnh khuyến nghị TCB từ Sell xuống Hold:` Mặc dù **'Sign of Weakness' ngày 2025-07-09** vẫn đáng lo ngại, việc cổ phiếu chuyển sang **'Test for Supply' ngày 2025-07-11** mà không sụp đổ cho thấy áp lực bán đã được hấp thụ. Trong bối cảnh ngành Ngân hàng mạnh, cần thời gian quan sát thêm trước khi đưa ra quyết định bán dứt khoát.
+  * `Điều chỉnh khuyến nghị VND từ Buy More xuống Hold:` **'Effort to Rise' ngày 2025-07-08** đã xác nhận sức mạnh, nhưng ở mức giá hiện tại 17.9, risk/reward không còn hấp dẫn để tăng vị thế. Duy trì vị thế hiện tại và chờ cơ hội điều chỉnh tốt hơn.
 
-*   **Loại Bỏ/Thêm Mới Ticker:**
-    *   Không có.
+* **Loại Bỏ/Thêm Mới Ticker:**
+  * Không có.
