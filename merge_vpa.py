@@ -1,5 +1,7 @@
 import re
 import argparse
+import os
+import shutil
 from collections import defaultdict
 
 # --- Argument Parsing ---
@@ -23,6 +25,30 @@ new_vpa_filename = 'VPA_NEW.md'
 
 print(f"Using main VPA file: {main_vpa_filename}")
 print(f"Using new data from: {new_vpa_filename}")
+
+def backup_market_data():
+    """Backup current market_data to market_data_processed before processing VPA."""
+    source_dir = "market_data" if not args.week else "market_data_week"
+    dest_dir = "market_data_processed" if not args.week else "market_data_week_processed"
+    
+    if not os.path.exists(source_dir):
+        print(f"   - Source directory {source_dir} not found. Skipping backup.")
+        return
+    
+    print(f"   - Backing up {source_dir} to {dest_dir}...")
+    
+    # Remove existing processed directory if it exists to avoid duplicates
+    # (since filenames contain dates and will accumulate over time)
+    if os.path.exists(dest_dir):
+        shutil.rmtree(dest_dir)
+        print(f"   - Removed existing {dest_dir} to prevent duplicate files")
+    
+    # Copy entire directory
+    shutil.copytree(source_dir, dest_dir)
+    print(f"   - Successfully backed up {len(os.listdir(source_dir))} files from {source_dir} to {dest_dir}")
+
+# Backup market data before processing VPA
+backup_market_data()
 
 # Read files
 with open(main_vpa_filename, 'r', encoding='utf-8') as f:

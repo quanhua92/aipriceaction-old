@@ -10,6 +10,7 @@ import json
 import argparse
 from collections import defaultdict
 from datetime import datetime, timedelta
+import shutil
 
 # --- Configuration ---
 # The list of tickers is now read from TICKERS.csv
@@ -419,6 +420,115 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
     print("   - Master report generated successfully.")
 
 
+def compare_csv_for_dividend(current_csv_path, backup_csv_path, ticker):
+    """
+    Compare current CSV with backup CSV to detect dividend adjustments.
+    Returns (is_dividend_detected, adjustment_ratio) tuple.
+    """
+    if not os.path.exists(backup_csv_path):
+        print(f"   - No backup data found for {ticker}. Skipping dividend check.")
+        return False, None
+    
+    try:
+        # Read first 15 lines of both files for comparison
+        current_df = pd.read_csv(current_csv_path, nrows=15)
+        backup_df = pd.read_csv(backup_csv_path, nrows=15)
+        
+        if len(current_df) < 10 or len(backup_df) < 10:
+            print(f"   - Insufficient data for dividend check on {ticker}")
+            return False, None
+        
+        # Compare prices for the same dates
+        current_df['time'] = pd.to_datetime(current_df['time'])
+        backup_df['time'] = pd.to_datetime(backup_df['time'])
+        
+        # Merge on date to compare same trading days
+        merged = pd.merge(current_df, backup_df, on='time', suffixes=('_current', '_backup'))
+        
+        if len(merged) < 5:
+            print(f"   - Not enough matching dates for dividend check on {ticker}")
+            return False, None
+        
+        # Calculate price ratios for each OHLC component
+        ratios = []
+        for col in ['open', 'high', 'low', 'close']:
+            current_col = f"{col}_current"
+            backup_col = f"{col}_backup"
+            
+            # Skip if any prices are zero or null
+            valid_mask = (merged[current_col] > 0) & (merged[backup_col] > 0)
+            valid_data = merged[valid_mask]
+            
+            if len(valid_data) > 0:
+                price_ratios = valid_data[backup_col] / valid_data[current_col]
+                ratios.extend(price_ratios.tolist())
+        
+        if len(ratios) < 10:  # Need at least 10 price comparisons
+            return False, None
+        
+        # Calculate statistics
+        avg_ratio = sum(ratios) / len(ratios)
+        ratio_std = (sum((r - avg_ratio)**2 for r in ratios) / len(ratios))**0.5
+        ratio_cv = ratio_std / avg_ratio if avg_ratio > 0 else 1
+        
+        # Dividend criteria:
+        # 1. Average ratio significantly different from 1.0 (>15% change)
+        # 2. Low coefficient of variation (<0.05) indicating consistent adjustment
+        # 3. Ratio should be > 1.0 (backup prices higher than current = dividend adjustment)
+        
+        is_dividend = (
+            avg_ratio > 1.15 and  # At least 15% price difference
+            ratio_cv < 0.05 and   # Consistent across all prices
+            len([r for r in ratios if r > 1.1]) >= len(ratios) * 0.8  # 80% of ratios show adjustment
+        )
+        
+        if is_dividend:
+            print(f"   - DIVIDEND DETECTED for {ticker}: avg_ratio={avg_ratio:.4f}, cv={ratio_cv:.4f}")
+            return True, avg_ratio
+        else:
+            print(f"   - No dividend for {ticker}: avg_ratio={avg_ratio:.4f}, cv={ratio_cv:.4f}")
+            return False, None
+            
+    except Exception as e:
+        print(f"   - Error comparing CSV data for {ticker}: {e}")
+        return False, None
+
+
+def get_ticker_from_backup(backup_dir, ticker):
+    """Find the backup CSV file for a given ticker."""
+    if not os.path.exists(backup_dir):
+        return None
+    
+    # Look for files that start with the ticker name
+    for filename in os.listdir(backup_dir):
+        if filename.startswith(f"{ticker}_") and filename.endswith('.csv'):
+            return os.path.join(backup_dir, filename)
+    return None
+
+
+def copy_to_dividend_check(backup_csv_path, dividend_ratio, check_dividends_dir):
+    """Copy backup CSV to dividend check directory with ratio info."""
+    if not os.path.exists(check_dividends_dir):
+        os.makedirs(check_dividends_dir)
+        print(f"  - Created directory: {check_dividends_dir}")
+    
+    # Copy the backup CSV file
+    dest_csv_path = os.path.join(check_dividends_dir, os.path.basename(backup_csv_path))
+    shutil.copy2(backup_csv_path, dest_csv_path)
+    
+    # Create a metadata file with dividend info
+    ticker = os.path.basename(backup_csv_path).split('_')[0]
+    metadata_path = os.path.join(check_dividends_dir, f"{ticker}_dividend_info.txt")
+    with open(metadata_path, 'w', encoding='utf-8') as f:
+        f.write(f"Ticker: {ticker}\n")
+        f.write(f"Dividend Ratio: {dividend_ratio:.6f}\n")
+        f.write(f"Detected: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"CSV File: {os.path.basename(backup_csv_path)}\n")
+    
+    print(f"   - DIVIDEND DETECTED: Copied {ticker} to dividend check directory")
+    return dest_csv_path
+
+
 def main():
     """Main function to orchestrate the data download and report generation."""
     global DATA_DIR, REPORTS_DIR, MASTER_REPORT_FILENAME, VPA_ANALYSIS_FILENAME
@@ -427,6 +537,7 @@ def main():
     parser.add_argument('--start-date', default="2025-01-02", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
     parser.add_argument('--end-date', default=datetime.now().strftime('%Y-%m-%d'), type=str, help="The end date for data download in 'YYYY-MM-DD' format.")
     parser.add_argument('--week', action='store_true', help="Enable weekly data processing mode.")
+    parser.add_argument('--check-dividend', action='store_true', help="Check for dividend adjustments by comparing CSV data.")
     args = parser.parse_args()
 
     data_interval = '1D'
@@ -479,6 +590,24 @@ def main():
             # Save the DataFrame to CSV directly.
             # The 'time' column will be saved as the datetime representation provided by vnstock.
             csv_path = save_data_to_csv(stock_df, ticker, START_DATE, END_DATE, data_interval)
+
+            # Check for dividend adjustments if --check-dividend flag is set
+            if args.check_dividend:
+                backup_dir = "market_data_backup" if not args.week else "market_data_week_backup"
+                check_dividends_dir = "market_data_check_dividends" if not args.week else "market_data_week_check_dividends"
+                
+                # Find backup CSV for this ticker
+                backup_csv_path = get_ticker_from_backup(backup_dir, ticker)
+                
+                if backup_csv_path:
+                    is_dividend, dividend_ratio = compare_csv_for_dividend(csv_path, backup_csv_path, ticker)
+                    if is_dividend:
+                        # Copy backup file to dividend check directory
+                        copy_to_dividend_check(backup_csv_path, dividend_ratio, check_dividends_dir)
+                    
+                    # Always delete backup file after processing (cleanup)
+                    os.remove(backup_csv_path)
+                    print(f"   - Cleaned up backup file for {ticker}")
 
             report_entry = {
                 'ticker': ticker, 'records': len(stock_df),
