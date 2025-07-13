@@ -1,44 +1,44 @@
 # HDB
 
--   **Ngày 2025-06-16:** HDB tăng từ 21.6 lên 21.75. Biên độ nến hẹp. Khối lượng giao dịch ở mức trung bình (7.6 triệu đơn vị).
+-   **Ngày 2025-06-16:** HDB tăng từ 21.55 lên 21.75. Biên độ nến hẹp. Khối lượng giao dịch ở mức trung bình (7,60 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. Thị trường đi ngang với khối lượng trung bình cho thấy sự cân bằng giữa cung và cầu.
--   **Ngày 2025-06-17:** HDB tăng từ 21.75 lên 21.9. Biên độ nến vẫn hẹp, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (8.86 triệu đơn vị).
+-   **Ngày 2025-06-17:** HDB tăng từ 21.85 lên 21.9. Biên độ nến vẫn hẹp, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (8,87 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**. Lực cầu đang dần chiếm ưu thế hơn, mặc dù chưa tạo ra sự bứt phá mạnh mẽ nhưng vẫn cho thấy một xu hướng tăng tiềm năng.
--   **Ngày 2025-06-18:** HDB tăng nhẹ từ 21.9 lên 21.95. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch tăng mạnh lên 13.3 triệu đơn vị.
+-   **Ngày 2025-06-18:** HDB tăng nhẹ từ 21.9 lên 21.95. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch tăng mạnh lên 13,32 triệu đơn vị.
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu bất thường (Anomaly). Nỗ lực tăng giá (khối lượng lớn) không tạo ra kết quả tương xứng (giá chỉ tăng nhẹ và có bóng trên). Điều này cho thấy một lượng cung lớn đã xuất hiện để cản đà tăng, là một tín hiệu cảnh báo.
-- **Ngày 2025-06-19:** HDB tăng nhẹ từ 21.95 lên 22.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (8.18 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên tăng nhẹ với khối lượng giảm cho thấy một sự tạm nghỉ. Đây có thể là một **Test for Supply**. Tình hình vẫn cần được theo dõi chặt chẽ.
-- **Ngày 2025-06-20:** HDB tăng từ 22.0 lên 22.15. Nến có biên độ hẹp. Khối lượng giao dịch tăng (15.33 triệu đơn vị).
+- **Ngày 2025-06-19:** HDB đi ngang ở mức 22.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (8,18 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên đi ngang với khối lượng giảm cho thấy một sự tạm nghỉ. Đây có thể là một **Test for Supply**. Tình hình vẫn cần được theo dõi chặt chẽ.
+- **Ngày 2025-06-20:** HDB tăng từ 22.05 lên 22.15. Nến có biên độ hẹp. Khối lượng giao dịch tăng (15,34 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên tăng nhẹ với khối lượng lớn này tiếp tục cho thấy sự giằng co quyết liệt giữa cung và cầu. Lực mua vẫn chưa thể thắng thế một cách dứt khoát.
-- **Ngày 2025-06-23:** HDB giảm từ 22.0 xuống 21.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.21 triệu đơn vị).
+- **Ngày 2025-06-23:** HDB giảm từ 22.0 xuống 21.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10,21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường, phiên giảm nhẹ này cho thấy sự do dự. Tình hình vẫn còn rất rủi ro.
-- **Ngày 2025-06-24:** HDB đi ngang, đóng cửa ở mức 21.95. Nến có biên độ hẹp và khối lượng giao dịch giảm (12.93 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau các phiên giao dịch với khối lượng lớn, phiên đi ngang với khối lượng giảm này cho thấy sự tạm nghỉ. Tình hình vẫn chưa rõ ràng.
-- **Ngày 2025-06-25:** HDB giảm từ 21.95 xuống 21.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.44 triệu đơn vị).
+- **Ngày 2025-06-24:** HDB giảm từ 22.1 xuống 21.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (12,95 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giao dịch với khối lượng lớn, phiên giảm với khối lượng tăng này cho thấy áp lực bán đã xuất hiện. Tình hình vẫn chưa rõ ràng.
+- **Ngày 2025-06-25:** HDB giảm từ 22.0 xuống 21.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10,45 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường và các phiên đi ngang khối lượng lớn, phiên giảm điểm trên khối lượng giảm này cho thấy áp lực bán đã tạm thời yếu đi, nhưng lực cầu cũng chưa quay trở lại. Thị trường vẫn trong trạng thái giằng co.
-- **Ngày 2025-06-26:** HDB giảm từ 21.8 xuống 21.7. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.6 triệu đơn vị).
+- **Ngày 2025-06-26:** HDB giảm từ 21.85 xuống 21.7. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8,63 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co với các tín hiệu bất thường, phiên giảm điểm trên khối lượng giảm cho thấy áp lực bán không lớn, nhưng lực cầu vẫn chưa xuất hiện để hỗ trợ giá. Tình trạng **No Demand** vẫn tiếp diễn.
-- **Ngày 2025-06-27:** HDB tăng nhẹ từ 21.7 lên 21.8. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (7.99 triệu đơn vị).
+- **Ngày 2025-06-27:** HDB tăng nhẹ từ 21.75 lên 21.8. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (7,99 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co, phiên tăng nhẹ với khối lượng không đổi tiếp tục xác nhận tình trạng **No Demand**. Lực cầu vẫn chưa xuất hiện để hỗ trợ giá.
-- **Ngày 2025-06-30:** HDB đi ngang, đóng cửa ở mức 21.8. Nến có biên độ hẹp. Khối lượng giao dịch giảm (6.66 triệu đơn vị).
+- **Ngày 2025-06-30:** HDB đi ngang, đóng cửa ở mức 21.8. Nến có biên độ hẹp. Khối lượng giao dịch giảm (6,66 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co, phiên đi ngang với khối lượng giảm này tiếp tục xác nhận tình trạng **No Demand**. Lực cầu vẫn chưa xuất hiện để hỗ trợ giá.
-- **Ngày 2025-07-01:** HDB tăng mạnh từ 21.8 lên 22.1. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (23.73 triệu đơn vị).
+- **Ngày 2025-07-01:** HDB tăng mạnh từ 21.85 lên 22.1. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (23,74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
-- **Ngày 2025-07-02:** HDB tăng từ 22.1 lên 22.3. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (15.04 triệu đơn vị) so với phiên SOS.
+- **Ngày 2025-07-02:** HDB tăng từ 22.15 lên 22.3. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (15,27 triệu đơn vị) so với phiên SOS.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
-- **Ngày 2025-07-03:** HDB tăng từ 22.3 lên 22.55. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (18.4 triệu đơn vị).
+- **Ngày 2025-07-03:** HDB tăng từ 22.3 lên 22.55. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (18,41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HDB đi ngang, đóng cửa ở mức 22.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (13.21 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên đi ngang với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
-- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HDB tăng vọt từ 22.55 lên 23.3. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (24.88 triệu đơn vị).
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HDB giảm nhẹ từ 22.65 xuống 22.55. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (13,21 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên giảm nhẹ với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HDB tăng vọt từ 22.65 lên 23.3. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (24,89 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay HDB tăng từ 23.3 lên 23.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (17.33 triệu đơn vị).
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay HDB tăng từ 23.4 lên 23.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (17,34 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
-- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** thành công của ngày hôm trước, phiên hôm nay HDB tăng vọt từ 23.5 lên 24.2. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch bùng nổ (34.19 triệu đơn vị).
+- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** thành công của ngày hôm trước, phiên hôm nay HDB tăng vọt từ 23.6 lên 24.2. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch bùng nổ (34,21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phiên hôm nay HDB tăng nhẹ từ 24.2 lên 24.35. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (14.93 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
-- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay HDB tăng nhẹ từ 24.35 lên 24.45. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (16.35 triệu đơn vị).
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phiên hôm nay HDB đi ngang ở mức 24.35. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (14,93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá đi ngang trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay HDB tăng nhẹ từ 24.35 lên 24.45. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (16,45 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
 
 

@@ -89,13 +89,28 @@ def extract_price_movement(text: str) -> Optional[Dict]:
 
 def extract_volume_info(text: str) -> Optional[Dict]:
     """Extract volume information from analysis text."""
-    # Pattern to match volume descriptions
-    volume_pattern = r'[Kk]hối lượng.*?(tăng|giảm|ổn định).*?\(([\d.]+)\s*triệu'
-    match = re.search(volume_pattern, text)
+    # Pattern 1: X.XX triệu đơn vị or X,XX triệu đơn vị
+    volume_pattern1 = r'[Kk]hối lượng.*?(tăng|giảm|ổn định).*?\(([\d.,]+)\s*triệu'
+    match1 = re.search(volume_pattern1, text)
     
-    if match:
-        volume_direction = match.group(1)
-        volume_amount = float(match.group(2))
+    if match1:
+        volume_direction = match1.group(1)
+        # Remove commas before converting to float
+        volume_amount = float(match1.group(2).replace(',', '.'))
+        return {
+            'direction': volume_direction,
+            'amount_millions': volume_amount
+        }
+    
+    # Pattern 2: X,XXX,XXX cổ phiếu or X,XXX,XXX đơn vị
+    volume_pattern2 = r'[Kk]hối lượng.*?(tăng|giảm|ổn định).*?\(([\d,]+)\s*(?:cổ phiếu|đơn vị)\)'
+    match2 = re.search(volume_pattern2, text)
+    
+    if match2:
+        volume_direction = match2.group(1)
+        # Convert from actual units to millions
+        volume_actual = int(match2.group(2).replace(',', ''))
+        volume_amount = volume_actual / 1_000_000
         return {
             'direction': volume_direction,
             'amount_millions': volume_amount
