@@ -169,18 +169,16 @@ python verify_dividends.py
 
 ## 🛠 Utilities and Testing
 
-### `test_vpa_scanner.py` - Multi-Agent Scanner Test
-Tests the VPA dividend scanner system with current data.
+### Utility Scripts
+Development and maintenance utilities are located in the `utilities/` directory:
 
-```bash
-python test_vpa_scanner.py
-```
+- **`split_vpa.py`** - Splits VPA.md into individual ticker files (one-time use)
+- **`verify_vpa.py`** - Verifies VPA analysis accuracy against market data  
+- **`test_vpa_scanner.py`** - Tests dividend scanner functionality
+- **`verify_dividends.py`** - Legacy dividend checker (superseded)
+- **`get_fund_data.py`** - Downloads Vietnamese fund data
 
-**What it tests:**
-- Directory structure validation
-- VPA price extraction functionality
-- CSV data access and comparison
-- Agent creation and basic operations
+See `utilities/README.md` for detailed usage instructions.
 
 ## ⚙️ Configuration Files
 
@@ -293,8 +291,13 @@ aipriceaction/
 ├── 📄 get_market_cap.py          # Market cap data fetcher  
 ├── 📄 merge_vpa.py               # VPA analysis merger
 ├── 📄 vpa_dividend_scanner.py   # Multi-agent dividend scanner
-├── 📄 verify_dividends.py       # Legacy dividend checker
-├── 📄 test_vpa_scanner.py       # Scanner testing utility
+├── 📂 utilities/                # Development and testing utilities
+│   ├── 📄 README.md             # Utilities documentation
+│   ├── 📄 split_vpa.py          # VPA file splitter
+│   ├── 📄 verify_vpa.py         # VPA accuracy verifier
+│   ├── 📄 test_vpa_scanner.py   # Scanner testing utility
+│   ├── 📄 verify_dividends.py   # Legacy dividend checker
+│   └── 📄 get_fund_data.py      # Fund data downloader
 ├── 
 ├── 📊 TICKERS.csv               # Stock symbols list
 ├── 📊 FUNDS.csv                 # Fund symbols list  
