@@ -31,12 +31,12 @@ if args.week:
     main_vpa_filename = 'VPA_week.md'
     source_dir = "market_data_week"
     dest_dir = "market_data_week_processed"
+    vpa_data_dir = 'vpa_data_week'
 else:
     main_vpa_filename = 'VPA.md'
     source_dir = "market_data"
     dest_dir = "market_data_processed"
-
-vpa_data_dir = 'vpa_data'
+    vpa_data_dir = 'vpa_data'
 
 print(f"Merging VPA data into: {main_vpa_filename}")
 print(f"Reading from: {vpa_data_dir}/")
