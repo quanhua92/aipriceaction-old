@@ -1,44 +1,44 @@
 # HAG
 
--   **Ngày 2025-06-16:** HAG tăng nhẹ từ 12.8 lên 12.95. Nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch thấp (3.26 triệu đơn vị).
+-   **Ngày 2025-06-16:** HAG tăng nhẹ từ 12.75 lên 12.95. Nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch thấp (3.26 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand** mặc dù giá tăng. Lực cầu yếu và không đủ để tạo ra một xu hướng tăng bền vững.
 -   **Ngày 2025-06-17:** HAG giảm nhẹ từ 12.95 xuống 12.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (3.85 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
 -   **Ngày 2025-06-18:** HAG tăng mạnh từ 12.9 lên 13.15. Cây nến có biên độ tốt. Khối lượng giao dịch tăng vọt (8.03 triệu đơn vị) so với các phiên trước.
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, phủ nhận các tín hiệu "No Demand" trước đó và cho thấy tiềm năng bứt phá khỏi giai đoạn đi ngang.
-- **Ngày 2025-06-19:** HAG giảm nhẹ từ 13.15 xuống 12.95. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.52 triệu đơn vị).
+- **Ngày 2025-06-19:** HAG giảm nhẹ từ 13.25 xuống 12.95. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.53 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán không lớn, là một tín hiệu tích cực.
-- **Ngày 2025-06-20:** HAG giảm từ 12.95 xuống 13.0. Nến có biên độ hẹp và đóng cửa không đổi. Khối lượng giao dịch tăng nhẹ (5.97 triệu đơn vị).
+- **Ngày 2025-06-20:** HAG giảm từ 13.25 xuống 13.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (5.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía.
-- **Ngày 2025-06-23:** HAG giảm từ 12.9 lên 12.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.22 triệu đơn vị).
+- **Ngày 2025-06-23:** HAG đi ngang ở mức 12.9. Nến có biên độ hẹp. Khối lượng giao dịch giảm (3.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía.
-- **Ngày 2025-06-24:** HAG giảm nhẹ từ 12.9 lên 12.9. Nến có biên độ rất hẹp và đóng cửa không đổi. Khối lượng giao dịch không đổi (3.23 triệu đơn vị).
+- **Ngày 2025-06-24:** HAG giảm nhẹ từ 13.05 xuống 12.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (3.27 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía.
-- **Ngày 2025-06-25:** HAG tăng nhẹ từ 12.9 lên 13.1. Cây nến có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (4.52 triệu đơn vị).
+- **Ngày 2025-06-25:** HAG tăng nhẹ từ 13.0 lên 13.1. Cây nến có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (4.52 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau một thời gian dài đi ngang thiếu động lực, phiên tăng điểm này có thể xem là một **Effort to Rise** yếu. Lực cầu có sự cải thiện nhưng vẫn cần thêm xác nhận từ khối lượng lớn hơn.
-- **Ngày 2025-06-26:** HAG giảm từ 13.1 xuống 12.95. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.6 triệu đơn vị).
+- **Ngày 2025-06-26:** HAG giảm từ 13.1 xuống 12.95. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.61 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng yếu ớt, phiên giảm điểm này cho thấy lực cầu không thể duy trì và phe bán đã quay trở lại. Đây là một tín hiệu yếu, phủ nhận nỗ lực của phiên trước.
-- **Ngày 2025-06-27:** HAG giảm nhẹ từ 12.95 xuống 12.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (3.8 triệu đơn vị).
+- **Ngày 2025-06-27:** HAG giảm nhẹ từ 13.0 xuống 12.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (3.81 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm hôm trước, phiên giảm nhẹ với khối lượng gia tăng này cho thấy áp lực bán vẫn còn và phe mua chưa thể hấp thụ. Đây là một tín hiệu **Effort to Fall**, củng cố cho sự yếu kém trong ngắn hạn.
 - **Ngày 2025-06-30:** HAG tăng nhẹ từ 12.9 lên 12.95. Nến có biên độ hẹp. Khối lượng giao dịch giảm (3.49 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-01:** HAG tăng mạnh từ 12.95 lên 13.2. Cây nến có biên độ rộng. Khối lượng giao dịch tăng vọt (13.66 triệu đơn vị).
+- **Ngày 2025-07-01:** HAG tăng mạnh từ 13.05 lên 13.2. Cây nến có biên độ rộng. Khối lượng giao dịch tăng vọt (13.66 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu tiêu cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn đi ngang.
-- **Ngày 2025-07-02:** HAG đi ngang, đóng cửa ở mức 13.2. Nến có biên độ hẹp. Khối lượng giao dịch giảm (8.2 triệu đơn vị).
+- **Ngày 2025-07-02:** HAG giảm từ 13.4 xuống 13.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.20 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise" mạnh mẽ, phiên đi ngang với khối lượng giảm này là một **Test for Supply**. Áp lực bán không lớn, là một tín hiệu tích cực.
-- **Ngày 2025-07-03:** HAG đi ngang, đóng cửa ở mức 13.2. Nến có biên độ hẹp. Khối lượng giao dịch tăng (10.42 triệu đơn vị).
+- **Ngày 2025-07-03:** HAG giảm từ 13.4 xuống 13.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (10.43 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực, phiên đi ngang trên khối lượng gia tăng này là một tín hiệu bất thường. Nỗ lực (khối lượng lớn) không tạo ra kết quả tương xứng, cho thấy một lượng cung lớn đã xuất hiện để cản trở đà tăng. Tín hiệu cảnh báo.
-- **Ngày 2025-07-04:** Tiếp nối tín hiệu bất thường của ngày hôm trước, phiên hôm nay HAG tăng nhẹ từ 13.2 lên 13.35. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (8.73 triệu đơn vị).
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu bất thường của ngày hôm trước, phiên hôm nay HAG đi ngang, đóng cửa ở mức 13.35. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (8.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giằng co trên khối lượng lớn, phiên tăng nhẹ với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tình hình vẫn không chắc chắn.
-- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không chắc chắn của ngày hôm trước, phiên hôm nay HAG tăng từ 13.35 lên 13.55. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (8.67 triệu đơn vị).
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không chắc chắn của ngày hôm trước, phiên hôm nay HAG giảm từ 13.6 xuống 13.55. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên giằng co, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
-- **Ngày 2025-07-08:** Sau tín hiệu **Effort to Rise** yếu, phiên hôm nay HAG tăng nhẹ từ 13.55 lên 13.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (10.57 triệu đơn vị).
+- **Ngày 2025-07-08:** Sau tín hiệu **Effort to Rise** yếu, phiên hôm nay HAG đi ngang, đóng cửa ở mức 13.6. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (10.57 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
-- **Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật yếu ớt, phiên hôm nay HAG đi ngang, đóng cửa ở mức 13.6. Cây nến giảm điểm (mở cửa 13.7) có biên độ rộng. Khối lượng giao dịch tăng (14.87 triệu đơn vị).
+- **Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật yếu ớt, phiên hôm nay HAG giảm từ 13.7 xuống 13.6. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (14.89 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
-- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay HAG giảm từ 13.6 xuống 13.55. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (8.04 triệu đơn vị).
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay HAG giảm từ 13.65 xuống 13.55. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (8.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
-- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay HAG giảm tiếp từ 13.55 xuống 13.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (11.72 triệu đơn vị).
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay HAG giảm tiếp từ 13.5 xuống 13.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (11.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
 
 

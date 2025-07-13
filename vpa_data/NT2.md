@@ -1,0 +1,43 @@
+# NT2
+
+-   **Ngày 2025-06-16:** NT2 tăng từ 17.9 lên 18.05. Nến có biên độ hẹp và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (838.5k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, đây là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để tạo ra một xu hướng tăng bền vững.
+-   **Ngày 2025-06-17:** NT2 tăng nhẹ từ 18.05 lên 18.15. Tuy nhiên, nến trong ngày có biên độ hẹp. Khối lượng giao dịch giảm nhẹ (748.5k đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
+-   **Ngày 2025-06-18:** NT2 tăng nhẹ từ 18.15 lên 18.3. Nến tăng có biên độ tốt hơn. Khối lượng giao dịch giảm (650.2k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn còn đó. Việc giá tăng trên khối lượng thấp hơn nữa cho thấy lực cầu rất yếu và thiếu bền vững.
+- **Ngày 2025-06-19:** NT2 đi ngang, đóng cửa ở mức 18.3. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (718.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn còn đó. Thị trường thiếu động lực.
+- **Ngày 2025-06-20:** NT2 đi ngang, đóng cửa ở mức 18.3. Nến có biên độ hẹp. Khối lượng giao dịch giảm (484.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn còn đó. Thị trường thiếu động lực.
+- **Ngày 2025-06-23:** NT2 tăng vọt từ 18.2 lên 18.85. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.38 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**. Lực mua áp đảo cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-06-24:** NT2 tăng vọt từ 18.85 lên 19.45. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (2.74 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sự phục hồi của phiên trước.
+- **Ngày 2025-06-25:** NT2 giảm nhẹ từ 19.45 xuống 19.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.19 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau hai phiên SOS bùng nổ. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt.
+- **Ngày 2025-06-26:** NT2 giảm từ 19.4 xuống 19.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (804.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
+- **Ngày 2025-06-27:** NT2 tăng nhẹ từ 19.2 lên 19.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch tương tự (800.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên **Test for Supply**, phiên tăng nhẹ này cho thấy sự do dự. Áp lực bán không lớn, nhưng lực cầu cũng chưa quay trở lại mạnh mẽ (**No Demand**).
+- **Ngày 2025-06-30:** NT2 giảm nhẹ từ 19.3 xuống 19.25. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (1.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **No Demand** hôm trước, phiên giảm nhẹ với khối lượng gia tăng này cho thấy áp lực bán vẫn còn và phe mua chưa thể hấp thụ. Đây là một tín hiệu **Effort to Fall** nhẹ, củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-01:** NT2 giảm từ 19.25 xuống 19.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (869.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của lực cầu (**No Demand**). Tình hình vẫn tiêu cực và thị trường có khả năng điều chỉnh tiếp.
+- **Ngày 2025-07-02:** NT2 giảm từ 19.1 xuống 19.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (809.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của lực cầu (**No Demand**). Tình hình vẫn tiêu cực và thị trường có khả năng điều chỉnh tiếp.
+- **Ngày 2025-07-03:** NT2 đi ngang, đóng cửa ở mức 19.0. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (825.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường vẫn đang trong giai đoạn giằng co, thiếu động lực.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay NT2 tăng từ 19.0 lên 19.5. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (900.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn đi ngang.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay NT2 giảm từ 19.5 xuống 19.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tương tự (921.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng tương tự. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-08:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay NT2 tăng mạnh từ 19.45 lên 19.7. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (1.85 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay NT2 tiếp tục tăng từ 19.7 lên 19.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.20 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay NT2 giảm nhẹ từ 19.75 xuống 19.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (761.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Điều này cho thấy lực bán đang cạn kiệt và tạo điều kiện cho một đợt phục hồi.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply** thành công, hôm nay NT2 giảm từ 19.7 xuống 19.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (861.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
+

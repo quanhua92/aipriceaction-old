@@ -8,21 +8,21 @@
     -   **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength (SOS)**, nối tiếp cho nỗ lực tăng giá trước đó. Hành động phá vỡ lên một vùng giá mới với sự ủng hộ của khối lượng lớn là một tín hiệu rất tích cực, cho thấy phe mua đang hoàn toàn kiểm soát và xu hướng tăng có khả năng tiếp diễn.
 -   **Ngày 2025-06-17:** CMG giảm từ 36.8 xuống 36.25. Giá mở cửa ở mức cao nhưng đóng cửa gần mức thấp nhất phiên, tạo thành một cây nến giảm điểm. Khối lượng giao dịch giảm (1.08 triệu đơn vị) so với phiên SOS trước.
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên chốt lời sau khi giá tăng mạnh. Phe bán đã chiếm ưu thế trong phiên này. Việc khối lượng giảm cho thấy áp lực bán không quá lớn, có thể chỉ là một phiên điều chỉnh kỹ thuật.
--   **Ngày 2025-06-18:** CMG tăng từ 36.25 lên 36.65. Giá đã nỗ lực tăng mạnh lên 37.5 nhưng bị bán ngược trở lại, tạo bóng trên dài. Khối lượng giao dịch tăng (1.7 triệu đơn vị).
+-   **Ngày 2025-06-18:** CMG tăng từ 36.25 lên 36.65. Giá đã nỗ lực tăng mạnh lên 37.5 nhưng bị bán ngược trở lại, tạo bóng trên dài. Khối lượng giao dịch tăng (1.71 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** ở vùng giá cao. Nỗ lực đẩy giá lên đã gặp phải nguồn cung chốt lời mạnh. Việc giá không giữ được mức cao nhất trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu.
-- **Ngày 2025-06-19:** CMG giảm từ 36.65 xuống 36.2. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (959.4k đơn vị).
+- **Ngày 2025-06-19:** CMG giảm từ 36.65 xuống 36.2. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (961.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên điều chỉnh bình thường sau các phiên "Test for Supply". Khối lượng thấp trong phiên giảm cho thấy áp lực bán không lớn, là một tín hiệu tích cực.
-- **Ngày 2025-06-20:** CMG giảm nhẹ từ 36.2 xuống 36.2. Nến có biên độ rất hẹp (doji), cho thấy sự giằng co. Khối lượng giao dịch giảm (773.9k đơn vị).
+- **Ngày 2025-06-20:** CMG đi ngang tại mức 36.2. Nến có biên độ rất hẹp (doji), cho thấy sự giằng co. Khối lượng giao dịch giảm (776.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các phiên kiểm tra cung, phiên đi ngang này cho thấy thị trường đang tạm nghỉ. Tín hiệu trung tính.
-- **Ngày 2025-06-23:** CMG giảm từ 35.8 lên 35.8. Nến có biên độ hẹp và có bóng dưới, cho thấy có lực đỡ. Khối lượng giao dịch tăng (957.1k đơn vị).
+- **Ngày 2025-06-23:** CMG đi ngang tại mức 35.8. Nến có biên độ hẹp và có bóng dưới, cho thấy có lực đỡ. Khối lượng giao dịch tăng (959.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía.
-- **Ngày 2025-06-24:** CMG tăng từ 35.8 lên 36.4. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (1.14 triệu đơn vị).
+- **Ngày 2025-06-24:** CMG tăng từ 35.8 lên 36.4. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (1.15 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại sau các phiên giằng co, cho thấy tiềm năng phục hồi.
-- **Ngày 2025-06-25:** CMG tăng nhẹ từ 36.4 lên 36.6. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.34 triệu đơn vị).
+- **Ngày 2025-06-25:** CMG tăng nhẹ từ 36.4 lên 36.6. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Effort to Rise** từ phiên trước. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm.
-- **Ngày 2025-06-26:** CMG giảm nhẹ từ 36.6 xuống 36.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (859.3k đơn vị) so với phiên trước.
+- **Ngày 2025-06-26:** CMG giảm nhẹ từ 36.6 xuống 36.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (861.1k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Sau các nỗ lực tăng giá, áp lực bán đã xuất hiện nhưng không mạnh (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường.
-- **Ngày 2025-06-27:** CMG tăng vọt từ 36.5 lên 39.05. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (3.2 triệu đơn vị).
+- **Ngày 2025-06-27:** CMG tăng vọt từ 36.5 lên 39.05. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (3.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng giá mới.
 - **Ngày 2025-06-30:** CMG tiếp tục tăng vọt từ 39.05 lên 41.3. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh (4.2 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.

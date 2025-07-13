@@ -1,14 +1,14 @@
 # ACB
 
--   **Ngày 2025-06-16:** ACB tăng từ 21.05 lên 21.3. Biên độ nến tăng tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch ở mức cao (8.99 triệu đơn vị), dù giảm so với phiên trước, nhưng vẫn xác nhận lực cầu tốt.
+-   **Ngày 2025-06-16:** ACB tăng từ 21.05 lên 21.3. Biên độ nến tăng tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch ở mức cao (9.00 triệu đơn vị), dù giảm so với phiên trước, nhưng vẫn xác nhận lực cầu tốt.
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**. Lực cầu đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá có thể tiếp tục đà phục hồi.
--   **Ngày 2025-06-17:** ACB giảm nhẹ từ 21.3 xuống 21.2. Cây nến có biên độ hẹp và có bóng trên, cho thấy nỗ lực tăng giá trong phiên đã gặp phải áp lực bán. Khối lượng giao dịch giảm (7.02 triệu đơn vị) so với phiên tăng trước.
+-   **Ngày 2025-06-17:** ACB giảm nhẹ từ 21.3 xuống 21.2. Cây nến có biên độ hẹp và có bóng trên, cho thấy nỗ lực tăng giá trong phiên đã gặp phải áp lực bán. Khối lượng giao dịch giảm (7.04 triệu đơn vị) so với phiên tăng trước.
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng giá. Áp lực bán đã xuất hiện nhưng không quá mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
--   **Ngày 2025-06-18:** ACB tăng từ 21.2 lên 21.3. Nến tăng có biên độ tốt, đóng cửa gần mức cao nhất phiên, đi kèm khối lượng giao dịch gia tăng nhẹ (7.32 triệu đơn vị).
+-   **Ngày 2025-06-18:** ACB tăng từ 21.2 lên 21.3. Nến tăng có biên độ tốt, đóng cửa gần mức cao nhất phiên, đi kèm khối lượng giao dịch gia tăng nhẹ (7.44 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**, xác nhận cho phiên "Test for Supply" thành công hôm trước. Lực cầu đã quay trở lại và chiếm ưu thế, củng cố khả năng tiếp diễn đà phục hồi.
-- **Ngày 2025-06-19:** ACB đi ngang, đóng cửa ở mức 21.3. Cây nến có biên độ rất hẹp (doji), cho thấy sự giằng co và thiếu quyết đoán. Khối lượng giao dịch không thay đổi nhiều (7.27 triệu đơn vị) so với phiên trước.
+- **Ngày 2025-06-19:** ACB đi ngang, đóng cửa ở mức 21.3. Cây nến có biên độ rất hẹp (doji), cho thấy sự giằng co và thiếu quyết đoán. Khối lượng giao dịch không thay đổi nhiều (7.29 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng giá ngày 18/06, phiên đi ngang này tiếp tục là một **Test for Supply (Kiểm tra Nguồn cung)**. Sự thiếu biến động giá trên nền khối lượng trung bình cho thấy thị trường đang tạm nghỉ và hấp thụ lực cung/cầu. Tín hiệu trung tính.
-- **Ngày 2025-06-20:** ACB tăng mạnh từ 21.3 lên 21.45. Cây nến tăng có biên độ tốt, đóng cửa ở nửa trên cây nến. Khối lượng giao dịch tăng vọt (15.75 triệu đơn vị), mức cao nhất trong nhiều tuần.
+- **Ngày 2025-06-20:** ACB tăng mạnh từ 21.3 lên 21.45. Cây nến tăng có biên độ tốt, đóng cửa ở nửa trên cây nến. Khối lượng giao dịch tăng vọt (15.77 triệu đơn vị), mức cao nhất trong nhiều tuần.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)** mạnh mẽ, xác nhận các phiên "Test for Supply" trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá và tiếp tục xu hướng tăng.
 - **Ngày 2025-06-23:** ACB giảm từ 21.4 xuống 21.35. Cây nến có biên độ hẹp và đóng cửa ở giữa. Khối lượng giao dịch giảm (8.98 triệu đơn vị) so với phiên tăng mạnh trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên tăng giá mạnh. Áp lực bán đã xuất hiện nhưng không quá lớn, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường.

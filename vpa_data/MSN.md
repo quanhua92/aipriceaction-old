@@ -24,7 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**, xác nhận cho chuỗi **Effort to Rise** trước đó. Sức mạnh của phe mua được thể hiện một cách áp đảo, củng cố cho xu hướng tăng.
 - **Ngày 2025-06-27:** MSN tăng vọt từ 72.0 lên 76.8. Nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (14.08 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho chuỗi **Effort to Rise** trước đó. Sức mạnh của phe mua được thể hiện một cách áp đảo, củng cố cho xu hướng tăng.
-- **Ngày 2025-06-30:** MSN giảm từ 76.8 xuống 76.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (8.36 triệu đơn vị).
+- **Ngày 2025-06-30:** MSN đi ngang ở mức 76.8. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (8.36 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau hai phiên SOS bùng nổ. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-01:** MSN giảm từ 76.8 xuống 75.2. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (6.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng tăng một cách dứt khoát.

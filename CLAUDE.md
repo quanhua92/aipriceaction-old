@@ -41,6 +41,10 @@ python merge_vpa.py --week
 pip install -r requirements.txt
 ```
 
+## Execution Tips
+
+- Use `uv run a.py` instead of `python a.py`
+
 ## Architecture Overview
 
 ### Core Components

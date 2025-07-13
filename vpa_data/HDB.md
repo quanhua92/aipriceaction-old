@@ -10,7 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên tăng nhẹ với khối lượng giảm cho thấy một sự tạm nghỉ. Đây có thể là một **Test for Supply**. Tình hình vẫn cần được theo dõi chặt chẽ.
 - **Ngày 2025-06-20:** HDB tăng từ 22.0 lên 22.15. Nến có biên độ hẹp. Khối lượng giao dịch tăng (15.33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên tăng nhẹ với khối lượng lớn này tiếp tục cho thấy sự giằng co quyết liệt giữa cung và cầu. Lực mua vẫn chưa thể thắng thế một cách dứt khoát.
-- **Ngày 2025-06-23:** HDB giảm từ 22.0 lên 21.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.2 triệu đơn vị).
+- **Ngày 2025-06-23:** HDB giảm từ 22.0 xuống 21.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường, phiên giảm nhẹ này cho thấy sự do dự. Tình hình vẫn còn rất rủi ro.
 - **Ngày 2025-06-24:** HDB đi ngang, đóng cửa ở mức 21.95. Nến có biên độ hẹp và khối lượng giao dịch giảm (12.93 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các phiên giao dịch với khối lượng lớn, phiên đi ngang với khối lượng giảm này cho thấy sự tạm nghỉ. Tình hình vẫn chưa rõ ràng.

@@ -1,44 +1,44 @@
 # DCM
 
-- **Ngày 2025-06-16:** DCM tăng từ 32.21 lên 33.29. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (5.31 triệu đơn vị) so với phiên trước.
+- **Ngày 2025-06-16:** DCM tăng từ 32.73 lên 33.29. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (5.31 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**. Lực cầu đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá có thể tiếp tục đà phục hồi.
-- **Ngày 2025-06-17:** DCM tăng vọt từ 33.29 lên 34.33. Biên độ nến rất rộng, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch bùng nổ, đạt 9.98 triệu đơn vị.
+- **Ngày 2025-06-17:** DCM tăng vọt từ 33.62 lên 34.33. Biên độ nến rất rộng, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch bùng nổ, đạt 9.99 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Giá tăng dứt khoát với khối lượng lớn cho thấy lực mua áp đảo, báo hiệu một xu hướng tăng mạnh có thể đang bắt đầu.
-- **Ngày 2025-06-18:** DCM tăng nhẹ từ 34.33 lên 34.38. Tuy nhiên, nến trong ngày là nến giảm (mở cửa 34.66) với bóng trên, cho thấy có áp lực bán ở giá cao. Khối lượng giao dịch giảm mạnh (4.62 triệu đơn vị) so với phiên bùng nổ SOS.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán đã xuất hiện, nhưng việc khối lượng giảm mạnh là một dấu hiệu tích cực. Nó cho thấy lực bán không áp đảo và đây có thể chỉ là một nhịp nghỉ cần thiết trong một xu hướng tăng.
-- **Ngày 2025-06-19:** DCM tăng từ 34.38 lên 34.57. Nến tăng có biên độ vừa phải, có bóng trên. Khối lượng giao dịch tăng nhẹ (5.31 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu này tiếp tục là một **Test for Supply**. Nỗ lực tăng giá gặp phải áp lực bán. Tuy nhiên, việc giá không giảm mạnh cho thấy lực cầu vẫn đang hấp thụ tốt.
-- **Ngày 2025-06-20:** DCM giảm từ 34.57 xuống 34.38. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.76 triệu đơn vị).
+- **Ngày 2025-06-18:** DCM giảm từ 34.66 xuống 34.38. Nến giảm với bóng trên, cho thấy có áp lực bán ở giá cao. Khối lượng giao dịch giảm mạnh (4.62 triệu đơn vị) so với phiên bùng nổ SOS.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán đã xuất hiện và đẩy giá giảm từ mức mở cửa cao, nhưng việc khối lượng giảm mạnh là một dấu hiệu tích cực. Nó cho thấy lực bán không áp đảo và đây có thể chỉ là một nhịp nghỉ cần thiết trong một xu hướng tăng.
+- **Ngày 2025-06-19:** DCM giảm từ 34.66 xuống 34.57. Nến giảm có biên độ vừa phải, có bóng trên. Khối lượng giao dịch tăng nhẹ (5.32 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu này tiếp tục là một **Test for Supply**. Giá mở cửa cao nhưng bị đẩy xuống, cho thấy áp lực bán vẫn còn hiện hữu ở những mức giá cao hơn. Tuy nhiên, việc giá chỉ giảm nhẹ cho thấy lực cầu vẫn đang hấp thụ tốt.
+- **Ngày 2025-06-20:** DCM giảm từ 34.85 xuống 34.38. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.77 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Việc giá giảm trên khối lượng thấp cho thấy áp lực bán đang cạn kiệt, tạo điều kiện cho xu hướng tăng tiếp diễn.
-- **Ngày 2025-06-23:** DCM tăng từ 34.38 lên 34.76. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh (6.64 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán.
-- **Ngày 2025-06-24:** DCM giảm từ 34.76 xuống 34.33. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.71 triệu đơn vị).
+- **Ngày 2025-06-23:** DCM giảm từ 34.95 xuống 34.76. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng mạnh (6.65 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Mặc dù giá đóng cửa thấp hơn mở cửa, nhưng khối lượng lớn cho thấy có sự quan tâm tích cực từ thị trường. Đây vẫn là một tín hiệu tích cực trong bối cảnh **Test for Supply** đang diễn ra.
+- **Ngày 2025-06-24:** DCM giảm từ 34.38 xuống 34.33. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (5.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường và chưa phải tín hiệu xấu.
-- **Ngày 2025-06-25:** DCM giảm từ 34.33 xuống 33.91. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.7 triệu đơn vị).
+- **Ngày 2025-06-25:** DCM giảm từ 34.14 xuống 33.91. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.70 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Áp lực bán vẫn còn sau chuỗi ngày tăng giá. Việc giá tiếp tục giảm trên khối lượng thấp cho thấy đây vẫn là một nhịp điều chỉnh lành mạnh, kiểm tra lại lực cung.
-- **Ngày 2025-06-26:** DCM tăng nhẹ từ 33.91 lên 34.05. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.22 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**. Nó cho thấy lực cầu chưa quay trở lại mạnh mẽ và thị trường có thể cần thêm thời gian tích lũy.
-- **Ngày 2025-06-27:** DCM giảm từ 34.05 xuống 33.65. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (4.31 triệu đơn vị).
+- **Ngày 2025-06-26:** DCM giảm từ 34.10 xuống 34.05. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.23 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh, phiên giảm nhẹ với khối lượng thấp này là một tín hiệu **No Demand**. Nó cho thấy lực cầu chưa quay trở lại mạnh mẽ và thị trường có thể cần thêm thời gian tích lũy.
+- **Ngày 2025-06-27:** DCM giảm từ 34.20 xuống 33.65. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (4.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu "No Demand" của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
-- **Ngày 2025-06-30:** DCM tăng nhẹ từ 33.65 lên 33.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.73 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-01:** DCM giảm từ 33.7 xuống 33.45. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.96 triệu đơn vị).
+- **Ngày 2025-06-30:** DCM giảm từ 33.70 xuống 33.70. Nến đi ngang có biên độ hẹp. Khối lượng giao dịch giảm (3.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên đi ngang với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-01:** DCM giảm từ 33.75 xuống 33.45. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của phe mua. Tình hình vẫn tiêu cực.
-- **Ngày 2025-07-02:** DCM tăng từ 33.45 lên 33.7. Nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (3.03 triệu đơn vị).
+- **Ngày 2025-07-02:** DCM tăng từ 33.50 lên 33.70. Nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (3.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
-- **Ngày 2025-07-03:** DCM giảm từ 33.7 xuống 33.55. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (3.39 triệu đơn vị).
+- **Ngày 2025-07-03:** DCM giảm từ 33.70 xuống 33.55. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (3.39 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu **No Demand** của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
-- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DCM giảm từ 33.55 xuống 33.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (3.47 triệu đơn vị).
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DCM giảm từ 33.75 xuống 33.40. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (3.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DCM tăng nhẹ từ 33.4 lên 33.75. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (4.06 triệu đơn vị).
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DCM tăng nhẹ từ 33.60 lên 33.75. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (4.06 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng không đột biến cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
-- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DCM tăng nhẹ từ 33.75 lên 33.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.99 triệu đơn vị).
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DCM tăng nhẹ từ 33.75 lên 33.80. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (4.00 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho các tín hiệu yếu kém trước đó.
-- **Ngày 2025-07-09:** Sau chuỗi ngày yếu kém, phiên hôm nay DCM tăng mạnh từ 33.8 lên 34.25. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (7.78 triệu đơn vị).
+- **Ngày 2025-07-09:** Sau chuỗi ngày yếu kém, phiên hôm nay DCM tăng mạnh từ 33.95 lên 34.25. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (7.79 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
-- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay DCM giảm từ 34.25 xuống 34.2. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (2.66 triệu đơn vị).
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay DCM giảm từ 34.55 xuống 34.20. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (2.66 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
-- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay DCM giảm từ 34.2 xuống 33.8. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (5.49 triệu đơn vị).
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay DCM giảm từ 34.25 xuống 33.80. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (5.49 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
 
 
