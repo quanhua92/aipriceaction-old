@@ -3,15 +3,17 @@
 ## Overview
 This document outlines the complete protocol for AI agents to perform weekly VPA (Volume Price Analysis) using the Wyckoff methodology. The agent must follow these steps sequentially to ensure accurate, contextual analysis.
 
+## Important Weekly Date Logic
+**CRITICAL**: Weekly data dates are always from Monday of each week. If today is Sunday 2025-07-13, the latest complete weekly data will be dated Monday 2025-07-07 (representing the week of July 7-11, 2025). Always analyze the most recent Monday-dated weekly data available.
+
 ## Execution Protocol
 
 ### Step 1: Dividend Adjustment Check
 **Objective**: Ensure all VPA price references are accurate before analysis
 
-```bash
-# Check for dividend-adjusted tickers
-ls market_data_check_dividends_week/
-```
+Use LS tool to check for dividend-adjusted tickers:
+- Path: market_data_check_dividends_week/
+- If directory doesn't exist or is empty: proceed to Step 2
 
 **Actions**:
 - If `market_data_check_dividends_week/` directory exists and contains files:
@@ -26,12 +28,15 @@ ls market_data_check_dividends_week/
 **Objective**: Analyze each ticker using parallel agents for efficiency
 
 #### 2.1 Context Gathering (Internal Processing)
+**CRITICAL**: Use LS tool to check market_data_week/ directory and Read tool to examine CSV files directly.
+**MANDATORY**: Always read both market_data_week CSV files AND existing vpa_data_week/*.md files to ensure accurate context.
+
 For each ticker with new weekly data, create this internal context structure:
 
 ```json
 {
   "ticker": "TICKER_SYMBOL",
-  "new_data_date": "2025-07-13",
+  "new_data_date": "2025-07-07",
   "new_data_ohlcv": {
     "open": 64.4,
     "high": 64.9, 
@@ -76,7 +81,7 @@ For each ticker with new weekly data, create this internal context structure:
 
 **Example New Entry**:
 ```markdown
-- **Ngày 2025-07-13:** Tiếp nối tín hiệu **No Demand** của tuần trước, tuần này SIP tăng từ 64.4 lên 64.7. Nến tuần tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (12.5 triệu đơn vị).
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Demand** của tuần trước, tuần này SIP tăng từ 64.4 lên 64.7. Nến tuần tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (12.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém tuần trước. Lực cầu đã quay trở lại, cho thấy tiềm năng phục hồi trong xu hướng tuần.
 ```
 
@@ -88,7 +93,8 @@ For each ticker with new weekly data, create this internal context structure:
 
 #### 2.3 File Output Processing
 **APPEND-ONLY MODE** (Default - unless dividends processed):
-- Read existing `vpa_data_week/{TICKER}.md` files to get current analysis 
+- **MANDATORY**: Use Read tool to examine existing `vpa_data_week/{TICKER}.md` files to get current analysis 
+- **MANDATORY**: Use LS tool to check if vpa_data_week/ directory exists, create it if needed
 - Check if target week already exists in analysis
 - If week exists: Skip ticker (no action needed)
 - If week missing: Append new week entry to existing content
@@ -106,6 +112,7 @@ For each ticker with new weekly data, create this internal context structure:
 ```bash
 uv run verify_vpa_week.py
 ```
+**Note**: Use Bash tool to run this command
 
 **What verify_vpa_week.py should check**:
 - Logical VPA signal progression (e.g., "Test for Supply" after "Effort to Rise")
@@ -139,6 +146,7 @@ uv run verify_vpa_week.py
 ```bash
 uv run merge_vpa.py --week
 ```
+**Note**: Use Bash tool to run this command
 
 **Process**:
 - Reads all files from `vpa_data_week/` directory (contains only new week entries)
@@ -155,6 +163,7 @@ uv run merge_vpa.py --week
 ```bash
 uv run main.py --week
 ```
+**Note**: Use Bash tool to run this command
 
 **Process**:
 - Integrates VPA analysis from `VPA_week.md` into weekly market report
