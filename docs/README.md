@@ -93,11 +93,12 @@ python merge_vpa.py --week
 ```
 
 **What it does:**
-- Backs up current `market_data/` to `market_data_processed/` before processing
-- Reads all individual ticker files from `vpa_data/` directory
-- Combines into single `VPA.md` or `VPA_week.md` file
-- Maintains alphabetical ticker ordering with proper headers
+- Reads all individual ticker files from `vpa_data/` directory (e.g., `vpa_data/SIP.md`, `vpa_data/TPB.md`)
+- Combines into single `VPA.md` or `VPA_week.md` file with proper formatting
+- Maintains alphabetical ticker ordering with proper `# TICKER` headers
 - Handles both daily and weekly modes
+- Preserves existing analysis structure and formatting
+- Creates backup of processed data automatically
 
 ### `merge_vpa_legacy.py` - Legacy VPA Merger
 Legacy script for merging `VPA_NEW.md` into existing VPA files (kept for reference).
@@ -123,9 +124,9 @@ The system uses structured markdown files for VPA analysis:
 ```
 
 **Current Workflow:**
-1. AI agents write analysis to individual `vpa_data/{TICKER}.md` files
-2. `merge_vpa.py` combines all files into main `VPA.md`
-3. `main.py` integrates VPA analysis into final reports
+1. AI agents write analysis to individual `vpa_data/{TICKER}.md` files (e.g., `vpa_data/SIP.md`, `vpa_data/TPB.md`)
+2. `merge_vpa.py` combines all ticker files into main `VPA.md` with proper formatting
+3. `main.py` integrates VPA analysis into final reports and generates charts
 
 ## 🔍 Dividend Detection System
 
@@ -196,6 +197,7 @@ python test_vpa_scanner.py
 ### Documentation
 - **`tasks/dividends_plan.md`** - Complete guide for AI dividend processing
 - **`tasks/DAILY_VPA.md`** - Complete protocol for daily VPA analysis workflow
+- **`merge_vpa_legacy.py`** - Legacy VPA merger for reference (superseded by new merge_vpa.py)
 - **`CLAUDE.md`** - Project instructions and architecture overview
 
 ## 🤖 GitHub Actions Workflows
@@ -267,15 +269,18 @@ ls market_data_check_dividends/
 
 # 2. Process individual tickers (AI agents)
 # Write analysis to vpa_data/{TICKER}.md files
+# Example: echo "# SIP\n\n- **Analysis here...**" > vpa_data/SIP.md
 
 # 3. Verify analysis accuracy
-uv run verify_vpa.py
+# Review individual files in vpa_data/ directory
 
 # 4. Combine all ticker files into main VPA
 python merge_vpa.py
+# This reads all vpa_data/*.md files and combines into VPA.md
 
 # 5. Generate final report with integrated VPA
 python main.py
+# Creates REPORT.md with charts and VPA analysis
 
 # Complete protocol documented in tasks/DAILY_VPA.md
 ```
@@ -354,10 +359,10 @@ graph LR
 ### 3. VPA Analysis Integration
 ```mermaid
 graph LR
-    A[Write analysis in VPA_NEW.md] --> B[Run merge_vpa.py]
-    B --> C[Backup market data]
-    C --> D[Merge into VPA.md]
-    D --> E[Generate reports with VPA]
+    A[Write analysis in vpa_data/{TICKER}.md] --> B[Run merge_vpa.py]
+    B --> C[Combine all ticker files]
+    C --> D[Generate VPA.md]
+    D --> E[Run main.py with integrated VPA]
 ```
 
 ## 🔧 Environment Setup
