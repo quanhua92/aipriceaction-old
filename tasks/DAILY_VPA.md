@@ -56,33 +56,41 @@ For each ticker with new data, create this internal context structure:
 ```
 
 #### 2.2 Analysis Generation
+**CRITICAL**: Only append new date entries - NEVER overwrite existing VPA analysis unless dividends require price adjustments
+
 **Format Requirements**: Follow exact Vietnamese VPA format
 
 ```markdown
-# TICKER
-
 - **Ngày YYYY-MM-DD:** [Analysis of price movement from previous to current day]. [Description of candle characteristics]. [Volume analysis compared to previous day].
     - **Phân tích VPA/Wyckoff:** [Wyckoff interpretation: No Demand, Effort to Rise, Sign of Strength, etc.]. [Contextual explanation building on previous analysis].
 ```
 
 **Analysis Requirements**:
-- **Contextual Continuity**: Must reference previous VPA signal and build logical progression
-- **Comparative Analysis**: Explicitly compare new bar to previous bar (price, spread, volume)
+- **Contextual Continuity**: Must reference previous VPA signal from most recent existing entry
+- **Comparative Analysis**: Explicitly compare new bar to previous bar (price, spread, volume)  
 - **Wyckoff Methodology**: Apply proper VPA signals (No Demand, Effort to Rise, Sign of Strength, etc.)
 - **Vietnamese Language**: Maintain natural Vietnamese financial terminology
+- **Date Check**: Only generate analysis if new date doesn't already exist in VPA files
 
-**Example Entry**:
+**Example New Entry**:
 ```markdown
-# SIP
-
 - **Ngày 2025-07-13:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay SIP tăng từ 64.4 lên 64.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại, cho thấy tiềm năng phục hồi.
 ```
 
-#### 2.3 File Output
-- Save each ticker analysis to `vpa_data/{TICKER}.md`
-- Overwrite existing content (each file contains complete analysis for that ticker)
+#### 2.3 File Output Processing
+**APPEND-ONLY MODE** (Default - unless dividends processed):
+- Read existing `vpa_data/{TICKER}.md` files to get current analysis 
+- Check if target date already exists in analysis
+- If date exists: Skip ticker (no action needed)
+- If date missing: Append new date entry to existing content
+- Preserve all existing historical analysis
 - Ensure proper UTF-8 encoding for Vietnamese text
+
+**DIVIDEND ADJUSTMENT MODE** (Only when dividend files processed):
+- Update all historical price references using dividend ratios
+- Maintain analysis logic but adjust numerical values
+- Preserve analysis structure and dates
 
 ### Step 3: VPA Verification
 **Objective**: Validate analysis accuracy and consistency
@@ -116,17 +124,19 @@ uv run verify_vpa.py
 - Missing contextual references to previous analysis
 
 ### Step 5: Merge Individual Files
-**Objective**: Combine all ticker analyses into main VPA file
+**Objective**: Append new date entries from vpa_data/ to existing VPA.md structure
 
 ```bash
 uv run merge_vpa.py
 ```
 
 **Process**:
-- Reads all files from `vpa_data/` directory
-- Combines into single `VPA.md` file with proper structure
+- Reads all files from `vpa_data/` directory (contains only new date entries)
+- Reads existing `VPA.md` to preserve historical analysis
+- For each ticker: Appends new date entries to existing ticker section in VPA.md
+- If ticker doesn't exist in VPA.md: Creates new ticker section
 - Maintains alphabetical ticker ordering
-- Adds proper headers and separators
+- Preserves all existing historical analysis
 - Backs up market_data to market_data_processed
 
 ### Step 6: Generate Final Report
@@ -204,7 +214,8 @@ Before completing the daily VPA analysis, verify:
 **If merge fails**:
 - Check vpa_data directory permissions and file formats
 - Verify all ticker files have proper UTF-8 encoding
-- Manually combine files if automated merge fails
+- Ensure merge process is appending, not overwriting existing VPA.md content
+- Manually append new entries if automated merge fails
 
 ## Success Metrics
 
