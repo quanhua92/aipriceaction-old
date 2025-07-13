@@ -1,14 +1,14 @@
 # SGT
 
 - **Ngày 2025-06-02:** Một tuần tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch tăng.
-    - **Phân tích VPA/Wyckoff:** Một **nỗ lực tăng giá (Effort to Rise)** yếu.
+    - **Phân tích VPA/Wyckoff:** Một **Effort to Rise** yếu.
 - **Ngày 2025-06-09:** SGT đi ngang với nến doji, đóng cửa (17.8) không đổi. Khối lượng giao dịch giảm.
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **"No Demand"**.
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand**.
 - **Ngày 2025-06-16:** Một tuần giảm giá với nến giảm biên độ hẹp. Khối lượng giao dịch rất thấp.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **kiểm tra không có nguồn cung (No Supply)**.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**.
 - **Ngày 2025-06-23:** SGT có một tuần giao dịch giằng co với một nến giảm biên độ hẹp, nằm trong phạm vi của tuần trước. Khối lượng giao dịch duy trì ở mức thấp.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **"No Demand" (Không có cầu)**, cho thấy thị trường đang thiếu động lực. Cổ phiếu đang đi ngang và cần một cú hích về khối lượng để xác định hướng đi tiếp theo.
-- **Ngày 2025-07-07:** Sau tín hiệu "No Demand" của tuần trước, SGT có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch tăng.
-    - **Phân tích VPA/Wyckoff:** Nỗ lực (khối lượng) tăng nhưng kết quả (giá) lại giảm. Đây là tín hiệu của sự **thiếu cầu (No Demand)**, cho thấy phe mua đang gặp khó khăn trong việc đẩy giá lên, là một dấu hiệu yếu kém.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**, cho thấy thị trường đang thiếu động lực. Cổ phiếu đang đi ngang và cần một cú hích về khối lượng để xác định hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Sau tín hiệu No Demand của tuần trước, SGT có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch tăng.
+    - **Phân tích VPA/Wyckoff:** Nỗ lực (khối lượng) tăng nhưng kết quả (giá) lại giảm. Đây là tín hiệu của sự **No Demand**, cho thấy phe mua đang gặp khó khăn trong việc đẩy giá lên, là một dấu hiệu yếu kém.
 
 

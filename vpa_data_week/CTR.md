@@ -1,16 +1,16 @@
 # CTR
 
 - **Ngày 2025-06-02:** Một tuần đi ngang với nến giảm biên độ hẹp. Khối lượng giao dịch giảm.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **kiểm tra nguồn cung (Test for Supply)**. Việc giá giữ vững trên nền khối lượng thấp là một tín hiệu tích cực cho xu hướng tăng.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững trên nền khối lượng thấp là một tín hiệu No Supply cho xu hướng tăng.
 - **Ngày 2025-06-09:** Một tuần tăng giá bùng nổ với nến tăng thân dài, đóng cửa (96.5) ở mức cao. Khối lượng giao dịch tăng mạnh.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Dấu hiệu Sức mạnh (SOS)**, phá vỡ vùng đi ngang, cho thấy lực cầu đang áp đảo.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, phá vỡ vùng đi ngang, cho thấy lực cầu đang áp đảo.
 - **Ngày 2025-06-16:** CTR tiếp tục tăng mạnh, tạo ra nến tăng và đóng cửa (98.5) ở đỉnh mới. Khối lượng giao dịch duy trì ở mức cao.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Dấu hiệu Sức mạnh (SOS)**, xác nhận xu hướng tăng rất vững chắc.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận xu hướng tăng rất vững chắc.
 - **Ngày 2025-06-23:** CTR thể hiện sức mạnh vượt trội với một nến tăng thân dài, đóng cửa ở mức gần như cao nhất tuần (102.3) và thiết lập một đỉnh cao mới. Khối lượng giao dịch duy trì ở mức cao, dù có giảm nhẹ.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)** rõ ràng. Việc giá bứt phá dễ dàng cho thấy nguồn cung rất khan hiếm và xu hướng tăng đang rất vững chắc.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Việc giá bứt phá dễ dàng cho thấy nguồn cung rất khan hiếm và xu hướng tăng đang rất vững chắc.
 - **Ngày 2025-06-30:** Sau tuần tăng giá mạnh mẽ, CTR có một tuần điều chỉnh với một nến giảm, đóng cửa (101.7) thấp hơn. Đáng chú ý, khối lượng giao dịch đã giảm đi đáng kể.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **kiểm tra không có nguồn cung (No Supply)**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất tích cực, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
-- **Ngày 2025-07-07:** Sau phiên kiểm tra "No Supply" thành công của tuần trước, CTR đã không thể tiếp tục đà tăng mà quay đầu giảm nhẹ. Nến tuần là một nến giảm có biên độ hẹp, đóng cửa (101.6) thấp hơn. Khối lượng giao dịch giảm.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **"No Demand" (Không có cầu)**. Việc giá không thể tăng sau tín hiệu tích cực trước đó cho thấy phe mua đang do dự. Tín hiệu trung lập, cần một cú bứt phá để xác nhận.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
+- **Ngày 2025-07-07:** Sau phiên kiểm tra No Supply thành công của tuần trước, CTR đã không thể tiếp tục đà tăng mà quay đầu giảm nhẹ. Nến tuần là một nến giảm có biên độ hẹp, đóng cửa (101.6) thấp hơn. Khối lượng giao dịch giảm.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Việc giá không thể tăng sau tín hiệu No Supply trước đó cho thấy phe mua đang do dự. Tín hiệu No Supply, cần một cú bứt phá để xác nhận.
 
 

@@ -1,14 +1,14 @@
 # NTP
 
 - **Ngày 2025-06-02:** Một tuần đi ngang với nến giảm biên độ hẹp. Khối lượng giao dịch giảm.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **kiểm tra nguồn cung (Test for Supply)** thành công.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công.
 - **Ngày 2025-06-09:** NTP tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch không đổi.
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **"No Demand"**. Thị trường đang tích lũy.
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand**. Thị trường đang tích lũy.
 - **Ngày 2025-06-16:** Một tuần tăng giá tốt, đóng cửa (64.58) gần mức cao nhất tuần. Khối lượng giao dịch tăng.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Dấu hiệu Sức mạnh (SOS)**, cho thấy lực cầu đang chiếm ưu thế.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế.
 - **Ngày 2025-06-23:** Sau tuần tăng giá mạnh, NTP tiếp tục đi lên nhưng đóng cửa (64.7) thấp hơn mức cao nhất (67.0), tạo bóng nến trên. Khối lượng giao dịch giảm nhẹ nhưng vẫn cao.
-    - **Phân tích VPA/Wyckoff:** Đây là một **nỗ lực tăng giá (Effort to Rise)** nhưng gặp phải áp lực bán. Bóng nến trên là một lời cảnh báo về nguồn cung tiềm tàng, cho thấy đà tăng có thể đang chững lại.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** nhưng gặp phải áp lực bán. Bóng nến trên là một lời Test for Supply về nguồn cung tiềm tàng, cho thấy đà tăng có thể đang chững lại.
 - **Ngày 2025-07-07:** Sau tuần tăng giá gặp kháng cự, NTP có một tuần tăng giá mạnh mẽ với một nến tăng thân dài, đóng cửa (66.6) gần mức cao nhất tuần. Khối lượng giao dịch giảm nhẹ.
-    - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng mạnh trên nền khối lượng thấp hơn là một tín hiệu **"No Supply" (Không có nguồn cung)**, cho thấy phe bán đã yếu đi. Đây là một tín hiệu rất tích cực cho xu hướng tăng.
+    - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng mạnh trên nền khối lượng thấp hơn là một tín hiệu **No Supply**, cho thấy phe bán đã yếu đi. Đây là một tín hiệu rất No Supply cho xu hướng tăng.
 
 
