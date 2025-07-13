@@ -1,0 +1,44 @@
+# VEA
+
+-   **Ngày 2025-06-16:** VEA giảm từ 39.3 xuống 39.2. Biên độ nến hẹp. Khối lượng giao dịch ở mức cao hơn so với các phiên trước (421k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Áp lực bán gia tăng một chút nhưng không tạo ra sự thay đổi giá lớn.
+-   **Ngày 2025-06-17:** VEA tăng nhẹ từ 39.2 lên 39.3. Cây nến có biên độ rất hẹp. Khối lượng giao dịch THẤP (382.8k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Lực cầu yếu và không đủ sức để đẩy giá lên một cách thuyết phục sau phiên giảm nhẹ trước đó.
+-   **Ngày 2025-06-18:** VEA giảm từ 39.3 xuống 39.2. Cây nến giảm có biên độ rộng hơn và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng nhẹ (416.4k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Demand", phiên giảm điểm này cho thấy phe bán đang chiếm ưu thế. Lực cầu yếu và không thể ngăn đà giảm.
+- **Ngày 2025-06-19:** VEA tăng nhẹ từ 39.2 lên 39.3. Nến có biên độ hẹp. Khối lượng giao dịch giảm (233.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-20:** VEA giảm từ 39.2 xuống 39.1. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (354.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-23:** VEA giảm từ 39.1 lên 39.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (735.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** VEA giảm từ 39.2 lên 39.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (258.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-25:** VEA tăng nhẹ từ 39.1 lên 39.2. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (124.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-26:** VEA tăng nhẹ từ 39.2 lên 39.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (235.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-27:** VEA đi ngang, đóng cửa ở mức 39.3. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (223.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-30:** VEA tăng nhẹ từ 39.3 lên 39.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (389.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-01:** VEA giảm nhẹ từ 39.3 xuống 39.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (225.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-02:** VEA tăng nhẹ từ 39.2 lên 39.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (351.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-03:** VEA tăng từ 39.3 lên 39.8. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (1.3 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VEA tăng nhẹ từ 39.8 lên 40.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (216.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VEA giảm từ 40.0 xuống 39.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (528.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VEA giảm từ 39.7 xuống 39.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (768.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-09:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VEA tăng nhẹ từ 39.6 lên 39.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (825k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VEA đi ngang, đóng cửa ở mức 39.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (507.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay VEA đi ngang, đóng cửa ở mức 39.6. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (325.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá, phiên đi ngang với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng, là một tín hiệu cảnh báo.
+
+

@@ -1,0 +1,44 @@
+# DPR
+
+-   **Ngày 2025-06-16:** DPR tăng từ 37.45 lên 37.8. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (459.8k đơn vị), cho thấy nỗ lực tăng giá không lớn.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand** mặc dù giá tăng. Lực cầu yếu và không đủ thuyết phục để tạo ra một xu hướng tăng bền vững.
+-   **Ngày 2025-06-17:** DPR tăng từ 38.4 lên 38.4. Nến có biên độ hẹp và đóng cửa không đổi. Khối lượng giao dịch tăng nhẹ (587.2k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Mặc dù khối lượng tăng nhẹ, giá không thể bứt phá, cho thấy sự thiếu quan tâm từ cả hai phía và khả năng cao sẽ tiếp tục đi ngang hoặc điều chỉnh.
+-   **Ngày 2025-06-18:** DPR tăng nhẹ từ 38.4 lên 38.55. Biên độ nến khá tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (905.7k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên "No Demand", lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy tiềm năng giá có thể bứt phá khỏi giai đoạn đi ngang.
+- **Ngày 2025-06-19:** DPR tăng vọt từ 38.55 lên 39.9. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Lực mua áp đảo đã xuất hiện sau một thời gian dài đi ngang, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-06-20:** DPR giảm mạnh từ 39.9 xuống 39.05. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (677.3k đơn vị) so với phiên SOS.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo.
+- **Ngày 2025-06-23:** DPR tăng từ 39.0 lên 39.9. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (1.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" đã thành công.
+- **Ngày 2025-06-24:** DPR giảm từ 39.9 xuống 39.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.03 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt.
+- **Ngày 2025-06-25:** DPR tăng mạnh từ 39.6 lên 41.55. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (2.94 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho các nỗ lực tăng giá trước đó và cho thấy xu hướng tăng có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-06-26:** DPR tăng nhẹ từ 41.55 lên 41.75. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (842.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm mạnh trong phiên này là một tín hiệu tích cực, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-06-27:** DPR giảm từ 41.75 xuống 41.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.25 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+- **Ngày 2025-06-30:** DPR giảm từ 41.5 xuống 41.15. Nến giảm có biên độ vừa phải và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (1.05 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của lực cầu (**No Demand**). Tình hình vẫn tiêu cực và thị trường có khả năng điều chỉnh tiếp.
+- **Ngày 2025-07-01:** DPR giảm từ 41.15 xuống 40.85. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (1.64 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu yếu kém của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-02:** DPR tăng mạnh từ 40.85 lên 41.9. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (2.37 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu **Effort to Fall** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
+- **Ngày 2025-07-03:** DPR giảm mạnh từ 41.9 xuống 40.0. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch giảm (1.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay DPR giảm từ 40.0 xuống 39.45. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay DPR tăng nhẹ từ 39.45 lên 40.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (695.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DPR tăng mạnh từ 40.1 lên 40.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (909.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém của phiên trước. Lực cầu đã quay trở lại, cho thấy khả năng giá có thể bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-09:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay DPR giảm từ 40.8 xuống 40.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (956.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này phủ nhận nỗ lực phục hồi của phiên trước, cho thấy phe bán đã quay trở lại và chiếm ưu thế. Đây là một tín hiệu **Sign of Weakness (SOW)**, cảnh báo khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay DPR tăng nhẹ từ 40.4 lên 40.65. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (776.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay DPR giảm từ 40.65 xuống 40.15. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (858.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
+

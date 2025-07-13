@@ -1,0 +1,44 @@
+# SCS
+
+-   **Ngày 2025-06-16:** SCS tăng mạnh từ 63.2 lên 64.2. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (331.2k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng mạnh, khối lượng thấp cho thấy tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+-   **Ngày 2025-06-17:** SCS giảm nhẹ từ 64.2 xuống 63.8. Nến giảm có biên độ hẹp và có bóng dưới, cho thấy có lực đỡ. Khối lượng giao dịch không đổi và vẫn ở mức thấp (344.3k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
+-   **Ngày 2025-06-18:** SCS giảm nhẹ từ 63.8 xuống 63.6. Biên độ nến hẹp. Khối lượng giao dịch giảm xuống mức thấp (175.1k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-06-19:** SCS đi ngang, đóng cửa ở mức 63.6. Nến có biên độ rất hẹp. Khối lượng giao dịch CẠN KIỆT (164.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn.
+- **Ngày 2025-06-20:** SCS tăng từ 63.6 lên 64.7. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (497.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên cạn kiệt khối lượng, lực cầu đã quay trở lại.
+- **Ngày 2025-06-23:** SCS giảm từ 63.2 lên 63.8. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (236.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** SCS giảm nhẹ từ 63.8 lên 64.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm (214.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng giằng co và thiếu động lực vẫn tiếp diễn.
+- **Ngày 2025-06-25:** SCS tăng mạnh từ 64.0 lên 65.1. Cây nến có biên độ rộng. Khối lượng giao dịch tăng (626.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sự phục hồi và cho thấy phe mua đã quay lại kiểm soát sau các phiên giằng co.
+- **Ngày 2025-06-26:** SCS tăng vọt từ 65.1 lên 67.8. Nến tăng có biên độ rất rộng, đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.27 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+- **Ngày 2025-06-27:** SCS tăng từ 67.8 lên 68.5. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (703k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Sign of Strength (SOS)** từ phiên trước. Lực cầu vẫn đang duy trì, củng cố cho xu hướng tăng.
+- **Ngày 2025-06-30:** SCS giảm từ 68.5 xuống 67.2. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (609.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-01:** SCS giảm từ 67.2 xuống 66.0. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (692.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho phiên "Test for Supply" hôm trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-02:** SCS tăng mạnh từ 66.0 lên 67.0. Cây nến có biên độ rộng. Khối lượng giao dịch giảm (386.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-03:** SCS giảm từ 67.0 xuống 66.3. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (658k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay SCS tăng nhẹ từ 66.3 lên 66.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (227.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay SCS tăng nhẹ từ 66.6 lên 66.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (295.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay SCS tăng nhẹ từ 66.7 lên 67.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (443.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay SCS giảm từ 67.0 xuống 66.8. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (617.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay SCS tăng nhẹ từ 66.8 lên 67.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (419.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay SCS giảm từ 67.2 xuống 66.9. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (504.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
+

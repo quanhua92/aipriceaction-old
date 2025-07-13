@@ -1,0 +1,48 @@
+# VNM
+
+-   **Ngày 2025-06-13:** VNM giảm nhẹ xuống 55.5. Biên độ nến hẹp và khối lượng ở mức trung bình (3.5 triệu đơn vị).
+
+    -   **Phân tích VPA/Wyckoff:** Thị trường đang trong giai đoạn đi ngang, không có tín hiệu rõ ràng. Cả cung và cầu đều không cho thấy sức mạnh vượt trội.
+
+-   **Ngày 2025-06-16:** VNM tăng lên 56.3. Biên độ nến rộng hơn và đóng cửa gần mức cao. Khối lượng giao dịch tăng lên (4.7 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**. Sau một giai đoạn đi ngang, việc giá tăng kèm theo khối lượng gia tăng cho thấy lực cầu đang quay trở lại. Đây là một dấu hiệu tích cực, mở ra khả năng giá có thể tiếp tục tăng.
+-   **Ngày 2025-06-17:** VNM giảm nhẹ từ 56.3 xuống 56.2. Biên độ nến hẹp. Khối lượng giao dịch giảm (3.4 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên giảm nhẹ với khối lượng thấp này là một tín hiệu tốt. Nó cho thấy áp lực bán không mạnh và đây có thể là một nhịp điều chỉnh lành mạnh, kiểm tra lại nguồn cung trước khi tiếp tục tăng.
+-   **Ngày 2025-06-18:** VNM giảm từ 56.2 xuống 56.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (4.02 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau phiên điều chỉnh lành mạnh, phiên giảm nhẹ với khối lượng tăng nhẹ này cho thấy sự giằng co. Áp lực bán vẫn còn nhưng không quá mạnh. Tín hiệu trung tính, cần thêm xác nhận.
+- **Ngày 2025-06-19:** VNM tăng nhẹ từ 56.0 lên 56.1. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.62 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng giằng co và thiếu động lực vẫn tiếp diễn.
+- **Ngày 2025-06-20:** VNM tăng từ 56.1 lên 56.6. Cây nến tăng có biên độ tốt. Khối lượng giao dịch tăng (4.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên giằng co, lực cầu đã quay trở lại mạnh mẽ hơn, xác nhận cho các tín hiệu tích cực trước đó.
+- **Ngày 2025-06-23:** VNM giảm từ 56.0 lên 55.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** VNM tăng từ 55.9 lên 56.4. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.78 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên tăng giá này cho thấy lực cầu vẫn đang duy trì nhưng chưa mạnh mẽ. Tín hiệu trung tính.
+- **Ngày 2025-06-25:** VNM tăng từ 56.4 lên 56.8. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (6.25 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó và cho thấy phe mua đã quay lại kiểm soát.
+- **Ngày 2025-06-26:** VNM giảm từ 56.8 xuống 56.4. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.1 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường và chưa phải tín hiệu xấu.
+- **Ngày 2025-06-27:** VNM tăng mạnh từ 56.4 lên 57.8. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (8.89 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-06-30:** VNM tăng mạnh từ 57.8 lên 58.0. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
+- **Ngày 2025-07-01:** VNM giảm từ 58.0 xuống 57.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-02:** VNM tăng từ 57.5 lên 57.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.76 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên tăng giá này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-03:** VNM giảm từ 57.7 xuống 57.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (5.27 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VNM tăng nhẹ từ 57.5 lên 57.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (2.7 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VNM tăng nhẹ từ 57.8 lên 57.9. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (3.74 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay VNM tăng mạnh từ 57.9 lên 59.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (7.16 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VNM tiếp tục tăng mạnh từ 59.0 lên 60.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (9.61 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VNM giảm từ 60.2 xuống 59.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.25 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay VNM đi ngang, đóng cửa ở mức 59.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (6.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy sự giằng co. Lực cầu chưa quay trở lại mạnh mẽ để tiếp tục đà tăng, cho thấy thị trường cần thêm thời gian tích lũy.
+
+

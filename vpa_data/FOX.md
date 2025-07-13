@@ -1,0 +1,44 @@
+# FOX
+
+-   **Ngày 2025-06-16:** FOX tăng từ 63.4 lên 63.9. Biên độ nến hẹp. Khối lượng giao dịch ở mức trung bình (89k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên tăng giá với nỗ lực thấp, không có tín hiệu gì đặc biệt.
+-   **Ngày 2025-06-17:** FOX giảm nhẹ từ 63.9 xuống 63.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (36.3k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn Cung)** rõ rệt. Áp lực bán gần như không có. Tuy nhiên, lực cầu cũng đang vắng mặt. Cổ phiếu đang trong trạng thái đi ngang chờ đợi.
+-   **Ngày 2025-06-18:** FOX giảm từ 63.7 xuống 62.9. Nến giảm có biên độ rộng hơn và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng nhẹ (70.2k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Supply" trước đó, phiên giảm điểm với khối lượng tăng nhẹ này cho thấy áp lực bán đã quay trở lại, mặc dù không quá mạnh. Tín hiệu này phủ nhận dấu hiệu cạn cung và cho thấy sự yếu kém.
+- **Ngày 2025-06-19:** FOX giảm nhẹ từ 62.9 xuống 62.8. Biên độ nến rất hẹp. Khối lượng giao dịch CẠN KIỆT (35.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Supply** và **No Demand** cùng lúc. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-20:** FOX giảm từ 62.8 xuống 62.0. Biên độ nến giảm. Khối lượng giao dịch tăng nhẹ (78.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-06-23:** FOX giảm từ 61.0 lên 61.4. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (43.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** FOX đi ngang, đóng cửa ở mức 61.5. Biên độ nến rất hẹp. Khối lượng giao dịch CẠN KIỆT (32.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-25:** FOX tăng mạnh từ 61.8 lên 62.6. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (68.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau một giai đoạn dài thiếu động lực, phiên tăng này là một tín hiệu **Effort to Rise**. Tuy nhiên, khối lượng vẫn còn thấp, cho thấy lực cầu chưa thực sự mạnh mẽ và bền vững.
+- **Ngày 2025-06-26:** FOX giảm mạnh từ 62.7 xuống 62.1. Nến giảm có biên độ rộng. Khối lượng giao dịch CẠN KIỆT (23.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** yếu của phiên 25/06, phiên giảm mạnh trên khối lượng cạn kiệt này cho thấy sự thiếu vắng hoàn toàn của lực cầu (**No Demand**). Áp lực bán dù rất nhỏ cũng đủ để đẩy giá xuống. Đây là một tín hiệu yếu, phủ nhận nỗ lực tăng giá hôm trước.
+- **Ngày 2025-06-27:** FOX tăng từ 62.1 lên 62.7. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (99.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau tín hiệu **No Demand** của phiên trước, lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy tiềm năng giá có thể bứt phá khỏi giai đoạn đi ngang.
+- **Ngày 2025-06-30:** FOX tăng từ 62.7 lên 63.2. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (78.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
+- **Ngày 2025-07-01:** FOX giảm từ 63.2 xuống 62.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (58.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** hôm trước, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-02:** FOX tăng nhẹ từ 62.8 lên 62.9. Nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (34.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên tăng giá này tiếp tục xác nhận sự thiếu vắng của lực cầu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-03:** FOX giảm từ 62.9 xuống 62.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (60.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FOX tăng mạnh từ 62.5 lên 63.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (81.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau chuỗi ngày yếu kém, lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy khả năng xu hướng phục hồi sẽ tiếp diễn.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay FOX giảm từ 63.5 xuống 63.3. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (61.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-08:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay FOX giảm từ 63.3 xuống 63.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (68.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FOX tiếp tục giảm từ 63.4 xuống 62.8. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (92.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall** mạnh mẽ, phiên hôm nay FOX tăng nhẹ từ 62.8 lên 63.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ (104.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng không đột biến cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay FOX tăng nhẹ từ 63.4 lên 63.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (94.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
+
+

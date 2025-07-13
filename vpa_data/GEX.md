@@ -1,0 +1,44 @@
+# GEX
+
+-   **Ngày 2025-06-16:** GEX tăng mạnh từ 33.9 lên 35.0. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (7.72 triệu đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại mạnh mẽ, cho thấy tiềm năng tiếp tục xu hướng tăng.
+-   **Ngày 2025-06-17:** GEX giảm nhẹ từ 35.0 xuống 34.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (3.43 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán không lớn, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường và chưa phải tín hiệu xấu.
+-   **Ngày 2025-06-18:** GEX tăng nhẹ từ 34.8 lên 34.9. Cây nến có biên độ hẹp với bóng trên, cho thấy có áp lực bán. Khối lượng giao dịch tăng mạnh (7.05 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" thành công, phiên đi ngang trên khối lượng lớn này cho thấy một cuộc chiến giữa cung và cầu. Nỗ lực tăng giá không thành công (bóng trên) trên khối lượng lớn là một tín hiệu bất thường, cần thận trọng.
+- **Ngày 2025-06-19:** GEX tăng mạnh từ 34.9 lên 35.0. Nến có biên độ rộng. Khối lượng giao dịch tăng (10.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-06-20:** GEX giảm nhẹ từ 35.0 xuống 35.1. Nến có biên độ hẹp và đóng cửa ở giữa. Khối lượng giao dịch không đổi (10.9 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise" mạnh mẽ, phiên đi ngang này cho thấy sự giằng co và tạm nghỉ. Tín hiệu trung tính.
+- **Ngày 2025-06-23:** GEX tăng mạnh từ 35.3 lên 35.9. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (14.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-06-24:** GEX tăng vọt từ 35.9 lên 37.25. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên mức rất cao (27.17 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho các nỗ lực tăng giá trước đó và cho thấy xu hướng tăng có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-06-25:** GEX tăng nhẹ từ 37.25 lên 37.5. Biên độ nến hẹp hơn đáng kể so với phiên SOS trước đó. Khối lượng giao dịch giảm mạnh (18.33 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm bớt trong phiên này là một tín hiệu tích cực, cho thấy đây có thể chỉ là một nhịp nghỉ cần thiết trong một xu hướng tăng.
+- **Ngày 2025-06-26:** GEX giữ nguyên giá 37.5. Tuy nhiên, cây nến giảm điểm (mở cửa 37.9, đóng cửa 37.5) với biên độ vừa phải. Khối lượng giao dịch giảm (11.32 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn và đã thắng thế trong phiên hôm nay. Việc khối lượng giảm là một tín hiệu tốt, cho thấy lực bán không quá mạnh. Tuy nhiên, phe mua cần quay lại để xác nhận xu hướng tăng.
+- **Ngày 2025-06-27:** GEX giảm từ 37.5 xuống 37.3. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (11.44 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn và đã thắng thế trong phiên hôm nay. Việc khối lượng vẫn cao cho thấy sự giằng co quyết liệt. Tín hiệu trung tính, phe mua cần phải thể hiện sức mạnh để vượt qua vùng này.
+- **Ngày 2025-06-30:** GEX tăng nhẹ từ 37.3 lên 37.4. Nến có biên độ hẹp. Khối lượng giao dịch giảm (7.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giằng co, phiên tăng nhẹ với khối lượng giảm cho thấy sự thiếu quyết đoán từ cả hai phía. Thị trường vẫn trong trạng thái **No Demand**.
+- **Ngày 2025-07-01:** GEX giảm từ 37.4 xuống 37.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (10.57 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-02:** GEX tăng mạnh từ 37.0 lên 38.1. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (16.4 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu **Effort to Fall** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
+- **Ngày 2025-07-03:** GEX tăng vọt từ 38.1 lên 39.85. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (25.3 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay GEX giảm từ 39.85 xuống 40.0. Tuy nhiên, cây nến tăng điểm (mở cửa 40.35, đóng cửa 40.0). Khối lượng giao dịch giảm (14.19 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay GEX giảm mạnh từ 40.0 xuống 39.0. Cây nến giảm có biên độ rất rộng. Khối lượng giao dịch tăng (19.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Việc giá giảm mạnh trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán đã quay trở lại và chiếm ưu thế, phủ nhận các tín hiệu tích cực trước đó.
+- **Ngày 2025-07-08:** Sau tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay GEX tăng nhẹ từ 39.0 lên 39.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (8.45 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
+- **Ngày 2025-07-09:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay GEX tăng nhẹ từ 39.5 lên 39.55. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (14.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay GEX tăng nhẹ từ 39.55 lên 39.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (7.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực phục hồi, phiên tăng nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng, là một tín hiệu cảnh báo.
+- **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay GEX tăng nhẹ từ 39.8 lên 40.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (14.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
+

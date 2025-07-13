@@ -1,0 +1,14 @@
+# NKG
+
+- **Ngày 2025-06-02:** Một tuần tăng giá tốt với nến tăng thân dài, đóng cửa (13.4) gần mức cao. Khối lượng giao dịch tăng vọt.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Dấu hiệu Sức mạnh (SOS)**, cho thấy lực cầu đang quay trở lại.
+- **Ngày 2025-06-09:** NKG quay đầu giảm, đóng cửa (13.0) thấp hơn. Khối lượng giao dịch giảm.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **kiểm tra nguồn cung (Test for Supply)**.
+- **Ngày 2025-06-16:** Tuần giao dịch đi ngang với nến tăng biên độ hẹp. Khối lượng giao dịch giảm mạnh.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **"No Supply"**, cho thấy áp lực bán đã cạn kiệt.
+- **Ngày 2025-06-23:** NKG có một tuần tăng giá với biên độ hẹp, đóng cửa cao hơn tuần trước nhưng vẫn nằm trong phạm vi của tuần trước đó. Khối lượng giao dịch giảm.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **kiểm tra nguồn cung (Test for Supply)**. Việc giá có thể tăng nhẹ trên nền khối lượng thấp cho thấy áp lực bán yếu, là một tín hiệu tích cực cho khả năng tiếp tục phục hồi.
+- **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, NKG có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (13.95) gần mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, báo hiệu khả năng kết thúc đợt điều chỉnh.
+
+

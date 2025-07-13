@@ -1,0 +1,44 @@
+# DBC
+
+-   **Ngày 2025-06-16:** DBC tăng từ 30.35 lên 30.75. Nến tăng có biên độ hẹp và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (8.68 triệu đơn vị) so với phiên bùng nổ trước đó.
+    -   **Phân tích VPA/Wyckoff:** Sau phiên tăng mạnh, đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Khối lượng giảm cho thấy áp lực bán không lớn, đây có thể là một nhịp nghỉ tích cực.
+-   **Ngày 2025-06-17:** DBC giảm nhẹ từ 30.75 xuống 30.45. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.18 triệu đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand (Không có Nhu cầu)**. Mặc dù giá giảm nhẹ, khối lượng thấp cho thấy sự thiếu vắng lực cầu để đẩy giá lên. Thị trường đang đi ngang chờ đợi.
+-   **Ngày 2025-06-18:** DBC đi ngang, đóng cửa ở mức 30.45. Cây nến có biên độ hẹp với bóng trên và dưới, cho thấy sự giằng co. Khối lượng giao dịch tăng nhẹ (7.64 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Mặc dù khối lượng có tăng, giá không thể bứt phá, cho thấy lực cầu vẫn còn yếu và chưa sẵn sàng để đẩy giá lên cao hơn.
+- **Ngày 2025-06-19:** DBC giảm mạnh từ 30.45 xuống 29.95. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng vọt (11.96 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Sau giai đoạn "No Demand", một phiên giảm mạnh với khối lượng lớn cho thấy áp lực bán đã xuất hiện và áp đảo, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-06-20:** DBC tăng từ 29.95 lên 30.6. Nến tăng có biên độ rộng, phục hồi một phần phiên giảm mạnh trước đó. Khối lượng giao dịch không đổi và vẫn ở mức cao (11.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu SOW, phiên phục hồi này có thể là một **Automatic Rally (AR)**. Lực cầu đã xuất hiện để chặn đà giảm, nhưng cần theo dõi các phiên kiểm tra cung (test) tiếp theo để đánh giá sức mạnh thực sự của phe mua.
+- **Ngày 2025-06-23:** DBC tăng vọt từ 30.5 lên 31.85. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (19.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**. Lực mua áp đảo cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-06-24:** DBC giảm nhẹ từ 31.85 xuống 31.8. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (7.28 triệu đơn vị) so với phiên SOS.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ. Áp lực bán không lớn, là một tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-06-25:** DBC giảm từ 31.8 xuống 31.6. Cây nến có biên độ hẹp và có bóng dưới. Khối lượng giao dịch tăng (9.37 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Phiên này tiếp tục là một **Test for Supply** sau phiên SOS. Áp lực bán vẫn còn nhưng lực cầu đã hấp thụ và đẩy giá lên từ mức thấp. Tín hiệu giằng co, cho thấy thị trường cần thêm thời gian để hấp thụ lực bán.
+- **Ngày 2025-06-26:** DBC tăng mạnh từ 31.6 lên 31.9. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (6.64 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên kiểm tra cung, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
+- **Ngày 2025-06-27:** DBC tăng nhẹ từ 31.9 lên 32.0. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch tăng (9.28 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** yếu, phiên tăng nhẹ trên khối lượng gia tăng này cho thấy một sự giằng co. Nỗ lực tăng giá không thành công (bóng trên) trên khối lượng lớn là một tín hiệu bất thường, cần thận trọng.
+- **Ngày 2025-06-30:** DBC tăng vọt từ 32.0 lên 34.0. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (17.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-01:** DBC tăng mạnh từ 34.0 lên 34.7. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (11.98 triệu đơn vị) so với phiên SOS.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên này là một tín hiệu tích cực, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-02:** DBC giảm nhẹ từ 34.7 xuống 34.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (9.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply**, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng tăng một cách dứt khoát.
+- **Ngày 2025-07-03:** DBC giảm từ 34.6 xuống 34.3. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (12.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên kiểm tra cung không thành công, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đang quay trở lại và chiếm ưu thế.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DBC tăng nhẹ từ 34.3 lên 34.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (6.78 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DBC tăng nhẹ từ 34.6 lên 34.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (8.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DBC đi ngang, đóng cửa ở mức 34.75. Cây nến có biên độ vừa phải. Khối lượng giao dịch giảm (7.34 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-09:** Tiếp nối các tín hiệu yếu kém trước đó, phiên hôm nay DBC giảm mạnh từ 34.75 xuống 34.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng vọt (18.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** mạnh mẽ, phiên hôm nay DBC giảm từ 34.0 xuống 33.55. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (12.85 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-11:** Sau chuỗi giảm mạnh, hôm nay DBC phục hồi nhẹ từ 33.55 lên 33.7. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (7.53 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
+

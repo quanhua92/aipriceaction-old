@@ -1,0 +1,44 @@
+# VIB
+
+-   **Ngày 2025-06-16:** VIB tăng mạnh từ 17.9 lên 18.3. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (6.3 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)** rõ ràng. Lực cầu đã quay trở lại một cách quyết đoán.
+-   **Ngày 2025-06-17:** VIB giảm nhẹ từ 18.3 xuống 18.2. Biên độ nến hẹp. Khối lượng giao dịch giảm (4.2 triệu đơn vị) so với phiên tăng trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên điều chỉnh lành mạnh. Sau phiên tăng mạnh, giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán không lớn, có thể là một **Test for Supply** tích cực.
+-   **Ngày 2025-06-18:** VIB giảm từ 18.2 xuống 18.05. Cây nến có biên độ vừa phải. Khối lượng giao dịch tăng (7.48 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Fall**. Sau phiên "Test for Supply" hôm trước, việc giá giảm trên khối lượng tăng cho thấy áp lực bán đang quay trở lại và mạnh hơn, là một tín hiệu cảnh báo.
+- **Ngày 2025-06-19:** VIB giảm từ 18.05 xuống 18.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (4.9 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Fall", phiên giảm nhẹ này cho thấy sự giằng co. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-20:** VIB tăng nhẹ từ 18.0 lên 18.1. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (5.6 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực sau tín hiệu "Effort to Fall". Lực cầu vẫn rất yếu.
+- **Ngày 2025-06-23:** VIB giảm từ 18.0 lên 18.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực sau tín hiệu "Effort to Fall". Lực cầu vẫn rất yếu.
+- **Ngày 2025-06-24:** VIB tăng nhẹ từ 18.0 lên 18.15. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (6.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực sau tín hiệu "Effort to Fall". Lực cầu vẫn rất yếu.
+- **Ngày 2025-06-25:** VIB tăng nhẹ từ 18.15 lên 18.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (7.11 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực sau các tín hiệu yếu kém trước đó. Sự phục hồi không đáng kể cho thấy lực cầu vẫn rất yếu.
+- **Ngày 2025-06-26:** VIB giảm từ 18.2 xuống 18.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (2.27 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu yếu, phiên giảm điểm trên khối lượng thấp này tiếp tục xác nhận sự yếu kém của lực cầu (**No Demand**).
+- **Ngày 2025-06-27:** VIB đi ngang, đóng cửa ở mức 18.1. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (2.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu yếu, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu (**No Demand**).
+- **Ngày 2025-06-30:** VIB tăng từ 18.1 lên 18.3. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (6.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu yếu, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
+- **Ngày 2025-07-01:** VIB tăng nhẹ từ 18.3 lên 18.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên tăng giá này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-02:** VIB đi ngang, đóng cửa ở mức 18.3. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (4.32 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-03:** VIB tăng nhẹ từ 18.3 lên 18.35. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng vọt (9.1 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VIB tăng nhẹ từ 18.35 lên 18.4. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VIB tăng mạnh từ 18.4 lên 18.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (10.38 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VIB tăng nhẹ từ 18.7 lên 18.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (6.75 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay VIB tăng mạnh từ 18.8 lên 19.15. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (13.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VIB giảm từ 19.15 xuống 19.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (5.47 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay VIB tăng từ 19.1 lên 19.35. Cây nến tăng có biên độ tốt. Khối lượng giao dịch tăng vọt (12.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+
+

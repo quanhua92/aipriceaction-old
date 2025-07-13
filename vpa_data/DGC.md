@@ -1,0 +1,44 @@
+# DGC
+
+-   **Ngày 2025-06-16:** DGC tăng vọt từ 92.7 lên 98.0. Cây nến có biên độ rất rộng, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng vọt (4.96 triệu đơn vị), cao hơn nhiều so với các phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Lực mua áp đảo cho thấy "dòng tiền thông minh" đang tham gia quyết liệt, báo hiệu một xu hướng tăng giá có thể đã bắt đầu.
+-   **Ngày 2025-06-17:** DGC tiếp tục tăng từ 98.7 lên 98.7. Mặc dù giá đóng cửa không đổi, cây nến có biên độ hẹp và bóng trên, cho thấy có áp lực bán ở vùng giá cao. Khối lượng giao dịch giảm (2.37 triệu đơn vị) so với phiên bùng nổ.
+    -   **Phân tích VPA/Wyckoff:** Sau phiên SOS, đây là một phiên **Test for Supply**. Áp lực chốt lời đã xuất hiện nhưng chưa đủ mạnh để đẩy giá xuống. Việc khối lượng giảm là một dấu hiệu tích cực, cho thấy đây có thể chỉ là một nhịp nghỉ trước khi tiếp tục tăng.
+-   **Ngày 2025-06-18:** DGC giảm từ 98.7 xuống 97.4. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi và vẫn ở mức thấp (2.24 triệu đơn vị) so với phiên SOS.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên điều chỉnh bình thường, xác nhận cho phiên "Test for Supply" hôm trước. Áp lực bán vẫn còn nhưng không quá mạnh. Khối lượng thấp trong các phiên điều chỉnh sau SOS là một tín hiệu tốt, cho thấy xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-06-19:** DGC đi ngang, đóng cửa ở mức 97.4. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên điều chỉnh, phiên đi ngang với khối lượng thấp này là một tín hiệu **No Supply**, cho thấy áp lực bán đã cạn kiệt, tạo điều kiện thuận lợi cho xu hướng tăng tiếp diễn.
+- **Ngày 2025-06-20:** DGC giảm từ 97.4 xuống 96.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi và vẫn ở mức thấp (1.81 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Supply", phiên giảm điểm nhẹ này cho thấy lực cầu vẫn chưa quay trở lại một cách mạnh mẽ (No Demand). Thị trường đang trong giai đoạn tích lũy sau phiên SOS.
+- **Ngày 2025-06-23:** DGC giảm từ 96.0 lên 96.4. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Supply", phiên giảm điểm nhẹ này cho thấy lực cầu vẫn chưa quay trở lại một cách mạnh mẽ (No Demand). Thị trường đang trong giai đoạn tích lũy sau phiên SOS.
+- **Ngày 2025-06-24:** DGC tăng nhẹ từ 96.4 lên 96.5. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.23 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh, phiên tăng nhẹ với khối lượng không đột biến này cho thấy sự do dự. Thị trường vẫn đang trong giai đoạn tích lũy.
+- **Ngày 2025-06-25:** DGC tăng nhẹ từ 96.5 lên 97.2. Cây nến có biên độ tốt. Khối lượng giao dịch giảm (2.03 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh và tích lũy, phiên tăng giá này có thể là một **Effort to Rise** yếu. Lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục để xác nhận một đợt tăng giá mạnh mẽ.
+- **Ngày 2025-06-26:** DGC giảm từ 97.2 xuống 96.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (1.02 triệu đơn vị) và ở mức thấp.
+    - **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng yếu ớt, phiên giảm điểm này xác nhận sự thiếu vắng của lực cầu (**No Demand**). Lực mua không đủ sức duy trì đà tăng, cho thấy thị trường vẫn đang trong giai đoạn tích lũy yếu.
+- **Ngày 2025-06-27:** DGC tăng vọt từ 96.7 lên 98.9. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (3.23 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng đã được thiết lập từ phiên SOS ngày 16/06.
+- **Ngày 2025-06-30:** DGC tăng mạnh từ 98.9 lên 101.7. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (2.87 triệu đơn vị) so với phiên SOS trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu SOS của phiên trước. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực.
+- **Ngày 2025-07-01:** DGC giảm từ 101.7 xuống 100.9. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.44 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-02:** DGC tăng từ 100.9 lên 101.8. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (1.84 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng giá này là một tín hiệu **Effort to Rise**. Việc giá tăng trên khối lượng giảm cho thấy áp lực bán đã yếu đi (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-03:** DGC tăng mạnh từ 101.8 lên 103.0. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (3.42 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu tích cực của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay DGC giảm từ 103.0 xuống 102.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.4 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay DGC tăng nhẹ từ 102.0 lên 102.2. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (2.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay DGC tăng nhẹ từ 102.2 lên 102.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.91 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay DGC giảm từ 102.6 xuống 102.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (1.98 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng không đổi sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay DGC giảm từ 102.1 xuống 101.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (2.3 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-11:** Sau các phiên điều chỉnh, hôm nay DGC tăng mạnh từ 101.5 lên 103.7. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (4.74 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+
+

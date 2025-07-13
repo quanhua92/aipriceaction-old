@@ -1,0 +1,28 @@
+# FIT
+
+- **Ngày 2025-06-26:** FIT giảm từ 4.41 xuống 4.38. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (714.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày đi ngang thiếu động lực, phiên giảm điểm với khối lượng không đột biến này tiếp tục xác nhận sự yếu kém của cổ phiếu. Tín hiệu **No Demand**.
+- **Ngày 2025-06-27:** FIT giảm nhẹ từ 4.38 xuống 4.37. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (597.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **No Demand** hôm trước, phiên giảm điểm nhẹ với khối lượng thấp này tiếp tục xác nhận sự yếu kém của cổ phiếu. Tín hiệu **No Demand**.
+- **Ngày 2025-06-30:** FIT đi ngang, đóng cửa ở mức 4.37. Nến có biên độ hẹp. Khối lượng giao dịch giảm (556.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu **No Demand**, phiên đi ngang với khối lượng thấp này tiếp tục xác nhận sự yếu kém của cổ phiếu. Thị trường thiếu động lực.
+- **Ngày 2025-07-01:** FIT tăng nhẹ từ 4.37 lên 4.4. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (821.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày đi ngang thiếu động lực, phiên tăng điểm này có thể xem là một **Effort to Rise** yếu. Lực cầu có sự cải thiện nhưng vẫn cần thêm xác nhận từ khối lượng lớn hơn.
+- **Ngày 2025-07-02:** FIT tăng nhẹ từ 4.4 lên 4.44. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (385.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise" yếu, phiên tăng nhẹ với khối lượng giảm này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+- **Ngày 2025-07-03:** FIT giảm mạnh từ 4.44 xuống 4.34. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng vọt (1.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, xác nhận cho tín hiệu "No Demand" của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay FIT giảm nhẹ từ 4.34 xuống 4.37. Tuy nhiên, cây nến tăng điểm (mở cửa 4.39, đóng cửa 4.37). Khối lượng giao dịch giảm (511.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay FIT tăng nhẹ từ 4.37 lên 4.39. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (803.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay FIT tăng mạnh từ 4.39 lên 4.56. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (3.15 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay FIT đi ngang, đóng cửa ở mức 4.56. Cây nến giảm điểm (mở cửa 4.61) có biên độ vừa phải. Khối lượng giao dịch giảm (2.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay FIT đi ngang, đóng cửa ở mức 4.56. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.38 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên kiểm tra cung, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
+- **Ngày 2025-07-11:** Sau phiên giằng co, hôm nay FIT tăng nhẹ từ 4.56 lên 4.59. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.49 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá yếu ớt, phiên tăng nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng, củng cố cho kịch bản đi ngang.
+
+

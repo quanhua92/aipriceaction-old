@@ -1,0 +1,44 @@
+# NTP
+
+- **Ngày 2025-06-16:** NTP tăng vọt từ 62.41 lên 66.0. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (921.7k đơn vị), cao hơn nhiều so với các phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Lực mua áp đảo cho thấy "dòng tiền thông minh" đang tham gia quyết liệt, báo hiệu một xu hướng tăng giá mạnh có thể đã bắt đầu.
+- **Ngày 2025-06-17:** NTP tiếp tục tăng mạnh từ 66.0 lên 67.5. Biên độ nến rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch vẫn duy trì ở mức cao (798.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là sự xác nhận cho tín hiệu SOS trước đó. Việc giá tiếp tục tăng mạnh trên khối lượng lớn cho thấy sức mạnh của phe mua là bền vững và xu hướng tăng đang được củng cố.
+- **Ngày 2025-06-18:** NTP giảm mạnh từ 67.5 xuống 66.25. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm mạnh (253.7k đơn vị) so với các phiên tăng mạnh trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tăng mạnh. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy áp lực bán không quá lớn và có thể chỉ là một nhịp nghỉ trong xu hướng tăng.
+- **Ngày 2025-06-19:** NTP tăng nhẹ từ 66.25 lên 66.58. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (289k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu chưa quay trở lại một cách mạnh mẽ, cho thấy thị trường đang tạm nghỉ.
+- **Ngày 2025-06-20:** NTP giảm mạnh từ 66.58 xuống 64.58. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng nhẹ (349.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Sau giai đoạn "No Demand", một phiên giảm mạnh với khối lượng tăng cho thấy áp lực bán đã xuất hiện và áp đảo, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-06-23:** NTP giảm từ 64.58 xuống 63.66. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (391.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Fall** tiếp tục được xác nhận, củng cố cho **Sign of Weakness (SOW)** trước đó. Áp lực bán đang gia tăng.
+- **Ngày 2025-06-24:** NTP giảm từ 63.66 xuống 63.0. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (497.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Fall** tiếp tục được xác nhận. Áp lực bán đang gia tăng và chiếm ưu thế, củng cố cho xu hướng điều chỉnh.
+- **Ngày 2025-06-25:** NTP tăng từ 63.0 lên 63.5. Nến tăng có biên độ rộng, phục hồi từ mức thấp 61.75. Khối lượng giao dịch giảm (255.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi phiên giảm, phiên phục hồi với khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu không đủ mạnh để đảo ngược xu hướng giảm.
+- **Ngày 2025-06-26:** NTP tăng mạnh từ 63.5 lên 64.66. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (572k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, phủ nhận tín hiệu "No Demand" trước đó và cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
+- **Ngày 2025-06-27:** NTP đóng cửa giảm nhẹ ở 64.7. Tuy nhiên, giá mở cửa cao ở 65.7 và bị bán xuống, tạo bóng trên. Khối lượng giao dịch giảm (399.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Up-thrust** hoặc một **Test for Supply** không thành công. Nỗ lực đẩy giá lên cao hơn đã thất bại trước áp lực bán, cho thấy nguồn cung vẫn còn hiện hữu và có thể cản trở đà tăng.
+- **Ngày 2025-06-30:** NTP tăng từ 64.7 lên 65.5. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (213.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Up-thrust** không thành công, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-01:** NTP đi ngang, đóng cửa ở mức 64.7. Nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (213.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu, phiên giảm điểm này tiếp tục xác nhận sự thiếu vắng của lực cầu (**No Demand**). Thị trường vẫn đang trong xu hướng điều chỉnh.
+- **Ngày 2025-07-02:** NTP tăng nhẹ từ 64.7 lên 64.9. Nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (290.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
+- **Ngày 2025-07-03:** NTP giảm từ 64.9 xuống 64.1. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (370.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay NTP tăng nhẹ từ 64.1 lên 64.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (315.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay NTP tăng mạnh từ 64.5 lên 65.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (184.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay NTP tăng mạnh từ 65.5 lên 67.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (658.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay NTP giảm mạnh từ 67.5 xuống 66.7. Cây nến giảm có biên độ rất rộng. Khối lượng giao dịch giảm (317.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này phủ nhận nỗ lực phục hồi của phiên trước, cho thấy phe bán đã quay trở lại và chiếm ưu thế. Đây là một tín hiệu **Sign of Weakness (SOW)**, cảnh báo khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay NTP giảm từ 66.7 xuống 65.8. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (410.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-11:** Sau phiên giảm điểm, hôm nay NTP tăng nhẹ từ 65.8 lên 66.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (335.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
+

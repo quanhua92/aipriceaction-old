@@ -1,0 +1,47 @@
+# DRC
+
+-   **Ngày 2025-06-13:** DRC giảm nhẹ từ 20.4 xuống 20.15, nhưng đáng chú ý là giá đã phục hồi từ mức thấp 19.4. Cây nến có bóng dưới dài, cho thấy có lực cầu bắt đáy. Khối lượng giao dịch ở mức trung bình.
+
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Lực bán đã cố gắng đẩy giá xuống nhưng không thành công và bị lực cầu hấp thụ. Việc giá phục hồi cho thấy áp lực bán ở vùng giá thấp đã suy yếu.
+-   **Ngày 2025-06-16:** DRC tăng nhẹ lên 20.45. Biên độ nến hẹp và khối lượng giao dịch thấp (328.800 đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu này có thể được xem là **No Demand (Không có Nhu cầu)**. Mặc dù phiên trước cho thấy lực bán yếu đi, nhưng phiên này lại cho thấy lực cầu cũng chưa thực sự quay trở lại mạnh mẽ. Cổ phiếu có thể cần thêm thời gian đi ngang để tích lũy năng lượng trước khi có một động thái giá rõ ràng hơn.
+-   **Ngày 2025-06-17:** DRC giảm nhẹ từ 20.45 xuống 20.4. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch tăng nhẹ (575.600 đơn vị) so với phiên trước nhưng vẫn ở mức thấp.
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu này xác nhận lại tín hiệu "No Demand". Nỗ lực đẩy giá lên trong phiên đã thất bại, trong khi khối lượng tăng nhẹ cho thấy có một ít áp lực bán xuất hiện. Lực cầu yếu và không thể duy trì đà tăng.
+-   **Ngày 2025-06-18:** DRC giảm từ 20.4 xuống 20.35. Biên độ nến hẹp và khối lượng giao dịch giảm xuống mức thấp (338.1k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được củng cố. Lực cầu vẫn rất yếu và không thể hỗ trợ giá. Khối lượng thấp cho thấy cả bên bán cũng không mặn mà, thị trường đang trong trạng thái chờ đợi.
+- **Ngày 2025-06-19:** DRC tăng từ 20.35 lên 20.7. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (649.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận các tín hiệu "No Demand" trước đó. Lực cầu đã quay trở lại mạnh mẽ, cho thấy tiềm năng bứt phá khỏi giai đoạn đi ngang.
+- **Ngày 2025-06-20:** DRC giảm nhẹ từ 20.7 xuống 20.65. Nến có biên độ hẹp. Khối lượng giao dịch giảm (366.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên giảm điểm nhẹ với khối lượng thấp này là một **Test for Supply**. Tín hiệu tích cực, cho thấy áp lực bán không lớn.
+- **Ngày 2025-06-23:** DRC tăng từ 20.5 lên 21.05. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (687.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên "Test for Supply" đã thành công.
+- **Ngày 2025-06-24:** DRC tăng từ 21.05 lên 21.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (802.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu "Effort to Rise". Lực cầu vẫn đang duy trì, củng cố cho xu hướng phục hồi.
+- **Ngày 2025-06-25:** DRC giảm nhẹ từ 21.2 xuống 21.1. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch tăng nhẹ (1.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng, phiên này cho thấy sự chững lại và **Test for Supply**. Áp lực bán đã xuất hiện ở vùng giá cao, cản trở đà tăng. Tín hiệu trung tính.
+- **Ngày 2025-06-26:** DRC tăng từ 21.1 lên 21.6. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (906.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" hôm trước, phiên tăng giá này cho thấy lực cầu đã quay trở lại. Mặc dù khối lượng giảm, đây vẫn là một tín hiệu **Effort to Rise** yếu, cho thấy phe mua đang cố gắng tiếp tục xu hướng tăng.
+- **Ngày 2025-06-27:** DRC giảm từ 21.6 xuống 21.3. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (636.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** yếu, phiên giảm điểm này cho thấy lực cầu không thể duy trì và phe bán đã quay trở lại. Đây là một tín hiệu yếu, phủ nhận nỗ lực của phiên trước.
+- **Ngày 2025-06-30:** DRC tăng vọt từ 21.3 lên 22.05. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.28 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém của phiên trước. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-01:** DRC giảm từ 22.05 xuống 21.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (416.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-02:** DRC tăng nhẹ từ 21.7 lên 21.85. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (875.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tín hiệu trung tính.
+- **Ngày 2025-07-03:** DRC giảm từ 21.85 xuống 21.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.29 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên giằng co hôm trước, phiên giảm điểm với khối lượng gia tăng này là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đang quay trở lại và chiếm ưu thế.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DRC giảm từ 21.7 xuống 21.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (809.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DRC đi ngang, đóng cửa ở mức 21.6. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (708.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-08:** Sau phiên đi ngang xác nhận sự yếu kém của lực cầu, phiên hôm nay DRC tăng nhẹ từ 21.6 lên 21.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (742.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng không đột biến cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-09:** Tiếp nối các tín hiệu yếu kém trước đó, phiên hôm nay DRC giảm nhẹ từ 21.8 xuống 21.75. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng mạnh (1.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay DRC tăng nhẹ từ 21.75 lên 21.85. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (747k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay DRC giảm từ 21.85 xuống 21.75. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (641.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
+

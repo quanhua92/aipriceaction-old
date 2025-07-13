@@ -1,0 +1,42 @@
+# QNS
+
+-   **Ngày 2025-06-16:** QNS đi ngang, đóng cửa ở mức 47.2. Nến có biên độ rất hẹp và khối lượng giao dịch thấp (173.8k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** và **No Demand**. Thị trường đang trong trạng thái chờ đợi, không có sự tham gia đáng kể từ cả hai phe.
+-   **Ngày 2025-06-17:** QNS tăng nhẹ từ 47.2 lên 47.4. Nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (282.3k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Lực cầu có sự cải thiện nhẹ nhưng chưa đủ mạnh để tạo ra một xu hướng tăng bền vững.
+-   **Ngày 2025-06-18:** QNS tăng nhẹ từ 47.4 lên 47.6. Biên độ nến khá tốt. Khối lượng giao dịch tăng (437.6k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** tiếp tục được thể hiện. Lực cầu đang dần mạnh lên, củng cố khả năng giá sẽ thoát khỏi giai đoạn tích lũy.
+- **Ngày 2025-06-19:** QNS tăng nhẹ từ 47.6 lên 47.7. Nến có biên độ hẹp. Khối lượng giao dịch giảm (240.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** yếu vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-20:** QNS giảm từ 47.7 xuống 47.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (321.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** yếu vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-23:** QNS giảm từ 47.4 lên 47.3. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (193.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** yếu vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** QNS tăng nhẹ từ 47.3 lên 47.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (295.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** yếu vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-25:** QNS tăng nhẹ từ 47.4 lên 47.5. Nến có biên độ hẹp. Khối lượng giao dịch giảm (194.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** yếu vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-26:** QNS tăng nhẹ từ 47.5 lên 47.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (196.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-27:** QNS giảm nhẹ từ 47.6 xuống 47.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (79.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-30:** QNS tăng nhẹ từ 47.5 lên 47.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (169k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-01:** QNS giảm nhẹ từ 47.6 xuống 47.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (144.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-02:** QNS tăng từ 47.5 lên 47.9. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (277.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay QNS tăng mạnh từ 47.9 lên 48.3. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (133.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay QNS tăng nhẹ từ 48.3 lên 48.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (106.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-08:** Tiếp nối tình trạng **No Demand** của các phiên trước, phiên hôm nay QNS đi ngang, đóng cửa ở mức 48.5. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (161.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-09:** Tiếp nối tình trạng thiếu động lực của các phiên trước, phiên hôm nay QNS đi ngang, đóng cửa ở mức 48.5. Cây nến giảm điểm (mở cửa 48.5) có biên độ hẹp. Khối lượng giao dịch giảm (93.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-10:** Tiếp nối tình trạng thiếu động lực, phiên hôm nay QNS tăng mạnh từ 48.5 lên 48.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (199.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau một thời gian dài thiếu động lực, lực mua đã quay trở lại. Tuy nhiên, khối lượng tổng thể vẫn thấp, cần thêm xác nhận.
+- **Ngày 2025-07-11:** Sau phiên tăng giá, hôm nay QNS tăng nhẹ từ 48.5 lên 48.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (366.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
+
+

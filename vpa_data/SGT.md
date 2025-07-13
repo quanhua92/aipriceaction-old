@@ -1,0 +1,42 @@
+# SGT
+
+-   **Ngày 2025-06-16:** SGT tăng nhẹ từ 17.8 lên 17.8. Nến có biên độ rất hẹp và khối lượng giao dịch cực kỳ thấp (32.0k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply**. Thị trường hoàn toàn thiếu vắng sự tham gia của cả hai phe.
+-   **Ngày 2025-06-17:** SGT đi ngang, đóng cửa ở mức 17.8. Nến có biên độ rất hẹp. Khối lượng giao dịch vẫn cực kỳ thấp (17.2k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+-   **Ngày 2025-06-18:** SGT giảm từ 17.8 xuống 17.65. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch vẫn cực kỳ thấp (109.5k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** tiếp diễn. Một chút áp lực bán xuất hiện nhưng không có ý nghĩa khi thanh khoản gần như không có.
+- **Ngày 2025-06-19:** SGT giảm từ 17.65 xuống 17.6. Nến có biên độ rất hẹp. Khối lượng giao dịch CẠN KIỆT (4.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn.
+- **Ngày 2025-06-20:** SGT tăng từ 17.6 lên 17.6. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (34.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn.
+- **Ngày 2025-06-23:** SGT giảm từ 17.5 lên 17.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (81.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn.
+- **Ngày 2025-06-24:** SGT giảm từ 17.6 lên 17.55. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (66.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn.
+- **Ngày 2025-06-25:** SGT giảm từ 17.55 xuống 17.45. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (16.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-26:** SGT giữ nguyên giá 17.5. Cây nến tăng điểm có bóng dưới. Khối lượng giao dịch CẠN KIỆT (9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-06-27:** SGT đi ngang, đóng cửa ở mức 17.5. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (35.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-06-30:** SGT tăng từ 17.5 lên 17.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (70.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-01:** SGT đi ngang, đóng cửa ở mức 17.5. Nến có biên độ vừa phải. Khối lượng giao dịch tăng (119.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-02:** SGT giảm nhẹ từ 17.5 xuống 17.45. Nến giảm có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (26.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay SGT tăng mạnh từ 17.6 lên 17.85. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (86k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau một thời gian dài thiếu động lực, lực mua đã quay trở lại. Tuy nhiên, khối lượng tổng thể vẫn thấp, cần thêm xác nhận.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay SGT đi ngang, đóng cửa ở mức 17.85. Nến có biên độ hẹp. Khối lượng giao dịch tăng (127.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên đi ngang với khối lượng tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Thị trường vẫn trong trạng thái yếu.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** yếu, phiên hôm nay SGT giảm từ 17.85 xuống 17.95. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (154.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay SGT tiếp tục giảm từ 17.95 xuống 17.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (128.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán đã suy yếu. Đây có thể là một phiên **Test for Supply**. Mặc dù chưa phải là tín hiệu đảo chiều, nhưng nó cho thấy đà giảm đang chững lại.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay SGT đi ngang, đóng cửa ở mức 17.9. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (54.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-11:** Tiếp nối tình trạng thiếu động lực, hôm nay SGT giảm từ 17.9 xuống 17.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (99.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+
+

@@ -1,0 +1,44 @@
+# MSR
+
+-   **Ngày 2025-06-16:** MSR tăng từ 18.0 lên 18.4. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (1.3 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, đây là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để tạo ra một xu hướng tăng bền vững.
+-   **Ngày 2025-06-17:** MSR tăng nhẹ từ 18.4 lên 18.5. Nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch không đổi và vẫn ở mức thấp (1.51 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
+-   **Ngày 2025-06-18:** MSR tăng từ 18.5 lên 18.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (2.28 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã có sự cải thiện đáng kể so với các phiên "No Demand" trước đó, cho thấy tiềm năng bứt phá lên cao hơn.
+- **Ngày 2025-06-19:** MSR giảm từ 18.7 xuống 18.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.72 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán không lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-20:** MSR giảm nhẹ từ 18.5 xuống 18.2. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.54 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía.
+- **Ngày 2025-06-23:** MSR giảm từ 18.2 lên 18.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía.
+- **Ngày 2025-06-24:** MSR tăng từ 17.9 lên 18.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co và thiếu động lực vẫn tiếp diễn.
+- **Ngày 2025-06-25:** MSR đi ngang, đóng cửa ở mức 18.2. Nến có biên độ hẹp. Khối lượng giao dịch giảm (934.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-26:** MSR tăng mạnh từ 18.1 lên 18.6. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (2.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**. Sau một thời gian dài đi ngang thiếu động lực, lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-06-27:** MSR tăng từ 18.6 lên 18.9. Nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (3.17 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Sign of Strength (SOS)** từ phiên trước. Lực cầu vẫn đang duy trì, củng cố cho xu hướng tăng.
+- **Ngày 2025-06-30:** MSR giảm nhẹ từ 18.9 lên 18.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.97 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau hai phiên tăng mạnh, phiên giảm điểm nhẹ với khối lượng giảm này là một **Test for Supply**. Áp lực bán không lớn, là một tín hiệu tích cực.
+- **Ngày 2025-07-01:** MSR giảm từ 18.8 xuống 18.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.72 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng tăng một cách dứt khoát.
+- **Ngày 2025-07-02:** MSR đi ngang, đóng cửa ở mức 18.6. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm, phiên đi ngang với khối lượng giảm này cho thấy sự do dự. Thị trường đang trong trạng thái **No Demand**.
+- **Ngày 2025-07-03:** MSR giảm từ 18.6 xuống 18.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (1.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay MSR tăng nhẹ từ 18.5 lên 18.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (916.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay MSR tăng nhẹ từ 18.6 lên 18.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (1.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay MSR đi ngang, đóng cửa ở mức 18.7. Cây nến có biên độ hẹp. Khối lượng giao dịch không đổi (1.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-09:** Sau chuỗi ngày yếu kém, phiên hôm nay MSR tăng vọt từ 18.7 lên 19.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (4.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)**, phiên hôm nay MSR tăng từ 19.3 lên 19.4. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.22 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay MSR giảm từ 19.4 xuống 18.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (2.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
+
+

@@ -1,0 +1,46 @@
+# FPT
+
+-   **Ngày 2025-06-06:** FPT giảm mạnh xuống còn 114.02. Khối lượng giao dịch tăng lên (5.4 triệu đơn vị), cao hơn so với các phiên trước đó, cho thấy áp lực bán gia tăng.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall (Nỗ lực Giảm giá)**. Giá giảm trên khối lượng tăng là một dấu hiệu tiêu cực trong ngắn hạn, cho thấy phe bán đang kiểm soát.
+-   **Ngày 2025-06-16:** FPT tăng vọt lên 119.00, một mức cao mới. Cây nến có biên độ rất rộng, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch BÙNG NỔ, đạt 8.0 triệu đơn vị, mức cao nhất trong nhiều tuần.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS - Dấu hiệu Sức mạnh)** rất thuyết phục. Hành động giá phá vỡ lên một tầm cao mới với sự hỗ trợ mạnh mẽ của khối lượng cho thấy "dòng tiền thông minh" đang tham gia mạnh mẽ. Tín hiệu này phủ nhận các điểm yếu trước đó và báo hiệu một xu hướng tăng giá mạnh mẽ có thể tiếp diễn.
+-   **Ngày 2025-06-17:** FPT giảm nhẹ từ 119.0 xuống 118.8. Biên độ nến rất hẹp. Khối lượng giao dịch giảm mạnh (4.6 triệu đơn vị) so với phiên SOS bùng nổ trước đó.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên đi ngang tích lũy lành mạnh. Sau một phiên tăng giá mạnh (SOS), việc giá chững lại với khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể. Đây là một tín hiệu tích cực, cho thấy khả năng cao xu hướng tăng sẽ tiếp diễn.
+-   **Ngày 2025-06-18:** FPT giảm mạnh từ 118.8 xuống 117.0. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng (6.55 triệu đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall (Nỗ lực Giảm giá)**. Sau giai đoạn đi ngang, việc giá giảm mạnh trên khối lượng tăng là một dấu hiệu tiêu cực, cho thấy áp lực bán đang gia tăng và có thể tiếp tục điều chỉnh.
+- **Ngày 2025-06-19:** FPT giảm nhẹ từ 117.0 xuống 116.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.4 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Fall". Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-20:** FPT đi ngang, đóng cửa ở mức 116.1. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (4.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giảm, phiên đi ngang với khối lượng thấp này cho thấy áp lực bán đã tạm thời suy yếu. Tuy nhiên, lực cầu cũng chưa quay trở lại. Tín hiệu trung tính.
+- **Ngày 2025-06-23:** FPT giảm từ 115.5 lên 115.9. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (4.58 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực. Lực cầu vẫn chưa đủ mạnh để thay đổi xu hướng.
+- **Ngày 2025-06-24:** FPT tăng nhẹ từ 115.9 lên 116.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (4.26 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực sau các tín hiệu yếu kém trước đó. Sự phục hồi không đáng kể cho thấy lực cầu vẫn yếu.
+- **Ngày 2025-06-25:** FPT tăng từ 116.5 lên 117.1. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (6.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi phiên yếu kém, phiên tăng giá này có thể là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
+- **Ngày 2025-06-26:** FPT giảm nhẹ từ 117.1 xuống 117.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực và thị trường có khả năng điều chỉnh tiếp.
+- **Ngày 2025-06-27:** FPT tăng nhẹ từ 117.0 lên 117.3. Nến có biên độ hẹp. Khối lượng giao dịch tăng (5.26 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-30:** FPT tăng mạnh từ 117.3 lên 118.2. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (6.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau chuỗi ngày giằng co, lực cầu đã quay trở lại một cách quyết đoán, phủ nhận các tín hiệu yếu kém trước đó.
+- **Ngày 2025-07-01:** FPT tăng từ 118.2 lên 118.8. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.6 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên tăng nhẹ với khối lượng giảm này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+- **Ngày 2025-07-02:** FPT giảm từ 118.8 xuống 118.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-03:** FPT giảm từ 118.6 xuống 118.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (6.3 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FPT tăng vọt từ 118.0 lên 122.5. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (12.85 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay FPT tăng từ 122.5 lên 123.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (6.38 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-08:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay FPT tăng mạnh từ 123.8 lên 124.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (8.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay FPT giảm mạnh từ 124.5 xuống 122.8. Cây nến giảm có biên độ rất rộng. Khối lượng giao dịch tăng (12.18 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng giá mạnh mẽ, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay FPT tăng từ 122.8 lên 123.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm mạnh (5.19 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật trên nền **No Demand**, hôm nay FPT tăng mạnh từ 123.9 lên 126.6. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (10.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+
+

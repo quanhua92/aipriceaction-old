@@ -1,0 +1,46 @@
+# BCM
+
+-   **Ngày 2025-06-13:** BCM tăng nhẹ từ 59.2 lên 59.5. Nến có biên độ hẹp nhưng đáng chú ý là có sự phục hồi từ mức thấp trong phiên (57.5), tạo ra bóng dưới dài. Khối lượng giao dịch tăng nhẹ so với các phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây có thể là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Lực bán đã đẩy giá xuống nhưng lực cầu đã hấp thụ và đẩy giá ngược trở lại. Việc giá đóng cửa ở nửa trên của cây nến trên khối lượng tăng nhẹ là một dấu hiệu tích cực, cho thấy lực bán đang suy yếu.
+-   **Ngày 2025-06-16:** BCM đi ngang, đóng cửa ở mức 59.5, không đổi so với phiên trước. Biên độ nến rất hẹp và khối lượng giao dịch THẤP (363.200 đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau một phiên kiểm tra cung thành công, việc giá đi ngang trên khối lượng thấp là một tín hiệu **No Supply (Không có Nguồn Cung)** hoặc cho thấy sự thờ ơ của cả bên mua và bán. Nếu lực bán đã thực sự cạn kiệt, chỉ cần một lực cầu nhỏ cũng có thể đẩy giá lên. Tuy nhiên, phiên này cho thấy cầu cũng chưa mạnh. Cổ phiếu có thể cần thêm một vài phiên đi ngang để tích lũy trước khi có xu hướng mới.
+-   **Ngày 2025-06-17:** BCM giảm nhẹ từ 59.5 xuống 59.3. Giá đã cố gắng tăng lên mức 60.2 nhưng thất bại và bị bán ngược trở lại, tạo ra một cây nến có bóng trên dài. Khối lượng giao dịch tăng nhẹ (441.300 đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Up-thrust** trong ngày, một dạng **Test for Supply (Kiểm tra Nguồn cung)** không thành công. Nỗ lực đẩy giá lên đã gặp phải áp lực bán mạnh. Việc giá đóng cửa ở nửa dưới của cây nến trên khối lượng gia tăng là một dấu hiệu yếu kém, cho thấy phe bán đang quay trở lại và có khả năng giá sẽ tiếp tục điều chỉnh.
+-   **Ngày 2025-06-18:** BCM tăng nhẹ từ 59.3 lên 59.4. Nến có biên độ hẹp và đóng cửa ở giữa cây nến. Khối lượng giao dịch giảm xuống mức thấp (383.3k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau tín hiệu Up-thrust không thành công của phiên trước, phiên đi ngang với khối lượng thấp này cho thấy áp lực bán đã tạm thời suy yếu. Đây có thể là tín hiệu **No Supply**, nhưng lực cầu cũng chưa quay trở lại. Tình hình vẫn đang giằng co.
+- **Ngày 2025-06-19:** BCM giảm từ 59.4 xuống 59.0. Cây nến có biên độ giảm vừa phải, có lực hồi phục nhẹ từ đáy. Khối lượng giao dịch vẫn duy trì ở mức thấp (375.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Supply** và **No Demand** vẫn tiếp diễn. Thị trường vẫn đang trong trạng thái giằng co, thiếu động lực rõ ràng từ cả hai phía.
+- **Ngày 2025-06-20:** BCM giảm từ 59.0 xuống 58.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch vẫn duy trì ở mức thấp (341.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Áp lực bán dù nhỏ vẫn đủ để đẩy giá xuống, cho thấy sự yếu kém của phe mua. Thị trường vẫn trong trạng thái giằng co, thiếu động lực.
+- **Ngày 2025-06-23:** BCM tăng mạnh từ 58.6 lên 60.1. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (594.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại mạnh mẽ, cho thấy tiềm năng bứt phá khỏi giai đoạn đi ngang.
+- **Ngày 2025-06-24:** BCM tiếp tục tăng mạnh từ 60.1 lên 61.5. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng vọt (1.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát, có khả năng tiếp tục đẩy giá lên.
+- **Ngày 2025-06-25:** BCM tăng nhẹ từ 61.5 lên 61.8. Biên độ nến hẹp hơn so với các phiên tăng mạnh trước đó. Khối lượng giao dịch giảm mạnh (599.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau hai phiên tăng giá mạnh mẽ, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-06-26:** BCM tăng nhẹ từ 61.8 lên 62.1. Nến có biên độ hẹp, đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (492.1k đơn vị) và ở mức thấp.
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng nhẹ trên khối lượng thấp này là một tín hiệu **No Supply**, cho thấy lực bán đã cạn kiệt. Điều này tạo điều kiện thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-06-27:** BCM tăng mạnh từ 62.1 lên 63.0. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (742.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **No Supply** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-06-30:** BCM tiếp tục tăng vọt từ 63.0 lên 64.2. Cây nến có biên độ rất rộng, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm nhẹ (626.1k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Việc giá tăng dễ dàng trên khối lượng thấp hơn cho thấy nguồn cung đã cạn kiệt (**No Supply**), giúp phe mua không cần tốn nhiều sức lực để đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-01:** BCM tăng nhẹ từ 64.2 lên 64.5. Tuy nhiên, giá đã cố gắng tăng lên 64.8 nhưng bị bán ngược trở lại, tạo bóng trên. Khối lượng giao dịch tăng (950.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh, đây là một phiên **Test for Supply** ở vùng giá cao. Nỗ lực đẩy giá lên đã gặp phải áp lực bán. Việc giá không giữ được mức cao trên khối lượng gia tăng là một tín hiệu cảnh báo, cho thấy đà tăng có thể đang chững lại.
+- **Ngày 2025-07-02:** BCM tăng vọt từ 64.5 lên 68.2. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (1.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**, xác nhận cho chuỗi tăng giá mạnh mẽ trước đó. Sức mạnh của phe mua được thể hiện một cách áp đảo, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-03:** BCM giảm từ 68.2 xuống 66.4. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng nhẹ (1.6 triệu đơn vị) so với phiên SOS trước.
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên giảm điểm với khối lượng vẫn ở mức cao này là một **Test for Supply** mạnh mẽ. Áp lực bán chốt lời đã xuất hiện và chiếm ưu thế trong phiên, là một tín hiệu cảnh báo về một đợt điều chỉnh.
+- **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** mạnh mẽ của ngày hôm trước, phiên hôm nay BCM giảm từ 66.4 xuống 65.5. Cây nến có biên độ giảm rộng. Khối lượng giao dịch giảm mạnh (596.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau phiên kiểm tra cung không thành công xác nhận áp lực bán vẫn còn hiện hữu. Đây là một **Sign of Weakness (SOW)**, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay BCM tăng nhẹ từ 65.5 lên 66.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (592.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay BCM tăng mạnh từ 66.0 lên 67.5. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (700.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay BCM tiếp tục tăng từ 67.5 lên 68.6. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng nhẹ (803.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là sự xác nhận cho tín hiệu tăng giá trước đó, cho thấy sức mạnh của phe mua là bền vững và xu hướng tăng đang được củng cố. Tín hiệu rất tích cực.
+- **Ngày 2025-07-10:** Tiếp nối chuỗi tăng giá, phiên hôm nay BCM đi ngang, đóng cửa ở mức 68.6. Cây nến có biên độ hẹp, cho thấy sự chững lại. Khối lượng giao dịch giảm (569k đơn vị) so với phiên tăng trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau chuỗi tăng, thị trường đang tạm nghỉ để hấp thụ lực bán. Việc giá không giảm trên khối lượng giảm là một tín hiệu tích cực.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay BCM giảm nhẹ từ 68.6 xuống 68.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tiếp tục giảm (512.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Điều này cho thấy lực bán đang cạn kiệt và tạo điều kiện cho một đợt phục hồi.
+
+

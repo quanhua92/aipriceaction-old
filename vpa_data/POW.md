@@ -1,0 +1,42 @@
+# POW
+
+-   **Ngày 2025-06-16:** POW tăng từ 12.8 lên 13.05. Nến có biên độ hẹp và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (7.31 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, đây là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để tạo ra một xu hướng tăng bền vững.
+-   **Ngày 2025-06-17:** POW tăng mạnh từ 13.0 lên 13.2. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch không đổi và vẫn ở mức thấp (6.64 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, khối lượng thấp vẫn là một dấu hiệu của **No Demand**. Đà tăng này có thể không bền vững và dễ bị đảo ngược.
+-   **Ngày 2025-06-18:** POW giảm từ 13.2 xuống 13.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (6.09 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Giá không thể duy trì đà tăng và bắt đầu điều chỉnh, cho thấy lực cầu yếu ớt không thể thắng thế.
+- **Ngày 2025-06-19:** POW giảm từ 13.1 xuống 13.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (5.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-20:** POW đi ngang, đóng cửa ở mức 13.05. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (4.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-23:** POW giảm từ 13.1 lên 13.05. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (7.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** POW tăng nhẹ từ 13.05 lên 13.1. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-25:** POW giảm nhẹ từ 13.1 lên 13.0. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (5.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và không thể bứt phá, cho thấy khả năng cao sẽ tiếp tục đi ngang.
+- **Ngày 2025-06-26:** POW giảm nhẹ từ 13.0 xuống 12.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.55 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
+- **Ngày 2025-06-27:** POW đi ngang, đóng cửa ở mức 12.95. Nến có biên độ hẹp. Khối lượng giao dịch tăng (4.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
+- **Ngày 2025-06-30:** POW giảm nhẹ từ 12.95 lên 13.0. Nến có biên độ hẹp. Khối lượng giao dịch tăng (5.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-01:** POW đi ngang, đóng cửa ở mức 13.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (5.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-02:** POW giảm từ 13.0 xuống 12.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (4.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay POW tăng từ 13.25 lên 13.45. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (16.6 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay POW giảm từ 13.45 xuống 13.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (11.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-08:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay POW đi ngang, đóng cửa ở mức 13.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.34 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
+- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay POW tăng từ 13.45 lên 13.55. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng mạnh (20.49 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay POW giảm từ 13.55 xuống 13.5. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.79 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay POW giảm nhẹ từ 13.5 xuống 13.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (11.37 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán vẫn còn hiện hữu. Lực cầu chưa quay trở lại mạnh mẽ để tiếp tục đà tăng, cho thấy thị trường cần thêm thời gian tích lũy.
+
+

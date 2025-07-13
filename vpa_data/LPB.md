@@ -1,0 +1,46 @@
+# LPB
+
+-   **Ngày 2025-06-11:** LPB có một phiên giao dịch đi ngang với biên độ nến cực hẹp. Đáng chú ý nhất là khối lượng giao dịch đã cạn kiệt, chỉ còn 0.95 triệu đơn vị, mức thấp nhất trong một thời gian rất dài.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn Cung)** rõ ràng. Sau một nhịp điều chỉnh, việc khối lượng giao dịch biến mất ở vùng giá thấp cho thấy không còn ai muốn bán ra nữa. Đây là một điều kiện tiên quyết thuận lợi cho việc giá có thể tăng trở lại.
+-   **Ngày 2025-06-13:** Giá gần như không đổi nhưng khối lượng giao dịch tăng đột biến trở lại (3.0 triệu đơn vị) so với phiên "No Supply" trước đó.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. "Dòng tiền thông minh" có thể đang kiểm tra xem liệu còn lực bán nào còn sót lại hay không bằng cách đẩy một khối lượng giao dịch vào thị trường. Việc giá không giảm mạnh trước khối lượng này là một dấu hiệu tích cực, xác nhận rằng lực bán thực sự đã yếu đi.
+-   **Ngày 2025-06-17:** LPB tăng vọt từ 31.65 lên 32.35. Cây nến có biên độ rất rộng, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 4.0 triệu đơn vị.
+    -   **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength (SOS)**, là kết quả của các tín hiệu "No Supply" và "Test for Supply" thành công trước đó. Khi nguồn cung đã được xác nhận là cạn kiệt, phe mua đã dễ dàng quay lại và đẩy giá lên một cách dứt khoát. Tín hiệu này xác nhận một xu hướng tăng mới có thể đã bắt đầu.
+-   **Ngày 2025-06-18:** LPB giảm từ 32.35 xuống 31.95. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.94 triệu đơn vị) so với phiên SOS.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một dấu hiệu tốt, cho thấy đây có thể chỉ là một nhịp nghỉ trước khi tiếp tục tăng.
+- **Ngày 2025-06-19:** LPB tăng từ 31.95 lên 32.4. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (2.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại mạnh mẽ.
+- **Ngày 2025-06-20:** LPB giảm từ 32.4 xuống 31.9. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (2.05 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán không quá lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-23:** LPB giảm từ 31.9 lên 31.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (2.17 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** LPB giảm từ 31.6 lên 31.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.4 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-25:** LPB đi ngang, đóng cửa ở mức 31.8. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (1.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co và thiếu động lực vẫn tiếp diễn sau chuỗi ngày giảm giá. Thị trường đang chờ đợi một tín hiệu mới.
+- **Ngày 2025-06-26:** LPB giữ nguyên giá 31.8. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.07 triệu đơn vị) và ở mức thấp.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-27:** LPB tăng nhẹ từ 31.8 lên 31.95. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (1.84 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-30:** LPB tăng từ 31.95 lên 32.25. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (2.64 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-07-01:** LPB giảm từ 32.25 xuống 32.15. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên tăng giá yếu ớt, phiên giảm điểm này xác nhận tình trạng **No Demand**. Lực cầu không thể duy trì và phe bán dễ dàng đẩy giá xuống. Tình hình vẫn đang giằng co.
+- **Ngày 2025-07-02:** LPB tăng nhẹ từ 32.15 lên 32.35. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (2.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự do dự. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn không chắc chắn.
+- **Ngày 2025-07-03:** LPB tăng từ 32.35 lên 32.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (2.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co, phiên tăng giá với khối lượng gia tăng này là một tín hiệu **Effort to Rise**. Lực cầu đang quay trở lại, cho thấy khả năng xu hướng phục hồi sẽ tiếp diễn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay LPB tăng từ 32.5 lên 32.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (3.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay LPB tăng vọt từ 32.75 lên 33.5. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch tăng mạnh (5.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận các phiên kiểm tra cung trước đó đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay LPB giảm từ 33.5 xuống 33.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (2.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay LPB giảm mạnh từ 33.7 xuống 33.15. Cây nến giảm có biên độ rất rộng. Khối lượng giao dịch tăng (3.79 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Việc giá giảm mạnh trên khối lượng gia tăng sau một phiên bùng nổ cho thấy áp lực bán đã quay trở lại và chiếm ưu thế, phủ nhận các tín hiệu tích cực trước đó.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay LPB đi ngang, đóng cửa ở mức 33.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (2.84 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay LPB giảm từ 33.3 xuống 33.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.29 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
+

@@ -1,0 +1,44 @@
+# VCG
+
+-   **Ngày 2025-06-16:** VCG tăng mạnh từ 19.7 lên 20.15. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (5.86 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, khối lượng thấp cho thấy tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+-   **Ngày 2025-06-17:** VCG tăng mạnh từ 20.2 lên 20.6. Biên độ nến rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng cao (12.36 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại và chiếm ưu thế, phủ nhận tín hiệu "No Demand" của phiên trước. Đây là một diễn biến tích cực, cho thấy khả năng phục hồi có thể tiếp diễn.
+-   **Ngày 2025-06-18:** VCG tăng nhẹ từ 20.6 lên 20.85. Nến có biên độ hẹp nhưng đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (15.2 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của **Effort to Rise**. Lực cầu vẫn duy trì tốt và đang hấp thụ lượng cung. Việc giá tiếp tục đi lên trên nền khối lượng cao là một tín hiệu tích cực.
+- **Ngày 2025-06-19:** VCG giảm từ 20.85 xuống 20.75. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (6.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi nỗ lực tăng giá. Áp lực bán không lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-20:** VCG tăng mạnh từ 20.75 lên 21.35. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (14.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán.
+- **Ngày 2025-06-23:** VCG tăng từ 21.25 lên 21.95. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (16.4 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" đã thành công.
+- **Ngày 2025-06-24:** VCG giảm từ 21.95 xuống 21.6. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (10.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán không lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-25:** VCG giảm nhẹ từ 21.6 xuống 21.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (6.16 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" ngày 24/06, phiên giảm nhẹ này cho thấy thị trường vẫn đang trong giai đoạn điều chỉnh. Áp lực bán đã giảm nhưng lực cầu vẫn chưa đủ mạnh để tiếp tục xu hướng tăng.
+- **Ngày 2025-06-26:** VCG tăng từ 21.55 lên 21.75. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (9.94 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên điều chỉnh, lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy khả năng xu hướng tăng sẽ tiếp diễn.
+- **Ngày 2025-06-27:** VCG tăng nhẹ từ 21.75 lên 22.0. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (13.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của **Effort to Rise**. Lực cầu vẫn duy trì tốt và đang hấp thụ lượng cung. Việc giá tiếp tục đi lên trên nền khối lượng cao là một tín hiệu tích cực.
+- **Ngày 2025-06-30:** VCG tăng từ 22.0 lên 22.05. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (6.42 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên **Effort to Rise**, phiên tăng chậm lại với khối lượng giảm này cho thấy sự do dự và kiểm tra lại cung cầu. Đây là một **Test for Supply** ở vùng giá cao. Tín hiệu trung tính.
+- **Ngày 2025-07-01:** VCG tăng mạnh từ 22.05 lên 23.05. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (24.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận các phiên "Test for Supply" trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-02:** VCG giảm từ 23.05 xuống 22.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (8.88 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-03:** VCG tăng từ 22.7 lên 23.0. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (14.68 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VCG giảm từ 23.0 xuống 22.85. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (9.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay VCG giảm từ 22.85 xuống 22.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
+- **Ngày 2025-07-08:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay VCG giảm từ 22.9 xuống 22.85. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (7.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
+- **Ngày 2025-07-09:** Tiếp nối các phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay VCG giảm nhẹ từ 22.85 xuống 22.8. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (11.81 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía, tiếp tục đi ngang trong biên độ hẹp.
+- **Ngày 2025-07-10:** Tiếp nối các phiên **Test for Supply**, hôm nay VCG tăng từ 22.8 lên 23.1. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (14.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng các phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng phục hồi.
+- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay VCG giảm từ 23.1 xuống 22.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (12.22 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
+

@@ -1,0 +1,44 @@
+# CTR
+
+-   **Ngày 2025-06-16:** CTR tăng mạnh từ 96.5 lên 100.8. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng cao (1.54 triệu đơn vị) so với các phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**. Lực cầu mạnh đã quay trở lại và đẩy giá vượt qua vùng kháng cự với sự hỗ trợ của khối lượng lớn, cho thấy tiềm năng tiếp tục xu hướng tăng.
+-   **Ngày 2025-06-17:** CTR giảm nhẹ từ 100.8 xuống 100.0. Biên độ nến hẹp, giá đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm mạnh (574.7k đơn vị) so với phiên tăng mạnh trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên SOS. Áp lực bán không lớn, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh lành mạnh, chưa có tín hiệu tiêu cực.
+-   **Ngày 2025-06-18:** CTR giảm nhẹ từ 100.0 xuống 99.8. Cây nến có biên độ hẹp và có bóng dưới, cho thấy có lực đỡ ở giá thấp. Khối lượng giao dịch tăng nhẹ (851.6k đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Phiên này tiếp tục là một **Test for Supply**. Mặc dù có lực cầu bắt đáy, việc giá không thể phục hồi mạnh mẽ cho thấy sự thận trọng của cả hai bên. Cổ phiếu đang trong giai đoạn tích lũy lại sau phiên SOS.
+- **Ngày 2025-06-19:** CTR giảm nhẹ từ 99.8 xuống 99.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (500.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Phiên giảm điểm trên khối lượng thấp cho thấy cả hai phe mua và bán đều không quyết liệt. Thị trường đang trong giai đoạn tích lũy.
+- **Ngày 2025-06-20:** CTR giảm nhẹ từ 99.5 xuống 98.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch vẫn ở mức thấp (457.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Phiên giảm điểm trên khối lượng thấp cho thấy cả hai phe mua và bán đều không quyết liệt. Thị trường đang trong giai đoạn tích lũy sau phiên SOS ngày 16/06.
+- **Ngày 2025-06-23:** CTR tăng từ 97.5 lên 99.0. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (697.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên cạn kiệt khối lượng, lực cầu đã quay trở lại.
+- **Ngày 2025-06-24:** CTR giảm nhẹ từ 99.0 xuống 99.0. Biên độ nến rất hẹp. Khối lượng giao dịch giảm (633.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên đi ngang này cho thấy sự do dự. Thị trường đang trong giai đoạn tích lũy.
+- **Ngày 2025-06-25:** CTR giảm nhẹ từ 99.0 xuống 98.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (415.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giằng co, phiên giảm điểm với khối lượng thấp này cho thấy cả hai phe mua và bán đều không quyết liệt (**No Demand** và **No Supply**). Thị trường tiếp tục tích lũy.
+- **Ngày 2025-06-26:** CTR giảm từ 98.6 xuống 97.9. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ và vẫn ở mức thấp (336.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Áp lực bán dù nhỏ cũng đủ để đẩy giá xuống, cho thấy sự yếu kém của phe mua. Thị trường vẫn đang trong giai đoạn tích lũy sau phiên SOS ngày 16/06.
+- **Ngày 2025-06-27:** CTR tăng vọt từ 97.9 lên 102.3. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng đã được thiết lập từ phiên SOS ngày 16/06.
+- **Ngày 2025-06-30:** CTR tăng từ 102.3 lên 102.8. Tuy nhiên, giá đã cố gắng tăng lên 105.0 nhưng bị bán ngược trở lại, tạo bóng trên rất dài. Khối lượng giao dịch giảm mạnh (568.2k đơn vị) so với phiên SOS trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** hoặc một **Up-thrust**. Nỗ lực đẩy giá lên cao hơn đã thất bại trước áp lực bán. Việc giá không giữ được mức cao nhất, ngay cả trên khối lượng thấp, là một tín hiệu cảnh báo rằng đà tăng đang chững lại và có thể cần điều chỉnh.
+- **Ngày 2025-07-01:** CTR giảm từ 102.8 xuống 102.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (461.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Up-thrust** không thành công, phiên giảm điểm này xác nhận phe bán đang quay trở lại. Đây là một tín hiệu yếu, củng cố khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-02:** CTR giảm từ 102.0 xuống 100.6. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (748.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu yếu của phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-03:** CTR giảm nhẹ từ 100.6 xuống 100.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (481.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên giảm điểm với khối lượng thấp hơn này là một **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay CTR tăng nhẹ từ 100.5 lên 101.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch không đổi (483.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay CTR tăng nhẹ từ 101.7 lên 101.8. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (442.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay CTR tăng từ 101.8 lên 103.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (769.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay CTR giảm nhẹ từ 103.4 xuống 103.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (517k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay CTR giảm từ 103.0 xuống 102.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (565.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay CTR giảm nhẹ từ 102.4 xuống 101.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (623.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
+

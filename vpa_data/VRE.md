@@ -1,0 +1,48 @@
+# VRE
+
+-   **Ngày 2025-06-13:** VRE giảm mạnh xuống 24.55. Biên độ nến giảm rất rộng và khối lượng giao dịch tăng vọt lên 8.1 triệu đơn vị.
+
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Giá giảm mạnh, phá vỡ các vùng hỗ trợ gần nhất trên nền khối lượng lớn là một tín hiệu rất tiêu cực, cho thấy phe bán đang hoàn toàn kiểm soát.
+
+-   **Ngày 2025-06-16:** VRE đi ngang, đóng cửa ở 24.5, gần như không đổi. Biên độ nến rất hẹp và khối lượng giao dịch thấp hơn nhiều (4.6 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau một phiên bán tháo (SOW), việc giá chững lại và giao dịch với khối lượng thấp là một tín hiệu **No Demand (Không có Nhu cầu)**. Sự thiếu vắng lực cầu để đẩy giá phục hồi là một dấu hiệu xấu, cho thấy xu hướng giảm có khả năng sẽ còn tiếp diễn.
+-   **Ngày 2025-06-17:** VRE tăng nhẹ từ 24.5 lên 24.55. Biên độ nến hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (4.8 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tiếp tục là tín hiệu **No Demand**. Sự phục hồi không đáng kể trên nền khối lượng thấp sau một phiên SOW mạnh mẽ xác nhận rằng phe mua rất yếu và không quan tâm đến cổ phiếu ở mức giá này. Tình hình vẫn tiêu cực.
+-   **Ngày 2025-06-18:** VRE tăng nhẹ từ 24.55 lên 24.65. Biên độ nến hẹp. Khối lượng giao dịch giảm xuống mức thấp (2.18 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Sự phục hồi không đáng kể và yếu ớt trên nền khối lượng thấp tiếp tục xác nhận sự thờ ơ của phe mua. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-19:** VRE tăng nhẹ từ 24.65 lên 24.7. Nến có biên độ hẹp. Khối lượng giao dịch tăng (3.16 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-20:** VRE giảm từ 24.7 xuống 24.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (3.78 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+- **Ngày 2025-06-23:** VRE tăng từ 24.3 lên 24.75. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (6.22 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu đi ngang trước đó.
+- **Ngày 2025-06-24:** VRE tăng từ 24.75 lên 24.9. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (5.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại mạnh mẽ hơn.
+- **Ngày 2025-06-25:** VRE giảm từ 24.9 xuống 24.65. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (4.18 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên phục hồi, phiên giảm điểm này cho thấy sự do dự và kiểm tra lại cung cầu. Tín hiệu trung tính.
+- **Ngày 2025-06-26:** VRE giảm từ 24.65 xuống 24.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.32 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên phục hồi, phiên giảm điểm này cho thấy sự do dự. Lực cầu không thể duy trì đà tăng, thị trường vẫn trong trạng thái **No Demand**.
+- **Ngày 2025-06-27:** VRE tăng từ 24.5 lên 24.8. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (3.63 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giảm, phiên tăng giá này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-30:** VRE giảm từ 24.8 xuống 24.65. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên phục hồi, phiên giảm điểm này cho thấy sự do dự. Lực cầu không thể duy trì đà tăng, thị trường vẫn trong trạng thái **No Demand**.
+- **Ngày 2025-07-01:** VRE tăng nhẹ từ 24.65 lên 24.8. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.53 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giằng co, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+- **Ngày 2025-07-02:** VRE tăng từ 24.8 lên 25.2. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (3.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên tăng giá mạnh mẽ này là một tín hiệu **Effort to Rise**, cho thấy lực cầu đã quay trở lại.
+- **Ngày 2025-07-03:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VRE giảm từ 25.2 xuống 25.05. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (6.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận nỗ lực tăng giá của phiên trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VRE tăng nhẹ từ 25.05 lên 25.15. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VRE tăng nhẹ từ 25.15 lên 25.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.75 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay VRE tăng mạnh từ 25.5 lên 25.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.44 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
+- **Ngày 2025-07-09:** Sau chuỗi ngày yếu kém, phiên hôm nay VRE tăng vọt từ 25.8 lên 26.8. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (7.69 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)**, phiên hôm nay VRE tăng vọt từ 26.8 lên 28.45. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (13.97 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+- **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay VRE tăng từ 28.45 lên 28.6. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (7.47 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+
+

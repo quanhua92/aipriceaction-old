@@ -1,0 +1,44 @@
+# SIP
+
+-   **Ngày 2025-06-16:** SIP tăng từ 64.4 lên 64.9. Nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch thấp (315.6k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, đây là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để tạo ra một xu hướng tăng bền vững.
+-   **Ngày 2025-06-17:** SIP tăng nhẹ từ 64.9 lên 65.0. Nến có biên độ hẹp và đóng cửa ở giữa, cho thấy sự do dự. Khối lượng giao dịch không đổi và vẫn ở mức thấp (286.2k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
+-   **Ngày 2025-06-18:** SIP giảm từ 65.0 xuống 64.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch vẫn ở mức thấp (238.6k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** đã được xác nhận. Áp lực bán nhẹ đã xuất hiện và đẩy giá xuống, cho thấy sự yếu kém của lực cầu.
+- **Ngày 2025-06-19:** SIP tăng từ 64.6 lên 65.5. Nến có biên độ rộng. Khối lượng giao dịch tăng (397.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận các tín hiệu "No Demand" trước đó. Lực cầu đã quay trở lại.
+- **Ngày 2025-06-20:** SIP giảm từ 65.5 xuống 63.9. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng vọt (1.02 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau phiên "Effort to Rise", áp lực bán đã quay trở lại và chiếm ưu thế.
+- **Ngày 2025-06-23:** SIP tăng vọt từ 64.2 lên 67.0. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (595.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-06-24:** SIP tăng từ 67.0 lên 67.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (958.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, cho thấy lực cầu đã quay trở lại.
+- **Ngày 2025-06-25:** SIP tăng từ 67.2 lên 68.1. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (743.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên biến động mạnh, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đang duy trì nhưng đã yếu đi. Đây là một tín hiệu chững lại.
+- **Ngày 2025-06-26:** SIP tăng từ 68.1 lên 68.9. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ (790.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên biến động, lực cầu đã quay trở lại, củng cố cho xu hướng phục hồi.
+- **Ngày 2025-06-27:** SIP giảm từ 68.9 xuống 68.2. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (511k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi nỗ lực tăng giá. Áp lực bán không lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-30:** SIP tăng từ 68.2 lên 68.8. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (432.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
+- **Ngày 2025-07-01:** SIP tăng nhẹ từ 68.8 lên 69.1. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (662.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** hôm trước, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Thị trường vẫn trong trạng thái yếu.
+- **Ngày 2025-07-02:** SIP tăng vọt từ 69.1 lên 73.9. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-03:** SIP giảm mạnh từ 73.9 xuống 68.9. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch tăng (2.29 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay SIP đi ngang, đóng cửa ở mức 69.0. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.14 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên giảm mạnh, phiên đi ngang với khối lượng giảm này cho thấy áp lực bán đã tạm thời suy yếu. Tuy nhiên, lực cầu cũng chưa quay trở lại. Đây là một tín hiệu **No Demand**, củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-07:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay SIP tăng mạnh từ 69.0 lên 70.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (1.1 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay SIP tăng mạnh từ 70.6 lên 71.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (948.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply** của phiên trước, phiên hôm nay SIP giảm từ 71.8 xuống 70.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (532.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay SIP tăng nhẹ từ 70.9 lên 71.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (622.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên kiểm tra cung, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
+- **Ngày 2025-07-11:** Sau phiên tăng yếu ớt, hôm nay SIP giảm từ 71.0 xuống 70.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (632.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+
+

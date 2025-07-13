@@ -1,0 +1,44 @@
+# DHG
+
+-   **Ngày 2025-06-16:** DHG đi ngang, đóng cửa ở mức 98.8. Biên độ nến rất hẹp và khối lượng giao dịch cực kỳ thấp (13.4k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply (Không có Nguồn Cung)**. Thị trường hoàn toàn thiếu vắng áp lực bán, tạo điều kiện cho một đợt tăng giá nếu có lực cầu xuất hiện.
+-   **Ngày 2025-06-17:** DHG tăng từ 98.8 lên 99.6. Cây nến có biên độ rộng hơn và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh (61.6k đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau phiên "No Supply", lực cầu đã quay trở lại và đẩy giá lên, xác nhận sự cạn kiệt của phe bán. Đây là một tín hiệu tích cực cho thấy khả năng tăng giá tiếp diễn.
+-   **Ngày 2025-06-18:** DHG đi ngang, đóng cửa ở mức 99.6. Nến có biên độ rất hẹp và khối lượng giao dịch giảm mạnh (16.8k đơn vị) so với phiên nỗ lực tăng trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau khi lực cầu xuất hiện, phiên đi ngang với khối lượng cạn kiệt này cho thấy bên mua không tiếp tục đẩy giá một cách quyết liệt. Cổ phiếu có thể cần đi ngang tích lũy thêm.
+- **Ngày 2025-06-19:** DHG đi ngang, đóng cửa ở mức 99.6. Nến có biên độ rất hẹp. Khối lượng giao dịch CẠN KIỆT (13.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-06-20:** DHG đi ngang, đóng cửa ở mức 99.6. Nến có biên độ rất hẹp. Khối lượng giao dịch CẠN KIỆT (8.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-06-23:** DHG đi ngang, đóng cửa ở mức 99.6. Nến có biên độ rất hẹp. Khối lượng giao dịch CẠN KIỆT (20.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-06-24:** DHG giảm nhẹ từ 99.6 xuống 99.5. Biên độ nến rất hẹp. Khối lượng giao dịch CẠN KIỆT (19.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-25:** DHG giảm nhẹ từ 99.5 xuống 99.5. Biên độ nến rất hẹp. Khối lượng giao dịch CẠN KIỆT (5.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-26:** DHG tăng nhẹ từ 99.5 lên 99.8. Nến tăng có biên độ vừa phải. Khối lượng giao dịch vẫn CẠN KIỆT (17.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-27:** DHG giảm từ 99.8 xuống 99.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (4.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng.
+- **Ngày 2025-06-30:** DHG tăng nhẹ từ 99.5 lên 99.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (11.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-01:** DHG giảm nhẹ từ 99.7 xuống 99.5. Nến giảm có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (8.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-02:** DHG tăng vọt từ 99.5 lên 100.7. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (49.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau một thời gian dài thiếu động lực, lực mua đã quay trở lại một cách quyết đoán.
+- **Ngày 2025-07-03:** DHG đi ngang, đóng cửa ở mức 100.7. Nến có biên độ hẹp. Khối lượng giao dịch giảm (27.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ, phiên đi ngang với khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, cho thấy xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay DHG đi ngang, đóng cửa ở mức 100.7. Nến có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (9.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Việc giá đi ngang trên khối lượng cực thấp cho thấy áp lực bán gần như không còn, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Supply (Không có Nguồn cung)** của phiên trước, phiên hôm nay DHG tăng nhẹ từ 100.7 lên 100.9. Nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (14.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply** của phiên trước, phiên hôm nay DHG tăng mạnh từ 100.9 lên 101.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch CẠN KIỆT (14.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply**, phiên hôm nay DHG giảm nhẹ từ 101.6 xuống 101.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch vẫn ở mức CẠN KIỆT (20.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** cực kỳ tích cực. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu **No Supply**, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply** cực kỳ tích cực, hôm nay DHG đi ngang, đóng cửa ở mức 101.4. Cây nến có biên độ hẹp. Khối lượng giao dịch vẫn ở mức CẠN KIỆT (15k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp diễn. Việc giá đi ngang trên khối lượng cực thấp cho thấy áp lực bán gần như không còn, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-11:** Sau chuỗi tín hiệu **No Supply**, hôm nay DHG giảm nhẹ từ 101.4 xuống 100.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch vẫn ở mức CẠN KIỆT (16.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** trên nền khối lượng cạn kiệt. Áp lực bán gần như không có. Tín hiệu này vẫn rất tích cực, củng cố cho sự cạn kiệt của nguồn cung.
+
+

@@ -1,0 +1,48 @@
+# VIC
+
+-   **Ngày 2025-06-10:** VIC có một phiên biến động cực mạnh. Giá mở cửa giảm sâu xuống 86.0 nhưng sau đó phục hồi mạnh mẽ để đóng cửa ở 90.6. Khối lượng giao dịch rất lớn, đạt 6.8 triệu đơn vị.
+    -   **Phân tích VPA/Wyckoff:** Đây là một hành động **Selling Climax (Cao trào Bán)** hoặc một cú **Shakeout (Rũ bỏ)** điển hình. Lực bán hoảng loạn vào đầu phiên đã được hấp thụ hoàn toàn bởi một lực mua mạnh, thể hiện qua việc giá phục hồi ấn tượng.
+-   **Ngày 2025-06-11:** Ngay sau phiên rũ bỏ, VIC giao dịch trong một biên độ rất hẹp với khối lượng cực kỳ thấp (1.4 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu này là **No Supply (Không có Nguồn Cung)**. Nó xác nhận rằng áp lực bán đã cạn kiệt sau phiên cao trào trước đó. Đây là một tín hiệu tích cực.
+-   **Ngày 2025-06-16:** Giá chỉ biến động nhẹ và đóng cửa gần như không đổi so với phiên trước. Khối lượng giao dịch vẫn duy trì ở mức thấp (2.5 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu này có thể được xem là **No Demand (Không có Nhu cầu)**. Mặc dù nguồn cung đã cạn kiệt, nhưng lực cầu vẫn chưa quay trở lại một cách mạnh mẽ để đẩy giá lên. Cổ phiếu có thể cần thêm thời gian đi ngang để tích lũy trước khi có một xu hướng mới.
+-   **Ngày 2025-06-17:** VIC tăng mạnh từ 85.4 lên 87.7. Biên độ nến rất rộng, giá đã cố gắng tăng lên 90.8 nhưng bị bán ngược trở lại. Khối lượng tăng (3.3 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise (Nỗ lực Tăng giá)**, cho thấy lực cầu đã quay trở lại sau các phiên đi ngang. Tuy nhiên, việc giá không giữ được mức cao nhất cho thấy vẫn còn áp lực cung ở phía trên. Đây là một tín hiệu tích cực nhưng vẫn cần xác nhận thêm.
+-   **Ngày 2025-06-18:** VIC tăng nhẹ từ 87.7 lên 88.0. Cây nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng giá, phiên tăng chậm lại với khối lượng thấp cho thấy một sự tạm nghỉ. Đây là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+- **Ngày 2025-06-19:** VIC tăng mạnh từ 88.0 lên 89.4. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (3.24 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" đã thành công.
+- **Ngày 2025-06-20:** VIC giảm mạnh từ 89.4 xuống 86.8. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch tăng vọt (13.29 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Sau chuỗi nỗ lực tăng giá, áp lực bán đã quay trở lại một cách mạnh mẽ, cho thấy sự yếu kém và khả năng điều chỉnh.
+- **Ngày 2025-06-23:** VIC tăng vọt từ 86.1 lên 92.8. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (3.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-06-24:** VIC tăng từ 92.8 lên 95.8. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (3.95 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-06-25:** VIC giảm từ 95.8 xuống 95.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.65 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau hai phiên hồi phục trên nền **No Demand**, phiên giảm điểm này cho thấy sự do dự và thiếu động lực. Tình hình vẫn còn rất không chắc chắn.
+- **Ngày 2025-06-26:** VIC giảm từ 95.8 xuống 95.0. Nến giảm có biên độ vừa phải và có bóng trên. Khối lượng giao dịch giảm (1.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Nỗ lực tăng trong phiên đã thất bại, và giá giảm trên khối lượng thấp cho thấy cả hai phe đều không quyết liệt. Tín hiệu **No Demand** vẫn hiện hữu sau các cú hồi kỹ thuật.
+- **Ngày 2025-06-27:** VIC tăng nhẹ từ 95.0 lên 95.5. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (3.02 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Nỗ lực tăng giá trên khối lượng có cải thiện nhưng chưa tạo ra sự bứt phá mạnh mẽ, cho thấy lực cầu vẫn còn dè dặt. Tín hiệu **No Demand** vẫn hiện hữu.
+- **Ngày 2025-06-30:** VIC tăng nhẹ từ 95.5 lên 95.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.26 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Phiên tăng nhẹ với khối lượng thấp tiếp tục xác nhận sự thiếu vắng động lực. Tín hiệu **No Demand** vẫn hiện hữu.
+- **Ngày 2025-07-01:** VIC đi ngang, đóng cửa ở mức 95.6. Nến có biên độ rộng. Khối lượng giao dịch tăng (2.32 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Phiên đi ngang trên khối lượng tăng cho thấy sự giằng co. Tín hiệu **No Demand** vẫn hiện hữu.
+- **Ngày 2025-07-02:** VIC giảm từ 95.6 xuống 95.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu giằng co, phiên giảm điểm trên khối lượng thấp này là một **Test for Supply**. Áp lực bán không lớn, nhưng lực cầu cũng chưa quay trở lại. Thị trường vẫn trong giai đoạn tích lũy.
+- **Ngày 2025-07-03:** VIC giảm từ 95.4 xuống 94.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.89 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận phiên "Test for Supply" hôm trước đã thất bại. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VIC giảm từ 94.5 xuống 91.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3.98 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau các phiên giằng co, áp lực bán đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, phiên hôm nay VIC tăng nhẹ từ 91.9 lên 93.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.96 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VIC tăng nhẹ từ 93.0 lên 93.3. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
+- **Ngày 2025-07-09:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VIC tăng mạnh từ 93.3 lên 95.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (3.28 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VIC tăng vọt từ 95.0 lên 101.6. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (7.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+- **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay VIC tiếp tục tăng vọt từ 101.6 lên 108.0. Cây nến tăng có biên độ rất rộng. Khối lượng giao dịch giảm (4.67 triệu đơn vị) nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực.
+
+

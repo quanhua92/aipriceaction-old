@@ -1,0 +1,44 @@
+# CTD
+
+-   **Ngày 2025-06-16:** CTD tăng từ 80.2 lên 82.0. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (974.188 đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**. Lực cầu đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá có thể tiếp tục đà phục hồi.
+-   **Ngày 2025-06-17:** CTD tăng nhẹ từ 82.0 lên 82.2. Tuy nhiên, nến trong ngày giảm điểm (mở cửa 82.8) và có bóng trên dài, cho thấy áp lực bán ở vùng giá cao. Khối lượng giao dịch tăng (1.08 triệu đơn vị) so với phiên trước.
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Nỗ lực đẩy giá lên đã gặp phải áp lực bán. Mặc dù giá đóng cửa không quá tiêu cực, bóng trên dài và khối lượng tăng cho thấy sự giằng co và cung vẫn còn hiện hữu.
+-   **Ngày 2025-06-18:** CTD tăng vọt từ 82.2 lên 86.0, đóng cửa ở mức giá cao nhất phiên. Cây nến có biên độ rất rộng và thuyết phục. Khối lượng giao dịch BÙNG NỔ, đạt 3.87 triệu đơn vị.
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ. Sau các phiên kiểm tra cung, lực cầu đã nhập cuộc một cách quyết đoán, hấp thụ hết lực bán và đẩy giá bứt phá. Tín hiệu này xác nhận xu hướng tăng và mở ra tiềm năng tăng giá lớn.
+- **Ngày 2025-06-19:** CTD giảm từ 86.0 xuống 85.0. Cây nến giảm điểm có biên độ rộng, là một nhịp điều chỉnh sau phiên bùng nổ SOS. Khối lượng giao dịch giảm mạnh (835.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực chốt lời đã xuất hiện. Việc khối lượng giảm mạnh trong phiên điều chỉnh là một tín hiệu rất tích cực, cho thấy lực bán không áp đảo và xu hướng tăng có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-06-20:** CTD giảm từ 85.0 xuống 83.5. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (1.26 triệu đơn vị) so với phiên điều chỉnh trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên điều chỉnh tiếp theo sau phiên SOS bùng nổ. Việc giá tiếp tục giảm trên khối lượng có phần gia tăng cho thấy áp lực chốt lời vẫn còn. Tín hiệu này cho thấy sự thận trọng trong ngắn hạn.
+- **Ngày 2025-06-23:** CTD giảm từ 82.6 lên 83.2. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.11 triệu đơn vị) so với phiên điều chỉnh trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán không quá lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-24:** CTD giảm từ 83.2 xuống 82.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (896.6k đơn vị) so với các phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên điều chỉnh bình thường sau chuỗi tăng giá mạnh. Áp lực bán không quá lớn, xu hướng tăng vẫn được bảo toàn.
+- **Ngày 2025-06-25:** CTD giảm từ 82.8 xuống 83.0. Nến có biên độ hẹp, có bóng dưới cho thấy có lực đỡ. Khối lượng giao dịch tăng nhẹ (1.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn sau chuỗi ngày điều chỉnh. Phiên này tiếp tục là một **Test for Supply**. Mặc dù có lực đỡ, phe mua vẫn chưa cho thấy sức mạnh áp đảo để quay lại xu hướng tăng.
+- **Ngày 2025-06-26:** CTD tăng mạnh từ 83.0 lên 83.9. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (710.5k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày điều chỉnh và kiểm tra cung, phiên tăng giá này là một nỗ lực phục hồi. Tuy nhiên, khối lượng thấp cho thấy đây là một tín hiệu **No Demand**. Lực cầu chưa thực sự quay trở lại một cách thuyết phục.
+- **Ngày 2025-06-27:** CTD tăng nhẹ từ 83.9 lên 84.0. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (715.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường vẫn đang trong giai đoạn giằng co, thiếu động lực.
+- **Ngày 2025-06-30:** CTD tăng mạnh từ 84.0 lên 85.5. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (1.58 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng đã được thiết lập từ phiên SOS ngày 18/06.
+- **Ngày 2025-07-01:** CTD giảm từ 85.5 xuống 84.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise" mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-02:** CTD giảm từ 84.8 xuống 84.3. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (893.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng phục hồi một cách dứt khoát.
+- **Ngày 2025-07-03:** CTD giảm từ 84.3 xuống 83.2. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng (1.45 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên kiểm tra cung không thành công, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Effort to Fall** rõ ràng, xác nhận phe bán đang chiếm ưu thế và khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-04:** Sau tín hiệu **Effort to Fall** rõ ràng của phiên trước, phiên hôm nay CTD tăng nhẹ từ 83.2 lên 84.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (859.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay CTD giảm từ 84.2 xuống 84.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (1.14 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-08:** Sau phiên giảm điểm xác nhận sự yếu kém, phiên hôm nay CTD tăng mạnh từ 84.0 lên 85.7. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (1.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém của phiên trước. Lực cầu đã quay trở lại, cho thấy khả năng giá có thể bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay CTD giảm từ 85.7 xuống 85.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay CTD giảm từ 85.1 xuống 84.3. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.15 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
+- **Ngày 2025-07-11:** Sau các phiên **Test for Supply**, hôm nay CTD giảm tiếp từ 84.3 xuống 83.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (1.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá tiếp tục giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
+
+

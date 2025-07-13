@@ -1,0 +1,26 @@
+# BIC
+
+- **Ngày 2025-06-27:** BIC tăng vọt từ 37.6 lên 38.7. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (142.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá.
+- **Ngày 2025-06-30:** BIC tăng nhẹ từ 38.7 lên 38.9. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch giảm mạnh (27.1k đơn vị) so với phiên bùng nổ trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise" mạnh. Áp lực bán đã xuất hiện nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường và chưa phải tín hiệu xấu.
+- **Ngày 2025-07-01:** BIC tăng mạnh từ 38.9 lên 39.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (36.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-02:** BIC tăng từ 39.5 lên 39.8. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (72.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận cho các nỗ lực tăng giá trước đó. Lực cầu vẫn duy trì tốt.
+- **Ngày 2025-07-03:** BIC giảm từ 39.8 xuống 39.7. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (56.9k đơn vị) so với phiên tăng trước.
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên giảm điểm với khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, cho thấy xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-04:** Sau phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay BIC giảm nhẹ từ 39.7 xuống 39.6. Cây nến có biên độ hẹp. Khối lượng giao dịch cạn kiệt (11.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Việc giá chỉ giảm nhẹ trên khối lượng cực thấp cho thấy áp lực bán gần như không còn, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Supply (Không có Nguồn cung)** của phiên trước, phiên hôm nay BIC tăng nhẹ từ 39.6 lên 39.65. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (18.3k đơn vị) nhưng vẫn ở mức cạn kiệt.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-08:** Sau tín hiệu **Effort to Rise** trên nền **No Supply**, phiên hôm nay BIC giảm từ 39.65 xuống 39.45. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (55.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đã quay trở lại sau chuỗi ngày tăng giá. Tín hiệu này cảnh báo về một đợt điều chỉnh có thể xảy ra.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay BIC tiếp tục giảm từ 39.45 xuống 39.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (44.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán đã suy yếu. Đây có thể là một phiên **Test for Supply**. Mặc dù chưa phải là tín hiệu đảo chiều, nhưng nó cho thấy đà giảm đang chững lại.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay BIC tiếp tục giảm từ 39.1 xuống 38.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (45.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Áp lực bán vẫn còn hiện hữu, tuy nhiên không quá mạnh, cho thấy thị trường vẫn đang trong giai đoạn điều chỉnh.
+- **Ngày 2025-07-11:** Sau các phiên điều chỉnh, hôm nay BIC tăng từ 38.75 lên 38.9. Cây nến tăng có biên độ tốt và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (59.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại sau các phiên kiểm tra cung, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+
+

@@ -1,0 +1,28 @@
+# NKG
+
+- **Ngày 2025-06-26:** NKG giảm từ 13.4 xuống 13.3. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.78 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên giảm điểm này là một **Test for Supply**. Áp lực bán không lớn (thể hiện qua khối lượng giảm), cho thấy xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-06-27:** NKG giảm nhẹ từ 13.3 xuống 13.25. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (3.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** hôm trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+- **Ngày 2025-06-30:** NKG giảm từ 13.25 xuống 13.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (5.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán vẫn còn và phe mua chưa thể hấp thụ. Đây là một tín hiệu **Effort to Fall** mạnh hơn, củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-01:** NKG tăng nhẹ từ 13.2 lên 13.25. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (8.9 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu **Effort to Fall**, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-02:** NKG tăng mạnh từ 13.25 lên 13.6. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (12.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu tiêu cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+- **Ngày 2025-07-03:** NKG tăng nhẹ từ 13.6 lên 13.65. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng vọt (21.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng nhẹ trên khối lượng cực lớn này là một **sự bất thường (Anomaly)**. Nỗ lực (khối lượng khổng lồ) không tạo ra kết quả tương xứng, cho thấy một lượng cung rất lớn đã xuất hiện để cản trở đà tăng. Tín hiệu cảnh báo.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu bất thường của ngày hôm trước, phiên hôm nay NKG đi ngang, đóng cửa ở mức 13.65. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (8.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên giằng co trên khối lượng lớn, phiên đi ngang với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tình hình vẫn không chắc chắn và tiềm ẩn rủi ro.
+- **Ngày 2025-07-07:** Sau phiên **Test for Supply** không chắc chắn của ngày hôm trước, phiên hôm nay NKG giảm từ 13.65 xuống 13.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (11.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay NKG giảm từ 13.7 lên 13.95. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (20.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay NKG đi ngang, đóng cửa ở mức 13.95. Cây nến giảm điểm (mở cửa 14.05) có biên độ hẹp. Khối lượng giao dịch giảm (15.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán đã suy yếu. Đây có thể là một phiên **Test for Supply**. Mặc dù chưa phải là tín hiệu đảo chiều, nhưng nó cho thấy đà giảm đang chững lại.
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay NKG tăng nhẹ từ 13.95 lên 14.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (14.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực phục hồi thất bại, phiên tăng nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng, là một tín hiệu cảnh báo.
+- **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay NKG giảm nhẹ từ 14.0 lên 13.95. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (19.38 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+
+

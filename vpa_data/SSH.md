@@ -1,0 +1,42 @@
+# SSH
+
+-   **Ngày 2025-06-16:** SSH tăng từ 87.8 lên 88.5. Nến có biên độ hẹp và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (44.0k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, đây là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+-   **Ngày 2025-06-17:** SSH tăng nhẹ từ 88.5 lên 88.8. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (45.9k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
+-   **Ngày 2025-06-18:** SSH giảm nhẹ từ 88.8 xuống 88.7. Biên độ nến hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (48.7k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và tiếp tục đi ngang.
+- **Ngày 2025-06-19:** SSH tăng từ 88.7 lên 89.3. Nến tăng có biên độ rộng. Khối lượng giao dịch không đổi và vẫn ở mức thấp (49.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-20:** SSH giảm từ 89.3 xuống 89.0. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (43.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-23:** SSH giảm từ 89.0 lên 88.4. Nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (48.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** không thay đổi. Thị trường thiếu động lực.
+- **Ngày 2025-06-24:** SSH tăng từ 88.4 lên 88.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (45.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn.
+- **Ngày 2025-06-25:** SSH đi ngang, đóng cửa ở mức 88.8. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (45.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-26:** SSH giảm nhẹ từ 88.8 xuống 88.7. Nến có biên độ rất hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (28.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-27:** SSH tăng nhẹ từ 88.7 lên 89.0. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (31.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-30:** SSH tăng nhẹ từ 89.0 lên 89.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (42.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-01:** SSH đi ngang, đóng cửa ở mức 89.3. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (43.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-02:** SSH giảm nhẹ từ 89.3 xuống 89.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (45.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-07-04:** Tiếp nối tình trạng **No Demand** và **No Supply** của các phiên trước, phiên hôm nay SSH giảm từ 89.2 xuống 88.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (40.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm thiếu động lực, phiên hôm nay SSH tăng nhẹ từ 88.1 lên 88.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (44.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-08:** Sau phiên tăng điểm thiếu động lực, phiên hôm nay SSH tăng nhẹ từ 88.5 lên 89.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (28.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-09:** Tiếp nối tình trạng thiếu động lực của các phiên trước, phiên hôm nay SSH đi ngang, đóng cửa ở mức 89.0. Cây nến giảm điểm (mở cửa 89.0) có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức cạn kiệt (42.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-10:** Tiếp nối tình trạng thiếu động lực, phiên hôm nay SSH tăng nhẹ từ 89.0 lên 89.1. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (40.8k đơn vị) và vẫn ở mức cạn kiệt.
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-11:** Tiếp nối tình trạng thiếu động lực, hôm nay SSH giảm từ 89.1 xuống 88.9. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (42.4k đơn vị) và vẫn ở mức cạn kiệt.
+    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+
+

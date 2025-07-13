@@ -1,0 +1,46 @@
+# VIX
+
+-   **Ngày 2025-05-28:** VIX tăng lên mức cao 14.20 nhưng đóng cửa chỉ ở 13.80. Điều đáng chú ý là khối lượng giao dịch BÙNG NỔ, đạt 74.8 triệu đơn vị.
+    -   **Phân tích VPA/Wyckoff:** Đây là một **sự bất thường (Anomaly)**. Nỗ lực tăng giá (khối lượng rất cao) không được duy trì, giá bị bán ngược trở lại cho thấy có một lượng cung lớn ở vùng giá cao. Đây là một dấu hiệu cảnh báo sớm về khả năng phân phối.
+-   **Ngày 2025-06-13:** VIX giảm mạnh xuống 13.00, phá vỡ các mức hỗ trợ trước đó. Khối lượng giao dịch lại tăng vọt lên mức rất cao (65.9 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW - Dấu hiệu Yếu kém)** rõ ràng. Giá giảm mạnh với biên độ rộng, đóng cửa gần mức thấp nhất trên nền khối lượng lớn là một tín hiệu rất tiêu cực. Nó xác nhận rằng phe bán đang hoàn toàn kiểm soát và xu hướng giảm có thể sẽ tiếp diễn.
+-   **Ngày 2025-06-17:** VIX giảm nhẹ từ 13.3 xuống 13.15. Biên độ nến hẹp. Khối lượng giao dịch tăng nhẹ (27.6 triệu đơn vị) nhưng vẫn nằm trong vùng ảnh hưởng của phiên SOW.
+    -   **Phân tích VPA/Wyckoff:** Hành động giá tiếp tục cho thấy sự yếu kém. Sau phiên SOW và một cú hồi yếu ớt, giá không thể bứt phá mà tiếp tục lình xình đi xuống. Lực cầu hoàn toàn vắng mặt.
+-   **Ngày 2025-06-18:** VIX giảm từ 13.15 xuống 12.6. Cây nến có biên độ giảm rộng. Khối lượng giao dịch không đổi (22.6 triệu đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Tiếp tục là một tín hiệu **Effort to Fall**, xác nhận cho sự yếu kém của cổ phiếu. Giá tiếp tục giảm trên nền khối lượng khá cho thấy phe bán vẫn đang hoàn toàn kiểm soát.
+- **Ngày 2025-06-19:** VIX giảm từ 12.6 xuống 12.45. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (15.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sự thiếu vắng nhu cầu (No Demand) vẫn tiếp tục. Rủi ro giảm tiếp vẫn còn rất cao.
+- **Ngày 2025-06-20:** VIX tăng nhẹ từ 12.45 lên 12.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (14.61 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu kém, phiên tăng nhẹ với khối lượng thấp này tiếp tục là một tín hiệu **No Demand**.
+- **Ngày 2025-06-23:** VIX giảm từ 12.45 lên 12.45. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (22.29 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sự thiếu vắng nhu cầu (No Demand) vẫn tiếp tục. Rủi ro giảm tiếp vẫn còn rất cao.
+- **Ngày 2025-06-24:** VIX tăng từ 12.7 lên 12.9. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (53.24 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, cho thấy lực cầu đã quay trở lại sau các tín hiệu yếu kém trước đó.
+- **Ngày 2025-06-25:** VIX giảm nhẹ từ 12.9 lên 12.85. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (21.45 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise" mạnh. Áp lực bán không lớn, là một tín hiệu tích cực.
+- **Ngày 2025-06-26:** VIX giảm từ 12.85 xuống 12.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (17.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không quá mạnh (khối lượng giảm). Tuy nhiên, phe mua vẫn chưa quay lại để tiếp nối đà tăng của phiên 24/06. Tình hình vẫn giằng co.
+- **Ngày 2025-06-27:** VIX đi ngang, đóng cửa ở mức 12.7. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (16.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không quá mạnh. Tuy nhiên, phe mua vẫn chưa quay lại để tiếp nối đà tăng của phiên 24/06. Tình hình vẫn giằng co.
+- **Ngày 2025-06-30:** VIX tăng từ 12.7 lên 12.75. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (19.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không quá mạnh. Tuy nhiên, phe mua vẫn chưa quay lại để tiếp nối đà tăng của phiên 24/06. Tình hình vẫn giằng co.
+- **Ngày 2025-07-01:** VIX tăng nhẹ từ 12.75 lên 12.8. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (25.64 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên giằng co, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự do dự. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn còn rất không chắc chắn.
+- **Ngày 2025-07-02:** VIX tăng vọt từ 12.8 lên 13.65. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (120.95 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-03:** VIX tăng mạnh từ 13.65 lên 14.15. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch vẫn ở mức cực cao (125.05 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VIX tăng từ 14.15 lên 14.55. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (74.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay VIX tăng mạnh từ 14.55 lên 14.85. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (69.85 triệu đơn vị) nhưng vẫn ở mức rất cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay VIX tăng mạnh từ 14.85 lên 15.15. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (55.67 triệu đơn vị) nhưng vẫn ở mức rất cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply** của phiên trước, phiên hôm nay VIX tăng mạnh từ 15.15 lên 15.55. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (60.31 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VIX tăng nhẹ từ 15.55 lên 15.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (46.32 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay VIX tăng từ 15.6 lên 15.85. Cây nến tăng có biên độ tốt. Khối lượng giao dịch tăng (50.58 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+
+

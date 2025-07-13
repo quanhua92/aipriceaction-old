@@ -1,0 +1,28 @@
+# PTB
+
+- **Ngày 2025-06-26:** PTB tăng nhẹ từ 52.6 lên 52.7. Nến có biên độ rất hẹp. Khối lượng giao dịch tăng (180.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-27:** PTB tăng nhẹ từ 52.7 lên 52.9. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (261.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+- **Ngày 2025-06-30:** PTB tăng vọt từ 52.9 lên 54.9. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (104.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)**. Sau một thời gian dài thiếu động lực, lực mua đã quay trở lại một cách áp đảo. Tuy khối lượng tổng thể vẫn thấp so với thị trường chung, nhưng sự gia tăng đột biến so với chính nó là một tín hiệu mạnh mẽ.
+- **Ngày 2025-07-01:** PTB giảm từ 54.9 xuống 54.2. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (71.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-02:** PTB giảm từ 54.2 xuống 54.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (130.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+- **Ngày 2025-07-03:** PTB giảm từ 54.0 xuống 53.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (186.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán vẫn còn và phe mua chưa thể hấp thụ. Đây là một tín hiệu **Effort to Fall**, củng cố cho sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PTB tăng mạnh từ 53.9 lên 54.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (154k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay PTB giảm từ 54.8 xuống 54.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (171.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên tăng giá cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PTB giảm từ 54.5 xuống 54.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (60.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PTB tiếp tục giảm từ 54.4 xuống 53.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (85.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay PTB giảm từ 53.9 xuống 53.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (58.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay PTB tăng nhẹ từ 53.9 lên 54.4. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (78.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
+
+
