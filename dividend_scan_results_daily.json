@@ -1,0 +1,820 @@
+{
+  "scan_time": "2025-07-13T20:56:55.126618",
+  "mode": "Daily",
+  "total_tickers": 116,
+  "dividend_tickers": [],
+  "results": [
+    {
+      "ticker": "AAA",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "ANV",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "ACV",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "ACB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BID",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BIC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BCM",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BMP",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BSI",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BVH",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "BSR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CII",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "C4G",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CMG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CSC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CTD",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CST",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CTR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "CTG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DCM",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DBC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DGC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DGW",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DPM",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DPR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DVN",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DHG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "DRC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "FIT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "FPT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "FOX",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "FRT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "FTS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "GEX",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "GAS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "GMD",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HAH",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HAG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "GVR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HCM",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HHV",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HDG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HDB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HPG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HSG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HVN",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HUT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "IDC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "HT1",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "KBC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "KDC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "IPA",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "IMP",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MBB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MBS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "LPB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "KDH",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MCH",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MPC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MSN",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MSH",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MSR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "MWG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "NT2",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "NKG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "NLG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "NTP",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "NVL",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PAN",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PDR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PC1",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PHR",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PLX",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "POW",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PNJ",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PVI",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PTB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "QNS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PVT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "PVS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "REE",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SAB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SGT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SCS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SHS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SHB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SIP",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (9 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 9
+    },
+    {
+      "ticker": "SSH",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "SSI",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "STB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "TCB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "TNG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "TPB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "TV2",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VCG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VCB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VCI",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VCS",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VGI",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VEA",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VGC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VGT",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VHM",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VHC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VIB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VIX",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VJC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VIC",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VLB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VNINDEX",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VND",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VPB",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VNM",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VPG",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VRE",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    },
+    {
+      "ticker": "VTP",
+      "needs_dividend_check": false,
+      "reason": "No significant discrepancies found (0 discrepancies)",
+      "confidence": 0.0,
+      "discrepancy_count": 0
+    }
+  ]
+}

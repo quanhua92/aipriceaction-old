@@ -1,36 +1,48 @@
-import re
-import argparse
+#!/usr/bin/env python3
+"""
+VPA Data Merger - Combines individual ticker VPA files into main VPA.md
+
+This script reads all individual VPA analysis files from vpa_data/ directory
+and combines them into a single VPA.md or VPA_week.md file, maintaining
+proper structure and formatting.
+
+Usage: python merge_vpa.py [--week]
+"""
+
 import os
+import re
 import shutil
-from collections import defaultdict
+import argparse
+from datetime import datetime
 
 # --- Argument Parsing ---
 parser = argparse.ArgumentParser(
-    description='Merge new VPA analysis into a main VPA file.'
+    description='Merge VPA data from vpa_data/ folder into main VPA file.'
 )
 parser.add_argument(
     '--week',
     action='store_true',
-    help='If specified, reads from and writes to VPA_week.md instead of VPA.md.'
+    help='If specified, writes to VPA_week.md instead of VPA.md.'
 )
 args = parser.parse_args()
 
 # --- File Configuration ---
 if args.week:
     main_vpa_filename = 'VPA_week.md'
+    source_dir = "market_data_week"
+    dest_dir = "market_data_week_processed"
 else:
     main_vpa_filename = 'VPA.md'
+    source_dir = "market_data"
+    dest_dir = "market_data_processed"
 
-new_vpa_filename = 'VPA_NEW.md'
+vpa_data_dir = 'vpa_data'
 
-print(f"Using main VPA file: {main_vpa_filename}")
-print(f"Using new data from: {new_vpa_filename}")
+print(f"Merging VPA data into: {main_vpa_filename}")
+print(f"Reading from: {vpa_data_dir}/")
 
 def backup_market_data():
     """Backup current market_data to market_data_processed before processing VPA."""
-    source_dir = "market_data" if not args.week else "market_data_week"
-    dest_dir = "market_data_processed" if not args.week else "market_data_week_processed"
-    
     if not os.path.exists(source_dir):
         print(f"   - Source directory {source_dir} not found. Skipping backup.")
         return
@@ -47,100 +59,131 @@ def backup_market_data():
     shutil.copytree(source_dir, dest_dir)
     print(f"   - Successfully backed up {len(os.listdir(source_dir))} files from {source_dir} to {dest_dir}")
 
-# Backup market data before processing VPA
-backup_market_data()
+def read_ticker_vpa_file(ticker_file):
+    """Read and parse a single ticker VPA file."""
+    if not os.path.exists(ticker_file):
+        return None
+    
+    try:
+        with open(ticker_file, 'r', encoding='utf-8') as f:
+            content = f.read().strip()
+        
+        if not content:
+            return None
+        
+        # Remove any existing header if present (in case file has # TICKER header)
+        ticker_name = os.path.basename(ticker_file).replace('.md', '')
+        
+        # Remove header line if it exists
+        lines = content.split('\n')
+        if lines and lines[0].strip() == f"# {ticker_name}":
+            content = '\n'.join(lines[1:]).strip()
+        
+        return content
+    except Exception as e:
+        print(f"   - Error reading {ticker_file}: {e}")
+        return None
 
-# Read files
-with open(main_vpa_filename, 'r', encoding='utf-8') as f:
-    vpa_content = f.read()
-with open(new_vpa_filename, 'r', encoding='utf-8') as f:
-    vpa_new_content = f.read()
+def get_all_ticker_files():
+    """Get all ticker VPA files from vpa_data directory."""
+    if not os.path.exists(vpa_data_dir):
+        print(f"   - VPA data directory {vpa_data_dir} not found.")
+        return []
+    
+    ticker_files = []
+    for filename in os.listdir(vpa_data_dir):
+        if filename.endswith('.md'):
+            ticker = filename.replace('.md', '')
+            file_path = os.path.join(vpa_data_dir, filename)
+            ticker_files.append((ticker, file_path))
+    
+    # Sort by ticker name
+    ticker_files.sort(key=lambda x: x[0])
+    return ticker_files
 
-def extract_ticker_blocks(md_text):
-    # Find all ticker headers (e.g. # TICKER) and their content
-    pattern = re.compile(r'(^# ([A-Z0-9]+)\n)(.*?)(?=^# [A-Z0-9]+\n|\Z)', re.DOTALL | re.MULTILINE)
-    blocks = {}
-    for m in pattern.finditer(md_text):
-        header, ticker, body = m.groups()
-        blocks[ticker] = header
-        if body:
-            # Split by ---
-            parts = re.split(r'\n---+\n', body)
-            for part in parts:
-                part = part.strip()
-                if part:
-                    blocks[ticker] += part + '\n'
-    return blocks
+def merge_vpa_data():
+    """Main function to merge all VPA data into single file."""
+    print("Starting VPA data merge...")
+    
+    # Get all ticker files
+    ticker_files = get_all_ticker_files()
+    
+    if not ticker_files:
+        print("   - No ticker files found in vpa_data directory.")
+        return
+    
+    print(f"   - Found {len(ticker_files)} ticker files to merge")
+    
+    # Read and merge all ticker data
+    merged_content = []
+    processed_tickers = []
+    skipped_tickers = []
+    
+    for ticker, file_path in ticker_files:
+        content = read_ticker_vpa_file(file_path)
+        
+        if content:
+            # Add ticker header and content
+            merged_content.append(f"# {ticker}")
+            merged_content.append("")  # Blank line after header
+            merged_content.append(content)
+            merged_content.append("")  # Blank line after content
+            merged_content.append("---")  # Separator
+            merged_content.append("")  # Blank line after separator
+            
+            processed_tickers.append(ticker)
+        else:
+            skipped_tickers.append(ticker)
+    
+    if not merged_content:
+        print("   - No valid VPA data found to merge.")
+        return
+    
+    # Remove the last separator and blank lines
+    while merged_content and (merged_content[-1] == "" or merged_content[-1] == "---"):
+        merged_content.pop()
+    
+    # Write to main VPA file
+    final_content = '\n'.join(merged_content)
+    
+    try:
+        with open(main_vpa_filename, 'w', encoding='utf-8') as f:
+            f.write(final_content)
+            f.write('\n')  # Final newline
+        
+        print(f"   - Successfully merged VPA data into {main_vpa_filename}")
+        print(f"   - Processed tickers: {len(processed_tickers)}")
+        
+        if processed_tickers:
+            print(f"   - Included: {', '.join(processed_tickers[:10])}")
+            if len(processed_tickers) > 10:
+                print(f"     ... and {len(processed_tickers) - 10} more")
+        
+        if skipped_tickers:
+            print(f"   - Skipped empty files: {len(skipped_tickers)}")
+            if len(skipped_tickers) <= 5:
+                print(f"     {', '.join(skipped_tickers)}")
+    
+    except Exception as e:
+        print(f"   - Error writing to {main_vpa_filename}: {e}")
 
-def extract_new_lines(md_text):
-    # For each ticker, extract the lines (excluding the header)
-    pattern = re.compile(r'^# ([A-Z0-9]+)\n(.*?)(?=^# [A-Z0-9]+\n|\Z)', re.DOTALL | re.MULTILINE)
-    ticker_lines = defaultdict(list)
-    for m in pattern.finditer(md_text):
-        ticker = m.group(1)
-        body = m.group(2).strip()
-        if body:
-            # Split by ---
-            parts = re.split(r'\n---+\n', body)
-            for part in parts:
-                part = part.strip()
-                if part:
-                    ticker_lines[ticker].append(part)
-    return ticker_lines
+def main():
+    """Main execution function."""
+    print("=" * 60)
+    print("VPA Data Merger")
+    print("=" * 60)
+    
+    # Backup market data before processing VPA
+    backup_market_data()
+    
+    # Merge VPA data
+    merge_vpa_data()
+    
+    print()
+    print("=" * 60)
+    print("VPA merge completed successfully!")
+    print(f"Check {main_vpa_filename} for the merged results.")
+    print("=" * 60)
 
-# Extract ticker blocks from VPA.md
-vpa_blocks = extract_ticker_blocks(vpa_content)
-# Extract new lines from VPA_NEW.md
-vpa_new_lines = extract_new_lines(vpa_new_content)
-
-# Merge: for each ticker in vpa_new_lines, if exists in vpa_blocks, append new lines after old content, else create new block
-for ticker, new_parts in vpa_new_lines.items():
-    if ticker in vpa_blocks:
-        old_block = vpa_blocks[ticker].rstrip('\n')
-        for part in new_parts:
-            content = part.strip()
-            if not content.endswith('---'):
-                content += '\n\n---\n'
-            old_block += '\n' + content
-        vpa_blocks[ticker] = old_block + '\n'
-    else:
-        block = f'# {ticker}\n'
-        for i, part in enumerate(new_parts):
-            if i > 0:
-                block += '\n'
-            content = part.strip()
-            if not content.endswith('---'):
-                content += '\n\n---\n'
-            block += content
-        vpa_blocks[ticker] = block + '\n'
-
-# Sort tickers by name
-sorted_tickers = sorted(vpa_blocks.keys())
-
-# Write to new VPA.md
-with open(main_vpa_filename, 'w', encoding='utf-8') as f:
-    for ticker in sorted_tickers:
-        f.write('\n' + vpa_blocks[ticker].strip() + '\n')
-
-# Post-process: Ensure blank lines before and after each # TICKER header
-with open(main_vpa_filename, 'r', encoding='utf-8') as f:
-    merged = f.read()
-
-# Ensure a blank line before each # TICKER (except at start)
-merged = re.sub(r'([^\n])\n# ([A-Z0-9]+)', r'\1\n\n# \2', merged)
-# Ensure a blank line after each # TICKER
-merged = re.sub(r'# ([A-Z0-9]+)\n([^\n])', r'# \1\n\n\2', merged)
-# Normalize extra blank lines to just two
-merged = re.sub(r'\n{3,}', r'\n\n', merged)
-
-# We use a regular expression with a negative lookbehind `(?<!...)`.
-# This finds any header `\n\n# TICKER` that is NOT already preceded by the `\n---\n` line.
-# The `\n\n` at the start of the pattern ensures we only modify headers that follow previous content,
-# leaving the very first header of the file untouched.
-merged = re.sub(r'(?<!\n---\n)\n\n(# [A-Z0-9]+)', r'\n\n---\n\n\1', merged)
-
-# One final normalization to ensure no more than two consecutive newlines exist anywhere.
-merged = re.sub(r'\n{3,}', r'\n\n', merged)
-
-with open(main_vpa_filename, 'w', encoding='utf-8') as f:
-    f.write(merged)
+if __name__ == "__main__":
+    main()

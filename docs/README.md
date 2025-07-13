@@ -81,8 +81,8 @@ python get_market_cap.py --resume
 - Supports resume mode for interrupted downloads
 - Rate limiting to respect API constraints
 
-### `merge_vpa.py` - VPA Analysis Merger
-Combines new VPA analysis into existing files while maintaining structure.
+### `merge_vpa.py` - VPA Data Combiner
+Combines individual ticker VPA files from `vpa_data/` directory into main VPA file.
 
 ```bash
 # Merge daily VPA analysis
@@ -94,20 +94,23 @@ python merge_vpa.py --week
 
 **What it does:**
 - Backs up current `market_data/` to `market_data_processed/` before processing
-- Reads new analysis from `VPA_NEW.md`
-- Merges into existing `VPA.md` or `VPA_week.md`
-- Preserves ticker structure and formatting
+- Reads all individual ticker files from `vpa_data/` directory
+- Combines into single `VPA.md` or `VPA_week.md` file
+- Maintains alphabetical ticker ordering with proper headers
 - Handles both daily and weekly modes
+
+### `merge_vpa_legacy.py` - Legacy VPA Merger
+Legacy script for merging `VPA_NEW.md` into existing VPA files (kept for reference).
 
 ## 🧠 VPA Analysis Scripts
 
 ### VPA Data Files Structure
 The system uses structured markdown files for VPA analysis:
 
-- **`VPA.md`** - Daily VPA analysis (main file)
+- **`VPA.md`** - Daily VPA analysis (combined from vpa_data/)
 - **`VPA_week.md`** - Weekly VPA analysis  
-- **`VPA_NEW.md`** - New analysis to be merged
-- **`vpa_data/{TICKER}.md`** - Individual ticker analysis files
+- **`vpa_data/{TICKER}.md`** - Individual ticker analysis files (primary workspace)
+- **`VPA_NEW.md`** - Legacy format (used by old system)
 
 **VPA Analysis Format:**
 ```markdown
@@ -118,6 +121,11 @@ The system uses structured markdown files for VPA analysis:
 
 ---
 ```
+
+**Current Workflow:**
+1. AI agents write analysis to individual `vpa_data/{TICKER}.md` files
+2. `merge_vpa.py` combines all files into main `VPA.md`
+3. `main.py` integrates VPA analysis into final reports
 
 ## 🔍 Dividend Detection System
 
@@ -187,6 +195,7 @@ python test_vpa_scanner.py
 
 ### Documentation
 - **`tasks/dividends_plan.md`** - Complete guide for AI dividend processing
+- **`tasks/DAILY_VPA.md`** - Complete protocol for daily VPA analysis workflow
 - **`CLAUDE.md`** - Project instructions and architecture overview
 
 ## 🤖 GitHub Actions Workflows
@@ -251,16 +260,24 @@ python vpa_dividend_scanner.py
 #    tasks/dividends_plan.md
 ```
 
-### VPA Analysis Workflow
+### Daily VPA Analysis Workflow
 ```bash
-# 1. Add new analysis to VPA_NEW.md
-# 2. Merge into main VPA file
+# 1. Check for dividend adjustments
+ls market_data_check_dividends/
+
+# 2. Process individual tickers (AI agents)
+# Write analysis to vpa_data/{TICKER}.md files
+
+# 3. Verify analysis accuracy
+uv run verify_vpa.py
+
+# 4. Combine all ticker files into main VPA
 python merge_vpa.py
 
-# 3. The system automatically:
-#    - Backs up market_data/ to market_data_processed/
-#    - Merges new analysis preserving structure
-#    - Maintains ticker organization
+# 5. Generate final report with integrated VPA
+python main.py
+
+# Complete protocol documented in tasks/DAILY_VPA.md
 ```
 
 ## 📁 Directory Structure
