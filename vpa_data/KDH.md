@@ -14,16 +14,16 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi nỗ lực tăng giá, phiên đi ngang này cho thấy sự tạm nghỉ. Đây có thể là một **Test for Supply** tích cực.
 - **Ngày 2025-06-20:** KDH tăng từ 30.0 lên 30.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (2.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi nỗ lực tăng giá, phiên tăng nhẹ này cho thấy lực cầu vẫn đang duy trì nhưng chưa mạnh mẽ. Tín hiệu trung tính.
-- **Ngày 2025-06-23:** KDH giảm từ 29.85 lên 29.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.94 triệu đơn vị).
+- **Ngày 2025-06-23:** KDH giảm từ 29.85 xuống 29.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
-- **Ngày 2025-06-24:** KDH giảm nhẹ từ 29.5 lên 29.55. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.79 triệu đơn vị).
+- **Ngày 2025-06-24:** KDH giảm nhẹ từ 29.8 xuống 29.55. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.79 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
-- **Ngày 2025-06-25:** KDH đi ngang, đóng cửa ở mức 29.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.25 triệu đơn vị).
+- **Ngày 2025-06-25:** KDH giảm nhẹ từ 29.6 xuống 29.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía, tiếp tục đi ngang trong biên độ hẹp.
 - **Ngày 2025-06-26:** KDH giảm mạnh từ 29.55 xuống 28.8. Nến giảm có biên độ rộng, đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (3.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau một thời gian dài đi ngang thiếu động lực, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**. Áp lực bán đã xuất hiện và chiếm ưu thế, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-06-27:** KDH tăng nhẹ từ 28.8 lên 29.0. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.83 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)**, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-06-27:** KDH giảm nhẹ từ 29.05 xuống 29.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)**, phiên giảm nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-06-30:** KDH tăng từ 29.05 lên 29.4. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (4.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại mạnh mẽ.
 - **Ngày 2025-07-01:** KDH tăng nhẹ từ 29.4 lên 29.45. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.64 triệu đơn vị).

@@ -6,14 +6,14 @@
     -   **Phân tích VPA/Wyckoff:** Sau phiên SOS, đây là một phiên **Test for Supply**. Áp lực chốt lời đã xuất hiện nhưng chưa đủ mạnh để đẩy giá xuống. Việc khối lượng giảm là một dấu hiệu tích cực, cho thấy đây có thể chỉ là một nhịp nghỉ trước khi tiếp tục tăng.
 -   **Ngày 2025-06-18:** DGC giảm từ 98.6 xuống 97.4. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi và vẫn ở mức thấp (2.24 triệu đơn vị) so với phiên SOS.
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên điều chỉnh bình thường, xác nhận cho phiên "Test for Supply" hôm trước. Áp lực bán vẫn còn nhưng không quá mạnh. Khối lượng thấp trong các phiên điều chỉnh sau SOS là một tín hiệu tốt, cho thấy xu hướng tăng có thể tiếp diễn.
-- **Ngày 2025-06-19:** DGC đi ngang, đóng cửa ở mức 97.4. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.73 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau các phiên điều chỉnh, phiên đi ngang với khối lượng thấp này là một tín hiệu **No Supply**, cho thấy áp lực bán đã cạn kiệt, tạo điều kiện thuận lợi cho xu hướng tăng tiếp diễn.
+- **Ngày 2025-06-19:** DGC giảm nhẹ từ 97.5 xuống 97.4. Nến có biên độ hẹp. Khối lượng giao dịch giảm (1.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên điều chỉnh, phiên giảm nhẹ với khối lượng thấp này cho thấy áp lực bán vẫn còn nhưng không mạnh (**Weakness**). Lực cầu chưa quay trở lại đủ mạnh để hỗ trợ giá.
 - **Ngày 2025-06-20:** DGC giảm từ 97.4 xuống 96.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi và vẫn ở mức thấp (1.81 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Supply", phiên giảm điểm nhẹ này cho thấy lực cầu vẫn chưa quay trở lại một cách mạnh mẽ (No Demand). Thị trường đang trong giai đoạn tích lũy sau phiên SOS.
 - **Ngày 2025-06-23:** DGC tăng từ 96.0 lên 96.4. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.14 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Supply", phiên tăng điểm nhẹ này cho thấy lực cầu vẫn chưa quay trở lại một cách mạnh mẽ (No Demand). Thị trường đang trong giai đoạn tích lũy sau phiên SOS.
-- **Ngày 2025-06-24:** DGC tăng nhẹ từ 96.4 lên 96.5. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.23 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh, phiên tăng nhẹ với khối lượng không đột biến này cho thấy sự do dự. Thị trường vẫn đang trong giai đoạn tích lũy.
+- **Ngày 2025-06-24:** DGC giảm từ 97.0 xuống 96.5. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.23 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh, phiên giảm nhẹ với khối lượng tăng này cho thấy áp lực bán vẫn còn hiện hữu. Thị trường vẫn đang trong giai đoạn tích lũy yếu.
 - **Ngày 2025-06-25:** DGC tăng nhẹ từ 96.5 lên 97.2. Cây nến có biên độ tốt. Khối lượng giao dịch giảm (2.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh và tích lũy, phiên tăng giá này có thể là một **Effort to Rise** yếu. Lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục để xác nhận một đợt tăng giá mạnh mẽ.
 - **Ngày 2025-06-26:** DGC giảm từ 97.2 xuống 96.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (1.02 triệu đơn vị) và ở mức thấp.

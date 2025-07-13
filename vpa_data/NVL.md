@@ -14,8 +14,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường (Buying Climax), phiên giảm nhẹ với khối lượng giảm này là một **Test for Supply**. Nếu giá không giảm mạnh, đây có thể là một tín hiệu tốt. Tuy nhiên, rủi ro vẫn còn cao.
 - **Ngày 2025-06-20:** NVL giảm từ 15.55 xuống 15.45. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (30.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường, phiên giảm điểm này cho thấy sự do dự và giằng co. Tình hình vẫn còn rất rủi ro.
-- **Ngày 2025-06-23:** NVL giảm từ 15.0 lên 15.05. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (22.1 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường, phiên giảm điểm này cho thấy sự do dự và giằng co. Tình hình vẫn còn rất rủi ro.
+- **Ngày 2025-06-23:** NVL tăng từ 15.0 lên 15.05. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (22.1 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường, phiên tăng nhẹ này cho thấy sự do dự và giằng co. Tình hình vẫn còn rất rủi ro.
 - **Ngày 2025-06-24:** NVL giảm nhẹ từ 15.05 xuống 15.05. Biên độ nến rất hẹp. Khối lượng giao dịch không đổi (19.76 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu bất thường và các phiên giảm, phiên đi ngang này cho thấy sự do dự. Tình hình vẫn còn rất rủi ro.
 - **Ngày 2025-06-25:** NVL giảm từ 15.05 xuống 14.9. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (11.18 triệu đơn vị).
@@ -24,10 +24,10 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày giằng co, phiên tăng giá này là một nỗ lực phục hồi yếu ớt. Khối lượng giao dịch vẫn còn cao so với mức trung bình, nhưng không tạo ra sự bứt phá mạnh mẽ, cho thấy lực cầu vẫn còn dè dặt và áp lực bán tiềm ẩn vẫn còn. Tình hình vẫn rủi ro.
 - **Ngày 2025-06-27:** NVL giảm từ 15.15 xuống 15.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (10.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau nỗ lực phục hồi yếu ớt, phiên giảm điểm này cho thấy lực cầu không thể duy trì và phe bán đã quay trở lại. Đây là một tín hiệu yếu, phủ nhận nỗ lực của phiên trước. Tình hình vẫn rủi ro.
-- **Ngày 2025-06-30:** NVL tăng từ 15.0 lên 15.15. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (14.8 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu tiêu cực, phiên tăng giá này có thể là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
-- **Ngày 2025-07-01:** NVL đi ngang, đóng cửa ở mức 15.15. Nến có biên độ vừa phải. Khối lượng giao dịch giảm (9.83 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên đi ngang này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-30:** NVL giảm từ 15.2 xuống 15.15. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (14.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các tín hiệu tiêu cực, phiên giảm giá này cho thấy áp lực bán vẫn còn. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
+- **Ngày 2025-07-01:** NVL giảm từ 15.3 xuống 15.15. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (9.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên giảm giá này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-02:** NVL giảm nhẹ từ 15.15 xuống 15.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (9.79 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-03:** NVL giảm từ 15.1 xuống 14.9. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (16.3 triệu đơn vị).

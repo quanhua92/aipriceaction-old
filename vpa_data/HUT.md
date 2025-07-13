@@ -18,16 +18,16 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên đi ngang với khối lượng giảm này cho thấy áp lực bán đã tạm thời suy yếu. Tuy nhiên, lực cầu cũng chưa quay trở lại. Đây là một tín hiệu **No Demand**, củng cố cho sự yếu kém trong ngắn hạn.
 - **Ngày 2025-06-26:** HUT giảm mạnh từ 12.46 xuống 12.17. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng mạnh (1.9 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau các phiên giằng co, áp lực bán đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-06-27:** HUT tăng mạnh từ 12.17 lên 12.5. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (1.01 triệu đơn vị) so với phiên giảm mạnh trước.
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-06-27:** HUT giảm từ 12.6 xuống 12.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.01 triệu đơn vị) so với phiên giảm mạnh trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên giảm điểm tiếp tục trên khối lượng thấp sau tín hiệu **Effort to Fall** mạnh mẽ trước đó. Sự giảm điểm với khối lượng thấp cho thấy áp lực bán vẫn còn nhưng không mạnh mẽ.
 - **Ngày 2025-06-30:** HUT tăng mạnh từ 12.5 lên 12.9. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (681.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên tăng mạnh trên khối lượng giảm này cho thấy áp lực bán đã cạn kiệt (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Đây là một tín hiệu tích cực, có thể bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-01:** HUT giảm từ 12.9 xuống 12.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (987.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** tích cực, phiên giảm điểm trên khối lượng tăng này cho thấy áp lực bán đã quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
 - **Ngày 2025-07-02:** HUT đi ngang, đóng cửa ở mức 12.7. Nến có biên độ hẹp. Khối lượng giao dịch giảm (427k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên đi ngang với khối lượng giảm này cho thấy áp lực bán đã tạm thời suy yếu. Tuy nhiên, lực cầu cũng chưa quay trở lại. Đây là một tín hiệu **No Demand**, củng cố cho sự yếu kém trong ngắn hạn.
-- **Ngày 2025-07-03:** HUT giảm từ 12.7 xuống 12.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.01 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+- **Ngày 2025-07-03:** HUT tăng từ 12.2 lên 12.6. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** của ngày hôm trước. Lực cầu đã quay trở lại và chiếm ưu thế, là một tín hiệu tích cực trong ngắn hạn.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay HUT tăng mạnh từ 12.6 lên 13.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (2.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
 - **Ngày 2025-07-07:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HUT tăng nhẹ từ 13.0 lên 13.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.27 triệu đơn vị).
@@ -38,7 +38,7 @@
     - **Phân tích VPA/Wyckoff:** Hành động giá này phủ nhận nỗ lực phục hồi của phiên trước, cho thấy phe bán đã quay trở lại và chiếm ưu thế. Đây là một tín hiệu **Sign of Weakness (SOW)**, cảnh báo khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay HUT tăng từ 13.3 lên 13.5. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.51 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
-- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay HUT tăng nhẹ từ 13.5 lên 13.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.82 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay HUT đi ngang từ 13.6 xuống 13.6. Cây nến có biên độ hẹp và giá chỉ dao động nhẹ. Khối lượng giao dịch giảm (1.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và đang trong trạng thái giăng co, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
 
 

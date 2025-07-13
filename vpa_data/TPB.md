@@ -10,35 +10,35 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" thành công, phiên đi ngang này cho thấy sự do dự. Tín hiệu trung tính.
 - **Ngày 2025-06-20:** TPB đi ngang, đóng cửa ở mức 13.35. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (6.93 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
-- **Ngày 2025-06-23:** TPB giảm từ 13.2 lên 13.3. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.85 triệu đơn vị).
+- **Ngày 2025-06-23:** TPB tăng từ 13.2 lên 13.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (6.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
-- **Ngày 2025-06-24:** TPB giảm từ 13.3 lên 13.25. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.07 triệu đơn vị).
+- **Ngày 2025-06-24:** TPB giảm từ 13.4 xuống 13.25. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.09 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng.
-- **Ngày 2025-06-25:** TPB tăng nhẹ từ 13.25 lên 13.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (11.6 triệu đơn vị).
+- **Ngày 2025-06-25:** TPB tăng nhẹ từ 13.3 lên 13.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (11.61 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Phiên tăng nhẹ trên khối lượng có phần gia tăng cho thấy lực cầu đang cố gắng quay trở lại nhưng chưa đủ mạnh để tạo ra sự bứt phá.
 - **Ngày 2025-06-26:** TPB giảm nhẹ từ 13.4 xuống 13.35. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (4.85 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Lực cầu yếu ớt của phiên trước không được duy trì và phe bán dễ dàng đẩy giá xuống. Tình hình vẫn đang giằng co.
-- **Ngày 2025-06-27:** TPB tăng nhẹ từ 13.35 lên 13.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (8.29 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Lực cầu yếu ớt của phiên trước không được duy trì và phe bán dễ dàng đẩy giá xuống. Tình hình vẫn đang giằng co.
-- **Ngày 2025-06-30:** TPB tăng nhẹ từ 13.4 lên 13.45. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (12.73 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Lực cầu yếu ớt của phiên trước không được duy trì và phe bán dễ dàng đẩy giá xuống. Tình hình vẫn đang giằng co.
-- **Ngày 2025-07-01:** TPB tăng nhẹ từ 13.45 lên 13.55. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (13.09 triệu đơn vị).
+- **Ngày 2025-06-27:** TPB đi ngang từ 13.4 về 13.4. Nến có biên độ hẹp. Khối lượng giao dịch tăng (8.29 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Lực cầu yếu ớt của phiên trước không được duy trì. Tình hình vẫn đang giằng co.
+- **Ngày 2025-06-30:** TPB đi ngang từ 13.45 về 13.45. Nến có biên độ hẹp. Khối lượng giao dịch tăng (12.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Lực cầu yếu ớt và thị trường thiếu động lực. Tình hình vẫn đang giằng co.
+- **Ngày 2025-07-01:** TPB đi ngang từ 13.55 về 13.55. Nến có biên độ hẹp. Khối lượng giao dịch tăng (13.10 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
 - **Ngày 2025-07-02:** TPB tăng nhẹ từ 13.55 lên 13.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (9.76 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
-- **Ngày 2025-07-03:** TPB tăng từ 13.6 lên 13.75. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (27.25 triệu đơn vị).
+- **Ngày 2025-07-03:** TPB tăng từ 13.65 lên 13.75. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (27.26 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay TPB đi ngang, đóng cửa ở mức 13.75. Nến có biên độ hẹp. Khối lượng giao dịch giảm (10.48 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên đi ngang với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay TPB giảm từ 13.8 xuống 13.75. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (10.48 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên giảm nhẹ với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng thấp. Đây là một nhịp điều chỉnh tích cực trong xu hướng tăng.
 - **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay TPB tăng vọt từ 13.75 lên 14.15. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (26.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng giá mới.
-- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay TPB giảm từ 14.15 xuống 14.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (32.54 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện và khá mạnh, thể hiện qua khối lượng gia tăng. Đây là một nhịp điều chỉnh bình thường, tuy nhiên cần theo dõi chặt chẽ vì lực bán đã mạnh hơn.
+- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay TPB tăng từ 13.95 lên 14.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (32.54 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Rise** tiếp diễn. Lực cầu vẫn mạnh mẽ sau tín hiệu SOS, thể hiện qua khối lượng gia tăng. Đây là một tín hiệu tích cực, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** không thành công của ngày hôm trước, phiên hôm nay TPB tăng vọt từ 14.0 lên 14.9. Cây nến có biên độ rất rộng và đóng cửa ở mức giá cao nhất. Khối lượng giao dịch bùng nổ (62.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng giá mới.
-- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)**, phiên hôm nay TPB giảm từ 14.9 lên 14.85. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (17.1 triệu đơn vị).
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)**, phiên hôm nay TPB giảm từ 15.0 xuống 14.85. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (17.10 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
-- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay TPB giảm nhẹ từ 14.85 lên 14.85. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (26.32 triệu đơn vị).
+- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay TPB đi ngang từ 14.85 lên 14.85. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (26.33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** ở vùng đỉnh. Sau phiên bùng nổ, thị trường đang tạm nghỉ để hấp thụ lực bán. Việc giá không giảm mạnh trên nền khối lượng vẫn còn cao là một tín hiệu tích cực.
 
 

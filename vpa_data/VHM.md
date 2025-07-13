@@ -10,8 +10,8 @@
     -   **Phân tích VPA/Wyckoff:** Sau một chuỗi giảm giá mạnh, phiên phục hồi này có thể là một **Automatic Rally (AR - Hồi phục Tự động)**. Tuy nhiên, khối lượng vẫn còn thấp, cho thấy lực cầu chưa thực sự mạnh mẽ và thuyết phục để có thể đảo ngược xu hướng. Cần theo dõi thêm các phiên kiểm tra lại.
 -   **Ngày 2025-06-18:** VHM tăng mạnh từ 69.6 lên 71.4. Cây nến có biên độ tăng rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch không đổi (3.85 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**, nối tiếp cho sự phục hồi của phiên trước (Automatic Rally). Tuy nhiên, khối lượng vẫn chưa có sự đột phá, cho thấy lực cầu vẫn còn dè dặt. Cần một phiên bùng nổ về khối lượng để xác nhận xu hướng phục hồi.
-- **Ngày 2025-06-19:** VHM tăng nhẹ từ 71.4 lên 71.7. Nến có biên độ hẹp. Khối lượng giao dịch tăng (5.34 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi phục hồi, phiên tăng nhẹ này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng tăng bền vững.
+- **Ngày 2025-06-19:** VHM giảm nhẹ từ 72.0 xuống 71.7. Nến có biên độ hẹp. Khối lượng giao dịch tăng (5.34 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi phục hồi, phiên giảm nhẹ này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng tăng bền vững.
 - **Ngày 2025-06-20:** VHM giảm mạnh từ 71.7 xuống 70.2. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng (8.81 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Sau nỗ lực phục hồi, áp lực bán đã quay trở lại mạnh mẽ hơn, cho thấy sự yếu kém của xu hướng tăng.
 - **Ngày 2025-06-23:** VHM tăng vọt từ 70.1 lên 74.0. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (5.36 triệu đơn vị).
@@ -28,14 +28,14 @@
     - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật (AR), phiên giảm điểm với khối lượng thấp này là một **Test for Supply**. Áp lực bán không lớn, là một tín hiệu tích cực.
 - **Ngày 2025-07-01:** VHM giảm từ 76.7 xuống 76.3. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.85 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng phục hồi một cách dứt khoát.
-- **Ngày 2025-07-02:** VHM giảm từ 76.3 xuống 76.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (4.31 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+- **Ngày 2025-07-02:** VHM tăng từ 75.3 lên 76.0. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (4.31 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng giá với khối lượng gia tăng này cho thấy lực cầu đang quay trở lại. Đây là một tín hiệu **Effort to Rise** nhẹ, cho thấy sự phục hồi và khả năng thị trường sẽ tiếp tục xu hướng tăng.
 - **Ngày 2025-07-03:** VHM tăng từ 76.0 lên 76.3. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.09 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay VHM giảm từ 76.3 xuống 76.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (3.23 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay VHM tăng mạnh từ 76.0 lên 76.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ (3.5 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay VHM tăng mạnh từ 75.7 lên 76.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ (3.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán để phủ nhận tín hiệu yếu kém trước đó. Tình hình đang chuyển biến tích cực và cho thấy khả năng phục hồi.
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay VHM tăng mạnh từ 76.9 lên 79.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (4.29 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VHM tiếp tục tăng mạnh từ 79.2 lên 81.8. Cây nến tăng có biên độ rất rộng. Khối lượng giao dịch giảm (4.06 triệu đơn vị).

@@ -22,7 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho các nỗ lực tăng giá trước đó. Lực mua áp đảo cho thấy xu hướng tăng có khả năng cao sẽ tiếp diễn.
 - **Ngày 2025-06-20:** TCB giảm từ 34.0 xuống 34.0. Nến có biên độ hẹp và đóng cửa không đổi. Khối lượng giao dịch giảm (16.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán không lớn, là một tín hiệu tích cực cho xu hướng tăng.
-- **Ngày 2025-06-23:** TCB giảm từ 33.6 lên 33.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (18.87 triệu đơn vị).
+- **Ngày 2025-06-23:** TCB tăng từ 33.6 lên 33.8. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (18.91 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán không lớn, là một tín hiệu tích cực cho xu hướng tăng.
 - **Ngày 2025-06-24:** TCB giảm từ 33.8 xuống 34.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (25.15 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn sau phiên SOS mạnh mẽ. Thị trường đang trong giai đoạn tích lũy.
@@ -32,7 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên tăng giá này xác nhận lực cầu đang quay trở lại. Mặc dù khối lượng giảm, đây vẫn là một tín hiệu **Effort to Rise** yếu, cho thấy phe mua đang cố gắng tiếp tục xu hướng tăng đã được thiết lập.
 - **Ngày 2025-06-27:** TCB giảm từ 34.05 xuống 33.95. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (9.83 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** yếu, phiên giảm điểm này cho thấy lực cầu không thể duy trì và phe bán đã quay trở lại. Đây là một tín hiệu yếu, phủ nhận nỗ lực của phiên trước.
-- **Ngày 2025-06-30:** TCB giảm từ 33.95 xuống 34.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (13.79 triệu đơn vị).
+- **Ngày 2025-06-30:** TCB tăng từ 34.1 lên 34.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (13.92 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** yếu, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
 - **Ngày 2025-07-01:** TCB tăng nhẹ từ 34.2 lên 34.4. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (12.54 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.

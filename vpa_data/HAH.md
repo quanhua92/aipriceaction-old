@@ -22,7 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay HAH tăng từ 69.1 lên 70.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (4.55 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng phục hồi.
-- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay HAH giảm từ 70.2 xuống 69.3. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (3.56 triệu đơn vị).
+- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay HAH giảm từ 70.5 xuống 69.3. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (3.60 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 

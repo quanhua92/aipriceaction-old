@@ -18,20 +18,20 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh, phiên giảm điểm trên khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn.
 - **Ngày 2025-06-24:** HSG tăng nhẹ từ 16.35 lên 16.75. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch không đổi (4.18 triệu đơn vị) và vẫn ở mức thấp.
     - **Phân tích VPA/Wyckoff:** Sau các phiên kiểm tra cung, phiên tăng giá này cho thấy lực cầu đang quay trở lại nhưng chưa thực sự mạnh mẽ. Tín hiệu trung tính.
-- **Ngày 2025-06-25:** HSG tăng nhẹ từ 16.75 lên 16.75. Nến có biên độ hẹp và đóng cửa không đổi. Khối lượng giao dịch tăng vọt (9.49 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu bất thường. Nỗ lực tăng giá (khối lượng rất cao) không tạo ra kết quả tương xứng. Điều này cho thấy có một lượng cung lớn đang cản trở đà tăng, có thể là hành động chốt lời mạnh.
+- **Ngày 2025-06-25:** HSG giảm nhẹ từ 16.9 xuống 16.75. Nến có biên độ hẹp. Khối lượng giao dịch tăng vọt (9.49 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu bất thường. Nỗ lực giảm giá (khối lượng rất cao) cho thấy có một lượng cung lớn đang cản trở đà tăng, có thể là hành động chốt lời mạnh.
 - **Ngày 2025-06-26:** HSG giữ nguyên giá 16.75. Nến giảm điểm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (3.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu bất thường của ngày 25/06 được xác nhận. Việc giá giảm sau đó (so với giá mở cửa) cho thấy lực cung đã thắng thế. Đây là một phiên **Test for Supply** không thành công, củng cố rằng có một lượng cung lớn đang cản trở đà tăng. Tín hiệu tiêu cực.
 - **Ngày 2025-06-27:** HSG giảm từ 16.75 xuống 16.55. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (3.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường và phiên xác nhận lực cung thắng thế, phiên giảm điểm tiếp theo này củng cố sự yếu kém của phe mua. Tín hiệu tiêu cực.
-- **Ngày 2025-06-30:** HSG tăng nhẹ từ 16.55 lên 16.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (4.46 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-30:** HSG giảm nhẹ từ 16.8 xuống 16.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (4.46 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên giảm nhẹ với khối lượng gia tăng này củng cố sự yếu kém. Lực bán vẫn đang chiếm ưu thế và tình hình tiếp tục tiêu cực.
 - **Ngày 2025-07-01:** HSG tăng nhẹ từ 16.6 lên 16.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (6.18 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên tăng nhẹ với khối lượng gia tăng này cho thấy sự giằng co. Lực cầu có quay lại nhưng không đủ mạnh để tạo ra sự thay đổi. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-02:** HSG tăng từ 16.7 lên 17.0. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (11.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu tiêu cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
-- **Ngày 2025-07-03:** HSG tăng nhẹ từ 17.0 lên 17.1. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (16.68 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Effort to Rise** từ phiên trước. Lực cầu vẫn đang duy trì, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-03:** HSG giảm nhẹ từ 17.2 xuống 17.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (16.68 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau phiên **Effort to Rise** mạnh mẽ của ngày trước. Áp lực bán chốt lời xuất hiện với khối lượng cao, nhưng mức giảm không lớn cho thấy đây có thể là một nhịp điều chỉnh tạm thời.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HSG giảm từ 17.1 xuống 16.95. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (6.95 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau phiên tăng mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HSG tăng từ 16.95 lên 17.35. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (13.26 triệu đơn vị).
@@ -87,7 +87,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay HT1 tăng mạnh từ 12.8 lên 13.1. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng nhẹ (984.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật mạnh mẽ, có thể là một **Automatic Rally (AR)**. Sau tín hiệu yếu kém trước đó, lực cầu đã quay trở lại để chặn đà giảm, tuy nhiên cần theo dõi các phiên kiểm tra cung tiếp theo để đánh giá sức mạnh thực sự.
-- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật, hôm nay HT1 đi ngang, đóng cửa ở mức 13.15. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.05 triệu đơn vị).
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật, hôm nay HT1 giảm nhẹ từ 13.3 xuống 13.15. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
 

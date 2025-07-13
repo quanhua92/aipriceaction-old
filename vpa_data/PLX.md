@@ -30,16 +30,16 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày tiêu cực, phiên giảm điểm trên khối lượng tăng nhẹ này tiếp tục là một tín hiệu **Effort to Fall**, xác nhận sự yếu kém của lực cầu.
 - **Ngày 2025-07-02:** PLX tăng nhẹ từ 36.9 lên 36.95. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (680,205 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày tiêu cực, phiên tăng giá trên khối lượng thấp này tiếp tục là một tín hiệu **No Demand**. Lực cầu chưa quay trở lại một cách thuyết phục.
-- **Ngày 2025-07-03:** PLX tăng nhẹ từ 36.95 lên 37.0. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (783,203 đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày tiêu cực, phiên tăng giá này là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Vẫn là một tín hiệu **No Demand**.
+- **Ngày 2025-07-03:** PLX giảm nhẹ từ 37.2 xuống 37.0. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (783,203 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày tiêu cực, phiên giảm giá trên khối lượng tăng này tiếp tục là một tín hiệu **Effort to Fall**. Áp lực bán vẫn đang chiếm ưu thế và lực cầu chưa quay trở lại một cách thuyết phục.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay PLX tăng nhẹ từ 37.0 lên 37.25. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (938,298 đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
 - **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay PLX giảm từ 37.25 xuống 37.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (986,164 đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
 - **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay PLX tăng nhẹ từ 37.1 lên 37.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (1,231,985 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
-- **Ngày 2025-07-09:** Tiếp nối các tín hiệu yếu kém trước đó, phiên hôm nay PLX tăng nhẹ từ 37.3 lên 37.45. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (1,351,472 đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sự phục hồi với khối lượng không đột biến tiếp tục xác nhận sự yếu kém của lực cầu và củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-09:** Tiếp nối các tín hiệu yếu kém trước đó, phiên hôm nay PLX giảm nhẹ từ 37.5 xuống 37.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (1,351,472 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp tục. Giá giảm trên khối lượng tăng cho thấy áp lực bán vẫn đang chiếm ưu thế và lực cầu chưa quay trở lại một cách thuyết phục.
 - **Ngày 2025-07-10:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay PLX tăng từ 37.5 lên 37.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1,684,678 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-11:** Sau phiên tăng giá, hôm nay PLX giảm từ 37.9 xuống 37.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1,225,215 đơn vị).

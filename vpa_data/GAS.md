@@ -14,8 +14,8 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Rise** vẫn tiếp tục, cho thấy sức mạnh của xu hướng tăng vẫn được duy trì tốt.
 - **Ngày 2025-06-20:** GAS giảm từ 71.8 xuống 69.5. Cây nến có biên độ giảm rộng, là một nhịp điều chỉnh sau chuỗi tăng giá mạnh. Khối lượng giao dịch giảm (1.74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tăng mạnh. Áp lực chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tích cực, cho thấy lực bán không áp đảo và xu hướng tăng có khả năng cao sẽ tiếp diễn.
-- **Ngày 2025-06-23:** GAS tăng vọt từ 73.6 lên 72.6. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (2.93 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Lực mua áp đảo cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-06-23:** GAS giảm từ 73.6 xuống 72.6. Cây nến có biên độ rộng. Khối lượng giao dịch tăng vọt (2.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** mạnh mẽ. Sau chuỗi tăng giá dài, áp lực bán chốt lời đã xuất hiện với khối lượng lớn, cho thấy phe bán đang kiểm tra khả năng hấp thụ của thị trường.
 - **Ngày 2025-06-24:** GAS giảm từ 72.6 xuống 69.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (2.62 triệu đơn vị) và vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** mạnh mẽ. Áp lực bán chốt lời sau chuỗi tăng dài là rất lớn.
 - **Ngày 2025-06-25:** GAS giảm mạnh từ 69.1 xuống 67.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.72 triệu đơn vị).

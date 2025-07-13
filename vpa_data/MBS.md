@@ -16,8 +16,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-06-25:** MBS giảm từ 27.3 xuống 27.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.91 triệu đơn vị) so với phiên tăng mạnh trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise". Áp lực bán không lớn, là một tín hiệu tích cực.
-- **Ngày 2025-06-26:** MBS giảm nhẹ từ 27.1 xuống 27.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.04 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Áp lực bán không lớn, nhưng lực cầu cũng chưa quay trở lại mạnh mẽ (**No Demand**).
+- **Ngày 2025-06-26:** MBS đi ngang từ 27.0 ở mức 27.0. Nến có biên độ vừa phải. Khối lượng giao dịch giảm (3.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên đi ngang này cho thấy sự do dự. Áp lực bán không lớn, nhưng lực cầu cũng chưa quay trở lại mạnh mẽ (**No Demand**).
 - **Ngày 2025-06-27:** MBS đi ngang, đóng cửa ở mức 27.0. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (2.62 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **No Demand** hôm trước, phiên đi ngang này tiếp tục xác nhận sự thiếu vắng động lực. Tình trạng **No Demand** không thay đổi.
 - **Ngày 2025-06-30:** MBS đi ngang, đóng cửa ở mức 27.0. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (3.27 triệu đơn vị).

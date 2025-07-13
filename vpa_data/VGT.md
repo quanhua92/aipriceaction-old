@@ -16,7 +16,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó.
 - **Ngày 2025-06-25:** VGT giảm từ 12.5 xuống 12.5. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh, phiên đi ngang này cho thấy sự do dự và kiểm tra lại cung cầu. Tín hiệu trung tính.
-- **Ngày 2025-06-26:** VGT giữ nguyên giá 12.5. Nến có biên độ vừa phải và bóng dưới. Khối lượng giao dịch giảm (1.07 triệu đơn vị).
+- **Ngày 2025-06-26:** VGT đi ngang, đóng cửa ở mức 12.5. Nến có biên độ vừa phải và bóng dưới. Khối lượng giao dịch giảm (1.07 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Sau chuỗi tăng mạnh, áp lực bán đã xuất hiện nhưng lực cầu đã hấp thụ và đẩy giá lên từ mức thấp. Việc khối lượng giảm là một tín hiệu tốt, cho thấy áp lực bán đang suy yếu.
 - **Ngày 2025-06-27:** VGT đi ngang, đóng cửa ở mức 12.5. Nến có biên độ rộng và có bóng trên. Khối lượng giao dịch tăng (2.61 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** hôm trước, phiên đi ngang trên khối lượng lớn này cho thấy một cuộc chiến giữa cung và cầu. Nỗ lực tăng giá không thành công (bóng trên) trên khối lượng lớn là một tín hiệu bất thường, cần thận trọng.
@@ -30,8 +30,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay VGT giảm từ 12.3 xuống 12.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay VGT tăng nhẹ từ 12.0 lên 12.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.24 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay VGT giảm từ 12.5 xuống 12.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.24 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm với khối lượng thấp xác nhận tình trạng **No Demand**. Phe bán vẫn đang kiểm soát và lực cầu yếu, dự báo giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VGT tăng mạnh từ 12.2 lên 12.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (2.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VGT giảm từ 12.5 xuống 12.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (952.8k đơn vị).

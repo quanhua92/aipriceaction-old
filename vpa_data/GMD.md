@@ -12,8 +12,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-06-23:** GMD giảm từ 54.68 xuống 53.71. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Thị trường thiếu động lực.
-- **Ngày 2025-06-24:** GMD tăng nhẹ từ 54.29 lên 54.2. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (2.16 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi phiên yếu kém, phiên tăng giá này có thể là một cú hồi kỹ thuật. Tuy nhiên, lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng.
+- **Ngày 2025-06-24:** GMD giảm nhẹ từ 54.29 xuống 54.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.16 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi phiên yếu kém, phiên giảm nhẹ này tiếp tục xác nhận sự thiếu vắng của lực cầu (**No Demand**). Khối lượng tăng nhẹ trong bối cảnh giá giảm cho thấy áp lực bán vẫn đang hiện diện.
 - **Ngày 2025-06-25:** GMD giảm nhẹ từ 54.2 xuống 54.0. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (1.96 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu yếu và một cú hồi kỹ thuật, phiên giảm điểm nhẹ này cho thấy thị trường vẫn đang trong trạng thái giằng co, thiếu động lực. Lực cầu vẫn chưa quay trở lại một cách thuyết phục.
 - **Ngày 2025-06-26:** GMD giảm từ 54.0 xuống 53.52. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (1.62 triệu đơn vị).
@@ -30,15 +30,15 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay GMD đi ngang, đóng cửa ở mức 58.55. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.28 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
-- **Ngày 2025-07-07:** Sau phiên đi ngang xác nhận sự yếu kém của lực cầu, phiên hôm nay GMD giảm từ 58.65 xuống 58.46. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.93 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-07:** Sau phiên đi ngang xác nhận sự yếu kém của lực cầu, phiên hôm nay GMD giảm nhẹ từ 58.65 xuống 58.46. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu (**No Demand**). Thị trường thiếu động lực và phiên giảm nhẹ này củng cố cho kịch bản điều chỉnh.
 - **Ngày 2025-07-08:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay GMD tăng mạnh từ 58.55 lên 60.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (4.34 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay GMD tiếp tục tăng từ 60.2 lên 60.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (2.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng, là một tín hiệu cảnh báo.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **No Demand**, phiên hôm nay GMD tăng nhẹ từ 60.7 lên 60.9. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá yếu ớt, phiên tăng nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng. Tình hình vẫn không chắc chắn.
-- **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay GMD giảm từ 60.2 xuống 60.2. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (2.41 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho các tín hiệu yếu kém trước đó.
+- **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay GMD đi ngang, đóng cửa ở mức 60.2. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và không có sự thay đổi giá, củng cố cho các tín hiệu yếu kém trước đó.
 
 

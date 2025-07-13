@@ -18,8 +18,8 @@
     - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực sau tín hiệu "Effort to Fall". Lực cầu vẫn rất yếu.
 - **Ngày 2025-06-24:** VCI tăng từ 35.2 lên 35.8. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (7.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, cho thấy lực cầu đã quay trở lại mạnh mẽ hơn.
-- **Ngày 2025-06-25:** VCI tăng nhẹ từ 35.8 lên 35.85. Nến có biên độ hẹp. Khối lượng giao dịch giảm (6.46 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên đi ngang này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn.
+- **Ngày 2025-06-25:** VCI giảm nhẹ từ 35.95 xuống 35.85. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.47 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên giảm nhẹ này cho thấy sự do dự và kiểm tra lại cầu. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn.
 - **Ngày 2025-06-26:** VCI giảm từ 35.85 xuống 35.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.49 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise" và "Test for Supply", phiên giảm điểm này cho thấy sự yếu kém. Lực cầu không đủ mạnh để duy trì đà tăng, xác nhận phe bán vẫn còn hiện diện. Tín hiệu tiêu cực.
 - **Ngày 2025-06-27:** VCI giảm nhẹ từ 35.5 xuống 35.45. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (4.8 triệu đơn vị).
@@ -40,8 +40,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VCI tiếp tục tăng mạnh từ 37.55 lên 38.25. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (18.91 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
-- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, phiên hôm nay VCI tăng từ 38.25 lên 38.4. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (14.17 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, phiên hôm nay VCI giảm từ 38.65 xuống 38.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (14.17 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tăng mạnh. Mặc dù giá giảm nhưng khối lượng vẫn cao, cho thấy có áp lực bán chốt lời. Tuy nhiên, đây có thể chỉ là một nhịp điều chỉnh bình thường sau giai đoạn tăng mạnh.
 - **Ngày 2025-07-11:** Sau phiên tăng chững lại, hôm nay VCI tăng vọt từ 38.4 lên 41.05. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (29.76 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
 

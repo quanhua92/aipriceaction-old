@@ -10,7 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
 - **Ngày 2025-06-20:** POW tăng từ 13.0 lên 13.05. Nến có biên độ hẹp. Khối lượng giao dịch giảm và vẫn ở mức thấp (5,062,101 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
-- **Ngày 2025-06-23:** POW đi ngang, đóng cửa ở mức 13.05. Nến có biên độ hẹp. Khối lượng giao dịch tăng (7,198,949 đơn vị).
+- **Ngày 2025-06-23:** POW giảm từ 13.1 xuống 13.05. Nến có biên độ hẹp. Khối lượng giao dịch tăng (7,198,949 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
 - **Ngày 2025-06-24:** POW đi ngang, đóng cửa ở mức 13.1. Nến có biên độ hẹp. Khối lượng giao dịch giảm (5,072,795 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
@@ -28,7 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay POW tăng từ 13.3 lên 13.45. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (16,609,108 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay POW đi ngang, đóng cửa ở mức 13.45. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (11,476,483 đơn vị).
+- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay POW giảm từ 13.5 xuống 13.45. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (11,476,483 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-08:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay POW đi ngang, đóng cửa ở mức 13.45. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (10,422,690 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.

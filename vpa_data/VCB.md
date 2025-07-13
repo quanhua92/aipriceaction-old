@@ -14,18 +14,18 @@
     - **Phân tích VPA/Wyckoff:** Sau các phiên "Test for Supply", phiên giảm nhẹ với khối lượng thấp này là một tín hiệu **No Supply**, cho thấy áp lực bán đã cạn kiệt.
 - **Ngày 2025-06-20:** VCB tăng từ 56.6 lên 57.1. Cây nến tăng có biên độ tốt. Khối lượng giao dịch tăng mạnh (6.88 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại quyết đoán, cho thấy xu hướng phục hồi có khả năng tiếp diễn.
-- **Ngày 2025-06-23:** VCB giảm từ 56.7 lên 56.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.47 triệu đơn vị).
+- **Ngày 2025-06-23:** VCB giảm từ 57.1 xuống 56.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.49 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
-- **Ngày 2025-06-24:** VCB giảm từ 56.6 lên 56.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (3.5 triệu đơn vị).
+- **Ngày 2025-06-24:** VCB giảm từ 56.9 xuống 56.6. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (3.51 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng.
-- **Ngày 2025-06-25:** VCB đi ngang, đóng cửa ở mức 56.6. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.73 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng giá ngày 20/06 và các phiên giằng co, phiên đi ngang với khối lượng thấp này cho thấy sự do dự. Cả hai phe mua và bán đều không hành động quyết liệt.
+- **Ngày 2025-06-25:** VCB giảm từ 56.8 xuống 56.6. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng giá ngày 20/06 và các phiên giằng co, phiên giảm với khối lượng thấp này cho thấy sự do dự. Cả hai phe mua và bán đều không hành động quyết liệt.
 - **Ngày 2025-06-26:** VCB giảm từ 56.6 xuống 56.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (2.84 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Việc giá giảm nhẹ sau các nỗ lực phục hồi không thành công cho thấy lực cầu vẫn còn yếu (**No Demand**).
 - **Ngày 2025-06-27:** VCB tăng từ 56.4 lên 56.7. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (4.08 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên giằng co, lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy khả năng xu hướng phục hồi sẽ tiếp diễn.
-- **Ngày 2025-06-30:** VCB tăng nhẹ từ 56.7 lên 57.0. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (2.95 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
+- **Ngày 2025-06-30:** VCB đi ngang từ 57.0 về 57.0. Nến đi ngang có biên độ hẹp. Khối lượng giao dịch giảm (2.95 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên đi ngang với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
 - **Ngày 2025-07-01:** VCB tăng mạnh từ 57.0 lên 58.2. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (10.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu **No Demand** trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
 - **Ngày 2025-07-02:** VCB giảm từ 58.2 xuống 58.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (2.91 triệu đơn vị).

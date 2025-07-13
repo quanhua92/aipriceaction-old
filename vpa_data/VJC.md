@@ -8,13 +8,13 @@
     -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply**. Thị trường đang ở trạng thái cân bằng, thiếu động lực. Cần chờ đợi một phiên có sự đột phá về giá và khối lượng để xác định hướng đi tiếp theo.
 -   **Ngày 2025-06-17:** VJC giảm nhẹ xuống 87.7. Biên độ nến hẹp và khối lượng giao dịch tiếp tục ở mức thấp (670.500 đơn vị).
     -   **Phân tích VPA/Wyckoff:** Tình trạng đi ngang không có cung và không có cầu tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
--   **Ngày 2025-06-18:** VJC giảm nhẹ từ 87.7 xuống 87.5. Biên độ nến hẹp. Khối lượng giao dịch vẫn ở mức thấp (609.6k đơn vị).
+-   **Ngày 2025-06-18:** VJC đi ngang ở mức 87.7. Biên độ nến hẹp. Khối lượng giao dịch vẫn ở mức thấp (663.1k đơn vị).
     -   **Phân tích VPA/Wyckoff:** Tình trạng đi ngang không có cung và không có cầu vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 - **Ngày 2025-06-19:** VJC tăng từ 87.5 lên 88.5. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1.2 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận các tín hiệu đi ngang trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-06-20:** VJC tăng nhẹ từ 88.5 lên 88.7. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (697.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise", phiên đi ngang này cho thấy sự do dự. Tín hiệu trung tính.
-- **Ngày 2025-06-23:** VJC giảm từ 87.9 lên 87.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (670.0k đơn vị).
+- **Ngày 2025-06-23:** VJC giảm từ 88.7 xuống 87.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (673.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.
 - **Ngày 2025-06-24:** VJC tăng từ 87.5 lên 88.1. Nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (638.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực.

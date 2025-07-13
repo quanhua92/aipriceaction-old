@@ -14,11 +14,11 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng giá mạnh mẽ, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay TNG giảm từ 21.4 xuống 20.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (2.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay TNG giảm từ 20.9 xuống 21.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.51 triệu đơn vị).
+- **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay TNG tăng từ 20.9 lên 21.1. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.51 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
-- **Ngày 2025-07-08:** Sau phiên **Test for Supply**, phiên hôm nay TNG giảm từ 21.1 xuống 21.3. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (2.79 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay TNG tiếp tục giảm từ 21.3 xuống 20.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.67 triệu đơn vị).
+- **Ngày 2025-07-08:** Sau phiên **Test for Supply**, phiên hôm nay TNG giảm từ 21.4 xuống 21.3. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (2.79 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, mặc dù biên độ giảm không lớn.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay TNG tiếp tục giảm từ 21.3 xuống 20.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán đã suy yếu. Đây có thể là một phiên **Test for Supply**. Mặc dù chưa phải là tín hiệu đảo chiều, nhưng nó cho thấy đà giảm đang chững lại.
 - **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay TNG giảm từ 20.9 xuống 20.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (1.89 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá tiếp tục giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.

@@ -62,9 +62,10 @@ def parse_vpa_analysis(vpa_file: str) -> List[Dict]:
 
 def extract_price_movement(text: str) -> Optional[Dict]:
     """Extract price movement information from analysis text."""
-    # Pattern to match price movements like "tăng từ 7.16 lên 7.17" or "giảm từ 7.25 xuống 7.15"
-    price_pattern = r'(tăng|giảm|đi ngang).*?từ\s+([\d.]+)\.?\s+(?:lên|xuống|đến)\s+([\d.]+)'
-    match = re.search(price_pattern, text)
+    # Pattern 1: Ticker name followed by specific price movement with from/to prices
+    # Examples: "AAA tăng từ 7.16 lên 7.17", "VCB giảm từ 57.2 xuống 56.7"
+    ticker_price_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang).*?từ\s+([\d.]+)\.?\s+(?:lên|xuống|đến|về)\s+([\d.]+)'
+    match = re.search(ticker_price_pattern, text)
     
     if match:
         direction = match.group(1)
@@ -79,11 +80,72 @@ def extract_price_movement(text: str) -> Optional[Dict]:
         except ValueError:
             pass
     
-    # Alternative pattern for cases without explicit from/to prices
-    simple_pattern = r'(tăng|giảm|đi ngang)'
-    match = re.search(simple_pattern, text)
+    # Pattern 2: General price movement with from/to prices (fallback)
+    # Examples: "tăng từ 7.16 lên 7.17", "giảm từ 7.25 xuống 7.15"
+    general_price_pattern = r'(tăng|giảm|đi ngang).*?từ\s+([\d.]+)\.?\s+(?:lên|xuống|đến|về)\s+([\d.]+)'
+    match = re.search(general_price_pattern, text)
+    
     if match:
-        return {'direction': match.group(1)}
+        direction = match.group(1)
+        try:
+            from_price = float(match.group(2).rstrip('.'))
+            to_price = float(match.group(3).rstrip('.'))
+            return {
+                'direction': direction,
+                'from_price': from_price,
+                'to_price': to_price
+            }
+        except ValueError:
+            pass
+    
+    # Pattern 3: Ticker name followed by direction with specific price levels
+    # Examples: "AAA tăng nhẹ lên 56.6", "VCB đóng cửa ở 56.2"
+    ticker_direction_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang)(?:\s+(?:nhẹ|mạnh|vọt))?(?:\s+(?:lên|xuống|về|ở))?\s+([\d.]+)'
+    match = re.search(ticker_direction_pattern, text)
+    
+    if match:
+        direction = match.group(1)
+        try:
+            price = float(match.group(2).rstrip('.'))
+            return {
+                'direction': direction,
+                'price': price
+            }
+        except ValueError:
+            pass
+    
+    # Pattern 4: Look for ticker followed by direction (simpler approach)
+    ticker_simple_pattern = r'[A-Z]{3,4}\s+(tăng|giảm|đi ngang)'
+    match = re.search(ticker_simple_pattern, text)
+    if match:
+        # Check if this is not a contextual reference
+        start_pos = match.start()
+        # Look for contextual words in the 20 characters before the match
+        preceding_text = text[max(0, start_pos-20):start_pos].lower()
+        contextual_words = ['sau phiên', 'tiếp nối', 'phiên trước']
+        
+        # If no contextual words found in preceding text, it's likely the actual movement
+        if not any(word in preceding_text for word in contextual_words):
+            return {'direction': match.group(1)}
+    
+    # Pattern 5: Simple fallback - just look for direction words
+    # This will catch cases where previous patterns failed
+    simple_direction_pattern = r'(tăng|giảm|đi ngang)'
+    matches = list(re.finditer(simple_direction_pattern, text))
+    
+    if matches:
+        # Prefer matches that are NOT preceded by contextual phrases
+        for match in matches:
+            start_pos = match.start()
+            preceding_text = text[max(0, start_pos-15):start_pos].lower()
+            contextual_phrases = ['sau phiên', 'tiếp nối', 'chuỗi', 'các phiên']
+            
+            # If this match is not in a contextual phrase, use it
+            if not any(phrase in preceding_text for phrase in contextual_phrases):
+                return {'direction': match.group(1)}
+        
+        # If all matches seem contextual, use the last one (often the actual movement)
+        return {'direction': matches[-1].group(1)}
     
     return None
 

@@ -18,7 +18,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên tiếp tục tăng giá sau nỗ lực tăng giá. Mặc dù khối lượng giảm nhưng giá vẫn tăng, cho thấy áp lực bán không lớn, là một tín hiệu tích cực.
 - **Ngày 2025-06-24:** BID giảm nhẹ từ 36.05 xuống 36.0. Cây nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch tăng (4.42 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Một tín hiệu bất thường. Nỗ lực (khối lượng tăng) không tạo ra kết quả tương xứng (giá giảm nhẹ). Điều này cho thấy có một lượng cung đáng kể đang cản trở đà tăng.
-- **Ngày 2025-06-25:** BID đi ngang từ 36.05 xuống 35.85. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.40 triệu đơn vị) so với phiên trước.
+- **Ngày 2025-06-25:** BID giảm từ 36.05 xuống 35.85. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.40 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tín hiệu bất thường ngày 24/06 được xác nhận. Việc giá giảm sau đó cho thấy lực cung đã thắng thế. Đây là một phiên **Test for Supply** không thành công, củng cố rằng có một lượng cung đáng kể đang cản trở đà tăng.
 - **Ngày 2025-06-26:** BID giảm từ 35.85 xuống 35.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.34 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu cung thắng thế, phiên giảm điểm tiếp theo xác nhận sự yếu kém của phe mua. Việc giá giảm trên khối lượng thấp cho thấy lực cầu đã suy yếu và không thể hỗ trợ giá. Tín hiệu tiêu cực.

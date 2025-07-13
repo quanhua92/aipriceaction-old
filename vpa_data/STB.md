@@ -10,10 +10,10 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán không lớn, là một tín hiệu tích cực.
 - **Ngày 2025-06-20:** STB giảm từ 47.15 xuống 46.6. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (10.88 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Fall**, tiếp nối phiên chốt lời hôm trước. Áp lực bán đang gia tăng, cần theo dõi chặt chẽ.
-- **Ngày 2025-06-23:** STB giảm từ 46.25 lên 46.45. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (6.59 triệu đơn vị).
+- **Ngày 2025-06-23:** STB tăng từ 46.25 lên 46.45. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (6.60 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên chốt lời. Áp lực bán không lớn, là một tín hiệu tích cực.
-- **Ngày 2025-06-24:** STB giảm từ 46.45 xuống 46.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (10.45 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng.
+- **Ngày 2025-06-24:** STB giảm từ 46.85 xuống 46.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (10.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn, nhưng áp lực bán đã xuất hiện. Thị trường thiếu động lực rõ ràng.
 - **Ngày 2025-06-25:** STB tăng nhẹ từ 46.5 lên 46.8. Nến có biên độ hẹp. Khối lượng giao dịch giảm (6.58 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn sau chuỗi ngày biến động. Phiên tăng nhẹ với khối lượng giảm cho thấy sự thiếu quyết đoán từ cả hai phía.
 - **Ngày 2025-06-26:** STB giữ nguyên giá 46.8. Nến giảm điểm có biên độ rộng. Khối lượng giao dịch tăng (9.6 triệu đơn vị).
@@ -32,13 +32,13 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay STB tăng từ 47.05 lên 47.55. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (8.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
-- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay STB giảm từ 47.55 xuống 47.65. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.01 triệu đơn vị).
+- **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay STB giảm nhẹ từ 47.7 xuống 47.65. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (6.02 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
-- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay STB tăng từ 47.65 lên 47.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (9.77 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay STB giảm nhẹ từ 48.0 xuống 47.8. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (9.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply**, nhưng áp lực bán đã xuất hiện trở lại. Việc giá giảm với khối lượng tăng cho thấy lực cầu chưa đủ mạnh để hấp thụ hết áp lực bán.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay STB giảm từ 47.8 xuống 47.65. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.37 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
-- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay STB đi ngang, đóng cửa ở mức 47.65. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (10.77 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy sự giằng co. Lực cầu chưa quay trở lại mạnh mẽ để tiếp tục đà tăng, cho thấy thị trường cần thêm thời gian tích lũy.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay STB giảm nhẹ từ 47.8 xuống 47.65. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (10.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục cho thấy áp lực bán vẫn còn. Lực cầu chưa quay trở lại mạnh mẽ để tiếp tục đà tăng, cho thấy thị trường cần thêm thời gian tích lũy.
 
 

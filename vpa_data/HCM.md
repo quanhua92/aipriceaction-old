@@ -12,7 +12,7 @@
     -   **Phân tích VPA/Wyckoff:** Một sự bất thường. Giá chỉ tăng nhẹ nhưng khối lượng lại tăng vọt, gần bằng phiên SOW. Điều này cho thấy có một lực bán lớn đang đối đầu với lực mua. Đây không phải là một tín hiệu phục hồi đáng tin cậy.
 - **Ngày 2025-06-19:** HCM giảm nhẹ từ 20.67 xuống 20.51. Nến có biên độ hẹp. Khối lượng giao dịch giảm (7.22 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường hôm trước, phiên giảm nhẹ này cho thấy sự giằng co vẫn tiếp diễn. Tình hình vẫn còn rất rủi ro.
-- **Ngày 2025-06-20:** HCM tăng nhẹ, đóng cửa ở mức 20.55. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (13.30 triệu đơn vị) nhưng vẫn thấp hơn phiên SOW.
+- **Ngày 2025-06-20:** HCM giảm nhẹ từ 20.59 xuống 20.55. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (13.30 triệu đơn vị) nhưng vẫn thấp hơn phiên SOW.
     - **Phân tích VPA/Wyckoff:** Tình hình vẫn tiêu cực. Sau hàng loạt tín hiệu yếu, thị trường vẫn không thể phục hồi một cách thuyết phục. Lực cầu yếu và áp lực bán vẫn đang tiềm ẩn.
 - **Ngày 2025-06-23:** HCM giảm mạnh từ 20.43 xuống 20.23. Cây nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng vọt (20.18 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Áp lực bán đã xuất hiện và áp đảo, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh.
@@ -24,7 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Sau hàng loạt các tín hiệu yếu, phiên giảm điểm tiếp theo này xác nhận lực cầu vẫn hoàn toàn vắng mặt (**No Demand**). Tình hình rất tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-06-27:** HCM tăng từ 20.95 lên 21.15. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (8.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau hàng loạt các tín hiệu yếu, lực cầu đã quay trở lại mạnh mẽ hơn. Tuy nhiên, cần theo dõi thêm để xác nhận liệu đây có phải là sự khởi đầu của một đợt phục hồi bền vững hay không.
-- **Ngày 2025-06-30:** HCM tăng từ 21.4 lên 21.4. Tuy nhiên, giá đã cố gắng tăng lên 21.65 nhưng bị bán ngược trở lại, tạo bóng trên dài. Khối lượng giao dịch tăng (10.81 triệu đơn vị).
+- **Ngày 2025-06-30:** HCM đi ngang ở mức 21.4. Tuy nhiên, giá đã cố gắng tăng lên 21.65 nhưng bị bán ngược trở lại, tạo bóng trên dài. Khối lượng giao dịch tăng (10.81 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Up-thrust** hoặc một **Test for Supply** không thành công. Nỗ lực đẩy giá lên đã gặp phải nguồn cung chốt lời mạnh. Việc giá không giữ được mức cao nhất trên khối lượng gia tăng là một dấu hiệu yếu kém, cho thấy phe bán đang quay trở lại.
 - **Ngày 2025-07-01:** HCM giảm nhẹ từ 21.5 xuống 21.25. Nến trong ngày giảm điểm (mở cửa 21.5). Khối lượng giao dịch giảm (7.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Up-thrust** không thành công, phiên giảm điểm này xác nhận phe bán đang quay trở lại. Đây là một tín hiệu yếu, củng cố khả năng giá sẽ tiếp tục điều chỉnh.
@@ -34,8 +34,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HCM tăng nhẹ từ 23.3 lên 23.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (14.54 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
-- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HCM tăng từ 23.8 lên 23.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (12.47 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HCM giảm từ 23.8 xuống 23.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (12.47 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tiếp diễn. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay HCM tăng từ 23.9 lên 23.95. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (18.46 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HCM tiếp tục tăng mạnh từ 24.1 lên 24.45. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (19.68 triệu đơn vị).

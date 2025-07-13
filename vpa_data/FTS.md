@@ -2,9 +2,9 @@
 
 - **Ngày 2025-06-26:** FTS giảm nhẹ từ 37.6 xuống 37.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.78 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các phiên chốt lời và đi ngang, phiên giảm điểm này cho thấy phe bán vẫn đang kiểm soát. Tín hiệu tiêu cực trong ngắn hạn.
-- **Ngày 2025-06-27:** FTS tăng nhẹ từ 37.0 lên 37.2. Nến có biên độ hẹp. Khối lượng giao dịch giảm (3.02 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để đảo ngược tình thế. Tình hình vẫn tiêu cực.
-- **Ngày 2025-06-30:** FTS tăng từ 37.2 lên 37.7. Tuy nhiên, giá đã cố gắng tăng lên 38.5 nhưng bị bán ngược trở lại, tạo bóng trên rất dài. Khối lượng giao dịch tăng (3.69 triệu đơn vị).
+- **Ngày 2025-06-27:** FTS giảm nhẹ từ 37.25 xuống 37.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.02 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm, phiên giảm tiếp với khối lượng thấp này là một tín hiệu **No Demand**. Áp lực bán vẫn duy trì và lực cầu yếu. Tình hình vẫn tiêu cực.
+- **Ngày 2025-06-30:** FTS giảm từ 37.85 xuống 37.7. Tuy nhiên, giá đã cố gắng tăng lên 38.5 nhưng bị bán ngược trở lại, tạo bóng trên rất dài. Khối lượng giao dịch tăng (3.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Up-thrust** hoặc một **Test for Supply** không thành công. Nỗ lực đẩy giá lên đã gặp phải nguồn cung chốt lời mạnh. Việc giá không giữ được mức cao nhất trên khối lượng gia tăng là một dấu hiệu yếu kém, xác nhận tín hiệu **No Demand** của phiên trước.
 - **Ngày 2025-07-01:** FTS giảm từ 37.7 xuống 37.25. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Up-thrust** không thành công, phiên giảm điểm này xác nhận phe bán đang quay trở lại. Đây là một tín hiệu yếu, củng cố khả năng giá sẽ tiếp tục điều chỉnh.

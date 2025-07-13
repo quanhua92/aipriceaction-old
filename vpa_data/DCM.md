@@ -20,7 +20,7 @@
     - **Phân tích VPA/Wyckoff:** Sau giai đoạn điều chỉnh, phiên giảm nhẹ với khối lượng thấp này là một tín hiệu **No Demand**. Nó cho thấy lực cầu chưa quay trở lại mạnh mẽ và thị trường có thể cần thêm thời gian tích lũy.
 - **Ngày 2025-06-27:** DCM giảm từ 34.20 xuống 33.65. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (4.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu "No Demand" của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
-- **Ngày 2025-06-30:** DCM giảm từ 33.70 xuống 33.70. Nến đi ngang có biên độ hẹp. Khối lượng giao dịch giảm (3.73 triệu đơn vị).
+- **Ngày 2025-06-30:** DCM đi ngang từ 33.70 ở mức 33.70. Nến đi ngang có biên độ hẹp. Khối lượng giao dịch giảm (3.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên đi ngang với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-01:** DCM giảm từ 33.75 xuống 33.45. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu tiêu cực, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của phe mua. Tình hình vẫn tiêu cực.
