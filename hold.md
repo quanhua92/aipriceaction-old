@@ -11,7 +11,7 @@
 
 ## Phân tích
 
-**1. Tóm Tắt Danh Mục Hiện Tại**
+### 1. Tóm Tắt Danh Mục Hiện Tại
 
 Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiết lập đỉnh mới tại 1,457.76 điểm với khối lượng bùng nổ. Danh mục hiện tại cho thấy sự phân hóa rõ rệt: VND tiếp tục dẫn dắt với tín hiệu "Effort to Rise" ngày 2025-07-08 sau "Sign of Strength" tuần trước, trong khi TCB đang trong giai đoạn Test for Supply sau Signal of Weakness trước đó. Chiến lược tập trung tăng vị thế mạnh (VND) và duy trì quan sát TCB.
 
@@ -21,9 +21,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
   | TCB         | Test for Supply sau SOW, consolidation | Hold (chờ tín hiệu rõ ràng) |
   | VND         | Effort to Rise xác nhận, xu hướng mạnh | Buy More (tăng vị thế) |
 
-**2. Kế Hoạch Giao Dịch Chi Tiết**
+### 2. Kế Hoạch Giao Dịch Chi Tiết
 
-### **TCB (NGAN_HANG)**
+#### **TCB (NGAN_HANG)**
 ![Weekly Chart](./reports_week/TCB/TCB_candlestick_chart.png)
 ![Daily Chart](./reports/TCB/TCB_candlestick_chart.png)
 
@@ -45,7 +45,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **VND (CHUNG_KHOAN)**
+#### **VND (CHUNG_KHOAN)**
 ![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png)
 ![Daily Chart](./reports/VND/VND_candlestick_chart.png)
 
@@ -67,7 +67,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-**3. Kế Hoạch Gia Tăng Chi Tiết**
+### 3. Kế Hoạch Gia Tăng Chi Tiết
 
 *Top 3 cổ phiếu đa dạng ngành để mở rộng danh mục - giảm rủi ro, tăng lợi nhuận*
 
@@ -79,7 +79,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **VTP (VAN_TAI)**
+#### **VTP (VAN_TAI)**
 ![Weekly Chart](./reports_week/VTP/VTP_candlestick_chart.png)
 ![Daily Chart](./reports/VTP/VTP_candlestick_chart.png)
 
@@ -92,7 +92,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **POW (NANG_LUONG)**
+#### **POW (NANG_LUONG)**
 ![Weekly Chart](./reports_week/POW/POW_candlestick_chart.png)
 ![Daily Chart](./reports/POW/POW_candlestick_chart.png)
 
@@ -105,7 +105,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **MWG (BAN_LE)**
+#### **MWG (BAN_LE)**
 ![Weekly Chart](./reports_week/MWG/MWG_candlestick_chart.png)
 ![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
 
@@ -116,7 +116,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 65.0
 * **Điểm Chốt Lời:** 75.0 - 80.0
 
-**4. Nhật Ký Thay Đổi Kế Hoạch**
+### 4. Nhật Ký Thay Đổi Kế Hoạch
 
 * **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
   * `VND từ Hold sang Buy More`: Tín hiệu **'Effort to Rise' ngày 2025-07-08** xác nhận Strong Bullish Continuation sau **'Sign of Strength' tuần kết thúc 2025-07-07**. Weekly và daily signals đều hỗ trợ, ngành dẫn dắt, đáp ứng điều kiện protocol #1A.

@@ -21,7 +21,7 @@ ls vpa_data/ market_data/
 - Verify `market_data/` directory exists with individual ticker CSV files
 - Verify `REPORT_week.md` exists with weekly analysis
 - Verify `LEADER.md` exists with industry context analysis
-- Verify `GROUP.md` exists with ticker-to-industry mappings
+- **MANDATORY**: Verify `GROUP.md` exists with accurate ticker-to-industry mappings - cross-check all portfolio holdings
 - Verify `PLAN.md` exists with overall market context (VNINDEX analysis)
 
 **Success Criteria**: All core input files are present and accessible
@@ -83,8 +83,9 @@ ls vpa_data/ market_data/
 1. Read `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries)
 2. Read `market_data/{TICKER}_*.csv` for current price (last row)
 3. Cross-reference with `REPORT.md` and `REPORT_week.md` for signals
-4. Map industry using `GROUP.md` and get status from `LEADER.md`
-5. Extract VNINDEX context from `PLAN.md`
+4. **CRITICAL**: Map industry using `GROUP.md` and cross-check accuracy - verify each ticker's industry classification
+5. Get industry status from `LEADER.md`
+6. Extract VNINDEX context from `PLAN.md`
 
 **Data Extraction Rules**:
 - Extract holding data ONLY from existing `hold-gialang.md` portfolio table
@@ -92,7 +93,7 @@ ls vpa_data/ market_data/
 - Extract daily signals ONLY from `REPORT.md` with exact dates
 - Extract weekly signals ONLY from `REPORT_week.md` with week ending dates
 - Extract VPA narrative context from individual `vpa_data/{TICKER}.md` files
-- Map industries using exact matches from `GROUP.md`
+- **MANDATORY**: Map industries using exact matches from `GROUP.md` - ALWAYS cross-check ticker industry classification accuracy
 - Get industry status from `LEADER.md` analysis
 - Extract market context from `PLAN.md` VNINDEX analysis
 
@@ -184,11 +185,12 @@ Task 3: "Select top 3 diversified portfolio expansion picks from different indus
 - Cross-reference with `vpa_data/{TICKER}.md` files for detailed analysis
 
 **Selection Process**:
-1. **Industry Matching**: Find all tickers in same industry group as holding ticker
+1. **Industry Matching**: Find all tickers in same industry group as holding ticker - **MANDATORY**: Use `GROUP.md` to verify exact industry classification
 2. **Weekly Signal Filtering**: From available tickers, prioritize those with strong weekly bullish signals (SOS Bar, Effort to Rise, etc.)
 3. **Daily Confirmation**: Confirm weekly signals with supportive daily VPA analysis
 4. **Cross-Industry Options**: If insufficient same-industry options, expand to strong tickers from leading industry groups
 5. **Ranking Logic**: Rank by weekly signal strength first, then daily confirmation, then industry leadership status
+6. **CRITICAL VERIFICATION**: Always cross-check alternatives are from the SAME industry group in `GROUP.md` - never mix industries in same-sector alternatives
 
 **Output Format**: For each alternative, provide specific reasoning citing:
 - Weekly VPA signal and date (PRIORITY)
@@ -343,7 +345,8 @@ For EVERY ticker, provide detailed breakdown:
 - [ ] Change log documents every recommendation change with justification
 - [ ] Chart links use correct file paths
 - [ ] Vietnamese text is grammatically correct
-- [ ] Industry classifications match GROUP.md
+- [ ] Industry classifications match GROUP.md exactly
+- [ ] **CRITICAL**: All "Top 3 Cổ Phiếu Thay Thế" alternatives are from the SAME industry group as the holding ticker per GROUP.md
 
 ### Step 8: File Output
 **Objective**: Generate final hold-gialang.md file

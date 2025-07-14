@@ -18,7 +18,7 @@
 
 ## Phân tích
 
-**1. Tóm Tắt Danh Mục Hiện Tại**
+### 1. Tóm Tắt Danh Mục Hiện Tại
 
 Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiết lập đỉnh mới tại 1,457.76 điểm với khối lượng bùng nổ. Danh mục hiện tại cho thấy hiệu suất tích cực với tổng lợi nhuận chưa thực hiện +15.8% trên các cổ phiếu được theo dõi. Các vị thế mạnh nhất là SSI (+15.3%), MSN (+16.7%), và TCB (+32.7%) đều nằm trong các ngành dẫn dắt thị trường. Chiến lược tập trung giữ các vị thế mạnh và điều chỉnh các vị thế yếu.
 
@@ -35,9 +35,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
   | TCB         | No Demand tuần, weak daily | Hold (bảo vệ lợi nhuận) |
   | AGG         | Không tìm thấy dữ liệu | Review (xác minh vị thế) |
 
-**2. Kế Hoạch Giao Dịch Chi Tiết**
+### 2. Kế Hoạch Giao Dịch Chi Tiết
 
-### **MWG (BAN_LE)**
+#### **MWG (BAN_LE)**
 ![Weekly Chart](./reports_week/MWG/MWG_candlestick_chart.png)
 ![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
 
@@ -53,13 +53,13 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 65.0 (bảo vệ lợi nhuận)
 * **Điểm Chốt Lời:** 72.0 - 75.0 (chốt từng phần)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **SSI**: Weekly SOS 2025-07-07 + explosive volume, ngành CHUNG_KHOAN dẫn dắt với +15.3% performance
-  * **VCI**: Weekly SOS + cùng ngành CHUNG_KHOAN + Daily SOS confirmation + industry co-leader status
-  * **VIX**: Weekly SOS + cùng ngành CHUNG_KHOAN + equivalent strength to VCI + industry ranking #2
+  * **PNJ**: Weekly signals cần xác minh + cùng ngành BAN_LE + jewelry retail exposure + defensive characteristics
+  * **FRT**: Weekly signals cần xác minh + cùng ngành BAN_LE + retail pharmacy sector + stable business model
+  * **DGW**: Weekly signals cần xác minh + cùng ngành BAN_LE + consumer goods retail + market expansion potential
 
 -----
 
-### **VNM (THUC_PHAM)**
+#### **VNM (THUC_PHAM)**
 ![Weekly Chart](./reports_week/VNM/VNM_candlestick_chart.png)
 ![Daily Chart](./reports/VNM/VNM_candlestick_chart.png)
 
@@ -81,7 +81,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **SSI (CHUNG_KHOAN)**
+#### **SSI (CHUNG_KHOAN)**
 ![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart.png)
 ![Daily Chart](./reports/SSI/SSI_candlestick_chart.png)
 
@@ -103,7 +103,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **MSN (THUC_PHAM)**
+#### **MSN (THUC_PHAM)**
 ![Weekly Chart](./reports_week/MSN/MSN_candlestick_chart.png)
 ![Daily Chart](./reports/MSN/MSN_candlestick_chart.png)
 
@@ -125,7 +125,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **KBC (BAT_DONG_SAN_KCN)**
+#### **KBC (BAT_DONG_SAN_KCN)**
 ![Weekly Chart](./reports_week/KBC/KBC_candlestick_chart.png)
 ![Daily Chart](./reports/KBC/KBC_candlestick_chart.png)
 
@@ -147,7 +147,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **FUEVFVND (FUND)**
+#### **FUEVFVND (FUND)**
 
 * **Giá Mua Trung Bình:** 32.01
 * **Số Lượng Nắm Giữ:** 1,800
@@ -159,7 +159,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **NKG (THEP)**
+#### **NKG (THEP)**
 ![Weekly Chart](./reports_week/NKG/NKG_candlestick_chart.png)
 ![Daily Chart](./reports/NKG/NKG_candlestick_chart.png)
 
@@ -181,7 +181,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **TCB (NGAN_HANG)**
+#### **TCB (NGAN_HANG)**
 ![Weekly Chart](./reports_week/TCB/TCB_candlestick_chart.png)
 ![Daily Chart](./reports/TCB/TCB_candlestick_chart.png)
 
@@ -203,7 +203,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **AGG (STATUS_UNKNOWN)**
+#### **AGG (STATUS_UNKNOWN)**
 
 * **Giá Mua Trung Bình:** 19.63
 * **Số Lượng Nắm Giữ:** 1,950
@@ -215,7 +215,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-**3. Kế Hoạch Gia Tăng Chi Tiết**
+### 3. Kế Hoạch Gia Tăng Chi Tiết
 
 *Top 3 cổ phiếu đa dạng ngành để mở rộng danh mục - giảm rủi ro, tăng lợi nhuận*
 
@@ -227,7 +227,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **REE (NANG_LUONG)**
+#### **REE (NANG_LUONG)**
 ![Weekly Chart](./reports_week/REE/REE_candlestick_chart.png)
 ![Daily Chart](./reports/REE/REE_candlestick_chart.png)
 
@@ -240,7 +240,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **BCM (BAT_DONG_SAN_KCN)**
+#### **BCM (BAT_DONG_SAN_KCN)**
 ![Weekly Chart](./reports_week/BCM/BCM_candlestick_chart.png)
 ![Daily Chart](./reports/BCM/BCM_candlestick_chart.png)
 
@@ -253,7 +253,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 -----
 
-### **CTG (NGAN_HANG)**
+#### **CTG (NGAN_HANG)**
 ![Weekly Chart](./reports_week/CTG/CTG_candlestick_chart.png)
 ![Daily Chart](./reports/CTG/CTG_candlestick_chart.png)
 
@@ -264,7 +264,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 41.5
 * **Điểm Chốt Lời:** 52.0 - 55.0
 
-**4. Nhật Ký Thay Đổi Kế Hoạch**
+### 4. Nhật Ký Thay Đổi Kế Hoạch
 
 * **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
   * `SSI từ Hold sang Buy More`: Tín hiệu **'Effort to Rise' ngày 2025-07-11** với khối lượng 62.9 triệu xác nhận Strong Bullish Continuation sau **'Sign of Strength' tuần kết thúc 2025-07-11**. Weekly và daily signals đều hỗ trợ, ngành dẫn dắt, đáp ứng điều kiện protocol #1A.
