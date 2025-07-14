@@ -23,76 +23,48 @@ ls market_data_check_dividends/
 **Success Criteria**: All dividend adjustments completed, `market_data_check_dividends/` directory is empty
 
 ### Step 2: Individual Ticker VPA Analysis
-**Objective**: Analyze each ticker using parallel agents for efficiency
+**Objective**: Analyze each ticker using automated preparation and efficient generation
 
-#### 2.1 Context Gathering (Internal Processing)
-For each ticker with new data, create this internal context structure:
+#### 2.1 Context Gathering (Automated)
+**Use Python utility for data preparation**:
 
-```json
-{
-  "ticker": "TICKER_SYMBOL",
-  "new_data_date": "2025-07-13",
-  "new_data_ohlcv": {
-    "open": 64.4,
-    "high": 64.9, 
-    "low": 64.1,
-    "close": 64.7,
-    "volume": 1250000
-  },
-  "previous_data_ohlcv": {
-    "open": 63.8,
-    "high": 64.5,
-    "low": 63.5, 
-    "close": 64.4,
-    "volume": 980000
-  },
-  "previous_vpa_analysis": {
-    "date": "2025-07-12",
-    "signal": "No Demand",
-    "context": "Previous analysis summary"
-  },
-  "analysis_mode": "NEW_ENTRY" // or "UPDATE_LAST" if today exists in last 10 VPA entries
-}
+```bash
+uv run utilities/vpa_analysis_prep.py
 ```
+
+This script automatically:
+- Scans all market_data CSV files for today's data
+- Reads existing VPA analysis from vpa_data/ directory
+- Identifies tickers needing new analysis
+- Extracts context data (today's OHLCV, previous OHLCV, latest VPA signal)
+- Provides summary of analysis requirements
+
+**Reference**: See `tasks/task_vpa_prep_python.md` for detailed usage
 
 #### 2.2 Analysis Generation
-**CRITICAL**: Only append new date entries - NEVER overwrite existing VPA analysis unless dividends require price adjustments
+**Use Task tool with standardized prompt**:
 
-**Format Requirements**: Follow exact Vietnamese VPA format
+Based on the output from Step 2.1, use the Task tool with the template from `tasks/task_generate_vpa_analysis.md`.
 
-```markdown
-- **Ngày YYYY-MM-DD:** [Analysis of price movement from previous to current day]. [Description of candle characteristics]. [Volume analysis compared to previous day].
-    - **Phân tích VPA/Wyckoff:** [Wyckoff interpretation: No Demand, Effort to Rise, Sign of Strength, etc.]. [Contextual explanation building on previous analysis].
-```
+**Key steps**:
+1. Read the task template: `tasks/task_generate_vpa_analysis.md`
+2. Customize the prompt with current date and ticker count
+3. Execute Task tool to generate VPA analysis for all tickers needing updates
+4. The task tool will handle all format requirements and Vietnamese VPA analysis
 
-**Analysis Requirements**:
-- **Contextual Continuity**: Must reference previous VPA signal from most recent existing entry
-- **Comparative Analysis**: Explicitly compare new bar to previous bar (price, spread, volume)  
-- **Wyckoff Methodology**: Apply proper VPA signals (No Demand, Effort to Rise, Sign of Strength, etc.)
-- **Vietnamese Language**: Maintain natural Vietnamese financial terminology
-- **Number Formatting**: ALWAYS use DOT (.) as decimal separator, NEVER comma (,)
-- **Date Check**: Only generate analysis if new date doesn't already exist in VPA files
-
-**Example New Entry**:
-```markdown
-- **Ngày 2025-07-13:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay SIP tăng từ 64.4 lên 64.7. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.25 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại, cho thấy tiềm năng phục hồi.
-```
-
-**IMPORTANT NUMBER FORMATTING RULE**:
-- **Always use DOT (.) as decimal separator** in all price and volume references
-- **NEVER use comma (,) as decimal separator** 
-- Examples: 64.4, 1.25, 123.45 (CORRECT)
-- Examples: 64,4, 1,25, 123,45 (INCORRECT)
+**Reference**: See `tasks/task_generate_vpa_analysis.md` for:
+- Complete task prompt template
+- Vietnamese VPA format requirements
+- Wyckoff methodology guidelines
+- Number formatting rules (DOT separator)
+- Common VPA signals reference
 
 #### 2.3 File Output Processing
-**APPEND-ONLY MODE** (Default - unless dividends processed):
-- Read existing `vpa_data/{TICKER}.md` files to get current analysis 
-- Check if target date already exists in analysis
-- If date exists: Skip ticker (no action needed)
-- If date missing: Append new date entry to existing content
-- Preserve all existing historical analysis
-- Ensure proper UTF-8 encoding for Vietnamese text
+**Automatic handling by Task tool**:
+- Task tool automatically appends new date entries to existing `vpa_data/{TICKER}.md` files
+- Preserves all existing historical analysis
+- Ensures proper UTF-8 encoding for Vietnamese text
+- Skips tickers that already have today's analysis
 
 **DIVIDEND ADJUSTMENT MODE** (Only when dividend files processed):
 - Update all historical price references using dividend ratios
