@@ -20,108 +20,56 @@
 
 ### 1. Tóm Tắt Danh Mục Hiện Tại
 
-Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiết lập đỉnh mới tại 1,457.76 điểm với khối lượng bùng nổ. Danh mục hiện tại cho thấy hiệu suất tích cực với tổng lợi nhuận chưa thực hiện +15.8% trên các cổ phiếu được theo dõi. Các vị thế mạnh nhất là SSI (+15.3%), MSN (+16.7%), và TCB (+32.7%) đều nằm trong các ngành dẫn dắt thị trường. Chiến lược tập trung giữ các vị thế mạnh và điều chỉnh các vị thế yếu.
+VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với tín hiệu Effort to Rise mạnh mẽ và sự hỗ trợ từ dòng vốn tổ chức. Danh mục hiện tại thể hiện hiệu suất tích cực với tổng lợi nhuận chưa thực hiện khoảng +13.8% trên các vị thế có thể tính toán được. Các vị thế mạnh nhất là TCB (+33.3%), MWG (+24.6%), và SSI (+15.7%) đều hưởng lợi từ các ngành dẫn dắt. Chiến lược tập trung tăng các vị thế có momentum mạnh và điều chỉnh các vị thế yếu.
 
 * **Tóm Tắt Hành Động Đề Xuất:**
   | Mã Cổ Phiếu | Trạng Thái Hiện Tại | Hành Động Đề Xuất Ngắn Gọn |
   | :---------- | :------------------ | :------------------------- |
-  | MWG         | SOS tuần nhưng yếu daily | Hold (quan sát phục hồi) |
-  | VNM         | SOS tuần, Test Supply daily | Hold (chờ xác nhận) |
-  | SSI         | SOS mạnh, Effort to Rise | Buy More (tăng vị thế) |
-  | MSN         | SOS tuần, Test Supply | Buy More (duy trì mạnh) |
-  | KBC         | SOS tuần, yếu daily | Hold (quan sát) |
-  | FUEVFVND    | Fund - không theo dõi VPA | Hold (đánh giá riêng) |
-  | NKG         | SOS tuần, Effort to Fall daily | Sell (cắt lỗ) |
-  | TCB         | No Demand tuần, weak daily | Hold (bảo vệ lợi nhuận) |
-  | AGG         | Không tìm thấy dữ liệu | Review (xác minh vị thế) |
+  | MWG         | Effort to Rise mạnh daily | Buy More (tăng vị thế) |
+  | VNM         | Test for Supply daily, SOS tuần | Hold (quan sát xác nhận) |
+  | SSI         | Effort to Rise tiếp tục | Buy More (duy trì momentum) |
+  | MSN         | Effort to Fall nhẹ sau mạnh | Hold (bảo vệ lợi nhuận) |
+  | KBC         | Effort to Rise breakout | Buy More (tận dụng đột phá) |
+  | FUEVFVND    | Fund - không có VPA | Hold (đánh giá riêng) |
+  | NKG         | No Demand yếu tiếp tục | Sell (cắt lỗ) |
+  | TCB         | Test for Supply, yếu tuần | Hold (bảo vệ lợi nhuận) |
+  | AGG         | Không có dữ liệu | Review (xác minh) |
 
 ### 2. Kế Hoạch Giao Dịch Chi Tiết
 
-#### **MWG (BAN_LE)**
-![Weekly Chart](./reports_week/MWG/MWG_candlestick_chart.png)
-![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
+#### **AGG (STATUS_UNKNOWN)**
 
-* **Giá Mua Trung Bình:** 55.38
-* **Số Lượng Nắm Giữ:** 2,500
-* **Giá Hiện Tại:** 67.9
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +22.6% (+31,300)
-* **VPA Phân Tích Hiện Tại:** MWG trong giai đoạn mixed signals với **'Sign of Strength' tuần kết thúc 2025-07-07** xác nhận xu hướng tăng vững chắc, nhưng daily cho thấy **'Weakness confirmation' ngày 2025-07-11** và **'No Demand' ngày 2025-07-10**. Ngành Bán lẻ đang "Dẫn dắt Đồng Thuận" hỗ trợ mạnh mẽ.
+* **Giá Mua Trung Bình:** 19.63
+* **Số Lượng Nắm Giữ:** 1,950
+* **Giá Hiện Tại:** Không có dữ liệu
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** Không có dữ liệu
+* **VPA Phân Tích Hiện Tại:** Ticker không tìm thấy trong hệ thống market data, VPA analysis, hoặc industry groupings hiện tại.
+* **Hành Động Đề Xuất:** Review
+  * **Lý Do Hành Động:** Cần xác minh status của ticker, có thể đã bị hủy niêm yết hoặc đổi mã.
+* **Điểm Dừng Lỗ:** N/A
+* **Điểm Chốt Lời:** N/A
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **ACB**: Weekly SOS 2025-07-07 + ngành NGAN_HANG dẫn dắt + momentum vượt trội
+  * **DGW**: Weekly SOS 2025-06-09 + ngành BAN_LE + breakout tiềm năng
+  * **HPG**: Weekly SOS 2025-06-09 + ngành THEP + sức mạnh nhất quán
+
+-----
+
+#### **FUEVFVND (FUND)**
+
+* **Giá Mua Trung Bình:** 32.01
+* **Số Lượng Nắm Giữ:** 1,800
+* **Giá Hiện Tại:** Không có dữ liệu
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** Không có dữ liệu
+* **VPA Phân Tích Hiện Tại:** Fund không được theo dõi trong hệ thống VPA hiện tại. Cần đánh giá riêng NAV và danh mục đầu tư của fund.
 * **Hành Động Đề Xuất:** Hold
-  * **Giá Đề Xuất:** Giữ nguyên, quan sát vùng 67.0-68.5
-  * **Số Lượng Đề Xuất:** Giữ nguyên 2,500 cổ phiếu
-  * **Lý Do Hành Động:** Weekly SOS mạnh mẽ hỗ trợ nhưng daily weakness cần xác nhận. Ngành dẫn dắt tạo nền tảng vững chắc.
-* **Điểm Dừng Lỗ:** 65.0 (bảo vệ lợi nhuận)
-* **Điểm Chốt Lời:** 72.0 - 75.0 (chốt từng phần)
+  * **Lý Do Hành Động:** Cần đánh giá riêng hiệu suất fund và composition của danh mục.
+* **Điểm Dừng Lỗ:** N/A
+* **Điểm Chốt Lời:** N/A
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **PNJ**: Tín hiệu tuần cần xác minh + cùng ngành BAN_LE + tiếp xúc bán lẻ trang sức + đặc tính phòng thủ
-  * **FRT**: Tín hiệu tuần cần xác minh + cùng ngành BAN_LE + ngành dược phẩm bán lẻ + mô hình kinh doanh ổn định
-  * **DGW**: Tín hiệu tuần cần xác minh + cùng ngành BAN_LE + bán lẻ hàng tiêu dùng + tiềm năng mở rộng thị trường
-
------
-
-#### **VNM (THUC_PHAM)**
-![Weekly Chart](./reports_week/VNM/VNM_candlestick_chart.png)
-![Daily Chart](./reports/VNM/VNM_candlestick_chart.png)
-
-* **Giá Mua Trung Bình:** 61.41
-* **Số Lượng Nắm Giữ:** 2,700
-* **Giá Hiện Tại:** 59.8
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -2.6% (-4,347)
-* **VPA Phân Tích Hiện Tại:** VNM cho thấy **'Sign of Strength' tuần kết thúc 2025-07-07** với recovery mạnh mẽ, nhưng daily có **'Test for Supply' ngày 2025-07-10** và selling pressure ngày 2025-07-11. Ngành Thực phẩm "Dẫn dắt Đồng Thuận" với MSN, VNM, SAB đều có SOS signals.
-* **Hành Động Đề Xuất:** Hold
-  * **Giá Đề Xuất:** Chờ xác nhận recovery ở vùng 59.0-60.5
-  * **Số Lượng Đề Xuất:** Giữ nguyên 2,700 cổ phiếu
-  * **Lý Do Hành Động:** Weekly SOS hỗ trợ nhưng daily Test for Supply cần xác nhận. Ngành mạnh tạo nền tảng phục hồi.
-* **Điểm Dừng Lỗ:** 57.5 (bảo vệ vốn)
-* **Điểm Chốt Lời:** 63.0 - 65.0 (recovery target)
-* **Top 3 Cổ Phiếu Thay Thế:**
-  * **MSN**: Weekly SOS 2025-06-23/30 + cùng ngành THUC_PHAM + dẫn dắt ngành +23.4% hiệu suất + xác nhận daily
-  * **SAB**: Weekly SOS + cùng ngành THUC_PHAM + động lực phục hồi mạnh + xếp hạng ngành #2
-  * **ACB**: Weekly SOS + ngành NGAN_HANG + xác nhận daily SOS mạnh + sức mạnh xuyên ngành
-
------
-
-#### **SSI (CHUNG_KHOAN)**
-![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart.png)
-![Daily Chart](./reports/SSI/SSI_candlestick_chart.png)
-
-* **Giá Mua Trung Bình:** 25.71
-* **Số Lượng Nắm Giữ:** 4,200
-* **Giá Hiện Tại:** 29.65
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +15.3% (+16,548)
-* **VPA Phân Tích Hiện Tại:** SSI thể hiện sức mạnh vượt trội với **'Sign of Strength' tuần kết thúc 2025-07-11** và **'Effort to Rise' ngày 2025-07-11** với khối lượng 62.9 triệu. Ngành Chứng khoán "Dẫn dắt Đồng Thuận" với toàn ngành có SOS bùng nổ.
-* **Hành Động Đề Xuất:** Buy More
-  * **Giá Đề Xuất:** Mua thêm ở 29.0-30.0 hoặc pullback về 28.5
-  * **Số Lượng Đề Xuất:** Thêm 300-500 cổ phiếu (tăng total lên 4,500-4,700)
-  * **Lý Do Hành Động:** Effort to Rise ngày 2025-07-11 xác nhận xu hướng tăng mạnh, đáp ứng điều kiện Strong Bullish Continuation với weekly SOS và ngành dẫn dắt.
-* **Điểm Dừng Lỗ:** 28.0 (bảo vệ breakout)
-* **Điểm Chốt Lời:** 33.0 - 34.0 (target zone), 36.0+ (extended target)
-* **Top 3 Cổ Phiếu Thay Thế:**
-  * **VCI**: Weekly SOS + cùng ngành CHUNG_KHOAN + xác nhận daily SOS mạnh + vị trí đồng dẫn dắt
-  * **VIX**: Weekly SOS + cùng ngành CHUNG_KHOAN + sức mạnh tương đương VCI + xếp hạng ngành #2
-  * **HCM**: Weekly SOS + cùng ngành CHUNG_KHOAN + daily Effort to Rise mạnh + động lực tốt
-
------
-
-#### **MSN (THUC_PHAM)**
-![Weekly Chart](./reports_week/MSN/MSN_candlestick_chart.png)
-![Daily Chart](./reports/MSN/MSN_candlestick_chart.png)
-
-* **Giá Mua Trung Bình:** 65.58
-* **Số Lượng Nắm Giữ:** 1,000
-* **Giá Hiện Tại:** 76.5
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +16.7% (+10,920)
-* **VPA Phân Tích Hiện Tại:** MSN dẫn dắt ngành với **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Test for Supply' ngày 2025-07-11** cho thấy consolidation khỏe mạnh. Ngành Thực phẩm "Dẫn dắt Đồng Thuận" với leadership score 67.2.
-* **Hành Động Đề Xuất:** Buy More
-  * **Giá Đề Xuất:** Mua thêm ở 75.5-77.0 hoặc pullback về 74.0
-  * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 1,200-1,300)
-  * **Lý Do Hành Động:** Test for Supply tích cực sau Effort to Rise mạnh, ngành dẫn dắt với 95% confidence level và institutional accumulation.
-* **Điểm Dừng Lỗ:** 73.0 (bảo vệ breakout level)
-* **Điểm Chốt Lời:** 82.0 - 85.0 (target zone), 90.0+ (extended target)
-* **Top 3 Cổ Phiếu Thay Thế:**
-  * **VNM**: Weekly SOS 2025-06-30/07-07 + cùng ngành THUC_PHAM + tín hiệu đảo chiều mạnh + xếp hạng ngành #3
-  * **SAB**: Weekly SOS + cùng ngành THUC_PHAM + động lực phục hồi + sự tham gia ngành mạnh mẽ
-  * **ACB**: Weekly SOS + ngành NGAN_HANG + xác nhận daily SOS mạnh + sức mạnh xuyên ngành
+  * **VTP**: Weekly SOS 2025-07-07 + ngành VAN_TAI + cơ hội đa dạng hóa
+  * **IMP**: Weekly Effort to Rise 2025-07-07 + ngành SUC_KHOE + đặc tính phòng thủ
+  * **AAA**: Weekly SOS 2025-07-07 + ngành NHUA + cơ hội phục hồi
 
 -----
 
@@ -131,31 +79,63 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 * **Giá Mua Trung Bình:** 27.76
 * **Số Lượng Nắm Giữ:** 2,500
-* **Giá Hiện Tại:** 27.5
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -0.9% (-650)
-* **VPA Phân Tích Hiện Tại:** KBC cho thấy **'Sign of Strength' tuần kết thúc 2025-07-07** nhưng daily có **'Technical Recovery' ngày 2025-07-11** và **'Continued Weakness' trước đó**. Ngành Bất động sản KCN "Dẫn dắt Đồng Thuận" với BCM, IDC đều có SOS.
-* **Hành Động Đề Xuất:** Hold
-  * **Giá Đề Xuất:** Quan sát vùng 27.0-28.0
-  * **Số Lượng Đề Xuất:** Giữ nguyên 2,500 cổ phiếu
-  * **Lý Do Hành Động:** Weekly SOS hỗ trợ nhưng daily mixed signals cần xác nhận. Technical recovery chưa đủ mạnh để upgrade.
-* **Điểm Dừng Lỗ:** 26.5 (bảo vệ vốn gốc)
-* **Điểm Chốt Lời:** 29.5 - 31.0 (nếu recovery confirmed)
+* **Giá Hiện Tại:** 28.35
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +2.1% (+1,475)
+* **VPA Phân Tích Hiện Tại:** KBC cho thấy **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Rise' ngày 2025-07-14** phá vỡ xu hướng giảm ngắn hạn với khối lượng tăng. Ngành Bất động sản KCN "Dẫn dắt Đồng Thuận" với sự tham gia đồng bộ từ BCM và SIP.
+* **Hành Động Đề Xuất:** Buy More
+  * **Giá Đề Xuất:** Mua thêm ở 28.0-28.5 hoặc breakout về 29.0
+  * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 2,700-2,800)
+  * **Lý Do Hành Động:** Effort to Rise ngày 2025-07-14 xác nhận Strong Bullish Continuation với weekly SOS và ngành mạnh. Breakout khỏi consolidation pattern.
+* **Điểm Dừng Lỗ:** 27.0 (bảo vệ breakout)
+* **Điểm Chốt Lời:** 31.0 - 32.0 (target zone)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **BCM**: Weekly SOS 2025-06-23/30/07-07 + cùng ngành BAT_DONG_SAN_KCN + tín hiệu No Supply + động lực vượt trội
-  * **IDC**: Weekly No Supply + cùng ngành BAT_DONG_SAN_KCN + tín hiệu tuần mạnh + sự tham gia ngành
-  * **VGC**: Weekly No Supply + cùng ngành BAT_DONG_SAN_KCN + thiết lập kỹ thuật vững chắc + phối hợp ngành
+  * **VGC**: Weekly SOS 2025-06-02 + cùng ngành BAT_DONG_SAN_KCN + tín hiệu tương tự
+  * **BCM**: Weekly Test for Supply 2025-06-09 + cùng ngành BAT_DONG_SAN_KCN + tiềm năng breakout
+  * **IDC**: Weekly Test for Supply 2025-06-02 + cùng ngành BAT_DONG_SAN_KCN + áp lực bán thấp
 
 -----
 
-#### **FUEVFVND (FUND)**
+#### **MSN (THUC_PHAM)**
+![Weekly Chart](./reports_week/MSN/MSN_candlestick_chart.png)
+![Daily Chart](./reports/MSN/MSN_candlestick_chart.png)
 
-* **Giá Mua Trung Bình:** 32.01
-* **Số Lượng Nắm Giữ:** 1,800
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** Không có dữ liệu
-* **VPA Phân Tích Hiện Tại:** Fund không được theo dõi trong hệ thống VPA hiện tại. Cần đánh giá riêng NAV và danh mục đầu tư của fund.
+* **Giá Mua Trung Bình:** 65.58
+* **Số Lượng Nắm Giữ:** 1,000
+* **Giá Hiện Tại:** 75.3
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +14.8% (+9,720)
+* **VPA Phân Tích Hiện Tại:** MSN có **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Fall' ngày 2025-07-14** với khối lượng giảm sau chuỗi Effort to Rise mạnh. Ngành Thực phẩm "Dẫn dắt Đồng Thuận" với MSN xếp hạng #1 và leadership score 67.2.
 * **Hành Động Đề Xuất:** Hold
-  * **Lý Do Hành Động:** Cần đánh giá riêng hiệu suất fund và composition của danh mục.
-* **Ghi Chú:** Kiểm tra NAV report và holdings composition riêng biệt.
+  * **Giá Đề Xuất:** Quan sát vùng 74.0-76.0
+  * **Số Lượng Đề Xuất:** Giữ nguyên 1,000 cổ phiếu
+  * **Lý Do Hành Động:** Effort to Fall gần đây cần quan sát sau chuỗi mạnh. Lợi nhuận tốt (+14.8%) cần bảo vệ. Weekly SOS vẫn hỗ trợ.
+* **Điểm Dừng Lỗ:** 72.0 (bảo vệ lợi nhuận)
+* **Điểm Chốt Lời:** 80.0 - 82.0 (nếu phục hồi confirmed)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VNM**: Weekly SOS 2025-07-07 + cùng ngành THUC_PHAM + tín hiệu tương tự + giá tốt hơn
+  * **SAB**: Weekly No Supply 2025-06-09 + cùng ngành THUC_PHAM + pattern tích lũy
+  * **MCH**: Weekly No Supply 2025-06-09 + cùng ngành THUC_PHAM + tiềm năng tăng
+
+-----
+
+#### **MWG (BAN_LE)**
+![Weekly Chart](./reports_week/MWG/MWG_candlestick_chart.png)
+![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
+
+* **Giá Mua Trung Bình:** 55.38
+* **Số Lượng Nắm Giữ:** 2,500
+* **Giá Hiện Tại:** 69.0
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +24.6% (+34,050)
+* **VPA Phân Tích Hiện Tại:** MWG thể hiện **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Rise' ngày 2025-07-14** với khối lượng bùng nổ sau chuỗi No Demand, cho thấy áp lực mua quyết định đã trở lại. Ngành Bán lẻ "Dẫn dắt Đồng Thuận" tạo nền tảng vững chắc.
+* **Hành Động Đề Xuất:** Buy More
+  * **Giá Đề Xuất:** Mua thêm ở 68.5-70.0 hoặc pullback về 67.0
+  * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 2,700-2,800)
+  * **Lý Do Hành Động:** Effort to Rise ngày 2025-07-14 xác nhận Strong Bullish Continuation sau weekly SOS. Ngành dẫn dắt và recovery mạnh mẽ từ weakness trước đó.
+* **Điểm Dừng Lỗ:** 66.0 (bảo vệ breakout)
+* **Điểm Chốt Lời:** 75.0 - 78.0 (target zone)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **DGW**: Weekly SOS 2025-06-09 + cùng ngành BAN_LE + breakout tiềm năng bùng nổ
+  * **FRT**: Weekly SOS 2025-06-09 + cùng ngành BAN_LE + momentum mua mạnh
+  * **PNJ**: Weekly No Supply 2025-06-09 + cùng ngành BAN_LE + tiềm năng phục hồi
 
 -----
 
@@ -165,19 +145,41 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 * **Giá Mua Trung Bình:** 15.65
 * **Số Lượng Nắm Giữ:** 4,100
-* **Giá Hiện Tại:** 13.95
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -10.9% (-6,970)
-* **VPA Phân Tích Hiện Tại:** NKG có **'Sign of Strength' tuần kết thúc 2025-07-07** nhưng daily cho thấy **'Effort to Fall' ngày 2025-07-11** với selling pressure dominant. Ngành Thép "Dẫn dắt Đồng Thuận" nhưng NKG yếu hơn HPG, HSG.
+* **Giá Hiện Tại:** 14.1
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -9.9% (-6,355)
+* **VPA Phân Tích Hiện Tại:** NKG có **'Sign of Strength' tuần kết thúc 2025-07-07** nhưng **'No Demand' ngày 2025-07-14** sau volume anomaly ngày 2025-07-03 và Effort to Fall ngày 2025-07-11 cho thấy áp lực bán dai dẳng. Ngành Thép "Dẫn dắt Đồng Thuận" nhưng NKG yếu hơn HPG, MSR.
 * **Hành Động Đề Xuất:** Sell
-  * **Giá Đề Xuất:** Bán ở 13.8-14.2 nếu có bounce
-  * **Số Lượng Đề Xuất:** Bán 2,000-3,000 cổ phiếu (giảm exposure)
-  * **Lý Do Hành Động:** Daily Effort to Fall với volume anomaly cho thấy supply overhang. Mặc dù ngành mạnh nhưng individual weakness cần cắt lỗ.
-* **Điểm Dừng Lỗ:** 13.5 (immediate)
+  * **Giá Đề Xuất:** Bán ở 14.0-14.3 nếu có bounce
+  * **Số Lượng Đề Xuất:** Bán 2,000-2,500 cổ phiếu (giảm exposure đáng kể)
+  * **Lý Do Hành Động:** No Demand tiếp tục sau Effort to Fall cho thấy individual weakness kéo dài. Mặc dù ngành mạnh nhưng cần cắt lỗ để bảo vệ vốn.
+* **Điểm Dừng Lỗ:** 13.8 (immediate)
 * **Điểm Chốt Lời:** N/A (exit strategy)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **HPG**: Weekly SOS + cùng ngành THEP + dẫn dắt ngành + xác nhận daily mạnh + dẫn dắt thị trường
-  * **HSG**: Weekly SOS + cùng ngành THEP + tín hiệu breakout + xếp hạng ngành #2 + câu chuyện VPA mạnh
-  * **MSR**: Weekly SOS + cùng ngành THEP + weekly Effort to Rise + xác nhận daily
+  * **HPG**: Weekly SOS 2025-06-09 + cùng ngành THEP + dẫn dắt ngành + xác nhận mạnh
+  * **MSR**: Weekly Test for Supply 2025-06-09 + cùng ngành THEP + tiềm năng tăng
+  * **HSG**: Weekly No Demand 2025-06-09 + cùng ngành THEP + thiếu momentum
+
+-----
+
+#### **SSI (CHUNG_KHOAN)**
+![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart.png)
+![Daily Chart](./reports/SSI/SSI_candlestick_chart.png)
+
+* **Giá Mua Trung Bình:** 25.71
+* **Số Lượng Nắm Giữ:** 4,200
+* **Giá Hiện Tại:** 29.75
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +15.7% (+16,968)
+* **VPA Phân Tích Hiện Tại:** SSI thể hiện sức mạnh vượt trội với **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Rise' ngày 2025-07-11** tiếp tục với khối lượng cao, cho thấy việc hấp thụ áp lực bán thành công trong xu hướng tăng mạnh. Ngành Chứng khoán "Dẫn dắt Đồng Thuận" với sự tham gia đồng bộ toàn ngành.
+* **Hành Động Đề Xuất:** Buy More
+  * **Giá Đề Xuất:** Mua thêm ở 29.0-30.0 hoặc pullback về 28.5
+  * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 4,400-4,500)
+  * **Lý Do Hành Động:** Effort to Rise liên tục xác nhận Strong Bullish Continuation. Ngành dẫn dắt với momentum vượt trội và institutional support.
+* **Điểm Dừng Lỗ:** 28.0 (bảo vệ breakout)
+* **Điểm Chốt Lời:** 33.0 - 35.0 (target zone)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VND**: Weekly SOS 2025-06-02 + cùng ngành CHUNG_KHOAN + khối lượng bùng nổ
+  * **MBS**: Weekly SOS 2025-06-02 + cùng ngành CHUNG_KHOAN + momentum mạnh
+  * **SHS**: Weekly SOS 2025-06-02 + cùng ngành CHUNG_KHOAN + but followed by weakness
 
 -----
 
@@ -187,31 +189,41 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 * **Giá Mua Trung Bình:** 26.34
 * **Số Lượng Nắm Giữ:** 1,200
-* **Giá Hiện Tại:** 34.95
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +32.7% (+10,332)
-* **VPA Phân Tích Hiện Tại:** TCB cho thấy **'No Demand' tuần kết thúc 2025-07-07** và **'Technical Recovery' ngày 2025-07-11** sau **'Sign of Weakness' ngày 2025-07-09**. Ngành Ngân hàng "Dẫn dắt Đồng Thuận" nhưng TCB thể hiện weakness relative.
+* **Giá Hiện Tại:** 35.1
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +33.3% (+10,512)
+* **VPA Phân Tích Hiện Tại:** TCB cho thấy **'No Demand' tuần kết thúc 2025-07-07** và **'Test for Supply' ngày 2025-07-11** sau Sign of Weakness trước đó, cho thấy giai đoạn yếu dần và sự do dự của thị trường. Ngành Ngân hàng "Dẫn dắt Đồng Thuận" nhưng TCB thể hiện relative weakness.
 * **Hành Động Đề Xuất:** Hold
-  * **Giá Đề Xuất:** Quan sát vùng 34.0-35.5, có thể chốt lời một phần
+  * **Giá Đề Xuất:** Quan sát vùng 34.0-36.0, có thể chốt lời một phần
   * **Số Lượng Đề Xuất:** Giữ nguyên hoặc chốt lời 300-400 cổ phiếu
-  * **Lý Do Hành Động:** Lợi nhuận lớn (+32.7%) nhưng weekly No Demand và recent SOW cần thận trọng. Bảo vệ lợi nhuận.
+  * **Lý Do Hành Động:** Lợi nhuận lớn (+33.3%) cần bảo vệ. Weekly No Demand và Test for Supply cho thấy momentum yếu dần.
 * **Điểm Dừng Lỗ:** 33.0 (bảo vệ lợi nhuận)
-* **Điểm Chốt Lời:** 36.0 - 37.0 (partial), 35.0 (if weakness continues)
+* **Điểm Chốt Lời:** 37.0 - 38.0 (nếu recovery), 35.0 (nếu weakness tiếp tục)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **ACB**: Weekly SOS 2025-06-30/07-07 + cùng ngành NGAN_HANG + xác nhận daily SOS mạnh + động lực mạnh mẽ
-  * **CTG**: Weekly SOS (nhiều ngày) + cùng ngành NGAN_HANG + xác nhận daily mạnh + sức mạnh nhất quán
-  * **HDB**: Weekly SOS + cùng ngành NGAN_HANG + daily Effort to Rise + sự tham gia mạnh ngành ngân hàng
+  * **ACB**: Weekly SOS 2025-07-07 + cùng ngành NGAN_HANG + momentum bùng nổ
+  * **STB**: Weekly SOS 2025-06-09 + cùng ngành NGAN_HANG + khối lượng mạnh
+  * **MBB**: Weekly Effort to Rise 2025-06-09 + cùng ngành NGAN_HANG + tiềm năng tăng
 
 -----
 
-#### **AGG (STATUS_UNKNOWN)**
+#### **VNM (THUC_PHAM)**
+![Weekly Chart](./reports_week/VNM/VNM_candlestick_chart.png)
+![Daily Chart](./reports/VNM/VNM_candlestick_chart.png)
 
-* **Giá Mua Trung Bình:** 19.63
-* **Số Lượng Nắm Giữ:** 1,950
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** Không có dữ liệu
-* **VPA Phân Tích Hiện Tại:** Ticker không tìm thấy trong hệ thống market data, VPA analysis, hoặc industry groupings hiện tại.
-* **Hành Động Đề Xuất:** Review
-  * **Lý Do Hành Động:** Cần xác minh status của ticker, có thể đã bị hủy niêm yết hoặc đổi mã.
-* **Ghi Chú:** Kiểm tra trạng thái niêm yết và tình hình thực tế của vị thế này.
+* **Giá Mua Trung Bình:** 61.41
+* **Số Lượng Nắm Giữ:** 2,700
+* **Giá Hiện Tại:** 60.3
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -1.8% (-2,997)
+* **VPA Phân Tích Hiện Tại:** VNM cho thấy **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Test for Supply' ngày 2025-07-14** với phục hồi giá từ mức thấp hơn, cho thấy áp lực mua đang trở lại sau giai đoạn consolidation. Ngành Thực phẩm "Dẫn dắt Đồng Thuận" với MSN, VNM, SAB đều có signals tích cực.
+* **Hành Động Đề Xuất:** Hold
+  * **Giá Đề Xuất:** Chờ xác nhận recovery ở vùng 60.0-61.0
+  * **Số Lượng Đề Xuất:** Giữ nguyên 2,700 cổ phiếu
+  * **Lý Do Hành Động:** Weekly SOS hỗ trợ và Test for Supply tích cực cho thấy khả năng recovery. Ngành mạnh tạo nền tảng. Gần breakeven cần quan sát xác nhận.
+* **Điểm Dừng Lỗ:** 58.5 (bảo vệ vốn)
+* **Điểm Chốt Lời:** 63.0 - 65.0 (recovery target)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **MSN**: Weekly SOS 2025-07-07 + cùng ngành THUC_PHAM + sức mạnh vượt trội + leadership #1
+  * **SAB**: Weekly No Supply 2025-06-09 + cùng ngành THUC_PHAM + pattern tích lũy
+  * **MCH**: Weekly No Supply 2025-06-09 + cùng ngành THUC_PHAM + tiềm năng phục hồi
 
 -----
 
@@ -221,62 +233,66 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 | Mã Cổ Phiếu | Ngành | Tín Hiệu VPA Chính | Lý Do Lựa Chọn |
 | :---------- | :---- | :----------------- | :-------------- |
-| REE         | NANG_LUONG | No Supply tuần kết thúc 2025-07-07 | Điểm vào tốt sau điều chỉnh, cơ hội xoay vòng ngành năng lượng |
-| BCM         | BAT_DONG_SAN_KCN | No Supply tuần kết thúc 2025-07-07 | Xu hướng tăng mạnh, lợi ích từ bất động sản công nghiệp |
-| CTG         | NGAN_HANG | SOS tuần kết thúc 2025-07-07 | Ngành ngân hàng dẫn dắt phục hồi, breakout với động lực |
+| VTP         | VAN_TAI | Sign of Strength tuần kết thúc 2025-07-07 | Điểm vào tốt sau điều chỉnh, cơ hội xoay vòng ngành vận tải |
+| IMP         | SUC_KHOE | Effort to Rise tuần kết thúc 2025-07-07 | Ngành phòng thủ với đặc tính tăng trưởng ổn định |
+| AAA         | NHUA | Sign of Strength tuần kết thúc 2025-07-07 | Cơ hội phục hồi trong ngành vật liệu công nghiệp |
 
 -----
 
-#### **REE (NANG_LUONG)**
-![Weekly Chart](./reports_week/REE/REE_candlestick_chart.png)
-![Daily Chart](./reports/REE/REE_candlestick_chart.png)
+#### **VTP (VAN_TAI)**
+![Weekly Chart](./reports_week/VTP/VTP_candlestick_chart.png)
+![Daily Chart](./reports/VTP/VTP_candlestick_chart.png)
 
-* **Giá Đề Xuất Mua:** 65.5 - 67.5
+* **Giá Đề Xuất Mua:** 118.0 - 125.0
+* **Số Lượng Đề Xuất:** 100 cổ phiếu
+* **VPA Phân Tích:** VTP thể hiện **'Sign of Strength' tuần kết thúc 2025-07-07** sau **'No Supply' ngày 2025-06-23** cho thấy setup kỹ thuật tuyệt vời với áp lực bán đã cạn kiệt. Ngành Vận tải đang có cơ hội rotation với focus vào infrastructure và logistics.
+* **Lý Do Lựa Chọn:** Điểm vào tốt sau điều chỉnh lành mạnh, tỷ lệ rủi ro-lợi nhuận 1:2.5 thuận lợi. Ngành chưa được đại diện trong danh mục.
+* **Điểm Dừng Lỗ:** 115.0
+* **Điểm Chốt Lời:** 140.0 - 150.0
+
+-----
+
+#### **IMP (SUC_KHOE)**
+![Weekly Chart](./reports_week/IMP/IMP_candlestick_chart.png)
+![Daily Chart](./reports/IMP/IMP_candlestick_chart.png)
+
+* **Giá Đề Xuất Mua:** 51.0 - 53.0
 * **Số Lượng Đề Xuất:** 200 cổ phiếu
-* **VPA Phân Tích:** REE thể hiện 'No Supply' tuần kết thúc 2025-07-07 sau Sign of Strength breakout trước đó. Energy sector có cơ hội rotation với infrastructure focus và renewable energy exposure.
-* **Lý Do Lựa Chọn:** Điểm vào tốt sau điều chỉnh lành mạnh, tỷ lệ rủi ro-lợi nhuận 3:1 thuận lợi
-* **Điểm Dừng Lỗ:** 63.5
-* **Điểm Chốt Lời:** 77.0 - 80.0
+* **VPA Phân Tích:** IMP cho thấy **'Effort to Rise' tuần kết thúc 2025-07-07** sau **'No Supply' ngày 2025-06-16** với momentum building và buying interest tiếp tục. Ngành Y tế có đặc tính phòng thủ với tăng trưởng ổn định.
+* **Lý Do Lựa Chọn:** Ngành phòng thủ hoàn toàn mới cho danh mục. Tỷ lệ rủi ro-lợi nhuận 1:2.0 tốt. Correlation thấp với các ngành chu kỳ hiện tại.
+* **Điểm Dừng Lỗ:** 48.0
+* **Điểm Chốt Lời:** 58.0 - 62.0
 
 -----
 
-#### **BCM (BAT_DONG_SAN_KCN)**
-![Weekly Chart](./reports_week/BCM/BCM_candlestick_chart.png)
-![Daily Chart](./reports/BCM/BCM_candlestick_chart.png)
+#### **AAA (NHUA)**
+![Weekly Chart](./reports_week/AAA/AAA_candlestick_chart.png)
+![Daily Chart](./reports/AAA/AAA_candlestick_chart.png)
 
-* **Giá Đề Xuất Mua:** 67.0 - 69.0
-* **Số Lượng Đề Xuất:** 100 cổ phiếu
-* **VPA Phân Tích:** BCM cho thấy 'No Supply' tuần kết thúc 2025-07-07 với uptrend mạnh và minimal resistance. Lợi ích từ bất động sản công nghiệp và xu hướng dịch chuyển sản xuất.
-* **Lý Do Lựa Chọn:** Tỷ lệ rủi ro-lợi nhuận 4:1 mạnh mẽ, xu hướng tăng nhẹ nhàng
-* **Điểm Dừng Lỗ:** 64.0
-* **Điểm Chốt Lời:** 80.0 - 85.0
-
------
-
-#### **CTG (NGAN_HANG)**
-![Weekly Chart](./reports_week/CTG/CTG_candlestick_chart.png)
-![Daily Chart](./reports/CTG/CTG_candlestick_chart.png)
-
-* **Giá Đề Xuất Mua:** 44.0 - 45.5
-* **Số Lượng Đề Xuất:** 100 cổ phiếu
-* **VPA Phân Tích:** CTG thể hiện 'Sign of Strength' tuần kết thúc 2025-07-07 với momentum breakout near highs. Banking sector dẫn dắt economic recovery cycles.
-* **Lý Do Lựa Chọn:** Tỷ lệ rủi ro-lợi nhuận 2.5:1 vững chắc, vai trò dẫn dắt ngành ngân hàng
-* **Điểm Dừng Lỗ:** 41.5
-* **Điểm Chốt Lời:** 52.0 - 55.0
+* **Giá Đề Xuất Mua:** 7.40 - 7.70
+* **Số Lượng Đề Xuất:** 1,000 cổ phiếu
+* **VPA Phân Tích:** AAA thể hiện **'Sign of Strength' tuần kết thúc 2025-07-07** sau **'No Demand' ngày 2025-06-30** với breakout bùng nổ sau consolidation. Ngành Nhựa/Vật liệu công nghiệp có cơ hội phục hồi.
+* **Lý Do Lựa Chọn:** Cơ hội phục hồi trong ngành vật liệu với correlation thấp so với consumer/financial sectors. Tỷ lệ rủi ro-lợi nhuận 1:2.2 hấp dẫn.
+* **Điểm Dừng Lỗ:** 7.00
+* **Điểm Chốt Lời:** 8.50 - 9.00
 
 ### 4. Nhật Ký Thay Đổi Kế Hoạch
 
-* **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
-  * `SSI từ Hold sang Buy More`: Tín hiệu **'Effort to Rise' ngày 2025-07-11** với khối lượng 62.9 triệu xác nhận Strong Bullish Continuation sau **'Sign of Strength' tuần kết thúc 2025-07-11**. Weekly và daily signals đều hỗ trợ, ngành dẫn dắt, đáp ứng điều kiện protocol #1A.
-  * `MSN từ Hold sang Buy More`: Tín hiệu **'Test for Supply' ngày 2025-07-11** cho thấy consolidation tích cực sau **'Effort to Rise' ngày 2025-07-10**. Leadership trong ngành THUC_PHAM với 95% confidence và 67.2 leadership score.
+* **Chuyển Từ Hold sang Buy More:**
+  * **MWG từ Hold sang Buy More**: Tín hiệu **'Effort to Rise' ngày 2025-07-14** với khối lượng bùng nổ sau chuỗi No Demand xác nhận Strong Bullish Continuation. Weekly SOS và ngành dẫn dắt hỗ trợ mạnh, đáp ứng điều kiện protocol #1A.
+  * **SSI duy trì Buy More**: Tín hiệu **'Effort to Rise' ngày 2025-07-11** tiếp tục momentum mạnh với ngành dẫn dắt, xác nhận strategy đúng đắn.
+  * **KBC từ Hold sang Buy More**: Tín hiệu **'Effort to Rise' ngày 2025-07-14** phá vỡ consolidation với weekly SOS hỗ trợ và ngành mạnh.
 
-* **Chuyển Từ Hold sang Sell/Panic Sell:**
-  * `NKG từ Hold sang Sell`: Tín hiệu **'Effort to Fall' ngày 2025-07-11** với selling pressure dominant và volume anomaly ngày 2025-07-03 cho thấy supply overhang. Mặc dù ngành THEP mạnh nhưng individual weakness yêu cầu cắt lỗ.
+* **Chuyển Từ Buy More sang Hold:**
+  * **MSN từ Buy More sang Hold**: Tín hiệu **'Effort to Fall' ngày 2025-07-14** sau chuỗi mạnh cần quan sát. Lợi nhuận tốt (+14.8%) cần bảo vệ, chuyển sang defensive stance.
 
-* **Thay Đổi Trạng Thái Khác:**
-  * `TCB duy trì Hold nhưng defensive`: **'No Demand' tuần kết thúc 2025-07-07** và **'Sign of Weakness' ngày 2025-07-09** cần thận trọng. Lợi nhuận lớn (+32.7%) cần bảo vệ.
-  * `MWG, VNM, KBC duy trì Hold`: Weekly SOS hỗ trợ nhưng daily mixed signals cần xác nhận thêm.
+* **Duy Trì Sell:**
+  * **NKG duy trì Sell**: Tín hiệu **'No Demand' ngày 2025-07-14** tiếp tục sau Effort to Fall cho thấy individual weakness dai dẳng. Cần cắt lỗ để bảo vệ vốn.
 
-* **Loại Bỏ/Thêm Mới Ticker:**
-  * `AGG cần review`: Ticker không tìm thấy trong hệ thống, cần xác minh trạng thái.
-  * `FUEVFVND cần đánh giá riêng`: Fund không có VPA analysis, cần check NAV và holdings.
+* **Duy Trì Hold:**
+  * **VNM duy trì Hold**: Weekly SOS hỗ trợ và **'Test for Supply' ngày 2025-07-14** tích cực nhưng cần xác nhận recovery thêm.
+  * **TCB duy trì Hold defensive**: Lợi nhuận lớn (+33.3%) nhưng weekly No Demand và Test for Supply cần thận trọng.
+
+* **Thay Đổi Trạng Thái:**
+  * **AGG vẫn Review**: Ticker không tìm thấy trong hệ thống, cần xác minh status.
+  * **FUEVFVND vẫn Hold**: Fund cần đánh giá NAV riêng biệt.
