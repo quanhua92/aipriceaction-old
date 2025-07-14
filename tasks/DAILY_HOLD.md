@@ -312,6 +312,18 @@ For EVERY ticker, provide detailed breakdown:
 ### Step 7: Quality Verification
 **Objective**: Ensure hold.md accuracy and completeness
 
+**CRITICAL BUG PREVENTION**: Verify correct section structure to avoid heading misalignment:
+- [ ] **Section 1**: Tóm Tắt Danh Mục Hiện Tại (summary and action table)
+- [ ] **Section 2**: Kế Hoạch Giao Dịch Chi Tiết (detailed analysis of CURRENT holdings with charts, P&L, VPA analysis, recommendations, stop-loss, take-profit, alternatives)
+- [ ] **Section 3**: Kế Hoạch Gia Tăng Chi Tiết (detailed analysis of NEW diversification picks with same format as Section 2: charts, buy prices, quantities, VPA analysis, stop-loss, take-profit)
+- [ ] **Section 4**: Nhật Ký Thay Đổi Kế Hoạch (change log)
+
+**STRUCTURAL VERIFICATION**:
+- [ ] Section 2 contains individual ### ticker analyses for ALL current holdings
+- [ ] Section 3 contains individual ### ticker analyses for ALL diversification picks with full detail (not just summary table)
+- [ ] Section 3 uses identical format to Section 2: charts, prices, quantities, VPA analysis, stop-loss, take-profit
+- [ ] No content appears between section headers without proper subsection organization
+
 **Verification Checklist**:
 - [ ] All portfolio holdings from previous hold.md are processed
 - [ ] P&L calculations are mathematically correct

@@ -157,6 +157,9 @@ You will now generate the `hold.md` file based *only* on the final actions decid
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
 
+  * **CRITICAL STRUCTURE:** This section contains detailed individual ### ticker analyses for ALL current holdings
+  * Use the format below for each holding ticker with charts, P&L, VPA analysis, recommendations, stop-loss, take-profit, alternatives
+
 **3. Kế Hoạch Gia Tăng Chi Tiết**
 
 *Top 3 cổ phiếu đa dạng ngành để mở rộng danh mục - giảm rủi ro, tăng lợi nhuận*
@@ -165,13 +168,14 @@ You will now generate the `hold.md` file based *only* on the final actions decid
   * **Priority:** Weekly VPA signals from REPORT_week.md, then daily confirmation
   * **Entry Point Focus:** Avoid overextended tickers from leading sectors unless at pullback levels
   * **Balance:** Mix leading sectors with emerging/recovering sectors for better value
+  * **CRITICAL STRUCTURE:** After the summary table, provide detailed individual ### ticker analyses for ALL 3 diversification picks using IDENTICAL format to Section 2
 
 | Mã Cổ Phiếu | Ngành | Tín Hiệu VPA Chính | Lý Do Lựa Chọn |
 | :---------- | :---- | :----------------- | :-------------- |
 [Top 3 diversified recommendations with cross-sector analysis]
 
-  * For each ticker, provide a detailed breakdown following the template below.
-  * Sort tickers from A to Z.
+  * For each ticker (both holdings in Section 2 and diversification picks in Section 3), provide a detailed breakdown following the template below.
+  * Sort tickers from A to Z within each section.
   * **Crucially, all data points MUST come from the ticker's internal Fact Sheet created in Stage 0.**
 
 -----
