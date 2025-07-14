@@ -100,27 +100,57 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 
 **Process**: Apply state transition rules in exact order using ONLY fact sheet data:
 
-#### For Previous "Top List" Tickers:
-- **Check for Significant Weakness**:
-  - Weekly signal is bearish (Upthrust, SOW) AND daily confirms weakness (No Demand, Effort to Fall)
-  - OR major daily bearish signal (Sign of Weakness, Distribution) with weakening industry
-- **Decision**: If weakness found → `Downgraded`, otherwise → remains `Top List`
+#### For Previous "Top List" Tickers (WEEKLY PRIORITY + STABILITY):
+- **Primary Assessment (Weekly Context)**: Weekly trend status takes precedence
+  - Weekly SOS/Effort to Rise = Strong foundation (maintain high confidence)
+  - Weekly No Supply/Test for Supply = Neutral (monitor daily for direction)
+  - Weekly SOW/Upthrust = Warning (reduce confidence, monitor for confirmation)
+- **Secondary Assessment (Daily Confirmation)**:
+  - **If Weekly Strong**: Daily weakness reduces confidence (95%→85%→75%) but doesn't remove
+  - **If Weekly Neutral**: Daily SOS can boost confidence, daily SOW for 3+ days may downgrade
+  - **If Weekly Weak**: Daily confirmation needed for removal
+- **VERY HIGH THRESHOLD for Removal**: Weekly bearish + 3+ consecutive daily bearish + industry "Yếu"
+- **Decision**: Weekly context dominates, daily fine-tunes confidence scores
 
-#### For Previous "Potential List" Tickers:
-- **Check Promotion Conditions**:
-  - Weekly signal strongly bullish (SOS, breakout) AND daily confirms (SOS, Backing Up, Effort to Rise) AND industry is "Dẫn dắt"
-- **Check Demotion Conditions**: Same weakness criteria as Top List
-- **Check Unlisted Conditions**: Neutral daily signals AND industry is "Yếu/Phân Phối"
-- **Decision**: Promote → `Top List`, Demote → `Downgraded`, Neutral → `Unlisted`, otherwise → remains `Potential List`
+**Examples of What NOT to Remove**:
+- Ticker up 10 days → 1 day SOW → KEEP (reduce confidence 95% → 85%)
+- Strong weekly SOS → daily "Test for Supply" → KEEP (normal consolidation)
+- Industry still "Dẫn dắt" → single "No Demand" → KEEP (temporary pause)
+- After breakout → pullback to support → KEEP (healthy retest)
 
-#### For Previous "Downgraded" Tickers:
-- **Check Promotion**: Strong bullish reversal (weekly OR daily SOS) with improving industry
-- **Check Removal**: Continued confirmed weakness
-- **Decision**: Promote → `Potential List`, Remove → `Removed`, otherwise → remains `Downgraded`
+#### For Previous "Potential List" Tickers (WEEKLY PRIORITY + RESPONSIVE TO DAILY SOS):
+- **Promotion Assessment (Weekly + Daily Balance)**:
+  - **Weekly Strong + Daily Strong**: Immediate promotion to Top List (95% confidence)
+  - **Weekly Neutral/Weak + Daily SOS**: Add to Top List with lower confidence (75-85%) - don't miss breakouts!
+  - **Weekly Strong + Daily Neutral**: Promote if industry "Dẫn dắt" (85% confidence)
+  - **Entry Point Check**: Ensure reasonable entry levels, not overextended
+- **Demotion Assessment (More Lenient)**:
+  - **Weekly Bearish + Daily confirms 2+ days**: Move to Downgraded
+  - **Allow temporary weakness**: Single day bad signals okay if weekly intact
+- **Unlisted Conditions**: Both weekly and daily neutral + industry "Yếu"
+- **Decision**: Balance weekly foundation with daily opportunity capture
 
-#### For Previous "Unlisted" Tickers:
-- **Check Entry**: Strong daily signal (SOS) with supportive weekly context and non-weak industry
-- **Decision**: If qualified → `Potential List`, otherwise → remains `Unlisted`
+#### For Previous "Downgraded" Tickers (RESPONSIVE TO RECOVERY):
+- **Fast Recovery Assessment (Daily Priority for Reversals)**:
+  - **Daily SOS + Weekly supportive/neutral**: Fast track to Potential List (don't miss reversals!)
+  - **Daily SOS + Weekly still bearish**: Monitor for 2-3 days confirmation before promoting
+  - **Multiple daily bullish signals**: Consider promotion even if weekly lagging
+- **Weekly Recovery Assessment**:
+  - **Weekly SOS/Effort to Rise**: Immediate promotion to Potential List regardless of daily
+  - **Weekly No Supply after SOW**: Move to Potential if industry improving
+- **Removal Criteria (More Patient)**:
+  - **Both weekly and daily bearish for 2+ weeks**: Consider removal
+  - **Industry remains "Yếu" + continued distribution**: Remove
+- **Decision**: Prioritize capturing reversals while avoiding false breakouts
+
+#### For Previous "Unlisted" Tickers (WEEKLY PRIORITY + DAILY SOS CAPTURE):
+- **Entry Assessment (Responsive to Opportunities)**:
+  - **Daily SOS + Weekly neutral/positive**: Fast entry to Potential List
+  - **Daily SOS + Weekly negative**: Monitor for 2-3 day confirmation
+  - **Weekly SOS + Daily any**: Immediate entry to Potential List
+  - **Industry factor**: Even "Đồng Thuận" sectors acceptable if signals strong
+- **Risk Tolerance**: Higher for Potential list - capture emerging trends early
+- **Decision**: Prioritize opportunity capture over perfection
 
 ### Step 5: STAGE 2 - PLAN.md Generation
 **Objective**: Generate complete PLAN.md using verified fact sheets and final states
@@ -138,19 +168,26 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 **Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: [Define specific support/resistance levels with justification]
 ```
 
-#### 5.2 Top List Generation
+#### 5.2 Top List Generation (STABILITY-FOCUSED)
 **Rules**:
 - Include ONLY tickers with final state = `Top List`
-- Rank by multi-timeframe confirmation clarity and industry strength
-- Add confidence score (0-100%)
-- Format: `[**TCB**](#TCB) (Ngân Hàng - Dẫn dắt đồng thuận) - 95%`
+- **Confidence Score Strategy**: Adjust scores (95% → 85% → 75%) for temporary weakness rather than removing
+- **Ranking Priority**: Multi-timeframe confirmation clarity and trend sustainability
+- **Mid-Term Focus**: Prioritize consistent performers over short-term momentum
+- Format: `[**TCB**](#TCB) (Ngân Hàng - Dẫn dắt đồng thuận) - (Độ tin cậy: 95%)`
+- **Score Guidelines**: 
+  - 95%: Perfect weekly/daily alignment with strong industry
+  - 85%: Minor daily weakness but weekly trend intact
+  - 75%: Temporary consolidation but fundamentally sound
 
-#### 5.3 Potential List Generation
+#### 5.3 Potential List Generation (OPPORTUNITY FOCUSED)
 **Rules**:
 - Include ONLY tickers with final state = `Potential List`
-- Maximum 10 tickers, filter for >80% confidence
-- Include daily chart images and promotion confidence scores
-- Format with detailed reasoning citing specific signals and dates
+- **Higher capacity**: Maximum 15 tickers to capture more opportunities
+- **Lower confidence threshold**: >70% confidence to include emerging signals
+- **Daily SOS Priority**: Highlight tickers with recent daily SOS signals
+- **Fast-track indicators**: Mark tickers ready for Top List promotion
+- Format with reasoning emphasizing weekly foundation + daily catalyst
 
 #### 5.4 Downgraded List Generation
 **Rules**:

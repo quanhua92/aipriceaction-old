@@ -95,6 +95,10 @@ ls vpa_data/ market_data/
 **Example Task Tool Usage for Portfolio**:
 ```
 Task 1: "Process portfolio tickers TCB,VND from hold.md holdings table. For each: 1) Read vpa_data/{TICKER}.md last 10 entries 2) Read market_data/{TICKER}_*.csv current price 3) Extract signals from REPORT.md/REPORT_week.md 4) Map industry from GROUP.md 5) Get status from LEADER.md 6) Return complete fact sheet JSON"
+
+Task 2: "For each holding ticker, identify top 3 alternative investments. Prioritize weekly signals from REPORT_week.md, then use GROUP.md for same-industry options, confirm with daily signals from REPORT.md, and consider LEADER.md industry status. Return ranked alternatives with specific VPA reasoning."
+
+Task 3: "Select top 3 diversified portfolio expansion picks from different industry sectors. PRIMARY: Read REPORT_week.md for weekly bullish signals. CRITICAL: Assess entry point value - avoid overextended tickers from leading sectors unless at pullback levels. Look for 'Test for Supply', 'No Supply', early breakouts. Balance sector leadership with attractive entry points. Consider sector rotation opportunities. Ensure 3 different industries."
 ```
 
 **Portfolio Processing Benefits**:
@@ -152,6 +156,77 @@ Task 1: "Process portfolio tickers TCB,VND from hold.md holdings table. For each
 
 **Format**: Display as both percentage and monetary value (e.g., "+4.92% (+327.6)")
 
+### Step 5.5: Alternative Ticker Selection
+**Objective**: For each holding ticker, identify 3 best alternative investment options
+
+**Selection Criteria** (in priority order):
+1. **Weekly VPA Analysis Priority**: Prioritize tickers with strong weekly signals from `REPORT_week.md`
+2. **Same Industry Group**: First consider tickers from same industry group (from `GROUP.md`)
+3. **Daily VPA Confirmation**: Use daily signals from `REPORT.md` to confirm weekly analysis
+4. **Industry Leadership**: Prefer tickers from "Dẫn dắt" or "Đồng Thuận" industries (from `LEADER.md`)
+
+**Data Sources for Alternative Analysis**:
+- Read `REPORT_week.md` for weekly VPA signals of all available tickers
+- Read `REPORT.md` for daily VPA confirmation signals
+- Use `GROUP.md` to identify same-industry alternatives
+- Use `LEADER.md` to prioritize strong industry groups
+- Cross-reference with `vpa_data/{TICKER}.md` files for detailed analysis
+
+**Selection Process**:
+1. **Industry Matching**: Find all tickers in same industry group as holding ticker
+2. **Weekly Signal Filtering**: From available tickers, prioritize those with strong weekly bullish signals (SOS Bar, Effort to Rise, etc.)
+3. **Daily Confirmation**: Confirm weekly signals with supportive daily VPA analysis
+4. **Cross-Industry Options**: If insufficient same-industry options, expand to strong tickers from leading industry groups
+5. **Ranking Logic**: Rank by weekly signal strength first, then daily confirmation, then industry leadership status
+
+**Output Format**: For each alternative, provide specific reasoning citing:
+- Weekly VPA signal and date (PRIORITY)
+- Daily VPA confirmation (if available)
+- Industry group and leadership status
+- Comparative advantage over current holding
+
+### Step 5.6: Diversified Portfolio Expansion Selection
+**Objective**: Select top 3 tickers from different industry sectors for portfolio diversification
+
+**Priority Data Sources** (in order):
+1. **Weekly VPA Analysis (PRIMARY)**: `REPORT_week.md` - prioritize strong weekly signals
+2. **Daily VPA Confirmation (SECONDARY)**: `REPORT.md` - confirm weekly signals only
+3. **Market Context**: `PLAN.md` top recommendations and market analysis
+4. **Industry Leadership**: `LEADER.md` for sector rotation strategy
+
+**Selection Criteria** (in priority order):
+1. **Cross-Sector Diversification**: Must select from 3 different industry groups
+2. **Weekly Signal Strength**: Prioritize "Sign of Strength" and "Effort to Rise" from weekly analysis
+3. **Entry Point Valuation**: Avoid overextended tickers - prefer pullbacks, consolidations, or early breakouts
+4. **PLAN.md Integration**: Consider tickers from "Top 1x Cơ Hội Giao Dịch" section but evaluate entry points
+5. **Industry Balance**: Mix leading sectors with emerging/recovering sectors for better value
+6. **Risk-Reward Ratio**: Prioritize favorable entry points over pure sector leadership
+
+**Selection Process**:
+1. **Industry Mapping**: Read `PLAN.md` to identify sectors and picks, noting current price levels
+2. **Weekly Signal Analysis**: From `REPORT_week.md`, filter tickers with strongest weekly bullish signals
+3. **Entry Point Assessment**: Identify tickers with:
+   - Recent pullbacks to support levels ("Test for Supply" or "No Supply")
+   - Early-stage breakouts with room for growth
+   - Consolidation patterns near key support levels
+   - Avoid extended moves without healthy corrections
+4. **Value vs. Leadership Balance**: 
+   - Don't exclusively pick from "Dẫn dắt" sectors if overextended
+   - Consider "Đồng Thuận" or recovering sectors with better entry points
+   - Look for rotation opportunities from expensive to undervalued sectors
+5. **Sector Diversification**: Ensure 3 picks from different major industry groups
+6. **Daily Confirmation**: Use `REPORT.md` to confirm weekly signals and assess short-term entry timing
+7. **Risk-Reward Evaluation**: Calculate potential upside vs. current extension from key levels
+
+**Output Requirements**:
+- 3 tickers from 3 different industry sectors
+- Each selection must cite weekly VPA signal and date as primary justification
+- **Entry Point Analysis**: Specific reasoning why current levels offer good value
+- **Risk-Reward Assessment**: Compare current price to key support/resistance levels
+- Include reasoning for diversification benefit beyond just sector leadership
+- Avoid overextended picks from leading sectors unless at attractive re-entry points
+- Consider sector rotation opportunities and value plays in emerging sectors
+
 ### Step 6: hold.md Generation
 **Objective**: Generate complete hold.md using verified fact sheets and final actions
 
@@ -182,6 +257,14 @@ Task 1: "Process portfolio tickers TCB,VND from hold.md holdings table. For each
   [Summary table of new recommendations]
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
+
+**3. Kế Hoạch Gia Tăng Chi Tiết**
+
+*Top 3 cổ phiếu đa dạng ngành để mở rộng danh mục - giảm rủi ro, tăng lợi nhuận*
+
+| Mã Cổ Phiếu | Ngành | Tín Hiệu VPA Chính | Lý Do Lựa Chọn |
+| :---------- | :---- | :----------------- | :-------------- |
+[Top 3 diversified recommendations with cross-sector analysis]
 ```
 
 #### 6.3 Individual Ticker Analysis (A-Z Order)
@@ -203,6 +286,10 @@ For EVERY ticker, provide detailed breakdown:
   * **Lý Do Hành Động:** [VPA logic explaining the decision]
 * **Điểm Dừng Lỗ:** [Specific stop-loss level]
 * **Điểm Chốt Lời:** [Specific take-profit level(s)]
+* **Top 3 Cổ Phiếu Thay Thế:** [3 best alternative tickers with reasoning]
+  * **[TICKER1]**: [Reason based on weekly/daily VPA analysis]
+  * **[TICKER2]**: [Reason based on weekly/daily VPA analysis]  
+  * **[TICKER3]**: [Reason based on weekly/daily VPA analysis]
 ```
 
 #### 6.4 Change Log Section
