@@ -138,7 +138,7 @@ You will now generate the `PLAN.md` file based **only** on the final states deci
 ---
 ### **[Tên Cổ Phiếu]**
 
-  - `[Daily Chart](reports/[TICKER]/[TICKER]_candlestick_chart.png)` `[Weekly Chart](reports/[TICKER]/[TICKER]_candlestick_chart_week.png)` `[View Report](REPORT.md#[TICKER])`
+  - `[Daily Chart](reports/[TICKER]/[TICKER]_candlestick_chart.png)` `[Weekly Chart](reports_week/[TICKER]/[TICKER]_candlestick_chart.png)` `[View Report](REPORT.md#[TICKER])`
   - **Phân Tích Cốt Lõi:** This narrative MUST be a direct synthesis of the ticker's Fact Sheet.
       - **Weekly VPA Narrative:** "Bối cảnh tuần, dựa trên cây nến **kết thúc ngày [week_ending_date from Fact Sheet]**, cho thấy một **[weekly_context.signal from Fact Sheet]**..."
       - **Daily VPA Narrative:** "Hành động giá gần đây đã củng cố/thách thức bối cảnh này. Cụ thể, vào **ngày [most_recent_daily_signal.date from Fact Sheet]**, cổ phiếu đã có tín hiệu **'[most_recent_daily_signal.signal from Fact Sheet]'**. Tóm tắt từ `VPA.md` cho thấy [daily_narrative_context from Fact Sheet]."

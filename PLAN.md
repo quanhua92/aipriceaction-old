@@ -105,7 +105,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VCI**
 
-![Daily Chart](./reports/VCI/VCI_candlestick_chart.png) | ![Weekly Chart](./reports_week/VCI/VCI_candlestick_chart_week.png) | [View Report](./REPORT.md#VCI)
+![Daily Chart](./reports/VCI/VCI_candlestick_chart.png) | ![Weekly Chart](./reports_week/VCI/VCI_candlestick_chart.png) | [View Report](./REPORT.md#VCI)
 
   - **Phân Tích Cốt Lõi:** VCI là một cổ phiếu dẫn dắt mạnh mẽ trong ngành Chứng Khoán (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Hành động giá ngày 2025-07-11 với tín hiệu **'Sign of Strength'** và khối lượng bùng nổ đã xác nhận sức mạnh đó một cách tuyệt đối, phá vỡ mọi kháng cự và cho thấy lực cầu áp đảo hoàn toàn.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `38.5 - 39.5` | **Dừng Lỗ:** Dưới `37.5` | **Chốt Lời:** `45.0 - 46.0`
@@ -114,7 +114,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VCB**
 
-![Daily Chart](./reports/VCB/VCB_candlestick_chart.png) | ![Weekly Chart](./reports_week/VCB/VCB_candlestick_chart_week.png) | [View Report](./REPORT.md#VCB)
+![Daily Chart](./reports/VCB/VCB_candlestick_chart.png) | ![Weekly Chart](./reports_week/VCB/VCB_candlestick_chart.png) | [View Report](./REPORT.md#VCB)
 
   - **Phân Tích Cốt Lõi:** VCB là một cổ phiếu mạnh trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Chuỗi hành động từ SOS ngày 2025-07-09, Test for Supply thành công ngày 2025-07-10, và Effort to Rise ngày 2025-07-11 cho thấy lực cầu đang áp đảo.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `61.5 - 62.5` | **Dừng Lỗ:** Dưới `60.0` | **Chốt Lời:** `68.0 - 70.0`
@@ -123,7 +123,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **ACB**
 
-![Daily Chart](./reports/ACB/ACB_candlestick_chart.png) | ![Weekly Chart](./reports_week/ACB/ACB_candlestick_chart_week.png) | [View Report](./REPORT.md#ACB)
+![Daily Chart](./reports/ACB/ACB_candlestick_chart.png) | ![Weekly Chart](./reports_week/ACB/ACB_candlestick_chart.png) | [View Report](./REPORT.md#ACB)
 
   - **Phân Tích Cốt Lõi:** ACB là một cổ phiếu mạnh trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Chuỗi tín hiệu từ Test for Supply thành công ngày 2025-07-10 và Effort to Rise ngày 2025-07-11 xác nhận sức mạnh vượt trội với sự đồng thuận mạnh mẽ giữa hai khung thời gian.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `22.4 - 22.7` | **Dừng Lỗ:** Dưới `21.8` | **Chốt Lời:** `25.5 - 26.5`
@@ -132,7 +132,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **HDB**
 
-![Daily Chart](./reports/HDB/HDB_candlestick_chart.png) | ![Weekly Chart](./reports_week/HDB/HDB_candlestick_chart_week.png) | [View Report](./REPORT.md#HDB)
+![Daily Chart](./reports/HDB/HDB_candlestick_chart.png) | ![Weekly Chart](./reports_week/HDB/HDB_candlestick_chart.png) | [View Report](./REPORT.md#HDB)
 
   - **Phân Tích Cốt Lõi:** HDB là một cổ phiếu mạnh trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Chuỗi hành động từ Test for Supply thành công ngày 2025-07-10 và Effort to Rise ngày 2025-07-11 cho thấy lực cầu đang áp đảo với tích lũy thể chế mạnh mẽ.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `24.2 - 24.5` | **Dừng Lỗ:** Dưới `23.5` | **Chốt Lời:** `27.5 - 28.5`
@@ -141,7 +141,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **HPG**
 
-![Daily Chart](./reports/HPG/HPG_candlestick_chart.png) | ![Weekly Chart](./reports_week/HPG/HPG_candlestick_chart_week.png) | [View Report](./REPORT.md#HPG)
+![Daily Chart](./reports/HPG/HPG_candlestick_chart.png) | ![Weekly Chart](./reports_week/HPG/HPG_candlestick_chart.png) | [View Report](./REPORT.md#HPG)
 
   - **Phân Tích Cốt Lõi:** HPG là cổ phiếu dẫn dắt ngành Thép (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Chuỗi SOS ngày 2025-07-10 và Effort to Rise ngày 2025-07-11 trên nền No Supply cho thấy cú bứt phá cực kỳ mạnh mẽ, xác nhận xu hướng tăng đã quay trở lại một cách quyết đoán.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `25.0 - 26.0` | **Dừng Lỗ:** Dưới `24.5` | **Chốt Lời:** `29.0 - 30.0`
@@ -150,7 +150,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **SSI**
 
-![Daily Chart](./reports/SSI/SSI_candlestick_chart.png) | ![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart_week.png) | [View Report](./REPORT.md#SSI)
+![Daily Chart](./reports/SSI/SSI_candlestick_chart.png) | ![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart.png) | [View Report](./REPORT.md#SSI)
 
   - **Phân Tích Cốt Lõi:** SSI là một cổ phiếu mạnh trong ngành Chứng khoán (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Chuỗi Test for Supply thành công ngày 2025-07-10 và Effort to Rise ngày 2025-07-11 với khối lượng lớn xác nhận cú bứt phá mạnh mẽ và lực cầu áp đảo.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `28.5 - 29.5` | **Dừng Lỗ:** Dưới `28.0` | **Chốt Lời:** `33.0 - 34.0`
@@ -159,7 +159,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VIX**
 
-![Daily Chart](./reports/VIX/VIX_candlestick_chart.png) | ![Weekly Chart](./reports_week/VIX/VIX_candlestick_chart_week.png) | [View Report](./REPORT.md#VIX)
+![Daily Chart](./reports/VIX/VIX_candlestick_chart.png) | ![Weekly Chart](./reports_week/VIX/VIX_candlestick_chart.png) | [View Report](./REPORT.md#VIX)
 
   - **Phân Tích Cốt Lõi:** VIX là một cổ phiếu mạnh trong ngành Chứng khoán (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Chuỗi Test for Supply thành công ngày 2025-07-10 và Effort to Rise ngày 2025-07-11 với khối lượng lớn cho thấy lực cầu đang áp đảo.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `15.5 - 15.8` | **Dừng Lỗ:** Dưới `15.0` | **Chốt Lời:** `18.0 - 19.0`
@@ -168,7 +168,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VND**
 
-![Daily Chart](./reports/VND/VND_candlestick_chart.png) | ![Weekly Chart](./reports_week/VND/VND_candlestick_chart_week.png) | [View Report](./REPORT.md#VND)
+![Daily Chart](./reports/VND/VND_candlestick_chart.png) | ![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png) | [View Report](./REPORT.md#VND)
 
   - **Phân Tích Cốt Lõi:** VND là một cổ phiếu mạnh trong ngành Chứng khoán (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Tín hiệu Effort to Rise ngày 2025-07-08 sau giai đoạn yếu tạm thời cho thấy sự phục hồi mạnh mẽ và lực cầu quay trở lại.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `17.5 - 17.9` | **Dừng Lỗ:** Dưới `17.0` | **Chốt Lời:** `20.0 - 21.0`
@@ -177,7 +177,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **BID**
 
-![Daily Chart](./reports/BID/BID_candlestick_chart.png) | ![Weekly Chart](./reports_week/BID/BID_candlestick_chart_week.png) | [View Report](./REPORT.md#BID)
+![Daily Chart](./reports/BID/BID_candlestick_chart.png) | ![Weekly Chart](./reports_week/BID/BID_candlestick_chart.png) | [View Report](./REPORT.md#BID)
 
   - **Phân Tích Cốt Lõi:** BID là một cổ phiếu mạnh trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Chuỗi Test for Supply thành công ngày 2025-07-10 và Effort to Rise ngày 2025-07-11 cho thấy tích lũy thể chế mạnh mẽ và lực cầu áp đảo.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `38.0 - 38.3` | **Dừng Lỗ:** Dưới `37.0` | **Chốt Lời:** `42.5 - 43.5`
@@ -186,7 +186,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VRE**
 
-![Daily Chart](./reports/VRE/VRE_candlestick_chart.png) | ![Weekly Chart](./reports_week/VRE/VRE_candlestick_chart_week.png) | [View Report](./REPORT.md#VRE)
+![Daily Chart](./reports/VRE/VRE_candlestick_chart.png) | ![Weekly Chart](./reports_week/VRE/VRE_candlestick_chart.png) | [View Report](./REPORT.md#VRE)
 
   - **Phân Tích Cốt Lõi:** VRE là cổ phiếu dẫn dắt ngành Bất động sản (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Chuỗi SOS mạnh mẽ ngày 2025-07-09 và 2025-07-10 với khối lượng bùng nổ, tiếp nối bởi Test for Supply tích cực ngày 2025-07-11 cho thấy breakout thành công và lực cầu áp đảo.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `27.5 - 28.5` | **Dừng Lỗ:** Dưới `26.5` | **Chốt Lời:** `32.0 - 34.0`
@@ -195,7 +195,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VHM**
 
-![Daily Chart](./reports/VHM/VHM_candlestick_chart.png) | ![Weekly Chart](./reports_week/VHM/VHM_candlestick_chart_week.png) | [View Report](./REPORT.md#VHM)
+![Daily Chart](./reports/VHM/VHM_candlestick_chart.png) | ![Weekly Chart](./reports_week/VHM/VHM_candlestick_chart.png) | [View Report](./REPORT.md#VHM)
 
   - **Phân Tích Cốt Lõi:** VHM là cổ phiếu dẫn dắt ngành Bất động sản (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. SOS bùng nổ ngày 2025-07-10 với khối lượng khổng lồ, tiếp nối bởi Test for Supply thành công ngày 2025-07-11 cho thấy breakout mạnh mẽ và áp lực bán tối thiểu.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `85.0 - 87.0` | **Dừng Lỗ:** Dưới `82.0` | **Chốt Lời:** `95.0 - 100.0`
@@ -204,7 +204,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **MBS**
 
-![Daily Chart](./reports/MBS/MBS_candlestick_chart.png) | ![Weekly Chart](./reports_week/MBS/MBS_candlestick_chart_week.png) | [View Report](./REPORT.md#MBS)
+![Daily Chart](./reports/MBS/MBS_candlestick_chart.png) | ![Weekly Chart](./reports_week/MBS/MBS_candlestick_chart.png) | [View Report](./REPORT.md#MBS)
 
   - **Phân Tích Cốt Lõi:** MBS là một cổ phiếu mạnh trong ngành Chứng khoán (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-07 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)**. Tín hiệu SOS bùng nổ ngày 2025-07-11 với khối lượng khủng sau giai đoạn No Supply và Effort to Fall trước đó đã thay đổi hoàn toàn bức tranh, cho thấy lực cầu mạnh mẽ quay trở lại.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `28.5 - 29.0` | **Dừng Lỗ:** Dưới `27.5` | **Chốt Lời:** `33.0 - 35.0`
@@ -213,7 +213,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **CTG**
 
-![Daily Chart](./reports/CTG/CTG_candlestick_chart.png) | ![Weekly Chart](./reports_week/CTG/CTG_candlestick_chart_week.png) | [View Report](./REPORT.md#CTG)
+![Daily Chart](./reports/CTG/CTG_candlestick_chart.png) | ![Weekly Chart](./reports_week/CTG/CTG_candlestick_chart.png) | [View Report](./REPORT.md#CTG)
 
   - **Phân Tích Cốt Lõi:** CTG là một cổ phiếu mạnh trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength (SOS)** mạnh mẽ. Consistent weekly strength với multiple SOS signals trong giai đoạn gần đây cho thấy accumulation pattern rất tích cực và lực cầu thể chế mạnh mẽ.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `32.5 - 33.0` | **Dừng Lỗ:** Dưới `31.0` | **Chốt Lời:** `37.0 - 39.0`
@@ -222,7 +222,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **MBB**
 
-![Daily Chart](./reports/MBB/MBB_candlestick_chart.png) | ![Weekly Chart](./reports_week/MBB/MBB_candlestick_chart_week.png) | [View Report](./REPORT.md#MBB)
+![Daily Chart](./reports/MBB/MBB_candlestick_chart.png) | ![Weekly Chart](./reports_week/MBB/MBB_candlestick_chart.png) | [View Report](./REPORT.md#MBB)
 
   - **Phân Tích Cốt Lõi:** MBB là cổ phiếu dẫn dắt trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Weekly analysis cho thấy chuỗi **Sign of Strength** signals mạnh mẽ kết thúc 2025-07-11. Strong institutional accumulation pattern với khối lượng bùng nổ trong các phiên SOS, xác nhận lực cầu áp đảo và breakout potential cao.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `28.0 - 28.5` | **Dừng Lỗ:** Dưới `26.5` | **Chốt Lời:** `32.0 - 34.0`
@@ -231,7 +231,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **SHB**
 
-![Daily Chart](./reports/SHB/SHB_candlestick_chart.png) | ![Weekly Chart](./reports_week/SHB/SHB_candlestick_chart_week.png) | [View Report](./REPORT.md#SHB)
+![Daily Chart](./reports/SHB/SHB_candlestick_chart.png) | ![Weekly Chart](./reports_week/SHB/SHB_candlestick_chart.png) | [View Report](./REPORT.md#SHB)
 
   - **Phân Tích Cốt Lõi:** SHB là một cổ phiếu recovery trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Weekly **Sign of Strength** 2025-07-11 sau giai đoạn consolidation cho thấy sự phục hồi mạnh mẽ. Recovery pattern với breaking out khỏi accumulation zone, supported by strong banking sector momentum.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `10.8 - 11.2` | **Dừng Lỗ:** Dưới `10.0` | **Chốt Lời:** `13.0 - 14.0`
@@ -240,7 +240,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **VIB**
 
-![Daily Chart](./reports/VIB/VIB_candlestick_chart.png) | ![Weekly Chart](./reports_week/VIB/VIB_candlestick_chart_week.png) | [View Report](./REPORT.md#VIB)
+![Daily Chart](./reports/VIB/VIB_candlestick_chart.png) | ![Weekly Chart](./reports_week/VIB/VIB_candlestick_chart.png) | [View Report](./REPORT.md#VIB)
 
   - **Phân Tích Cốt Lõi:** VIB là một cổ phiếu mạnh trong ngành Ngân hàng (ngành "Dẫn dắt Đồng Thuận"). Weekly **Sign of Strength** 2025-07-11 với accumulation pattern tích cực. Strong consistent performance trong leading banking sector với institutional support pattern rõ ràng, tiềm năng breakout cao.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `26.0 - 26.5` | **Dừng Lỗ:** Dưới `24.5` | **Chốt Lời:** `30.0 - 32.0`
@@ -249,7 +249,7 @@ Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cả
 
 ### **BSI**
 
-![Daily Chart](./reports/BSI/BSI_candlestick_chart.png) | ![Weekly Chart](./reports_week/BSI/BSI_candlestick_chart_week.png) | [View Report](./REPORT.md#BSI)
+![Daily Chart](./reports/BSI/BSI_candlestick_chart.png) | ![Weekly Chart](./reports_week/BSI/BSI_candlestick_chart.png) | [View Report](./REPORT.md#BSI)
 
   - **Phân Tích Cốt Lõi:** BSI là một cổ phiếu mạnh trong ngành Chứng khoán (ngành "Dẫn dắt Đồng Thuận"). Weekly **Sign of Strength** pattern với strong accumulation signals trong 2025-07-11. Securities sector strength với good institutional flow, technical pattern cho thấy potential for significant upside move.
   - **Vùng Tham Gia Tốt Nhất:** **Vùng Mua:** `35.0 - 36.0` | **Dừng Lỗ:** Dưới `33.0` | **Chốt Lời:** `42.0 - 45.0`
