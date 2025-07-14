@@ -71,7 +71,8 @@ ls vpa_data/ market_data/
   "daily_narrative_context": "1-sentence summary from vpa_data/{TICKER}.md last 3-5 days",
   "weekly_context": {
     "signal": "SOS Bar/Upthrust/etc.",
-    "week_ending_date": "YYYY-MM-DD"
+    "week_ending_date": "YYYY-MM-DD",
+    "weekly_narrative": "Brief summary of weekly trend and context"
   },
   "industry_group": "Industry name from GROUP.md",
   "industry_status": "Dẫn dắt Đồng Thuận/Yếu/Phân Phối from LEADER.md",
@@ -91,7 +92,7 @@ ls vpa_data/ market_data/
 - Extract holding data ONLY from existing `hold-gialang.md` portfolio table
 - Extract current prices from individual `market_data/{TICKER}_*.csv` files (most recent closing price)
 - Extract daily signals ONLY from `REPORT.md` with exact dates
-- Extract weekly signals ONLY from `REPORT_week.md` with week ending dates
+- Extract weekly signals ONLY from `REPORT_week.md` with week ending dates and weekly trend context
 - Extract VPA narrative context from individual `vpa_data/{TICKER}.md` files
 - **MANDATORY**: Map industries using exact matches from `GROUP.md` - ALWAYS cross-check ticker industry classification accuracy
 - Get industry status from `LEADER.md` analysis
@@ -292,7 +293,9 @@ For EVERY ticker, provide detailed breakdown:
 * **Số Lượng Nắm Giữ:** [From fact sheet]
 * **Giá Hiện Tại:** [From fact sheet]
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** [Calculated P&L]
-* **VPA Phân Tích Hiện Tại:** [Synthesis from fact sheet - weekly context, daily signals, narrative, industry status]
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** [Weekly context from fact sheet - weekly signals, week ending date, and weekly narrative]
+  * **Bối Cảnh Ngày:** [Daily context from fact sheet - daily signals, recent narrative, and short-term trend analysis]
 * **Hành Động Đề Xuất:** [Final decision from Stage 1]
   * **Giá Đề Xuất:** [Specific price range if buy/sell action]
   * **Số Lượng Đề Xuất:** [Specific quantity in multiples of 100 shares (e.g., 100, 200, 300) or ratio if buy/sell action]
@@ -334,7 +337,7 @@ For EVERY ticker, provide detailed breakdown:
 **STRUCTURAL VERIFICATION**:
 - [ ] Section 2 contains individual ### ticker analyses for ALL current holdings
 - [ ] Section 3 contains individual ### ticker analyses for ALL diversification picks with full detail (not just summary table)
-- [ ] Section 3 uses identical format to Section 2: charts, prices, quantities, VPA analysis, stop-loss, take-profit
+- [ ] Section 3 uses identical format to Section 2: charts, prices, quantities, VPA analysis (including separate Bối Cảnh Tuần and Bối Cảnh Ngày), stop-loss, take-profit
 - [ ] No content appears between section headers without proper subsection organization
 
 **Verification Checklist**:
@@ -426,7 +429,7 @@ For EVERY ticker, provide detailed breakdown:
   "current_price": 0,
   "most_recent_daily_signal": {"signal": "", "date": ""},
   "daily_narrative_context": "",
-  "weekly_context": {"signal": "", "week_ending_date": ""},
+  "weekly_context": {"signal": "", "week_ending_date": "", "weekly_narrative": ""},
   "industry_group": "",
   "industry_status": "",
   "overall_market_context": ""
