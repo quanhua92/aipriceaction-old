@@ -105,7 +105,7 @@ Using ONLY the internal Fact Sheets created in Stage 0, you will determine the n
 You will now generate the `PLAN.md` file based **only** on the final states decided in Stage 1. All justifications **MUST** cite the specific signals and dates from the Fact Sheets.
 
 **1. Phân Tích Trạng Thái VNINDEX & Chiến Lược**
-   *   **MAKE SURE** you have markdown links to view both daily and weekly charts: `[Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)` `[Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png)`.
+   *   **MAKE SURE** you have markdown links to view both daily and weekly charts: `[Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png)` `[Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)`.
    *   Provide a concise summary of the VNINDEX by synthesizing its **daily and weekly VPA story**. First, describe the weekly context from `REPORT_week.md`. Then, describe how the most recent daily action from `REPORT.md` and `VPA.md` either confirms or contradicts that weekly picture.
    *   Define a specific **"Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng"**, justified by referencing key support/resistance levels from both timeframes.
 
@@ -121,14 +121,14 @@ You will now generate the `PLAN.md` file based **only** on the final states deci
    *   **Higher capacity:** Maximum 15 tickers to capture more opportunities
    *   **Lower confidence threshold:** >70% confidence to include emerging signals
    *   **Example Structure:**
-      ![Daily Chart](./reports/VHC/VHC_candlestick_chart.png)
+      ![Weekly Chart](./reports_week/VHC/VHC_candlestick_chart.png) | ![Daily Chart](./reports/VHC/VHC_candlestick_chart.png)
       - [**VHC**](REPORT.md#VHC) (Thủy Sản) - (Điểm tự tin cho việc thăng hạng: 95%)
           - **Lý do:** Biểu đồ ngày đang trong pha "Backing Up" sau tín hiệu **SOS ngày 2024-07-25**. Điều này xác nhận cho tín hiệu **SOS trên biểu đồ tuần (kết thúc 2024-07-19)**, cho thấy sự đồng thuận đa khung thời gian.
 
 **4. Danh Sách Cổ Phiếu Bị Hạ Ưu Tiên (Chờ Loại Bỏ)**
    *   This list **must only** contain tickers whose final state is **`Downgraded`**.
    *   **Example Structure:**
-      ![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
+      ![Weekly Chart](./reports_week/MWG/MWG_candlestick_chart.png) | ![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
       - [**MWG**](REPORT.md#MWG) (Bán Lẻ) (Chuyển vào ngày: 2025-06-24) - (Độ tin cậy giữ nguyên lý do: 85%)
           - **Lý do:** Nỗ lực phục hồi thất bại với tín hiệu **'No Demand' ngày 2024-07-26**. Sự yếu kém này xác nhận cho tín hiệu **'Upthrust' trên biểu đồ tuần (kết thúc 2024-07-19)**.
 
@@ -138,7 +138,7 @@ You will now generate the `PLAN.md` file based **only** on the final states deci
 ---
 ### **[Tên Cổ Phiếu]**
 
-  - `[Daily Chart](reports/[TICKER]/[TICKER]_candlestick_chart.png)` `[Weekly Chart](reports_week/[TICKER]/[TICKER]_candlestick_chart.png)` `[View Report](REPORT.md#[TICKER])`
+  - `[Weekly Chart](reports_week/[TICKER]/[TICKER]_candlestick_chart.png)` `[Daily Chart](reports/[TICKER]/[TICKER]_candlestick_chart.png)` `[View Report](REPORT.md#[TICKER])`
   - **Phân Tích Cốt Lõi:** This narrative MUST be a direct synthesis of the ticker's Fact Sheet.
       - **Weekly VPA Narrative:** "Bối cảnh tuần, dựa trên cây nến **kết thúc ngày [week_ending_date from Fact Sheet]**, cho thấy một **[weekly_context.signal from Fact Sheet]**..."
       - **Daily VPA Narrative:** "Hành động giá gần đây đã củng cố/thách thức bối cảnh này. Cụ thể, vào **ngày [most_recent_daily_signal.date from Fact Sheet]**, cổ phiếu đã có tín hiệu **'[most_recent_daily_signal.signal from Fact Sheet]'**. Tóm tắt từ `VPA.md` cho thấy [daily_narrative_context from Fact Sheet]."
