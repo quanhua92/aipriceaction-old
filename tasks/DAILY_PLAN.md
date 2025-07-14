@@ -159,7 +159,7 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 ```markdown
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
-[Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) | [Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
+![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) | ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
 **Bối Cảnh Tuần**: [Synthesize weekly context from REPORT_week.md]
 
@@ -308,7 +308,7 @@ For EVERY ticker in Top List, provide:
 ```markdown
 ### [TICKER_NAME]
 
-- [Weekly Chart](reports_week/TICKER/TICKER_candlestick_chart.png) | [Daily Chart](reports/TICKER/TICKER_candlestick_chart.png) | [View Report](REPORT.md#TICKER)
+- ![Weekly Chart](reports_week/TICKER/TICKER_candlestick_chart.png) | ![Daily Chart](reports/TICKER/TICKER_candlestick_chart.png) | [View Report](REPORT.md#TICKER)
 - **Phân Tích Cốt Lõi:**
   - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc [DATE] cho thấy [SIGNAL]...
   - **Daily VPA Narrative:** Ngày [DATE] có tín hiệu [SIGNAL]. [VPA context]...

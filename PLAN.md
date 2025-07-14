@@ -17,7 +17,7 @@
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
-[Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) | [Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
+![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) | ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
 **Bối Cảnh Tuần**: Tuần kết thúc ngày 2025-07-11 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)** cực kỳ thuyết phục với nến tăng thân dài và khối lượng bùng nổ, thiết lập đỉnh mới tại 1,457.76 điểm và xác nhận lực cầu đang rất quyết liệt.
 
