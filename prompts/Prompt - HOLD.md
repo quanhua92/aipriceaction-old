@@ -67,17 +67,21 @@ This is a mandatory internal analysis you must perform **before** any other stag
 
 Using ONLY the internal Fact Sheets created in Stage 0, you will determine the new recommended action for each ticker. Each ticker will be assessed according to the following transition rules, which you must execute in order.
 
-**Action Recommendation Rules (Execute in this order):**
+**Action Recommendation Rules (Execute in this order - WEEKLY PRIORITY):**
 
 For each ticker's Fact Sheet:
 
 1.  **If `previous_recommendation` was `Hold`:**
-    *   **Condition A (Strong Bullish Continuation):** Does the Fact Sheet show a clear continuation of bullish signals? This is defined as: (`most_recent_daily_signal.signal` is bullish like 'SOS', 'Effort to Rise', 'Backing Up') AND (`weekly_context.signal` is supportive or bullish) AND (`daily_narrative_context` confirms strength).
+    *   **Primary Assessment (Weekly Context):** Weekly signals take precedence over daily signals.
+        *   Weekly SOS/Effort to Rise = Strong foundation (maintain confidence)
+        *   Weekly No Supply/Test for Supply = Neutral (monitor daily for direction)
+        *   Weekly SOW/Upthrust = Warning (reduce confidence but don't remove immediately)
+    *   **Condition A (Strong Bullish Continuation):** Weekly signals bullish AND daily confirms strength.
         *   **Decision:** `Buy More`.
-    *   **Condition B (Minor Weakness/Consolidation):** Does the Fact Sheet show minor weakness or healthy consolidation? This is defined as: (`most_recent_daily_signal.signal` is neutral or a minor bearish signal like 'No Demand' on low volume) AND (`daily_narrative_context` describes sideways movement or a low-volume pullback) AND (the underlying `weekly_context` remains bullish).
-        *   **Decision:** `Hold` (if still strong) or `Prepare to Buy` (if a clear VPA entry is forming, e.g., a test after a pullback).
-    *   **Condition C (Significant Weakness/Breakdown):** Does the Fact Sheet show a clear break in the bullish narrative? This is defined as: (`most_recent_daily_signal.signal` is a major bearish signal like 'Sign of Weakness', 'Effort to Fall' on high volume) OR (`weekly_context.signal` has turned bearish and the daily signal confirms it).
-        *   **Decision:** `Sell` (e.g., 50%) or `Panic Sell` (if breakdown is severe and accelerating).
+    *   **Condition B (Minor Weakness/Consolidation):** Daily weakness but weekly foundation intact. AVOID overreaction to single day weakness.
+        *   **Decision:** `Hold` or `Prepare to Buy` (normal consolidation expected).
+    *   **Condition C (Significant Weakness/Breakdown):** Weekly bearish + 2+ consecutive daily bearish signals.
+        *   **Decision:** `Sell` (only after multiple confirmations).
 
 2.  **If `previous_recommendation` was `Buy More`:**
     *   **Condition A (Confirmation/Continuation):** Does the Fact Sheet show *further* strong bullish confirmation after the initial `Buy More` signal? (`most_recent_daily_signal.signal` remains bullish, price is moving up).
@@ -153,6 +157,19 @@ You will now generate the `hold.md` file based *only* on the final actions decid
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
 
+**3. Kế Hoạch Gia Tăng Chi Tiết**
+
+*Top 3 cổ phiếu đa dạng ngành để mở rộng danh mục - giảm rủi ro, tăng lợi nhuận*
+
+  * Select 3 tickers from different industry sectors for portfolio diversification
+  * **Priority:** Weekly VPA signals from REPORT_week.md, then daily confirmation
+  * **Entry Point Focus:** Avoid overextended tickers from leading sectors unless at pullback levels
+  * **Balance:** Mix leading sectors with emerging/recovering sectors for better value
+
+| Mã Cổ Phiếu | Ngành | Tín Hiệu VPA Chính | Lý Do Lựa Chọn |
+| :---------- | :---- | :----------------- | :-------------- |
+[Top 3 diversified recommendations with cross-sector analysis]
+
   * For each ticker, provide a detailed breakdown following the template below.
   * Sort tickers from A to Z.
   * **Crucially, all data points MUST come from the ticker's internal Fact Sheet created in Stage 0.**
@@ -174,6 +191,10 @@ You will now generate the `hold.md` file based *only* on the final actions decid
       * **Lý Do Hành Động:** Explain the logic based on the VPA principles that triggered the decision in Stage 1. (e.g., "`Gia tăng tỷ trọng vì đây là điểm 'Backing Up to the Edge of the Creek' kinh điển, rủi ro thấp nhất cho một giai đoạn tăng giá mới.`" or "`Cần cắt lỗ vì giá đã phá vỡ hỗ trợ quan trọng với khối lượng lớn, cho thấy áp lực bán mạnh mẽ và xu hướng giảm.`")
   * **Điểm Dừng Lỗ:** [A specific stop-loss price level]
   * **Điểm Chốt Lời:** [A specific take-profit price level, or multiple levels for partial profit-taking]
+  * **Top 3 Cổ Phiếu Thay Thế:** [3 best alternative tickers from same industry, prioritizing weekly signals]
+      * **[TICKER1]**: [Reason based on weekly VPA signals and daily confirmation]
+      * **[TICKER2]**: [Reason based on weekly VPA signals and daily confirmation]  
+      * **[TICKER3]**: [Reason based on weekly VPA signals and daily confirmation]
 
 -----
 

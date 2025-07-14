@@ -55,45 +55,48 @@ This is a mandatory internal analysis you must perform **before** any other stag
 
 Using ONLY the internal Fact Sheets created in Stage 0, you will determine the new state for each ticker. Each ticker can only exist in one of the following states: `Top List`, `Potential List`, `Downgraded`, or `Unlisted`.
 
-**State Transition Rules (Execute in this order, based on Fact Sheet data):**
+**State Transition Rules (Execute in this order - WEEKLY PRIORITY + STABILITY):**
 
-1.  **For Tickers with `previous_state: Top List`:**
-    *   **Condition (Significant Weakness):** Does the Fact Sheet show a clear break in the bullish narrative? This is defined as:
-        *   The `weekly_context.signal` is bearish (e.g., 'Upthrust', 'SOW'), AND the `most_recent_daily_signal.signal` confirms this weakness (e.g., 'No Demand', 'Effort to Fall').
-        *   OR, the `most_recent_daily_signal.signal` is a major bearish signal (e.g., 'Sign of Weakness', 'Distribution') that decisively violates the prior trend, especially if the `industry_status` is also weakening.
+1.  **For Tickers with `previous_state: Top List` (VERY HIGH THRESHOLD for Removal):**
+    *   **Primary Assessment:** Weekly trend status takes precedence over daily signals
+        *   Weekly SOS/Effort to Rise = Strong foundation (maintain high confidence 85-95%)
+        *   Weekly No Supply/Test for Supply = Neutral (reduce confidence 75-85% but keep in Top List)
+        *   Weekly SOW/Upthrust = Warning (reduce confidence but monitor for confirmation)
+    *   **Condition (Significant Weakness - MULTIPLE CONFIRMATIONS REQUIRED):** Weekly bearish signal + 3+ consecutive daily bearish signals + industry status "Yếu"
+    *   **NEVER remove for:** Single day SOW, isolated "No Demand", normal pullbacks, "Test for Supply"
     *   **Decision:**
-        *   If **YES**, its new state is **`Downgraded`**.
-        *   If **NO**, its state remains **`Top List`**.
+        *   If **Multiple confirmations met**, new state is **`Downgraded`**.
+        *   Otherwise, **adjust confidence score (95%→85%→75%)** but remain **`Top List`**.
 
-2.  **For Tickers with `previous_state: Potential List`:**
-    *   **Condition A (Promotion):** Does the Fact Sheet show sustained, confirmed strength? This requires:
-        *   The `weekly_context.signal` is strongly bullish (e.g., 'SOS', breakout from accumulation).
-        *   The `most_recent_daily_signal.signal` is also bullish (e.g., 'SOS', 'Backing Up', 'Effort to Rise') and confirms the weekly story.
-        *   The `industry_status` is "Dẫn dắt Đồng Thuận" or a strong "Dẫn dắt Phân Hóa".
-    *   **Condition B (Demotion):** Does the Fact Sheet show a clear failure or weakness, as defined in rule #1?
-    *   **Condition C (Revert to Unlisted):** Does the Fact Sheet show a lack of bullish follow-through (`most_recent_daily_signal` is neutral/weak) AND the `industry_status` is "Yếu/Phân Phối"?
+2.  **For Tickers with `previous_state: Potential List` (RESPONSIVE TO DAILY SOS):**
+    *   **Condition A (Promotion - Weekly + Daily Balance):** 
+        *   Weekly Strong + Daily Strong = Immediate promotion (95% confidence)
+        *   Weekly Neutral/Weak + Daily SOS = Promote with lower confidence (75-85%) - don't miss breakouts!
+        *   **Entry Point Check:** Ensure reasonable entry levels, not overextended
+    *   **Condition B (Demotion):** Weekly bearish + daily confirms 2+ days
+    *   **Condition C (Unlisted):** Both weekly and daily neutral + industry "Yếu"
     *   **Decision:**
-        *   If **Condition A** is met, new state is **`Top List`**.
-        *   If **Condition B** is met, new state is **`Downgraded`**.
-        *   If **Condition C** is met, new state is **`Unlisted`**.
+        *   If **Condition A** met, new state is **`Top List`**.
+        *   If **Condition B** met, new state is **`Downgraded`**.
+        *   If **Condition C** met, new state is **`Unlisted`**.
         *   Otherwise, state remains **`Potential List`**.
 
-3.  **For Tickers with `previous_state: Downgraded`:**
-    *   **Condition A (Promotion):** Does the Fact Sheet show a significant bullish reversal? (e.g., `weekly_context.signal` OR `most_recent_daily_signal.signal` is a strong 'SOS'). Is `industry_status` improving?
-    *   **Condition B (Removal):** Does the Fact Sheet show continued, confirmed weakness?
+3.  **For Tickers with `previous_state: Downgraded` (RESPONSIVE TO RECOVERY):**
+    *   **Condition A (Fast Recovery):** Daily SOS + weekly supportive/neutral = Fast track to Potential List (don't miss reversals!)
+    *   **Condition B (Weekly Recovery):** Weekly SOS/Effort to Rise = Immediate promotion regardless of daily
+    *   **Condition C (Removal):** Both weekly and daily bearish for 2+ weeks + industry remains "Yếu"
     *   **Decision:**
-        *   If **Condition A** met, new state is **`Potential List`**.
-        *   If **Condition B** met, new state is **`Removed`** (will not appear in `PLAN.md`).
+        *   If **Condition A or B** met, new state is **`Potential List`**.
+        *   If **Condition C** met, new state is **`Removed`**.
         *   Otherwise, state remains **`Downgraded`**.
 
-4.  **For Tickers with `previous_state: Unlisted`:**
-    *   **Condition (Move to `Potential List`):** Does the Fact Sheet show initial strong signals? This requires:
-        *   A strong `most_recent_daily_signal.signal` (e.g., 'SOS').
-        *   A supportive `weekly_context` (e.g., in accumulation, not distribution).
-        *   An `industry_status` that is NOT "Yếu/Phân Phối" unless the individual ticker's signals are exceptionally strong.
+4.  **For Tickers with `previous_state: Unlisted` (OPPORTUNITY CAPTURE):**
+    *   **Condition (Fast Entry):** Daily SOS + weekly neutral/positive = Fast entry to Potential List
+    *   **Alternative:** Weekly SOS + daily any = Immediate entry to Potential List
+    *   **Industry factor:** Even "Đồng Thuận" sectors acceptable if signals strong
     *   **Decision:**
-        *   If **YES**, new state is **`Potential List`**.
-        *   If **NO**, state remains **`Unlisted`**.
+        *   If **Strong signals**, new state is **`Potential List`**.
+        *   Otherwise, state remains **`Unlisted`**.
 
 ---
 
@@ -106,15 +109,17 @@ You will now generate the `PLAN.md` file based **only** on the final states deci
    *   Provide a concise summary of the VNINDEX by synthesizing its **daily and weekly VPA story**. First, describe the weekly context from `REPORT_week.md`. Then, describe how the most recent daily action from `REPORT.md` and `VPA.md` either confirms or contradicts that weekly picture.
    *   Define a specific **"Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng"**, justified by referencing key support/resistance levels from both timeframes.
 
-**2. Top 1x Cơ Hội Giao Dịch**
+**2. Top 1x Cơ Hội Giao Dịch (STABILITY-FOCUSED)**
    *   This list **must only** contain tickers whose final state is **`Top List`**.
-   *   Rank the list based on the clarity of the multi-timeframe confirmation and industry strength as determined from the Fact Sheets.
-   *   Add a **confidence score (0-100%)**.
-   *   Structure: `[**TCB**](#TCB) (Ngân Hàng - Dẫn dắt đồng thuận)`.
+   *   **Confidence Score Strategy:** Adjust scores (95% → 85% → 75%) for temporary weakness rather than removing
+   *   **Ranking Priority:** Multi-timeframe confirmation clarity and trend sustainability  
+   *   Structure: `[**TCB**](#TCB) (Ngân Hàng - Dẫn dắt đồng thuận) - (Độ tin cậy: 95%)`
+   *   **Score Guidelines:** 95% = Perfect alignment, 85% = Minor daily weakness but weekly intact, 75% = Temporary consolidation
 
-**3. Danh Sách Cổ Phiếu Tiềm Năng (Chờ Xác Nhận Lên Top Hoặc Loại Bỏ)**
+**3. Danh Sách Cổ Phiếu Tiềm Năng (OPPORTUNITY FOCUSED)**
    *   This list **must only** contain tickers whose final state is **`Potential List`**.
-   *   The list **must not exceed 10 tickers**, filtered for the highest 'confidence score for promotion' (>80%).
+   *   **Higher capacity:** Maximum 15 tickers to capture more opportunities
+   *   **Lower confidence threshold:** >70% confidence to include emerging signals
    *   **Example Structure:**
       ![Daily Chart](./reports/VHC/VHC_candlestick_chart.png)
       - [**VHC**](REPORT.md#VHC) (Thủy Sản) - (Điểm tự tin cho việc thăng hạng: 95%)
