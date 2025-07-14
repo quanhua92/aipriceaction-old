@@ -51,7 +51,8 @@ This is a mandatory internal analysis you must perform **before** any other stag
   "daily_narrative_context": "...", // A 1-sentence summary of the last 3-5 days from VPA.md
   "weekly_context": {
     "signal": "...", // e.g., "SOS Bar", "Upthrust". From REPORT_week.md
-    "week_ending_date": "..." // The end date of the week for this signal
+    "week_ending_date": "...", // The end date of the week for this signal
+    "weekly_narrative": "..." // Brief summary of weekly trend and context
   },
   "industry_group": "...", // From GROUP.md
   "industry_status": "...", // From LEADER.md, e.g., "Dẫn dắt Đồng Thuận"
@@ -188,7 +189,9 @@ You will now generate the `hold.md` file based *only* on the final actions decid
   * **Số Lượng Nắm Giữ:** [Value from `Fact Sheet.holding_info.quantity`]
   * **Giá Hiện Tại:** [Value from `Fact Sheet.current_price`]
   * **P\&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** [Calculated based on above, formatted as % and monetary value]
-  * **VPA Phân Tích Hiện Tại:** A concise paragraph explaining *why* the recommended action was chosen. **Synthesize the story from the Fact Sheet**: Start with the `weekly_context` (e.g., "Bối cảnh tuần, kết thúc ngày [week_ending_date], cho thấy [signal]..."). Then, connect it to the daily action (e.g., "...điều này được xác nhận/thử thách bởi tín hiệu '[signal]' ngày [date] trên biểu đồ ngày."). Conclude with the `daily_narrative_context` and `industry_status`.
+  * **VPA Phân Tích Hiện Tại:** 
+    * **Bối Cảnh Tuần:** [Weekly context from Fact Sheet - synthesize weekly_context.signal, week_ending_date, weekly_narrative, and industry_status to explain the broader trend and sector dynamics]
+    * **Bối Cảnh Ngày:** [Daily context from Fact Sheet - synthesize most_recent_daily_signal.signal, date, and daily_narrative_context to explain short-term price action and immediate signals]
   * **Hành Động Đề Xuất:** [The final decision from Stage 1: Buy More / Sell / Hold / etc.]
       * **Giá Đề Xuất:** [If action is buy/sell, provide a specific price range. e.g., "Mua tại 33.5 - 34.0"]
       * **Số Lượng Đề Xuất:** [If action is buy/sell, provide a specific quantity in multiples of 100 shares (e.g., "Thêm 100 cổ phiếu", "Thêm 200 cổ phiếu") or ratio. NEVER suggest quantities below 100 shares for buying actions]

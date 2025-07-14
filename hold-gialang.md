@@ -81,7 +81,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 2,500
 * **Giá Hiện Tại:** 28.35
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +2.1% (+1,475)
-* **VPA Phân Tích Hiện Tại:** KBC cho thấy **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Rise' ngày 2025-07-14** phá vỡ xu hướng giảm ngắn hạn với khối lượng tăng. Ngành Bất động sản KCN "Dẫn dắt Đồng Thuận" với sự tham gia đồng bộ từ BCM và SIP.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Bất động sản KCN "Dẫn dắt Đồng Thuận" và sự tham gia đồng bộ từ BCM, SIP.
+  * **Bối Cảnh Ngày:** Effort to Rise ngày 2025-07-14 phá vỡ xu hướng giảm ngắn hạn với khối lượng tăng, xác nhận breakout đáng kể.
 * **Hành Động Đề Xuất:** Buy More
   * **Giá Đề Xuất:** Mua thêm ở 28.0-28.5 hoặc breakout về 29.0
   * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 2,700-2,800)
@@ -103,7 +105,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 1,000
 * **Giá Hiện Tại:** 75.3
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +14.8% (+9,720)
-* **VPA Phân Tích Hiện Tại:** MSN có **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Fall' ngày 2025-07-14** với khối lượng giảm sau chuỗi Effort to Rise mạnh. Ngành Thực phẩm "Dẫn dắt Đồng Thuận" với MSN xếp hạng #1 và leadership score 67.2.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Thực phẩm "Dẫn dắt Đồng Thuận", MSN xếp hạng #1 leadership score 67.2.
+  * **Bối Cảnh Ngày:** Effort to Fall ngày 2025-07-14 với khối lượng giảm sau chuỗi Effort to Rise mạnh, cần quan sát để xác nhận xu hướng.
 * **Hành Động Đề Xuất:** Hold
   * **Giá Đề Xuất:** Quan sát vùng 74.0-76.0
   * **Số Lượng Đề Xuất:** Giữ nguyên 1,000 cổ phiếu
@@ -125,7 +129,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 2,500
 * **Giá Hiện Tại:** 69.0
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +24.6% (+34,050)
-* **VPA Phân Tích Hiện Tại:** MWG thể hiện **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Rise' ngày 2025-07-14** với khối lượng bùng nổ sau chuỗi No Demand, cho thấy áp lực mua quyết định đã trở lại. Ngành Bán lẻ "Dẫn dắt Đồng Thuận" tạo nền tảng vững chắc.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Bán lẻ "Dẫn dắt Đồng Thuận" tạo nền tảng vững chắc cho toàn ngành.
+  * **Bối Cảnh Ngày:** Effort to Rise ngày 2025-07-14 với khối lượng bùng nổ sau chuỗi No Demand, cho thấy áp lực mua quyết định đã trở lại.
 * **Hành Động Đề Xuất:** Buy More
   * **Giá Đề Xuất:** Mua thêm ở 68.5-70.0 hoặc pullback về 67.0
   * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 2,700-2,800)
@@ -147,7 +153,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 4,100
 * **Giá Hiện Tại:** 14.1
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -9.9% (-6,355)
-* **VPA Phân Tích Hiện Tại:** NKG có **'Sign of Strength' tuần kết thúc 2025-07-07** nhưng **'No Demand' ngày 2025-07-14** sau volume anomaly ngày 2025-07-03 và Effort to Fall ngày 2025-07-11 cho thấy áp lực bán dai dẳng. Ngành Thép "Dẫn dắt Đồng Thuận" nhưng NKG yếu hơn HPG, MSR.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Thép "Dẫn dắt Đồng Thuận" nhưng NKG thể hiện yếu hơn HPG, MSR.
+  * **Bối Cảnh Ngày:** No Demand ngày 2025-07-14 sau volume anomaly ngày 2025-07-03 và Effort to Fall ngày 2025-07-11 cho thấy áp lực bán dai dẳng.
 * **Hành Động Đề Xuất:** Sell
   * **Giá Đề Xuất:** Bán ở 14.0-14.3 nếu có bounce
   * **Số Lượng Đề Xuất:** Bán 2,000-2,500 cổ phiếu (giảm exposure đáng kể)
@@ -169,7 +177,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 4,200
 * **Giá Hiện Tại:** 29.75
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +15.7% (+16,968)
-* **VPA Phân Tích Hiện Tại:** SSI thể hiện sức mạnh vượt trội với **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Effort to Rise' ngày 2025-07-11** tiếp tục với khối lượng cao, cho thấy việc hấp thụ áp lực bán thành công trong xu hướng tăng mạnh. Ngành Chứng khoán "Dẫn dắt Đồng Thuận" với sự tham gia đồng bộ toàn ngành.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Chứng khoán "Dẫn dắt Đồng Thuận" và sự tham gia đồng bộ toàn ngành.
+  * **Bối Cảnh Ngày:** Effort to Rise ngày 2025-07-11 tiếp tục với khối lượng cao, cho thấy việc hấp thụ áp lực bán thành công trong xu hướng tăng mạnh.
 * **Hành Động Đề Xuất:** Buy More
   * **Giá Đề Xuất:** Mua thêm ở 29.0-30.0 hoặc pullback về 28.5
   * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 4,400-4,500)
@@ -191,7 +201,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 1,200
 * **Giá Hiện Tại:** 35.1
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +33.3% (+10,512)
-* **VPA Phân Tích Hiện Tại:** TCB cho thấy **'No Demand' tuần kết thúc 2025-07-07** và **'Test for Supply' ngày 2025-07-11** sau Sign of Weakness trước đó, cho thấy giai đoạn yếu dần và sự do dự của thị trường. Ngành Ngân hàng "Dẫn dắt Đồng Thuận" nhưng TCB thể hiện relative weakness.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** No Demand tuần kết thúc 2025-07-07 với ngành Ngân hàng "Dẫn dắt Đồng Thuận" nhưng TCB thể hiện relative weakness so với các đàn anh.
+  * **Bối Cảnh Ngày:** Test for Supply ngày 2025-07-11 sau Sign of Weakness trước đó, cho thấy giai đoạn yếu dần và sự do dự của thị trường.
 * **Hành Động Đề Xuất:** Hold
   * **Giá Đề Xuất:** Quan sát vùng 34.0-36.0, có thể chốt lời một phần
   * **Số Lượng Đề Xuất:** Giữ nguyên hoặc chốt lời 300-400 cổ phiếu
@@ -213,7 +225,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 * **Số Lượng Nắm Giữ:** 2,700
 * **Giá Hiện Tại:** 60.3
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -1.8% (-2,997)
-* **VPA Phân Tích Hiện Tại:** VNM cho thấy **'Sign of Strength' tuần kết thúc 2025-07-07** và **'Test for Supply' ngày 2025-07-14** với phục hồi giá từ mức thấp hơn, cho thấy áp lực mua đang trở lại sau giai đoạn consolidation. Ngành Thực phẩm "Dẫn dắt Đồng Thuận" với MSN, VNM, SAB đều có signals tích cực.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Thực phẩm "Dẫn dắt Đồng Thuận", MSN, VNM, SAB đều có signals tích cực.
+  * **Bối Cảnh Ngày:** Test for Supply ngày 2025-07-14 với phục hồi giá từ mức thấp hơn, cho thấy áp lực mua đang trở lại sau giai đoạn consolidation.
 * **Hành Động Đề Xuất:** Hold
   * **Giá Đề Xuất:** Chờ xác nhận recovery ở vùng 60.0-61.0
   * **Số Lượng Đề Xuất:** Giữ nguyên 2,700 cổ phiếu
@@ -245,7 +259,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 
 * **Giá Đề Xuất Mua:** 118.0 - 125.0
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
-* **VPA Phân Tích:** VTP thể hiện **'Sign of Strength' tuần kết thúc 2025-07-07** sau **'No Supply' ngày 2025-06-23** cho thấy setup kỹ thuật tuyệt vời với áp lực bán đã cạn kiệt. Ngành Vận tải đang có cơ hội rotation với focus vào infrastructure và logistics.
+* **VPA Phân Tích:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Vận tải đang có cơ hội rotation với focus vào infrastructure và logistics.
+  * **Bối Cảnh Ngày:** No Supply ngày 2025-06-23 cho thấy setup kỹ thuật tuyệt vời với áp lực bán đã cạn kiệt, tạo điểm vào hấp dẫn.
 * **Lý Do Lựa Chọn:** Điểm vào tốt sau điều chỉnh lành mạnh, tỷ lệ rủi ro-lợi nhuận 1:2.5 thuận lợi. Ngành chưa được đại diện trong danh mục.
 * **Điểm Dừng Lỗ:** 115.0
 * **Điểm Chốt Lời:** 140.0 - 150.0
@@ -258,7 +274,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 
 * **Giá Đề Xuất Mua:** 51.0 - 53.0
 * **Số Lượng Đề Xuất:** 200 cổ phiếu
-* **VPA Phân Tích:** IMP cho thấy **'Effort to Rise' tuần kết thúc 2025-07-07** sau **'No Supply' ngày 2025-06-16** với momentum building và buying interest tiếp tục. Ngành Y tế có đặc tính phòng thủ với tăng trưởng ổn định.
+* **VPA Phân Tích:** 
+  * **Bối Cảnh Tuần:** Effort to Rise tuần kết thúc 2025-07-07 với ngành Y tế có đặc tính phòng thủ với tăng trưởng ổn định.
+  * **Bối Cảnh Ngày:** No Supply ngày 2025-06-16 với momentum building và buying interest tiếp tục, xác nhận xu hướng tích cực.
 * **Lý Do Lựa Chọn:** Ngành phòng thủ hoàn toàn mới cho danh mục. Tỷ lệ rủi ro-lợi nhuận 1:2.0 tốt. Correlation thấp với các ngành chu kỳ hiện tại.
 * **Điểm Dừng Lỗ:** 48.0
 * **Điểm Chốt Lời:** 58.0 - 62.0
@@ -271,7 +289,9 @@ VNINDEX tiếp tục thiết lập đỉnh mới tại 1,470.42 điểm với t�
 
 * **Giá Đề Xuất Mua:** 7.40 - 7.70
 * **Số Lượng Đề Xuất:** 1,000 cổ phiếu
-* **VPA Phân Tích:** AAA thể hiện **'Sign of Strength' tuần kết thúc 2025-07-07** sau **'No Demand' ngày 2025-06-30** với breakout bùng nổ sau consolidation. Ngành Nhựa/Vật liệu công nghiệp có cơ hội phục hồi.
+* **VPA Phân Tích:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-07 với ngành Nhựa/Vật liệu công nghiệp có cơ hội phục hồi từ mức thấp.
+  * **Bối Cảnh Ngày:** No Demand ngày 2025-06-30 với breakout bùng nổ sau consolidation, cho thấy lực mua mạnh mẽ.
 * **Lý Do Lựa Chọn:** Cơ hội phục hồi trong ngành vật liệu với correlation thấp so với consumer/financial sectors. Tỷ lệ rủi ro-lợi nhuận 1:2.2 hấp dẫn.
 * **Điểm Dừng Lỗ:** 7.00
 * **Điểm Chốt Lời:** 8.50 - 9.00

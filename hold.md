@@ -31,7 +31,9 @@ VNINDEX đạt đỉnh mới tại 1,470.42 điểm với xu hướng tăng bề
 * **Số Lượng Nắm Giữ:** 200
 * **Giá Hiện Tại:** 35.1
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +5.37% (+357.6)
-* **VPA Phân Tích Hiện Tại:** TCB đang trong giai đoạn consolidation sau Sign of Weakness ngày 2025-07-09, với Test for Supply ngày 2025-07-11 cho thấy áp lực bán đã giảm nhưng lực cầu vẫn chưa mạnh. Bối cảnh tuần No Demand kết thúc 2025-07-07 và ngành Ngân hàng Dẫn dắt Đồng Thuận tạo nền tảng hỗ trợ.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** No Demand kết thúc 2025-07-07 cho thấy áp lực bán đã giảm, ngành Ngân hàng Dẫn dắt Đồng Thuận tạo nền tảng hỗ trợ cho recovery tiềm năng.
+  * **Bối Cảnh Ngày:** Test for Supply ngày 2025-07-11 sau Sign of Weakness ngày 2025-07-09 cho thấy giai đoạn consolidation với áp lực bán giảm nhưng lực cầu vẫn chưa mạnh.
 * **Hành Động Đề Xuất:** Hold
   * **Giá Đề Xuất:** Tiếp tục quan sát, chờ tín hiệu phục hồi rõ ràng
   * **Số Lượng Đề Xuất:** Giữ nguyên 200 cổ phiếu
@@ -53,7 +55,9 @@ VNINDEX đạt đỉnh mới tại 1,470.42 điểm với xu hướng tăng bề
 * **Số Lượng Nắm Giữ:** 500
 * **Giá Hiện Tại:** 17.85
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +7.81% (+646.5)
-* **VPA Phân Tích Hiện Tại:** VND thể hiện sức mạnh vượt trội với Effort to Rise mạnh mẽ ngày 2025-07-08, phủ nhận các tín hiệu yếu kém trước đó và cho thấy tiềm năng bắt đầu đợt phục hồi. Bối cảnh tuần Sign of Strength kết thúc 2025-07-07 và ngành Chứng khoán Dẫn dắt Đồng Thuận tạo momentum mạnh.
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** Sign of Strength kết thúc 2025-07-07 tạo nền tảng mạnh mẽ, ngành Chứng khoán Dẫn dắt Đồng Thuận với momentum toàn ngành.
+  * **Bối Cảnh Ngày:** Effort to Rise mạnh mẽ ngày 2025-07-08 phủ nhận các tín hiệu yếu kém trước đó, cho thấy sức mạnh vượt trội và tiềm năng bắt đầu đợt phục hồi.
 * **Hành Động Đề Xuất:** Buy More
   * **Giá Đề Xuất:** Mua thêm ở mức 17.7 - 18.0, hoặc nếu điều chỉnh về 17.2 - 17.5
   * **Số Lượng Đề Xuất:** Thêm 200-300 cổ phiếu (tăng total lên 700-800)
@@ -85,7 +89,9 @@ VNINDEX đạt đỉnh mới tại 1,470.42 điểm với xu hướng tăng bề
 
 * **Giá Đề Xuất Mua:** 25.5 - 26.0
 * **Số Lượng Đề Xuất:** 200 cổ phiếu
-* **VPA Phân Tích:** HPG cho thấy Sign of Strength tuần 2025-07-07 với breakout bùng nổ, sau đó Test for Supply ngày 2025-07-14 tạo điểm vào tốt sau pullback lành mạnh.
+* **VPA Phân Tích:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần 2025-07-07 với breakout bùng nổ cho thấy sức mạnh đáng kể của ngành thép.
+  * **Bối Cảnh Ngày:** Test for Supply ngày 2025-07-14 tạo điểm vào tốt sau pullback lành mạnh, xác nhận sự hấp thụ áp lực bán.
 * **Lý Do Lựa Chọn:** Đa dạng hóa vào ngành thép, hưởng lợi từ phục hồi kinh tế và đầu tư cơ sở hạ tầng
 * **Điểm Dừng Lỗ:** 24.5
 * **Điểm Chốt Lời:** 27.0 - 28.0
@@ -98,7 +104,9 @@ VNINDEX đạt đỉnh mới tại 1,470.42 điểm với xu hướng tăng bề
 
 * **Giá Đề Xuất Mua:** 60.0 - 61.0
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
-* **VPA Phân Tích:** VNM thể hiện Sign of Strength tuần 2025-07-07 với breakout từ consolidation dài hạn, Test for Supply ngày 2025-07-14 thành công.
+* **VPA Phân Tích:** 
+  * **Bối Cảnh Tuần:** Sign of Strength tuần 2025-07-07 với breakout từ consolidation dài hạn cho thấy xu hướng tăng mạnh.
+  * **Bối Cảnh Ngày:** Test for Supply ngày 2025-07-14 thành công, xác nhận khả năng hấp thụ áp lực bán và duy trì momentum.
 * **Lý Do Lựa Chọn:** Đa dạng hóa vào ngành tiêu dùng thiết yếu, đặc tính phòng thủ với tiềm năng tăng trưởng
 * **Điểm Dừng Lỗ:** 59.0
 * **Điểm Chốt Lời:** 63.0 - 65.0
@@ -111,7 +119,9 @@ VNINDEX đạt đỉnh mới tại 1,470.42 điểm với xu hướng tăng bề
 
 * **Giá Đề Xuất Mua:** 38.8 - 39.5
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
-* **VPA Phân Tích:** DPM cho thấy Effort to Rise tuần 2025-07-07 với accumulation pattern, Effort to Rise ngày 2025-07-14 xác nhận lực cầu tăng.
+* **VPA Phân Tích:** 
+  * **Bối Cảnh Tuần:** Effort to Rise tuần 2025-07-07 với accumulation pattern cho thấy sự tích lũy từ institutional investors.
+  * **Bối Cảnh Ngày:** Effort to Rise ngày 2025-07-14 xác nhận lực cầu tăng và momentum tiếp tục được duy trì.
 * **Lý Do Lựa Chọn:** Đa dạng hóa vào ngành hóa chất, hưởng lợi từ sự phát triển sản xuất và xuất khẩu
 * **Điểm Dừng Lỗ:** 38.0
 * **Điểm Chốt Lời:** 41.0 - 42.0
