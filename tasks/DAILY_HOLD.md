@@ -282,7 +282,7 @@ For EVERY ticker, provide detailed breakdown:
 * **VPA Phân Tích Hiện Tại:** [Synthesis from fact sheet - weekly context, daily signals, narrative, industry status]
 * **Hành Động Đề Xuất:** [Final decision from Stage 1]
   * **Giá Đề Xuất:** [Specific price range if buy/sell action]
-  * **Số Lượng Đề Xuất:** [Specific quantity or ratio if buy/sell action]
+  * **Số Lượng Đề Xuất:** [Specific quantity in multiples of 100 shares (e.g., 100, 200, 300) or ratio if buy/sell action]
   * **Lý Do Hành Động:** [VPA logic explaining the decision]
 * **Điểm Dừng Lỗ:** [Specific stop-loss level]
 * **Điểm Chốt Lời:** [Specific take-profit level(s)]
@@ -419,7 +419,7 @@ For EVERY ticker, provide detailed breakdown:
 
 ## Risk Management Notes
 
-- **Position Sizing**: Consider portfolio balance when recommending quantity changes
+- **Position Sizing**: Consider portfolio balance when recommending quantity changes. **CRITICAL**: All buying suggestions must specify quantities as multiples of 100 shares (100, 200, 300, etc.) - never suggest quantities below 100 shares
 - **Stop-Loss Placement**: Use technical levels, not arbitrary percentages
 - **Take-Profit Strategy**: Consider partial profit-taking at multiple levels
 - **Market Context**: Factor in overall VNINDEX trend for individual decisions

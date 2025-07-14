@@ -84,7 +84,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 ![Daily Chart](./reports/VTP/VTP_candlestick_chart.png)
 
 * **Giá Đề Xuất Mua:** 38.5 - 39.2
-* **Số Lượng Đề Xuất:** 100-150 cổ phiếu
+* **Số Lượng Đề Xuất:** 100 cổ phiếu
 * **VPA Phân Tích:** VTP thể hiện breakout mạnh mẽ với 'Sign of Strength' tuần kết thúc 2025-07-11. Sector vận tải đang có cơ hội rotation với volume tăng đáng kể, cho thấy sự quan tâm của dòng tiền tổ chức.
 * **Lý Do Lựa Chọn:** Diversification vào sector vận tải, entry point tốt sau consolidation
 * **Điểm Dừng Lỗ:** 37.0
@@ -97,7 +97,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 ![Daily Chart](./reports/POW/POW_candlestick_chart.png)
 
 * **Giá Đề Xuất Mua:** 12.8 - 13.2
-* **Số Lượng Đề Xuất:** 200-250 cổ phiếu
+* **Số Lượng Đề Xuất:** 200 cổ phiếu
 * **VPA Phân Tích:** POW cho thấy 'Sign of Strength' tuần kết thúc 2025-07-11 sau giai đoạn accumulation dài. Sector năng lượng đang có tiềm năng phục hồi với nhu cầu tăng và policy support.
 * **Lý Do Lựa Chọn:** Energy sector exposure, attractive valuation sau accumulation phase
 * **Điểm Dừng Lỗ:** 12.0
@@ -110,7 +110,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 ![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
 
 * **Giá Đề Xuất Mua:** 68.0 - 70.0
-* **Số Lượng Đề Xuất:** 50-75 cổ phiếu
+* **Số Lượng Đề Xuất:** 100 cổ phiếu
 * **VPA Phân Tích:** MWG dẫn dắt retail sector với 'Sign of Strength' tuần kết thúc 2025-07-11. Weekly strength pattern cho thấy institutional accumulation và consumer sector recovery momentum.
 * **Lý Do Lựa Chọn:** Consumer sector diversification, retail leadership với defensive characteristics
 * **Điểm Dừng Lỗ:** 65.0

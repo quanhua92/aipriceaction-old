@@ -191,7 +191,7 @@ You will now generate the `hold.md` file based *only* on the final actions decid
   * **VPA Phân Tích Hiện Tại:** A concise paragraph explaining *why* the recommended action was chosen. **Synthesize the story from the Fact Sheet**: Start with the `weekly_context` (e.g., "Bối cảnh tuần, kết thúc ngày [week_ending_date], cho thấy [signal]..."). Then, connect it to the daily action (e.g., "...điều này được xác nhận/thử thách bởi tín hiệu '[signal]' ngày [date] trên biểu đồ ngày."). Conclude with the `daily_narrative_context` and `industry_status`.
   * **Hành Động Đề Xuất:** [The final decision from Stage 1: Buy More / Sell / Hold / etc.]
       * **Giá Đề Xuất:** [If action is buy/sell, provide a specific price range. e.g., "Mua tại 33.5 - 34.0"]
-      * **Số Lượng Đề Xuất:** [If action is buy/sell, provide a specific quantity or ratio. e.g., "Thêm 100 cổ phiếu" or "Bán 50% vị thế"]
+      * **Số Lượng Đề Xuất:** [If action is buy/sell, provide a specific quantity in multiples of 100 shares (e.g., "Thêm 100 cổ phiếu", "Thêm 200 cổ phiếu") or ratio. NEVER suggest quantities below 100 shares for buying actions]
       * **Lý Do Hành Động:** Explain the logic based on the VPA principles that triggered the decision in Stage 1. (e.g., "`Gia tăng tỷ trọng vì đây là điểm 'Backing Up to the Edge of the Creek' kinh điển, rủi ro thấp nhất cho một giai đoạn tăng giá mới.`" or "`Cần cắt lỗ vì giá đã phá vỡ hỗ trợ quan trọng với khối lượng lớn, cho thấy áp lực bán mạnh mẽ và xu hướng giảm.`")
   * **Điểm Dừng Lỗ:** [A specific stop-loss price level]
   * **Điểm Chốt Lời:** [A specific take-profit price level, or multiple levels for partial profit-taking]
