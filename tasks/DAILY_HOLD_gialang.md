@@ -372,10 +372,17 @@ For EVERY ticker, provide detailed breakdown:
 - **Position Sizing**: Quantity recommendations must be proportional and reasonable
 
 ### Vietnamese Language Standards
-- Use proper financial terminology
-- Maintain professional tone and grammar
+- **PRIORITY VIETNAMESE**: Use Vietnamese language for all analysis and explanations - VPA signal names in English are acceptable
+- **NO MIXED LANGUAGE**: Never mix English and Vietnamese in same sentence (e.g. avoid "Banking sector leads recovery, momentum breakout", "Excellent entry point sau healthy pullback")
+- Use proper Vietnamese financial terminology for all descriptions
+- Maintain professional tone and grammar in Vietnamese
 - Ensure decimal formatting uses dots (.), not commas (,)
 - Use consistent industry naming from GROUP.md
+- **EXAMPLES OF CORRECT USAGE**:
+  - Good: "Điểm vào tốt sau điều chỉnh lành mạnh, tỷ lệ rủi ro-lợi nhuận 3:1 thuận lợi"
+  - Bad: "Excellent entry point sau healthy pullback, favorable 3:1 risk-reward ratio"
+  - Good: "Ngành ngân hàng dẫn dắt chu kỳ phục hồi kinh tế"
+  - Bad: "Banking sector leads recovery, momentum breakout"
 
 ### Technical Requirements
 - **Chart Links**: Verify all image paths exist (reports/ and reports_week/)

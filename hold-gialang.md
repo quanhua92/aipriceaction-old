@@ -53,9 +53,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 65.0 (bảo vệ lợi nhuận)
 * **Điểm Chốt Lời:** 72.0 - 75.0 (chốt từng phần)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **PNJ**: Weekly signals cần xác minh + cùng ngành BAN_LE + jewelry retail exposure + defensive characteristics
-  * **FRT**: Weekly signals cần xác minh + cùng ngành BAN_LE + retail pharmacy sector + stable business model
-  * **DGW**: Weekly signals cần xác minh + cùng ngành BAN_LE + consumer goods retail + market expansion potential
+  * **PNJ**: Tín hiệu tuần cần xác minh + cùng ngành BAN_LE + tiếp xúc bán lẻ trang sức + đặc tính phòng thủ
+  * **FRT**: Tín hiệu tuần cần xác minh + cùng ngành BAN_LE + ngành dược phẩm bán lẻ + mô hình kinh doanh ổn định
+  * **DGW**: Tín hiệu tuần cần xác minh + cùng ngành BAN_LE + bán lẻ hàng tiêu dùng + tiềm năng mở rộng thị trường
 
 -----
 
@@ -75,9 +75,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 57.5 (bảo vệ vốn)
 * **Điểm Chốt Lời:** 63.0 - 65.0 (recovery target)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **MSN**: Weekly SOS 2025-06-23/30 + cùng ngành THUC_PHAM + industry leader +23.4% performance + daily confirmation
-  * **SAB**: Weekly SOS + cùng ngành THUC_PHAM + strong recovery momentum + industry ranking #2
-  * **ACB**: Weekly SOS + ngành NGAN_HANG + strong daily SOS confirmation + cross-sector strength
+  * **MSN**: Weekly SOS 2025-06-23/30 + cùng ngành THUC_PHAM + dẫn dắt ngành +23.4% hiệu suất + xác nhận daily
+  * **SAB**: Weekly SOS + cùng ngành THUC_PHAM + động lực phục hồi mạnh + xếp hạng ngành #2
+  * **ACB**: Weekly SOS + ngành NGAN_HANG + xác nhận daily SOS mạnh + sức mạnh xuyên ngành
 
 -----
 
@@ -97,9 +97,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 28.0 (bảo vệ breakout)
 * **Điểm Chốt Lời:** 33.0 - 34.0 (target zone), 36.0+ (extended target)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **VCI**: Weekly SOS + cùng ngành CHUNG_KHOAN + strong daily SOS confirmation + co-leader status
-  * **VIX**: Weekly SOS + cùng ngành CHUNG_KHOAN + equivalent strength to VCI + industry ranking #2
-  * **HCM**: Weekly SOS + cùng ngành CHUNG_KHOAN + strong daily Effort to Rise + good momentum
+  * **VCI**: Weekly SOS + cùng ngành CHUNG_KHOAN + xác nhận daily SOS mạnh + vị trí đồng dẫn dắt
+  * **VIX**: Weekly SOS + cùng ngành CHUNG_KHOAN + sức mạnh tương đương VCI + xếp hạng ngành #2
+  * **HCM**: Weekly SOS + cùng ngành CHUNG_KHOAN + daily Effort to Rise mạnh + động lực tốt
 
 -----
 
@@ -119,9 +119,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 73.0 (bảo vệ breakout level)
 * **Điểm Chốt Lời:** 82.0 - 85.0 (target zone), 90.0+ (extended target)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **VNM**: Weekly SOS 2025-06-30/07-07 + cùng ngành THUC_PHAM + strong reversal signals + industry ranking #3
-  * **SAB**: Weekly SOS + cùng ngành THUC_PHAM + recovery momentum + strong industry participation
-  * **ACB**: Weekly SOS + ngành NGAN_HANG + strong daily SOS confirmation + cross-sector strength
+  * **VNM**: Weekly SOS 2025-06-30/07-07 + cùng ngành THUC_PHAM + tín hiệu đảo chiều mạnh + xếp hạng ngành #3
+  * **SAB**: Weekly SOS + cùng ngành THUC_PHAM + động lực phục hồi + sự tham gia ngành mạnh mẽ
+  * **ACB**: Weekly SOS + ngành NGAN_HANG + xác nhận daily SOS mạnh + sức mạnh xuyên ngành
 
 -----
 
@@ -141,9 +141,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 26.5 (bảo vệ vốn gốc)
 * **Điểm Chốt Lời:** 29.5 - 31.0 (nếu recovery confirmed)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **BCM**: Weekly SOS 2025-06-23/30/07-07 + cùng ngành BAT_DONG_SAN_KCN + No Supply signals + superior momentum
-  * **IDC**: Weekly No Supply + cùng ngành BAT_DONG_SAN_KCN + strong weekly signals + industry participation
-  * **VGC**: Weekly No Supply + cùng ngành BAT_DONG_SAN_KCN + solid technical setup + industry alignment
+  * **BCM**: Weekly SOS 2025-06-23/30/07-07 + cùng ngành BAT_DONG_SAN_KCN + tín hiệu No Supply + động lực vượt trội
+  * **IDC**: Weekly No Supply + cùng ngành BAT_DONG_SAN_KCN + tín hiệu tuần mạnh + sự tham gia ngành
+  * **VGC**: Weekly No Supply + cùng ngành BAT_DONG_SAN_KCN + thiết lập kỹ thuật vững chắc + phối hợp ngành
 
 -----
 
@@ -175,9 +175,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 13.5 (immediate)
 * **Điểm Chốt Lời:** N/A (exit strategy)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **HPG**: Weekly SOS + cùng ngành THEP + industry leader + strong daily confirmations + market leadership
-  * **HSG**: Weekly SOS + cùng ngành THEP + breakout signals + industry ranking #2 + strong VPA story
-  * **MSR**: Weekly SOS + cùng ngành THEP + weekly Effort to Rise + daily confirmations
+  * **HPG**: Weekly SOS + cùng ngành THEP + dẫn dắt ngành + xác nhận daily mạnh + dẫn dắt thị trường
+  * **HSG**: Weekly SOS + cùng ngành THEP + tín hiệu breakout + xếp hạng ngành #2 + câu chuyện VPA mạnh
+  * **MSR**: Weekly SOS + cùng ngành THEP + weekly Effort to Rise + xác nhận daily
 
 -----
 
@@ -197,9 +197,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Điểm Dừng Lỗ:** 33.0 (bảo vệ lợi nhuận)
 * **Điểm Chốt Lời:** 36.0 - 37.0 (partial), 35.0 (if weakness continues)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **ACB**: Weekly SOS 2025-06-30/07-07 + cùng ngành NGAN_HANG + strong daily SOS confirmations + powerful momentum
-  * **CTG**: Weekly SOS (multiple dates) + cùng ngành NGAN_HANG + strong daily confirmations + consistent strength
-  * **HDB**: Weekly SOS + cùng ngành NGAN_HANG + daily Effort to Rise + strong banking sector participation
+  * **ACB**: Weekly SOS 2025-06-30/07-07 + cùng ngành NGAN_HANG + xác nhận daily SOS mạnh + động lực mạnh mẽ
+  * **CTG**: Weekly SOS (nhiều ngày) + cùng ngành NGAN_HANG + xác nhận daily mạnh + sức mạnh nhất quán
+  * **HDB**: Weekly SOS + cùng ngành NGAN_HANG + daily Effort to Rise + sự tham gia mạnh ngành ngân hàng
 
 -----
 
@@ -221,9 +221,9 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 | Mã Cổ Phiếu | Ngành | Tín Hiệu VPA Chính | Lý Do Lựa Chọn |
 | :---------- | :---- | :----------------- | :-------------- |
-| REE         | NANG_LUONG | No Supply tuần kết thúc 2025-07-07 | Entry tốt sau pullback, energy sector rotation opportunity |
-| BCM         | BAT_DONG_SAN_KCN | No Supply tuần kết thúc 2025-07-07 | Uptrend mạnh, industrial real estate benefits |
-| CTG         | NGAN_HANG | SOS tuần kết thúc 2025-07-07 | Banking sector leads recovery, momentum breakout |
+| REE         | NANG_LUONG | No Supply tuần kết thúc 2025-07-07 | Điểm vào tốt sau điều chỉnh, cơ hội xoay vòng ngành năng lượng |
+| BCM         | BAT_DONG_SAN_KCN | No Supply tuần kết thúc 2025-07-07 | Xu hướng tăng mạnh, lợi ích từ bất động sản công nghiệp |
+| CTG         | NGAN_HANG | SOS tuần kết thúc 2025-07-07 | Ngành ngân hàng dẫn dắt phục hồi, breakout với động lực |
 
 -----
 
@@ -234,7 +234,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Giá Đề Xuất Mua:** 65.5 - 67.5
 * **Số Lượng Đề Xuất:** 200 cổ phiếu
 * **VPA Phân Tích:** REE thể hiện 'No Supply' tuần kết thúc 2025-07-07 sau Sign of Strength breakout trước đó. Energy sector có cơ hội rotation với infrastructure focus và renewable energy exposure.
-* **Lý Do Lựa Chọn:** Excellent entry point sau healthy pullback, favorable 3:1 risk-reward ratio
+* **Lý Do Lựa Chọn:** Điểm vào tốt sau điều chỉnh lành mạnh, tỷ lệ rủi ro-lợi nhuận 3:1 thuận lợi
 * **Điểm Dừng Lỗ:** 63.5
 * **Điểm Chốt Lời:** 77.0 - 80.0
 
@@ -246,8 +246,8 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 
 * **Giá Đề Xuất Mua:** 67.0 - 69.0
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
-* **VPA Phân Tích:** BCM cho thấy 'No Supply' tuần kết thúc 2025-07-07 với uptrend mạnh và minimal resistance. Industrial real estate benefits từ manufacturing reshoring trends.
-* **Lý Do Lựa Chọn:** Strong 4:1 risk-reward ratio, effortless advance pattern
+* **VPA Phân Tích:** BCM cho thấy 'No Supply' tuần kết thúc 2025-07-07 với uptrend mạnh và minimal resistance. Lợi ích từ bất động sản công nghiệp và xu hướng dịch chuyển sản xuất.
+* **Lý Do Lựa Chọn:** Tỷ lệ rủi ro-lợi nhuận 4:1 mạnh mẽ, xu hướng tăng nhẹ nhàng
 * **Điểm Dừng Lỗ:** 64.0
 * **Điểm Chốt Lời:** 80.0 - 85.0
 
@@ -260,7 +260,7 @@ Thị trường chung tiếp tục xu hướng tăng mạnh với VNINDEX thiế
 * **Giá Đề Xuất Mua:** 44.0 - 45.5
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
 * **VPA Phân Tích:** CTG thể hiện 'Sign of Strength' tuần kết thúc 2025-07-07 với momentum breakout near highs. Banking sector dẫn dắt economic recovery cycles.
-* **Lý Do Lựa Chọn:** Solid 2.5:1 risk-reward ratio, banking sector leadership
+* **Lý Do Lựa Chọn:** Tỷ lệ rủi ro-lợi nhuận 2.5:1 vững chắc, vai trò dẫn dắt ngành ngân hàng
 * **Điểm Dừng Lỗ:** 41.5
 * **Điểm Chốt Lời:** 52.0 - 55.0
 
