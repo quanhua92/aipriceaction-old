@@ -24,4 +24,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay NLG giảm từ 39.5 xuống 38.85. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3,42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
+- **Ngày 2025-07-14:** NLG tăng từ 38.85 lên 38.95. Cây nến tăng có biên độ rộng với mức cao nhất 40.85 và thấp nhất 37.95. Khối lượng giao dịch tăng (5.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá với khối lượng cao và biên độ rộng này là một tín hiệu **Effort to Rise**. Có sự giằng co mạnh mẽ giữa cung và cầu, thể hiện qua spread rộng và khối lượng tăng. Tín hiệu trung tính, cần quan sát thêm.
 

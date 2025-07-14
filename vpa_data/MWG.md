@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá yếu ớt, phiên đi ngang với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng. Tình hình vẫn không chắc chắn.
 - **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay MWG giảm từ 68.0 xuống 67.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (5.77 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho các tín hiệu yếu kém trước đó.
+- **Ngày 2025-07-14:** MWG tăng mạnh từ 67.9 lên 69.0. Cây nến tăng có biên độ rộng với mức thấp nhất 66.4 và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (8.67 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu yếu kém, phiên tăng giá mạnh với khối lượng cao này là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một xu hướng tăng mới. Tín hiệu tích cực.
 
 

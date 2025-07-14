@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp diễn. Sau phiên **Effort to Rise** mạnh, áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng vẫn ở mức cao. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên giằng co, hôm nay FIT giảm nhẹ từ 4.61 xuống 4.59. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.50 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá yếu ớt, phiên giảm nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng và áp lực bán vẫn đang kiểm soát.
+- **Ngày 2025-07-14:** Sau tín hiệu **No Demand**, hôm nay FIT tăng nhẹ từ 4.6 lên 4.64. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (1.79 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Lực cầu đã quay trở lại một cách khiêm tốn, tuy nhiên khối lượng chưa đủ thuyết phục để phủ nhận tín hiệu yếu kém trước đó.
 
 

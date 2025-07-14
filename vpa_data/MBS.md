@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận hoàn toàn các tín hiệu **No Supply** trước đó. Áp lực bán đã bất ngờ quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay MBS tăng mạnh từ 28.4 lên 29.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (12.92 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém của phiên trước. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay MBS tăng từ 29.3 lên 29.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (400 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất. Đây là dấu hiệu tích cực rất mạnh, củng cố cho xu hướng tăng và báo hiệu tiềm năng phục hồi mạnh mẽ.
 
 

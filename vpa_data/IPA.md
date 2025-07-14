@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu SOS của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay IPA giảm từ 14.8 xuống 15.0. Tuy nhiên, cây nến tăng điểm (mở cửa 13.4, đóng cửa 15.0). Khối lượng giao dịch giảm (462.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-14:** Sau phiên **Test for Supply**, hôm nay IPA giảm từ 14.6 xuống 14.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (373.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp diễn. Áp lực bán đã giảm bớt, thể hiện qua khối lượng giảm. Tín hiệu vẫn tích cực cho xu hướng tăng.
 
 

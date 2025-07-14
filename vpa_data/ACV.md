@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
 - **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay ACV tiếp tục giảm từ 94.0 xuống 93.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (799.2k đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-14:** Tiếp tục xu hướng giảm từ 93.9 xuống 93.0. Cây nến giảm có biên độ rộng với low thấp 92.8. Khối lượng giao dịch giảm nhẹ (776.0k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán vẫn duy trì nhưng không quá mạnh. Tiếp nối chuỗi tín hiệu yếu trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
 

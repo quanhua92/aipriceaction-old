@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau phiên tăng mạnh, thị trường đang tạm nghỉ để hấp thụ lực bán chốt lời. Việc giá giảm nhẹ trên nền khối lượng vẫn còn cao cho thấy có áp lực bán nhưng không quá mạnh, là một tín hiệu tích cực.
 - **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay BID tăng nhẹ từ 38.25 lên 38.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (8.72 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay BID tăng từ 38.5 lên 38.65. Cây nến tăng có biên độ rộng với high cao 39.35. Khối lượng giao dịch giảm nhẹ (8.31 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)**. Việc giá có test lên cao và đóng cửa tốt trên nền khối lượng vẫn cao cho thấy lực cầu mạnh. Tiếp nối chuỗi tín hiệu tích cực trước đó, xu hướng tăng được củng cố.
 
 

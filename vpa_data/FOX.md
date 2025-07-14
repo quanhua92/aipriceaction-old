@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng không đột biến cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay FOX tăng nhẹ từ 63.4 lên 63.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (94.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu yếu kém, hôm nay FOX tăng nhẹ từ 63.5 lên 63.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch cạn kiệt (65.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Lực cầu rất yếu và khối lượng cạn kiệt, tiếp tục củng cố cho tín hiệu **Effort to Fall** trước đó.
 
 

@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay MPC đi ngang, đóng cửa ở mức 13.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (79.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-14:** Sau cú hồi kỹ thuật yếu ớt, hôm nay MPC giảm từ 13.8 xuống 13.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (168.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau các tín hiệu yếu kém cho thấy áp lực bán vẫn chiếm ưu thế. Xu hướng giảm có thể tiếp tục trong ngắn hạn.
 
 

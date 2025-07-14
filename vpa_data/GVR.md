@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay GVR giảm trở lại, đóng cửa ở mức 30.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.26 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối tình trạng yếu kém, hôm nay GVR tăng từ 30.3 lên 30.65. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (5.70 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
 
 

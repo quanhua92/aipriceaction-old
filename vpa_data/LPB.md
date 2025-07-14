@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay LPB giảm từ 33.3 xuống 33.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.29 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-14:** Sau chuỗi tín hiệu yếu kém, hôm nay LPB giảm từ 33.0 xuống 32.85. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau các phiên yếu kém, việc giá tiếp tục giảm trên khối lượng thấp cho thấy cả lực mua và lực bán đều đang suy yếu. Thị trường thiếu động lực và có thể đi ngang trong thời gian tới.
 
 

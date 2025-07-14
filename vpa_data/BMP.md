@@ -22,5 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn. Đây là một nhịp điều chỉnh bình thường sau phiên bùng nổ.
 - **Ngày 2025-07-11:** Sau các phiên **Test for Supply** thành công, hôm nay BMP tăng mạnh từ 142.3 lên 144.3. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (152.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng các phiên kiểm tra cung đã thành công và phe mua đã hấp thụ hết lực bán, sẵn sàng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay BMP đi ngang từ 144.5 xuống 144.0. Cây nến có biên độ rộng với high cao 146.2. Khối lượng giao dịch giảm (106.2k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test lên cao nhưng đóng cửa thấp hơn với khối lượng giảm cho thấy áp lực bán nhẹ xuất hiện. Tiếp nối tín hiệu Effort to Rise trước đó, đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
 
 

@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng phục hồi.
 - **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay BSR giảm từ 18.75 xuống 18.45. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (3.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply**, hôm nay BSR tăng nhẹ từ 18.45 lên 18.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (3.95 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** sau phiên kiểm tra cung thành công. Lực cầu đã quay trở lại để tiếp tục xu hướng phục hồi. Tín hiệu tích cực cho thấy thị trường đang cố gắng vượt qua kháng cự.
 
 

@@ -22,5 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, xác nhận cho các tín hiệu phân phối (Buying Climax) trước đó. Áp lực bán đã xuất hiện và chiếm ưu thế, là một tín hiệu rất tiêu cực.
 - **Ngày 2025-07-11:** Sau tín hiệu **Sign of Weakness (SOW)**, hôm nay CII tiếp tục giảm từ 15.2 xuống 14.95. Cây nến giảm có biên độ rộng. Khối lượng giao dịch vẫn ở mức rất cao (16.68 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn. Tín hiệu rất tiêu cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall** mạnh mẽ, hôm nay CII tăng vọt từ 14.95 lên 15.4. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng mạnh (27.55 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, có thể là một **Automatic Rally (AR)** sau khi giá đã giảm. Tuy nhiên, sau chuỗi tín hiệu phân phối (**Buying Climax**) rõ ràng trước đó, cần theo dõi các phiên kiểm tra cung tiếp theo để xác định liệu đây chỉ là một cú hồi kỹ thuật hay bắt đầu một giai đoạn tích lũy mới.
 
 

@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tiếp tục sau tín hiệu **Effort to Fall**. Áp lực bán chốt lời đã xuất hiện nhưng khối lượng giảm cho thấy lực bán đang yếu đi. Đây là một nhịp điều chỉnh.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay PDR giảm từ 19.15 xuống 18.75. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (13.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng vẫn còn cao cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế.
+- **Ngày 2025-07-14:** PDR tăng mạnh từ 18.75 lên 19.65. Cây nến tăng có biên độ rộng với mức cao nhất 19.75 và thấp nhất 18.2. Khối lượng giao dịch tăng vọt (24.78 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá mạnh với khối lượng rất lớn và biên độ rộng này là một tín hiệu **Effort to Rise** mạnh mẽ. Có sự giằng co quyết liệt giữa cung và cầu, nhưng lực cầu đã chiếm ưu thế. Tín hiệu tích cực.
 
 

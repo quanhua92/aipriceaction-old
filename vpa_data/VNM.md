@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay VNM giảm từ 60.3 xuống 59.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (6.13 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán vẫn đang có mặt. Lực cầu chưa quay trở lại mạnh mẽ để tiếp tục đà tăng, cho thấy thị trường cần thêm thời gian tích lũy.
+- **Ngày 2025-07-14:** Sau phiên giảm, hôm nay VNM phục hồi từ 60.0 lên 60.3. Cây nến tăng có biên độ rộng với low thấp 59.3. Khối lượng giao dịch không đổi (6.05 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tích cực. Việc giá có test xuống thấp nhưng phục hồi về mức cao hơn cho thấy lực cầu bắt đầu quay trở lại. Tiếp nối các tín hiệu điều chỉnh trước đó, đây có thể là dấu hiệu kết thúc giai đoạn test.
 
 

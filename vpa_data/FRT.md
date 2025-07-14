@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay FRT giảm nhẹ từ 183.6 xuống 183.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (327k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Điều này cho thấy lực bán đang cạn kiệt và tạo điều kiện cho một đợt phục hồi.
+- **Ngày 2025-07-14:** Sau phiên **Test for Supply** thành công, hôm nay FRT tăng vọt từ 183.7 lên 190.5. Cây nến tăng có biên độ rất rộng. Khối lượng giao dịch tăng vọt (696k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã hoàn toàn thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy khả năng bắt đầu một đợt phục hồi mạnh mẽ.
 
 

@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay DPR giảm từ 40.65 xuống 40.15. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (858.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, hôm nay DPR tăng từ 40.15 lên 40.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch ổn định (835.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém của các phiên trước. Lực cầu đã quay trở lại, cho thấy khả năng bắt đầu một đợt phục hồi.
 
 

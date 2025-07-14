@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá yếu ớt, phiên tăng nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng. Tình hình vẫn không chắc chắn.
 - **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay GMD đi ngang, đóng cửa ở mức 60.2. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (2.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và không có sự thay đổi giá, củng cố cho các tín hiệu yếu kém trước đó.
+- **Ngày 2025-07-14:** Tiếp nối tình trạng yếu kém, hôm nay GMD giảm từ 60.3 xuống 59.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng mạnh (4.48 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận tín hiệu yếu kém trước đó. Lực bán đã quay trở lại một cách quyết đoán với khối lượng lớn, cho thấy tiềm năng tiếp tục xu hướng giảm.
 
 

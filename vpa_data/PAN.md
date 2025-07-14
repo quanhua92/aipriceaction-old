@@ -24,6 +24,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
 - **Ngày 2025-07-11:** Sau phiên tăng chững lại, hôm nay PAN giảm nhẹ từ 28.95 xuống 28.85. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch 1,847,037 đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-14:** PAN tăng mạnh từ 28.85 lên 29.9. Cây nến tăng có biên độ rộng với mức cao nhất 30.3. Khối lượng giao dịch tăng (2,867,400 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, phiên tăng giá mạnh với khối lượng cao này là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng. Tín hiệu tích cực.
 
 
 

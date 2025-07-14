@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** ở vùng đỉnh. Sau phiên tăng mạnh, thị trường đang điều chỉnh nhẹ để hấp thụ lực bán chốt lời. Việc giá chỉ giảm nhẹ trên nền khối lượng giảm là một tín hiệu tích cực, cho thấy lực cầu vẫn đang hấp thụ tốt.
 - **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công của ngày hôm trước, phiên hôm nay ACB tăng từ 22.55 lên 22.7. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh (16,019,514 cổ phiếu) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
+- **Ngày 2025-07-14:** Giá đi ngang từ 22.75 xuống 22.7. Cây nến có biên độ rộng với low thấp 22.35 nhưng phục hồi mạnh về đóng cửa. Khối lượng giao dịch giảm (12,303,700 cổ phiếu) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tích cực. Mặc dù giá có test xuống thấp nhưng khả năng phục hồi mạnh về mức đóng cửa cho thấy lực cầu vẫn mạnh. Tiếp nối tín hiệu Effort to Rise trước đó, đây là dấu hiệu củng cố xu hướng tăng.
 
 

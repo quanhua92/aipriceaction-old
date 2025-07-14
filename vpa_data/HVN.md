@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
 - **Ngày 2025-07-11:** Sau phiên giảm điểm, hôm nay HVN tiếp tục giảm từ 37.8 xuống 37.2. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3.13 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay HVN tăng nhẹ từ 37.35 lên 37.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.22 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** trên nền khối lượng cạn kiệt. Áp lực bán đã giảm bớt đáng kể, cho thấy lực bán có thể đang cạn kiệt. Tín hiệu tích cực cho khả năng kết thúc đợt điều chỉnh.
 
 

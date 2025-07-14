@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay IDC tiếp tục giảm từ 46.6 xuống 46.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** trên nền khối lượng cạn kiệt. Áp lực bán gần như không có. Tín hiệu này vẫn rất tích cực, củng cố cho sự cạn kiệt của nguồn cung.
+- **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply** trên nền khối lượng cạn kiệt, hôm nay IDC tăng nhẹ từ 46.9 lên 46.4. Cây nến có biên độ vừa phải. Khối lượng giao dịch vẫn ở mức thấp (1.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Lực cầu đã quay trở lại nhẹ nhàng trong bối cảnh áp lực bán cạn kiệt, cho thấy khả năng bắt đầu một đợt phục hồi.
 
 

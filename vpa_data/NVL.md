@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
 - **Ngày 2025-07-11:** Sau các phiên **Test for Supply**, hôm nay NVL giảm từ 15.45 xuống 15.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (20.91 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
+- **Ngày 2025-07-14:** NVL tăng từ 15.1 lên 15.25. Cây nến tăng có biên độ rộng với mức cao nhất 15.55 và thấp nhất 14.5. Khối lượng giao dịch tăng vọt (37.63 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá với khối lượng rất lớn và biên độ rộng này là một tín hiệu **Effort to Rise** mạnh mẽ. Có sự giằng co quyết liệt giữa cung và cầu, thể hiện qua spread rộng và khối lượng khổng lồ. Tín hiệu tích cực nhưng cần quan sát xác nhận.
 
 

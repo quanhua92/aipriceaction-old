@@ -22,5 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Áp lực bán vẫn còn hiện hữu, tuy nhiên không quá mạnh, cho thấy thị trường vẫn đang trong giai đoạn điều chỉnh.
 - **Ngày 2025-07-11:** Sau các phiên điều chỉnh, hôm nay BIC tăng từ 38.75 lên 38.9. Cây nến tăng có biên độ tốt và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (59.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại sau các phiên kiểm tra cung, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-14:** Sau phiên **Effort to Rise**, hôm nay BIC giảm từ 38.9 xuống 38.45. Cây nến giảm có biên độ rộng với low thấp 38.0. Khối lượng giao dịch tăng (68.0k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test xuống thấp nhưng khối lượng tăng cho thấy có sự quan tâm tại các mức giá thấp. Tiếp nối tín hiệu Effort to Rise trước đó, đây có thể là test cuối cùng trước khi phục hồi.
 
 

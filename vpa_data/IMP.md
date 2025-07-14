@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay IMP giảm từ 52.7 xuống 51.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (141.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay IMP giảm nhẹ từ 52.0 xuống 51.8. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (97.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** trên nền khối lượng giảm. Áp lực bán đã giảm bớt, cho thấy lực bán có thể đang cạn kiệt. Tín hiệu tích cực cho khả năng kết thúc đợt điều chỉnh.
 
 

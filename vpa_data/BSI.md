@@ -22,5 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay BSI tăng mạnh trở lại từ 43.85 lên 44.25. Cây nến tăng có biên độ tốt. Khối lượng giao dịch tăng vọt (4.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, phiên hôm nay BSI tăng vọt từ 44.25 lên 46.2. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (2.96 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** rất mạnh mẽ. Giá tăng vọt với mức tăng 4.41% trên khối lượng vừa phải, cho thấy không có lực cản nào đáng kể. Đây là dấu hiệu của một xu hướng tăng mạnh và bền vững.
 
 

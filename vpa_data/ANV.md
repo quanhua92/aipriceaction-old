@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)** hoặc một **Selling Climax** trong ngắn hạn. Áp lực bán tháo diễn ra một cách quyết đoán, cho thấy phe bán đang hoàn toàn kiểm soát.
 - **Ngày 2025-07-11:** Sau phiên bán tháo, hôm nay ANV phục hồi từ 22.2 lên 22.55. Cây nến tăng có biên độ rộng, phục hồi từ mức thấp. Tuy nhiên, khối lượng giao dịch đã giảm (3.62 triệu đơn vị) so với phiên bán tháo trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, hoặc một **Automatic Rally (AR)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-14:** Giá đi ngang nhẹ từ 22.7 xuống 22.5. Cây nến có biên độ rộng với high cao 23.3 nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm (2.61 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** hoặc **Secondary Test (ST)**. Việc giá có test lên cao nhưng không thể duy trì và khối lượng giảm cho thấy lực cầu yếu. Tiếp nối tín hiệu No Demand trước đó, đây là dấu hiệu cần quan sát thêm về khả năng tiếp tục điều chỉnh.
 
 

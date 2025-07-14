@@ -44,6 +44,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay BVH giảm trở lại từ 54.0 xuống 53.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (526,699 đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay BVH tăng nhẹ từ 53.7 lên 53.9. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (345,000 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém liên tiếp, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng giảm.
 
 
 

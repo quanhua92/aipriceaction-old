@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau phiên tăng mạnh, thị trường đang tạm nghỉ để hấp thụ lực bán chốt lời. Việc giá vẫn tăng nhẹ trên khối lượng giảm là một tín hiệu tích cực.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay CTG giảm nhẹ từ 45.0 xuống 44.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Điều này cho thấy lực bán đang cạn kiệt và tạo điều kiện cho một đợt phục hồi.
+- **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply** thành công, hôm nay CTG giảm tiếp từ 44.6 xuống 44.3. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng mạnh (12.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán đã quay trở lại và chiếm ưu thế, phủ nhận các tín hiệu Test for Supply tích cực trước đó. Xu hướng tăng đang bị thách thức.
 
 

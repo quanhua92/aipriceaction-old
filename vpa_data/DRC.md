@@ -43,5 +43,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay DRC giảm từ 21.85 xuống 21.75. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (641.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay DRC tăng mạnh từ 21.8 lên 22.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (1.98 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém của các phiên trước. Lực cầu đã quay trở lại quyết đoán với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
 
 

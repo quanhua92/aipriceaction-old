@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật trên nền **No Demand**, hôm nay FPT tăng mạnh từ 123.9 lên 126.6. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (10.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay FPT tăng nhẹ từ 127.2 lên 127.1. Cây nến có biên độ rộng với low thấp 125.0. Khối lượng giao dịch giảm (5.98 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test xuống thấp nhưng phục hồi về đóng cửa với khối lượng giảm cho thấy áp lực bán không lớn. Tiếp nối tín hiệu Effort to Rise trước đó, đây là nhịp điều chỉnh bình thường trong xu hướng phục hồi.
 
 

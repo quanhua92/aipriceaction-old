@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply** thành công, hôm nay FTS tăng mạnh trở lại từ 40.05 lên 40.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (10.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay FTS tiếp tục tăng từ 41.05 lên 41.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (6.49 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn, xác nhận rằng lực cầu vẫn đang duy trì mạnh mẽ và tiếp tục xu hướng tăng. Tín hiệu rất tích cực cho thấy khả năng tiếp tục phục hồi.
 
 

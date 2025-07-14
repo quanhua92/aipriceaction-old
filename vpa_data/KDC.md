@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay KDC tăng nhẹ từ 55.9 lên 56.4. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (496.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá, phiên tăng nhẹ với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng, là một tín hiệu cảnh báo.
+- **Ngày 2025-07-14:** Sau tín hiệu **No Demand** của phiên trước, hôm nay KDC giảm từ 56.5 xuống 56.5. Cây nến có biên độ rộng với bóng dưới rất lớn. Khối lượng giao dịch tăng (588.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhưng có dấu hiệu tích cực. Giá giảm mạnh trên khối lượng lớn nhưng kết thúc với bóng dưới dài, cho thấy lực đỡ xuất hiện ở mức thấp. Đây có thể là một **Test for Support** thành công, báo hiệu khả năng phục hồi trong các phiên tới.
 
 

@@ -22,5 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Sức mạnh của phe mua là áp đảo và xu hướng tăng đang được củng cố một cách vững chắc.
 - **Ngày 2025-07-11:** Sau phiên tăng vọt, hôm nay AAA giảm từ 7.74 xuống 7.57. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3,81 triệu đơn vị) so với phiên tăng mạnh trước nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không quá mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường trong một xu hướng tăng, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-14:** Giá đi ngang nhẹ từ 7.59 xuống 7.56. Cây nến giảm có biên độ hẹp với spread thấp. Khối lượng giao dịch giảm mạnh (2,57 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Việc giá giảm nhẹ với khối lượng giảm mạnh cho thấy thiếu sự quan tâm của cả phe mua và phe bán. Tiếp nối tín hiệu Test for Supply trước đó, đây có thể là dấu hiệu cần quan sát thêm về sức mạnh của xu hướng tăng.
 
 

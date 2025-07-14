@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 - **Ngày 2025-07-11:** Sau các phiên điều chỉnh, hôm nay DGC tăng mạnh từ 101.5 lên 103.7. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (4.74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay DGC tăng nhẹ từ 103.7 lên 103.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (1.85 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** thành công. Sau phiên đột phá, việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
 
 

@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau chuỗi tăng, thị trường đang tạm nghỉ để hấp thụ lực bán. Việc giá không giảm trên khối lượng giảm là một tín hiệu tích cực.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay BCM giảm nhẹ từ 68.6 xuống 68.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tiếp tục giảm (512.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Điều này cho thấy lực bán đang cạn kiệt và tạo điều kiện cho một đợt phục hồi.
+- **Ngày 2025-07-14:** Tiếp nối Test for Supply thành công, hôm nay BCM phục hồi từ 68.2 lên 68.5. Cây nến tăng có biên độ rộng với low thấp 66.0 nhưng phục hồi mạnh. Khối lượng giao dịch tăng (662.5k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)**. Việc giá có test xuống thấp nhưng phục hồi mạnh trên nền khối lượng tăng cho thấy lực cầu mạnh. Tiếp nối Test for Supply thành công trước đó, đây là dấu hiệu tích cực cho xu hướng tăng.
 
 

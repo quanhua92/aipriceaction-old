@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay CTR giảm nhẹ từ 102.4 xuống 101.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (623.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay CTR tăng nhẹ từ 101.6 lên 101.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (599.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand** sau chuỗi giảm giá. Lực cầu yếu và không đủ thuyết phục để đảo ngược xu hướng. Tình hình vẫn tiêu cực với khả năng giá sẽ tiếp tục kiểm tra các mức thấp hơn.
 
 

@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục. Áp lực bán vẫn đang cản trở sự tăng giá, cho thấy lực cầu không đủ sức duy trì đà tăng mạnh.
 - **Ngày 2025-07-11:** Sau tín hiệu **No Demand**, hôm nay HHV giảm từ 12.8 xuống 12.65. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (8.92 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho các tín hiệu yếu kém trước đó.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu yếu kém, hôm nay HHV tăng từ 12.75 lên 13.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (14.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
 
 

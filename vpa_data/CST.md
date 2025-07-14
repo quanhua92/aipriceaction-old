@@ -22,5 +22,7 @@
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 - **Ngày 2025-07-11:** Tiếp nối tình trạng thiếu động lực, hôm nay CST tăng mạnh từ 15.9 lên 16.4. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (175.5k đơn vị) so với các phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau một thời gian dài thiếu động lực, lực mua đã quay trở lại. Tuy nhiên, khối lượng tổng thể vẫn thấp, cần thêm xác nhận.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay CST giảm từ 16.4 xuống 16.3. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (50.6k đơn vị) so với phiên đột phá trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên đột phá. Áp lực bán xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Điều này cho thấy lực bán đang cạn kiệt và tạo điều kiện thuận lợi cho xu hướng tăng tiếp diễn.
 
 

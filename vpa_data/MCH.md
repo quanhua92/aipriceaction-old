@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
 - **Ngày 2025-07-11:** Sau phiên đi ngang, hôm nay MCH giảm từ 120.0 xuống 119.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (276.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
+- **Ngày 2025-07-14:** Sau phiên **Test for Supply**, hôm nay MCH tăng từ 119.5 lên 120.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (207.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Mặc dù giá tăng, khối lượng thấp cho thấy lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Đây chỉ là một cú hồi kỹ thuật trong xu hướng giảm.
 
 

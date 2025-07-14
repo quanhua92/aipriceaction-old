@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá đi ngang trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
 - **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay HDB tăng nhẹ từ 24.35 lên 24.45. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (16,45 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
+- **Ngày 2025-07-14:** Sau phiên tăng chững lại, hôm nay HDB giảm nhẹ từ 24.5 xuống 24.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (13.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Tín hiệu vẫn tích cực cho xu hướng tăng.
 
 
