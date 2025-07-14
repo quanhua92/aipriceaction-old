@@ -42,15 +42,24 @@ This script automatically:
 **Reference**: See `tasks/task_vpa_prep_python.md` for detailed usage
 
 #### 2.2 Analysis Generation
-**Use Task tool with standardized prompt**:
+**Use multiple Task tools for parallel processing**:
 
-Based on the output from Step 2.1, use the Task tool with the template from `tasks/task_generate_vpa_analysis.md`.
+Based on the output from Step 2.1, use multiple Task tools in parallel to process tickers efficiently.
+
+**PARALLEL PROCESSING RULE**: 
+- **NEVER process all 115 tickers sequentially in a single Task tool call**
+- **ALWAYS batch tickers into groups of 10-15 tickers maximum**
+- **ALWAYS launch multiple Task tools concurrently** using a single message with multiple tool calls
+- **Example**: For 115 tickers, create 8-10 concurrent Task tool calls, each processing 10-15 tickers
 
 **Key steps**:
 1. Read the task template: `tasks/task_generate_vpa_analysis.md`
-2. Customize the prompt with current date and ticker count
-3. Execute Task tool to generate VPA analysis for all tickers needing updates
-4. The task tool will handle all format requirements and Vietnamese VPA analysis
+2. Divide tickers needing analysis into batches of 10-15 tickers each
+3. Create multiple Task tool calls simultaneously, each with:
+   - Customized prompt with current date and specific ticker batch
+   - Template from `tasks/task_generate_vpa_analysis.md`
+4. Execute all Task tools concurrently to maximize parallel processing
+5. Each task tool will handle format requirements and Vietnamese VPA analysis for its assigned batch
 
 **Reference**: See `tasks/task_generate_vpa_analysis.md` for:
 - Complete task prompt template
