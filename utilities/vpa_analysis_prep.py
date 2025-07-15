@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script to analyze VPA data preparation for 2025-07-14
+Script to analyze VPA data preparation for current date
 """
 
 import csv
@@ -8,9 +8,9 @@ import os
 import re
 from datetime import datetime, timedelta
 
-def read_csv_data(ticker, market_data_dir):
+def read_csv_data(ticker, market_data_dir, target_date):
     """Read OHLCV data for a ticker"""
-    csv_file = os.path.join(market_data_dir, f"{ticker}_2025-01-02_to_2025-07-14.csv")
+    csv_file = os.path.join(market_data_dir, f"{ticker}_2025-01-02_to_{target_date}.csv")
     if not os.path.exists(csv_file):
         return None
     
@@ -89,6 +89,9 @@ def main():
     market_data_dir = os.path.join(base_dir, 'market_data')
     vpa_data_dir = os.path.join(base_dir, 'vpa_data')
     
+    # Get today's date
+    today = datetime.now().strftime('%Y-%m-%d')
+    
     # Get all tickers from market_data
     tickers = []
     for filename in os.listdir(market_data_dir):
@@ -98,7 +101,7 @@ def main():
     
     tickers.sort()
     
-    print(f"=== VPA Analysis Preparation Report for 2025-07-14 ===")
+    print(f"=== VPA Analysis Preparation Report for {today} ===")
     print(f"Total tickers found: {len(tickers)}")
     print()
     
@@ -109,12 +112,12 @@ def main():
     
     for ticker in tickers:
         # Read market data
-        market_data = read_csv_data(ticker, market_data_dir)
+        market_data = read_csv_data(ticker, market_data_dir, today)
         if not market_data:
             continue
             
-        # Check if 2025-07-14 data exists
-        has_today_data = any(row['date'] == '2025-07-14' for row in market_data)
+        # Check if today's data exists
+        has_today_data = any(row['date'] == today for row in market_data)
         if not has_today_data:
             continue
             
@@ -124,13 +127,13 @@ def main():
             missing_vpa.append(ticker)
             continue
             
-        # Check if already has 2025-07-14 analysis
-        if vpa_signal['date'] == '2025-07-14':
+        # Check if already has today's analysis
+        if vpa_signal['date'] == today:
             up_to_date.append(ticker)
         else:
             # Extract today's and previous day's data
-            today_data = next((row for row in market_data if row['date'] == '2025-07-14'), None)
-            prev_data = next((row for row in reversed(market_data) if row['date'] < '2025-07-14'), None)
+            today_data = next((row for row in market_data if row['date'] == today), None)
+            prev_data = next((row for row in reversed(market_data) if row['date'] < today), None)
             
             need_analysis.append({
                 'ticker': ticker,
@@ -146,7 +149,7 @@ def main():
     print()
     
     if up_to_date:
-        print("Tickers already up-to-date (have 2025-07-14 entry):")
+        print(f"Tickers already up-to-date (have {today} entry):")
         for ticker in up_to_date:
             print(f"  - {ticker}")
         print()
@@ -162,12 +165,12 @@ def main():
     
     for item in need_analysis:  # Show all tickers
         ticker = item['ticker']
-        today = item['today_data']
+        today_data = item['today_data']
         prev = item['prev_data']
         vpa = item['latest_vpa']
         
         print(f"=== {ticker} ===")
-        print(f"Today's data (2025-07-14): O={today['open']}, H={today['high']}, L={today['low']}, C={today['close']}, V={today['volume']:,}")
+        print(f"Today's data ({today}): O={today_data['open']}, H={today_data['high']}, L={today_data['low']}, C={today_data['close']}, V={today_data['volume']:,}")
         print(f"Previous data ({prev['date']}): O={prev['open']}, H={prev['high']}, L={prev['low']}, C={prev['close']}, V={prev['volume']:,}")
         print(f"Latest VPA signal ({vpa['date']}): {vpa['signal']}")
         print()
