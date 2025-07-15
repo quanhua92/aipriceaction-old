@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 - **Ngày 2025-07-14:** Tiếp tục xu hướng giảm từ 93.9 xuống 93.0. Cây nến giảm có biên độ rộng với low thấp 92.8. Khối lượng giao dịch giảm nhẹ (776.0k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán vẫn duy trì nhưng không quá mạnh. Tiếp nối chuỗi tín hiệu yếu trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** tiếp diễn, hôm nay ACV phục hồi từ 93.1 lên 93.8. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (418.7k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng. Đây có thể chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
 
 

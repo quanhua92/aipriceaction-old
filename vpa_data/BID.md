@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu vẫn đang duy trì, tuy nhiên đà tăng đang có dấu hiệu chững lại, cho thấy thị trường có thể cần tích lũy thêm. Tín hiệu vẫn tích cực.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay BID tăng từ 38.5 lên 38.65. Cây nến tăng có biên độ rộng với high cao 39.35. Khối lượng giao dịch giảm nhẹ (8.31 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)**. Việc giá có test lên cao và đóng cửa tốt trên nền khối lượng vẫn cao cho thấy lực cầu mạnh. Tiếp nối chuỗi tín hiệu tích cực trước đó, xu hướng tăng được củng cố.
+- **Ngày 2025-07-15:** Sau tín hiệu **Sign of Strength (SOS)**, hôm nay BID giảm từ 38.6 xuống 38.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (5.78 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau SOS. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán không đáng kể và có thể chỉ là điều chỉnh kỹ thuật tự nhiên. Tiếp nối tín hiệu SOS mạnh trước đó, đây là test bình thường và có thể tạo điều kiện cho nhịp tăng tiếp theo.
 
 

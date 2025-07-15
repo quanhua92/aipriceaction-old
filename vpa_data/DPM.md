@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay DPM tăng từ 38.95 lên 39.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng mạnh (6,603,400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém của các phiên trước. Lực cầu đã quay trở lại mạnh mẽ với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-15:** DPM tăng mạnh từ 37.5 lên 38.05. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (5.94 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Tiếp nối tín hiệu tích cực phiên trước, lực cầu vẫn đang kiểm soát và đẩy giá tăng. Việc khối lượng giảm nhưng giá vẫn tăng cho thấy nhu cầu một chiều. Xu hướng phục hồi có thể tiếp tục.
 
 

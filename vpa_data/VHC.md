@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay VHC giảm từ 59.1 xuống 58.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (1.57 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
+- **Ngày 2025-07-15:** VHC đi ngang từ 57.9 lên 57.7 với đỉnh ngày đạt 58.6. Nến có biên độ rộng. Khối lượng giao dịch tăng (1.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Fall, việc giá test lên vùng 58.6 nhưng đóng cửa thấp hơn cho thấy áp lực bán vẫn còn tại vùng kháng cự. Khối lượng tăng cho thấy có sự quan tâm nhưng lực cầu chưa đủ mạnh để vượt qua.
 
 

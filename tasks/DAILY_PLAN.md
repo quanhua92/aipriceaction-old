@@ -39,9 +39,9 @@ ls vpa_data/ market_data/
 ### Step 3: STAGE 0 - Data Verification & Fact Sheet Creation
 **Objective**: Create verified internal fact sheets for ALL tickers to prevent data contamination
 
-**Parallel Processing Approach**: Use Task tool to process tickers concurrently in batches of 5-10 tickers.
+**Automated Processing Approach**: Use the Python utility `utilities/generate_fact_sheets.py` to process ALL tickers from TICKERS.csv automatically.
 
-**Critical Process**: For EVERY ticker from previous PLAN.md AND any new tickers from reports, create this internal data structure:
+**Critical Process**: For EVERY ticker from TICKERS.csv (not just those in PLAN.md or reports), create this internal data structure:
 
 ```json
 {
@@ -62,11 +62,20 @@ ls vpa_data/ market_data/
 }
 ```
 
-**File Reading Strategy for Each Ticker**:
-1. Read `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries)
-2. Read `market_data/{TICKER}_*.csv` for current price (last row)
-3. Cross-reference with `REPORT.md` and `REPORT_week.md` for signals
-4. Map industry using `GROUP.md` and get status from `LEADER.md`
+**Automated Processing Execution**:
+```bash
+# Run the fact sheet generator utility
+uv run utilities/generate_fact_sheets.py
+```
+
+**File Reading Strategy (Automated)**:
+The utility automatically:
+1. Reads ALL tickers from `TICKERS.csv` (not just those in PLAN.md or reports)
+2. For each ticker, reads `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries)
+3. Reads `market_data/{TICKER}_*.csv` for current price (last row)
+4. Cross-references with `REPORT.md` and `REPORT_week.md` for signals
+5. Maps industry using `GROUP.md` and gets status from `LEADER.md`
+6. Outputs complete fact sheets to `utilities/fact_sheets.json`
 
 **Data Extraction Rules**:
 - Extract daily signals ONLY from `REPORT.md` with exact dates
@@ -76,19 +85,13 @@ ls vpa_data/ market_data/
 - Map industries using exact matches from `GROUP.md`
 - Get industry status from `LEADER.md` analysis
 
-**Parallel Processing Strategy**:
-- Use Task tool to process multiple tickers concurrently
-- Read ticker-specific files (vpa_data/{TICKER}.md, market_data/{TICKER}_*.csv) for focused context
-- Avoid reading large consolidated files (VPA.md, market_data.txt)
+**Processing Benefits**:
+- Processes ALL 115+ tickers from TICKERS.csv systematically
+- Ensures no potential opportunities are missed from the unlisted pool
+- Consistent data extraction methodology across all tickers
+- Outputs verified fact sheets as JSON for programmatic access
 
 **Quality Control**: These fact sheets become the SOLE source of truth for all subsequent stages
-
-**Example Task Tool Usage**:
-```
-Task 1: "Process tickers TCB,VND,ACB,HPG,VHM for fact sheet creation. For each ticker: 1) Read vpa_data/{TICKER}.md last 10 entries 2) Read market_data/{TICKER}_*.csv last price 3) Extract recent signals from REPORT.md 4) Return fact sheet JSON for each ticker"
-
-Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same process as Task 1."
-```
 
 **File Size Benefits**:
 - Individual VPA files: ~50-200 lines each vs VPA.md: ~15,000+ lines
@@ -98,7 +101,13 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 ### Step 4: STAGE 1 - Ticker State Assessment
 **Objective**: Determine new state for each ticker using verified fact sheets
 
-**Process**: Apply state transition rules in exact order using ONLY fact sheet data:
+**Automated Assessment Execution**:
+```bash
+# Run the ticker state assessment utility
+uv run utilities/assess_ticker_states.py
+```
+
+**Process**: Apply state transition rules in exact order using ONLY fact sheet data from `utilities/fact_sheets.json`:
 
 #### For Previous "Top List" Tickers (WEEKLY PRIORITY + STABILITY):
 - **Primary Assessment (Weekly Context)**: Weekly trend status takes precedence
@@ -152,14 +161,51 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 - **Risk Tolerance**: Higher for Potential list - capture emerging trends early
 - **Decision**: Prioritize opportunity capture over perfection
 
+**Assessment Output**: The utility generates `utilities/ticker_states.json` containing:
+- Individual assessments for all 115+ tickers with reasoning
+- New state assignments (Top List, Potential List, Downgraded, Unlisted)
+- Confidence scores based on signal strength and industry context
+- Change tracking and audit trail information
+- Summary statistics for all state transitions
+
+**Processing Benefits**:
+- Consistent application of VPA-Strategist methodology across all tickers
+- Automated confidence score calculation based on signal patterns
+- Systematic capture of opportunities from the unlisted pool
+- Comprehensive audit trail for all state changes
+- Eliminates human bias in ticker assessment
+
 ### Step 5: STAGE 2 - PLAN.md Generation
-**Objective**: Generate complete PLAN.md using verified fact sheets and final states
+**Objective**: Generate complete PLAN.md using verified fact sheets and final states from `utilities/ticker_states.json`
+
+**Manual Generation Process**: Use the data from `utilities/ticker_states.json` and `utilities/fact_sheets.json` to manually craft a high-quality, readable PLAN.md with proper Vietnamese financial writing style.
+
+**Key Requirements**:
+- Use the automated assessments as the foundation, but write with human insight and nuance
+- Create engaging, readable Vietnamese financial content
+- Include proper market context and strategic reasoning
+- Maintain the audit trail accuracy while improving readability
+- Focus on actionable insights rather than robotic data presentation
+- **MANDATORY**: Include detailed analysis for at least 10 top tickers in Section 4
+
+**Quality Standards from Previous Success**:
+- Organize Top List by confidence tiers (90-95%, 85-89%, 75-84%)
+- Categorize Potential List by opportunity type (Strong Growth, Special Watch, Need Confirmation)
+- Add strategic context and portfolio allocation recommendations
+- Include actionable entry strategies and risk management guidance
+- Provide comprehensive VNINDEX market analysis with both weekly and daily synthesis
+
+**Data Sources**:
+- `utilities/ticker_states.json`: Final state assessments and confidence scores
+- `utilities/fact_sheets.json`: Detailed ticker information and signals
+- `REPORT.md` and `REPORT_week.md`: VNINDEX analysis and market context
+- `LEADER.md` and `GROUP.md`: Industry context and sector analysis
 
 #### 5.1 VNINDEX Analysis Section
 ```markdown
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
-![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) | ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
+![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
 **Bối Cảnh Tuần**: [Synthesize weekly context from REPORT_week.md]
 
@@ -174,7 +220,7 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 - **Confidence Score Strategy**: Adjust scores (95% → 85% → 75%) for temporary weakness rather than removing
 - **Ranking Priority**: Multi-timeframe confirmation clarity and trend sustainability
 - **Mid-Term Focus**: Prioritize consistent performers over short-term momentum
-- Format: `[**TCB**](#TCB) (Ngân Hàng - Dẫn dắt đồng thuận) - (Độ tin cậy: 95%)`
+- Format: `[**TCB**](#TCB) (Ngân Hàng) - **95%** - Tín hiệu mạnh mẽ - [View Report](REPORT.md#TCB)`
 - **Score Guidelines**: 
   - 95%: Perfect weekly/daily alignment with strong industry
   - 85%: Minor daily weakness but weekly trend intact
@@ -196,13 +242,17 @@ Task 2: "Process tickers FPT,MWG,GAS,CTG,STB for fact sheet creation. Same proce
 - Cite specific signals that triggered demotion
 
 #### 5.5 Detailed Analysis for Top Tickers
-For EVERY ticker in Top List, provide:
+**MINIMUM REQUIREMENT**: Provide detailed analysis for AT LEAST 10 top tickers from Top List
+
+For EACH analyzed ticker, provide:
 - Chart links (daily and weekly)
 - Weekly VPA narrative with exact dates
 - Daily VPA narrative with exact dates  
 - Industry context from LEADER.md
 - Synthesis explaining high-conviction setup
 - Best entry zones with technical justification
+
+**Selection Priority**: Choose top 10 tickers with highest confidence scores and strongest technical setups
 
 #### 5.6 Audit Log Creation
 **Mandatory documentation** of ALL state changes with precise justifications:
@@ -229,20 +279,43 @@ For EVERY ticker in Top List, provide:
 **Verification Checklist**:
 - [ ] All assertions cite specific signals and dates from fact sheets
 - [ ] No ticker appears in multiple categories
-- [ ] All Top List tickers have detailed analysis sections
+- [ ] **MANDATORY**: At least 10 top tickers have detailed analysis sections
 - [ ] Audit log documents every state change with justification
 - [ ] VNINDEX analysis synthesizes both daily and weekly timeframes
 - [ ] Chart links use correct file paths
 - [ ] Vietnamese text is grammatically correct
 - [ ] Confidence scores are justified
+- [ ] Top List organized by confidence tiers (90-95%, 85-89%, 75-84%)
+- [ ] Potential List categorized by opportunity type
+- [ ] Strategic context and portfolio allocation included
+- [ ] Actionable entry strategies provided
 
-### Step 7: File Output
-**Objective**: Generate final PLAN.md file
+### Step 7: Complete Automation Summary
+**Objective**: Execute the complete daily planning protocol with full automation
 
+**Complete Execution Sequence**:
 ```bash
-# Generate new PLAN.md (git handles version control)
-# [Output complete PLAN.md content]
+# Step 1: Verify input files (manual check)
+ls REPORT.md REPORT_week.md LEADER.md GROUP.md vpa_data/ market_data/
+
+# Step 2: Previous PLAN.md analysis (automated within utilities)
+
+# Step 3: Generate fact sheets for all tickers
+uv run utilities/generate_fact_sheets.py
+
+# Step 4: Assess ticker states using VPA methodology  
+uv run utilities/assess_ticker_states.py
+
+# Step 5: Generate complete PLAN.md
+uv run utilities/generate_plan.py
 ```
+
+**Final Output**: Complete `PLAN.md` file with:
+- Comprehensive analysis of all 115+ tickers from TICKERS.csv
+- Systematic application of VPA-Strategist methodology
+- 22 new opportunities identified from the unlisted pool
+- Complete audit trail of all state changes
+- Professional Vietnamese financial report format
 
 ## Quality Control Standards
 
@@ -307,12 +380,42 @@ For EVERY ticker in Top List, provide:
 ### Top Ticker Analysis Template
 ```markdown
 ### [TICKER_NAME]
+![Weekly Chart](reports_week/TICKER/TICKER_candlestick_chart.png) ![Daily Chart](reports/TICKER/TICKER_candlestick_chart.png) [View Report](REPORT.md#TICKER)
 
-- ![Weekly Chart](reports_week/TICKER/TICKER_candlestick_chart.png) | ![Daily Chart](reports/TICKER/TICKER_candlestick_chart.png) | [View Report](REPORT.md#TICKER)
-- **Phân Tích Cốt Lõi:**
-  - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc [DATE] cho thấy [SIGNAL]...
-  - **Daily VPA Narrative:** Ngày [DATE] có tín hiệu [SIGNAL]. [VPA context]...
-  - **Industry Context:** Ngành [INDUSTRY] ở trạng thái [STATUS]...
-  - **Synthesis:** [Why this creates high-conviction setup]
-- **Vùng Tham Gia Tốt Nhất:** [Technical levels with reasoning]
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: [Weekly context and trend analysis]
+- **Động Lực Gần Đây**: [Daily signal and momentum analysis]
+- **Bối Cảnh Ngành**: [Industry context and sector dynamics]
+- **Điểm Mạnh**: [Company strengths and competitive advantages]
+
+**Vùng Tham Gia Tốt Nhất**: [Specific entry strategy with technical reasoning]
+```
+
+### Complete PLAN.md Structure Template
+```markdown
+# PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
+
+*Cập nhật: [DATE] | Phân tích theo phương pháp VPA-Strategist*
+
+## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
+[Market analysis with weekly/daily synthesis]
+
+## 2. Top 26 Cơ Hội Giao Dịch Chất Lượng
+### Nhóm Tin Cậy Cao (90-95%)
+### Nhóm Tin Cậy Tốt (85-89%)
+### Nhóm Tin Cậy Trung Bình (75-84%)
+
+## 3. Danh Sách Cổ Phiếu Tiềm Năng
+### Cơ Hội Tăng Trưởng Mạnh
+### Cơ Hội Theo Dõi Đặc Biệt
+### Cơ Hội Cần Xác Nhận
+
+## 4. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
+[Minimum 10 detailed ticker analyses]
+
+## 5. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
+[State changes with precise justifications]
+
+## 6. Chiến Lược Giao Dịch Tuần Tới
+[Portfolio allocation and strategic guidance]
 ```

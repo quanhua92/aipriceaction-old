@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật mạnh mẽ, có thể là một **Automatic Rally (AR)**. Sau tín hiệu yếu kém trước đó, lực cầu đã quay trở lại để chặn đà giảm, tuy nhiên cần theo dõi các phiên kiểm tra cung tiếp theo để đánh giá sức mạnh thực sự.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật, hôm nay VGC giảm từ 45.8 xuống 45.55. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (986.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-15:** VGC giảm từ 46.9 xuống 45.95 với đỉnh ngày đạt 46.9. Nến có biên độ rộng. Khối lượng giao dịch giảm (1.30 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau khi thử nghiệm vùng kháng cự 46.9, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn. Việc khối lượng giảm cho thấy áp lực bán không quá mạnh, đây vẫn là một nhịp kiểm tra bình thường.
 
 

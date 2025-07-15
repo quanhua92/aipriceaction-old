@@ -36,7 +36,11 @@
     - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán đã suy yếu. Đây có thể là một phiên **Test for Supply**. Mặc dù chưa phải là tín hiệu đảo chiều, nhưng nó cho thấy đà giảm đang chững lại.
 - **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay SGT đi ngang, đóng cửa ở mức 17.9. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (54.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
-- **Ngày 2025-07-11:** Tiếp nối tình trạng thiếu động lực, hôm nay SGT giảm từ 17.9 xuống 17.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (99.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-11:** Tiếp nối tình trạng thiếu động lực, hôm nay SGT giảm từ 17.9 xuống 17.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (105.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Áp lực bán đã quay trở lại và đẩy giá xuống, thể hiện qua khối lượng tăng. Tình hình chuyển biến tiêu cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay SGT tăng nhẹ từ 17.75 lên 17.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (44.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-15:** Sau cú hồi kỹ thuật yếu ớt, hôm nay SGT giảm từ 17.8 xuống 17.45. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (57.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, xác nhận sự yếu kém của lực cầu. Tình hình tiêu cực, xu hướng giảm có thể tiếp tục.
 
 

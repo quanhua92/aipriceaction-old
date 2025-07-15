@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho các tín hiệu yếu kém trước đó.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay VLB giảm từ 46.8 xuống 46.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (61.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-15:** VLB giảm từ 46.5 xuống 45.9 với đỉnh ngày đạt 46.5. Nến có biên độ rộng. Khối lượng giao dịch tăng (110.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Việc giá giảm trên khối lượng gia tăng xác nhận áp lực bán vẫn đang kiểm soát. Tiếp nối các tín hiệu yếu kém trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
 

@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay HDG tăng từ 25.1 lên 25.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (7.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy khả năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise**, hôm nay HDG tăng nhẹ từ 25.7 lên 25.75. Cây nến tăng có biên độ hẹp với mức cao 26.35. Khối lượng giao dịch giảm (6.26 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Việc giá có test lên mức cao 26.35 nhưng đóng cửa gần mức mở với khối lượng giảm cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và tín hiệu vẫn tích cực.
 
 

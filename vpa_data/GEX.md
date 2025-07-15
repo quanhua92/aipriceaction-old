@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận tín hiệu **No Demand** trước đó. Lực bán đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng giảm.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay GEX giảm từ 40.4 xuống 39.7. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (10.58 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn. Áp lực bán vẫn đang kiểm soát, tuy nhiên khối lượng giảm có thể cho thấy lực bán đang dần yếu đi. Tình hình vẫn tiêu cực nhưng có dấu hiệu giảm bớt.
+- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** yếu đi, hôm nay GEX tăng mạnh từ 39.9 lên 41.95. Cây nến tăng có biên độ rất rộng với mức cao 42.45. Khối lượng giao dịch tăng vợt (21.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng khổng lồ, cho thấy tiềm năng bắt đầu một đợt phục hồi mạnh mẽ.
 
 

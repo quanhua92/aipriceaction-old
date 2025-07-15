@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tăng mạnh. Mặc dù giá giảm nhưng khối lượng vẫn cao, cho thấy có áp lực bán chốt lời. Tuy nhiên, đây có thể chỉ là một nhịp điều chỉnh bình thường sau giai đoạn tăng mạnh.
 - **Ngày 2025-07-11:** Sau phiên tăng chững lại, hôm nay VCI tăng vọt từ 38.4 lên 41.05. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (29.76 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
+- **Ngày 2025-07-15:** VCI giảm mạnh từ 41.7 xuống 40.9 với đỉnh ngày đạt 43.6. Nến có biên độ rất rộng với đuôi dài phía trên. Khối lượng giao dịch tăng vọt (25.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau khi thử nghiệm vùng kháng cự 43.6, áp lực bán mạnh đã xuất hiện khiến giá đóng cửa gần mức thấp nhất phiên. Việc khối lượng bùng nổ kèm theo việc giá đóng cửa yếu cho thấy smart money đang bắt đầu phân phối tại vùng giá cao này.
 
 

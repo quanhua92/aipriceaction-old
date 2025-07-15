@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay TCB tăng nhẹ từ 34.8 lên 34.95. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (18.59 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
+- **Ngày 2025-07-15:** TCB giảm từ 35.15 xuống 34.8 với đỉnh ngày đạt 35.75. Nến có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch duy trì cao (18.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau khi thử nghiệm vùng kháng cự 35.75, áp lực bán mạnh đã xuất hiện khiến giá đóng cửa ở mức thấp nhất phiên. Việc khối lượng duy trì cao kèm theo việc giá đóng cửa yếu xác nhận lực cầu vẫn chưa đủ mạnh để vượt qua kháng cự.
 
 

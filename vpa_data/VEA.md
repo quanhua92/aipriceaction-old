@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay VEA đi ngang, đóng cửa ở mức 39.6. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (325.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Sau nỗ lực tăng giá, phiên đi ngang với khối lượng giảm cho thấy lực cầu không đủ sức duy trì đà tăng, là một tín hiệu cảnh báo.
+- **Ngày 2025-07-15:** VEA giảm từ 38.7 xuống 38.3 với đỉnh ngày đạt 39.1. Nến có biên độ rộng. Khối lượng giao dịch giảm (2.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu No Demand trước đó, việc giá giảm trên khối lượng giảm cho thấy áp lực bán không mạnh. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu nghiêm trọng.
 
 

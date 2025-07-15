@@ -22,7 +22,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Việc giá giảm mạnh trên khối lượng cực lớn sau một phiên kiểm tra cung cho thấy áp lực bán đã quay trở lại và chiếm ưu thế một cách áp đảo, phủ nhận các tín hiệu tích cực trước đó.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Weakness (SOW)**, phiên hôm nay SHB tăng từ 14.0 lên 14.35. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm mạnh (77.65 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
-- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay SHB giảm từ 14.35 xuống 14.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (67.98 triệu đơn vị).
+- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay SHB giảm từ 14.35 xuống 14.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (68.53 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối xu hướng yếu kém, hôm nay SHB giảm từ 14.2 xuống 14.15. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (45.63 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã giảm bớt nhưng lực cầu vẫn chưa quay trở lại mạnh mẽ. Tình hình vẫn tiêu cực nhưng đang chậm lại.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay SHB giảm từ 14.15 xuống 14.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (77.74 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn. Áp lực bán vẫn hiện hữu và đẩy giá xuống, thể hiện qua khối lượng tăng. Xu hướng yếu kém vẫn tiếp tục, cần theo dõi để xác định đáy.
 
 

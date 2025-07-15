@@ -24,5 +24,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại sau các phiên kiểm tra cung, cho thấy tiềm năng bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-11:** Sau phiên tăng giá, hôm nay VPG tăng từ 8.13 lên 8.29. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1.4 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VPG giảm từ 8.29 xuống 8.2. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (787k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên tăng mạnh, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, VPG giữ nguyên từ 8.2 xuống 8.2. Cây nến đi ngang có biên độ hẹp. Khối lượng giao dịch không đổi (825k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục. Việc giá đi ngang trên khối lượng thấp cho thấy cân bằng cung cầu. Đây là một tín hiệu tích cực, thể hiện sự kiểm soát của lực cầu sau các phiên tăng trước đó.
 
 

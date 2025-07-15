@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay HAG tăng vọt từ 13.45 lên 14.1. Cây nến tăng có biên độ rất rộng. Khối lượng giao dịch tăng vọt (18.74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng rất lớn, cho thấy khả năng bắt đầu một đợt phục hồi mạnh mẽ.
+- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise** mạnh mẽ, hôm nay HAG giảm từ 14.1 xuống 13.65. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (11.19 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
 
 

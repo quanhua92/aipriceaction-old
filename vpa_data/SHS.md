@@ -42,7 +42,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng mạnh trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất, giúp phe mua dễ dàng đẩy giá lên mà không cần tốn nhiều sức lực. Tín hiệu rất tích cực, củng cố mạnh mẽ cho xu hướng tăng.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ, phiên hôm nay SHS giảm từ 14.5 xuống 14.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng vọt (18.71 triệu đơn vị) so với các phiên cạn kiệt trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau chuỗi tín hiệu **No Supply** trước đó. Việc giá giảm nhẹ với khối lượng tăng cho thấy áp lực bán chốt lời đã xuất hiện, nhưng không đủ mạnh để phủ nhận xu hướng tăng tổng thể. Đây là một nhịp điều chỉnh bình thường trong xu hướng tăng.
-- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay SHS tăng từ 14.4 lên 14.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (40.18 triệu đơn vị).
+- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay SHS tăng từ 14.4 lên 14.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (40.22 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay SHS tăng nhẹ từ 14.6 lên 14.7. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (31.90 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời nhẹ xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường trong xu hướng tăng.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay SHS tăng mạnh từ 14.7 lên 15.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch cạn kiệt (12.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng mạnh trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực, củng cố mạnh mẽ cho xu hướng tăng.
 
 

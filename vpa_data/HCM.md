@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay HCM tiếp tục tăng từ 25.05 lên 25.0. Cây nến có biên độ rộng. Khối lượng giao dịch giảm (19.96 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Sau phiên tăng mạnh, áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Tín hiệu vẫn tích cực cho xu hướng tăng.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, hôm nay HCM tăng từ 25.0 lên 25.25. Cây nến tăng có biên độ rộng với mức cao 26.4. Khối lượng giao dịch tăng (26.82 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Việc giá có test lên mức cao 26.4 cho thấy sức mạnh của lực cầu. Tín hiệu rất tích cực.
 
 

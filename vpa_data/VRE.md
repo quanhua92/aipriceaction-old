@@ -44,5 +44,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
 - **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay VRE giảm từ 28.7 xuống 28.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (7.71 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+- **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply** rất tích cực, VRE giữ nguyên từ 28.6 lên 28.65. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (6.67 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục rất tích cực. Việc giá đi ngang trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply** tiếp tục rất tích cực, VRE giảm từ 28.65 xuống 28.15. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.65 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Đây là một phiên **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình sau chuỗi tăng mạnh.
 
 

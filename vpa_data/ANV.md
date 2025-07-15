@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, hoặc một **Automatic Rally (AR)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-14:** Giá đi ngang nhẹ từ 22.7 xuống 22.5. Cây nến có biên độ rộng với high cao 23.3 nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm (2.61 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** hoặc **Secondary Test (ST)**. Việc giá có test lên cao nhưng không thể duy trì và khối lượng giảm cho thấy lực cầu yếu. Tiếp nối tín hiệu No Demand trước đó, đây là dấu hiệu cần quan sát thêm về khả năng tiếp tục điều chỉnh.
+- **Ngày 2025-07-15:** Sau tín hiệu **Test for Supply** thất bại, hôm nay ANV tiếp tục giảm từ 22.7 xuống 22.3. Cây nến giảm có biên độ vừa phải với mức thấp 22.2. Khối lượng giao dịch tăng (3.62 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc test supply thất bại đã xác nhận sự yếu kém của lực cầu, và giá tiếp tục giảm trên khối lượng tăng cho thấy áp lực bán vẫn duy trì. Xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
 

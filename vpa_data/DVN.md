@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
 - **Ngày 2025-07-14:** Tiếp nối tình trạng thiếu động lực, hôm nay DVN tăng nhẹ từ 23.2 lên 23.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch cạn kiệt (51.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo.
+- **Ngày 2025-07-15:** DVN giảm nhẹ từ 23.3 xuống 23.2. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (68.7k đơn vị) nhưng vẫn ở mức cạn kiệt.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo. Cần có thêm khối lượng giao dịch để xác định xu hướng.
 
 

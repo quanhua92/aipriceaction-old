@@ -38,7 +38,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply**, phiên hôm nay PVS tăng mạnh từ 32.8 lên 33.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (10.24 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay PVS giảm từ 33.6 xuống 33.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (1.8k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** cực kỳ tích cực. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu **No Supply**, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay PVS giảm từ 33.6 xuống 33.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (5.1 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Việc giá điều chỉnh nhẹ trên khối lượng khá tốt cho thấy áp lực bán không mạnh. Đây là một nhịp điều chỉnh bình thường sau đợt tăng.
+- **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply**, hôm nay PVS tăng nhẹ từ 33.1 lên 33.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tương tự (5.2 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Rise** nhẹ. Lực cầu đã quay trở lại để tiếp tục xu hướng tăng, dù chưa mạnh mẽ. Tín hiệu tích cực trong bối cảnh hồi phục.
+- **Ngày 2025-07-15:** Sau phiên **Effort to Rise**, hôm nay PVS giảm từ 33.3 xuống 33.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch cạn kiệt (15.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply (Không có Nguồn cung)** cực kỳ tích cực. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu tích cực, tạo điều kiện thuận lợi cho xu hướng tăng tiếp tục.
 
 

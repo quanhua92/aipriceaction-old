@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn. Tín hiệu rất tiêu cực.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall** mạnh mẽ, hôm nay CII tăng vọt từ 14.95 lên 15.4. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng mạnh (27.55 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, có thể là một **Automatic Rally (AR)** sau khi giá đã giảm. Tuy nhiên, sau chuỗi tín hiệu phân phối (**Buying Climax**) rõ ràng trước đó, cần theo dõi các phiên kiểm tra cung tiếp theo để xác định liệu đây chỉ là một cú hồi kỹ thuật hay bắt đầu một giai đoạn tích lũy mới.
+- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise** mạnh mẽ, hôm nay CII giảm từ 15.6 xuống 15.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (16.07 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau Automatic Rally. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán không quá mạnh. Đây có thể là một **Secondary Test (ST)** tích cực, tuy nhiên cần theo dõi thêm để xác nhận liệu đây có phải là bước đầu của giai đoạn tích lũy.
 
 

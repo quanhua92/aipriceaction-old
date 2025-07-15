@@ -42,7 +42,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phiên hôm nay SSI tăng từ 28.55 lên 28.95. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (51.79 triệu đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
-- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay SSI tăng mạnh từ 28.95 lên 29.65. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (62.9 triệu đơn vị).
+- **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay SSI tăng mạnh từ 28.95 lên 29.65. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (62.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay SSI tăng nhẹ từ 29.65 lên 29.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (51.49 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời nhẹ xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường trong xu hướng tăng mạnh.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay SSI tăng mạnh từ 29.75 lên 30.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (62.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu tiếp tục mạnh mẽ và đẩy giá lên mức cao mới. Xu hướng tăng vẫn rất mạnh với sự tham gia của khối lượng lớn. Tín hiệu rất tích cực.
 
 

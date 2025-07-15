@@ -44,7 +44,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại.
 - **Ngày 2025-07-11:** Sau phiên tăng giá, hôm nay PLX giảm từ 37.9 xuống 37.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1,225,215 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
-- **Ngày 2025-07-14:** PLX giảm từ 37.7 xuống 37.5. Cây nến giảm có biên độ vừa phải với mức thấp nhất 37.3. Khối lượng giao dịch tương tự (1,235,600 đơn vị).
+- **Ngày 2025-07-14:** PLX giảm từ 37.7 xuống 37.5. Cây nến giảm có biên độ vừa phải với mức thấp nhất 37.3. Khối lượng giao dịch tương tự (1.24 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply**, phiên giảm giá với khối lượng tương tự này tiếp tục là một tín hiệu **Test for Supply** hoặc **No Demand** nhẹ. Lực cầu chưa đủ mạnh để ngăn chặn đà giảm. Tín hiệu trung tính thiên tiêu cực.
+- **Ngày 2025-07-15:** Tiếp nối tín hiệu **Test for Supply**, hôm nay PLX giảm từ 37.5 xuống 37.3. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (1.46 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** nhẹ. Việc giá giảm trên khối lượng tăng sau các phiên Test for Supply cho thấy áp lực bán vẫn còn hiện hữu. Tình hình thiên tiêu cực, cần quan sát thêm.
 
 

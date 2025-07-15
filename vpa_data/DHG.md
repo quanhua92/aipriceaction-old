@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** trên nền khối lượng cạn kiệt. Áp lực bán gần như không có. Tín hiệu này vẫn rất tích cực, củng cố cho sự cạn kiệt của nguồn cung.
 - **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply** trên nền khối lượng cạn kiệt, hôm nay DHG đi ngang, đóng cửa ở mức 100.5. Cây nến có biên độ rất hẹp. Khối lượng giao dịch CẠN KIỆT (6.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp diễn. Việc giá đi ngang trên khối lượng cực kỳ thấp cho thấy áp lực bán gần như không tồn tại, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn khi có lực cầu xuất hiện.
+- **Ngày 2025-07-15:** DHG giảm nhẹ từ 100.6 xuống 100.5. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (22.3k đơn vị) nhưng vẫn ở mức cạn kiệt.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp diễn. Dù khối lượng tăng nhẹ, nhưng vẫn ở mức cực thấp và giá chỉ giảm nhẹ, cho thấy áp lực bán gần như không tồn tại. Điều này củng cố tín hiệu **No Supply** và tạo điều kiện thuận lợi cho xu hướng tăng khi có lực cầu.
 
 

@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay VGT tăng nhẹ từ 12.0 lên 12.1. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+- **Ngày 2025-07-15:** VGT giảm từ 12.2 xuống 12.0 với đỉnh ngày đạt 12.3. Nến có biên độ rộng. Khối lượng giao dịch giảm (1.19 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **No Demand** - Sau cú hồi kỹ thuật yếu ớt, việc giá giảm trên khối lượng giảm cho thấy thiếu sự quan tâm từ cả hai phía. Lực cầu vẫn yếu và chưa có dấu hiệu phục hồi thực sự.
 
 

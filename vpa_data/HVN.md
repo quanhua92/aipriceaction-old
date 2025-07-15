@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang hoàn toàn kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay HVN tăng nhẹ từ 37.35 lên 37.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.22 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** trên nền khối lượng cạn kiệt. Áp lực bán đã giảm bớt đáng kể, cho thấy lực bán có thể đang cạn kiệt. Tín hiệu tích cực cho khả năng kết thúc đợt điều chỉnh.
+- **Ngày 2025-07-15:** HVN tăng từ 37.3 lên 37.6. Nến tăng có biên độ vừa phải với giá cao nhất đạt 38.0. Khối lượng giao dịch tăng (2.37 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** trên nền khối lượng cạn kiệt, sự tăng giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại mạnh mẽ, xác nhận khả năng kết thúc đợt điều chỉnh và bắt đầu xu hướng phục hồi.
 
 

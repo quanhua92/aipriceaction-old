@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Việc đi ngang với khối lượng tăng cho thấy sự cân bằng giữa cung và cầu ở mức giá này. Đây có thể là một **Test for Supply** hoặc giai đoạn tích lũy. Cần theo dõi để xác định hướng đi tiếp theo.
 - **Ngày 2025-07-11:** Sau phiên đi ngang, hôm nay VCG giảm từ 23.15 xuống 22.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (12.22 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-15:** VCG giảm từ 23.3 xuống 22.85 với đỉnh ngày đạt 23.45. Nến có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (10.16 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau khi thử nghiệm vùng kháng cự 23.45, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn. Việc khối lượng giảm so với phiên trước cho thấy áp lực bán không quá mạnh, tiếp tục xác nhận đây là một nhịp kiểm tra bình thường.
 
 

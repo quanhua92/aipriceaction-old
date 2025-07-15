@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
 - **Ngày 2025-07-14:** Sau phiên **Effort to Rise**, hôm nay VCB giảm nhẹ từ 62.9 xuống 62.4. Cây nến giảm có biên độ rộng với low thấp 61.0. Khối lượng giao dịch giảm mạnh (6.47 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test xuống thấp nhưng khối lượng giảm mạnh cho thấy áp lực bán không lớn. Tiếp nối tín hiệu Effort to Rise trước đó, đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
+- **Ngày 2025-07-15:** VCB giảm từ 62.4 xuống 61.4 với đỉnh ngày đạt 62.6. Nến có biên độ rộng. Khối lượng giao dịch giảm nhẹ (6.27 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Tiếp nối phiên Test for Supply trước đó, việc giá tiếp tục giảm nhưng khối lượng vẫn duy trì thấp cho thấy áp lực bán không mạnh. Đây là một nhịp điều chỉnh bình thường trong xu hướng tăng, chưa phải tín hiệu xấu.
 
 

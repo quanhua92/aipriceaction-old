@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng các phiên kiểm tra cung đã thành công và phe mua đã hấp thụ hết lực bán, sẵn sàng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay BMP đi ngang từ 144.5 xuống 144.0. Cây nến có biên độ rộng với high cao 146.2. Khối lượng giao dịch giảm (106.2k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test lên cao nhưng đóng cửa thấp hơn với khối lượng giảm cho thấy áp lực bán nhẹ xuất hiện. Tiếp nối tín hiệu Effort to Rise trước đó, đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
+- **Ngày 2025-07-15:** Sau tín hiệu **Test for Supply**, hôm nay BMP tiếp tục giảm từ 144.0 xuống 141.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm nhẹ (99.3k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** trong bối cảnh test supply. Việc giá giảm tiếp tục sau test cao thất bại cho thấy áp lực bán gia tăng. Cần quan sát thêm để xác định liệu đây có phải là điều chỉnh tạm thời hay bắt đầu của một xu hướng yếu đi.
 
 

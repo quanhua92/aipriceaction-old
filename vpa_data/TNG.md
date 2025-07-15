@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá tiếp tục giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay TNG giảm nhẹ từ 20.6 xuống 20.5. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (2.4 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+- **Ngày 2025-07-15:** TNG giảm từ 20.7 xuống 20.6 với đỉnh ngày đạt 21.1. Nến có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch tăng (1.76 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau khi thử nghiệm vùng kháng cự 21.1, áp lực bán đã xuất hiện khiến giá đóng cửa gần mức thấp nhất phiên. Việc khối lượng tăng cùng với việc giá không thể duy trì ở mức cao cho thấy nguồn cung vẫn áp đảo tại vùng kháng cự.
 
 

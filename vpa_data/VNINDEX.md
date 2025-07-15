@@ -95,5 +95,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực.
 - **Ngày 2025-07-11:** Tiếp nối chuỗi tăng giá mạnh mẽ, hôm nay VNINDEX tăng vọt từ 1445.64 điểm lên 1457.76 điểm. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (1.26 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
+- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise** mạnh mẽ ngày 11/7, VNINDEX mở cửa cao (1473.8 điểm) và tăng lên mức cao nhất 1476.32 điểm nhưng sau đó giảm xuống đóng cửa ở 1460.65 điểm. Cây nến có biên độ rộng với bóng trên dài, thể hiện sự giằng co. Khối lượng giao dịch tăng (1.41 tỷ đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** quan trọng. Sau chuỗi tăng mạnh liên tiếp, việc giá mở cao nhưng bị đẩy xuống trên khối lượng tăng cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tín hiệu cảnh báo cần quan sát thêm để xác định liệu phe mua có thể vượt qua được áp lực cung này hay không.
 
 

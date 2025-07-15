@@ -40,34 +40,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
 - **Ngày 2025-07-11:** Tiếp nối phiên **Test for Supply** thành công, hôm nay TPB đi ngang từ 14.85 lên 14.85. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng (26.33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** ở vùng đỉnh. Sau phiên bùng nổ, thị trường đang tạm nghỉ để hấp thụ lực bán. Việc giá không giảm mạnh trên nền khối lượng vẫn còn cao là một tín hiệu tích cực.
-
-
-
-# TV2
-
-- **Ngày 2025-06-26:** TV2 tăng từ 36.95 lên 37.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (303.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày đi ngang và giảm nhẹ, phiên phục hồi với khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để tạo ra một xu hướng tăng bền vững.
-- **Ngày 2025-06-27:** TV2 tăng từ 37.2 lên 37.8. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (830.4k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu "No Demand" trước đó và cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
-- **Ngày 2025-06-30:** TV2 giảm từ 37.8 xuống 37.45. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (326.6k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên "Effort to Rise" mạnh mẽ, phiên giảm điểm với khối lượng thấp này là một **Test for Supply**. Áp lực bán không lớn, là một tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp diễn.
-- **Ngày 2025-07-01:** TV2 giảm từ 37.45 xuống 36.9. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (621.9k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm này cho thấy sự do dự. Lực cầu vẫn chưa đủ mạnh để xác nhận xu hướng phục hồi một cách dứt khoát.
-- **Ngày 2025-07-02:** TV2 đi ngang, đóng cửa ở mức 36.9. Nến có biên độ hẹp. Khối lượng giao dịch giảm (303k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm, phiên đi ngang với khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ để đảo ngược tình thế. Tình hình vẫn tiêu cực.
-- **Ngày 2025-07-03:** TV2 tăng từ 36.9 lên 37.25. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (473k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
-- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay TV2 tăng mạnh từ 37.25 lên 38.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (816.3k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay TV2 tăng mạnh từ 38.1 lên 38.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (1.15 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
-- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay TV2 giảm từ 38.9 xuống 38.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (518.3k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
-- **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay TV2 giảm từ 38.6 xuống 38.25. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (719.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
-- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay TV2 tăng từ 38.25 lên 38.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (653.4k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
-- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay TV2 giảm từ 38.9 xuống 38.35. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (477.8k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho tín hiệu **Effort to Fall** trước đó và cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
-
+- **Ngày 2025-07-15:** TPB giảm từ 14.95 xuống 14.75 với đỉnh ngày đạt 15.1. Nến có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (19.39 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau khi thử nghiệm vùng kháng cự 15.1, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn. Tuy nhiên, việc khối lượng giảm so với phiên trước cho thấy áp lực bán không quá mạnh, đây vẫn là một nhịp kiểm tra bình thường trong xu hướng tăng.
 

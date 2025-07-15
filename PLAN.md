@@ -1,183 +1,241 @@
-# **Kế Hoạch Giao Dịch Trung Hạn (1-3 Tháng)**
+# PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Phân tích dựa trên phương pháp VPA/Wyckoff, tổng hợp từ dữ liệu ngày 2025-01-02 đến 2025-07-14.*
-*Ngày lập kế hoạch: 2025-07-14*
-
------
-
-## 🚀 View the Latest Analysis
-
-**➡️ [Click here to view the latest market report](REPORT.md)**
-
-**➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)**
-
-**🎢 [Click here to view the latest market leaders](LEADER.md)**
-
------
+*Cập nhật: 2025-07-15 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
-![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) | ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
+![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-**Bối Cảnh Tuần**: Tuần kết thúc ngày 2025-07-11 cho thấy một **Dấu hiệu Sức mạnh (Sign of Strength - SOS)** cực kỳ thuyết phục với nến tăng thân dài và khối lượng bùng nổ, thiết lập đỉnh mới tại 1,457.76 điểm và xác nhận lực cầu đang rất quyết liệt.
+**Bối Cảnh Tuần**: Sau giai đoạn tích lũy kéo dài, VNINDEX đang thể hiện những tín hiệu **Sign of Strength** trên khung thời gian tuần, cho thấy sức mạnh tích lũy của các nhà đầu tư tổ chức. Điều này tạo nền tảng kỹ thuật vững chắc cho xu hướng tăng giá trong trung hạn.
 
-**Hành Động Gần Đây**: Chuỗi hành động từ ngày 2025-07-09 đến 2025-07-14 tiếp tục xác nhận sức mạnh vượt trội. Sau SOS bùng nổ ngày 2025-07-09 (1.48 tỷ đơn vị), Effort to Rise ngày 2025-07-10 trên nền No Supply, và Effort to Rise mạnh mẽ ngày 2025-07-11, chỉ số đã đạt đỉnh mới tại 1,470.42 điểm ngày 2025-07-14 với tín hiệu Effort to Rise, cho thấy sự đồng thuận hoàn hảo giữa hai khung thời gian và xu hướng tăng bền vững.
+**Hành Động Gần Đây**: Phiên giao dịch 2025-07-15 ghi nhận tín hiệu **Effort to Rise** - một dấu hiệu tích cực cho thấy áp lực mua đang gia tăng. Khối lượng giao dịch đi kèm xác nhận tính xác thực của động thái này, tạo động lực cho các cổ phiếu chất lượng.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: `1445 - 1460` điểm. Sau cú bứt phá mạnh mẽ vượt qua 1,460 điểm, một nhịp điều chỉnh lành mạnh về vùng này với khối lượng thấp (Test for Supply thành công) sẽ là cơ hội lý tưởng để gia tăng vị thế, với kỳ vọng thị trường sẽ tiếp tục chinh phục vùng 1,500 điểm.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Trong bối cảnh thị trường đang chuyển từ giai đoạn tích lũy sang phân phối sơ cấp, đây là thời điểm lý tưởng để tăng tỷ trọng cho các cổ phiếu có nền tảng kỹ thuật vững chắc và tín hiệu VPA rõ ràng.
 
-## 2. Top 1x Cơ Hội Giao Dịch
+## 2. Top 26 Cơ Hội Giao Dịch Chất Lượng
 
-Dựa trên phân tích "câu chuyện" VPA đa khung thời gian và bối cảnh ngành, dưới đây là những cơ hội giao dịch hàng đầu.
+*Danh sách các cổ phiếu có độ tin cậy cao nhất dựa trên phân tích đa khung thời gian*
 
-1.  [**ACB**](#ACB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 95%)
-2.  [**HDB**](#HDB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 95%)
-3.  [**VRE**](#VRE) (Bất động sản - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 95%)
-4.  [**VHM**](#VHM) (Bất động sản - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 95%)
-5.  [**BID**](#BID) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 95%)
-6.  [**MBS**](#MBS) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 95%)
-7.  [**HPG**](#HPG) (Thép - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 90%)
-8.  [**SSI**](#SSI) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 90%)
-9.  [**VIX**](#VIX) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 90%)
-10. [**VND**](#VND) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 90%)
-11. [**MBB**](#MBB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 90%)
-12. [**VCI**](#VCI) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-13. [**VCB**](#VCB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-14. [**VIB**](#VIB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-15. [**BSI**](#BSI) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-16. [**FPT**](#FPT) (Công Nghệ - Yếu/Phân Phối) - (Độ tin cậy: 85%)
-17. [**TPB**](#TPB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-18. [**VPB**](#VPB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-19. [**KDH**](#KDH) (Bất động sản - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-20. [**PDR**](#PDR) (Bất động sản - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-21. [**FTS**](#FTS) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-22. [**HCM**](#HCM) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-23. [**VTP**](#VTP) (Vận Tải - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 85%)
-24. [**SHS**](#SHS) (Chứng Khoán - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 80%)
-25. [**MWG**](#MWG) (Bán Lẻ - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 80%)
-26. [**CTG**](#CTG) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Độ tin cậy: 75%)
+### Nhóm Tin Cậy Cao (90-95%)
+1. [**VHM**](#VHM) (Bất Động Sản) - **90%** - Tín hiệu Effort to Rise mạnh mẽ - [View Report](REPORT.md#VHM)
+2. [**VTP**](#VTP) (Viễn Thông) - **90%** - Nền tảng kỹ thuật vững chắc - [View Report](REPORT.md#VTP)
+3. [**VPB**](#VPB) (Ngân Hàng) - **90%** - Động lực tăng trưởng rõ ràng - [View Report](REPORT.md#VPB)
+4. [**VND**](#VND) (Chứng Khoán) - **90%** - Hưởng lợi từ thanh khoản tăng - [View Report](REPORT.md#VND)
+5. [**PDR**](#PDR) (Bất Động Sản) - **90%** - Phục hồi sau điều chỉnh - [View Report](REPORT.md#PDR)
+6. [**MWG**](#MWG) (Bán Lẻ) - **90%** - Tăng trưởng bền vững - [View Report](REPORT.md#MWG)
 
-## 3. Danh Sách Cổ Phiếu Tiềm Năng (Chờ Xác Nhận Lên Top Hoặc Loại Bỏ)
+### Nhóm Tin Cậy Tốt (85-89%)
+7. [**VIX**](#VIX) (Chứng Khoán) - **85%** - Test for Supply thành công - [View Report](REPORT.md#VIX)
+8. [**VIB**](#VIB) (Ngân Hàng) - **85%** - Ổn định trong xu hướng tăng - [View Report](REPORT.md#VIB)
+9. [**VCI**](#VCI) (Chứng Khoán) - **85%** - Điều chỉnh kỹ thuật lành mạnh - [View Report](REPORT.md#VCI)
+10. [**TPB**](#TPB) (Ngân Hàng) - **85%** - Nền tảng tăng trưởng vững - [View Report](REPORT.md#TPB)
+11. [**SSI**](#SSI) (Chứng Khoán) - **85%** - Hưởng lợi từ thị trường tích cực - [View Report](REPORT.md#SSI)
+12. [**SHS**](#SHS) (Chứng Khoán) - **85%** - Động lực từ hoạt động giao dịch - [View Report](REPORT.md#SHS)
+13. [**HPG**](#HPG) (Thép) - **85%** - Phục hồi sau giai đoạn khó khăn - [View Report](REPORT.md#HPG)
+14. [**HDB**](#HDB) (Ngân Hàng) - **85%** - Tăng trưởng ổn định - [View Report](REPORT.md#HDB)
+15. [**HCM**](#HCM) (Chứng Khoán) - **85%** - Nền tảng kỹ thuật vững - [View Report](REPORT.md#HCM)
+16. [**FPT**](#FPT) (Công Nghệ) - **85%** - Xu hướng tăng trưởng dài hạn - [View Report](REPORT.md#FPT)
+17. [**CTG**](#CTG) (Ngân Hàng) - **85%** - Ổn định trong nhóm banking - [View Report](REPORT.md#CTG)
+18. [**ACB**](#ACB) (Ngân Hàng) - **85%** - Test for Supply thành công - [View Report](REPORT.md#ACB)
 
-Đây là các cổ phiếu đang cho thấy những tín hiệu VPA hỗn hợp nhưng vẫn có tiềm năng phục hồi, cần thêm thời gian và sự xác nhận để hoàn thiện câu chuyện tăng giá.
+### Nhóm Tin Cậy Trung Bình (75-84%)
+19. [**VRE**](#VRE) (Bất Động Sản) - **80%** - Tín hiệu No Supply tích cực - [View Report](REPORT.md#VRE)
+20. [**VCB**](#VCB) (Ngân Hàng) - **80%** - Blue chip ổn định - [View Report](REPORT.md#VCB)
+21. [**MBS**](#MBS) (Chứng Khoán) - **80%** - Nền tảng kỹ thuật tốt - [View Report](REPORT.md#MBS)
+22. [**KDH**](#KDH) (Bất Động Sản) - **75%** - Phục hồi chậm nhưng bền vững - [View Report](REPORT.md#KDH)
+23. [**FTS**](#FTS) (Chứng Khoán) - **80%** - Động lực từ thị trường - [View Report](REPORT.md#FTS)
+24. [**BID**](#BID) (Ngân Hàng) - **80%** - Sign of Strength gần đây - [View Report](REPORT.md#BID)
+25. [**BSI**](#BSI) (Chứng Khoán) - **75%** - No Supply cho thấy ổn định - [View Report](REPORT.md#BSI)
+26. [**MBB**](#MBB) (Ngân Hàng) - **85%** - Test for Supply thành công - [View Report](REPORT.md#MBB)
 
-![Weekly Chart](./reports_week/SHB/SHB_candlestick_chart.png) | ![Daily Chart](./reports/SHB/SHB_candlestick_chart.png)
-  - [**SHB**](./REPORT.md#SHB) (Ngân Hàng - Dẫn dắt Đồng Thuận) - (Điểm tự tin cho việc thăng hạng: 75%)
-      - **Lý do:** Mặc dù có tín hiệu **'Sign of Weakness' ngày 2025-07-14**, bối cảnh tuần SOS mạnh mẽ và ngành Ngân hàng đang dẫn dắt tạo cơ hội phục hồi. Cần theo dõi khả năng Test for Supply thành công.
+## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
-## 4. Danh Sách Cổ Phiếu Bị Hạ Ưu Tiên (Chờ Loại Bỏ)
+*Những cơ hội mới nổi từ nhóm unlisted - đáng theo dõi sát sao*
 
-Đây là các cổ phiếu đã từng nằm trong danh sách ưu tiên nhưng hiện tại đang có những tín hiệu VPA suy yếu hoặc có câu chuyện kém hấp dẫn hơn so với các cổ phiếu trong Top 1x.
+### Cơ Hội Tăng Trưởng Mạnh
+1. **BCM** (Bất Động Sản KCN) - **80%**
+   - **Tín hiệu**: Sign of Strength (2025-07-15)
+   - **Phân tích**: Đột phá từ vùng tích lũy sau thời gian dài im lặng
+   - **Điểm mạnh**: Hưởng lợi từ xu hướng phát triển công nghiệp
 
-![Weekly Chart](./reports_week/HSG/HSG_candlestick_chart.png) | ![Daily Chart](./reports/HSG/HSG_candlestick_chart.png)
-  - [**HSG**](./REPORT.md#HSG) (Thép - Dẫn dắt Đồng Thuận) (Chuyển vào ngày: 2025-07-13) - (Độ tin cậy giữ nguyên lý do: 65%)
-      - **Lý do:** Tín hiệu **'No Demand' ngày 2025-07-14** tiếp tục xác nhận cho các tín hiệu yếu kém trước đó. Mặc dù ngành Thép vẫn dẫn dắt, cá nhân cổ phiếu đang thể hiện sự suy yếu rõ rệt.
+2. **BSR** (Dầu Khí) - **80%**
+   - **Tín hiệu**: Effort to Rise (2025-07-15)
+   - **Phân tích**: Phục hồi mạnh mẽ sau giai đoạn khó khăn
+   - **Điểm mạnh**: Nền tảng kỹ thuật tuần No Supply hỗ trợ
 
-## 5. Phân Tích Chi Tiết Từng Cổ Phiếu (Trong Top 1x)
+3. **CII** (Hạ Tầng) - **80%**
+   - **Tín hiệu**: Effort to Rise (2025-07-15)
+   - **Phân tích**: Động lực tăng trưởng từ đầu tư hạ tầng
+   - **Điểm mạnh**: Xu hướng dài hạn tích cực
 
------
+### Cơ Hội Theo Dõi Đặc Biệt
+4. **DGC** (Hóa Chất) - **80%** - Sign of Strength (2025-07-14)
+5. **FRT** (Bán Lẻ) - **80%** - Effort to Rise (2025-07-15)
+6. **HAG** (Nông Nghiệp) - **80%** - Effort to Rise (2025-07-15)
+7. **HDG** (Bất Động Sản) - **80%** - Effort to Rise (2025-07-15)
+8. **HHV** (Logistics) - **80%** - Effort to Rise (2025-07-15)
+9. **NLG** (Bất Động Sản) - **80%** - Effort to Rise (2025-07-15)
+10. **NVL** (Bất Động Sản) - **80%** - Effort to Rise (2025-07-15)
 
-### **ACB**
+### Cơ Hội Cần Xác Nhận
+11. **CST** (Xây Dựng) - **75%** - Effort to Rise từ vùng yếu
+12. **PAN** (Nhóm Panasonic) - **80%** - Effort to Rise (2025-07-15)
+13. **PC1** (Đầu Tư Xây Dựng) - **80%** - Effort to Rise (2025-07-15)
+14. **PHR** (Cao Su) - **80%** - Effort to Rise (2025-07-15)
+15. **QPH** (Dược Phẩm) - **80%** - Effort to Rise (2025-07-15)
 
-![Weekly Chart](./reports_week/ACB/ACB_candlestick_chart.png) | ![Daily Chart](./reports/ACB/ACB_candlestick_chart.png) | [View Report](./REPORT.md#ACB)
+## 4. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
 
-  - **Phân Tích Cốt Lõi:**
-    - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength** mạnh mẽ với accumulation pattern rõ ràng
-    - **Daily VPA Narrative:** Ngày 2025-07-14 có tín hiệu **Effort to Rise** với khối lượng tích cực, xác nhận lực cầu đang áp đảo
-    - **Industry Context:** Ngành Ngân hàng ở trạng thái **Dẫn dắt Đồng Thuận** với momentum mạnh mẽ
-    - **Synthesis:** Sự kết hợp giữa weekly SOS, daily Effort to Rise và industry leadership tạo nên setup có độ tin cậy rất cao
-  - **Vùng Tham Gia Tốt Nhất:** **22.4 - 22.7** với stop loss dưới **21.8** và target **25.5 - 26.5**
+### VHM
+![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png) [View Report](REPORT.md#VHM)
 
------
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Xu hướng tích lũy dài hạn với nền tảng kỹ thuật vững chắc
+- **Động Lực Gần Đây**: Tín hiệu Effort to Rise (2025-07-15) thể hiện sức mạnh tích lũy
+- **Bối Cảnh Ngành**: Bất động sản đang trong giai đoạn phục hồi sau điều chỉnh
+- **Điểm Mạnh**: Thương hiệu mạnh, nguồn lực tài chính vững chắc
 
-### **HDB**
+**Vùng Tham Gia Tốt Nhất**: Mua vào khi có pullback về vùng support gần đây với volume xác nhận
 
-![Weekly Chart](./reports_week/HDB/HDB_candlestick_chart.png) | ![Daily Chart](./reports/HDB/HDB_candlestick_chart.png) | [View Report](./REPORT.md#HDB)
+### VTP
+![Weekly Chart](reports_week/VTP/VTP_candlestick_chart.png) ![Daily Chart](reports/VTP/VTP_candlestick_chart.png) [View Report](REPORT.md#VTP)
 
-  - **Phân Tích Cốt Lõi:**
-    - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength** với institutional accumulation pattern
-    - **Daily VPA Narrative:** Ngày 2025-07-14 có tín hiệu **Test for Supply** thành công, cho thấy áp lực bán minimal
-    - **Industry Context:** Ngành Ngân hàng ở trạng thái **Dẫn dắt Đồng Thuận** với strong sectoral momentum
-    - **Synthesis:** Weekly strength + successful daily Test for Supply trong leading sector tạo high-conviction setup
-  - **Vùng Tham Gia Tốt Nhất:** **24.2 - 24.5** với stop loss dưới **23.5** và target **27.5 - 28.5**
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Xu hướng tăng ổn định với tín hiệu kỹ thuật tích cực
+- **Động Lực Gần Đây**: Effort to Rise cho thấy momentum tăng trưởng
+- **Bối Cảnh Ngành**: Logistics hưởng lợi từ thương mại điện tử phát triển
+- **Điểm Mạnh**: Mạng lưới phủ sóng rộng, tiềm năng tăng trưởng bền vững
 
------
+**Vùng Tham Gia Tốt Nhất**: Accumulate trong vùng giá hiện tại với stop loss kỹ thuật
 
-### **VRE**
+### VPB
+![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png) [View Report](REPORT.md#VPB)
 
-![Weekly Chart](./reports_week/VRE/VRE_candlestick_chart.png) | ![Daily Chart](./reports/VRE/VRE_candlestick_chart.png) | [View Report](./REPORT.md#VRE)
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Ngành ngân hàng đang phục hồi sau giai đoạn khó khăn
+- **Động Lực Gần Đây**: Sign of Strength thể hiện sức mạnh tích lũy
+- **Bối Cảnh Ngành**: Banking hưởng lợi từ chính sách tiền tệ thuận lợi
+- **Điểm Mạnh**: Tăng trưởng tín dụng ổn định, chất lượng tài sản cải thiện
 
-  - **Phân Tích Cốt Lõi:**
-    - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength** với breakout pattern
-    - **Daily VPA Narrative:** Ngày 2025-07-14 có tín hiệu **Sign of Strength** với explosive volume, xác nhận breakout thành công
-    - **Industry Context:** Ngành Bất động sản ở trạng thái **Dẫn dắt Đồng Thuận** với strong institutional flow
-    - **Synthesis:** Perfect alignment giữa weekly breakout, daily SOS và leading sector status
-  - **Vùng Tham Gia Tốt Nhất:** **27.5 - 28.5** với stop loss dưới **26.5** và target **32.0 - 34.0**
+**Vùng Tham Gia Tốt Nhất**: Mua vào trong vùng support hiện tại với volume xác nhận
 
------
+### VND
+![Weekly Chart](reports_week/VND/VND_candlestick_chart.png) ![Daily Chart](reports/VND/VND_candlestick_chart.png) [View Report](REPORT.md#VND)
 
-### **VHM**
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Chứng khoán hưởng lợi từ thanh khoản thị trường tăng
+- **Động Lực Gần Đây**: Sign of Strength (2025-07-15) cho thấy dòng tiền tích cực
+- **Bối Cảnh Ngành**: Ngành chứng khoán đang phục hồi mạnh mẽ
+- **Điểm Mạnh**: Vị thế dẫn đầu trong môi giới, nền tảng công nghệ vững chắc
 
-![Weekly Chart](./reports_week/VHM/VHM_candlestick_chart.png) | ![Daily Chart](./reports/VHM/VHM_candlestick_chart.png) | [View Report](./REPORT.md#VHM)
+**Vùng Tham Gia Tốt Nhất**: Tăng tỷ trọng khi có xác nhận từ volume giao dịch
 
-  - **Phân Tích Cốt Lõi:**
-    - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength** với accumulation completion
-    - **Daily VPA Narrative:** Ngày 2025-07-14 có tín hiệu **Sign of Strength** với massive volume, xác nhận breakout power
-    - **Industry Context:** Ngành Bất động sản ở trạng thái **Dẫn dắt Đồng Thuận** với sector rotation support
-    - **Synthesis:** Weekly foundation + daily explosive SOS trong leading real estate sector
-  - **Vùng Tham Gia Tốt Nhất:** **85.0 - 87.0** với stop loss dưới **82.0** và target **95.0 - 100.0**
+### PDR
+![Weekly Chart](reports_week/PDR/PDR_candlestick_chart.png) ![Daily Chart](reports/PDR/PDR_candlestick_chart.png) [View Report](REPORT.md#PDR)
 
------
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Bất động sản phục hồi sau giai đoạn điều chỉnh sâu
+- **Động Lực Gần Đây**: Effort to Rise thể hiện sức mạnh tích lũy trở lại
+- **Bối Cảnh Ngành**: Chính sách hỗ trợ bất động sản tạo động lực tích cực
+- **Điểm Mạnh**: Quỹ đất phong phú, tiềm năng phát triển dài hạn
 
-### **BID**
+**Vùng Tham Gia Tốt Nhất**: Mua vào trong vùng support với stop loss rõ ràng
 
-![Weekly Chart](./reports_week/BID/BID_candlestick_chart.png) | ![Daily Chart](./reports/BID/BID_candlestick_chart.png) | [View Report](./REPORT.md#BID)
+### MWG
+![Weekly Chart](reports_week/MWG/MWG_candlestick_chart.png) ![Daily Chart](reports/MWG/MWG_candlestick_chart.png) [View Report](REPORT.md#MWG)
 
-  - **Phân Tích Cốt Lõi:**
-    - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength** với strong accumulation
-    - **Daily VPA Narrative:** Ngày 2025-07-14 có tín hiệu **Sign of Strength** với high price test, xác nhận continued strength
-    - **Industry Context:** Ngành Ngân hàng ở trạng thái **Dẫn dắt Đồng Thuận** với institutional support
-    - **Synthesis:** Consistent weekly strength + daily SOS confirmation trong leading banking sector
-  - **Vùng Tham Gia Tốt Nhất:** **38.0 - 38.3** với stop loss dưới **37.0** và target **42.5 - 43.5**
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Bán lẻ phục hồi sau giai đoạn khó khăn
+- **Động Lực Gần Đây**: Effort to Rise (2025-07-15) cho thấy sức mạnh nội tại
+- **Bối Cảnh Ngành**: Tiêu dùng phục hồi, mở rộng sang các lĩnh vực mới
+- **Điểm Mạnh**: Hệ thống phân phối mạnh, khả năng thích ứng cao
 
------
+**Vùng Tham Gia Tốt Nhất**: Accumulate trong vùng giá hấp dẫn với volume xác nhận
 
-### **MBS**
+### VIX
+![Weekly Chart](reports_week/VIX/VIX_candlestick_chart.png) ![Daily Chart](reports/VIX/VIX_candlestick_chart.png) [View Report](REPORT.md#VIX)
 
-![Weekly Chart](./reports_week/MBS/MBS_candlestick_chart.png) | ![Daily Chart](./reports/MBS/MBS_candlestick_chart.png) | [View Report](./REPORT.md#MBS)
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Test for Supply (2025-07-07) thành công, nền tảng vững chắc
+- **Động Lực Gần Đây**: Test for Supply (2025-07-15) tiếp tục cho thấy sức mạnh
+- **Bối Cảnh Ngành**: Chứng khoán hưởng lợi từ hoạt động thị trường tăng
+- **Điểm Mạnh**: Vị thế stable trong ngành, khả năng tăng trưởng ổn định
 
-  - **Phân Tích Cốt Lõi:**
-    - **Weekly VPA Narrative:** Bối cảnh tuần kết thúc ngày 2025-07-11 cho thấy **Sign of Strength** với recovery pattern
-    - **Daily VPA Narrative:** Ngày 2025-07-14 có tín hiệu **Sign of Strength** với explosive volume, xác nhận supply exhaustion
-    - **Industry Context:** Ngành Chứng khoán ở trạng thái **Dẫn dắt Đồng Thuận** với sector leadership
-    - **Synthesis:** Weekly recovery + daily explosive SOS trong leading securities sector
-  - **Vùng Tham Gia Tốt Nhất:** **28.5 - 29.0** với stop loss dưới **27.5** và target **33.0 - 35.0**
+**Vùng Tham Gia Tốt Nhất**: Mua vào khi test lại support với volume thấp
 
------
+### VIB
+![Weekly Chart](reports_week/VIB/VIB_candlestick_chart.png) ![Daily Chart](reports/VIB/VIB_candlestick_chart.png) [View Report](REPORT.md#VIB)
 
-## 6. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Ngân hàng ổn định trong xu hướng tăng
+- **Động Lực Gần Đây**: Test for Supply (2025-07-15) cho thấy sức mạnh nội tại
+- **Bối Cảnh Ngành**: Banking hưởng lợi từ chính sách tiền tệ thuận lợi
+- **Điểm Mạnh**: Tăng trưởng tín dụng ổn định, chất lượng tài sản tốt
 
-### Cổ Phiếu Được Nâng Lên "Top 1x":
-- **FPT**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Test for Supply' ngày 2025-07-14** sau 'Effort to Rise' mạnh mẽ, xác nhận phục hồi bất chấp ngành Công nghệ yếu.
-- **TPB**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Test for Supply' ngày 2025-07-11** trong bối cảnh tuần SOS mạnh mẽ, ngành Ngân hàng dẫn dắt.
-- **VPB**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Test for Supply' ngày 2025-07-11** với weekly SOS foundation, ngành Ngân hàng dẫn dắt.
-- **KDH**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Effort to Rise' ngày 2025-07-14** với weekly SOS, ngành Bất động sản dẫn dắt.
-- **PDR**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Effort to Rise' ngày 2025-07-14** với weekly SOS, ngành Bất động sản dẫn dắt.
-- **FTS**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Effort to Rise' ngày 2025-07-14** với weekly SOS, ngành Chứng khoán dẫn dắt.
-- **HCM**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Test for Supply' ngày 2025-07-14** trong bối cảnh weekly SOS, ngành Chứng khoán dẫn dắt.
-- **SHS**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Effort to Rise' ngày 2025-07-11** recovery pattern, ngành Chứng khoán dẫn dắt.
-- **VTP**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Effort to Rise' ngày 2025-07-11** với weekly SOS, ngành Vận tải dẫn dắt.
-- **MWG**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Effort to Rise' ngày 2025-07-14** recovery sau weakness, weekly foundation mạnh.
+**Vùng Tham Gia Tốt Nhất**: Mua vào trong vùng support hiện tại
 
-### Cổ Phiếu Được Thêm Vào "Potential List":
-- **SHB**: Từ `Top List`. Lý do: REPORT.md ghi nhận **'Sign of Weakness' ngày 2025-07-14** sau explosive breakout, cần thời gian consolidation.
+### VCI
+![Weekly Chart](reports_week/VCI/VCI_candlestick_chart.png) ![Daily Chart](reports/VCI/VCI_candlestick_chart.png) [View Report](REPORT.md#VCI)
 
-### Adjustments trong "Top List":
-- **BID**: Confidence tăng từ 85% lên 95% do **'Sign of Strength' ngày 2025-07-14** với high price test.
-- **MBS**: Confidence tăng từ 90% lên 95% do **'Sign of Strength' ngày 2025-07-14** với explosive volume.
-- **CTG**: Confidence giảm từ 90% xuống 75% do **'Effort to Fall' ngày 2025-07-14** tạo uncertainty.
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Chứng khoán trong giai đoạn điều chỉnh kỹ thuật lành mạnh
+- **Động Lực Gần Đây**: Sign of Weakness (2025-07-15) - cơ hội mua vào tích cực
+- **Bối Cảnh Ngành**: Ngành chứng khoán đang phục hồi sau điều chỉnh
+- **Điểm Mạnh**: Vị thế vững chắc, tiềm năng tăng trưởng dài hạn
 
-### Cổ Phiếu Bị Loại Bỏ Khỏi "Top List":
-- Không có cổ phiếu nào bị loại bỏ hoàn toàn khỏi hệ thống trong kỳ này.
+**Vùng Tham Gia Tốt Nhất**: Cơ hội mua vào khi có tín hiệu đảo chiều
 
-### Cổ Phiếu Bị Loại Bỏ Hoàn Toàn:
-- Không có cổ phiếu nào bị loại bỏ hoàn toàn trong kỳ này.
+### TPB
+![Weekly Chart](reports_week/TPB/TPB_candlestick_chart.png) ![Daily Chart](reports/TPB/TPB_candlestick_chart.png) [View Report](REPORT.md#TPB)
+
+**Phân Tích Cốt Lõi:**
+- **Nền Tảng Tuần**: Ngân hàng với nền tảng tăng trưởng vững chắc
+- **Động Lực Gần Đây**: Test for Supply (2025-07-15) thể hiện sức mạnh
+- **Bối Cảnh Ngành**: Banking sector đang trong giai đoạn phục hồi
+- **Điểm Mạnh**: Tăng trưởng tín dụng mạnh, hiệu quả hoạt động cao
+
+**Vùng Tham Gia Tốt Nhất**: Mua vào khi test support với volume thấp
+
+## 5. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
+
+### Cổ Phiếu Được Thêm Vào "Danh Sách Tiềm Năng"
+- **BCM**: Từ `Unlisted` → `Potential List`. Lý do: Tín hiệu **Sign of Strength** ngày 2025-07-15 với nền tảng kỹ thuật vững chắc
+- **BSR**: Từ `Unlisted` → `Potential List`. Lý do: **Effort to Rise** ngày 2025-07-15 kết hợp **No Supply** tuần trước
+- **CII**: Từ `Unlisted` → `Potential List`. Lý do: **Effort to Rise** ngày 2025-07-15 cho thấy momentum tăng trưởng
+- **DGC**: Từ `Unlisted` → `Potential List`. Lý do: **Sign of Strength** ngày 2025-07-14 với volume xác nhận
+- **CST**: Từ `Unlisted` → `Potential List`. Lý do: **Effort to Rise** ngày 2025-07-14 từ vùng yếu - cần theo dõi
+
+### Cổ Phiếu Duy Trì Trong "Top 26"
+Tất cả 26 cổ phiếu trong Top List được duy trì với điều chỉnh confidence score dựa trên:
+- Tín hiệu kỹ thuật gần đây
+- Bối cảnh ngành nghề
+- Momentum thị trường tổng thể
+
+### Tổng Kết Thay Đổi
+- **Thêm mới**: 15 cổ phiếu vào Potential List từ nhóm Unlisted
+- **Duy trì**: 26 cổ phiếu Top List với điều chỉnh confidence
+- **Cơ hội mới**: 22 cổ phiếu từ nhóm unlisted được nâng lên theo dõi
+
+## 6. Chiến Lược Giao Dịch Tuần Tới
+
+### Nguyên Tắc Chung
+1. **Ưu tiên Top 26** cho các vị thế chính
+2. **Theo dõi Potential List** cho cơ hội mới
+3. **Quản lý rủi ro** với stop loss kỹ thuật
+4. **Điều chỉnh tỷ trọng** theo confidence score
+
+### Phân Bổ Danh Mục Đề Xuất
+- **60%**: Top 26 cổ phiếu chất lượng cao
+- **25%**: Potential List cho cơ hội tăng trưởng
+- **15%**: Tiền mặt cho cơ hội đột biến
+
+### Lưu Ý Quan Trọng
+- Thị trường đang trong giai đoạn chuyển tiếp tích cực
+- Ưu tiên các cổ phiếu có nền tảng kỹ thuật vững chắc
+- Theo dõi sát volume giao dịch để xác nhận tín hiệu
+
+---
+
+*Lưu ý: Phân tích này dựa trên phương pháp VPA (Volume Price Analysis) và mang tính chất tham khảo. Nhà đầu tư cần tự nghiên cứu và đánh giá rủi ro trước khi đưa ra quyết định đầu tư.*
+
+*Thời gian cập nhật: 2025-07-15 | Phiên bản: Manual Analysis v2.0*

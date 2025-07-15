@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, cho thấy cú hồi kỹ thuật hôm trước đã thất bại. Áp lực bán đã quay trở lại và chiếm ưu thế, củng cố cho kịch bản điều chỉnh tiếp diễn.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay CMG giảm nhẹ từ 42.3 xuống 42.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm mạnh (1.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Pressure**, cho thấy áp lực bán đã giảm bớt sau phiên **Effort to Fall** trước đó. Sự giảm khối lượng trong phiên điều chỉnh này là một dấu hiệu tích cực, cho thấy phe bán không còn quyết tâm và có thể giá sẽ sớm ổn định.
+- **Ngày 2025-07-15:** Sau tín hiệu **No Pressure**, hôm nay CMG giảm từ 42.5 xuống 41.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.61 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** quan trọng. Sau giai đoạn No Pressure, việc giá tiếp tục giảm trên khối lượng tăng cho thấy đang test sức mạnh của lực cầu ở vùng thấp hơn. Đây có thể là test cuối cùng trước khi tìm được vùng hỗ trợ mạnh, cần quan sát phản ứng của thị trường.
 
 

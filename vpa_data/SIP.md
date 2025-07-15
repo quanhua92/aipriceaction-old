@@ -36,9 +36,13 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực.
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply** của phiên trước, phiên hôm nay SIP giảm từ 71.8 xuống 70.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (532.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
-- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay SIP tăng nhẹ từ 70.9 lên 71.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (622.9k đơn vị).
+- **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay SIP tăng nhẹ từ 61.66 lên 61.74. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (622.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** yếu. Sau các phiên kiểm tra cung, lực cầu đã quay trở lại nhưng khối lượng chưa đủ thuyết phục. Thị trường vẫn còn trong giai đoạn giằng co.
-- **Ngày 2025-07-11:** Sau phiên tăng yếu ớt, hôm nay SIP giảm từ 71.0 xuống 70.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (632.2k đơn vị).
+- **Ngày 2025-07-11:** Sau phiên tăng yếu ớt, hôm nay SIP giảm từ 61.74 xuống 61.48. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (634.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối xu hướng yếu kém, hôm nay SIP tăng từ 61.48 lên 62.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (656.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn yếu kém, cho thấy tiềm năng phục hồi. Tín hiệu tích cực.
+- **Ngày 2025-07-15:** Sau phiên **Effort to Rise**, hôm nay SIP giảm từ 62.2 xuống 61.8. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (593.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời nhẹ xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường sau đợt tăng.
 
 

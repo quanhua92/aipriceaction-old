@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-14:** Sau phiên **Test for Supply**, hôm nay MCH tăng từ 119.5 lên 120.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (207.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Mặc dù giá tăng, khối lượng thấp cho thấy lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Đây chỉ là một cú hồi kỹ thuật trong xu hướng giảm.
+- **Ngày 2025-07-15:** MCH giảm từ 120.7 xuống 119.6. Nến giảm có biên độ vừa phải với giá cao nhất đạt 121.0. Khối lượng giao dịch tăng (288.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Sau tín hiệu **No Demand** trước đó, việc giá giảm trên khối lượng tăng xác nhận rằng cú hồi kỹ thuật đã kết thúc và áp lực bán đã quay trở lại, tiếp tục củng cố cho xu hướng giảm nghiền đại.
 
 

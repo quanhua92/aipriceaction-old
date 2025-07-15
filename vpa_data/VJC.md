@@ -44,5 +44,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng phục hồi.
 - **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay VJC tăng vọt từ 96.0 lên 100.0. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (2.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, VJC giảm từ 100.0 xuống 99.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.14 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, VJC giảm từ 99.0 xuống 97.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tương đương (1.11 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục. Việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Mặc dù có sự điều chỉnh, nhưng đây vẫn là một phiên kiểm tra nguồn cung tích cực, chưa phải tín hiệu đảo chiều.
 
 

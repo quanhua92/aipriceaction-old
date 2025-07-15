@@ -24,5 +24,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng phục hồi.
 - **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay VCS giảm từ 50.2 xuống 49.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (155.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-15:** VCS đi ngang từ 54.5 xuống 49.6 với đỉnh ngày đạt 54.5. Nến có biên độ rộng với gap lên đầu phiên. Khối lượng giao dịch tăng (179.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Phiên gap lên nhưng không thể duy trì được, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn đáng kể. Việc khối lượng tăng cho thấy có sự quan tâm nhưng lực cầu chưa đủ mạnh để duy trì ở mức cao.
 
 

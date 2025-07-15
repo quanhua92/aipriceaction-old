@@ -36,4 +36,14 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay VND tăng mạnh từ 17.45 lên 17.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (28.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+- **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VND tăng từ 17.8 lên 18.05. Cây nến tăng có biên độ tốt. Khối lượng giao dịch tăng mạnh (36.63 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ tiếp tục. Việc giá tăng mạnh trên khối lượng cao cho thấy lực cầu vẫn rất mạnh mẽ và có khả năng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
+- **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VND giảm từ 18.05 xuống 17.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (21.48 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên tăng mạnh, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-11:** Sau phiên **Test for Supply** tích cực, VND tăng từ 17.8 lên 17.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng mạnh (34.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VND giảm từ 17.9 xuống 17.85. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (21.06 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
+- **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, VND tăng từ 17.85 lên 18.1. Cây nến tăng có biên độ tốt với mức cao nhất 19.0. Khối lượng giao dịch tăng vọt (56.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tăng mạnh trên khối lượng rất cao cho thấy lực cầu đã quay trở lại một cách áp đảo, xác nhận sức mạnh của xu hướng tăng. Tín hiệu rất tích cực.
 

@@ -46,6 +46,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay HSG tăng nhẹ từ 17.7 lên 17.75. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (7.74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng giảm cho thấy lực cầu chưa đủ mạnh để phủ nhận tín hiệu **Effort to Fall** trước đó.
+- **Ngày 2025-07-15:** HSG tăng mạnh từ 17.75 lên 17.9. Nến tăng có biên độ rộng với giá cao nhất đạt 18.3. Khối lượng giao dịch tăng vọt (17.75 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **No Demand** trước đó, sự bật tăng mạnh với khối lượng giao dịch tăng vọt cho thấy lực cầu đã quay trở lại mạnh mẽ, thể hiện sự quan tâm tích cực từ nhà đầu tư và khả năng phá vỡ xu hướng giảm ngắn hạn.
 
 
 
