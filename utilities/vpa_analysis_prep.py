@@ -95,7 +95,7 @@ def main():
     # Get all tickers from market_data
     tickers = []
     for filename in os.listdir(market_data_dir):
-        if filename.endswith('.csv') and not filename.startswith('VNINDEX'):
+        if filename.endswith('.csv'):
             ticker = filename.split('_')[0]
             tickers.append(ticker)
     
@@ -131,14 +131,22 @@ def main():
         if vpa_signal['date'] == today:
             up_to_date.append(ticker)
         else:
-            # Extract today's and previous day's data
+            # Extract today's and last 7 days of data
             today_data = next((row for row in market_data if row['date'] == today), None)
-            prev_data = next((row for row in reversed(market_data) if row['date'] < today), None)
+            
+            # Get last 7 days of data
+            last_7_days = []
+            today_date = datetime.strptime(today, '%Y-%m-%d')
+            for i in range(1, 8):  # Get previous 7 days
+                target_date = (today_date - timedelta(days=i)).strftime('%Y-%m-%d')
+                day_data = next((row for row in market_data if row['date'] == target_date), None)
+                if day_data:
+                    last_7_days.append(day_data)
             
             need_analysis.append({
                 'ticker': ticker,
                 'today_data': today_data,
-                'prev_data': prev_data,
+                'last_7_days': last_7_days,
                 'latest_vpa': vpa_signal
             })
     
@@ -166,12 +174,16 @@ def main():
     for item in need_analysis:  # Show all tickers
         ticker = item['ticker']
         today_data = item['today_data']
-        prev = item['prev_data']
+        last_7_days = item['last_7_days']
         vpa = item['latest_vpa']
         
         print(f"=== {ticker} ===")
         print(f"Today's data ({today}): O={today_data['open']}, H={today_data['high']}, L={today_data['low']}, C={today_data['close']}, V={today_data['volume']:,}")
-        print(f"Previous data ({prev['date']}): O={prev['open']}, H={prev['high']}, L={prev['low']}, C={prev['close']}, V={prev['volume']:,}")
+        
+        print("Last 7 days data:")
+        for day_data in last_7_days:
+            print(f"  {day_data['date']}: O={day_data['open']}, H={day_data['high']}, L={day_data['low']}, C={day_data['close']}, V={day_data['volume']:,}")
+        
         print(f"Latest VPA signal ({vpa['date']}): {vpa['signal']}")
         print()
     

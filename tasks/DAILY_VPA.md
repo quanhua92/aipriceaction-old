@@ -25,7 +25,19 @@ ls market_data_check_dividends/
 ### Step 2: Individual Ticker VPA Analysis
 **Objective**: Analyze each ticker using automated preparation and efficient generation
 
-#### 2.1 Context Gathering (Automated)
+#### 2.1 Ticker Batch Preparation
+**Split tickers into 8 batches for parallel processing**:
+
+```bash
+uv run utilities/split_tickers.py
+```
+
+This script automatically:
+- Reads TICKERS.csv and splits into 8 batch files
+- Creates utilities/data/batch_1.csv through batch_8.csv
+- Each batch contains 14-15 tickers for optimal parallel processing
+
+#### 2.2 Context Gathering (Automated)
 **Use Python utility for data preparation**:
 
 ```bash
@@ -36,30 +48,29 @@ This script automatically:
 - Scans all market_data CSV files for today's data
 - Reads existing VPA analysis from vpa_data/ directory
 - Identifies tickers needing new analysis
-- Extracts context data (today's OHLCV, previous OHLCV, latest VPA signal)
+- Extracts context data (today's OHLCV, last 7 days OHLCV, latest VPA signal)
 - Provides summary of analysis requirements
 
 **Reference**: See `tasks/task_vpa_prep_python.md` for detailed usage
 
-#### 2.2 Analysis Generation
+#### 2.3 Analysis Generation
 **Use multiple Task tools for parallel processing**:
 
-Based on the output from Step 2.1, use multiple Task tools in parallel to process tickers efficiently.
+Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to process each batch concurrently.
 
 **PARALLEL PROCESSING RULE**: 
-- **NEVER process all 115 tickers sequentially in a single Task tool call**
-- **ALWAYS batch tickers into groups of 10-15 tickers maximum**
-- **ALWAYS launch multiple Task tools concurrently** using a single message with multiple tool calls
-- **Example**: For 115 tickers, create 8-10 concurrent Task tool calls, each processing 10-15 tickers
+- **ALWAYS launch exactly 8 Task tools concurrently** using a single message with multiple tool calls
+- **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv)
+- **Each batch contains 14-15 tickers** for optimal parallel processing
 
 **Key steps**:
 1. Read the task template: `tasks/task_generate_vpa_analysis.md`
-2. Divide tickers needing analysis into batches of 10-15 tickers each
-3. Create multiple Task tool calls simultaneously, each with:
-   - Customized prompt with current date and specific ticker batch
+2. Create exactly 8 Task tool calls simultaneously, each with:
+   - Customized prompt with current date and batch file assignment
    - Template from `tasks/task_generate_vpa_analysis.md`
-4. Execute all Task tools concurrently to maximize parallel processing
-5. Each task tool will handle format requirements and Vietnamese VPA analysis for its assigned batch
+   - Instruction to read from utilities/data/batch_X.csv (where X = 1-8)
+3. Execute all 8 Task tools concurrently to maximize parallel processing
+4. Each task tool will handle format requirements and Vietnamese VPA analysis for its assigned batch
 
 **Reference**: See `tasks/task_generate_vpa_analysis.md` for:
 - Complete task prompt template
