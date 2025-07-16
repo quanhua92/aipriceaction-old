@@ -27,4 +27,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Test for Supply**, hôm nay BIC giảm nhẹ từ 38.25 xuống 38.25. Cây nến có biên độ hẹp với mức thấp 37.9. Khối lượng giao dịch tăng (88.6k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Việc giá test xuống thấp nhưng có thể duy trì và khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện tại vùng giá thấp. Tiếp nối các tín hiệu test trước đó, đây có thể là dấu hiệu của một đáy ngắn hạn.
 
+- **Ngày 2025-07-16:** BIC giảm từ 38.25 xuống 37.7. Cây nến giảm có biên độ vừa phải với mức thấp 37.65. Khối lượng giao dịch giảm (76.7k đơn vị) so với phiên **Test for Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thất bại. Sau phiên test for demand tích cực, việc giá tiếp tục giảm với khối lượng giảm cho thấy lực cầu vẫn chưa đủ mạnh để hỗ trợ giá. Tín hiệu này cho thấy áp lực bán vẫn còn và xu hướng điều chỉnh có thể sẽ tiếp diễn.
+
 

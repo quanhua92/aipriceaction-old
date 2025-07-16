@@ -28,5 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên tăng mạnh, việc giá chững lại trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, VPG giữ nguyên từ 8.2 xuống 8.2. Cây nến đi ngang có biên độ hẹp. Khối lượng giao dịch không đổi (825k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục. Việc giá đi ngang trên khối lượng thấp cho thấy cân bằng cung cầu. Đây là một tín hiệu tích cực, thể hiện sự kiểm soát của lực cầu sau các phiên tăng trước đó.
+- **Ngày 2025-07-16:** Tiếp nối phiên **Test for Supply** tiếp tục, VPG giảm từ 8.2 xuống 8.09. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng mạnh (1.89 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** với áp lực bán tăng lên. Việc giá giảm trên khối lượng tăng mạnh cho thấy có áp lực bán chốt lời xuất hiện sau chuỗi tăng trước đó. Tuy nhiên, mức giảm vẫn còn trong phạm vi kiểm soát, đây có thể là giai đoạn kiểm tra cung tự nhiên. Cần theo dõi phản ứng ở vùng hỗ trợ hiện tại.
 
 

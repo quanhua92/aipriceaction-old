@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu đã quay trở lại sau nhịp điều chỉnh, cho thấy xu hướng tăng vẫn được duy trì. Tín hiệu tích cực.
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise**, hôm nay GAS giảm từ 68.2 xuống 67.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng tiếp (800.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp diễn. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán chốt lời vẫn hiện diện. Tuy nhiên, mức giảm không quá mạnh, đây có thể là nhịp điều chỉnh bình thường trong xu hướng tăng.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **Test for Supply**, GAS tiếp tục giảm nhẹ từ 67.7 xuống 67.4. Cây nến giảm có biên độ hẹp với mức cao 67.9 và thấp 67.2. Khối lượng giao dịch giảm mạnh (525.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau giai đoạn **Test for Supply**, việc giá giảm nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán đã giảm đáng kể. Mặc dù giá vẫn giảm nhưng sự thiếu vắng khối lượng cho thấy không có áp lực bán mạnh, đây có thể là dấu hiệu tích cực cho việc ổn định giá trong thời gian tới.
 
 

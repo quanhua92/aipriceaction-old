@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand** sau phiên giảm mạnh. Lực cầu đã quay trở lại nhưng chưa đủ mạnh để xác nhận sự đảo chiều. Cần theo dõi thêm để xác định liệu đây là bắt đầu phục hồi hay chỉ là cú hồi kỹ thuật.
 - **Ngày 2025-07-15:** CTD giảm từ 84.9 xuống 83.5. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.05 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Fall** tiếp theo. Việc giá giảm mạnh trên khối lượng giảm cho thấy áp lực bán vẫn còn nhưng có thể đang cạn kiệt. Tín hiệu này xác nhận rằng cú hồi phiên trước chỉ là kỹ thuật và xu hướng giảm vẫn đang tiếp diễn.
+- **Ngày 2025-07-16:** CTD tăng mạnh từ 83.5 lên 84.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (1.69 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau chuỗi các phiên **Effort to Fall**, lực cầu đã quay trở lại với khối lượng gia tăng đáng kể. Tín hiệu này cho thấy khả năng đảo chiều xu hướng giảm ngắn hạn, nhưng cần xác nhận thêm trong các phiên tiếp theo.
 
 

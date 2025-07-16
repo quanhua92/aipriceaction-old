@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** thành công. Sau phiên đột phá, việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
 - **Ngày 2025-07-15:** DGC giảm từ 103.9 xuống 102.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (2.96 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau signal **Sign of Strength**. Khối lượng tăng kèm giá giảm cho thấy áp lực bán chốt lời đã xuất hiện. Cần theo dõi để xác định liệu đây là một phiên Test for Supply bình thường hay bắt đầu cuộc điều chỉnh sâu hơn.
+- **Ngày 2025-07-16:** DGC giảm nhẹ từ 102.4 xuống 102.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.72 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp diễn. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán đang cạn kiệt. Đây là dấu hiệu tích cực sau signal **Sign of Strength**, cho thấy thị trường đang hấp thụ áp lực bán chốt lời một cách hiệu quả.
 
 

@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên giảm giá với khối lượng giảm mạnh này tiếp tục xác nhận sự yếu kém của lực cầu. Đây là một tín hiệu **No Demand** tiếp diễn, cho thấy xu hướng giảm có thể tiếp tục.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **No Demand**, hôm nay NTP giảm từ 65.9 xuống 65.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (174.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn. Việc giá giảm trên khối lượng rất thấp cho thấy không có sự quan tâm của cả phe mua lẫn phe bán. Thiếu động lực tăng trướng, tình hình vẫn tiêu cực.
+- **Ngày 2025-07-16:** NTP tăng từ 65.4 lên 66.0. Cây nến tăng có biên độ tốt với spread 1.3. Khối lượng giao dịch tăng nhẹ (190.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên tăng giá với khối lượng tăng nhẹ này là một tín hiệu **Effort to Rise** yếu. Lực cầu đã có dấu hiệu cải thiện nhưng chưa đủ mạnh để tạo ra sự thay đổi quyết định. Tín hiệu trung tính, cần quan sát thêm.
 
 

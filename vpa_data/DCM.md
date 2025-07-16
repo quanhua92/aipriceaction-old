@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand** sau tín hiệu **Effort to Fall**. Lực cầu yếu và không đủ thuyết phục để đảo ngược xu hướng giảm. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-15:** DCM tăng nhẹ từ 34.05 lên 34.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng mạnh (6.35 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tích cực. Việc giá tăng trên khối lượng gia tăng mạnh cho thấy lực cầu đã quay trở lại và có thể phủ nhận xu hướng giảm trước đó. Cần thêm xác nhận để củng cố tín hiệu này.
+- **Ngày 2025-07-16:** DCM tăng nhẹ từ 34.2 lên 34.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (2.96 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau signal **Effort to Rise**. Việc giá tăng nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đang cạn kiệt. Đây là dấu hiệu tích cực, xác nhận tín hiệu **Effort to Rise** trước đó và tạo điều kiện cho xu hướng tăng tiếp diễn.
 
 

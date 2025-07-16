@@ -28,4 +28,6 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá với khối lượng cao và biên độ rộng này là một tín hiệu **Effort to Rise**. Có sự giằng co mạnh mẽ giữa cung và cầu, thể hiện qua spread rộng và khối lượng tăng. Tín hiệu trung tính, cần quan sát thêm.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay NLG tăng từ 38.95 lên 39.65. Cây nến tăng có biên độ rộng với mức cao nhất 40.45. Khối lượng giao dịch tương tự (5.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tích cực. Việc giá tăng tốt trên khối lượng cao xác nhận lực cầu đang chiếm ưu thế sau phiên giằng co trước đó. Tín hiệu tích cực cho xu hướng ngắn hạn.
+- **Ngày 2025-07-16:** NLG đi ngang, đóng cửa ở mức 39.65. Cây nến có biên độ rộng với spread 1.4 và high lên 40.95. Khối lượng giao dịch tăng (5.69 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên đi ngang với khối lượng tăng này là một tín hiệu **Test for Supply**. Việc giá thử lên 40.95 nhưng đóng cửa bằng phiên trước với khối lượng tăng cho thấy có áp lực bán ở vùng giá cao. Tín hiệu trung tính, cần quan sát thêm để xác định hướng đi tiếp theo.
 

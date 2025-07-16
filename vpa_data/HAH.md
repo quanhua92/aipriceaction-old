@@ -28,5 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp diễn. Áp lực bán đã giảm bớt, thể hiện qua khối lượng giảm. Tín hiệu vẫn tích cực, tạo điều kiện cho xu hướng tăng tiếp diễn.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, hôm nay HAH giảm từ 69.1 xuống 67.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (6.08 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** sau giai đoạn kiểm tra cung. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán đã quay trở lại mạnh mẽ. Các tín hiệu tích cực trước đó đã bị phủ nhận, xu hướng đã chuyển tiêu cực.
+- **Ngày 2025-07-16:** Sau tín hiệu **Effort to Fall**, HAH đi ngang tại mức 67.9. Cây nến doji có biên độ hẹp với mức cao 69.1 và thấp 67.9. Khối lượng giao dịch giảm mạnh (2.52 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau **Effort to Fall** hôm trước, việc giá đi ngang trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt. Mặc dù xu hướng vẫn yếu kém nhưng sự thiếu vắng khối lượng bán là dấu hiệu tích cực, cho thấy HAH có thể đang chuẩn bị cho giai đoạn ổn định.
 
 

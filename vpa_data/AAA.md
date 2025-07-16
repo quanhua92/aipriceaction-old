@@ -27,4 +27,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **No Demand** của phiên trước, hôm nay AAA tăng từ 7.6 lên 7.62. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (3.40 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực. Sau giai đoạn tích lũy với khối lượng thấp, việc giá tăng trở lại kèm theo khối lượng tăng cho thấy lực cầu đã quay trở lại. Tín hiệu này cho thấy khả năng xu hướng tăng được phục hồi sau nhịp điều chỉnh.
 
+- **Ngày 2025-07-16:** AAA tăng nhẹ từ 7.62 lên 7.63. Cây nến có biên độ hẹp, mở cửa tại giá đóng cửa phiên trước và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (2.49 triệu đơn vị) so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand (Không có Nhu cầu)**. Sau phiên **Effort to Rise** tích cực, việc giá tăng nhẹ với khối lượng giảm mạnh cho thấy lực cầu đã yếu đi. Tín hiệu này cho thấy sự thiếu quan tâm của nhà đầu tư sau nhịp tăng giá, và có thể báo hiệu một nhịp điều chỉnh sắp tới hoặc việc giá cần thêm thời gian để tích lũy trước khi có đột phá mới.
+
 

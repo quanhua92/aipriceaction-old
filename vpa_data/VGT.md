@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
 - **Ngày 2025-07-15:** VGT giảm từ 12.2 xuống 12.0 với đỉnh ngày đạt 12.3. Nến có biên độ rộng. Khối lượng giao dịch giảm (1.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Demand** - Sau cú hồi kỹ thuật yếu ớt, việc giá giảm trên khối lượng giảm cho thấy thiếu sự quan tâm từ cả hai phía. Lực cầu vẫn yếu và chưa có dấu hiệu phục hồi thực sự.
+- **Ngày 2025-07-16:** VGT tăng nhẹ từ 12.3 lên 12.1 với đỉnh ngày đạt 12.3. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (694.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **No Demand** - Tiếp nối tín hiệu No Demand trước đó, việc giá giảm nhẹ với khối lượng giảm tiếp tục xác nhận sự thiếu quan tâm của nhà đầu tư. Lực cầu vẫn yếu và chưa có dấu hiệu phục hồi.
 
 

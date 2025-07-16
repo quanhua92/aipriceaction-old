@@ -28,5 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn, xác nhận rằng lực cầu vẫn đang duy trì mạnh mẽ và tiếp tục xu hướng tăng. Tín hiệu rất tích cực cho thấy khả năng tiếp tục phục hồi.
 - **Ngày 2025-07-15:** Sau chuỗi tín hiệu **Effort to Rise** mạnh mẽ, hôm nay FTS giảm từ 42.0 xuống 41.15. Cây nến giảm có biên độ rộng với mức cao 43.25 và thấp 41.1. Khối lượng giao dịch tăng (9.18 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** sau đợt tăng mạnh. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán chốt lời đã xuất hiện mạnh mẽ. Tuy nhiên, việc giá có test lên mức cao 43.25 trước khi giảm cho thấy còn lực cầu, nên đây có thể là nhịp điều chỉnh bình thường.
+- **Ngày 2025-07-16:** Sau tín hiệu **Effort to Fall**, FTS phục hồi từ 41.15 lên 41.55. Cây nến tăng có biên độ vừa phải với mức cao 42.05 và thấp 40.75. Khối lượng giao dịch giảm (8.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau áp lực bán của phiên trước, việc giá phục hồi trên khối lượng giảm cho thấy lực cầu đã hấp thụ được lực bán và bắt đầu ổn định. Mặc dù khối lượng giảm nhưng khả năng phục hồi cho thấy FTS vẫn có cơ sở vững chắc, đây có thể là dấu hiệu tích cực cho xu hướng tiếp theo.
 
 

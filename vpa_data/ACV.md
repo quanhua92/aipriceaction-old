@@ -49,4 +49,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** tiếp diễn, hôm nay ACV phục hồi từ 93.1 lên 93.8. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (418.7k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng. Đây có thể chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
 
+- **Ngày 2025-07-16:** ACV tăng nhẹ từ 94.1 lên 93.9. Cây nến có biên độ hẹp với giá mở cửa cao hơn ngày hôm trước nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm tiếp (304.6k đơn vị) so với phiên **No Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn. Việc giá mở cao hơn nhưng không thể duy trì và giảm nhẹ trên khối lượng thấp cho thấy lực cầu vẫn rất yếu. Tín hiệu này xác nhận rằng cú hồi kỹ thuật của phiên trước không có nền tảng vững chắc và xu hướng điều chỉnh có khả năng sẽ tiếp diễn.
+
 

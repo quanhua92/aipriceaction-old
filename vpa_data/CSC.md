@@ -26,5 +26,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực và không có tín hiệu rõ ràng về hướng đi tiếp theo. Cần có thêm khối lượng giao dịch để xác định xu hướng.
 - **Ngày 2025-07-15:** CSC giảm từ 21.7 xuống 21.1. Cây nến giảm có biên độ rộng và bóng trên. Khối lượng giao dịch tăng mạnh (70.4k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Weakness (SOW)** xuất hiện. Sau nhiều phiên cạn kiệt, khối lượng tăng mạnh kèm theo giá giảm cho thấy áp lực bán đã xuất hiện. Đây là tín hiệu cảnh báo tiềm tàng về sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-16:** CSC tăng nhẹ từ 21.1 lên 21.4. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (24.2k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau tín hiệu **Sign of Weakness** của phiên trước, sự phục hồi yếu ớt với khối lượng giảm mạnh cho thấy thiếu lực cầu. Đây là dấu hiệu tiêu cực khi thị trường không thể duy trì áp lực mua sau đợt bán tháo.
 
 

@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm đáng kể. Đây là một nhịp điều chỉnh bình thường sau đợt tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay PVI giảm nhẹ từ 58.6 xuống 58.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm tiếp (18.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)**. Áp lực bán không mạnh nhưng lực cầu cũng biến mất, thể hiện qua khối lượng giảm. Thị trường đang trong trạng thái tạm dừng, cần thêm thời gian để xác định hướng đi.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Demand**, hôm nay PVI giảm từ 58.4 xuống 58.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (12.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** tiếp tục. Áp lực bán không mạnh nhưng lực cầu vẫn biến mất hoàn toàn. Việc giá giảm với khối lượng rất thấp cho thấy thị trường đang thiếu sự quan tâm từ cả hai phe mua và bán.
 
 

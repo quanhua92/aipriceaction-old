@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng giá bùng nổ với khối lượng rất lớn này là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Lực cầu áp đảo, cho thấy xu hướng tăng được củng cố vững chắc. Tín hiệu rất tích cực.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Sign of Strength (SOS)**, hôm nay PNJ giảm từ 87.6 xuống 86.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (651.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau phiên tăng giá bùng nổ, áp lực bán chốt lời đã xuất hiện nhưng khối lượng giảm mạnh cho thấy không mạnh. Tín hiệu rất tích cực, đây là nhịp điều chỉnh bình thường.
+- **Ngày 2025-07-16:** PNJ tăng mạnh từ 86.7 lên 88.0. Cây nến tăng có biên độ rộng với spread 2.7 và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng nhẹ (763.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, hôm nay thể hiện **Effort to Rise** mạnh mẽ. Việc giá tăng mạnh và đóng cửa tại mức cao nhất với khối lượng tăng xác nhận lực cầu vẫn rất mạnh. Tín hiệu rất tích cực, xu hướng tăng được củng cố tiếp tục.
 
 

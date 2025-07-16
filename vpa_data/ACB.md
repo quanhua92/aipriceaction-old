@@ -45,4 +45,7 @@
 - **Ngày 2025-07-15:** Tiếp nối phiên **Test for Supply** tích cực, hôm nay ACB giảm từ 22.7 xuống 22.45. Cây nến giảm có biên độ vừa phải với mức thấp 22.45. Khối lượng giao dịch tăng nhẹ (12.68 triệu cổ phiếu) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** quan trọng. Sau phiên test supply thành công, việc giá giảm nhẹ trên khối lượng tăng có thể là dấu hiệu kiểm tra sức mạnh của lực cầu ở vùng thấp hơn. Cần quan sát thêm để xác định liệu đây có phải là điều chỉnh lành mạnh hay bắt đầu của một xu hướng yếu đi.
 
+- **Ngày 2025-07-16:** ACB đi ngang từ 22.45 xuống 22.45. Cây nến có biên độ hẹp với mức thấp 22.3 nhưng phục hồi về mức đóng cửa. Khối lượng giao dịch giảm (10.93 triệu cổ phiếu) so với phiên **Test for Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên test demand của ngày hôm trước, việc giá giữ nguyên tại mức 22.45 với khối lượng giảm cho thấy lực cầu đã hấp thụ tốt áp lực bán. Mặc dù có test xuống 22.3 nhưng khả năng phục hồi về mức đóng cửa cho thấy sức mạnh của lực cầu vẫn còn. Tín hiệu này xác nhận việc điều chỉnh trước đó chỉ là nhịp lành mạnh trong xu hướng tăng.
+
 

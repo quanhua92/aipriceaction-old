@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** nhẹ. Sau giai đoạn **No Demand**, lực cầu đã xuất hiện trở lại và có thể là dấu hiệu của một cuộc phục hồi. Tuy nhiên, cần thêm xác nhận từ các phiên tiếp theo.
 - **Ngày 2025-07-15:** DBC giảm từ 34.1 xuống 33.6. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (8.58 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Sau cú hồi **Effort to Rise** thất bại, áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống. Xu hướng giảm ngắn hạn vẫn đang tiếp diễn và DBC cần thêm thời gian để hấp thụ áp lực bán.
+- **Ngày 2025-07-16:** DBC đi ngang, đóng cửa ở mức 33.6. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (7.08 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** sau phiên **Effort to Fall**. Việc giá giữ vững và khối lượng giảm cho thấy áp lực bán đang cạn kiệt. Tín hiệu này cho thấy khả năng kết thúc xu hướng giảm ngắn hạn và tạo điều kiện cho sự ổn định giá.
 
 

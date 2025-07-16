@@ -28,5 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)**. Sau cú hồi kỹ thuật, lực cầu đã biến mất và không có sự quan tâm từ phía mua. Tín hiệu này xác nhận xu hướng yếu kém vẫn tiếp tục.
 - **Ngày 2025-07-15:** Sau phiên **No Demand**, hôm nay PTB tăng mạnh từ 54.3 lên 55.7. Cây nến tăng có biên độ rộng với mức cao nhất 56.2. Khối lượng giao dịch tăng vọt (197.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng)** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng lớn, có thể đánh dấu sự kết thúc giai đoạn điều chỉnh trước đó. Tín hiệu tích cực.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay PTB tăng từ 55.7 lên 56.2. Cây nến tăng có biên độ hẹp với mức cao nhất 56.4. Khối lượng giao dịch giảm (96.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply (Không có Cung)**. Sau đợt tăng mạnh với khối lượng cao, giá tiếp tục tăng nhưng với khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể. Đây là dấu hiệu tích cực cho thấy phe mua đang duy trì kiểm soát thị trường.
 
 

@@ -45,4 +45,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Test for Supply** thất bại, hôm nay ANV tiếp tục giảm từ 22.7 xuống 22.3. Cây nến giảm có biên độ vừa phải với mức thấp 22.2. Khối lượng giao dịch tăng (3.62 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc test supply thất bại đã xác nhận sự yếu kém của lực cầu, và giá tiếp tục giảm trên khối lượng tăng cho thấy áp lực bán vẫn duy trì. Xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
+- **Ngày 2025-07-16:** ANV tăng từ 22.45 lên 22.6. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (3.79 triệu đơn vị) so với phiên **Effort to Fall** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng tăng cho thấy lực cầu đang cố gắng quay trở lại. Tuy nhiên, cần quan sát thêm để xác định liệu đây có phải là dấu hiệu dừng đà giảm hay chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
+
 

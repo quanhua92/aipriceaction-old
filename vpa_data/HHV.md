@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise**, hôm nay HHV giảm từ 13.15 xuống 12.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (13.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
+- **Ngày 2025-07-16:** Sau tín hiệu **Test for Supply**, HHV tăng mạnh từ 12.85 lên 13.4. Cây nến tăng có biên độ rộng với mức cao 13.6 và thấp 12.85. Khối lượng giao dịch tăng vợt (28.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau **Test for Supply** thành công, lực cầu đã quay trở lại quyết đoán với khối lượng khổng lồ (gấp đôi phiên trước). Việc giá có test lên mức cao 13.6 cho thấy sức mạnh của breakout. Tiếp nối chuỗi tín hiệu tích cực, đây là xác nhận mạnh mẽ cho xu hướng tăng của HHV.
 
 

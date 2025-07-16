@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục rất tích cực. Việc giá đi ngang trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply** tiếp tục rất tích cực, VRE giảm từ 28.65 xuống 28.15. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (4.65 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Đây là một phiên **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình sau chuỗi tăng mạnh.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** tích cực, VRE tăng mạnh từ 28.15 lên 28.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (5.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng các phiên test trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, với việc giá tăng mạnh trên khối lượng tăng cho thấy sự quan tâm mạnh mẽ của nhà đầu tư. Xu hướng tăng được khẳng định mạnh mẽ và có khả năng tiếp tục phát triển.
 
 

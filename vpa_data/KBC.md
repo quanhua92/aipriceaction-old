@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, phá vỡ xu hướng giảm ngắn hạn và cho thấy tiềm năng bắt đầu một chu kỳ tăng mới.
 - **Ngày 2025-07-15:** KBC giảm từ 28.35 xuống 28.1. Nến giảm có biên độ vừa phải với giá cao nhất đạt 28.6. Khối lượng giao dịch giảm (4.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau tín hiệu **Effort to Rise** mạnh mẽ. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh, đây là một nhịp điều chỉnh bình thường và tiếp tục hỗ trợ cho xu hướng tăng.
+- **Ngày 2025-07-16:** KBC tăng từ 28.1 lên 28.2. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (5.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Test for Supply** tích cực, sự tăng giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại và vượt qua thành công bài kiểm tra nguồn cung, xác nhận xu hướng tăng tiếp tục có hiệu lực.
 
 

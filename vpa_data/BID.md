@@ -49,4 +49,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Sign of Strength (SOS)**, hôm nay BID giảm từ 38.6 xuống 38.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (5.78 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau SOS. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán không đáng kể và có thể chỉ là điều chỉnh kỹ thuật tự nhiên. Tiếp nối tín hiệu SOS mạnh trước đó, đây là test bình thường và có thể tạo điều kiện cho nhịp tăng tiếp theo.
 
+- **Ngày 2025-07-16:** BID tăng từ 37.9 lên 38.4. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh (7.12 triệu đơn vị) so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau phiên test for supply thành công, việc giá tăng mạnh trên khối lượng lớn cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng test for supply sau SOS đã thành công và xu hướng tăng tiếp tục được củng cố.
+
 

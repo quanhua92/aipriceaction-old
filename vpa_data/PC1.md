@@ -44,3 +44,5 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, phiên tăng giá mạnh với khối lượng tăng vọt này là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, xác nhận cho xu hướng tăng. Tín hiệu tích cực.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay PC1 giảm từ 22.9 xuống 22.65. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.36 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau phiên tăng giá mạnh, áp lực bán chốt lời đã xuất hiện nhưng khối lượng giảm cho thấy không mạnh. Tín hiệu tích cực, đây là nhịp điều chỉnh bình thường.
+- **Ngày 2025-07-16:** PC1 tăng từ 22.65 lên 23.0. Cây nến tăng có biên độ tốt với high lên 23.2. Khối lượng giao dịch tăng nhẹ (3.59 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, hôm nay thể hiện **Effort to Rise** tích cực. Việc giá phục hồi tốt với khối lượng tăng nhẹ xác nhận lực cầu vẫn mạnh sau nhịp điều chỉnh. Tín hiệu tích cực cho xu hướng tăng.

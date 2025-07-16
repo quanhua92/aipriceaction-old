@@ -28,5 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Rise** tích cực. Sau nhịp điều chỉnh, lực cầu đã quay trở lại mạnh mẽ, đẩy giá tăng qua vùng kháng cự. Việc khối lượng duy trì ổn định cho thấy nhu cầu mua vẫn đang tiếp tục.
 - **Ngày 2025-07-15:** DGW giảm từ 44.6 xuống 44.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3.95 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau tín hiệu **Effort to Rise**. Khối lượng tăng kèm giá giảm cho thấy áp lực bán chốt lời đã xuất hiện. Cần theo dõi để xác định liệu đây là một phiên Test for Supply bình thường hay bắt đầu cuộc điều chỉnh sâu hơn.
+- **Ngày 2025-07-16:** DGW tăng nhẹ từ 44.0 lên 44.2. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.56 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** sau phiên **Test for Supply**. Việc giá phục hồi nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt. Đây là dấu hiệu tích cực, xác nhận phiên **Test for Supply** thành công và tạo điều kiện cho xu hướng tăng tiếp diễn.
 
 

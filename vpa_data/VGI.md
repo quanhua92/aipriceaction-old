@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-15:** VGI giảm mạnh từ 75.5 xuống 74.4 với đỉnh ngày đạt 76.9 và đáy 64.2. Nến có biên độ rất rộng với đuôi dài cả hai phía. Khối lượng giao dịch tăng vọt (1.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Phiên có biến động cực mạnh với test xuống 64.2 trước khi phục hồi. Việc khối lượng bùng nổ kèm theo biến động mạnh cho thấy sự bất ổn và áp lực bán đáng kể, tín hiệu cảnh báo về sự yếu kém trong ngắn hạn.
+- **Ngày 2025-07-16:** VGI tăng nhẹ từ 74.4 lên 74.8 với đỉnh ngày đạt 75.2. Nến tăng có biên độ hẹp và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm mạnh (441.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW của phiên trước, việc giá phục hồi nhẹ với khối lượng giảm mạnh cho thấy lực cầu vẫn yếu. Sự ổn định tương đối sau phiên động mạnh là tín hiệu tích cực nhưng cần thêm xác nhận.
 
 

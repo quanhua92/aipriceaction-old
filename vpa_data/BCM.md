@@ -47,4 +47,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Sign of Strength (SOS)** của phiên trước, hôm nay BCM giảm từ 68.6 xuống 67.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (403.6k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau SOS. Việc giá giảm trên khối lượng giảm mạnh cho thấy áp lực bán không mạnh và có thể chỉ là điều chỉnh kỹ thuật tạm thời. Đây là một test bình thường sau tín hiệu mạnh, cần quan sát phản ứng của thị trường trong các phiên tiếp theo.
 
+- **Ngày 2025-07-16:** BCM tăng nhẹ từ 66.9 lên 67.1. Cây nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm tiếp (305.4k đơn vị) so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** thành công. Sau phiên test của ngày hôm trước, việc giá phục hồi nhẹ trên khối lượng thấp cho thấy áp lực bán đã được hấp thụ. Tín hiệu này xác nhận rằng test for supply sau SOS đã thành công, tạo tiền đề cho khả năng phục hồi xu hướng tăng.
+
 

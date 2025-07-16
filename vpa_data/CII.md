@@ -27,4 +27,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise** mạnh mẽ, hôm nay CII giảm từ 15.6 xuống 15.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (16.07 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau Automatic Rally. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán không quá mạnh. Đây có thể là một **Secondary Test (ST)** tích cực, tuy nhiên cần theo dõi thêm để xác nhận liệu đây có phải là bước đầu của giai đoạn tích lũy.
 
+- **Ngày 2025-07-16:** CII tăng mạnh từ 15.1 lên 15.55. Cây nến tăng có biên độ rộng với mức cao 15.85 và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (31.97 triệu đơn vị) so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau phiên test for supply thành công, việc giá tăng mạnh trên khối lượng lớn cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng test for supply đã thành công và có khả năng bắt đầu một giai đoạn tích lũy mới hoặc xu hướng tăng.
+
 

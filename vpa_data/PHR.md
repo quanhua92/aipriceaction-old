@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply**, phiên tăng giá với khối lượng tăng này là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại, cho thấy tiềm năng phục hồi. Tín hiệu tích cực nhưng cần quan sát xác nhận.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay PHR giảm từ 61.4 xuống 60.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (400.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng tăng sau phiên Effort to Rise cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế. Tín hiệu tiêu cực, phủ nhận sự phục hồi trước đó.
+- **Ngày 2025-07-16:** PHR tăng nhẹ từ 60.1 lên 60.2. Cây nến tăng có biên độ rộng với spread 1.1 và low xuống 59.3. Khối lượng giao dịch tăng (625.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá yếu với khối lượng tăng cao này là một tín hiệu **Test for Demand**. Việc giá thử xuống 59.3 nhưng phục hồi với khối lượng tăng cho thấy có lực đỡ. Tín hiệu trung tính, cần quan sát thêm để xác định hướng đi.
 
 

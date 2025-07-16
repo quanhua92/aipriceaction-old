@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)**. Áp lực bán không mạnh nhưng lực cầu cũng biến mất, thể hiện qua khối lượng giảm. Thị trường đang trong trạng thái tạm dừng.
 - **Ngày 2025-07-15:** Sau phiên **No Demand**, hôm nay SAB tăng nhẹ từ 48.0 lên 48.05. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (2.13 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** nhẹ. Lực cầu đã quay trở lại sau giai đoạn tạm dừng, cho thấy khả năng tiếp tục xu hướng tăng dù chưa mạnh mẽ. Tín hiệu tích cực nhưng thận trọng.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **Effort to Rise** nhẹ, hôm nay SAB giảm từ 48.05 xuống 48.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.36 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Giá điều chỉnh nhẹ trên khối lượng giảm cho thấy áp lực bán không mạnh. Đây là một nhịp điều chỉnh bình thường sau đợt hồi phục, tín hiệu vẫn tích cực.
 
 

@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Bóng dưới dài cho thấy lực đỡ mạnh ở mức thấp, kết hợp với khối lượng khổng lồ, báo hiệu một cuộc đảo chiều tiềm năng. Lực cầu đã quay trở lại quyết đoán.
 - **Ngày 2025-07-15:** KDH giảm nhẹ từ 31.25 xuống 31.2. Nến giảm có biên độ hẹp với giá cao nhất đạt 31.75. Khối lượng giao dịch giảm (6.38 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau tín hiệu **Effort to Rise** mạnh mẽ. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh, đây là một nhịp điều chỉnh bình thường và tiếp tục hỗ trợ cho kịch bản phục hồi quản tính.
+- **Ngày 2025-07-16:** KDH giảm nhẹ từ 31.2 xuống 31.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.52 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục. Sau phiên **Test for Supply** tích cực trước đó, việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán tiếp tục yếu. Đây là một nhịp kiểm tra bình thường, tiếp tục hỗ trợ cho kịch bản phục hồi.
 
 

@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy. Tình hình vẫn tiêu cực.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **No Demand**, hôm nay MSR giảm từ 19.0 xuống 18.9. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (1.73 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** trên nền khối lượng giảm. Việc giá tiếp tục giảm sau phiên No Demand xác nhận lực cầu yếu và tình hình vẫn tiêu cực. Áp lực bán không mạnh nhưng thiếu lực mua để hỗ trợ.
+- **Ngày 2025-07-16:** MSR đi ngang, đóng cửa ở mức 18.9. Cây nến có biên độ rất hẹp với spread 0.3 chỉ. Khối lượng giao dịch giảm mạnh (1.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay thể hiện **No Demand** và **No Supply**. Việc giá đi ngang trong biên độ rất hẹp với khối lượng giảm mạnh cho thấy cả hai phía đều thiếu động lực. Thị trường đang trong trạng thái tạm nghỉ sau chuỗi tín hiệu yếu kém, cần có chất xúc tác mạnh để phá vỡ trạng thái này.
 
 

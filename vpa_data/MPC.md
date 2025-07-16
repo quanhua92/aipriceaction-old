@@ -28,5 +28,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau các tín hiệu yếu kém cho thấy áp lực bán vẫn chiếm ưu thế. Xu hướng giảm có thể tiếp tục trong ngắn hạn.
 - **Ngày 2025-07-15:** MPC giảm từ 13.7 xuống 13.5. Nến giảm có biên độ hẹp với giá cao nhất đạt 13.8. Khối lượng giao dịch tăng (189.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp tục. Sau tín hiệu **Effort to Fall** trước đó, việc giá tiếp tục giảm trên khối lượng tăng xác nhận rằng áp lực bán vẫn mạnh và chuỗi giảm giá có thể tiếp tục trong ngắn hạn.
+- **Ngày 2025-07-16:** MPC tăng từ 13.5 lên 13.7. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (170.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau tín hiệu **Effort to Fall** mạnh mẽ, sự tăng giá trên khối lượng giảm cho thấy lực cầu yếu và không thể đảo ngược xu hướng giảm. Đây chỉ là một cú hồi kỹ thuật không bền vững trong xu hướng giảm tổng thể.
 
 

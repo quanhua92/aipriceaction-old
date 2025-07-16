@@ -27,4 +27,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Test for Supply**, hôm nay BMP tiếp tục giảm từ 144.0 xuống 141.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm nhẹ (99.3k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** trong bối cảnh test supply. Việc giá giảm tiếp tục sau test cao thất bại cho thấy áp lực bán gia tăng. Cần quan sát thêm để xác định liệu đây có phải là điều chỉnh tạm thời hay bắt đầu của một xu hướng yếu đi.
 
+- **Ngày 2025-07-16:** BMP tiếp tục giảm từ 141.9 xuống 140.6. Cây nến giảm có biên độ vừa phải với mức thấp 140.6. Khối lượng giao dịch tăng (133.8k đơn vị) so với phiên **Effort to Fall** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** tiếp diễn. Sau phiên effort to fall, việc giá tiếp tục giảm trên khối lượng tăng cho thấy áp lực bán đang gia tăng và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn. Tín hiệu này xác nhận rằng test for supply trước đó đã thất bại và phe bán đang kiểm soát tình hình.
+
 

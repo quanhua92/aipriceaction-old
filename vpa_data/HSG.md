@@ -48,6 +48,8 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng giảm cho thấy lực cầu chưa đủ mạnh để phủ nhận tín hiệu **Effort to Fall** trước đó.
 - **Ngày 2025-07-15:** HSG tăng mạnh từ 17.75 lên 17.9. Nến tăng có biên độ rộng với giá cao nhất đạt 18.3. Khối lượng giao dịch tăng vọt (17.75 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **No Demand** trước đó, sự bật tăng mạnh với khối lượng giao dịch tăng vọt cho thấy lực cầu đã quay trở lại mạnh mẽ, thể hiện sự quan tâm tích cực từ nhà đầu tư và khả năng phá vỡ xu hướng giảm ngắn hạn.
+- **Ngày 2025-07-16:** HSG tiếp tục tăng từ 17.9 lên 18.05. Nến tăng có biên độ vừa phải, đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm đáng kể (7.93 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự tăng giá tiếp tục nhưng trên khối lượng giảm đáng kể cho thấy lực cầu đang suy yếu. Mặc dù giá vẫn tăng nhưng sự thiếu hụt khối lượng hỗ trợ báo hiệu khả năng đà tăng sẽ khó duy trì.
 
 
 
@@ -93,5 +95,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật mạnh mẽ, có thể là một **Automatic Rally (AR)**. Sau tín hiệu yếu kém trước đó, lực cầu đã quay trở lại để chặn đà giảm, tuy nhiên cần theo dõi các phiên kiểm tra cung tiếp theo để đánh giá sức mạnh thực sự.
 - **Ngày 2025-07-11:** Sau cú hồi kỹ thuật, hôm nay HT1 giảm nhẹ từ 13.3 xuống 13.15. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+- **Ngày 2025-07-14:** HT1 tăng từ 13.15 lên 13.25. Nến tăng có biên độ hẹp, đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (864.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Test for Supply** trước đó, sự tăng giá nhẹ trên khối lượng giảm cho thấy lực cầu chưa đủ mạnh để tạo ra xu hướng tăng bền vững.
+- **Ngày 2025-07-15:** HT1 giảm từ 13.25 xuống 13.1. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (463.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **No Demand** trước đó, sự giảm giá nhẹ trên khối lượng thấp cho thấy áp lực bán cũng không đáng kể. Thị trường đang trong trạng thái cân bằng, chờ đợi động lực mới.
+- **Ngày 2025-07-16:** HT1 tăng nhẹ từ 13.1 lên 13.15. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm tiếp (445.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Tiếp nối tín hiệu **No Supply** của ngày trước, sự tăng giá nhẹ trên khối lượng thấp cho thấy cả lực cầu và lực cung đều yếu. Thị trường thiếu động lực rõ ràng và có khả năng tiếp tục đi ngang.
 
 

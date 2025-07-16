@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau nỗ lực tăng giá, phiên chững lại với khối lượng giảm cho thấy áp lực bán chốt lời không đáng kể. Đây là một tín hiệu tích cực, xác nhận xu hướng tăng vẫn đang được duy trì.
 - **Ngày 2025-07-15:** MBB giảm từ 26.8 xuống 26.6. Nến giảm có biên độ vừa phải với giá cao nhất đạt 27.1. Khối lượng giao dịch tăng (19.31 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục. Sau tín hiệu **Test for Supply** trước đó, việc giá giảm nhẹ trên khối lượng tăng cho thấy có áp lực bán chốt lời, tuy nhiên nếu giá vẫn duy trì trên mức hỗ trợ quan trọng thì xu hướng tăng vẫn có thể tiếp tục.
+- **Ngày 2025-07-16:** MBB tăng từ 26.6 lên 26.7. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (17.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** trên nền **No Supply**. Sau phiên **Test for Supply** trước đó, sự tăng giá trên khối lượng giảm cho thấy áp lực bán đã giảm bớt, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực cho xu hướng tăng.
 
 

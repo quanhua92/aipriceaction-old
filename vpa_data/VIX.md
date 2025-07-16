@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên tăng mạnh, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, VIX tăng từ 15.8 lên 16.0. Cây nến tăng có biên độ tốt với mức cao nhất 16.7. Khối lượng giao dịch tăng mạnh (60.55 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Việc giá tăng mạnh trên khối lượng cao cho thấy lực cầu đã quay trở lại một cách quyết đoán, xác nhận sức mạnh của xu hướng tăng. Tín hiệu rất tích cực.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VIX tăng vọt từ 16.0 lên 17.1. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng mạnh (91.84 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tăng mạnh và đóng cửa ở mức cao nhất trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại một cách áp đảo. Đây là xác nhận mạnh mẽ cho xu hướng tăng, cho thấy phe mua đang kiểm soát hoàn toàn và có khả năng tiếp tục đẩy giá lên.
 
 

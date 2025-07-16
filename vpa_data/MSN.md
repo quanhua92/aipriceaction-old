@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** nhẹ. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán không quá mạnh. Tiếp nối Test for Supply trước đó, thị trường có thể cần thêm thời gian để hoàn tất quá trình điều chỉnh.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay MSN giảm từ 75.3 xuống 74.5. Cây nến giảm có biên độ rộng với low thấp 74.5. Khối lượng giao dịch tăng (8.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)**. Việc giá tiếp tục giảm và xuống mức thấp nhất phiên với khối lượng tăng cho thấy áp lực bán đang gia tăng. Xác nhận quá trình điều chỉnh có thể sẽ tiếp diễn trong ngắn hạn.
+- **Ngày 2025-07-16:** MSN phục hồi từ 74.5 lên 75.0. Cây nến tăng có biên độ tốt với spread 1.5 và có bóng dưới. Khối lượng giao dịch giảm (6.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay thể hiện **Test for Demand**. Việc giá phục hồi từ vùng thấp với khối lượng giảm cho thấy áp lực bán đã giảm và có dấu hiệu lực cầu quay trở lại. Bóng dưới thể hiện sự đỡ ở vùng thấp, tín hiệu tích cực cho thấy giai đoạn điều chỉnh có thể kết thúc.
 
 

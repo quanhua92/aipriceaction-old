@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng mạnh. Tín hiệu rất tích cực.
 - **Ngày 2025-07-15:** Sau phiên **Sign of Strength (SOS)** mạnh mẽ, VPB giảm từ 21.0 xuống 20.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (48.78 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng. Tín hiệu tích cực.
+- **Ngày 2025-07-16:** Tiếp nối phiên **Test for Supply** tích cực, VPB tăng từ 20.75 lên 20.85. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (31.46 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã thành công. Việc giá phục hồi trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Xu hướng tăng được khẳng định tiếp tục.
 
 

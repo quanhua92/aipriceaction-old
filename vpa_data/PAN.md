@@ -28,6 +28,8 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, phiên tăng giá mạnh với khối lượng cao này là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng. Tín hiệu tích cực.
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay PAN giảm nhẹ từ 29.9 xuống 29.75. Cây nến giảm có biên độ vừa phải với mức cao nhất 30.55. Khối lượng giao dịch giảm (1.79 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau phiên tăng giá mạnh, áp lực bán chốt lời đã xuất hiện nhưng khối lượng giảm cho thấy không mạnh. Tín hiệu tích cực, đây là nhịp điều chỉnh bình thường.
+- **Ngày 2025-07-16:** PAN tăng từ 29.75 lên 30.0. Cây nến tăng có biên độ tốt với high lên 30.4. Khối lượng giao dịch giảm (1.26 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, hôm nay thể hiện **Effort to Rise** tích cực. Việc giá phục hồi với khối lượng giảm xác nhận áp lực bán đã giảm bớt và lực cầu vẫn kiểm soát. Tín hiệu tích cực cho xu hướng tăng.
 
 
 

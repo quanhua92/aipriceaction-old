@@ -27,4 +27,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **No Supply** mạnh mẽ, hôm nay BSI giảm từ 46.35 xuống 45.1. Cây nến giảm có biên độ rộng với high cao 47.7. Khối lượng giao dịch giảm nhẹ (2.68 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau No Supply. Việc giá có test lên cao hơn nữa (47.7) nhưng đóng cửa thấp hơn cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tín hiệu cảnh báo cần quan sát thêm để xác định liệu đây có phải là điều chỉnh tạm thời hay bắt đầu của sự suy yếu.
 
+- **Ngày 2025-07-16:** BSI tăng nhẹ từ 45.2 lên 45.45. Cây nến có biên độ hẹp với mức thấp 44.9. Khối lượng giao dịch giảm (1.97 triệu đơn vị) so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** thành công. Sau phiên test của ngày hôm trước, việc giá ổn định và phục hồi nhẹ trên khối lượng giảm cho thấy áp lực bán đã được hấp thụ. Tín hiệu này cho thấy test for supply sau No Supply đã thành công và xu hướng tăng có khả năng sẽ tiếp diễn.
+
 

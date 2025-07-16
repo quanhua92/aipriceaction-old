@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-15:** VGC giảm từ 46.9 xuống 45.95 với đỉnh ngày đạt 46.9. Nến có biên độ rộng. Khối lượng giao dịch giảm (1.30 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau khi thử nghiệm vùng kháng cự 46.9, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn. Việc khối lượng giảm cho thấy áp lực bán không quá mạnh, đây vẫn là một nhịp kiểm tra bình thường.
+- **Ngày 2025-07-16:** VGC tăng từ 45.9 lên 46.25 với đỉnh ngày đạt 46.75. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm mạnh (718.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Test for Supply, việc giá phục hồi với khối lượng giảm cho thấy lực cầu bắt đầu quay trở lại nhưng chưa thực sự mạnh mẽ. Cần thêm xác nhận để khẳng định xu hướng.
 
 

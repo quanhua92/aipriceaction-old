@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Việc giá giảm mạnh trên khối lượng thấp cho thấy áp lực bán đã xuất hiện và lực cầu hoàn toàn biến mất. Tín hiệu tiêu cực.
 - **Ngày 2025-07-15:** Sau phiên **Effort to Fall**, hôm nay SSH tăng từ 80.3 lên 86.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm tiếp (16.9k đơn vị) và vẫn ở mức cạn kiệt.
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau cú sốc giá, sự phục hồi với khối lượng cạn kiệt cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy. Thị trường vẫn thiếu động lực.
+- **Ngày 2025-07-16:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand**, hôm nay SSH tăng nhẹ từ 86.9 lên 87.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (30.9k đơn vị) nhưng vẫn rất thấp.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** tiếp tục. Giá tăng nhẹ với khối lượng vẫn rất thấp cho thấy thị trường vẫn thiếu sự quan tâm từ cả hai phe mua và bán. Tình hình vẫn không rõ ràng.
 
 

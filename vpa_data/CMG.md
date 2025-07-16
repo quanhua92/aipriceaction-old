@@ -49,4 +49,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **No Pressure**, hôm nay CMG giảm từ 42.5 xuống 41.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.61 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** quan trọng. Sau giai đoạn No Pressure, việc giá tiếp tục giảm trên khối lượng tăng cho thấy đang test sức mạnh của lực cầu ở vùng thấp hơn. Đây có thể là test cuối cùng trước khi tìm được vùng hỗ trợ mạnh, cần quan sát phản ứng của thị trường.
 
+- **Ngày 2025-07-16:** CMG giảm nhẹ từ 41.75 xuống 41.6. Cây nến có biên độ hẹp với mức thấp 41.3 nhưng phục hồi về mức đóng cửa. Khối lượng giao dịch tăng nhẹ (1.80 triệu đơn vị) so với phiên **Test for Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên test for demand của ngày hôm trước, việc giá có test xuống thấp hơn (41.3) nhưng phục hồi và đóng cửa tương đối tốt cho thấy lực cầu đã bắt đầu xuất hiện. Tín hiệu này cho thấy khả năng tìm được vùng hỗ trợ và có thể bắt đầu giai đoạn ổn định hoặc phục hồi.
+
 

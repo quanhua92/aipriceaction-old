@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)**. Áp lực bán không mạnh nhưng lực cầu cũng biến mất, thể hiện qua khối lượng giảm. Thị trường đang trong trạng thái tạm dừng.
 - **Ngày 2025-07-15:** Sau phiên **No Demand**, hôm nay PVT giảm từ 18.15 xuống 18.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tương tự (2.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Fall** nhẹ. Áp lực bán tiếp tục hiện hữu và đẩy giá xuống, dù chưa mạnh mẽ. Tình hình chuyển biến tiêu cực, cần theo dõi để xác định mức độ yếu kém.
+- **Ngày 2025-07-16:** Tiếp nối phiên **Effort to Fall** nhẹ, hôm nay PVT tăng nhẹ từ 18.0 lên 18.05. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Demand (Kiểm tra Cầu)**. Giá hồi phục nhẹ nhưng khối lượng giảm cho thấy lực cầu chưa trở lại mạnh mẽ. Thị trường đang kiểm tra mức độ quan tâm của phe mua sau giai đoạn điều chỉnh.
 
 

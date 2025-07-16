@@ -47,5 +47,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém của các phiên trước. Lực cầu đã quay trở lại quyết đoán với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
 - **Ngày 2025-07-15:** DRC giảm từ 22.5 xuống 22.25. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (898.9k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau signal **Effort to Rise**. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh, đây là một phiên Test for Supply tích cực. Xu hướng phục hồi có thể tiếp tục sau nhịp điều chỉnh này.
+- **Ngày 2025-07-16:** DRC tăng từ 22.25 lên 22.65. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (946.9k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** sau phiên **Test for Supply**. Việc giá phục hồi tốt trên khối lượng tăng nhẹ cho thấy áp lực bán đã cạn kiệt. Đây là dấu hiệu tích cực, xác nhận phiên **Test for Supply** thành công và hỗ trợ cho xu hướng phục hồi tiếp diễn.
 
 

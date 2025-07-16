@@ -98,4 +98,7 @@
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise** mạnh mẽ ngày 11/7, VNINDEX mở cửa cao (1473.8 điểm) và tăng lên mức cao nhất 1476.32 điểm nhưng sau đó giảm xuống đóng cửa ở 1460.65 điểm. Cây nến có biên độ rộng với bóng trên dài, thể hiện sự giằng co. Khối lượng giao dịch tăng (1.41 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** quan trọng. Sau chuỗi tăng mạnh liên tiếp, việc giá mở cao nhưng bị đẩy xuống trên khối lượng tăng cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tín hiệu cảnh báo cần quan sát thêm để xác định liệu phe mua có thể vượt qua được áp lực cung này hay không.
 
+- **Ngày 2025-07-16:** VNINDEX mở cửa thấp hơn ngày hôm trước (1459.87 điểm) nhưng sau đó tăng mạnh và đóng cửa tại mức cao nhất phiên (1475.47 điểm). Cây nến có biên độ rộng, đóng cửa gần đỉnh cho thấy sức mạnh của phe mua. Khối lượng giao dịch tiếp tục tăng (1.35 tỷ đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **Test for Supply** của phiên trước. Việc giá mở thấp hơn nhưng tăng mạnh và đóng cửa tại đỉnh trên khối lượng lớn cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng áp lực bán ở vùng đỉnh đã được hấp thụ hoàn toàn, và xu hướng tăng tiếp tục được củng cố.
+
 

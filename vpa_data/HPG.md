@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test xuống thấp nhưng khối lượng giảm cho thấy áp lực bán không lớn. Tiếp nối chuỗi tín hiệu mạnh trước đó, đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay HPG giảm tiếp từ 25.8 xuống 25.5. Cây nến giảm có biên độ hẹp với mức cao 26.0. Khối lượng giao dịch giảm tiếp (45.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tiếp tục của tín hiệu **Test for Supply**. Việc giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Sau chuỗi tín hiệu mạnh trước đó, đây vẫn là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
+- **Ngày 2025-07-16:** Sau tín hiệu **Test for Supply**, HPG tăng mạnh từ 25.45 lên 26.1. Cây nến tăng có biên độ rộng với mức cao 26.2 và thấp 25.4. Khối lượng giao dịch duy trì (45.89 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau **Test for Supply** thành công, lực cầu đã quay trở lại quyết đoán. Mặc dù khối lượng không tăng vợt nhưng việc giá tăng mạnh cho thấy **No Supply** - áp lực bán đã yếu đi. Tiếp nối chuỗi tín hiệu tích cực trước đó, đây là xác nhận cho xu hướng tăng của HPG.
 
 

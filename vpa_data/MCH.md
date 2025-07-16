@@ -44,5 +44,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Mặc dù giá tăng, khối lượng thấp cho thấy lực cầu vẫn chưa đủ mạnh để tạo ra sự thay đổi xu hướng một cách thuyết phục. Đây chỉ là một cú hồi kỹ thuật trong xu hướng giảm.
 - **Ngày 2025-07-15:** MCH giảm từ 120.7 xuống 119.6. Nến giảm có biên độ vừa phải với giá cao nhất đạt 121.0. Khối lượng giao dịch tăng (288.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Sau tín hiệu **No Demand** trước đó, việc giá giảm trên khối lượng tăng xác nhận rằng cú hồi kỹ thuật đã kết thúc và áp lực bán đã quay trở lại, tiếp tục củng cố cho xu hướng giảm nghiền đại.
+- **Ngày 2025-07-16:** MCH tăng từ 119.6 lên 120.6. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (194.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau tín hiệu **Effort to Fall** mạnh mẽ, sự tăng giá trên khối lượng giảm cho thấy lực cầu yếu và không thể đảo ngược xu hướng giảm. Đây chỉ là một cú hồi kỹ thuật không bền vững trong xu hướng giảm tổng thể.
 
 

@@ -42,7 +42,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém của phiên trước. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay MBS tăng từ 29.3 lên 29.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất. Đây là dấu hiệu tích cực rất mạnh, củng cố cho xu hướng tăng và báo hiệu tiềm năng phục hồi mạnh mẽ.
-- **Ngày 2025-07-15:** MBS giảm từ 29.5 xuống 29.1. Nến giảm có biên độ vừa phải với giá cao nhất đạt 30.6. Khối lượng giao dịch cạn kiệt (100 đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** và **No Demand** cực kỳ mạnh mẽ. Sau tín hiệu **No Supply** trước đó, việc giá giảm nhẹ trên khối lượng cực thấp cho thấy không có áp lực bán nhưng cũng thiếu lực cầu. Thị trường đang trong trạng thái tích lũy, có thể là giai đoạn chuẩn bị cho đợt bứng phá tiếp theo.
+- **Ngày 2025-07-15:** MBS giảm từ 29.5 xuống 29.1. Nến giảm có biên độ vừa phải với giá cao nhất đạt 30.6. Khối lượng giao dịch tăng (11.34 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Sau tín hiệu **No Supply** trước đó, việc giá giảm nhẹ trên khối lượng tăng cho thấy có áp lực bán chốt lời, tuy nhiên mức giảm không lớn cho thấy đây là một nhịp kiểm tra bình thường trong xu hướng tăng.
+- **Ngày 2025-07-16:** MBS tăng từ 29.1 lên 29.2. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (7.03 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** trên nền **No Supply**. Sau phiên **Test for Supply** tích cực, sự tăng giá trên khối lượng giảm cho thấy áp lực bán đã giảm bớt, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực cho xu hướng tăng.
 
 

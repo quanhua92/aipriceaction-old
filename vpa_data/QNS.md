@@ -42,5 +42,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời nhẹ xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay QNS tăng nhẹ từ 48.7 lên 48.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (295.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Lực cầu đã quay trở lại sau giai đoạn kiểm tra, cho thấy khả năng tiếp tục xu hướng tăng nhẹ. Tín hiệu tích cực nhưng chậm.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay QNS tăng từ 48.8 lên 49.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (185.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Giá tiếp tục tăng nhẹ với khối lượng giảm cho thấy áp lực bán đã yếu đi. Tín hiệu tích cực, phần nào xác nhận xu hướng tăng nhẹ đang diễn ra.
 
 

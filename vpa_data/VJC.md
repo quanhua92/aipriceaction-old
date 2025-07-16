@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply** tích cực, VJC giảm từ 99.0 xuống 97.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tương đương (1.11 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục. Việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Mặc dù có sự điều chỉnh, nhưng đây vẫn là một phiên kiểm tra nguồn cung tích cực, chưa phải tín hiệu đảo chiều.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **Test for Supply** tích cực, VJC giảm từ 97.5 xuống 96.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.54 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục với áp lực bán tăng nhẹ. Việc giá điều chỉnh sâu hơn trên khối lượng tăng cho thấy có thêm áp lực bán chốt lời sau chuỗi tăng mạnh trước đó. Tuy nhiên, đây vẫn là giai đoạn kiểm tra nguồn cung tự nhiên, chưa phải tín hiệu đảo chiều hoàn toàn. Cần theo dõi phản ứng ở vùng hỗ trợ hiện tại.
 
 

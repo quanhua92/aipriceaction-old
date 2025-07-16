@@ -42,4 +42,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** ở vùng đỉnh. Sau phiên bùng nổ, thị trường đang tạm nghỉ để hấp thụ lực bán. Việc giá không giảm mạnh trên nền khối lượng vẫn còn cao là một tín hiệu tích cực.
 - **Ngày 2025-07-15:** TPB giảm từ 14.95 xuống 14.75 với đỉnh ngày đạt 15.1. Nến có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (19.39 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau khi thử nghiệm vùng kháng cự 15.1, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn. Tuy nhiên, việc khối lượng giảm so với phiên trước cho thấy áp lực bán không quá mạnh, đây vẫn là một nhịp kiểm tra bình thường trong xu hướng tăng.
+- **Ngày 2025-07-16:** TPB tăng mạnh từ 14.7 lên 14.9 với đỉnh ngày đạt 14.9. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (15.91 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Test for Supply, việc giá phục hồi về mức 14.9 với khối lượng giảm cho thấy lực cầu vẫn kiên định. Sự thiếu mặt của áp lực bán và khả năng phục hồi nhanh chóng là tín hiệu tích cực, xác nhận xu hướng tăng vẫn còn nguyên vẹn.
 
