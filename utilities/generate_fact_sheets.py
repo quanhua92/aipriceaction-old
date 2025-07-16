@@ -28,7 +28,7 @@ def read_plan_md():
         tickers = {}
         
         # Extract Top List tickers
-        top_section = re.search(r'## 2\. Top 1[0-9x]+ Cơ Hội Giao Dịch.*?(?=##|\Z)', content, re.DOTALL)
+        top_section = re.search(r'## 2\. Top 2[0-9] Cơ Hội Giao Dịch.*?(?=##|\Z)', content, re.DOTALL)
         if top_section:
             top_matches = re.findall(r'\*\*([A-Z]{3})\*\*', top_section.group(0))
             for ticker in top_matches:

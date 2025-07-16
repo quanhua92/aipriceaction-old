@@ -175,18 +175,18 @@ uv run utilities/assess_ticker_states.py
 - Comprehensive audit trail for all state changes
 - Eliminates human bias in ticker assessment
 
-### Step 5: STAGE 2 - PLAN.md Generation
-**Objective**: Generate complete PLAN.md using verified fact sheets and final states from `utilities/ticker_states.json`
+### Step 5: STAGE 2 - PLAN.md Enhancement
+**Objective**: Update existing PLAN.md using verified fact sheets and final states from `utilities/ticker_states.json`
 
-**Manual Generation Process**: Use the data from `utilities/ticker_states.json` and `utilities/fact_sheets.json` to manually craft a high-quality, readable PLAN.md with proper Vietnamese financial writing style.
+**Manual Enhancement Process**: Use the data from `utilities/ticker_states.json` and `utilities/fact_sheets.json` to manually enhance the existing high-quality PLAN.md while preserving its professional Vietnamese financial writing style.
 
 **Key Requirements**:
-- Use the automated assessments as the foundation, but write with human insight and nuance
-- Create engaging, readable Vietnamese financial content
-- Include proper market context and strategic reasoning
-- Maintain the audit trail accuracy while improving readability
-- Focus on actionable insights rather than robotic data presentation
-- **MANDATORY**: Include detailed analysis for at least 10 top tickers in Section 4
+- **PRESERVE EXISTING QUALITY**: Do not overwrite the existing well-crafted PLAN.md structure
+- Use the automated assessments to update confidence scores and add new opportunities
+- Enhance the existing Vietnamese financial content, don't replace it
+- Update dates and signals while maintaining professional tone
+- Add new tickers from utilities analysis to appropriate sections
+- **MANDATORY**: Maintain the existing detailed analysis for top tickers in Section 4
 
 **Quality Standards from Previous Success**:
 - Organize Top List by confidence tiers (90-95%, 85-89%, 75-84%)
@@ -306,16 +306,18 @@ uv run utilities/generate_fact_sheets.py
 # Step 4: Assess ticker states using VPA methodology  
 uv run utilities/assess_ticker_states.py
 
-# Step 5: Generate complete PLAN.md
-uv run utilities/generate_plan.py
+# Step 5: Manually enhance PLAN.md using JSON data
+# - Review utilities/ticker_states.json and utilities/fact_sheets.json
+# - Update existing PLAN.md with new signals and confidence scores
+# - Add new opportunities while preserving existing structure
 ```
 
-**Final Output**: Complete `PLAN.md` file with:
-- Comprehensive analysis of all 115+ tickers from TICKERS.csv
+**Final Output**: Enhanced `PLAN.md` file with:
+- Updated analysis of all 115+ tickers from TICKERS.csv
 - Systematic application of VPA-Strategist methodology
-- 22 new opportunities identified from the unlisted pool
+- New opportunities identified from the unlisted pool
 - Complete audit trail of all state changes
-- Professional Vietnamese financial report format
+- **PRESERVED** professional Vietnamese financial report format
 
 ## Quality Control Standards
 

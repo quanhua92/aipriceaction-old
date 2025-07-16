@@ -4,8 +4,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -17,7 +17,7 @@
   },
   "ACB": {
     "ticker": "ACB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
@@ -36,8 +36,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Weakness",
-      "date": "2025-07-11"
+      "signal": "No Demand",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -68,8 +68,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Strength",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -97,11 +97,11 @@
   },
   "BID": {
     "ticker": "BID",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Strength",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -129,11 +129,11 @@
   },
   "BSI": {
     "ticker": "BSI",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -148,8 +148,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -164,8 +164,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-09"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -183,7 +183,7 @@
       "signal": "No Signal",
       "date": "N/A"
     },
-    "daily_narrative_context": "No VPA data available",
+    "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
       "signal": "No Demand",
       "week_ending_date": "2025-07-07"
@@ -196,8 +196,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -273,7 +273,7 @@
   },
   "CTG": {
     "ticker": "CTG",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
@@ -481,11 +481,11 @@
   },
   "FPT": {
     "ticker": "FPT",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -500,8 +500,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -513,7 +513,7 @@
   },
   "FTS": {
     "ticker": "FTS",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
@@ -532,8 +532,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -548,8 +548,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-11"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -580,8 +580,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -596,8 +596,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -625,11 +625,11 @@
   },
   "HCM": {
     "ticker": "HCM",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -641,7 +641,7 @@
   },
   "HDB": {
     "ticker": "HDB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
@@ -660,8 +660,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -676,8 +676,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -689,11 +689,11 @@
   },
   "HPG": {
     "ticker": "HPG",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -705,7 +705,7 @@
   },
   "HSG": {
     "ticker": "HSG",
-    "previous_state": "Downgraded",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "No Demand",
@@ -849,7 +849,7 @@
   },
   "KDH": {
     "ticker": "KDH",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
@@ -881,7 +881,7 @@
   },
   "MBB": {
     "ticker": "MBB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
@@ -897,7 +897,7 @@
   },
   "MBS": {
     "ticker": "MBS",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Sign of Strength",
@@ -993,7 +993,7 @@
   },
   "MWG": {
     "ticker": "MWG",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
@@ -1121,7 +1121,7 @@
   },
   "PDR": {
     "ticker": "PDR",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
@@ -1188,8 +1188,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1204,8 +1204,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1220,8 +1220,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "No Demand",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1236,8 +1236,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1268,8 +1268,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1284,8 +1284,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1300,8 +1300,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1345,7 +1345,7 @@
   },
   "SHB": {
     "ticker": "SHB",
-    "previous_state": "Potential List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
@@ -1361,11 +1361,11 @@
   },
   "SHS": {
     "ticker": "SHS",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1380,8 +1380,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1397,7 +1397,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "No Demand",
-      "date": "2025-07-04"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1409,11 +1409,11 @@
   },
   "SSI": {
     "ticker": "SSI",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1473,7 +1473,7 @@
   },
   "TPB": {
     "ticker": "TPB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
@@ -1505,7 +1505,7 @@
   },
   "VCB": {
     "ticker": "VCB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
@@ -1537,7 +1537,7 @@
   },
   "VCI": {
     "ticker": "VCI",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
@@ -1649,11 +1649,11 @@
   },
   "VHM": {
     "ticker": "VHM",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1665,11 +1665,11 @@
   },
   "VIB": {
     "ticker": "VIB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1684,8 +1684,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1697,11 +1697,11 @@
   },
   "VIX": {
     "ticker": "VIX",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1717,7 +1717,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1745,11 +1745,11 @@
   },
   "VND": {
     "ticker": "VND",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "Sign of Strength",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1765,7 +1765,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1777,11 +1777,11 @@
   },
   "VPB": {
     "ticker": "VPB",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Strength",
-      "date": "2025-07-15"
+      "signal": "Test for Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1797,7 +1797,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1809,11 +1809,11 @@
   },
   "VRE": {
     "ticker": "VRE",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1825,11 +1825,11 @@
   },
   "VTP": {
     "ticker": "VTP",
-    "previous_state": "Top List",
+    "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "date": "2025-07-16"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {

@@ -1,8 +1,36 @@
 # Utilities Directory
 
-This directory contains supporting scripts that are not part of the core daily/weekly workflow but provide useful functionality for development and maintenance.
+This directory contains supporting scripts including both VPA-Strategist Protocol utilities and development tools.
 
-## Scripts
+## VPA-Strategist Protocol Utilities
+
+### Daily Planning Protocol
+Run these utilities in order for the Daily Planning Protocol:
+
+```bash
+# Step 1: Generate fact sheets for all tickers
+uv run utilities/generate_fact_sheets.py
+
+# Step 2: Assess ticker states using VPA methodology
+uv run utilities/assess_ticker_states.py
+
+# Step 3: Manually enhance PLAN.md using the generated JSON data
+# - Review utilities/ticker_states.json and utilities/fact_sheets.json
+# - Update existing PLAN.md with new signals and confidence scores
+# - Add new opportunities while preserving existing structure
+```
+
+**Important Notes:**
+- **DO NOT** use automated PLAN.md generation
+- The existing PLAN.md has professional quality that must be preserved
+- Use the JSON data to manually enhance the existing structure
+- Always maintain the Vietnamese financial writing style and detailed analysis sections
+
+### Files Generated
+- `fact_sheets.json` - Generated fact sheets (input for assess_ticker_states.py)
+- `ticker_states.json` - Final state assessments (input for manual PLAN.md enhancement)
+
+## Development and Maintenance Scripts
 
 ### `split_vpa.py`
 - **Purpose**: Splits combined VPA.md files into individual ticker files
