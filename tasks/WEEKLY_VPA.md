@@ -25,9 +25,37 @@ Use LS tool to check for dividend-adjusted tickers:
 **Success Criteria**: All dividend adjustments completed, `market_data_check_dividends_week/` directory is empty
 
 ### Step 2: Individual Ticker VPA Analysis
-**Objective**: Analyze each ticker using parallel agents for efficiency
+**Objective**: Analyze each ticker using automated preparation and efficient generation
 
-#### 2.1 Context Gathering (Internal Processing)
+#### 2.1 Ticker Batch Preparation
+**Split tickers into 8 batches for parallel processing**:
+
+```bash
+uv run utilities/split_tickers.py
+```
+
+This script automatically:
+- Reads TICKERS.csv and splits into 8 batch files
+- Creates utilities/data/batch_1.csv through batch_8.csv
+- Each batch contains 14-15 tickers for optimal parallel processing
+
+#### 2.2 Context Gathering (Automated)
+**Use Python utility for data preparation**:
+
+```bash
+uv run utilities/vpa_analysis_prep_week.py
+```
+
+This script automatically:
+- Scans all market_data_week CSV files for latest weekly data
+- Reads existing VPA analysis from vpa_data_week/ directory
+- Identifies tickers needing new analysis
+- Extracts context data (current week OHLCV, last 4 weeks OHLCV, latest VPA signal)
+- Provides summary of analysis requirements
+
+**Reference**: See `tasks/task_vpa_prep_python_week.md` for detailed usage
+
+#### 2.3 Context Gathering (Internal Processing)
 **CRITICAL**: Use LS tool to check market_data_week/ directory and Read tool to examine CSV files directly.
 **MANDATORY**: Always read both market_data_week CSV files AND existing vpa_data_week/*.md files to ensure accurate context.
 
@@ -60,7 +88,33 @@ For each ticker with new weekly data, create this internal context structure:
 }
 ```
 
-#### 2.2 Analysis Generation
+#### 2.4 Analysis Generation
+**Use multiple Task tools for parallel processing**:
+
+Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to process each batch concurrently.
+
+**PARALLEL PROCESSING RULE**: 
+- **ALWAYS launch exactly 8 Task tools concurrently** using a single message with multiple tool calls
+- **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv)
+- **Each batch contains 14-15 tickers** for optimal parallel processing
+
+**Key steps**:
+1. Read the task template: `tasks/task_generate_vpa_analysis_week.md`
+2. Create exactly 8 Task tool calls simultaneously, each with:
+   - Customized prompt with current date and batch file assignment
+   - Template from `tasks/task_generate_vpa_analysis_week.md`
+   - Instruction to read from utilities/data/batch_X.csv (where X = 1-8)
+3. Execute all 8 Task tools concurrently to maximize parallel processing
+4. Each task tool will handle format requirements and Vietnamese VPA analysis for its assigned batch
+
+**Reference**: See `tasks/task_generate_vpa_analysis_week.md` for:
+- Complete task prompt template
+- Vietnamese VPA format requirements
+- Wyckoff methodology guidelines
+- Number formatting rules (DOT separator)
+- Common VPA signals reference
+
+#### 2.5 Analysis Generation (Manual Mode)
 **CRITICAL**: Only append new date entries - NEVER overwrite existing VPA analysis unless dividends require price adjustments
 
 **Format Requirements**: Follow exact Vietnamese VPA format
@@ -91,7 +145,14 @@ For each ticker with new weekly data, create this internal context structure:
 - Examples: 64.4, 12.5, 123.45 (CORRECT)
 - Examples: 64,4, 12,5, 123,45 (INCORRECT)
 
-#### 2.3 File Output Processing
+#### 2.6 File Output Processing
+**Automatic handling by Task tool**:
+- Task tool automatically appends new date entries to existing `vpa_data_week/{TICKER}.md` files
+- Preserves all existing historical analysis
+- Ensures proper UTF-8 encoding for Vietnamese text
+- Skips tickers that already have current week's analysis
+
+#### 2.7 File Output Processing (Manual Mode)
 **APPEND-ONLY MODE** (Default - unless dividends processed):
 - **MANDATORY**: Use Read tool to examine existing `vpa_data_week/{TICKER}.md` files to get current analysis 
 - **MANDATORY**: Use LS tool to check if vpa_data_week/ directory exists, create it if needed
@@ -110,7 +171,7 @@ For each ticker with new weekly data, create this internal context structure:
 **Objective**: Validate analysis accuracy and consistency
 
 ```bash
-uv run verify_vpa_week.py
+uv run utilities/verify_vpa_week.py
 ```
 **Note**: Use Bash tool to run this command
 

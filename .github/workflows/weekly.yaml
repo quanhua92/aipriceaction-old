@@ -52,11 +52,41 @@ jobs:
           # Remove the old reports directory to clear out stale charts.
           rm -rf reports_week/*
 
-      # Step 5: Run the main Python script to generate the new files.
+      # Step 5: Check for dividend adjustments
+      - name: Check for dividend adjustments
+        run: |
+          if [ -d "market_data_check_dividends_week" ] && [ "$(ls -A market_data_check_dividends_week)" ]; then
+            echo "Dividend adjustments detected for weekly data"
+            # Add dividend processing logic here if needed
+          else
+            echo "No dividend adjustments needed for weekly data"
+          fi
+
+      # Step 6: Prepare ticker batches for parallel processing
+      - name: Prepare ticker batches
+        run: |
+          mkdir -p utilities/data
+          python utilities/split_tickers.py
+
+      # Step 7: Prepare VPA analysis context
+      - name: Prepare weekly VPA analysis context
+        run: python utilities/vpa_analysis_prep_week.py
+
+      # Step 8: Run the main Python script to generate the new files.
       - name: Run data pipeline and generate report
         run: python main.py --week --check-dividend
 
-      # Step 6: Combine only the last 40 lines of each market data file.
+      # Step 9: Verify VPA analysis quality
+      - name: Verify weekly VPA analysis
+        run: |
+          if [ -d "vpa_data_week" ] && [ "$(ls -A vpa_data_week)" ]; then
+            echo "Running weekly VPA verification..."
+            python utilities/verify_vpa_week.py
+          else
+            echo "No VPA data to verify"
+          fi
+
+      # Step 10: Combine only the last 40 lines of each market data file.
       - name: Combine last 40 lines of market data
         run: |
           cd market_data_week
@@ -78,7 +108,7 @@ jobs:
 
           echo "Last 40 lines of each file have been combined into $tail_output_file"
 
-      # Step 7: Commit and push the updated report, data, and charts to the repository.
+      # Step 11: Commit and push the updated report, data, and charts to the repository.
       - name: Commit and push changes
         run: |
           # Configure git with the details of the last commit's author to keep authorship consistent.
