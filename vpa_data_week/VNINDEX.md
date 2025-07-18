@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy thị trường chung vẫn đang trong một xu hướng tăng vững chắc, được dẫn dắt bởi lực cầu mạnh.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, VNINDEX có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (1457.76) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt, xác nhận cho sức mạnh của đà tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng của thị trường chung được củng cố.
+- **Ngày 2025-07-14:** Tiếp tục xu hướng tăng mạnh, VNINDEX có một tuần tăng giá với biên độ rộng từ 1447.72 đến 1501.2, đóng cửa (1497.28) gần mức cao nhất tuần. Khối lượng giao dịch tăng mạnh lên 7.032 tỷ, cao hơn đáng kể so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xây dựng trên đà tăng mạnh từ tuần trước. Khối lượng gia tăng kết hợp với giá đóng cửa cao cho thấy sự tham gia tích cực của các nhà đầu tư tổ chức và xu hướng tăng dài hạn đang được củng cố.
 
 

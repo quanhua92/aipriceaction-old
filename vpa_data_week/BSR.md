@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá có thể phục hồi nhẹ trên nền khối lượng thấp cho thấy áp lực bán đã tạm thời cạn kiệt. Tuy nhiên, cần một nến tăng mạnh hơn để xác nhận sự quay trở lại của phe mua.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra No Supply thành công của tuần trước, BSR đã có một tuần tăng giá mạnh mẽ. Nến tăng có thân dài, đóng cửa (18.45) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt, phủ nhận tín hiệu yếu trước đó.
+- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, BSR tiếp tục tăng giá với nến tăng biên độ rộng, đóng cửa (19.0) cao hơn tuần trước và tạo mức cao mới. Khối lượng giao dịch tiếp tục tăng mạnh.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xây dựng trên đà tăng mạnh từ tuần trước. Khối lượng gia tăng kết hợp với giá đóng cửa cao cho thấy lực cầu vẫn rất quyết liệt và xu hướng tăng được củng cố.
 
 

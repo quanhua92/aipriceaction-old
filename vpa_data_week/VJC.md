@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu này là **No Supply**, cần chờ đợi một sự phá vỡ rõ ràng hơn về giá và khối lượng để xác định xu hướng.
 - **Ngày 2025-07-07:** Sau tín hiệu No Supply của tuần trước, VJC có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (100.0) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, phá vỡ sự do dự trước đó.
+- **Ngày 2025-07-14:** VJC có một tuần giao dịch biến động với nến giảm có thân dài, mở cửa (100.4) cao hơn tuần trước nhưng đóng cửa (93.3) thấp hơn đáng kể. Khối lượng giao dịch tăng nhẹ lên 8.1 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Sau phiên Sign of Strength mạnh của tuần trước, đây là một **Test for Supply**. Việc giá bị bán xuống từ mức cao trên khối lượng tăng cho thấy có áp lực bán ở vùng giá cao, cổ phiếu cần thời gian để kiểm tra mức hỗ trợ.
 
 

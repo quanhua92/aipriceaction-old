@@ -10,3 +10,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực mua đã quay trở lại một cách mạnh mẽ sau một thời gian tích lũy, báo hiệu khả năng bắt đầu một xu hướng tăng mới.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, HT1 có một tuần tăng giá mạnh mẽ với một nến tăng thân dài, đóng cửa (13.15) gần mức cao nhất tuần. Khối lượng giao dịch tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** HT1 có một tuần điều chỉnh nhẹ với một nến giảm biên độ hẹp, đóng cửa (13.0) từ mức cao 13.15 của tuần trước. Giá dao động từ 12.85 đến 13.3. Khối lượng giao dịch giảm mạnh xuống 2.6 triệu so với 4.5 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Việc giá điều chỉnh nhẹ với khối lượng thấp cho thấy không có áp lực bán lớn, là tín hiệu No Supply và xu hướng tăng vẫn được duy trì.

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực mua đã quay trở lại một cách quyết liệt sau một giai đoạn đi ngang, báo hiệu khả năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-07:** Sau tuần tăng giá mạnh mẽ, MCH có một tuần giảm giá mạnh, tạo thành một nến giảm thân dài và đóng cửa (119.5) gần mức thấp nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**. Việc giá giảm mạnh trên khối lượng lớn cho thấy áp lực bán đã quay trở lại và áp đảo, có khả năng kết thúc đợt phục hồi.
+- **Ngày 2025-07-14:** MCH tiếp tục xu hướng giảm với nến giảm biên độ hẹp, đóng cửa (118.0) từ 119.5 tuần trước. Giá dao động từ 117.6 đến 121.4. Khối lượng giao dịch giảm xuống 1.7 triệu so với 1.8 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand**. Việc giá tiếp tục giảm sau Sign of Weakness tuần trước với khối lượng giảm cho thấy phe mua đã rút lui và xu hướng giảm có thể tiếp diễn.
 
 

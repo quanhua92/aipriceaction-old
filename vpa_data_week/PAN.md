@@ -10,3 +10,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá ổn định với khối lượng thấp cho thấy áp lực bán đã suy yếu. Tín hiệu này là trung tính đến No Supply, nhưng cần một cú bứt phá để xác nhận xu hướng.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung của tuần trước, PAN có một tuần tăng giá mạnh mẽ với một nến tăng thân dài, đóng cửa (28.85) gần mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, báo hiệu khả năng kết thúc đợt điều chỉnh.
+- **Ngày 2025-07-14:** PAN tiếp tục xu hướng tăng mạnh mẽ với nến tăng có biên độ rộng, đóng cửa (30.4) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 31.1. Khối lượng giao dịch tăng 14% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, cho thấy momentum tăng đang được duy trì bởi lực cầu mạnh mẽ. Việc phá vỡ mức kháng cự với khối lượng tăng cho thấy dòng tiền institutional tiếp tục tham gia tích cực, củng cố xu hướng tăng.

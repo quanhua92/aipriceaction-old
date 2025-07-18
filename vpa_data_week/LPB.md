@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững trên nền khối lượng thấp cho thấy áp lực bán đã giảm bớt, là một tín hiệu No Supply cho thấy thị trường đang tích lũy và có thể sớm tăng trở lại.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, LPB có một tuần tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng cho thấy lực cầu vẫn đang kiểm soát, tuy nhiên biên độ hẹp cho thấy đà tăng đang chững lại.
+- **Ngày 2025-07-14:** LPB có một tuần tăng giá mạnh mẽ với nến tăng thân dài, đóng cửa (34.6) tăng từ 33.0 tuần trước. Giá dao động từ 32.65 đến 34.85 với biên độ rộng. Khối lượng giao dịch tăng lên 18.8 triệu so với 16.8 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Việc giá tăng đáng kể kèm theo khối lượng tăng cho thấy lực cầu đang áp đảo và xu hướng tăng được củng cố sau giai đoạn tích lũy.
 
 

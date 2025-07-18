@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Lực cầu đã quay trở lại một cách quyết liệt, hấp thụ hết lực bán và báo hiệu khả năng kết thúc đợt điều chỉnh.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, BSI có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (44.25) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt, xác nhận cho sức mạnh của đà tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** Tiếp tục xu hướng tăng với nến tăng biên độ rộng, đóng cửa (45.6) cao hơn tuần trước và tạo mức cao mới. Khối lượng giao dịch giảm nhẹ nhưng vẫn duy trì ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xây dựng trên đà tăng mạnh từ tuần trước. Việc giá tiếp tục tăng trên nền khối lượng giảm nhẹ cho thấy áp lực bán đã cạn kiệt và xu hướng tăng đang được củng cố.
 
 

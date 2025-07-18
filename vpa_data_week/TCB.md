@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phản ứng tự nhiên sau một **Climax**. Sự xuất hiện của nguồn cung là một **Sign of Weakness**, Test for Supply rằng đà tăng đã tạm thời bị chặn lại.
 - **Ngày 2025-07-07:** Sau Dấu hiệu Yếu kém của tuần trước, TCB có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch tăng nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau khi nguồn cung xuất hiện. Việc giá không thể phục hồi trên khối lượng tăng cho thấy phe mua yếu, củng cố cho tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** TCB phục hồi với một tuần tăng giá tốt, từ 34.95 lên 36.25 (+3.7%). Nến tăng với thân dài, đỉnh tuần tại 36.5, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng lên 103.785.507 so với tuần trước (90.199.777).
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau giai đoạn yếu kém. Việc giá tăng (+3.7%) kèm theo khối lượng tăng (+15%) cho thấy có sự quay trở lại của dòng tiền mua. Tuy nhiên, đây mới chỉ là nỗ lực tăng giá, cần quan sát thêm để xác định liệu đà tăng có được duy trì hay không.
 
 

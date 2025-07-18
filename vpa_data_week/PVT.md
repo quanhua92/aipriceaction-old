@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**, cho thấy sự từ chối giá ở vùng cao hơn. Áp lực bán đã quay trở lại và chiếm ưu thế.
 - **Ngày 2025-07-07:** Sau Dấu hiệu Yếu kém của tuần trước, PVT có một tuần phục hồi với một nến tăng có biên độ vừa phải, đóng cửa (18.2) cao hơn. Khối lượng giao dịch tăng nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, cho thấy lực cầu đang cố gắng quay trở lại. Tuy nhiên, cần một nến tăng mạnh hơn để xác nhận sự đảo chiều.
+- **Ngày 2025-07-14:** Tiếp nối nỗ lực tăng của tuần trước, PVT có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (18.3) cao hơn. Khối lượng giao dịch giảm so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** yếu. Việc giá tăng nhẹ trên nền khối lượng giảm cho thấy áp lực bán đang suy yếu, nhưng cần xác nhận bằng một nến tăng mạnh hơn.
 
 

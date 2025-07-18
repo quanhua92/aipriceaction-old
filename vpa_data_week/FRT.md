@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** được xác nhận. Lực cầu vẫn đang kiểm soát thị trường và con đường ít kháng cự nhất vẫn là đi lên.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, FRT có một tuần điều chỉnh với một nến giảm. Khối lượng giao dịch tăng nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán đã xuất hiện, là một tín hiệu Test for Supply trong ngắn hạn.
+- **Ngày 2025-07-14:** FRT phục hồi mạnh mẽ sau test tuần trước, tăng từ 146.48 lên 152.3 (+4.0%) với biên độ tăng tốt. Khối lượng giao dịch tăng mạnh, xác nhận cho sức mạnh của đà tăng.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Sau test for supply thành công tuần trước, FRT đã chứng minh được sức mạnh với việc phục hồi nhanh chóng trên nền khối lượng cao, cho thấy lực cầu vẫn đang kiểm soát.
 
 

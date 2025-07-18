@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Lực bán có vẻ đang yếu đi, nhưng cần một nến tăng mạnh để xác nhận sự quay trở lại của phe mua.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung của tuần trước, POW có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (13.45) cao hơn. Khối lượng giao dịch tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại sau một thời gian đi ngang, phá vỡ sự thiếu quan tâm trước đó.
+- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, POW có một tuần tăng giá mạnh mẽ với nến tăng thân dài, đóng cửa (14.0) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt lên mức rất cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận sức mạnh của xu hướng tăng. Việc giá phá vỡ lên trên với khối lượng lớn cho thấy lực cầu đang chiếm ưu thế hoàn toàn.
 
 

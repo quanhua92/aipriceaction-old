@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực kỳ mạnh mẽ, phá vỡ vùng đi ngang kéo dài, cho thấy dòng tiền lớn đang tham gia và mở ra một giai đoạn tăng giá mới.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, MSN có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (76.5) cao hơn. Khối lượng giao dịch duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu vẫn đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** MSN tiếp tục xu hướng tăng mạnh mẽ với nến tăng có biên độ rộng, đóng cửa (79.1) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 81.0. Khối lượng giao dịch tăng thêm 13% lên 46 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, cho thấy xu hướng tăng đang được duy trì bởi lực cầu mạnh mẽ. Việc tăng giá với khối lượng cao liên tiếp cho thấy dòng tiền institutional tiếp tục tham gia tích cực, củng cố momentum tăng.
 
 

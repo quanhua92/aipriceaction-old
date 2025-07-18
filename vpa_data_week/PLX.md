@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Upthrust** và là một **Sign of Weakness**, cho thấy nỗ lực đi lên đã thất bại và phe bán đang quay trở lại kiểm soát.
 - **Ngày 2025-07-07:** Sau cú Upthrust yếu kém của tuần trước, PLX có một tuần tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Đây là một nỗ lực phục hồi yếu ớt trên nền khối lượng thấp, một tín hiệu **No Demand**. Việc giá không thể phục hồi mạnh mẽ sau đợt giảm cho thấy phe mua vẫn còn yếu thế.
+- **Ngày 2025-07-14:** PLX tiếp tục yếu với nến giảm nhẹ có biên độ hẹp, đóng cửa (37.3) thấp hơn tuần trước. Khối lượng giao dịch tăng 32% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand** tiếp tục. Việc giá không thể tăng trên nền khối lượng tăng cho thấy lực cầu vẫn yếu, tiếp tục xác nhận tín hiệu tiêu cực từ các tuần trước.
 
 

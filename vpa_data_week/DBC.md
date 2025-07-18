@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc liên tục trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
 - **Ngày 2025-07-07:** Sau tuần tăng giá bùng nổ có dấu hiệu của một Cao trào mua, DBC đã có một tuần đảo chiều giảm giá. Cổ phiếu mở cửa tăng nhưng sau đó bị bán tháo, tạo thành một nến giảm có bóng trên dài và đóng cửa (33.7) thấp. Khối lượng giao dịch duy trì ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một cú **Upthrust** và là một **Sign of Weakness**. Sự xuất hiện của áp lực bán mạnh ở vùng đỉnh xác nhận khả năng bắt đầu một giai đoạn phân phối hoặc điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu Upthrust yếu kém của tuần trước, DBC tiếp tục đi ngang với nến doji có biên độ hẹp, đóng cửa (33.7) không đổi so với tuần trước. Biên độ giao dịch từ 33.3 đến 34.85 cho thấy sự do dự. Khối lượng giao dịch giảm xuống 48.581.456 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau tín hiệu yếu. Việc giá đi ngang với khối lượng giảm cho thấy cả phe mua và phe bán đều đang do dự. Thị trường cần một xúc tác rõ ràng để xác định hướng đi tiếp theo sau giai đoạn điều chỉnh.
 
 

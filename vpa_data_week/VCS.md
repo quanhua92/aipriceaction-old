@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply**, cho thấy lực cầu đang dần quay trở lại sau một thời gian dài tích lũy. Việc giá tăng trên khối lượng không quá đột biến cho thấy không có nhiều kháng cự.
 - **Ngày 2025-07-07:** Tiếp nối tín hiệu No Supply của tuần trước, VCS có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (49.8) cao hơn. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** VCS tiếp tục xu hướng tăng với một tuần tăng giá tốt, từ 49.8 lên 50.0 (+0.4%). Nến tăng với thân dài, đỉnh tuần tại 54.5, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ lên 1.052.197 so với tuần trước (1.033.983).
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau tín hiệu sức mạnh. Việc giá tăng (+0.4%) trên nền khối lượng tăng nhẹ (+2%) cho thấy áp lực bán rất yếu. Điều này khẳng định xu hướng tăng từ Sign of Strength tuần trước, thể hiện sức mạnh nội tại của cổ phiếu.
 
 

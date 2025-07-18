@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, cho thấy lực cầu vẫn đang kiểm soát và xu hướng tăng đang tiếp diễn.
 - **Ngày 2025-07-07:** Tiếp nối nỗ lực tăng giá của tuần trước, VGI có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (75.5) cao hơn. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** VGI có một tuần điều chỉnh sau đà tăng mạnh, từ 75.5 xuống 74.7 (-1.1%). Nến giảm với biên độ rộng, đỉnh tuần tại 76.9, đóng cửa gần mức trung bình. Khối lượng giao dịch giảm xuống 3.526.021 so với tuần trước (3.731.932).
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau tín hiệu sức mạnh. Việc giá điều chỉnh (-1.1%) trên nền khối lượng giảm (-6%) cho thấy áp lực bán không lớn. Đây là sự điều chỉnh tự nhiên sau Sign of Strength tuần trước, thể hiện sự hấp thụ tốt và khả năng tiếp tục xu hướng tăng.
 
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu đáng báo động. Việc giá không giữ được mức cao trên nền khối lượng đột biến cho thấy áp lực bán (phân phối) rất lớn đang diễn ra. Đây là một cú **Upthrust** và là một **Sign of Weakness**.
 - **Ngày 2025-07-07:** Sau tín hiệu Upthrust yếu kém của tuần trước, FTS có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (40.9) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** FTS tiếp tục xu hướng tăng với một nến tăng nhẹ, từ 40.9 lên 41.1 (+0.5%) với biên độ hẹp. Khối lượng giao dịch duy trì ở mức cao tương đương tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Sau Sign of Strength tuần trước, việc giá giữ vững và tăng nhẹ trên nền khối lượng cao cho thấy không có áp lực bán đáng kể, củng cố cho xu hướng tăng.
 
 

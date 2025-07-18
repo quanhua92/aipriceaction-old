@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Việc nỗ lực (khối lượng) lớn nhưng không tạo ra kết quả (giá tăng) là một tín hiệu đáng lo ngại. Điều này cho thấy nguồn cung đang hấp thụ hết lực mua, một dạng **No Demand** trên nền khối lượng cao, hàm ý sự yếu kém tiềm tàng.
 - **Ngày 2025-07-07:** Sau tín hiệu No Demand trên nền khối lượng cao của tuần trước, MBS có một tuần tăng giá bùng nổ. Nến tăng có thân dài, đóng cửa (29.3) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** MBS tiếp tục xu hướng tăng mạnh mẽ với nến tăng thân dài, đóng cửa (30.1) tăng từ 29.3 tuần trước. Giá dao động từ 28.7 đến 31.2 với biên độ rộng. Khối lượng giao dịch tăng lên 47.3 triệu so với 45.6 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Việc giá tiếp tục tăng đáng kể kèm theo khối lượng tăng cho thấy lực cầu đang áp đảo và xu hướng tăng được củng cố mạnh mẽ.
 
 

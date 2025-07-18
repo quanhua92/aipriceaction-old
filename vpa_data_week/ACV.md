@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững trên nền khối lượng cao cho thấy thị trường đang hấp thụ lực chốt lời. Tín hiệu No Supply, cần quan sát thêm.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung của tuần trước, ACV đã không thể giữ được và quay đầu giảm mạnh. Nến tuần là một nến giảm có biên độ rộng, đóng cửa (93.8) gần mức thấp nhất tuần. Khối lượng giao dịch tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**, cho thấy phe bán đã thắng thế và xu hướng giảm có khả năng sẽ tiếp diễn.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu yếu của tuần trước, ACV có một tuần phục hồi nhẹ với nến tăng biên độ hẹp, đóng cửa (95.3) cao hơn tuần trước. Khối lượng giao dịch giảm nhẹ xuống 2.69 triệu cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** hoặc **No Supply** tạm thời. Việc giá có thể hồi phục trên nền khối lượng giảm cho thấy áp lực bán đã cạn kiệt một phần, nhưng cần xác nhận thêm từ các tuần tiếp theo.
 
 

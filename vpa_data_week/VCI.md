@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu của sự **No Demand** hoặc sự giằng co (churning). Phe mua đang gặp khó khăn, cho thấy xu hướng tăng đang suy yếu.
 - **Ngày 2025-07-07:** Sau tín hiệu yếu kém của tuần trước, VCI có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (41.05) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** VCI tiếp tục xu hướng tăng mạnh với một tuần tăng giá tốt, từ 42.2 lên 41.7 (+1.6%). Nến tăng với thân dài, đỉnh tuần tại 43.6, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng lên 88.191.867 so với tuần trước (83.601.783).
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo. Việc giá tiếp tục tăng (+1.6%) kèm theo khối lượng tăng (+5%) cho thấy dòng tiền mua duy trì mạnh mẽ. Điều này khẳng định xu hướng tăng từ Sign of Strength tuần trước, thể hiện sự tiếp tục của đà tăng giá mạnh mẽ.
 
 

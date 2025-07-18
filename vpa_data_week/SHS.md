@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trên nền khối lượng cao, cho thấy lực mua đang bị hấp thụ bởi lực bán. Đây là một dấu hiệu của sự yếu kém tiềm tàng.
 - **Ngày 2025-07-07:** Sau tín hiệu yếu kém của tuần trước, SHS có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (14.6) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, SHS có một tuần tăng giá bùng nổ với nến tăng thân dài, đóng cửa (16.8) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt lên mức kỷ lục.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Tuy nhiên, sự tăng tốc quá nhanh trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
 
 

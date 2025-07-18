@@ -10,3 +10,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, phá vỡ vùng đi ngang kéo dài, cho thấy lực cầu đã quay trở lại một cách mạnh mẽ và quyết liệt.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, NT2 có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch giảm nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững sau một đợt tăng mạnh là một tín hiệu No Supply, cho thấy thị trường đang hấp thụ tốt lực chốt lời.
+- **Ngày 2025-07-14:** NT2 phục hồi mạnh mẽ với nến tăng có biên độ tốt, đóng cửa (20.1) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần tại 20.25. Khối lượng giao dịch tăng 26% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, xác nhận tín hiệu Test for Supply thành công từ tuần trước. Việc tăng giá với khối lượng cao cho thấy lực cầu institutional đã trở lại tích cực, mở ra giai đoạn tăng giá mới.

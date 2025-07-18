@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng nhẹ trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán yếu, nhưng lực cầu cũng chưa thực sự quyết liệt. Tín hiệu No Supply đến No Supply.
 - **Ngày 2025-07-07:** Sau tín hiệu No Supply của tuần trước, CSC đã có một tuần tăng giá mạnh mẽ. Nến tăng có thân dài, đóng cửa (21.9) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt, phá vỡ sự do dự trước đó.
+- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, CSC tiếp tục đà tăng mạnh mẽ. Nến tăng có thân dài, đóng cửa (22.4) gần mức cao nhất tuần, với biên độ từ 21.0 đến 23.0. Khối lượng giao dịch tăng mạnh lên 369.008 cp, cao hơn hẳn tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** liên tiếp, cho thấy lực cầu đang rất mạnh mẽ và quyết liệt. Việc giá và khối lượng cùng tăng xác nhận xu hướng tăng đang được củng cố vững chắc.
 
 

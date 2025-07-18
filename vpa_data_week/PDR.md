@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ được thành quả trên nền khối lượng thấp là một tín hiệu No Supply, cho thấy thị trường đang hấp thụ và có thể chuẩn bị cho đợt tăng tiếp theo.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, PDR đã có một tuần tăng giá mạnh mẽ. Nến tăng có thân dài, đóng cửa (18.75) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt và xu hướng tăng đang tiếp diễn.
+- **Ngày 2025-07-14:** PDR có một tuần bùng nổ mạnh mẽ với nến tăng có biên độ rất rộng, đóng cửa (20.55) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 21.9. Khối lượng giao dịch tăng vọt 45% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực kỳ mạnh mẽ, cho thấy xu hướng tăng đang được thúc đẩy bởi lực cầu khổng lồ. Việc phá vỡ các mức kháng cự với khối lượng khổng lồ cho thấy dòng tiền institutional đang tham gia rất mạnh mẽ, mở ra giai đoạn tăng giá đáng kể.
 
 

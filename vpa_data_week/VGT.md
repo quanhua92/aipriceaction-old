@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, phá vỡ vùng đi ngang, cho thấy dòng tiền lớn đang tham gia và mở ra một xu hướng tăng mới.
 - **Ngày 2025-07-07:** Sau tuần bùng nổ trước đó, VGT có một tuần điều chỉnh với một nến giảm, đóng cửa (12.1) thấp hơn. Khối lượng giao dịch giảm mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
+- **Ngày 2025-07-14:** VGT tiếp tục phục hồi với một tuần tăng giá nhẹ, từ 12.1 lên 12.2 (+0.8%). Nến tăng với biên độ hẹp, đỉnh tuần tại 12.4, đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm xuống 6.141.676 so với tuần trước (8.281.875).
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp theo. Việc giá tăng nhẹ (+0.8%) trên nền khối lượng giảm (-26%) cho thấy áp lực bán rất yếu. Điều này tiếp tục khẳng định xu hướng tăng từ tín hiệu No Supply tuần trước, thể hiện sự tích lũy và khả năng tiếp tục phục hồi.
 
 

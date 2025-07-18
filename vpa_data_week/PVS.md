@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness** rõ ràng, cho thấy áp lực chốt lời và phân phối đang diễn ra mạnh mẽ. Đà tăng đã bị chặn lại và rủi ro đảo chiều đang tăng lên.
 - **Ngày 2025-07-07:** Sau Dấu hiệu Yếu kém của tuần trước, PVS có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (33.1) cao hơn. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Việc giá có thể phục hồi trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán đã suy yếu, là một tín hiệu No Supply cho xu hướng tăng.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, PVS có một tuần tăng giá tiếp tục với nến tăng biên độ vea, đóng cửa (34.2) cao hơn. Khối lượng giao dịch tăng nhẹ so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, cho thấy lực cầu đang quay trở lại và cố gắng đẩy giá lên. Việc khối lượng tăng cùng với giá là tín hiệu tích cực.
 
 

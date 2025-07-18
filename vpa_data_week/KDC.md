@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phản ứng tự nhiên sau một **Climax**. Sự xuất hiện của nguồn cung là một **Sign of Weakness**, cho thấy đà tăng đã tạm thời bị chặn lại.
 - **Ngày 2025-07-07:** Sau Dấu hiệu Yếu kém của tuần trước, KDC có một tuần giảm giá nhẹ với biên độ hẹp. Khối lượng giao dịch duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau khi nguồn cung xuất hiện. Việc giá không thể phục hồi trên khối lượng cao cho thấy phe mua yếu, củng cố cho tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** KDC có một tuần điều chỉnh nhẹ với nến giảm biên độ hẹp, đóng cửa (56.0) từ 56.5 tuần trước. Giá dao động từ 55.6 đến 56.9. Khối lượng giao dịch tăng nhẹ lên 2.6 triệu so với 2.5 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** với kết quả trung tính. Việc giá giữ vững với khối lượng ổn định cho thấy áp lực bán không lớn, tuy nhiên chưa có tín hiệu mua mạnh mẽ để khẳng định xu hướng.
 
 

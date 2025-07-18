@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Thị trường đang trong trạng thái đi ngang, thiếu sự quan tâm. Cần một sự đột phá về giá và khối lượng để xác định xu hướng mới.
 - **Ngày 2025-07-07:** Sau tín hiệu No Demand của tuần trước, SSH có một tuần đi ngang với một nến tăng biên độ hẹp. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá giữ vững trên nền khối lượng thấp là một tín hiệu No Supply, cho thấy thị trường đang hấp thụ và có thể sớm tăng trở lại.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, SSH có một tuần tăng giá mạnh với nến tăng thân dài, đóng cửa (92.8) ở mức cao nhất tuần. Khối lượng giao dịch giảm nhẹ.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** chuyển thành **Sign of Strength**. Việc giá có thể tăng mạnh trên nền khối lượng thấp xác nhận áp lực bán rất yếu và đà tăng đang được củng cố.
 
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Mặc dù là một nến giảm, việc khối lượng giảm và biên độ hẹp cho thấy áp lực bán không quá lớn. Tín hiệu No Supply, cần quan sát thêm.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung của tuần trước, HDB có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (24.45) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã quay trở lại một cách quyết liệt, phá vỡ sự do dự trước đó.
+- **Ngày 2025-07-14:** HDB có một tuần đi nằng nhẹ, giảm từ 24.45 xuống 24.4 (-0.2%) với biên độ hẹp. Khối lượng giao dịch giảm nhưng vẫn ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá giữ vững gần đỉnh trên nền khối lượng cao cho thấy không có áp lực bán đáng kể, đây là tín hiệu tích cực cho xu hướng tăng tiếp tục.
 
 

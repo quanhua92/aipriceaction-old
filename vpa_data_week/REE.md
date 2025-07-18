@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** về sự xuất hiện của nguồn cung. Mặc dù xu hướng chính vẫn là tăng, nhưng việc giá giảm trên khối lượng tăng cho thấy áp lực bán đang gia tăng. Cần quan sát chặt chẽ ở tuần tiếp theo.
 - **Ngày 2025-07-07:** Sau tín hiệu Test for Supply của tuần trước, REE có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá giữ vững trên nền khối lượng thấp sau một đợt tăng là một tín hiệu No Supply, cho thấy thị trường đang hấp thụ tốt và có thể sớm tăng trở lại.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, REE có một tuần tăng giá tốt với nến tăng biên độ rộng, đóng cửa (68.5) cao hơn. Khối lượng giao dịch tăng mạnh so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận sự quay trở lại của lực cầu. Việc giá tăng với khối lượng tăng cho thấy đà tăng được củng cố sau giai đoạn hấp thụ.
 
 

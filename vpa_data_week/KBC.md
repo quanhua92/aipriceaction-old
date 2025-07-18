@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang quay trở lại mạnh mẽ sau một thời gian điều chỉnh. Tín hiệu này ủng hộ cho khả năng giá sẽ tiếp tục phục hồi.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, KBC có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (27.5) cao hơn. Khối lượng giao dịch duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu vẫn đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** KBC tiếp tục xu hướng tăng với nến tăng thân dài, đóng cửa (28.45) tăng từ 27.5 tuần trước. Giá dao động từ 27.5 đến 28.8. Khối lượng giao dịch giảm xuống 30.0 triệu so với 38.7 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng sau hai tuần Sign of Strength liên tiếp cho thấy momentum tăng trưởng mạnh mẽ được duy trì, mặc dù khối lượng giảm nhưng vẫn ở mức cao.
 
 

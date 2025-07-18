@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu vẫn đang rất mạnh mẽ và xu hướng tăng của cổ phiếu vẫn được duy trì tốt.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, HPG có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (26.0) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt lên mức kỷ lục, xác nhận cho sức mạnh của đà tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc quá nhanh trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
+- **Ngày 2025-07-14:** HPG có một tuần điều chỉnh nhẹ, giảm từ 26.0 xuống 25.9 (-0.4%) với biên độ hẹp. Khối lượng giao dịch giảm nhưng vẫn ở mức rất cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Climax tuần trước. Việc giá chỉ điều chỉnh nhẹ trên nền khối lượng giảm cho thấy áp lực bán không quá mạnh, đây là tín hiệu tích cực cho thấy xu hướng tăng vẫn có thể tiếp tục.
 
 

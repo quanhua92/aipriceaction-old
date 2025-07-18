@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú **Upthrust** trong ngày, cho thấy nỗ lực tăng giá đã bị nguồn cung chặn lại. Đây là một **Sign of Weakness** ngắn hạn, Test for Supply rằng đà tăng đang gặp kháng cự mạnh.
 - **Ngày 2025-07-07:** Sau cú Upthrust yếu kém của tuần trước, IPA có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (15.0) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** IPA tiếp tục xu hướng tăng với nến tăng thân dài, đóng cửa (15.4) tăng từ 15.0 tuần trước. Giá dao động từ 14.5 đến 16.0 với biên độ tốt. Khối lượng giao dịch giảm xuống 2.8 triệu so với 3.3 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng sau Sign of Strength tuần trước cho thấy momentum tăng trưởng được duy trì, mặc dù khối lượng giảm nhưng vẫn ở mức cao.
 
 

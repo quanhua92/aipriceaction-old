@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu này là **No Supply**, cho thấy sự cân bằng giữa cung và cầu. Cần chờ đợi một sự phá vỡ khỏi vùng đi ngang này.
 - **Ngày 2025-07-07:** Sau tín hiệu No Supply của tuần trước, QNS có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (48.6) cao hơn. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán yếu, là một tín hiệu No Supply cho xu hướng tăng.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, QNS có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (48.7) cao hơn. Khối lượng giao dịch tăng nhẹ.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp tục với sự quan tâm tăng nhẹ. Việc giá tiếp tục tăng trên nền khối lượng vừa phải cho thấy áp lực bán yếu và đà tăng có thể tiếp tục.
 
 

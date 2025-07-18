@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững trên nền khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời không lớn và thị trường đang hấp thụ tốt.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, NVL có một tuần giảm giá nhẹ với biên độ hẹp. Khối lượng giao dịch tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau khi nguồn cung xuất hiện. Việc giá không thể tăng trên khối lượng lớn cho thấy phe mua yếu, làm suy yếu tín hiệu No Supply trước đó.
+- **Ngày 2025-07-14:** NVL bùng nổ với nến tăng có biên độ rộng, đóng cửa (16.95) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 17.5. Khối lượng giao dịch tăng vọt 56% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, phản bác hoàn toàn tín hiệu No Demand của tuần trước. Việc tăng giá đột biến với khối lượng khổng lồ cho thấy lực cầu institutional đã trở lại mạnh mẽ, mở ra giai đoạn tăng giá mới.
 
 

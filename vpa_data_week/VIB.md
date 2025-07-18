@@ -8,7 +8,9 @@
     - **Phân tích VPA/Wyckoff:** Một **Effort to Rise**.
 - **Ngày 2025-06-23:** VIB có một tuần giao dịch đi ngang với biên độ hẹp, đóng cửa không đổi so với tuần trước. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững trên nền khối lượng thấp cho thấy áp lực bán không lớn, là một tín hiệu No Supply cho thấy thị trường đang tích lũy và có thể sớm tăng trở lại.
-- **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, VIB đã có một tuần tăng giá mạnh mẽ. Nến tăng có thân dài, đóng cửa (19.35) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
+- **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, VIB đã có một tuần tăng giá mạnh mẽ. Nến tăng có thân dài, đóng cửa (16.97) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt và xu hướng tăng đang tiếp diễn.
+- **Ngày 2025-07-14:** VIB tiếp tục tăng nhẹ với nến tăng thân ngắn, đóng cửa (17.1) cao hơn tuần trước. Khối lượng giao dịch tăng mạnh lên 61.5 triệu cổ phiếu, cao hơn 25.6% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Một **Effort to Rise** với khối lượng tăng cao. Mặc dù giá tăng không mạnh nhưng việc khối lượng tăng đáng kể cho thấy có sự quan tâm tích cực từ nhà đầu tư, tiếp nối đà tăng của tuần trước.
 
 

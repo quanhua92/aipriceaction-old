@@ -10,5 +10,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau một đợt điều chỉnh. Việc giá ổn định với biên độ hẹp và khối lượng thấp cho thấy áp lực bán đang cạn kiệt. Đây là một tín hiệu No Supply cho phe mua, và một cú bứt phá lên trên đỉnh của tuần này sẽ xác nhận điều đó.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, HAG có một tuần tăng giá mạnh mẽ với một nến tăng thân dài, đóng cửa (13.4) cao hơn. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, xác nhận sự kết thúc của đợt điều chỉnh.
-
+- **Ngày 2025-07-14:** HAG có một tuần bùng nổ mạnh mẽ, tăng từ 13.4 lên 14.85 (+10.8%) với biên độ rộng. Khối lượng giao dịch tăng vụt gấp đôi so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax**. Sau Sign of Strength tuần trước, HAG đã có một cuộc bùng nổ để đạt đỉnh mới trên khối lượng khổng lồ. Tín hiệu mạnh mẽ nhưng cần thận trọng với khả năng điều chỉnh sau cao trào mua này.
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, cho thấy cổ phiếu đang cố gắng thoát khỏi vùng tích lũy. Lực cầu đang dần chiếm ưu thế, là một tín hiệu No Supply.
 - **Ngày 2025-07-07:** Tiếp nối nỗ lực tăng giá của tuần trước, MSR có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (18.9) cao hơn. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** MSR có một tuần bùng nổ với nến tăng có biên độ rộng, đóng cửa (21.1) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 21.5, phá vỡ vùng kháng cự. Khối lượng giao dịch tăng 17% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, cho thấy sự phá vỡ thành công ra khỏi vùng tích lũy dài. Việc tăng giá mạnh với khối lượng cao cho thấy lực cầu institutional đang tham gia tích cực, mở ra giai đoạn tăng giá mới.
 
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** rõ ràng, cho thấy lực cầu đang quay trở lại sau một thời gian đi ngang. Tín hiệu này ủng hộ cho khả năng giá sẽ tiếp tục đi lên.
 - **Ngày 2025-07-07:** Tiếp nối nỗ lực tăng giá của tuần trước, HHV có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (12.65) cao hơn. Khối lượng giao dịch tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** HHV có một tuần tăng giá mạnh mẽ, tăng từ 12.05 lên 12.9 (+7.1%) với biên độ rộng. Khối lượng giao dịch tăng vụt gần gấp đôi so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax**. Sau nhiều tuần tăng liên tục, HHV đã có một cuộc bùng nổ mạnh mẽ trên khối lượng khổng lồ, cho thấy sự quan tâm lớn từ các nhà đầu tư. Tuy nhiên, đây cũng có thể là dấu hiệu của cao trào mua.
 
 

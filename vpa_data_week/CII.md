@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, cho thấy lực cầu vẫn đang duy trì tốt. Xu hướng tăng ngắn hạn được củng cố.
 - **Ngày 2025-07-07:** Tiếp nối nỗ lực tăng giá của tuần trước, CII có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch tăng nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giữ vững trên nền khối lượng cao cho thấy thị trường đang hấp thụ tốt lực chốt lời. Tín hiệu No Supply, cần quan sát thêm.
+- **Ngày 2025-07-14:** Sau phiên kiểm tra thành công của tuần trước, CII có một tuần bùng nổ với nến tăng thân dài, đóng cửa (16.3) cao hơn đáng kể so với tuần trước. Khối lượng giao dịch tăng vọt lên 157.7 triệu cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rất mạnh mẽ, xác nhận lực cầu đã quay trở lại một cách quyết liệt. Khối lượng đột biến kết hợp với giá tăng mạnh cho thấy sự tham gia của dòng tiền lớn và xu hướng tăng được củng cố.
 
 

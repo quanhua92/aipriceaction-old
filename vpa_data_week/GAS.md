@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú **Upthrust** kinh điển và là một **Sign of Weakness** rõ ràng. Sự thất bại ở đỉnh mới này xác nhận nguồn cung đã áp đảo, có thể là khởi đầu cho một đợt điều chỉnh lớn.
 - **Ngày 2025-07-07:** Sau cú Upthrust yếu kém của tuần trước, GAS có một tuần phục hồi với một nến tăng có biên độ vừa phải, đóng cửa (67.9) cao hơn. Khối lượng giao dịch giảm mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá có thể phục hồi trên nền khối lượng thấp cho thấy áp lực bán đã tạm thời cạn kiệt. Tuy nhiên, cần một nến tăng mạnh hơn để xác nhận sự quay trở lại của phe mua.
+- **Ngày 2025-07-14:** GAS tiếp tục xu hướng phục hồi nhẹ, tăng từ 67.9 lên 68.1 (+0.3%) với biên độ hẹp. Khối lượng giao dịch duy trì ở mức thấp tương đương tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá có thể tăng nhẹ trên nền khối lượng thấp tiếp tục xác nhận tín hiệu No Supply, cho thấy áp lực bán đã yếu đi đáng kể sau cú Upthrust trước đó.
 
 

@@ -12,3 +12,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, BVH có một tuần điều chỉnh với một nến giảm. Khối lượng giao dịch giảm nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá điều chỉnh với khối lượng không quá lớn sau một đợt tăng mạnh là một tín hiệu bình thường, cho thấy thị trường đang hấp thụ lực chốt lời.
+- **Ngày 2025-07-14:** Tiếp nối phiên kiểm tra của tuần trước, BVH tiếp tục điều chỉnh với nến giảm biên độ hẹp, đóng cửa (52.5) thấp hơn tuần trước. Khối lượng giao dịch tăng nhẹ.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** tiếp tục hoặc **Sign of Weakness** nhẹ. Việc giá tiếp tục giảm trên nền khối lượng tăng cho thấy áp lực bán vẫn còn hiện hữu và cần thời gian để tìm lại sự cân bằng.

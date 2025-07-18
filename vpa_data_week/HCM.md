@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** được xác nhận, cho thấy xu hướng tăng vẫn đang tiếp diễn và phe mua vẫn đang chiếm ưu thế.
 - **Ngày 2025-07-07:** Tiếp nối nỗ lực tăng giá của tuần trước, HCM có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (24.95) gần mức cao nhất tuần. Khối lượng giao dịch tăng vọt, xác nhận cho sức mạnh của đà tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** HCM có một tuần đi ngang, giá đóng cửa giữ nguyên ở mức 24.95 (+0.0%) với biên độ hẹp. Khối lượng giao dịch tăng vọt lên mức kỷ lục.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá giữ vững ở mức cao trên nền khối lượng khổng lồ cho thấy sự giằng co mạnh mẽ giữa lực mua và lực bán. Đây có thể là dấu hiệu của một giai đoạn phân phối (Distribution).
 
 

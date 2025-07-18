@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand** trên nền khối lượng cao, cho thấy sự giằng co (churning). Việc nỗ lực lớn không mang lại kết quả tương xứng là một dấu hiệu yếu kém, Test for Supply rằng phe mua đang gặp khó khăn.
 - **Ngày 2025-07-07:** Tiếp nối tín hiệu No Demand của tuần trước, AAA có một tuần tăng giá bùng nổ. Nến tăng thân dài, đóng cửa (7.57) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt lên mức rất cao (21.1 triệu cp).
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước và báo hiệu khả năng bắt đầu một xu hướng tăng mới.
+- **Ngày 2025-07-14:** Tiếp tục xu hướng tăng với nến tăng biên độ rộng, đóng cửa (7.76) cao hơn tuần trước và tạo mức cao mới. Khối lượng giao dịch giảm xuống 16.4 triệu cp, thấp hơn so với tuần trước nhưng vẫn duy trì ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xây dựng trên đà tăng mạnh từ tuần trước. Việc giá tiếp tục tăng trên nền khối lượng giảm nhẹ cho thấy áp lực bán đã cạn kiệt và xu hướng tăng đang được củng cố.
 
 

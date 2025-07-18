@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rất mạnh mẽ, tiếp nối đà tăng của các tuần trước. Lực cầu đang hoàn toàn áp đảo và xu hướng tăng rất vững chắc.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, VHM có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (87.9) ở mức cao nhất tuần. Khối lượng giao dịch duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** VHM tiếp tục tăng mạnh với nến tăng thân dài, mở cửa (89.8) gap up từ tuần trước và đóng cửa (96.0) ở mức cao nhất tuần. Khối lượng giao dịch tăng mạnh lên 28.2 triệu cổ phiếu, cao hơn 16.4% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Một **Sign of Strength** rất mạnh mẽ, tiếp nối chuỗi tăng giá liên tục của các tuần trước. Việc giá gap up kết hợp với khối lượng tăng mạnh cho thấy lực cầu đang trong giai đoạn bùng nổ và xu hướng tăng rất vững chắc.
 
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú **Upthrust** và là một **Sign of Weakness**.
 - **Ngày 2025-07-07:** Sau cú Upthrust yếu kém của tuần trước, GVR có một tuần giảm giá nhẹ với biên độ hẹp. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau khi nguồn cung xuất hiện. Việc giá không thể phục hồi trên khối lượng tăng cho thấy phe mua yếu, củng cố cho tín hiệu yếu của tuần trước.
+- **Ngày 2025-07-14:** GVR có một tuần phục hồi nhẹ, tăng từ 30.0 lên 30.4 (+1.3%) với biên độ hẹp. Khối lượng giao dịch tăng so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau giai đoạn yếu. Việc giá phục hồi nhẹ trên nền khối lượng tăng cho thấy vẫn còn áp lực bán nhưng không quá mạnh. Cần quan sát thêm để xác định xu hướng dài hạn.
 
 

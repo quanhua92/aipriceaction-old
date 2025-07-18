@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại mạnh mẽ và xu hướng tăng đang tiếp diễn.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, CTG có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (44.6) ở mức cao nhất tuần. Khối lượng giao dịch duy trì ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** Tiếp nối đà tăng mạnh mẽ liên tiếp, CTG có một tuần tăng giá vững chắc với nến tăng biên độ hẹp, đóng cửa (45.05) cao hơn tuần trước. Biên độ giao dịch từ 43.7 đến 45.55 cho thấy sự ổn định. Khối lượng giao dịch tăng lên 40.744.662 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau chuỗi Dấu hiệu Sức mạnh. Việc giá tiếp tục tăng dù với biên độ hẹp hơn cho thấy lực cầu vẫn đang kiểm soát, tuy nhiên đà tăng đang chững lại ở vùng giá cao và có thể cần thời gian tích lũy.
 
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã thắng thế và một giai đoạn tăng giá mới có thể đã bắt đầu.
 - **Ngày 2025-07-07:** Sau tuần giảm giá, DPR có một tuần phục hồi với một nến tăng có biên độ vừa phải, đóng cửa (40.15) cao hơn. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Việc giá có thể phục hồi trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán đã suy yếu, là một tín hiệu No Supply cho xu hướng tăng.
+- **Ngày 2025-07-14:** Sau phiên No Supply của tuần trước, DPR tiếp tục tăng giá với nến tăng biên độ hẹp, đóng cửa (40.9) cao hơn tuần trước. Biên độ giao dịch từ 39.65 đến 41.4 cho thấy sự ổn định. Khối lượng giao dịch tăng lên 5.025.012 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng với khối lượng tăng nhẹ cho thấy lực cầu đang dần mạnh lên, tuy nhiên đà tăng vẫn chậm rãi và cần thêm động lực để bứt phá mạnh mẽ hơn.
 
 

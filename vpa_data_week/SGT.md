@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**, cho thấy thị trường đang thiếu động lực. Cổ phiếu đang đi ngang và cần một cú hích về khối lượng để xác định hướng đi tiếp theo.
 - **Ngày 2025-07-07:** Sau tín hiệu No Demand của tuần trước, SGT có một tuần đi ngang với một nến giảm biên độ hẹp. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Nỗ lực (khối lượng) tăng nhưng kết quả (giá) lại giảm. Đây là tín hiệu của sự **No Demand**, cho thấy phe mua đang gặp khó khăn trong việc đẩy giá lên, là một dấu hiệu yếu kém.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Demand của tuần trước, SGT có một tuần giảm giá với nến giảm biên độ rộng, đóng cửa (17.05) thấp hơn. Khối lượng giao dịch giảm so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**, xác nhận sự yếu kém của cổ phiếu. Việc giá giảm sau các tín hiệu No Demand liên tiếp cho thấy áp lực bán đang chiếm ưu thế.
 
 

@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang quay trở lại mạnh mẽ. Tín hiệu này ủng hộ cho khả năng giá sẽ tiếp tục phục hồi và đi lên.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, SSI có một tuần bùng nổ với một nến tăng thân dài, đóng cửa (29.65) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt lên mức kỷ lục, xác nhận cho sức mạnh của đà tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc quá nhanh trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
+- **Ngày 2025-07-14:** Tiếp nối đà tăng mạnh của tuần trước, SSI có một tuần tăng giá tiếp tục với nến tăng thân dài, đóng cửa (31.8) ở mức cao nhất tuần. Khối lượng giao dịch duy trì ở mức rất cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, nhưng với rủi ro **Climax** cao. Sự tăng tốc liên tục trên khối lượng cực lớn trong hai tuần liền tạo điều kiện cho một đợt điều chỉnh kỹ thuật trong thời gian tới.
 
 

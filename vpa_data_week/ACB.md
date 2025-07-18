@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, phủ nhận tín hiệu yếu của tuần trước. Lực cầu đã quay trở lại một cách áp đảo, xác nhận xu hướng tăng tiếp diễn.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, ACB có một tuần tăng giá bùng nổ với một nến tăng thân dài, đóng cửa (22.7) ở mức cao nhất tuần. Khối lượng giao dịch tiếp tục tăng mạnh, xác nhận cho sức mạnh của xu hướng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc liên tục trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
+- **Ngày 2025-07-14:** Sau tuần bùng nổ, ACB có một tuần hồi phục nhẹ với nến doji biên độ hẹp. Giá đóng cửa (22.65) gần như không đổi so với tuần trước và dao động trong vùng hẹp. Khối lượng giao dịch giảm đáng kể xuống 68.9 triệu cp.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** sau một đợt tăng mạnh. Việc giá không giảm mạnh trên nền khối lượng giảm cho thấy áp lực bán đã cạn kiệt, xác nhận rằng đợt tăng trước đó là có nền tảng vững chắc.
 
 

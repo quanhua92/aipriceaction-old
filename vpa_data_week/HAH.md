@@ -10,5 +10,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness** rõ ràng. Sự từ chối ở vùng giá cao và cú phá vỡ xuống dưới cho thấy nguồn cung đang kiểm soát và có khả năng giá sẽ tiếp tục giảm.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Yếu kém của tuần trước, HAH có một tuần đi ngang với một nến tăng biên độ hẹp. Khối lượng giao dịch tăng nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một nỗ lực phục hồi yếu ớt trên nền khối lượng cao, một tín hiệu **No Demand**. Việc giá không thể phục hồi mạnh mẽ sau đợt giảm cho thấy phe mua vẫn còn yếu thế.
-
+- **Ngày 2025-07-14:** HAH có một tuần phục hồi nhẹ, tăng từ 69.3 lên 70.0 (+1.0%) với biên độ hẹp. Khối lượng giao dịch tăng mạnh so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau giai đoạn yếu. Việc giá phục hồi nhẹ trên nền khối lượng tăng cao cho thấy vẫn còn sự giằng co giữa lực mua và lực bán, nhưng sự phục hồi vẫn còn yếu ớt.
 

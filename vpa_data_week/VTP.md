@@ -8,6 +8,8 @@
     - **Phân tích VPA/Wyckoff:** Một phiên **Test for Supply**.
 - **Ngày 2025-06-23:** VTP có một tuần tăng giá tốt, tạo ra một nến tăng thân dài và đóng cửa gần mức cao nhất tuần. Khối lượng giao dịch giảm so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng mạnh trên nền khối lượng thấp hơn là một tín hiệu **No Supply**, cho thấy phe bán đã yếu đi. Đây là một tín hiệu rất No Supply cho xu hướng tăng.
-- **Ngày 2025-07-07:** Sau tín hiệu No Supply No Supply của tuần trước, VTP có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (122.7) cao hơn. Khối lượng giao dịch tăng.
+- **Ngày 2025-07-07:** Sau tín hiệu No Supply của tuần trước, VTP có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (122.7) cao hơn. Khối lượng giao dịch tăng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** VTP có một tuần giao dịch biến động với nến giảm thân ngắn, đóng cửa (121.6) thấp hơn nhẹ so với tuần trước. Khối lượng giao dịch duy trì ở mức cao với 5.6 triệu cổ phiếu, tương đương tuần trước.
+    - **Phân tích VPA/Wyckoff:** Sau phiên Sign of Strength của tuần trước, đây là một **Test for Supply**. Việc giá giảm nhẹ trên nền khối lượng duy trì cao cho thấy có một số áp lực bán nhưng không mạnh, cổ phiếu đang trong giai đoạn tích lũy.
 

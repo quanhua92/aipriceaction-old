@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá ổn định trên nền khối lượng cạn kiệt cho thấy áp lực bán đã không còn, là một tín hiệu No Supply cho thấy thị trường đang tích lũy để có thể sớm tăng trở lại.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra No Supply thành công của tuần trước, BMP đã có một tuần tăng giá bùng nổ. Nến tăng có thân dài, đóng cửa (144.3) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt và xu hướng tăng đang tiếp diễn.
+- **Ngày 2025-07-14:** Tiếp nối đà tăng mạnh, BMP có một tuần điều chỉnh nhẹ với nến giảm biên độ hẹp, đóng cửa (142.6) thấp hơn tuần trước. Khối lượng giao dịch giảm đáng kể.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau đợt tăng mạnh. Việc giá chỉ điều chỉnh nhẹ trên nền khối lượng thấp cho thấy áp lực bán không lớn, tín hiệu No Supply và xu hướng tăng vẫn được duy trì.
 
 

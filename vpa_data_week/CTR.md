@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra No Supply thành công của tuần trước, CTR đã không thể tiếp tục đà tăng mà quay đầu giảm nhẹ. Nến tuần là một nến giảm có biên độ hẹp, đóng cửa (101.6) thấp hơn. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Việc giá không thể tăng sau tín hiệu No Supply trước đó cho thấy phe mua đang do dự. Tín hiệu No Supply, cần một cú bứt phá để xác nhận.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Demand của tuần trước, CTR quay đầu giảm với nến giảm có biên độ hẹp, đóng cửa (99.8) thấp hơn đáng kể. Biên độ giao dịch từ 99.8 đến 104.4 cho thấy áp lực bán. Khối lượng giao dịch tăng lên 3.910.967 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**. Việc giá giảm với khối lượng tăng cho thấy áp lực bán đang gia tăng và phe mua đang yếu thế. Tín hiệu tiêu cực cho xu hướng ngắn hạn sau giai đoạn tăng trước đó.
 
 

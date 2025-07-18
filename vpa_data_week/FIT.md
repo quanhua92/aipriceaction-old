@@ -10,5 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá đi ngang với khối lượng giảm cho thấy áp lực bán đang yếu đi, có thể là dấu hiệu cho sự kết thúc của đợt điều chỉnh. Tuy nhiên, cần một nến tăng mạnh để xác nhận.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung của tuần trước, FIT có một tuần tăng giá mạnh mẽ với một nến tăng thân dài, đóng cửa (4.59) gần mức cao nhất tuần. Khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, báo hiệu khả năng kết thúc đợt điều chỉnh.
+- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, FIT bùng nổ với nến tăng thân dài, đóng cửa (4.82) gần mức cao nhất tuần. Biên độ giao dịch từ 4.56 đến 5.22 cho thấy sự tăng tốc mạnh mẽ. Khối lượng giao dịch tăng vọt lên 15.744.757 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** liên tiếp, cho thấy lực cầu đang rất mạnh mẽ và quyết liệt. Tuy nhiên, sự tăng tốc với khối lượng cực lớn có thể là dấu hiệu của một **Climax**, cần thận trọng về khả năng điều chỉnh.
 
 

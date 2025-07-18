@@ -10,7 +10,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là dấu hiệu của nguồn cung đang gia tăng sau một đợt tăng giá mạnh, xác nhận sự hiện diện của hoạt động phân phối. Đây là một **Sign of Weakness**.
 - **Ngày 2025-06-30:** Tiếp nối Dấu hiệu Yếu kém của tuần trước, DPM có một tuần tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Đây là một nỗ lực phục hồi yếu, cho thấy lực cầu đang cố gắng nhưng chưa đủ mạnh.
-- **Ngày 2025-07-07:** Tiếp nối nỗ lực phục hồi yếu ớt của tuần trước, DPM có một tuần tăng giá nhẹ với biên độ hẹp, đóng cửa (38.65) cao hơn. Khối lượng giao dịch duy trì ở mức cao.
+- **Ngày 2025-07-07:** Tiếp nối nỗ lực phục hồi yếu ớt của tuần trước, DPM có một tuần tăng giá nhẹ với biên độ hẹp, đóng cửa (37.16) cao hơn. Khối lượng giao dịch duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một nỗ lực tăng giá (**Effort to Rise**), cho thấy lực cầu vẫn đang cố gắng duy trì. Tuy nhiên, biên độ hẹp cho thấy đà tăng đang chững lại và gặp kháng cự.
+- **Ngày 2025-07-14:** Tiếp nối Effort to Rise của tuần trước, DPM bứt phá mạnh mẽ với nến tăng thân dài, đóng cửa (38.35) gần mức cao nhất tuần. Biên độ giao dịch từ 37.11 đến 38.95 cho thấy sự mạnh mẽ. Khối lượng giao dịch tăng lên 25.785.760 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã vượt qua kháng cự và đang kiểm soát thị trường. Việc giá và khối lượng cùng tăng mạnh xác nhận xu hướng tăng đang được củng cố.
 
 

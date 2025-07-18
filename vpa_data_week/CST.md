@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây tiếp tục là một thanh **No Demand**. Thị trường vẫn đang trong trạng thái ngủ đông, thiếu hoàn toàn động lực. Cần một cú sốc về giá và khối lượng để thoát khỏi tình trạng này.
 - **Ngày 2025-07-07:** Sau nhiều tuần đi ngang với tín hiệu No Demand, CST đã có một tuần bùng nổ mạnh mẽ. Nến tăng có thân rất dài, đóng cửa (16.4) gần mức cao nhất tuần, đi kèm với khối lượng giao dịch tăng vọt.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã quay trở lại một cách bất ngờ và mạnh mẽ, có khả năng kết thúc giai đoạn tích lũy dài.
+- **Ngày 2025-07-14:** Sau tuần bùng nổ trước đó, CST quay đầu điều chỉnh với nến giảm có biên độ hẹp, đóng cửa (15.9) thấp hơn tuần trước. Khối lượng giao dịch giảm xuống 260.852 cp nhưng vẫn ở mức cao so với giai đoạn tích lũy trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá điều chỉnh nhẹ với khối lượng giảm là một tín hiệu tích cực, cho thấy áp lực bán không mạnh và thị trường đang hấp thụ tốt sau đợt tăng giá.
 
 

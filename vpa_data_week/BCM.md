@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu vẫn đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, BCM tiếp tục tăng giá, tạo thành một nến tăng và đóng cửa (68.0) ở mức cao. Đáng chú ý, khối lượng giao dịch đã giảm đi đáng kể.
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán yếu và con đường đi lên đang khá thông thoáng, là một tín hiệu rất No Supply cho xu hướng tăng.
+- **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, BCM có một tuần đi ngang với nến doji biên độ hẹp, đóng cửa (67.7) gần như không đổi. Khối lượng giao dịch tiếp tục giảm xuống mức thấp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công, xác nhận tín hiệu No Supply của tuần trước. Việc giá giữ vững trên nền khối lượng thấp cho thấy áp lực bán đã cạn kiệt và xu hướng tăng vẫn được duy trì.
 
 
