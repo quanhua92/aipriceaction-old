@@ -104,7 +104,7 @@
 - **Ngày 2025-07-17:** VNINDEX tiếp tục tăng mạnh từ 1481.85 điểm lên 1490.01 điểm. Cây nến tăng có biên độ rộng (từ 1481.44 đến 1494.46 điểm) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 1.45 tỷ đơn vị, cao hơn đáng kể so với phiên trước (1.22 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, xác nhận và tiếp tục tăng cường cho tín hiệu **Sign of Strength** của phiên trước. Việc giá mở cao hơn và tiếp tục tăng mạnh trên khối lượng gia tăng cho thấy dòng tiền thông minh đang tiếp tục mua vào tích cực. Sự đồng thuận giữa giá tăng mạnh và khối lượng lớn chứng tỏ sức mạnh của phe mua là bền vững và xu hướng tăng đang rất khỏe mạnh.
 
-- **Ngày 2025-07-18:** VNINDEX tăng nhẹ từ 1490.01 điểm lên 1495.82 điểm. Cây nến có biên độ hẹp hơn so với phiên trước (từ 1485.12 đến 1497.44 điểm), giá đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm xuống 1.12 tỷ đơn vị, thấp hơn đáng kể so với phiên trước.
+- **Ngày 2025-07-17:** VNINDEX tăng nhẹ từ 1490.01 điểm lên 1495.82 điểm. Cây nến có biên độ hẹp hơn so với phiên trước (từ 1485.12 đến 1497.44 điểm), giá đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm xuống 1.12 tỷ đơn vị, thấp hơn đáng kể so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tích cực sau chuỗi tăng mạnh liên tiếp. Việc giá chỉ tăng nhẹ nhưng vẫn duy trì được đà tăng trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể. Điều này là dấu hiệu của **No Supply** - nguồn cung hạn chế giúp phe mua dễ dàng duy trì giá ở vùng cao. Tín hiệu này tiếp tục củng cố cho xu hướng tăng và cho thấy tiềm năng giá sẽ tiếp tục kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
 
 

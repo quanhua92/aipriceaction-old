@@ -6,7 +6,7 @@
 - **Ngày 2025-07-17:** BVH giảm từ 54.4 xuống 53.5. Cây nến giảm có biên độ hẹp với mức thấp 53.4. Khối lượng giao dịch tăng mạnh (541.8k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau test for supply. Việc giá giảm nhẹ trên khối lượng tăng có thể là dấu hiệu kiểm tra lực cầu ở vùng thấp hơn. Cần quan sát phản ứng của thị trường để xác định liệu đây có phải là giai đoạn tích lũy hay điều chỉnh.
 
-- **Ngày 2025-07-18:** BVH tăng từ 53.5 lên 54.1. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 385.5k đơn vị so với phiên trước.
+- **Ngày 2025-07-17:** BVH tăng từ 53.5 lên 54.1. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 385.5k đơn vị so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên test for demand, việc giá phục hồi trên khối lượng giảm cho thấy lực cầu đã xuất hiện và hấp thụ tốt áp lực bán. Tín hiệu này cho thấy BVH có khả năng đã tìm được vùng hỗ trợ và có tiềm năng ổn định hoặc phục hồi trong các phiên tới.
 
 -   **Ngày 2025-06-13:** BVH giảm nhẹ, đóng cửa ở 49.3. Biên độ nến hẹp và khối lượng giao dịch rất thấp (287,429 đơn vị).

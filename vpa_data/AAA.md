@@ -33,7 +33,7 @@
 - **Ngày 2025-07-17:** AAA tăng mạnh từ 7.65 lên 7.77. Cây nến tăng có biên độ rộng (từ 7.65 đến 7.84), đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 4.71 triệu đơn vị, gần gấp đôi so với phiên **No Demand** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hoàn toàn phủ nhận tín hiệu **No Demand** của phiên trước. Việc giá tăng mạnh với biên độ rộng, đóng cửa gần đỉnh trên khối lượng gấp đôi cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng giai đoạn tích lũy đã kết thúc và xu hướng tăng được tái khẳng định.
 
-- **Ngày 2025-07-18:** AAA tiếp tục tăng từ 7.77 lên 7.89. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức cao (4.25 triệu đơn vị), chỉ giảm nhẹ so với phiên **SOS** trước đó.
+- **Ngày 2025-07-17:** AAA tiếp tục tăng từ 7.77 lên 7.89. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức cao (4.25 triệu đơn vị), chỉ giảm nhẹ so với phiên **SOS** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận và tiếp tục củng cố cho tín hiệu **Sign of Strength** của phiên trước. Việc giá tiếp tục tăng mạnh trên khối lượng duy trì cao cho thấy sức mạnh của phe mua là bền vững. Tín hiệu này cho thấy xu hướng tăng đang được nối dài và có tiềm năng kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
 
 

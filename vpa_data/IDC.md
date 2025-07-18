@@ -52,7 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Tiếp nối phiên **Test for Supply** tích cực trước đó, sự giảm giá nhẹ trên khối lượng giảm cho thấy áp lực bán tiếp tục yếu. Việc khối lượng giảm trong khi giá giảm là một tín hiệu tích cực, củng cố cho kịch bản nguồn cung đang cạn kiệt.
 - **Ngày 2025-07-17:** IDC tăng nhẹ từ 46.0 lên 46.2. Nến tăng có biên độ vừa phải với giá cao nhất đạt 47.2. Khối lượng giao dịch tăng (1.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **No Supply** trước đó, sự tăng giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại. Việc giá chạm mức cao 47.2 trước khi đóng cửa ở 46.2 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh để duy trì xu hướng tăng.
-- **Ngày 2025-07-18:** IDC tăng từ 46.2 lên 46.8. Nến tăng có biên độ rộng, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (2.1 triệu đơn vị).
+- **Ngày 2025-07-17:** IDC tăng từ 46.2 lên 46.8. Nến tăng có biên độ rộng, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (2.1 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Effort to Rise** trước đó, sự tăng giá tiếp tục với khối lượng gia tăng cho thấy lực cầu đang mạnh lên. Việc đóng cửa gần mức cao nhất với khối lượng tăng mạnh xác nhận xu hướng phục hồi và khả năng tiếp tục tăng giá.
 
 

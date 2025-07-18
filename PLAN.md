@@ -1,6 +1,6 @@
 # PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Cập nhật: 2025-07-18 | Phân tích theo phương pháp VPA-Strategist*
+*Cập nhật: 2025-07-17 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
@@ -8,7 +8,7 @@
 
 **Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tăng mạnh mẽ với tín hiệu **Sign of Strength** tuần kết thúc 2025-07-07, đóng cửa ở mức 1457.76 điểm. Khối lượng giao dịch tăng vọt xác nhận cho sức mạnh của đà tăng, thể hiện lực cầu quyết liệt từ dòng tiền tổ chức.
 
-**Hành Động Gần Đây**: Phiên 2025-07-18 ghi nhận tín hiệu **Test for Supply** tích cực với **No Supply**, khi chỉ số tăng nhẹ từ 1490.01 lên 1495.82 điểm trên khối lượng giảm xuống 1.12 tỷ đơn vị. Điều này cho thấy áp lực bán chốt lời không đáng kể và nguồn cung hạn chế, củng cố xu hướng tăng.
+**Hành Động Gần Đây**: Phiên 2025-07-17 ghi nhận tín hiệu **Test for Supply** tích cực với **No Supply**, khi chỉ số tăng nhẹ từ 1490.01 lên 1495.82 điểm trên khối lượng giảm xuống 1.12 tỷ đơn vị. Điều này cho thấy áp lực bán chốt lời không đáng kể và nguồn cung hạn chế, củng cố xu hướng tăng.
 
 **Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Với nền tảng tuần mạnh mẽ và tín hiệu hằng ngày tích cực, thị trường đang trong giai đoạn lý tưởng để tăng tỷ trọng. Vùng 1485-1490 điểm là support gần nhất, trong khi khả năng kiểm tra vùng 1500+ điểm trong các phiên tới rất cao.
 
@@ -22,7 +22,7 @@
 3. [**FOX**](#FOX) (Chứng Khoán) - **90%** - SOS liên tiếp, momentum mạnh - [View Report](REPORT.md#FOX)
 4. [**VPB**](#VPB) (Ngân Hàng) - **90%** - Effort to Rise vững chắc - [View Report](REPORT.md#VPB)
 5. [**VND**](#VND) (Chứng Khoán) - **90%** - SOS xác nhận xu hướng - [View Report](REPORT.md#VND)
-6. [**ANV**](#ANV) (Thuỷ Sản) - **90%** - SOS + Effort to Rise 2025-07-18 - [View Report](REPORT.md#ANV)
+6. [**ANV**](#ANV) (Thuỷ Sản) - **90%** - SOS + Effort to Rise 2025-07-17 - [View Report](REPORT.md#ANV)
 
 ### Nhóm Tin Cậy Tốt (85-89%)
 7. [**HDG**](#HDG) (Bất Động Sản) - **85%** - SOS bùng nổ với volume khủng - [View Report](REPORT.md#HDG)
@@ -39,7 +39,7 @@
 18. [**ACB**](#ACB) (Ngân Hàng) - **85%** - Effort to Rise sau Test for Supply - [View Report](REPORT.md#ACB)
 
 ### Nhóm Tin Cậy Trung Bình (75-84%)
-19. [**AAA**](#AAA) (Nhựa) - **80%** - SOS + Effort to Rise 2025-07-18 - [View Report](REPORT.md#AAA)
+19. [**AAA**](#AAA) (Nhựa) - **80%** - SOS + Effort to Rise 2025-07-17 - [View Report](REPORT.md#AAA)
 20. [**VCB**](#VCB) (Ngân Hàng) - **80%** - SOS mạnh mẽ, blue chip dẫn dắt - [View Report](REPORT.md#VCB)
 21. [**VCS**](#VCS) (Chứng Khoán) - **80%** - SOS breakthrough tích cực - [View Report](REPORT.md#VCS)
 22. [**VGC**](#VGC) (Logistics) - **80%** - SOS với nền tảng vững - [View Report](REPORT.md#VGC)
@@ -54,35 +54,35 @@
 
 ### Cơ Hội Tăng Trưởng Mạnh
 1. **CSC** (Penny) - **85%**
-   - **Tín hiệu**: SOS bùng nổ (2025-07-18) 
+   - **Tín hiệu**: SOS bùng nổ (2025-07-17) 
    - **Phân tích**: Volume explosion x6, đảo ngược từ weakness
    - **Điểm mạnh**: Breakout mạnh mẽ từ vùng tích lũy dài
 
 2. **CTD** (Xây Dựng) - **85%**
-   - **Tín hiệu**: SOS continuation (2025-07-18)
+   - **Tín hiệu**: SOS continuation (2025-07-17)
    - **Phân tích**: Volume surge 2.47M, momentum tăng mạnh
    - **Điểm mạnh**: Sector rotation vào construction
 
 3. **DBC** (Nông Nghiệp) - **85%**
-   - **Tín hiệu**: Effort to Rise với volume explosion (2025-07-18)
+   - **Tín hiệu**: Effort to Rise với volume explosion (2025-07-17)
    - **Phân tích**: Volume x2.5, recovery từ No Supply
    - **Điểm mạnh**: Agricultural sector revival
 
 ### Cơ Hội Theo Dõi Đặc Biệt
-4. **DGC** (Hóa Chất) - **80%** - Effort to Rise mạnh (2025-07-18)
-5. **DGW** (Bán Lẻ) - **80%** - Effort to Rise với volume surge (2025-07-18)
-6. **DVN** (Logistics) - **80%** - Effort to Rise volume x2.5 (2025-07-18)
-7. **BCM** (BĐS KCN) - **80%** - Effort to Rise từ Test for Supply (2025-07-18)
-8. **BSR** (Dầu Khí) - **80%** - Effort to Rise continuation (2025-07-18)
-9. **CII** (Xây Dựng) - **80%** - Effort to Rise volume cao (2025-07-18)
-10. **C4G** (Đầu Tư Công) - **80%** - Effort to Rise với No Supply (2025-07-18)
+4. **DGC** (Hóa Chất) - **80%** - Effort to Rise mạnh (2025-07-17)
+5. **DGW** (Bán Lẻ) - **80%** - Effort to Rise với volume surge (2025-07-17)
+6. **DVN** (Logistics) - **80%** - Effort to Rise volume x2.5 (2025-07-17)
+7. **BCM** (BĐS KCN) - **80%** - Effort to Rise từ Test for Supply (2025-07-17)
+8. **BSR** (Dầu Khí) - **80%** - Effort to Rise continuation (2025-07-17)
+9. **CII** (Xây Dựng) - **80%** - Effort to Rise volume cao (2025-07-17)
+10. **C4G** (Đầu Tư Công) - **80%** - Effort to Rise với No Supply (2025-07-17)
 
 ### Cơ Hội Cần Xác Nhận
-11. **CST** (Khai Khoáng) - **75%** - No Supply tiếp diễn (2025-07-18)
-12. **DHG** (Sức Khỏe) - **75%** - Effort to Rise từ Test for Demand (2025-07-18)
-13. **DPM** (Hóa Chất) - **75%** - Effort to Rise từ Test for Supply (2025-07-18)
-14. **DPR** (Cao Su) - **75%** - Effort to Rise confirmation (2025-07-18)
-15. **DRC** (Cao Su) - **75%** - No Supply tiếp diễn (2025-07-18)
+11. **CST** (Khai Khoáng) - **75%** - No Supply tiếp diễn (2025-07-17)
+12. **DHG** (Sức Khỏe) - **75%** - Effort to Rise từ Test for Demand (2025-07-17)
+13. **DPM** (Hóa Chất) - **75%** - Effort to Rise từ Test for Supply (2025-07-17)
+14. **DPR** (Cao Su) - **75%** - Effort to Rise confirmation (2025-07-17)
+15. **DRC** (Cao Su) - **75%** - No Supply tiếp diễn (2025-07-17)
 
 ## 4. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
 
@@ -202,20 +202,20 @@
 - **VHM**: Nâng confidence lên **95%**. Lý do: **SOS** mạnh mẽ ngày 2025-07-17, xác nhận xu hướng tăng
 - **VRE**: Nâng confidence lên **95%**. Lý do: **SOS** đột phá ngày 2025-07-17 với volume xác nhận
 - **FOX**: Thêm vào Top List **90%**. Lý do: **SOS** liên tiếp, momentum mạnh mẽ không thể bỏ qua
-- **ANV**: Thêm vào Top List **90%**. Lý do: **SOS** ngày 2025-07-17 + **Effort to Rise** ngày 2025-07-18
+- **ANV**: Thêm vào Top List **90%**. Lý do: **SOS** ngày 2025-07-17 + **Effort to Rise** ngày 2025-07-17
 - **HDG**: Thêm vào Top List **85%**. Lý do: **SOS** bùng nổ với volume khủng ngày 2025-07-17
 - **HHV**: Thêm vào Top List **85%**. Lý do: **SOS** continuation, momentum bền vững
 - **VCS**: Thêm vào Top List **80%**. Lý do: **SOS** breakthrough tích cực
 - **VGC**: Thêm vào Top List **80%**. Lý do: **SOS** với nền tảng vững chắc
-- **AAA**: Thêm vào Top List **80%**. Lý do: **SOS** ngày 2025-07-17 + **Effort to Rise** ngày 2025-07-18
+- **AAA**: Thêm vào Top List **80%**. Lý do: **SOS** ngày 2025-07-17 + **Effort to Rise** ngày 2025-07-17
 
 ### Cổ Phiếu Được Thêm Vào "Danh Sách Tiềm Năng"
-- **CSC**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **SOS** bùng nổ ngày 2025-07-18, volume explosion x6
-- **CTD**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **SOS** continuation ngày 2025-07-18, volume surge 2.47M
-- **DBC**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **Effort to Rise** volume explosion x2.5 ngày 2025-07-18
-- **DGC**: Duy trì `Potential List` **80%**. Lý do: **Effort to Rise** mạnh ngày 2025-07-18
-- **DGW**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **Effort to Rise** với volume surge ngày 2025-07-18
-- **DVN**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **Effort to Rise** volume x2.5 ngày 2025-07-18
+- **CSC**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **SOS** bùng nổ ngày 2025-07-17, volume explosion x6
+- **CTD**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **SOS** continuation ngày 2025-07-17, volume surge 2.47M
+- **DBC**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **Effort to Rise** volume explosion x2.5 ngày 2025-07-17
+- **DGC**: Duy trì `Potential List` **80%**. Lý do: **Effort to Rise** mạnh ngày 2025-07-17
+- **DGW**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **Effort to Rise** với volume surge ngày 2025-07-17
+- **DVN**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **Effort to Rise** volume x2.5 ngày 2025-07-17
 
 ### Cổ Phiếu Điều Chỉnh Confidence
 - **VCB**: Nâng từ **80%** lên **80%** (duy trì). Lý do: **SOS** mạnh mẽ, blue chip dẫn dắt
@@ -257,4 +257,4 @@
 
 *Lưu ý: Phân tích này dựa trên phương pháp VPA (Volume Price Analysis) và mang tính chất tham khảo. Nhà đầu tư cần tự nghiên cứu và đánh giá rủi ro trước khi đưa ra quyết định đầu tư.*
 
-*Thời gian cập nhật: 2025-07-18 | Phiên bản: VPA-Strategist v4.0*
+*Thời gian cập nhật: 2025-07-17 | Phiên bản: VPA-Strategist v4.0*

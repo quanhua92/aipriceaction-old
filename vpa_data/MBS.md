@@ -48,7 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** trên nền **No Supply**. Sau phiên **Test for Supply** tích cực, sự tăng giá trên khối lượng giảm cho thấy áp lực bán đã giảm bớt, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực cho xu hướng tăng.
 - **Ngày 2025-07-17:** MBS giữ nguyên giá ở 29.2. Nến có biên độ hẹp với giá cao nhất đạt 29.8. Khối lượng giao dịch giảm mạnh (5.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply** cùng lúc. Sau phiên **Effort to Rise** trên nền **No Supply**, việc giá đi ngang với khối lượng cực thấp cho thấy thị trường thiếu động lực từ cả hai phía. Cần chờ đợi động lực mới.
-- **Ngày 2025-07-18:** MBS tăng từ 29.2 lên 29.5. Nến tăng có biên độ vừa phải, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (6.5 triệu đơn vị).
+- **Ngày 2025-07-17:** MBS tăng từ 29.2 lên 29.5. Nến tăng có biên độ vừa phải, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (6.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên thiếu động lực, sự tăng giá với khối lượng tăng vợt từ mức cực thấp cho thấy lực cầu đã quay trở lại mạnh mẽ. Tín hiệu tích cực cho xu hướng tăng.
 
 

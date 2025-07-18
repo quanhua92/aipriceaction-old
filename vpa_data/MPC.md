@@ -32,7 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau tín hiệu **Effort to Fall** mạnh mẽ, sự tăng giá trên khối lượng giảm cho thấy lực cầu yếu và không thể đảo ngược xu hướng giảm. Đây chỉ là một cú hồi kỹ thuật không bền vững trong xu hướng giảm tổng thể.
 - **Ngày 2025-07-17:** MPC tăng từ 13.7 lên 13.8. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (75.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp tục. Sau phiên **No Demand** trước đó, sự tăng giá tiếp tục nhưng trên khối lượng giảm tiếp xác nhận rằng lực cầu vẫn yếu và cú hồi kỹ thuật không bền vững.
-- **Ngày 2025-07-18:** MPC giảm từ 13.8 xuống 13.6. Nến giảm có biên độ vừa phải, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tăng (150.0k đơn vị).
+- **Ngày 2025-07-17:** MPC giảm từ 13.8 xuống 13.6. Nến giảm có biên độ vừa phải, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tăng (150.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** trở lại. Sau chuỗi phiên **No Demand**, sự giảm giá với khối lượng gia tăng xác nhận rằng cú hồi kỹ thuật đã kết thúc và áp lực bán đã quay trở lại, tiếp tục củng cố xu hướng giảm.
 
 

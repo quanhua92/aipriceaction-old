@@ -55,7 +55,7 @@
 - **Ngày 2025-07-17:** CMG tăng nhẹ từ 41.7 lên 41.65. Cây nến có biên độ rộng với mức cao 42.45 và mức thấp 41.4. Khối lượng giao dịch tăng mạnh lên 2.65 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau test for demand. Việc giá có test lên 42.45 nhưng đóng cửa không duy trì được trên khối lượng tăng cho thấy vẫn có áp lực bán. Tín hiệu này cho thấy CMG vẫn đang trong giai đoạn tích lũy và cần thêm thời gian để hấp thụ cầu cản.
 
-- **Ngày 2025-07-18:** CMG tăng nhẹ từ 41.65 lên 41.85. Cây nến tăng có biên độ hẹp và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 2.15 triệu đơn vị.
+- **Ngày 2025-07-17:** CMG tăng nhẹ từ 41.65 lên 41.85. Cây nến tăng có biên độ hẹp và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 2.15 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** thành công. Sau phiên test trước đó, việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán đã được hấp thụ tốt hơn. Tín hiệu này cho thấy CMG đang hoàn tất giai đoạn tích lũy và có khả năng ổn định hoặc phục hồi nhẹ trong các phiên tới.
 
 

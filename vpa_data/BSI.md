@@ -33,7 +33,7 @@
 - **Ngày 2025-07-17:** BSI giảm nhẹ từ 46.1 xuống 45.2. Cây nến có biên độ hẹp với mức thấp 45.0. Khối lượng giao dịch giảm (1.94 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp diễn. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không mạnh. Tín hiệu này cho thấy BSI đang trong giai đoạn tích lũy và cần thêm thời gian để hấp thụ áp lực bán trước khi có đột phá mới.
 
-- **Ngày 2025-07-18:** BSI tăng nhẹ từ 45.2 lên 45.65. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng nhẹ lên 2.15 triệu đơn vị.
+- **Ngày 2025-07-17:** BSI tăng nhẹ từ 45.2 lên 45.65. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng nhẹ lên 2.15 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực sau các phiên test for supply. Việc giá tăng nhẹ trên khối lượng tăng cho thấy lực cầu đang bắt đầu quay trở lại. Tín hiệu này cho thấy BSI đang hoàn tất giai đoạn tích lũy và có tiềm năng bắt đầu một xu hướng tăng mới.
 
 

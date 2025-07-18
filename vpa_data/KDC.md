@@ -32,7 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục. Sau các phiên **Test for Supply** và **Test for Support** trước đó, việc giá giảm nhẹ trên khối lượng tăng cho thấy áp lực bán vẫn còn nhưng không mạnh. Đây là một quá trình kiểm tra và hấp thụ nguồn cung, tiếp tục hỗ trợ cho kịch bản phục hồi.
 - **Ngày 2025-07-17:** KDC giữ nguyên giá ở 56.2. Nến có biên độ hẹp với giá cao nhất đạt 56.4. Khối lượng giao dịch tăng nhẹ (513.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply** cùng lúc. Sau các phiên **Test for Supply** trước đó, việc giá đi ngang với khối lượng tăng nhẹ cho thấy thị trường đang trong giai đoạn cân bằng. Cả lực cầu và lực bán đều yếu, thị trường chờ đợi động lực mới.
-- **Ngày 2025-07-18:** KDC tăng nhẹ từ 56.2 lên 56.5. Nến tăng có biên độ hẹp, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (630.0k đơn vị).
+- **Ngày 2025-07-17:** KDC tăng nhẹ từ 56.2 lên 56.5. Nến tăng có biên độ hẹp, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (630.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên cân bằng, sự tăng giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại. Việc đóng cửa gần mức cao nhất với khối lượng hỗ trợ là dấu hiệu tích cực, xác nhận khả năng bắt đầu xu hướng phục hồi.
 
 

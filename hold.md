@@ -1,6 +1,6 @@
 # Kế Hoạch Quản Lý Danh Mục
 
-**Cập Nhật Lần Cuối:** 2025-07-18
+**Cập Nhật Lần Cuối:** 2025-07-17
 
 ## Dữ Liệu Danh Mục
 
@@ -13,7 +13,7 @@
 
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
-VNINDEX duy trì động lực mạnh mẽ với tín hiệu Test for Supply tích cực và No Supply ngày 2025-07-18, tạo nền tảng thuận lợi cho việc tăng phân bổ danh mục. Cả hai vị thế hiện tại đều có lãi, với VND dẫn dắt (+11.73%) nhờ sức mạnh liên tục của ngành Chứng khoán, và TCB (+5.52%) đã có sự đảo chiều tích cực từ tín hiệu Sell trước đó sang Buy More nhờ Effort to Rise mạnh mẽ ngày 2025-07-18. Thị trường tạo điều kiện lý tưởng để mở rộng danh mục sang các ngành khác.
+VNINDEX duy trì động lực mạnh mẽ với tín hiệu Test for Supply tích cực và No Supply ngày 2025-07-17, tạo nền tảng thuận lợi cho việc tăng phân bổ danh mục. Cả hai vị thế hiện tại đều có lãi, với VND dẫn dắt (+11.73%) nhờ sức mạnh liên tục của ngành Chứng khoán, và TCB (+5.52%) đã có sự đảo chiều tích cực từ tín hiệu Sell trước đó sang Buy More nhờ Effort to Rise mạnh mẽ ngày 2025-07-17. Thị trường tạo điều kiện lý tưởng để mở rộng danh mục sang các ngành khác.
 
 * **Tóm Tắt Hành Động Đề Xuất:**
   | Mã Cổ Phiếu | Trạng Thái Hiện Tại | Hành Động Đề Xuất Ngắn Gọn |
@@ -33,11 +33,11 @@ VNINDEX duy trì động lực mạnh mẽ với tín hiệu Test for Supply tí
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +5.52% (+367.6)
 * **VPA Phân Tích Hiện Tại:** 
   * **Bối Cảnh Tuần:** No Demand kết thúc 2025-07-07 sau dấu hiệu yếu kém tuần trước, tuy nhiên các tín hiệu ngày gần đây cho thấy sự đảo chiều tích cực.
-  * **Bối Cảnh Ngày:** Effort to Rise ngày 2025-07-18 mạnh mẽ với khối lượng xác nhận 18.5 triệu đơn vị, giá tăng từ 35.15 lên 35.8 với đỉnh 36.0, cho thấy smart money tích cực mua vào để thử nghiệm vùng kháng cự.
+  * **Bối Cảnh Ngày:** Effort to Rise ngày 2025-07-17 mạnh mẽ với khối lượng xác nhận 18.5 triệu đơn vị, giá tăng từ 35.15 lên 35.8 với đỉnh 36.0, cho thấy smart money tích cực mua vào để thử nghiệm vùng kháng cự.
 * **Hành Động Đề Xuất:** Buy More
   * **Giá Đề Xuất:** Mua thêm ở mức 35.0 - 35.8
   * **Số Lượng Đề Xuất:** Thêm 100-200 cổ phiếu (tăng tổng lên 300-400)
-  * **Lý Do Hành Động:** Effort to Rise ngày 2025-07-18 xác nhận đảo chiều từ xu hướng yếu trước đó, ngành Ngân hàng đang dẫn dắt đồng thuận với sức mạnh lan tỏa.
+  * **Lý Do Hành Động:** Effort to Rise ngày 2025-07-17 xác nhận đảo chiều từ xu hướng yếu trước đó, ngành Ngân hàng đang dẫn dắt đồng thuận với sức mạnh lan tỏa.
 * **Điểm Dừng Lỗ:** 34.5 (bảo vệ dưới vùng support gần nhất)
 * **Điểm Chốt Lời:** 37.0 - 38.0 (chốt từng phần), 39.0 - 40.0 (chốt hoàn toàn)
 * **Top 3 Cổ Phiếu Thay Thế:**
@@ -119,7 +119,7 @@ VNINDEX duy trì động lực mạnh mẽ với tín hiệu Test for Supply tí
 **4. Nhật Ký Thay Đổi Kế Hoạch**
 
 * **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
-  * `TCB từ Sell chuyển sang Buy More`: Effort to Rise ngày 2025-07-18 xác nhận đảo chiều mạnh mẽ từ xu hướng yếu trước đó, đáp ứng điều kiện Rebound/False Breakdown với sự hỗ trợ từ sức mạnh ngành Ngân hàng dẫn dắt đồng thuận.
+  * `TCB từ Sell chuyển sang Buy More`: Effort to Rise ngày 2025-07-17 xác nhận đảo chiều mạnh mẽ từ xu hướng yếu trước đó, đáp ứng điều kiện Rebound/False Breakdown với sự hỗ trợ từ sức mạnh ngành Ngân hàng dẫn dắt đồng thuận.
   * `VND duy trì Buy More`: Test for Supply ngày 2025-07-17 tiếp tục xác nhận Strong Bullish Continuation sau Sign of Strength tuần 2025-07-07, ngành Chứng khoán duy trì momentum dẫn dắt mạnh mẽ.
 
 * **Chuyển Từ Hold sang Sell/Panic Sell:**
@@ -128,7 +128,7 @@ VNINDEX duy trì động lực mạnh mẽ với tín hiệu Test for Supply tí
 * **Thay Đổi Trạng Thái Khác:**
   * `Cập nhật giá hiện tại và P&L`: TCB 35.15 (+5.52%), VND 18.5 (+11.73%)
   * `Điều chỉnh stop-loss và take-profit`: TCB nâng take-profit lên 37.0-38.0, VND nâng take-profit lên 20.0-20.5
-  * `Cập nhật market context`: VNINDEX mạnh mẽ với Test for Supply và No Supply ngày 2025-07-18, tạo nền tảng lý tưởng cho mở rộng danh mục
+  * `Cập nhật market context`: VNINDEX mạnh mẽ với Test for Supply và No Supply ngày 2025-07-17, tạo nền tảng lý tưởng cho mở rộng danh mục
 
 * **Loại Bỏ/Thêm Mới Ticker:**
   * `Thay đổi 3 cổ phiếu đa dạng`: HPG (Thép), FPT (Công nghệ), HAG (Nông nghiệp) thay cho cổ phiếu cũ để tối ưu hóa entry point và đa dạng ngành theo weekly VPA strength signals

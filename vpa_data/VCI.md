@@ -50,7 +50,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW của phiên trước, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 40.7. Việc giá phục hồi với khối lượng giảm cho thấy lực cầu đang quay trở lại nhưng chưa đủ mạnh để phủ nhận hoàn toàn tín hiệu phân phối trước đó.
 - **Ngày 2025-07-17:** VCI giảm từ 42.0 xuống 41.3 với đỉnh ngày đạt 42.15. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch tăng (18.53 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau phiên Test for Demand, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 42.15. Việc giá giảm với khối lượng tăng cho thấy vẫn còn áp lực bán chốt lời, tiếp tục xác nhận sự hiện diện của tín hiệu phân phối trước đó.
-- **Ngày 2025-07-18:** VCI tăng từ 41.3 lên 42.8 với đỉnh ngày đạt 43.2. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (22.0 triệu đơn vị).
+- **Ngày 2025-07-17:** VCI tăng từ 41.3 lên 42.8 với đỉnh ngày đạt 43.2. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (22.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 43.2. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tuy nhiên cần quan sát thêm để xác nhận khả năng phủ nhận hoàn toàn tín hiệu phân phối trước đó.
 
 

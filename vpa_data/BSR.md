@@ -55,7 +55,7 @@
 - **Ngày 2025-07-17:** BSR tăng nhẹ từ 18.55 lên 18.65. Cây nến tăng có biên độ hẹp với mức cao 18.75. Khối lượng giao dịch tăng mạnh lên 4.99 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực. Việc giá tăng nhẹ trên khối lượng tăng mạnh cho thấy lực cầu đang quay trở lại và hấp thụ tốt áp lực bán. Tín hiệu này xác nhận xu hướng tăng đang được củng cố.
 
-- **Ngày 2025-07-18:** BSR tiếp tục tăng từ 18.65 lên 18.85. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức cao (4.25 triệu đơn vị).
+- **Ngày 2025-07-17:** BSR tiếp tục tăng từ 18.65 lên 18.85. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức cao (4.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu trước đó. Việc giá tiếp tục tăng mạnh trên khối lượng cao cho thấy sức mạnh của phe mua là bền vững. Tín hiệu này cho thấy BSR có tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
 
 
