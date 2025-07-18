@@ -84,10 +84,41 @@ def get_latest_vpa_signal(ticker, vpa_data_dir):
         'full_analysis': section_content.strip()
     }
 
+def load_group_mappings(base_dir):
+    """Load ticker-to-group mappings from GROUP.md"""
+    group_file = os.path.join(base_dir, 'GROUP.md')
+    mappings = {}
+    
+    if not os.path.exists(group_file):
+        return mappings
+    
+    with open(group_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # Parse the markdown table
+    lines = content.strip().split('\n')
+    for line in lines:
+        if '|' in line and not line.startswith('|') and 'Ngành' not in line:
+            parts = [p.strip() for p in line.split('|')]
+            if len(parts) >= 3:
+                sector = parts[1]
+                tickers_str = parts[2]
+                
+                # Parse tickers
+                tickers = [ticker.strip() for ticker in tickers_str.split(',')]
+                for ticker in tickers:
+                    if ticker:
+                        mappings[ticker] = sector
+    
+    return mappings
+
 def main():
     base_dir = '/Volumes/data/workspace/aipriceaction'
     market_data_dir = os.path.join(base_dir, 'market_data')
     vpa_data_dir = os.path.join(base_dir, 'vpa_data')
+    
+    # Load group mappings
+    group_mappings = load_group_mappings(base_dir)
     
     # Get today's date
     today = datetime.now().strftime('%Y-%m-%d')
@@ -177,7 +208,10 @@ def main():
         last_7_days = item['last_7_days']
         vpa = item['latest_vpa']
         
-        print(f"=== {ticker} ===")
+        # Get group info
+        group = group_mappings.get(ticker, "UNKNOWN")
+        
+        print(f"=== {ticker} ({group}) ===")
         print(f"Today's data ({today}): O={today_data['open']}, H={today_data['high']}, L={today_data['low']}, C={today_data['close']}, V={today_data['volume']:,}")
         
         print("Last 7 days data:")

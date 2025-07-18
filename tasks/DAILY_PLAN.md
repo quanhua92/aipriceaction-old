@@ -24,6 +24,28 @@ ls vpa_data/ market_data/
 
 **Success Criteria**: All core input files are present and accessible
 
+### Step 1.5: Group Classification Validation
+**Objective**: Ensure all ticker sector classifications in PLAN.md match GROUP.md
+
+```bash
+# Run group validation utility
+uv run utilities/validate_group_mappings.py
+```
+
+**Critical Validation Process**:
+- Compare all ticker sector labels in existing `PLAN.md` with correct mappings in `GROUP.md`
+- Identify and fix any mismatched sector classifications
+- Ensure consistent Vietnamese sector naming conventions
+- Verify all tickers referenced in analysis have proper group mappings
+
+**Required Actions**:
+- Fix any sector mismatches found (e.g., FOX should be "Công Nghệ" not "Chứng Khoán")
+- Update Vietnamese sector names to match GROUP.md conventions
+- Add missing tickers to GROUP.md if needed
+- Document any classification changes in audit log
+
+**Success Criteria**: All ticker sector classifications are accurate and consistent
+
 ### Step 2: Previous PLAN.md Analysis
 **Objective**: Understand current ticker states and positions
 
