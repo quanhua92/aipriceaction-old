@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Đây là một phiên **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình sau chuỗi tăng mạnh.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** tích cực, VRE tăng mạnh từ 28.15 lên 28.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (5.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng các phiên test trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, với việc giá tăng mạnh trên khối lượng tăng cho thấy sự quan tâm mạnh mẽ của nhà đầu tư. Xu hướng tăng được khẳng định mạnh mẽ và có khả năng tiếp tục phát triển.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VRE tăng vọt từ 28.8 lên 29.75. Cây nến tăng có biên độ rộng (0.95 điểm) với mức cao nhất 29.95. Khối lượng giao dịch tăng mạnh (8.81 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận sự tiếp tục của xu hướng tăng. Lực cầu đã được củng cố mạnh mẽ với khối lượng giao dịch tăng đáng kể, cho thấy sự quan tâm rất lớn của nhà đầu tư. Việc giá chạm mức cao 29.95 và đóng cửa gần đỉnh cho thấy động lực tăng rất mạnh và xu hướng tăng bền vững.
 
 

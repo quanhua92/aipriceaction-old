@@ -95,7 +95,7 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 **Objective**: Validate analysis accuracy and consistency
 
 ```bash
-uv run verify_vpa.py
+uv run utilities/verify_vpa.py
 ```
 
 **What verify_vpa.py should check**:

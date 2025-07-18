@@ -52,4 +52,10 @@
 - **Ngày 2025-07-16:** BID tăng từ 37.9 lên 38.4. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh (7.12 triệu đơn vị) so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau phiên test for supply thành công, việc giá tăng mạnh trên khối lượng lớn cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng test for supply sau SOS đã thành công và xu hướng tăng tiếp tục được củng cố.
 
+- **Ngày 2025-07-17:** BID giảm nhẹ từ 38.8 xuống 38.3. Cây nến có biên độ hẹp với mức thấp 38.15. Khối lượng giao dịch giảm (5.68 triệu đơn vị) so với phiên **SOS** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau SOS. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không đáng kể và có thể chỉ là điều chỉnh kỹ thuật tự nhiên. Tiếp nối tín hiệu SOS mạnh trước đó, đây là test bình thường và có thể tạo điều kiện cho nhịp tăng tiếp theo.
+
+- **Ngày 2025-07-18:** BID tăng từ 38.3 lên 38.65. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng nhẹ lên 6.25 triệu đơn vị so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên **Test for Supply** đã thành công. Việc giá tăng mạnh trên khối lượng tăng cho thấy lực cầu đã quay trở lại và áp lực bán đã được hấp thụ hoàn toàn. Tín hiệu này xác nhận rằng xu hướng tăng đang được củng cố và BID có tiềm năng kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
+
 

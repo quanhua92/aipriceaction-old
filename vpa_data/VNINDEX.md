@@ -101,4 +101,10 @@
 - **Ngày 2025-07-16:** VNINDEX mở cửa thấp hơn ngày hôm trước (1459.87 điểm) nhưng sau đó tăng mạnh và đóng cửa tại mức cao nhất phiên (1475.47 điểm). Cây nến có biên độ rộng, đóng cửa gần đỉnh cho thấy sức mạnh của phe mua. Khối lượng giao dịch tiếp tục tăng (1.35 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **Test for Supply** của phiên trước. Việc giá mở thấp hơn nhưng tăng mạnh và đóng cửa tại đỉnh trên khối lượng lớn cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng áp lực bán ở vùng đỉnh đã được hấp thụ hoàn toàn, và xu hướng tăng tiếp tục được củng cố.
 
+- **Ngày 2025-07-17:** VNINDEX tiếp tục tăng mạnh từ 1481.85 điểm lên 1490.01 điểm. Cây nến tăng có biên độ rộng (từ 1481.44 đến 1494.46 điểm) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 1.45 tỷ đơn vị, cao hơn đáng kể so với phiên trước (1.22 tỷ đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, xác nhận và tiếp tục tăng cường cho tín hiệu **Sign of Strength** của phiên trước. Việc giá mở cao hơn và tiếp tục tăng mạnh trên khối lượng gia tăng cho thấy dòng tiền thông minh đang tiếp tục mua vào tích cực. Sự đồng thuận giữa giá tăng mạnh và khối lượng lớn chứng tỏ sức mạnh của phe mua là bền vững và xu hướng tăng đang rất khỏe mạnh.
+
+- **Ngày 2025-07-18:** VNINDEX tăng nhẹ từ 1490.01 điểm lên 1495.82 điểm. Cây nến có biên độ hẹp hơn so với phiên trước (từ 1485.12 đến 1497.44 điểm), giá đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm xuống 1.12 tỷ đơn vị, thấp hơn đáng kể so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tích cực sau chuỗi tăng mạnh liên tiếp. Việc giá chỉ tăng nhẹ nhưng vẫn duy trì được đà tăng trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể. Điều này là dấu hiệu của **No Supply** - nguồn cung hạn chế giúp phe mua dễ dàng duy trì giá ở vùng cao. Tín hiệu này tiếp tục củng cố cho xu hướng tăng và cho thấy tiềm năng giá sẽ tiếp tục kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
+
 

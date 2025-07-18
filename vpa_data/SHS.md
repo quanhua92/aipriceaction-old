@@ -48,7 +48,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời nhẹ xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường trong xu hướng tăng.
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay SHS tăng mạnh từ 14.7 lên 15.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch cạn kiệt (12.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng mạnh trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực, củng cố mạnh mẽ cho xu hướng tăng.
-- **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ, hôm nay SHS tăng mạnh từ 15.0 lên 16.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch cạn kiệt (9.4k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp tục cực kỳ mạnh mẽ. Việc giá tăng mạnh trên khối lượng cạn kiệt cho thấy áp lực bán hoàn toàn biến mất. Tín hiệu rất tích cực, xác nhận xu hướng tăng mạnh đang diễn ra.
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ, hôm nay SHS tăng mạnh từ 15.0 lên 16.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (59.34 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** cực kỳ mạnh mẽ. Việc giá tăng mạnh với khối lượng khổng lồ cho thấy lực cầu đã bùng nổ mạnh mẽ. Tín hiệu rất tích cực, xác nhận xu hướng tăng mạnh đang diễn ra.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, hôm nay SHS tăng từ 16.2 lên 16.5. Cây nến tăng có biên độ rộng với mức cao nhất 17.2. Khối lượng giao dịch cạn kiệt (14.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** cực kỳ mạnh mẽ. Giá tiếp tục tăng mạnh đến mức cao mới trên khối lượng cạn kiệt cho thấy áp lực bán hoàn toàn biến mất. Tín hiệu rất tích cực, xác nhận xu hướng tăng mạnh vẫn tiếp tục.
 
 

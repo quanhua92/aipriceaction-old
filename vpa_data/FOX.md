@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn. Sau chuỗi ngày lực cầu yếu kém, sự giảm giá trên khối lượng cạn kiệt này xác nhận thị trường thiếu động lực mua mạnh. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, củng cố cho xu hướng yếu kém.
 - **Ngày 2025-07-16:** Sau chuỗi ngày yếu kém, FOX bùng nổ mạnh mẽ từ 63.2 lên 67.0. Cây nến tăng có biên độ rất rộng (4.2 điểm) với mức cao 67.4. Khối lượng giao dịch tăng vọt đột biến (431.6k đơn vị), gấp 6.7 lần phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** rất mạnh mẽ. Sau giai đoạn dài tích lũy và tín hiệu **No Demand**, lực cầu đã bùng nổ với khối lượng khổng lồ, tạo ra một breakout thực sự. Sự kết hợp giữa biên độ giá rộng và khối lượng đột biến cho thấy có dòng tiền lớn vào và FOX đã thoát khỏi giai đoạn yếu kém trước đó.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, FOX tiếp tục tăng vọt từ 67.0 lên 74.0. Cây nến tăng có biên độ rất rộng (7.3 điểm) với mức cao 74.3. Khối lượng giao dịch tiếp tục tăng mạnh (561.8k đơn vị), tăng 30% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** tiếp diễn và mạnh mẽ hơn nữa. Việc giá tiếp tục tăng mạnh trên khối lượng gia tăng xác nhận tín hiệu breakout của phiên trước là thật và có sức mạnh. Dòng tiền lớn đang đổ vào liên tục, cho thấy FOX đã chính thức thoát khỏi giai đoạn tích lũy và bước vào xu hướng tăng mạnh.
 
 

@@ -30,5 +30,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn. Áp lực bán vẫn hiện hữu và đẩy giá xuống, thể hiện qua khối lượng tăng. Xu hướng yếu kém vẫn tiếp tục, cần theo dõi để xác định đáy.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay SHB tăng từ 14.1 lên 14.25. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (51.78 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Demand (Kiểm tra Cầu)**. Sau đợt giảm liên tiếp, giá hồi phục nhẹ với khối lượng giảm cho thấy lực cầu đã xuất hiện nhưng chưa mạnh mẽ. Cần theo dõi để xác định liệu đây có phải là đáy.
+- **Ngày 2025-07-17:** Tiếp nối phiên **Test for Demand**, hôm nay SHB tăng từ 14.25 lên 14.3. Cây nến tăng có biên độ hẹp với mức cao nhất 14.45. Khối lượng giao dịch tăng (66.95 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** nhẹ. Lực cầu đã quay trở lại với khối lượng tăng, cho thấy sự quan tâm tăng cường từ phe mua. Tuy nhiên, mức độ cải thiện còn chậm và cần thêm thời gian để xác nhận sự phục hồi.
 
 

@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn. Việc giá tiếp tục giảm nhưng trên khối lượng giảm cho thấy áp lực bán có thể đang cạn kiệt. Tuy nhiên, xu hướng giảm ngắn hạn vẫn đang tiếp diễn sau tín hiệu yếu kém của phiên trước.
 - **Ngày 2025-07-16:** CTG tăng từ 44.15 lên 44.95. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm nhẹ (5.68 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Demand** sau các phiên **Effort to Fall**. Việc giá tăng mạnh trên khối lượng giảm cho thấy lực cầu đã quay trở lại và áp lực bán đang cạn kiệt. Tín hiệu này cho thấy khả năng kết thúc xu hướng giảm ngắn hạn.
+- **Ngày 2025-07-18:** CTG tăng nhẹ từ 44.95 lên 45.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (7.52 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** xác nhận. Sau tín hiệu **Test for Demand** tích cực của phiên trước, việc giá tiếp tục tăng với khối lượng gia tăng cho thấy lực cầu đang được củng cố. Tín hiệu này xác nhận việc kết thúc xu hướng giảm ngắn hạn và tiềm năng phục hồi xu hướng tăng chính.
 
 

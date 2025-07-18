@@ -50,4 +50,10 @@
 - **Ngày 2025-07-16:** BCM tăng nhẹ từ 66.9 lên 67.1. Cây nến có biên độ hẹp và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm tiếp (305.4k đơn vị) so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** thành công. Sau phiên test của ngày hôm trước, việc giá phục hồi nhẹ trên khối lượng thấp cho thấy áp lực bán đã được hấp thụ. Tín hiệu này xác nhận rằng test for supply sau SOS đã thành công, tạo tiền đề cho khả năng phục hồi xu hướng tăng.
 
+- **Ngày 2025-07-17:** BCM tăng từ 67.7 lên 67.3. Cây nến có biên độ rộng với mức cao 68.4 và mức thấp 67.0, cho thấy biến động trong phiên. Khối lượng giao dịch tăng nhẹ lên 358.4k đơn vị so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp diễn. Việc giá có test lên 68.4 nhưng đóng cửa thấp hơn mức mở trên khối lượng tăng cho thấy áp lực bán vẫn còn ở vùng cao. Tín hiệu này cho thấy BCM vẫn đang trong giai đoạn tích lũy và cần thêm thời gian để hấp thụ áp lực bán.
+
+- **Ngày 2025-07-18:** BCM tăng từ 67.3 lên 67.8. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm nhẹ xuống 325.8k đơn vị so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực sau phiên test for supply. Việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán đã được hấp thụ và phe mua đang bắt đầu chiếm ưu thế trở lại. Tín hiệu này cho thấy BCM đang hoàn tất giai đoạn test và có tiềm năng phục hồi xu hướng tăng trong các phiên tới.
+
 

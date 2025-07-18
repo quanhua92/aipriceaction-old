@@ -28,5 +28,9 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Việc giá giảm trên khối lượng gia tăng xác nhận áp lực bán vẫn đang kiểm soát. Tiếp nối các tín hiệu yếu kém trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 - **Ngày 2025-07-16:** VLB tăng nhẹ từ 45.5 lên 44.9 với đỉnh ngày đạt 45.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (58.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Fall, việc giá giảm với khối lượng giảm cho thấy áp lực bán đã sụy yếu nhưng lực cầu vẫn chưa quay trở lại. Đây là một nhịp kiểm tra bình thường trong quá trình điều chỉnh.
+- **Ngày 2025-07-17:** VLB tăng từ 44.7 lên 45.1 với đỉnh ngày đạt 45.5. Nến tăng có biên độ rộng với đuôi dài phía dưới. Khối lượng giao dịch tăng (87.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Test for Supply, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 43.5. Việc giá phục hồi với khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện, nhưng vẫn cần quan sát thêm để xác nhận.
+- **Ngày 2025-07-18:** VLB tăng từ 45.1 lên 45.8 với đỉnh ngày đạt 46.0. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (95.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand tích cực, lực cầu đã quay trở lại mạnh mẽ hơn để thử nghiệm vùng kháng cự 46.0. Việc giá tăng mạnh với khối lượng cải thiện tiếp tục cho thấy khả năng đảo chiều xu hướng giảm điều chỉnh.
 
 

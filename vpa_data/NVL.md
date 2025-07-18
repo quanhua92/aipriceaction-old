@@ -50,5 +50,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Sau phiên tăng giá mạnh, áp lực bán chốt lời đã xuất hiện nhưng khối lượng giảm cho thấy không mạnh. Tín hiệu tích cực, đây là nhịp điều chỉnh bình thường.
 - **Ngày 2025-07-16:** NVL tăng từ 15.1 lên 15.35. Cây nến tăng có biên độ tốt với spread 0.45. Khối lượng giao dịch tăng nhẹ (16.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, hôm nay thể hiện **Effort to Rise** tích cực. Việc giá phục hồi tốt với khối lượng tăng xác nhận lực cầu vẫn còn mạnh sau nhịp điều chỉnh. Tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp diễn.
+- **Ngày 2025-07-17:** NVL tăng mạnh từ 15.35 lên 16.4. Cây nến tăng có biên độ rộng (spread 0.95) với mức cao nhất 16.4. Khối lượng giao dịch tăng vọt (54.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau phiên **Effort to Rise** tích cực, lực cầu đã quả bùng nổ với khối lượng khổng lồ gấp 3 lần phình thường. Cây nến đóng cửa ở mức cao nhất cho thấy sự hấp thú mạnh mẽ của nhà đầu tư. Tín hiệu rất tích cực.
+- **Ngày 2025-07-18:** NVL giảm nhẹ từ 16.4 xuống 16.15. Cây nến giảm có biên độ hẹp (spread 0.25) với bóng dưới ngắn. Khối lượng giao dịch giảm mạnh (28.45 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước. Việc giá giảm nhẹ với khối lượng giảm cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Đây là nhịp điều chỉnh bình thường, tín hiệu rất tích cực cho thấy đà tăng mạnh vẫn được duy trì.
 
 

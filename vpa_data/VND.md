@@ -48,4 +48,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tăng mạnh trên khối lượng rất cao cho thấy lực cầu đã quay trở lại một cách áp đảo, xác nhận sức mạnh của xu hướng tăng. Tín hiệu rất tích cực.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, VND tăng từ 18.1 lên 18.5. Cây nến tăng có biên độ tốt với mức cao nhất 18.6. Khối lượng giao dịch giảm (28.30 triệu đơn vị) nhưng vẫn ở mức khá cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, tiếp nối tín hiệu SOS trước đó. Việc giá tiếp tục tăng mặc dù khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Xu hướng tăng được xác nhận mạnh mẽ và có khả năng tiếp tục phát triển.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply**, VND đi ngang tại mức 18.5. Cây nến có biên độ hẹp (0.6 điểm) với mức cao nhất 18.8. Khối lượng giao dịch tăng mạnh (37.90 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tích cực. Việc giá đi ngang trên khối lượng cao cho thấy có sự quan tâm mạnh mẽ của nhà đầu tư tại vùng giá này. Mặc dù giá không tăng, khối lượng cao cho thấy đây là giai đoạn tích lũy và chuẩn bị cho bước tiến tiếp theo. Tín hiệu tích cực cho xu hướng tăng.
 

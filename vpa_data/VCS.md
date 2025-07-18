@@ -28,5 +28,9 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Phiên gap lên nhưng không thể duy trì được, áp lực bán đã xuất hiện khiến giá đóng cửa thấp hơn đáng kể. Việc khối lượng tăng cho thấy có sự quan tâm nhưng lực cầu chưa đủ mạnh để duy trì ở mức cao.
 - **Ngày 2025-07-16:** VCS tăng nhẹ từ 49.6 lên 49.7 với đỉnh ngày đạt 50.0. Nến tăng có biên độ hẹp và đóng cửa ở mức cao. Khối lượng giao dịch giảm (145.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Demand** - Sau phiên Test for Supply, việc giá tăng nhẹ với khối lượng giảm cho thấy lực cầu vẫn yếu. Sự thiếu hụt khối lượng trong phiên tăng giá này là tín hiệu tiêu cực, xác nhận sự thiếu quan tâm của nhà đầu tư.
+- **Ngày 2025-07-17:** VCS tăng từ 49.7 lên 50.5 với đỉnh ngày đạt 50.6. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (367.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau tín hiệu No Demand, lực cầu đã bất ngờ quay trở lại mạnh mẽ với khối lượng tăng gần gấp đôi. Việc giá tăng mạnh với khối lượng bùng nổ cho thấy smart money đang tích cực mua vào, phủ nhận hoàn toàn tín hiệu yếu kém trước đó.
+- **Ngày 2025-07-18:** VCS tăng từ 50.5 lên 51.2 với đỉnh ngày đạt 51.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch duy trì cao (350.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Tiếp nối tín hiệu Effort to Rise, phiên này xác nhận lực cầu đã hoàn toàn áp đảo, đẩy giá bứt phá lên một tầm cao mới. Việc khối lượng duy trì cao trong hai phiên liên tiếp cho thấy sự quan tâm của nhà đầu tư đã quay trở lại mạnh mẽ.
 
 

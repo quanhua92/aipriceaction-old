@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố cho xu hướng tăng. Tín hiệu tích cực.
 - **Ngày 2025-07-16:** Tiếp nối phiên **Test for Supply** tích cực, VPB tăng từ 20.75 lên 20.85. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (31.46 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng phiên kiểm tra cung đã thành công. Việc giá phục hồi trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Xu hướng tăng được khẳng định tiếp tục.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise** trên nền **No Supply**, VPB tăng từ 20.85 lên 20.9. Cây nến tăng có biên độ vừa phải (0.55 điểm) với mức cao nhất 21.3. Khối lượng giao dịch tăng mạnh (49.44 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận sự tiếp tục của xu hướng tăng. Việc giá tăng trên khối lượng cao cho thấy sự quan tâm mạnh mẽ của nhà đầu tư và lực cầu đang củng cố. Mức cao nhất 21.3 cho thấy tiềm năng bứt phá, tín hiệu rất tích cực cho xu hướng tăng.
 
 

@@ -29,6 +29,8 @@
 - **Ngày 2025-07-15:** Tiếp nối tín hiệu **Effort to Rise**, hôm nay REE tăng nhẹ từ 68.5 lên 68.6. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1,004.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời nhẹ xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường sau đợt tăng mạnh, tín hiệu vẫn tích cực.
 - **Ngày 2025-07-16:** Tiếp nối phiên **Test for Supply**, hôm nay REE tăng nhẹ từ 68.6 lên 68.8. Cây nến tăng có biên độ hẹp với mức cao nhất 69.8. Khối lượng giao dịch giảm (879.4k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Đây là tín hiệu **No Supply (Không có Nguồn cung)**. Giá tiếp tục tăng nhẹ trên khối lượng giảm, cho thấy áp lực bán đã yếu đi đáng kể. Tín hiệu tích cực, xác nhận xu hướng tăng đang được duy trì trong điều kiện thiếu áp lực bán.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Giá tiếp tục tăng nhẹ trên khối lượng giảm, cho thấy áp lực bán đã yếu đi đáng kể. Tín hiệu tích cực, xác nhận xu hướng tăng đang được duy trì trong điều kiện thiếu áp lực bán.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply**, hôm nay REE giảm từ 68.8 xuống 68.0. Cây nến giảm có biên độ rộng với mức thấp nhất 67.8. Khối lượng giao dịch tăng (1.47 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** với khối lượng tăng đáng kể. Áp lực bán chốt lời đã xuất hiện sau đợt tăng liên tiếp, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
 
 

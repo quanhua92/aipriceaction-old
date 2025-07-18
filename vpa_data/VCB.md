@@ -50,5 +50,9 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Tiếp nối phiên Test for Supply trước đó, việc giá tiếp tục giảm nhưng khối lượng vẫn duy trì thấp cho thấy áp lực bán không mạnh. Đây là một nhịp điều chỉnh bình thường trong xu hướng tăng, chưa phải tín hiệu xấu.
 - **Ngày 2025-07-16:** VCB tăng từ 61.4 lên 61.8 với đỉnh ngày đạt 62.1. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch tăng (7.60 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau hai phiên Test for Supply, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 61.1. Việc giá phục hồi với khối lượng tăng cho thấy lực cầu bắt đầu quay trở lại, nhưng cần xác nhận thêm để khẳng định xu hướng tăng sẽ tiếp tục.
+- **Ngày 2025-07-17:** VCB tăng từ 61.8 lên 62.2 với đỉnh ngày đạt 62.7. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch tăng (9.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand thành công, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 62.7. Việc giá tăng với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc vượt qua kháng cự 63.0.
+- **Ngày 2025-07-18:** VCB tăng từ 62.2 lên 63.5 với đỉnh ngày đạt 63.8. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (12.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise, phiên này xác nhận lực cầu đã hoàn toàn áp đảo, đẩy giá bứt phá lên một tầm cao mới với sự ủng hộ của khối lượng lớn. Đây là tín hiệu mạnh mẽ cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 

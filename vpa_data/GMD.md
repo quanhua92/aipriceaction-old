@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tiếp tục của tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng giảm cho thấy lực bán đang dần yếu đi, tuy nhiên xu hướng vẫn tiêu cực. Có thể là dấu hiệu của việc kết thúc đợt bán táo.
 - **Ngày 2025-07-16:** Tiếp nối xu hướng giảm, GMD tiếp tục giảm nhẹ từ 57.9 xuống 57.4. Cây nến giảm có biên độ vừa phải với mức cao 58.5 và thấp 57.2. Khối lượng giao dịch giảm tiếp (2.60 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau chuỗi **Effort to Fall** trước đó, việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt đáng kể. Mặc dù giá vẫn giảm, nhưng sự thiếu vắng khối lượng bán cho thấy GMD có thể đang gần đáy và chuẩn bị cho một giai đoạn ổn định hoặc phục hồi.
+- **Ngày 2025-07-17:** Sau tín hiệu **No Supply**, GMD giảm nhẹ từ 58.0 xuống 57.1. Cây nến giảm có biên độ rộng với mức cao 58.3 và thấp 56.7. Khối lượng giao dịch tăng (3.43 triệu đơn vị), tăng 32% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau tín hiệu **No Supply** cho thấy áp lực bán cạn kiệt, việc giá test xuống thấp (56.7) với khối lượng gia tăng cho thấy thị trường đang kiểm tra mức hỗ trợ. Việc giá có thể phục hồi từ mức thấp và khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện ở vùng giá thấp này, đây có thể là dấu hiệu tích cực cho thấy GMD đang tìm kiếm điểm cân bằng mới.
 
 

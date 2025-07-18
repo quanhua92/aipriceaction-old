@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
 - **Ngày 2025-07-16:** Sau phiên **Test for Supply**, FRT mở cửa gap up từ 154.0 và dao động trong biên độ rộng 150.3-155.5, đóng cửa tại 152.0. Khối lượng giao dịch tăng mạnh (832k đơn vị), tăng 55% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với đặc điểm hỗn hợp. Mặc dù gap up và khối lượng tăng mạnh cho thấy lực cầu mạnh, nhưng việc giá không thể duy trì ở mức cao và đóng cửa dưới mức mở cho thấy áp lực bán vẫn còn. Sau **Test for Supply** trước đó, đây là dấu hiệu tích cực nhưng cần theo dõi thêm để xác nhận xu hướng.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise** hỗn hợp, FRT tiếp tục mở cửa ở 154.0 và dao động trong biên độ hẹp hơn 151.7-155.0, đóng cửa tại 152.4. Khối lượng giao dịch giảm (527k đơn vị), giảm 37% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** với kết quả hỗn hợp, việc giá tăng nhẹ nhưng khối lượng giảm đáng kể cho thấy lực cầu không đủ mạnh để duy trì đà tăng. Mặc dù giá đóng cửa cao hơn phiên trước, nhưng sự thiếu vắng khối lượng cho thấy FRT vẫn đang trong giai đoạn tích lũy và chưa sẵn sàng cho một đợt bứt phá mạnh mẽ.
 
 

@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá giảm trên khối lượng thấp cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **Test for Supply**, GVR tiếp tục giảm từ 30.2 xuống 29.85. Cây nến giảm có biên độ vừa phải với mức cao 30.3 và thấp 29.85. Khối lượng giao dịch duy trì (4.02 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Sau **Test for Supply** hôm trước, việc giá tiếp tục giảm với khối lượng duy trì cho thấy áp lực bán đang tăng lên. Tín hiệu **Effort to Rise** trước đó đã bị phủ nhận, cho thấy GVR vẫn cần thêm thời gian để hoàn thành giai đoạn điều chỉnh trước khi có thể phục hồi bền vững.
+- **Ngày 2025-07-17:** Sau tín hiệu **Effort to Fall**, GVR phục hồi từ 30.1 lên 30.05. Cây nến tăng có biên độ rộng với mức cao 30.7 và thấp 29.9. Khối lượng giao dịch tăng mạnh (6.69 triệu đơn vị), tăng 66% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau tín hiệu **Effort to Fall**, việc giá test xuống thấp (29.9) rồi phục hồi với khối lượng tăng vọt cho thấy lực cầu đã xuất hiện mạnh mẽ ở vùng giá thấp. Việc giá có thể test lên cao 30.7 trước khi đóng cửa gần mức mở cho thấy thị trường đang trong giai đoạn tích lũy và kiểm tra. Sau chuỗi **Effort to Fall** trước đó, đây là dấu hiệu tích cực cho thấy GVR có thể đã tìm được vùng hỗ trợ quan trọng.
 
 

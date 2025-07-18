@@ -48,7 +48,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém trước đó. Bóng dưới dài cho thấy lực đỡ mạnh ở mức thấp, kết hợp với khối lượng khổng lồ, báo hiệu một cuộc đảo chiều tiềm năng. Lực cầu đã quay trở lại quyết đoán.
 - **Ngày 2025-07-15:** KDH giảm nhẹ từ 31.25 xuống 31.2. Nến giảm có biên độ hẹp với giá cao nhất đạt 31.75. Khối lượng giao dịch giảm (6.38 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau tín hiệu **Effort to Rise** mạnh mẽ. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh, đây là một nhịp điều chỉnh bình thường và tiếp tục hỗ trợ cho kịch bản phục hồi quản tính.
-- **Ngày 2025-07-16:** KDH giảm nhẹ từ 31.2 xuống 31.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.52 triệu đơn vị).
+- **Ngày 2025-07-16:** KDH giảm nhẹ từ 28.36 xuống 28.27. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.52 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp tục. Sau phiên **Test for Supply** tích cực trước đó, việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán tiếp tục yếu. Đây là một nhịp kiểm tra bình thường, tiếp tục hỗ trợ cho kịch bản phục hồi.
+- **Ngày 2025-07-17:** KDH tăng mạnh từ 28.27 lên 28.95. Nến tăng có biên độ rộng với giá cao nhất đạt 29.45. Khối lượng giao dịch tăng (6.69 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau các phiên **Test for Supply** tích cực, sự tăng giá mạnh với khối lượng gia tăng cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá chạm mức cao 29.45 trước khi đóng cửa ở 28.95 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh duy trì xu hướng tăng mạnh.
+- **Ngày 2025-07-18:** KDH tăng từ 28.95 lên 29.2. Nến tăng có biên độ vừa phải, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm (5.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự tăng giá tiếp tục nhưng trên khối lượng giảm cho thấy lực cầu đang suy yếu. Mặc dù giá vẫn tăng nhưng động lực tăng trướng đã giảm, cần chờ đợi xác nhận từ khối lượng lớn hơn.
 
 

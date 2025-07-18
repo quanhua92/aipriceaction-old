@@ -5,11 +5,11 @@
       "previous_state": "Unlisted",
       "new_state": "Potential List",
       "confidence": 75,
-      "reasoning": "Entry to Potential List: Strong daily Effort to Rise - monitor for confirmation",
+      "reasoning": "Entry to Potential List: Strong daily SOS - monitor for confirmation",
       "weekly_signal": "No Demand",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "SOS",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-18"
     },
     "ACB": {
       "ticker": "ACB",
@@ -20,7 +20,7 @@
       "weekly_signal": "No Signal",
       "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-15"
+      "daily_date": "2025-07-18"
     },
     "ACV": {
       "ticker": "ACV",
@@ -29,20 +29,20 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "No Demand",
+      "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-18"
     },
     "ANV": {
       "ticker": "ANV",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily SOS + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "SOS",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-15"
+      "daily_date": "2025-07-18"
     },
     "BCM": {
       "ticker": "BCM",
@@ -53,7 +53,7 @@
       "weekly_signal": "No Signal",
       "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-18"
     },
     "BIC": {
       "ticker": "BIC",
@@ -69,13 +69,13 @@
     "BID": {
       "ticker": "BID",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 75,
+      "reasoning": "Entry to Potential List: Strong daily SOS - monitor for confirmation",
       "weekly_signal": "No Demand",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "SOS",
       "weekly_date": "2025-06-30",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "BMP": {
       "ticker": "BMP",
@@ -234,9 +234,9 @@
     "DGC": {
       "ticker": "DGC",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Sign of Strength",
       "weekly_date": "N/A",
@@ -322,13 +322,13 @@
     "FOX": {
       "ticker": "FOX",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
       "weekly_signal": "No Supply",
-      "daily_signal": "No Demand",
+      "daily_signal": "Sign of Strength",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-15"
+      "daily_date": "2025-07-17"
     },
     "FPT": {
       "ticker": "FPT",
@@ -337,27 +337,27 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "No Demand",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "FRT": {
       "ticker": "FRT",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "FTS": {
       "ticker": "FTS",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 75,
-      "reasoning": "Entry to Potential List: Strong daily Effort to Rise - monitor for confirmation",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "Upthrust",
       "daily_signal": "Effort to Rise",
       "weekly_date": "2025-07-07",
@@ -370,20 +370,20 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "Upthrust",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "No Supply",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "GEX": {
       "ticker": "GEX",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Supply",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "No Demand",
       "weekly_date": "2025-06-02",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "GMD": {
       "ticker": "GMD",
@@ -392,9 +392,9 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "No Demand",
+      "daily_signal": "No Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-11"
+      "daily_date": "2025-07-17"
     },
     "GVR": {
       "ticker": "GVR",
@@ -425,20 +425,20 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "No Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-15"
+      "daily_date": "2025-07-17"
     },
     "HCM": {
       "ticker": "HCM",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "HDB": {
       "ticker": "HDB",
@@ -454,35 +454,35 @@
     "HDG": {
       "ticker": "HDG",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "HHV": {
       "ticker": "HHV",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "HPG": {
       "ticker": "HPG",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "HSG": {
       "ticker": "HSG",
@@ -608,9 +608,9 @@
     "MBB": {
       "ticker": "MBB",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
@@ -685,9 +685,9 @@
     "MWG": {
       "ticker": "MWG",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
@@ -707,9 +707,9 @@
     "NLG": {
       "ticker": "NLG",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
@@ -740,9 +740,9 @@
     "NVL": {
       "ticker": "NVL",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Supply",
       "daily_signal": "Effort to Rise",
       "weekly_date": "2025-06-02",
@@ -751,9 +751,9 @@
     "PAN": {
       "ticker": "PAN",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Supply",
       "daily_signal": "Effort to Rise",
       "weekly_date": "2025-07-07",
@@ -762,9 +762,9 @@
     "PC1": {
       "ticker": "PC1",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Supply",
       "daily_signal": "Effort to Rise",
       "weekly_date": "2025-07-07",
@@ -773,9 +773,9 @@
     "PDR": {
       "ticker": "PDR",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
@@ -784,9 +784,9 @@
     "PHR": {
       "ticker": "PHR",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
@@ -806,9 +806,9 @@
     "PNJ": {
       "ticker": "PNJ",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
       "daily_signal": "Sign of Strength",
       "weekly_date": "N/A",
@@ -823,18 +823,18 @@
       "weekly_signal": "No Signal",
       "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "PTB": {
       "ticker": "PTB",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "No Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "PVI": {
       "ticker": "PVI",
@@ -845,7 +845,7 @@
       "weekly_signal": "No Supply",
       "daily_signal": "No Demand",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "PVS": {
       "ticker": "PVS",
@@ -856,7 +856,7 @@
       "weekly_signal": "No Signal",
       "daily_signal": "No Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "PVT": {
       "ticker": "PVT",
@@ -872,13 +872,13 @@
     "QNS": {
       "ticker": "QNS",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Supply",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "No Supply",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "REE": {
       "ticker": "REE",
@@ -887,20 +887,20 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "Test for Supply",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "No Supply",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "SAB": {
       "ticker": "SAB",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "SCS": {
       "ticker": "SCS",
@@ -938,13 +938,13 @@
     "SHS": {
       "ticker": "SHS",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "No Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "SIP": {
       "ticker": "SIP",
@@ -953,9 +953,9 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "No Demand",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "SSH": {
       "ticker": "SSH",
@@ -966,18 +966,18 @@
       "weekly_signal": "No Demand",
       "daily_signal": "No Demand",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "SSI": {
       "ticker": "SSI",
       "previous_state": "Unlisted",
-      "new_state": "Potential List",
-      "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Signal",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "No Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "STB": {
       "ticker": "STB",
@@ -1136,13 +1136,13 @@
     "VHM": {
       "ticker": "VHM",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "No Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VIB": {
       "ticker": "VIB",
@@ -1153,29 +1153,29 @@
       "weekly_signal": "No Signal",
       "daily_signal": "No Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VIC": {
       "ticker": "VIC",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "No Supply",
+      "daily_signal": "Sign of Strength",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VIX": {
       "ticker": "VIX",
       "previous_state": "Unlisted",
       "new_state": "Potential List",
       "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+      "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
       "weekly_signal": "Test for Supply",
-      "daily_signal": "Effort to Rise",
+      "daily_signal": "Sign of Strength",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VJC": {
       "ticker": "VJC",
@@ -1186,7 +1186,7 @@
       "weekly_signal": "No Supply",
       "daily_signal": "Test for Supply",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VLB": {
       "ticker": "VLB",
@@ -1204,11 +1204,11 @@
       "previous_state": "Unlisted",
       "new_state": "Potential List",
       "confidence": 80,
-      "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Sign of Strength",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VNM": {
       "ticker": "VNM",
@@ -1219,18 +1219,18 @@
       "weekly_signal": "No Signal",
       "daily_signal": "Test for Supply",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VPB": {
       "ticker": "VPB",
       "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "new_state": "Potential List",
+      "confidence": 80,
+      "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
       "weekly_signal": "No Signal",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "Effort to Rise",
       "weekly_date": "N/A",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
     },
     "VPG": {
       "ticker": "VPG",
@@ -1239,23 +1239,12 @@
       "confidence": 60,
       "reasoning": "Remained Unlisted: Monitoring for entry signals",
       "weekly_signal": "No Supply",
-      "daily_signal": "Test for Supply",
+      "daily_signal": "No Signal",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "N/A"
     },
     "VRE": {
       "ticker": "VRE",
-      "previous_state": "Unlisted",
-      "new_state": "Unlisted",
-      "confidence": 60,
-      "reasoning": "Remained Unlisted: Monitoring for entry signals",
-      "weekly_signal": "No Supply",
-      "daily_signal": "No Supply",
-      "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
-    },
-    "VTP": {
-      "ticker": "VTP",
       "previous_state": "Unlisted",
       "new_state": "Potential List",
       "confidence": 80,
@@ -1263,7 +1252,18 @@
       "weekly_signal": "No Supply",
       "daily_signal": "Effort to Rise",
       "weekly_date": "2025-07-07",
-      "daily_date": "2025-07-16"
+      "daily_date": "2025-07-17"
+    },
+    "VTP": {
+      "ticker": "VTP",
+      "previous_state": "Unlisted",
+      "new_state": "Unlisted",
+      "confidence": 60,
+      "reasoning": "Remained Unlisted: Monitoring for entry signals",
+      "weekly_signal": "No Supply",
+      "daily_signal": "No Supply",
+      "weekly_date": "2025-07-07",
+      "daily_date": "2025-07-17"
     }
   },
   "summary": {
@@ -1272,105 +1272,75 @@
       {
         "ticker": "AAA",
         "confidence": 75,
-        "reasoning": "Entry to Potential List: Strong daily Effort to Rise - monitor for confirmation"
+        "reasoning": "Entry to Potential List: Strong daily SOS - monitor for confirmation"
       },
       {
-        "ticker": "DGC",
+        "ticker": "ANV",
         "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context"
+        "reasoning": "Fast entry to Potential List: Daily SOS + supportive weekly context"
       },
       {
-        "ticker": "FTS",
+        "ticker": "BID",
         "confidence": 75,
-        "reasoning": "Entry to Potential List: Strong daily Effort to Rise - monitor for confirmation"
+        "reasoning": "Entry to Potential List: Strong daily SOS - monitor for confirmation"
       },
       {
-        "ticker": "GEX",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "HCM",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "MBB",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "MWG",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "NLG",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "NVL",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "PAN",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "PC1",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "PDR",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "PHR",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
-      },
-      {
-        "ticker": "PNJ",
+        "ticker": "FOX",
         "confidence": 80,
         "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context"
       },
       {
-        "ticker": "PTB",
+        "ticker": "FRT",
         "confidence": 80,
         "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
       },
       {
-        "ticker": "QNS",
+        "ticker": "HDG",
         "confidence": 80,
         "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
       },
       {
-        "ticker": "SAB",
+        "ticker": "HHV",
         "confidence": 80,
         "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
       },
       {
-        "ticker": "SSI",
+        "ticker": "HPG",
         "confidence": 80,
         "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
+      },
+      {
+        "ticker": "SHS",
+        "confidence": 80,
+        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
+      },
+      {
+        "ticker": "VHM",
+        "confidence": 80,
+        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
+      },
+      {
+        "ticker": "VIC",
+        "confidence": 80,
+        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context"
       },
       {
         "ticker": "VIX",
         "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
+        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context"
       },
       {
         "ticker": "VND",
         "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context"
+        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
       },
       {
-        "ticker": "VTP",
+        "ticker": "VPB",
+        "confidence": 80,
+        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
+      },
+      {
+        "ticker": "VRE",
         "confidence": 80,
         "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context"
       }
@@ -1388,22 +1358,12 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "ANV",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
         "ticker": "BCM",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
         "ticker": "BIC",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
-        "ticker": "BID",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1478,6 +1438,11 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "DGC",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "DGW",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
@@ -1513,22 +1478,22 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "FOX",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
         "ticker": "FPT",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "FRT",
+        "ticker": "FTS",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
         "ticker": "GAS",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "GEX",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1553,22 +1518,12 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "HCM",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "HDB",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
-        "ticker": "HDG",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
-        "ticker": "HHV",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
-        "ticker": "HPG",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1628,6 +1583,11 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "MBB",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "MBS",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
@@ -1658,7 +1618,17 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "MWG",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "NKG",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "NLG",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1673,12 +1643,47 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "NVL",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "PAN",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "PC1",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "PDR",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "PHR",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "PLX",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "PNJ",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "POW",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "PTB",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1698,7 +1703,17 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
+        "ticker": "QNS",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
         "ticker": "REE",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "SAB",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1718,17 +1733,17 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "SHS",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
         "ticker": "SIP",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
         "ticker": "SSH",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals"
+      },
+      {
+        "ticker": "SSI",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1803,17 +1818,7 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "VHM",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
         "ticker": "VIB",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
-        "ticker": "VIC",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
@@ -1833,17 +1838,12 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "VPB",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals"
-      },
-      {
         "ticker": "VPG",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       },
       {
-        "ticker": "VRE",
+        "ticker": "VTP",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals"
       }
@@ -1857,47 +1857,47 @@
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 75,
-        "reasoning": "Entry to Potential List: Strong daily Effort to Rise - monitor for confirmation",
+        "reasoning": "Entry to Potential List: Strong daily SOS - monitor for confirmation",
         "weekly_signal": "No Demand",
-        "daily_signal": "Effort to Rise",
+        "daily_signal": "SOS",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-18"
       },
       {
-        "ticker": "DGC",
+        "ticker": "ANV",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
+        "reasoning": "Fast entry to Potential List: Daily SOS + supportive weekly context",
         "weekly_signal": "No Signal",
-        "daily_signal": "Sign of Strength",
+        "daily_signal": "SOS",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-14"
+        "daily_date": "2025-07-18"
       },
       {
-        "ticker": "FTS",
+        "ticker": "BID",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 75,
-        "reasoning": "Entry to Potential List: Strong daily Effort to Rise - monitor for confirmation",
-        "weekly_signal": "Upthrust",
-        "daily_signal": "Effort to Rise",
+        "reasoning": "Entry to Potential List: Strong daily SOS - monitor for confirmation",
+        "weekly_signal": "No Demand",
+        "daily_signal": "SOS",
+        "weekly_date": "2025-06-30",
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "FOX",
+        "previous_state": "Unlisted",
+        "new_state": "Potential List",
+        "confidence": 80,
+        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
+        "weekly_signal": "No Supply",
+        "daily_signal": "Sign of Strength",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "GEX",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Supply",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "2025-06-02",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "HCM",
+        "ticker": "FRT",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -1905,10 +1905,10 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "MBB",
+        "ticker": "HDG",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -1916,10 +1916,10 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-14"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "MWG",
+        "ticker": "HHV",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -1927,10 +1927,10 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "NLG",
+        "ticker": "HPG",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -1938,43 +1938,10 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "NVL",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Supply",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "2025-06-02",
-        "daily_date": "2025-07-15"
-      },
-      {
-        "ticker": "PAN",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Supply",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-15"
-      },
-      {
-        "ticker": "PC1",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Supply",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-15"
-      },
-      {
-        "ticker": "PDR",
+        "ticker": "SHS",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -1982,10 +1949,10 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "PHR",
+        "ticker": "VHM",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -1993,10 +1960,10 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "PNJ",
+        "ticker": "VIC",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -2004,76 +1971,43 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Sign of Strength",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
-      },
-      {
-        "ticker": "PTB",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "QNS",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Supply",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "SAB",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "SSI",
-        "previous_state": "Unlisted",
-        "new_state": "Potential List",
-        "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Effort to Rise",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "VIX",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
         "weekly_signal": "Test for Supply",
-        "daily_signal": "Effort to Rise",
+        "daily_signal": "Sign of Strength",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "VND",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
-        "reasoning": "Fast entry to Potential List: Daily Sign of Strength + supportive weekly context",
+        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
         "weekly_signal": "No Signal",
-        "daily_signal": "Sign of Strength",
+        "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "VTP",
+        "ticker": "VPB",
+        "previous_state": "Unlisted",
+        "new_state": "Potential List",
+        "confidence": 80,
+        "reasoning": "Fast entry to Potential List: Daily Effort to Rise + supportive weekly context",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "VRE",
         "previous_state": "Unlisted",
         "new_state": "Potential List",
         "confidence": 80,
@@ -2081,7 +2015,7 @@
         "weekly_signal": "No Supply",
         "daily_signal": "Effort to Rise",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       }
     ],
     "moved_to_downgraded": [],
@@ -2096,7 +2030,7 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-18"
       },
       {
         "ticker": "ACV",
@@ -2105,20 +2039,9 @@
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Signal",
-        "daily_signal": "No Demand",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "ANV",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-18"
       },
       {
         "ticker": "BCM",
@@ -2129,7 +2052,7 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-18"
       },
       {
         "ticker": "BIC",
@@ -2141,17 +2064,6 @@
         "daily_signal": "Test for Supply",
         "weekly_date": "2025-07-07",
         "daily_date": "2025-07-15"
-      },
-      {
-        "ticker": "BID",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Demand",
-        "daily_signal": "Test for Supply",
-        "weekly_date": "2025-06-30",
-        "daily_date": "2025-07-16"
       },
       {
         "ticker": "BMP",
@@ -2306,6 +2218,17 @@
         "daily_signal": "Test for Supply",
         "weekly_date": "2025-07-07",
         "daily_date": "2025-07-11"
+      },
+      {
+        "ticker": "DGC",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Sign of Strength",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-14"
       },
       {
         "ticker": "DGW",
@@ -2385,37 +2308,26 @@
         "daily_date": "2025-07-14"
       },
       {
-        "ticker": "FOX",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Supply",
-        "daily_signal": "No Demand",
-        "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-15"
-      },
-      {
         "ticker": "FPT",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
+        "daily_signal": "No Demand",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
-        "ticker": "FRT",
+        "ticker": "FTS",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "weekly_signal": "Upthrust",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "2025-07-07",
+        "daily_date": "2025-07-15"
       },
       {
         "ticker": "GAS",
@@ -2424,9 +2336,20 @@
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "Upthrust",
-        "daily_signal": "Test for Supply",
+        "daily_signal": "No Supply",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "GEX",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Supply",
+        "daily_signal": "No Demand",
+        "weekly_date": "2025-06-02",
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "GMD",
@@ -2435,9 +2358,9 @@
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Signal",
-        "daily_signal": "No Demand",
+        "daily_signal": "No Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-11"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "GVR",
@@ -2468,9 +2391,20 @@
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Signal",
+        "daily_signal": "No Supply",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "HCM",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-15"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "HDB",
@@ -2482,39 +2416,6 @@
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
         "daily_date": "2025-07-15"
-      },
-      {
-        "ticker": "HDG",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "HHV",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "HPG",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
       },
       {
         "ticker": "HSG",
@@ -2638,6 +2539,17 @@
         "daily_date": "2025-07-10"
       },
       {
+        "ticker": "MBB",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-14"
+      },
+      {
         "ticker": "MBS",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
@@ -2704,6 +2616,17 @@
         "daily_date": "2025-07-15"
       },
       {
+        "ticker": "MWG",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-15"
+      },
+      {
         "ticker": "NKG",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
@@ -2711,6 +2634,17 @@
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Signal",
         "daily_signal": "No Demand",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-15"
+      },
+      {
+        "ticker": "NLG",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Effort to Rise",
         "weekly_date": "N/A",
         "daily_date": "2025-07-15"
       },
@@ -2737,6 +2671,61 @@
         "daily_date": "2025-07-15"
       },
       {
+        "ticker": "NVL",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Supply",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "2025-06-02",
+        "daily_date": "2025-07-15"
+      },
+      {
+        "ticker": "PAN",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Supply",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "2025-07-07",
+        "daily_date": "2025-07-15"
+      },
+      {
+        "ticker": "PC1",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Supply",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "2025-07-07",
+        "daily_date": "2025-07-15"
+      },
+      {
+        "ticker": "PDR",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-15"
+      },
+      {
+        "ticker": "PHR",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Effort to Rise",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-15"
+      },
+      {
         "ticker": "PLX",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
@@ -2748,6 +2737,17 @@
         "daily_date": "2025-07-15"
       },
       {
+        "ticker": "PNJ",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Sign of Strength",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-15"
+      },
+      {
         "ticker": "POW",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
@@ -2756,7 +2756,18 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "PTB",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "No Supply",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "PVI",
@@ -2767,7 +2778,7 @@
         "weekly_signal": "No Supply",
         "daily_signal": "No Demand",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "PVS",
@@ -2778,7 +2789,7 @@
         "weekly_signal": "No Signal",
         "daily_signal": "No Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "PVT",
@@ -2792,15 +2803,37 @@
         "daily_date": "2025-07-15"
       },
       {
+        "ticker": "QNS",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Supply",
+        "daily_signal": "No Supply",
+        "weekly_date": "2025-07-07",
+        "daily_date": "2025-07-17"
+      },
+      {
         "ticker": "REE",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "Test for Supply",
-        "daily_signal": "Test for Supply",
+        "daily_signal": "No Supply",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "SAB",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "Test for Supply",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "SCS",
@@ -2836,26 +2869,15 @@
         "daily_date": "2025-07-15"
       },
       {
-        "ticker": "SHS",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "No Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
         "ticker": "SIP",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
+        "daily_signal": "No Demand",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "SSH",
@@ -2866,7 +2888,18 @@
         "weekly_signal": "No Demand",
         "daily_signal": "No Demand",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
+      },
+      {
+        "ticker": "SSI",
+        "previous_state": "Unlisted",
+        "new_state": "Unlisted",
+        "confidence": 60,
+        "reasoning": "Remained Unlisted: Monitoring for entry signals",
+        "weekly_signal": "No Signal",
+        "daily_signal": "No Supply",
+        "weekly_date": "N/A",
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "STB",
@@ -3023,17 +3056,6 @@
         "daily_date": "2025-07-11"
       },
       {
-        "ticker": "VHM",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "No Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
         "ticker": "VIB",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
@@ -3042,18 +3064,7 @@
         "weekly_signal": "No Signal",
         "daily_signal": "No Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "VIC",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "No Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "VJC",
@@ -3064,7 +3075,7 @@
         "weekly_signal": "No Supply",
         "daily_signal": "Test for Supply",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "VLB",
@@ -3086,18 +3097,7 @@
         "weekly_signal": "No Signal",
         "daily_signal": "Test for Supply",
         "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
-      },
-      {
-        "ticker": "VPB",
-        "previous_state": "Unlisted",
-        "new_state": "Unlisted",
-        "confidence": 60,
-        "reasoning": "Remained Unlisted: Monitoring for entry signals",
-        "weekly_signal": "No Signal",
-        "daily_signal": "Test for Supply",
-        "weekly_date": "N/A",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       },
       {
         "ticker": "VPG",
@@ -3106,12 +3106,12 @@
         "confidence": 60,
         "reasoning": "Remained Unlisted: Monitoring for entry signals",
         "weekly_signal": "No Supply",
-        "daily_signal": "Test for Supply",
+        "daily_signal": "No Signal",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "N/A"
       },
       {
-        "ticker": "VRE",
+        "ticker": "VTP",
         "previous_state": "Unlisted",
         "new_state": "Unlisted",
         "confidence": 60,
@@ -3119,12 +3119,12 @@
         "weekly_signal": "No Supply",
         "daily_signal": "No Supply",
         "weekly_date": "2025-07-07",
-        "daily_date": "2025-07-16"
+        "daily_date": "2025-07-17"
       }
     ]
   },
   "metadata": {
     "total_tickers": 115,
-    "generation_time": "2025-07-16T18:10:27.325754"
+    "generation_time": "2025-07-18T07:07:34.596209"
   }
 }

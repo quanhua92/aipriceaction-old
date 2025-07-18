@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** sau giai đoạn test. Việc giá giảm trên khối lượng tăng vọt cho thấy áp lực bán đã quay trở lại mạnh mẽ. Các tín hiệu tích cực trước đó đã bị phủ nhận, xu hướng đã chuyển tiêu cực.
 - **Ngày 2025-07-16:** Sau tín hiệu **Effort to Fall**, HDB phục hồi nhẹ từ 24.15 lên 24.25. Cây nến tăng có biên độ hẹp với mức cao 24.3 và thấp 24.1. Khối lượng giao dịch giảm mạnh (16.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau **Effort to Fall** mạnh mẽ, việc giá phục hồi nhẹ trên khối lượng giảm cho thấy lực cầu đang cố gắng hấp thụ lực bán. Tuy nhiên, mức phục hồi chưa đáng kể và xu hướng vẫn còn yếu kém, cần theo dõi thêm để xác nhận.
+- **Ngày 2025-07-17:** Sau tín hiệu **Test for Demand**, HDB tăng từ 24.35 lên 24.35. Cây nến tăng có biên độ hẹp với mức cao 24.45 và thấp 24.15. Khối lượng giao dịch giảm tiếp (13.02 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau **Test for Demand** hôm trước, việc giá tăng nhẹ trên khối lượng giảm cho thấy lực cầu vẫn yếu kém. Mặc dù có sự cải thiện so với **Effort to Fall** trước đó, nhưng sự thiếu vắng khối lượng cho thấy HDB vẫn cần thêm thời gian để hấp thụ lực bán và tạo cơ sở vững chắc cho xu hướng tăng bền vững.
 
 

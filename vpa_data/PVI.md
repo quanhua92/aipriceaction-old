@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)**. Áp lực bán không mạnh nhưng lực cầu cũng biến mất, thể hiện qua khối lượng giảm. Thị trường đang trong trạng thái tạm dừng, cần thêm thời gian để xác định hướng đi.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Demand**, hôm nay PVI giảm từ 58.4 xuống 58.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (12.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** tiếp tục. Áp lực bán không mạnh nhưng lực cầu vẫn biến mất hoàn toàn. Việc giá giảm với khối lượng rất thấp cho thấy thị trường đang thiếu sự quan tâm từ cả hai phe mua và bán.
+- **Ngày 2025-07-17:** Sau giai đoạn **No Demand**, hôm nay PVI tăng mạnh từ 58.0 lên 59.0. Cây nến tăng có biên độ rộng với mức cao nhất 59.8. Khối lượng giao dịch tăng vọt (41.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng)** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng tăng mạnh. Tín hiệu này phủ nhận hoàn toàn giai đoạn **No Demand** trước đó và cho thấy tiềm năng tiếp tục xu hướng tăng.
 
 

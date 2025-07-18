@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Việc giá có test lên mức cao 26.4 cho thấy sức mạnh của lực cầu. Tín hiệu rất tích cực.
 - **Ngày 2025-07-16:** Sau tín hiệu **Effort to Rise** mạnh mẽ, HCM giảm nhẹ từ 25.25 xuống 25.15. Cây nến giảm có biên độ hẹp với mức cao 25.55 và thấp 24.8. Khối lượng giao dịch tăng (30.74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau **Effort to Rise** mạnh mẽ, việc giá giảm nhẹ trên khối lượng tăng cho thấy áp lực bán chốt lời đã xuất hiện. Tuy nhiên, mức giảm không lớn và giá vẫn duy trể gần mức cao cho thấy lực cầu vẫn mạnh. Đây là nhịp điều chỉnh bình thường sau kết quả tích cực trước đó.
+- **Ngày 2025-07-17:** Sau tín hiệu **Test for Supply**, HCM giảm từ 25.25 xuống 24.9. Cây nến giảm có biên độ vừa phải với mức cao 25.5 và thấp 24.8. Khối lượng giao dịch giảm (22.17 triệu đơn vị), giảm 28% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp diễn. Sau **Test for Supply** hôm trước, việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời đang giảm bớt. Mặc dù giá có dao động trong biên độ rộng (24.8-25.5), nhưng việc khối lượng giảm là dấu hiệu tích cực, cho thấy sau **Effort to Rise** mạnh mẽ trước đó, HCM đang trong giai đoạn consolidation lành mạnh trước khi có thể tiếp tục xu hướng tăng.
 
 

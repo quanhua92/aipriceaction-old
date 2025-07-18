@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tiếp tục của tín hiệu **Test for Supply**. Việc giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây vẫn là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
 - **Ngày 2025-07-16:** Sau tín hiệu **Test for Supply**, FPT phục hồi nhẹ từ 126.0 lên 126.3. Cây nến tăng có biên độ vừa phải với mức thấp 125.1. Khối lượng giao dịch giảm tiếp (5.06 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Mặc dù giá phục hồi nhẹ, nhưng khối lượng giảm cho thấy lực cầu chưa đủ mạnh để duy trì xu hướng tăng. Sau chuỗi **Test for Supply** trước đó, việc thiếu vắng khối lượng trong phục hồi này cho thấy FPT vẫn cần thêm thời gian tích lũy trước khi có thể bứt phá mạnh mẽ.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Demand**, FPT tăng từ 126.7 lên 127.0. Cây nến tăng có biên độ rộng với mức cao 129.1 nhưng đóng cửa chỉ gần giữa biên độ. Khối lượng giao dịch tăng mạnh (8.33 triệu đơn vị), tăng 64% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau giai đoạn **No Demand** và **Test for Supply**, việc khối lượng tăng vọt cho thấy lực cầu đã quay trở lại. Tuy nhiên, việc giá có test cao 129.1 nhưng đóng cửa thấp hơn đáng kể (127.0) cho thấy vẫn có áp lực bán ở vùng cao. Đây là một tín hiệu hỗn hợp, cần theo dõi thêm để xác nhận hướng đi tiếp theo.
 
 

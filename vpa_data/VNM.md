@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục. Mặc dù giá chạm mức cao 61.2, việc đóng cửa thấp hơn cho thấy có áp lực bán chốt lời. Tuy nhiên, khối lượng vẫn ở mức hợp lý, cho thấy đây là một phiên kiểm tra cung bình thường chưa phải tín hiệu đảo chiều.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **Test for Supply** tiếp tục, VNM đi ngang từ 60.1 xuống 60.1. Cây nến đi ngang có biên độ hẹp. Khối lượng giao dịch giảm (4.96 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** với kết quả tích cực. Việc giá đi ngang trên khối lượng giảm cho thấy áp lực bán đã yếu đi và cân bằng cung cầu được thiết lập. Sau các phiên kiểm tra cung trước đó, phiên đi ngang này thể hiện sự kiểm soát của lực cầu và tiềm năng kết thúc giai đoạn điều chỉnh.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Test for Supply** tích cực, VNM đi ngang tại mức 60.1. Cây nến có biên độ hẹp (0.8 điểm). Khối lượng giao dịch tăng (6.34 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục với kết quả tích cực. Việc giá duy trì ổn định trên khối lượng tăng cho thấy có sự quan tâm của nhà đầu tư tại vùng giá này. Sau chuỗi các phiên test trước đó, phiên này củng cố thêm cho sự kiểm soát của lực cầu và tiềm năng kết thúc giai đoạn điều chỉnh, chuẩn bị cho xu hướng tăng mới.
 
 

@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
 - **Ngày 2025-07-16:** Sau tín hiệu **Test for Supply**, HAG phục hồi nhẹ từ 13.65 lên 13.6. Cây nến tăng có biên độ vừa phải với mức cao 13.8 và thấp 13.45. Khối lượng giao dịch giảm tiếp (10.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau **Test for Supply** hôm trước, việc giá phục hồi nhẹ trên khối lượng giảm cho thấy lực cầu đang từ từ hấp thụ lực bán. Mặc dù phục hồi chưa mạnh mẽ, nhưng đây là dấu hiệu tích cực cho thấy HAG đang trong giai đoạn consolidation sau **Effort to Rise** mạnh mẽ trước đó.
+- **Ngày 2025-07-17:** Sau tín hiệu **Test for Demand**, HAG tăng từ 13.7 lên 13.9. Cây nến tăng có biên độ rộng với mức cao 14.1 và thấp 13.55. Khối lượng giao dịch tăng mạnh (15.97 triệu đơn vị), tăng 49% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau giai đoạn **Test for Demand** và **Test for Supply**, việc khối lượng tăng vọt kèm theo sự phục hồi giá cho thấy lực cầu đã quay trở lại quyết liệt. Việc giá có thể test lên cao 14.1 (gần mức cao trước đó) cho thấy HAG đang tiếp tục xu hướng phục hồi mạnh mẽ, củng cố cho tín hiệu **Effort to Rise** trước đó.
 
 

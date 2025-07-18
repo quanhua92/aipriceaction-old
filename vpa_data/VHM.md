@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Sau khi chạm mức cao mới 91.0, việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Đây là một phiên **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** tích cực, VHM tăng từ 87.3 lên 88.0. Cây nến tăng có biên độ rộng với mức cao nhất 89.5 nhưng đóng cửa thấp hơn đỉnh. Khối lượng giao dịch tăng nhẹ (4.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** sau phiên test tích cực trước đó. Việc giá phục hồi trên khối lượng tăng nhẹ cho thấy lực cầu đang quay trở lại. Mặc dù có shadow trên cho thấy áp lực bán ở vùng cao, nhưng việc duy trì được mức đóng cửa cao hơn phiên trước vẫn củng cố cho xu hướng tăng đang diễn ra.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise**, VHM tăng vọt từ 88.0 lên 94.1. Cây nến tăng có biên độ rất rộng (5.8 điểm) và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng mạnh (8.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** rất mạnh mẽ. Sau chuỗi test và effort to rise, lực mua đã bùng nổ một cách áp đảo với khối lượng gấp đôi phiên trước. Việc giá phá vỡ vùng kháng cự 91.0 và đóng cửa ở đỉnh cho thấy động lực tăng rất mạnh. Đây là tín hiệu xác nhận xu hướng tăng bền vững.
 
 

@@ -44,7 +44,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Rise** nhẹ. Lực cầu đã quay trở lại để tiếp tục xu hướng tăng, dù chưa mạnh mẽ. Tín hiệu tích cực trong bối cảnh hồi phục.
 - **Ngày 2025-07-15:** Sau phiên **Effort to Rise**, hôm nay PVS giảm từ 33.3 xuống 33.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch cạn kiệt (15.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply (Không có Nguồn cung)** cực kỳ tích cực. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu tích cực, tạo điều kiện thuận lợi cho xu hướng tăng tiếp tục.
-- **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực, hôm nay PVS giảm nhẹ từ 33.1 xuống 33.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch cạn kiệt (4.0k đơn vị).
+- **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực, hôm nay PVS giảm nhẹ từ 33.1 xuống 33.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch cạn kiệt (4.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply** tiếp tục với khối lượng cực thấp. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu cực kỳ tích cực, tạo điều kiện thuận lợi cho xu hướng tăng đốt phá trong các phiên tới.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực, hôm nay PVS tăng mạnh từ 33.0 lên 33.4. Cây nến tăng có biên độ rộng với mức cao nhất 34.0. Khối lượng giao dịch cạn kiệt (2.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** với đặc điểm bùng nổ. Giá tăng mạnh trên khối lượng cực thấp cho thấy áp lực bán gần như không còn và lực cầu vẫn tồn tại. Đây là tín hiệu cực kỳ tích cực, xác nhận khả năng bứt phá mạnh mẽ trong thời gian tới.
 
 

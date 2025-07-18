@@ -277,7 +277,7 @@ def verify_volume_analysis(analysis: Dict, market_data: Dict, previous_data: Dic
 def verify_ticker(ticker: str) -> Dict:
     """Verify VPA analysis for a single ticker."""
     vpa_file = f"vpa_data/{ticker}.md"
-    csv_file = f"market_data/{ticker}_2025-01-02_to_2025-07-13.csv"
+    csv_file = f"market_data/{ticker}_2025-01-02_to_2025-07-17.csv"
     
     if not os.path.exists(vpa_file):
         return {'error': f'VPA file not found: {vpa_file}'}

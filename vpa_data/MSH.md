@@ -30,5 +30,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** không thành công. Việc giá giảm nhẹ nhưng khối lượng tăng đáng kể cho thấy áp lực bán đang gia tăng. Bóng trên dài thể hiện nỗ lực tăng giá bị đẩy lùi, cảnh báo rằng lực bán có thể đang quay trở lại.
 - **Ngày 2025-07-16:** MSH tiếp tục giảm từ 37.45 xuống 37.3. Cây nến giảm có biên độ hẹp với spread 0.45. Khối lượng giao dịch giảm mạnh (248.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** không thành công của phiên trước, phiên hôm nay thể hiện **No Demand**. Việc giá tiếp tục giảm với khối lượng thấp xác nhận sự vắng mặt của lực cầu. Tín hiệu tiêu cực này cho thấy áp lực bán vẫn đang kiểm soát và xu hướng giảm có thể tiếp diễn.
+- **Ngày 2025-07-17:** MSH tăng mạnh từ 37.3 lên 37.95. Cây nến tăng có biên độ rộng (spread 0.95) với bóng dưới dài. Khối lượng giao dịch tăng vọt (479.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **No Demand** trước đó, lực cầu đã quay trở lại quyết đoán với khối lượng cao và giá phục hồi tốt. Bóng dưới dài thể hiện việc thị trường đã kiểm tra vùng hỗ trợ và tìm thấy lực cầu mạnh ở mức thấp hơn, tạo điều kiện cho xu hướng phục hồi.
+- **Ngày 2025-07-18:** MSH tăng nhẹ từ 37.95 lên 38.15. Cây nến tăng có biên độ hẹp (spread 0.2) với bóng trên ngắn. Khối lượng giao dịch giảm (325.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply (Kiểm tra Nguồn cung)** sau nỗ lực tăng giá mạnh của phiên trước. Việc giá tăng nhẹ với khối lượng giảm cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Đây là một nhịp điều chỉnh bình thường, tín hiệu tích cực cho thấy đà tăng vẫn còn nguyên vẹn.
 
 

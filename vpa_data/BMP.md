@@ -30,4 +30,10 @@
 - **Ngày 2025-07-16:** BMP tiếp tục giảm từ 141.9 xuống 140.6. Cây nến giảm có biên độ vừa phải với mức thấp 140.6. Khối lượng giao dịch tăng (133.8k đơn vị) so với phiên **Effort to Fall** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** tiếp diễn. Sau phiên effort to fall, việc giá tiếp tục giảm trên khối lượng tăng cho thấy áp lực bán đang gia tăng và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn. Tín hiệu này xác nhận rằng test for supply trước đó đã thất bại và phe bán đang kiểm soát tình hình.
 
+- **Ngày 2025-07-17:** BMP tiếp tục giảm từ 140.8 xuống 140.3. Cây nến có biên độ hẹp với mức cao 142.7 nhưng đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng mạnh (244.9k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn trên khối lượng tăng. Mặc dù có test lên 142.7 nhưng việc đóng cửa gần mức thấp nhất cho thấy áp lực bán vẫn mạnh. Tín hiệu này xác nhận xu hướng điều chỉnh đang tiếp diễn.
+
+- **Ngày 2025-07-18:** BMP giảm từ 140.3 xuống 139.8. Cây nến giảm có biên độ hẹp và đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm xuống 185.5k đơn vị so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn nhưng trên khối lượng giảm. Việc giá tiếp tục giảm nhưng khối lượng giảm có thể là dấu hiệu áp lực bán đang yếu đi. Tín hiệu này cho thấy BMP có thể đang tiến gần đến mức hỗ trợ và cần quan sát để xác định dấu hiệu dừng đà giảm.
+
 

@@ -44,5 +44,9 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau khi thử nghiệm vùng kháng cự 49.2, áp lực bán mạnh đã xuất hiện khiến giá đóng cửa gần mức thấp nhất phiên. Việc khối lượng tăng kèm theo việc giá đóng cửa yếu cho thấy smart money đang phân phối tại vùng giá cao.
 - **Ngày 2025-07-16:** STB tăng nhẹ từ 47.8 lên 47.8 với đỉnh ngày đạt 48.15. Nến doji có biên độ hẹp và đuôi dài phía dưới. Khối lượng giao dịch giảm (9.52 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW của phiên trước, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 47.25. Việc giá hồi phục về mức đóng cửa ban đầu với khối lượng giảm cho thấy lực cầu vẫn còn yếu, chưa đủ mạnh để đảo ngược xu hướng giảm.
+- **Ngày 2025-07-17:** STB giảm từ 48.05 xuống 47.7 với đỉnh ngày đạt 48.4. Nến giảm có biên độ trung bình với đuôi dài phía trên. Khối lượng giao dịch giảm (9.05 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **No Demand** - Tiếp nối tín hiệu Test for Demand yếu kém của phiên trước, phiên này xác nhận lực cầu vẫn chưa xuất hiện. Việc giá giảm với khối lượng tiếp tục giảm cho thấy thiếu sự tham gia của dòng tiền lớn, thị trường đang trong trạng thái thiếu động lực tăng rõ ràng.
+- **Ngày 2025-07-18:** STB tăng từ 47.7 lên 48.0 với đỉnh ngày đạt 48.25. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (10.2 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau chuỗi tín hiệu No Demand và Test for Demand yếu kém, phiên tăng giá với khối lượng cải thiện này cho thấy lực cầu bắt đầu quay trở lại. Tuy nhiên, đây vẫn chỉ là nỗ lực tăng giá ban đầu, cần quan sát thêm để xác nhận sự đảo chiều thật sự của xu hướng.
 
 

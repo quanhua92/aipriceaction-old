@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Sau chuỗi tăng mạnh, việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể. Đây là một **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** tích cực, VIC tăng vọt từ 111.0 lên 117.4. Cây nến tăng có biên độ rất rộng với mức cao nhất 118.2. Khối lượng giao dịch tăng nhẹ (3.30 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận rằng phiên test trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán và áp đảo, cho thấy xu hướng tăng được khẳng định mạnh mẽ. Việc giá tăng mạnh trên khối lượng tăng nhẹ cho thấy áp lực bán đã yếu đi đáng kể và phe mua đang kiểm soát hoàn toàn.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, VIC tiếp tục tăng vọt từ 117.4 lên 122.0. Cây nến tăng có biên độ rộng (4.6 điểm) với mức cao nhất 123.3. Khối lượng giao dịch tăng mạnh (6.60 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận sự tiếp tục của xu hướng tăng sau phiên SOS. Lực cầu đã được củng cố với khối lượng giao dịch tăng gấp đôi, cho thấy sự quan tâm mạnh mẽ của nhà đầu tư. Việc giá phá vỡ mức 120.0 và đóng cửa ở vùng cao cho thấy động lực tăng rất mạnh và xu hướng tăng bền vững.
 
 

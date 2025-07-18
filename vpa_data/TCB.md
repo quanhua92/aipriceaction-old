@@ -56,5 +56,9 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau khi thử nghiệm vùng kháng cự 35.75, áp lực bán mạnh đã xuất hiện khiến giá đóng cửa ở mức thấp nhất phiên. Việc khối lượng duy trì cao kèm theo việc giá đóng cửa yếu xác nhận lực cầu vẫn chưa đủ mạnh để vượt qua kháng cự.
 - **Ngày 2025-07-16:** TCB tăng mạnh từ 34.8 lên 35.25 với đỉnh ngày đạt 35.45. Nến tăng có biên độ rộng và đóng cửa ở mức gần cao nhất. Khối lượng giao dịch giảm (15.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW của phiên trước, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 34.6. Việc giá hồi phục mạnh với khối lượng giảm cho thấy lực cầu đã quay trở lại, nhưng cần xác nhận thêm để khẳng định sự đảo chiều.
+- **Ngày 2025-07-17:** TCB giảm từ 35.4 xuống 35.15 với đỉnh ngày đạt 35.6. Nến giảm có biên độ hẹp với đuôi dài phía trên. Khối lượng giao dịch tăng (16.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Test for Demand tích cực của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 35.6. Việc giá giảm nhẹ với khối lượng tăng cho thấy vẫn còn áp lực bán, nhưng không quá mạnh.
+- **Ngày 2025-07-18:** TCB tăng từ 35.15 lên 35.8 với đỉnh ngày đạt 36.0. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (18.5 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 36.0. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho một đợt tăng tiếp theo.
 
 

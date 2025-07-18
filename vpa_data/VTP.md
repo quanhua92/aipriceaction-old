@@ -30,4 +30,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Việc giá tăng mạnh trên khối lượng cao cho thấy lực cầu đã quay trở lại một cách quyết đoán. Mức cao nhất 128.8 cho thấy có sự quan tâm mạnh mẽ của nhà đầu tư. Tín hiệu rất tích cực.
 - **Ngày 2025-07-16:** Sau phiên **Effort to Rise** mạnh mẽ, VTP giảm từ 125.3 xuống 124.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (718k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Sau phiên tăng mạnh với mức cao 128.8, việc giá điều chỉnh nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán chốt lời không đáng kể. Đây là một **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình sau chuỗi tăng mạnh.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply** tích cực, VTP đi ngang tại mức 124.1. Cây nến có biên độ rộng (3.2 điểm) với mức thấp nhất 122.4. Khối lượng giao dịch tăng (1.20 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục. Việc giá có test xuống thấp 122.4 nhưng phục hồi về mức đóng cửa 124.1 trên khối lượng tăng cho thấy lực cầu vẫn có mặt để bảo vệ vùng hỗ trợ. Đây là một phiên kiểm tra cung với kết quả tích cực, củng cố cho xu hướng tăng sau chuỗi test trước đó.
 

@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp diễn. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán chốt lời vẫn hiện diện. Tuy nhiên, mức giảm không quá mạnh, đây có thể là nhịp điều chỉnh bình thường trong xu hướng tăng.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **Test for Supply**, GAS tiếp tục giảm nhẹ từ 67.7 xuống 67.4. Cây nến giảm có biên độ hẹp với mức cao 67.9 và thấp 67.2. Khối lượng giao dịch giảm mạnh (525.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau giai đoạn **Test for Supply**, việc giá giảm nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán đã giảm đáng kể. Mặc dù giá vẫn giảm nhưng sự thiếu vắng khối lượng cho thấy không có áp lực bán mạnh, đây có thể là dấu hiệu tích cực cho việc ổn định giá trong thời gian tới.
+- **Ngày 2025-07-17:** Sau tín hiệu **No Supply**, GAS phục hồi từ 67.5 lên 67.7. Cây nến tăng có biên độ rộng với mức cao 67.9 và thấp 67.0. Khối lượng giao dịch tăng vọt (1.39 triệu đơn vị), tăng 164% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau tín hiệu **No Supply** cho thấy áp lực bán cạn kiệt, việc khối lượng bùng nổ kèm theo sự phục hồi giá cho thấy lực cầu đã quay trở lại quyết liệt. Mặc dù giá có test xuống thấp 67.0 trước khi phục hồi, nhưng sự tăng vọt của khối lượng cho thấy GAS đã hấp thụ xong lực bán và sẵn sàng cho một đợt phục hồi mạnh mẽ.
 
 

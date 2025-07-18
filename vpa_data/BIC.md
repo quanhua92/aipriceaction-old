@@ -30,4 +30,10 @@
 - **Ngày 2025-07-16:** BIC giảm từ 38.25 xuống 37.7. Cây nến giảm có biên độ vừa phải với mức thấp 37.65. Khối lượng giao dịch giảm (76.7k đơn vị) so với phiên **Test for Demand** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thất bại. Sau phiên test for demand tích cực, việc giá tiếp tục giảm với khối lượng giảm cho thấy lực cầu vẫn chưa đủ mạnh để hỗ trợ giá. Tín hiệu này cho thấy áp lực bán vẫn còn và xu hướng điều chỉnh có thể sẽ tiếp diễn.
 
+- **Ngày 2025-07-17:** BIC tăng mạnh từ 38.5 lên 39.15. Cây nến tăng có biên độ rộng với mức cao 39.85 và mức thấp 38.0. Khối lượng giao dịch tăng nhẹ lên 85.3k đơn vị so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ sau phiên test for demand thất bại. Việc giá tăng mạnh với biên độ rộng, test lên 39.85 trên khối lượng tăng cho thấy lực cầu đã quay trở lại mạnh mẽ và hấp thụ hết áp lực bán. Tín hiệu này xác nhận rằng BIC đã kết thúc giai đoạn điều chỉnh và xu hướng tăng được tái khẳng định.
+
+- **Ngày 2025-07-18:** BIC tiếp tục tăng từ 39.15 lên 39.65. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức trung bình (82.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận và tiếp tục củng cố cho tín hiệu **Sign of Strength** của phiên trước. Việc giá tiếp tục tăng mạnh trên khối lượng ổn định cho thấy sức mạnh của phe mua là bền vững. Tín hiệu này cho thấy BIC đã hoàn tất giai đoạn điều chỉnh và xu hướng tăng đang được nối dài với tiềm năng kiểm tra các vùng kháng cự cao hơn.
+
 
