@@ -32,7 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Sau tín hiệu **Effort to Rise** trên nền **No Supply** của ngày trước, việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán yếu. Đây là một nhịp kiểm tra bình thường, tiếp tục hỗ trợ cho kịch bản phục hồi.
 - **Ngày 2025-07-17:** IMP giữ nguyên giá ở 51.8. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (187.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply** cùng lúc. Sau phiên **Test for Supply** tích cực, việc giá đi ngang với khối lượng tăng nhẹ cho thấy thị trường đang trong giai đoạn cân bằng, chờ đợi động lực mới.
-- **Ngày 2025-07-17:** IMP tăng nhẹ từ 51.8 lên 52.1. Nến tăng có biên độ hẹp, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (250.0k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên cân bằng, sự tăng giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại. Việc đóng cửa gần mức cao nhất phiên với khối lượng hỗ trợ là dấu hiệu tích cực cho xu hướng phục hồi.
+- **Ngày 2025-07-18:** IMP giảm từ 51.8 xuống 51.7. Nến giảm có biên độ hẹp với giá cao nhất đạt 52.1. Khối lượng giao dịch giảm (163.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên cân bằng trước đó, sự giảm giá nhẹ trên khối lượng giảm cho thấy áp lực bán rất yếu. Việc giá chạm mức cao 52.1 trước khi đóng cửa thấp hơn một chút thể hiện có áp lực nhẹ nhưng không đáng kể. Tín hiệu tích cực cho việc duy trì xu hướng ổn định.
 
 

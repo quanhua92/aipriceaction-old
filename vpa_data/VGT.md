@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi tín hiệu No Demand, việc khối lượng tăng gấp đôi kèm theo giá ổn định cho thấy lực cầu bắt đầu xuất hiện. Đây là tín hiệu tích cực đầu tiên sau thời gian dài thiếu quan tâm.
 - **Ngày 2025-07-17:** VGT tăng từ 12.1 lên 12.4 với đỉnh ngày đạt 12.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch duy trì cao (1.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand thành công, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 12.5. Việc giá tăng mạnh với khối lượng duy trì cao cho thấy khả năng đảo chiều hoàn toàn xu hướng thiếu quan tâm trước đó.
+- **Ngày 2025-07-18:** VGT tăng từ 12.0 lên 12.2 với đỉnh ngày đạt 12.4. Nến tăng có biên độ rộng và đóng cửa ở mức cao. Khối lượng giao dịch tăng (1.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận lực cầu đã củng cố mạnh mẽ. Việc giá tiếp tục tăng với khối lượng tăng cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá sau thời gian dài thiếu quan tâm.
 
 

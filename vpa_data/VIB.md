@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp tục tích cực. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không đáng kể sau phiên test thành công trước đó. Mặc dù khối lượng có giảm nhưng vẫn duy trì ở mức cao, cho thấy sự quan tâm của nhà đầu tư vẫn tích cực và xu hướng tăng được duy trì.
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply** tích cực, VIB tăng từ 16.93 lên 17.05. Cây nến tăng có biên độ vừa phải (0.12 điểm). Khối lượng giao dịch giảm (11.97 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** sau chuỗi test thành công. Lực cầu đã quay trở lại với mức tăng giá ổn định. Mặc dù khối lượng có giảm so với phiên trước nhưng vẫn duy trì ở mức cao, cho thấy sự quan tâm mạnh mẽ của nhà đầu tư và xu hướng tăng đang được củng cố.
+- **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Rise**, VIB tăng nhẹ từ 17.05 lên 17.1. Cây nến tăng có biên độ vừa phải với mức cao nhất 17.25 nhưng đóng cửa thấp hơn đỉnh. Khối lượng giao dịch duy trì ở mức tương đương (11.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tích cực sau phiên Effort to Rise. Việc giá tăng nhẹ và duy trì mức khối lượng cao cho thấy lực cầu vẫn kiểm soát tốt tình hình. Mặc dù có shadow trên cho thấy áp lực bán nhẹ ở vùng 17.25, nhưng việc duy trì được mức đóng cửa cao hơn phiên trước vẫn củng cố cho xu hướng tăng đang diễn ra.
 
 

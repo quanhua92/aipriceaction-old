@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand thành công, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 62.7. Việc giá tăng với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc vượt qua kháng cự 63.0.
 - **Ngày 2025-07-17:** VCB tăng từ 62.2 lên 63.5 với đỉnh ngày đạt 63.8. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (12.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise, phiên này xác nhận lực cầu đã hoàn toàn áp đảo, đẩy giá bứt phá lên một tầm cao mới với sự ủng hộ của khối lượng lớn. Đây là tín hiệu mạnh mẽ cho thấy tiềm năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-18:** VCB giảm từ 62.3 xuống 61.9 với đỉnh ngày đạt 62.6. Nến giảm có biên độ vừa phải và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (6.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp chốt lời bình thường. Áp lực bán không mạnh, là tín hiệu tích cực cho thấy xu hướng tăng vẫn còn nguyên vẹn và sẽ tiếp tục sau khi giai đoạn tích lũy hoàn tất.
 
 

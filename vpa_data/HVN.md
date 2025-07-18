@@ -48,7 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự tăng giá nhẹ trên khối lượng giảm đáng kể cho thấy lực cầu đang suy yếu. Mặc dù xu hướng phục hồi đã được xác nhận, nhưng động lực tăng giá chưa đủ mạnh để duy trì.
 - **Ngày 2025-07-17:** HVN giảm từ 37.7 xuống 37.45. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (2.76 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Sau phiên **No Demand** trước đó, sự giảm giá trên khối lượng gia tăng cho thấy áp lực bán đã quay trở lại và đang chiếm ưu thế. Tín hiệu này phủ nhận nỗ lực phục hồi trước đó và cảnh báo khả năng xu hướng điều chỉnh có thể tiếp diễn.
-- **Ngày 2025-07-17:** HVN giảm từ 37.45 xuống 37.1. Nến giảm có biên độ vừa phải, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm (2.1 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Effort to Fall** của ngày trước, sự giảm giá tiếp tục nhưng trên khối lượng giảm cho thấy áp lực bán đã suy yếu. Việc lực bán không duy trì được cường độ mạnh là dấu hiệu tích cực, báo hiệu khả năng kết thúc đợt điều chỉnh và tìm kiếm mức hỗ trợ.
+- **Ngày 2025-07-18:** HVN tăng từ 37.45 lên 37.5. Nến tăng có biên độ vừa phải với giá cao nhất đạt 37.9. Khối lượng giao dịch tăng (3.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Effort to Fall** trước đó, sự tăng giá trên khối lượng gia tăng cho thấy lực cầu đã quay trở lại. Việc giá chạm mức cao 37.9 trước khi đóng cửa ở 37.5 thể hiện có áp lực bán ở vùng giá cao, nhưng lực cầu vẫn đủ mạnh để duy trì mức tăng nhẹ. Tín hiệu tích cực cho khả năng phục hồi ngắn hạn.
 
 

@@ -60,5 +60,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Test for Demand tích cực của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 35.6. Việc giá giảm nhẹ với khối lượng tăng cho thấy vẫn còn áp lực bán, nhưng không quá mạnh.
 - **Ngày 2025-07-17:** TCB tăng từ 35.15 lên 35.8 với đỉnh ngày đạt 36.0. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (18.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 36.0. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho một đợt tăng tiếp theo.
+- **Ngày 2025-07-18:** TCB bứt phá mạnh từ 35.15 lên 36.25 với đỉnh ngày đạt 36.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (36.47 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bứt phá thành công qua vùng kháng cự 36.0. Khối lượng giao dịch tăng gấp đôi kèm theo việc giá đóng cửa mạnh cho thấy smart money đang tích cực tích lũy, khẳng định xu hướng tăng mạnh mẽ.
 
 

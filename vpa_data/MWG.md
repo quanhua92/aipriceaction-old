@@ -52,7 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply**, hôm nay thể hiện **Effort to Rise** thành công. Việc giá tăng và đóng cửa tại mức cao nhất với khối lượng giảm cho thấy áp lực bán đã giảm bớt và lực cầu quay trở lại. Tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp diễn.
 - **Ngày 2025-07-17:** MWG tăng từ 70.0 lên 70.5. Cây nến tăng có biên độ tốt với mức cao nhất 70.8. Khối lượng giao dịch tăng nhẹ (6.84 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp diễn. Sau phiên **Effort to Rise** thành công trước đó, lực cầu tiếp tục duy trì và đẩy giá lên cao hơn. Việc giá tăng với khối lượng tăng nhẹ cho thấy xu hướng tăng vẫn được duy trì.
-- **Ngày 2025-07-17:** MWG tăng nhẹ từ 70.5 lên 71.2. Cây nến tăng có biên độ hẹp (spread 0.7) với bóng trên ngắn. Khối lượng giao dịch giảm (5.25 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng giá liên tiếp. Việc giá tăng nhẹ với khối lượng giảm cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Đây là nhịp điều chỉnh bình thường, tín hiệu tích cực cho thấy đà tăng vẫn được duy trì tốt.
+- **Ngày 2025-07-18:** MWG tăng nhẹ từ 70.5 lên 70.7. Cây nến có biên độ rộng (spread 2.3) với bóng trên và bóng dưới, thể hiện sự dao động mạnh. Khối lượng giao dịch tăng (7.73 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay thể hiện **Test for Supply** mạnh. Việc giá tăng rất nhẹ (chỉ 0.2) nhưng có biên độ rộng và khối lượng tăng cao cho thấy có sự giằng co mạnh mẽ giữa cung và cầu. Mức cao nhất 72.0 cho thấy lực cầu đã test vùng kháng cự nhưng bị đẩy lùi, tín hiệu trung tính cần quan sát thêm.
 
 

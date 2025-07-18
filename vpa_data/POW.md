@@ -46,5 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy đây là một phiên **Test for Supply** tiếp theo. Mặc dù giá tăng nhẹ nhưng khối lượng giảm cho thấy áp lực mua chưa mạnh. Thị trường vẫn đang trong giai đoạn tiêu hóa nguồn cung sau đợt tăng mạnh ngày 14/7.
 - **Ngày 2025-07-17:** Tiếp nối phiên **Test for Supply**, hôm nay POW mở cửa tăng từ 13.85 và chạm mức cao nhất 14.05 nhưng đóng cửa tại 13.75. Cây nến có biên độ rộng với đuôi dài phía dưới. Khối lượng giao dịch tăng nhẹ (11,333,000 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** với đặc điểm mạnh mẽ. Giá test lại vùng kháng cự 14.05 nhưng bị bán mạnh xuống và đóng cửa ở mức thấp. Khối lượng tăng nhẹ cho thấy áp lực bán đã xuất hiện. Thị trường cần thêm thời gian để tiêu hóa nguồn cung trước khi có thể bứt phá.
+- **Ngày 2025-07-18:** Sau phiên **Test for Supply** của hôm trước, POW tăng mạnh từ 13.9 lên 14.0. Cây nến tăng có biên độ rộng với mức cao nhất 14.3. Khối lượng giao dịch tăng vọt gấp đôi (22,890,200 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ sau phiên test supply. Lực cầu đã hấp thụ hoàn toàn áp lực bán và bứt phá khỏi vùng kháng cự 14.05 với khối lượng khổng lồ. Việc đóng cửa tại 14.0 cho thấy lực cầu vẫn mạnh mẽ. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
 
 

@@ -36,4 +36,7 @@
 - **Ngày 2025-07-17:** CII tăng từ 15.9 lên 16.25. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức cao (38.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp diễn trên khối lượng duy trì cao. Việc giá tiếp tục tăng mạnh trên khối lượng lớn cho thấy sức mạnh của phe mua là bền vững và xu hướng tăng đang được củng cố mạnh mẽ. Tín hiệu này cho thấy CII có tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
 
+- **Ngày 2025-07-18:** CII tăng mạnh từ 16.3 lên 16.3. Cây nến có biên độ rộng với mức cao 16.85 và mức thấp 16.2, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch duy trì ở mức cao (39.98 triệu đơn vị), tương đương với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng mạnh liên tiếp. Việc giá test lên mức cao 16.85 nhưng đóng cửa ở mức bằng phiên trước trên khối lượng cao cho thấy có áp lực bán xuất hiện ở vùng đỉnh. Tuy nhiên, việc giá vẫn duy trì được mức tăng trước đó là dấu hiệu tích cực.
+
 

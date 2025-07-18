@@ -56,4 +56,7 @@
 - **Ngày 2025-07-17:** BCM tăng từ 67.3 lên 67.8. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm nhẹ xuống 325.8k đơn vị so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực sau phiên test for supply. Việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán đã được hấp thụ và phe mua đang bắt đầu chiếm ưu thế trở lại. Tín hiệu này cho thấy BCM đang hoàn tất giai đoạn test và có tiềm năng phục hồi xu hướng tăng trong các phiên tới.
 
+- **Ngày 2025-07-18:** BCM tăng từ 67.6 lên 67.7. Cây nến có biên độ rộng với mức cao 69.1 và mức thấp 67.3, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng lên 586.5k đơn vị, cao hơn đáng kể so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** quan trọng. Việc giá test lên mức cao 69.1 nhưng đóng cửa thấp hơn trên khối lượng tăng cho thấy áp lực bán vẫn còn mạnh ở vùng kháng cự. Tuy nhiên, việc giá vẫn duy trì trên mức **Effort to Rise** trước đó là dấu hiệu tích cực. Cần theo dõi phiên tiếp theo để xác định liệu phe mua có thể vượt qua được áp lực cung này hay không.
+
 

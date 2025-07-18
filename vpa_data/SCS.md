@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Áp lực bán quay trở lại và dễ dàng đẩy giá xuống sau cú hồi yếu ớt. Điều này xác nhận lực cầu vẫn chưa đủ mạnh để thay đổi xu hướng.
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay SCS tăng nhẹ từ 66.5 lên 66.7. Cây nến tăng có biên độ hẹp với mức cao nhất 66.8. Khối lượng giao dịch giảm (362.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Demand (Kiểm tra Cầu)**. Giá hồi phục nhẹ nhưng khối lượng giảm cho thấy lực cầu chưa trở lại mạnh mẽ. Thị trường đang kiểm tra mức độ quan tâm của phe mua sau giai đoạn điều chỉnh, nhưng vẫn chưa có dấu hiệu phục hồi mạnh mẽ.
+- **Ngày 2025-07-18:** Tiếp nối phiên **Test for Demand**, hôm nay SCS tăng nhẹ từ 66.7 lên 67.0. Cây nến tăng có biên độ hẹp với mức cao nhất 67.1. Khối lượng giao dịch tăng nhẹ (376.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** nhẹ. Lực cầu đã quay trở lại và tiếp tục đẩy giá lên với khối lượng tăng nhẹ. Tuy nhiên, mức độ cải thiện còn chậm và cần thêm thời gian để xác nhận xu hướng phục hồi.
 
 

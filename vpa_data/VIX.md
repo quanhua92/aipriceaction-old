@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tăng mạnh và đóng cửa ở mức cao nhất trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại một cách áp đảo. Đây là xác nhận mạnh mẽ cho xu hướng tăng, cho thấy phe mua đang kiểm soát hoàn toàn và có khả năng tiếp tục đẩy giá lên.
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, VIX tăng từ 17.1 lên 17.65. Cây nến tăng có biên độ vừa phải (0.55 điểm) với mức cao nhất 18.0. Khối lượng giao dịch giảm (51.29 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tích cực sau phiên SOS. Việc giá tiếp tục tăng nhưng chậm lại với khối lượng giảm cho thấy áp lực bán chốt lời xuất hiện nhưng không đáng kể. Mức cao nhất 18.0 cho thấy lực cầu vẫn mạnh mẽ, và việc duy trì được mức tăng giá trên khối lượng vẫn cao củng cố cho xu hướng tăng.
+- **Ngày 2025-07-18:** Tiếp nối tín hiệu **Test for Supply** tích cực, VIX tăng mạnh từ 17.65 lên 18.85. Cây nến tăng có biên độ rộng (1.2 điểm) và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng mạnh (65.01 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận rằng phiên test trước đó đã thành công hoàn toàn. Lực cầu đã quay trở lại một cách áp đảo với khối lượng tăng vọt, cho thấy phe mua đang kiểm soát hoàn toàn. Việc giá phá vỡ ngưỡng 18.0 và đóng cửa ở mức cao nhất 18.85 cho thấy động lực tăng rất mạnh và xu hướng tăng bền vững.
 
 

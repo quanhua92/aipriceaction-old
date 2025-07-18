@@ -48,4 +48,6 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau phiên Test for Demand thành công, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 15.15. Việc giá không thể duy trì ở mức cao với khối lượng tăng cho thấy vẫn còn một số áp lực bán chốt lời, nhưng không quá mạnh để phá vỡ xu hướng tăng.
 - **Ngày 2025-07-17:** TPB tăng từ 14.9 lên 15.2 với đỉnh ngày đạt 15.35. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (22.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 15.35. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc vượt qua kháng cự 15.5 trong các phiên tới.
+- **Ngày 2025-07-18:** TPB tăng từ 14.95 lên 15.1 với đỉnh ngày đạt 15.35. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (26.78 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận lực cầu đã củng cố mạnh mẽ. Việc giá duy trì ở mức cao với khối lượng tăng đáng kể cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá vượt qua kháng cự 15.35.
 

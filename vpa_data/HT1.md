@@ -2,3 +2,9 @@
 
 - **Ngày 2025-07-15:** HT1 giảm nhẹ từ 13.25 xuống 13.1. Nến giảm có biên độ hẹp với giá cao nhất đạt 13.3. Khối lượng giao dịch giảm mạnh (450.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand**. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy sự thiếu hụt lực cầu, nhưng áp lực bán cũng không mạnh. Thị trường đang trong trạng thái thiếu động lực giao dịch.
+- **Ngày 2025-07-16:** HT1 tăng nhẹ từ 13.1 lên 13.15. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm tiếp (446.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Tiếp nối tín hiệu **No Demand** của ngày trước, sự tăng giá nhẹ trên khối lượng thấp cho thấy lực cầu vẫn yếu. Thị trường thiếu động lực rõ ràng và có khả năng tiếp tục đi ngang.
+- **Ngày 2025-07-17:** HT1 giảm từ 13.15 xuống 13.05. Nến giảm có biên độ rộng với giá thấp nhất đạt 12.85. Khối lượng giao dịch tăng nhẹ (567.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau chuỗi tín hiệu **No Demand**, sự giảm giá với khối lượng tăng nhẹ và có biên độ rộng cho thấy lực cầu đang được kiểm tra. Việc có biên độ rộng nhưng đóng cửa gần giá mở cửa là dấu hiệu tích cực, báo hiệu có lực đỡ tại vùng giá này.
+- **Ngày 2025-07-18:** HT1 giảm từ 13.05 xuống 13.0. Nến giảm có biên độ hẹp với giá thấp nhất đạt 12.9. Khối lượng giao dịch giảm mạnh (307.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Test for Demand** của ngày trước, sự giảm giá nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù giá vẫn giảm nhẹ nhưng khối lượng thấp thể hiện không có lực bán mạnh. Đây là dấu hiệu tích cực, báo hiệu khả năng kết thúc giai đoạn kiểm tra và chuẩn bị cho sự phục hồi.

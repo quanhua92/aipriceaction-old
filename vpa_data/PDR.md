@@ -32,7 +32,9 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, hôm nay thể hiện **Sign of Strength (SOS)**. Việc giá tăng mạnh với khối lượng tăng vịt xác nhận lực cầu rất mạnh và chiếm ưu thế áp đảo. Tín hiệu rất tích cực cho xu hướng tăng mạnh.
 - **Ngày 2025-07-17:** PDR tăng mạnh từ 20.05 lên 20.9. Cây nến tăng có biên độ rộng với mức cao nhất 21.4. Khối lượng giao dịch tăng (29.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Sign of Strength (SOS)**. Lực cầu tiếp tục thể hiện sự mạnh mẽ áp đảo với giá tăng mạnh và khối lượng cao. Việc giá test được vùng 21.4 cho thấy momentum tăng rất mạnh. Tín hiệu rất tích cực.
-- **Ngày 2025-07-17:** PDR giảm nhẹ từ 20.9 xuống 20.6. Cây nến giảm có biên độ hẹp (spread 0.3) với bóng dưới dài. Khối lượng giao dịch giảm (18.25 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá giảm nhẹ với khối lượng giảm và bóng dưới dài cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh và có lực đỡ tốt. Tín hiệu rất tích cực cho thấy đà tăng mạnh vẫn được duy trì.
+- **Ngày 2025-07-17:** PDR tăng mạnh từ 20.05 lên 20.9. Cây nến tăng có biên độ rộng (spread 1.4) với mức cao nhất 21.4. Khối lượng giao dịch tăng (29.39 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tăng mạnh với khối lượng cao và vượt qua vùng kháng cự 20.0 cho thấy lực cầu đã bùng nổ. Việc giá test được mức 21.4 thể hiện động lực tăng rất mạnh. Tín hiệu rất tích cực.
+- **Ngày 2025-07-18:** PDR giảm từ 20.9 xuống 20.55. Cây nến giảm có biên độ rộng (spread 1.4) với mức cao nhất 21.9. Khối lượng giao dịch giảm (27.63 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay thể hiện **Test for Supply**. Việc giá test lên 21.9 nhưng bị đẩy lùi với khối lượng giảm cho thấy có áp lực bán chốt lời ở vùng cao nhưng không quá mạnh. Đây là nhịp điều chỉnh bình thường sau SOS, tín hiệu tích cực.
 
 

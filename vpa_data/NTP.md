@@ -48,7 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Demand**, phiên tăng giá với khối lượng tăng nhẹ này là một tín hiệu **Effort to Rise** yếu. Lực cầu đã có dấu hiệu cải thiện nhưng chưa đủ mạnh để tạo ra sự thay đổi quyết định. Tín hiệu trung tính, cần quan sát thêm.
 - **Ngày 2025-07-17:** NTP tăng vọt từ 66.0 lên 68.5. Cây nến tăng có biên độ rộng (spread 2.5) với mức cao nhất 68.5. Khối lượng giao dịch rất thấp (100 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** bất thường. Việc giá tăng mạnh trên khối lượng cực thấp cho thấy không có sự tham gia của thị trường rộng và có thể là kết quả của một số giao dịch lẻ. Tín hiệu không đáng tin cậy và cần thận trọng.
-- **Ngày 2025-07-17:** NTP giảm từ 68.5 xuống 67.2. Cây nến giảm có biên độ vừa phải (spread 1.3) với bóng dưới dài. Khối lượng giao dịch tăng (185.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** bất thường với khối lượng cực thấp, phiên giảm giá với khối lượng bình thường này là một tín hiệu **Test for Demand**. Bóng dưới dài cho thấy có lực đỡ ở vùng thấp hơn, là dấu hiệu tích cực. Thị trường đang tìm kiếm sự cân bằng sau động thái bất thường.
+- **Ngày 2025-07-18:** NTP tăng nhẹ từ 68.5 lên 68.9. Cây nến tăng có biên độ rộng (spread 2.0) với mức cao nhất 69.3. Khối lượng giao dịch giảm (345.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Demand** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** yếu. Việc giá tăng nhẹ với khối lượng giảm cho thấy lực cầu đã có dấu hiệu cải thiện sau giai đoạn kiểm tra. Việc giá test được mức 69.3 cho thấy tiềm năng hồi phục, nhưng vẫn cần xác nhận thêm từ những phiên tiếp theo.
 
 

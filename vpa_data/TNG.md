@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu No Demand, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 20.5. Việc giá được hỗ trợ và khối lượng tăng so với phiên trước cho thấy có sự xuất hiện của lực cầu, nhưng vẫn chưa đủ mạnh để tạo ra một xu hướng tăng rõ ràng.
 - **Ngày 2025-07-17:** TNG tăng từ 20.7 lên 21.0 với đỉnh ngày đạt 21.2. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.1 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand tích cực, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 21.2. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc vượt qua kháng cự trong các phiên tới.
+- **Ngày 2025-07-18:** TNG tăng từ 20.7 lên 21.1 với đỉnh ngày đạt 21.2. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.37 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận lực cầu đã củng cố thành công. Việc giá duy trì ở mức cao và khối lượng tiếp tục tăng cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá.
 
 

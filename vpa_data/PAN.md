@@ -32,8 +32,10 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** thành công, hôm nay thể hiện **Effort to Rise** tích cực. Việc giá phục hồi với khối lượng giảm xác nhận áp lực bán đã giảm bớt và lực cầu vẫn kiểm soát. Tín hiệu tích cực cho xu hướng tăng.
 - **Ngày 2025-07-17:** PAN tăng nhẹ từ 30.0 lên 30.1. Cây nến tăng có biên độ hẹp với mức cao nhất 30.5. Khối lượng giao dịch tăng vọt (3.11 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng giá tích cực. Việc giá tăng hạn chế nhưng khối lượng tăng đáng kể cho thấy có áp lực bán ở vùng giá cao. Tín hiệu trung tính, cần quan sát thêm để xác định hướng đi tiếp theo.
-- **Ngày 2025-07-17:** PAN giảm nhẹ từ 30.1 xuống 29.85. Cây nến giảm có biên độ hẹp (spread 0.25) với bóng dưới dài. Khối lượng giao dịch giảm (2.05 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Test for Supply** trước đó. Việc giá giảm nhẹ với khối lượng giảm và bóng dưới dài cho thấy có lực đỡ tốt ở vùng thấp. Tín hiệu tích cực cho thấy đà tăng có thể tiếp diễn sau nhịp điều chỉnh.
+- **Ngày 2025-07-17:** PAN tăng nhẹ từ 30.0 lên 30.1. Cây nến tăng có biên độ hẹp (spread 0.6) với mức cao nhất 30.5. Khối lượng giao dịch tăng vọng (3.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên tăng giá trước đó. Việc giá tăng nhẹ với khối lượng tăng mạnh cho thấy có áp lực bán chốt lời ở vùng 30.5 nhưng giá vẫn duy trì được. Tín hiệu tích cực cho thấy đà tăng có thể tiếp diễn.
+- **Ngày 2025-07-18:** PAN tăng nhẹ từ 30.1 lên 30.4. Cây nến tăng có biên độ rộng (spread 1.0) với mức cao nhất 31.1. Khối lượng giao dịch giảm (1.94 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** tích cực. Việc giá vượt qua vùng kháng cự 30.5 và test được mức 31.1 với khối lượng giảm cho thấy áp lực bán đã giảm và lực cầu đang kiểm soát. Tín hiệu tích cực cho xu hướng tăng ngắn hạn.
 
 
 

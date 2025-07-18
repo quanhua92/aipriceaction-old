@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** trước đó, lực cầu tiếp tục thể hiện sự chiếm ưu thế. Khối lượng tăng vọt xác nhận sự quan tâm cao của nhà đầu tư và hỗ trợ cho xu hướng tăng mạnh mẽ tiếp diễn.
 - **Ngày 2025-07-17:** FIT giảm từ 5.0 xuống 4.89. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (3.19 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau phiên **SOS**. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán chốt lời không quá mạnh. Đây là một phiên Test for Supply bình thường sau chuỗi tăng mạnh, tạo điều kiện cho xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-18:** FIT giảm từ 4.89 xuống 4.82. Cây nến giảm có biên độ vừa phải với mức low 4.81. Khối lượng giao dịch giảm nhẹ (2.84 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** tiếp diễn sau phiên **SOS**. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không lớn và chỉ là phiên test tự nhiên. Đây là dấu hiệu tích cực vì lực bán tỏ ra yếu ớt sau đợt tăng mạnh, hỗ trợ cho khả năng tiếp tục xu hướng tăng khi có xác nhận từ lực cầu.
 
 

@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau tín hiệu No Demand, lực cầu đã bất ngờ quay trở lại mạnh mẽ với khối lượng tăng gần gấp đôi. Việc giá tăng mạnh với khối lượng bùng nổ cho thấy smart money đang tích cực mua vào, phủ nhận hoàn toàn tín hiệu yếu kém trước đó.
 - **Ngày 2025-07-17:** VCS tăng từ 50.5 lên 51.2 với đỉnh ngày đạt 51.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch duy trì cao (350.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Tiếp nối tín hiệu Effort to Rise, phiên này xác nhận lực cầu đã hoàn toàn áp đảo, đẩy giá bứt phá lên một tầm cao mới. Việc khối lượng duy trì cao trong hai phiên liên tiếp cho thấy sự quan tâm của nhà đầu tư đã quay trở lại mạnh mẽ.
+- **Ngày 2025-07-18:** VCS giảm từ 50.5 xuống 50.0 với đỉnh ngày đạt 50.9. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (232.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp chốt lời bình thường. Áp lực bán không mạnh, là tín hiệu tích cực cho thấy xu hướng tăng vẫn còn nguyên vẹn và sẽ tiếp tục sau khi giai đoạn tích lũy hoàn tất.
 
 

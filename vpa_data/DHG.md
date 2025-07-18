@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Demand** sau các phiên **No Supply**. Việc giá tăng trên khối lượng giảm cho thấy lực cầu đã xuất hiện một cách tự nhiên. Đây là dấu hiệu tích cực, cho thấy khả năng xu hướng tăng sẽ tiếp diễn sau giai đoạn **No Supply**.
 - **Ngày 2025-07-17:** DHG tăng từ 101.2 lên 101.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (22.9k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** xác nhận. Sau tín hiệu **Test for Demand** tích cực của phiên trước, lực cầu đã được củng cố với khối lượng gia tăng. Tín hiệu này xác nhận xu hướng tăng và tiềm năng tiếp tục đà tăng giá trong ngắn hạn.
+- **Ngày 2025-07-18:** DHG giảm từ 101.8 xuống 101.3. Cây nến giảm có biên độ vừa phải với mức low 101.0. Khối lượng giao dịch giảm (14.2k đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Effort to Rise**. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán không lớn và chỉ là phiên test tự nhiên. Đây là dấu hiệu tích cực vì lực bán tỏ ra yếu ớt, tiếp tục củng cố tín hiệu **No Supply** trước đó và hỗ trợ cho xu hướng tăng tiếp diễn.
 
 

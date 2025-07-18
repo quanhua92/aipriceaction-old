@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** thành công. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán đang cạn kiệt. Đây là dấu hiệu tích cực sau signal **Effort to Rise**, cho thấy thị trường đang hấp thụ áp lực bán chốt lời một cách hiệu quả.
 - **Ngày 2025-07-17:** DPR tăng từ 39.95 lên 40.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (811.1k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** xác nhận. Sau tín hiệu **Test for Supply** thành công của phiên trước, lực cầu đã quay trở lại với khối lượng gia tăng. Tín hiệu này xác nhận xu hướng tăng và tiềm năng tiếp tục đà phục hồi giá.
+- **Ngày 2025-07-18:** DPR tăng từ 40.2 lên 40.9. Cây nến tăng có biên độ rộng với mức high 41.4. Khối lượng giao dịch tăng mạnh (1.77 triệu đơn vị), tăng gấp đôi so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, việc giá tăng mạnh với khối lượng bùng nổ cho thấy lực cầu đang cực kỳ mạnh mẽ. Tín hiệu này xác nhận xu hướng tăng mạnh và tiềm năng tiếp tục đà phục hồi giá đáng kể.
 
 

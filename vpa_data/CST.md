@@ -30,5 +30,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau phiên **Test for Supply** của ngày hôm trước, việc giá giữ vững và khối lượng giảm mạnh cho thấy lực bán đã cạn kiệt. Đây là dấu hiệu tích cực, hỗ trợ cho xu hướng tăng tiếp diễn sau giai đoạn **Effort to Rise**.
 - **Ngày 2025-07-17:** CST tăng nhẹ từ 16.0 lên 16.1. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm nhẹ (22.7k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục xuất hiện. Sau tín hiệu **No Supply** của phiên trước, việc giá tiếp tục tăng nhẹ với khối lượng giảm tiếp xác nhận lực bán đã cạn kiệt. Đây là dấu hiệu tích cực, cho thấy xu hướng tăng có thể tiếp diễn trong ngắn hạn.
+- **Ngày 2025-07-18:** CST giảm từ 16.1 xuống 15.9. Cây nến giảm có biên độ rộng với mức low 15.8. Khối lượng giao dịch tăng mạnh (54.8k đơn vị), tăng gấp 2.4 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau hai phiên **No Supply** liên tiếp, khối lượng tăng mạnh kèm theo giá giảm cho thấy áp lực bán đã quay trở lại. Đây là một phiên kiểm tra khả năng cung cấp của thị trường sau giai đoạn **Effort to Rise**. Cần theo dõi để xác định liệu lực bán có đủ mạnh để chấm dứt xu hướng tăng.
 
 

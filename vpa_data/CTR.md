@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Demand** sau phiên **Effort to Fall**. Việc giá tăng trên khối lượng giảm cho thấy lực cầu đã quay trở lại và áp lực bán đang cạn kiệt. Tuy nhiên, tín hiệu này cần được xác nhận thêm để đảm bảo không phải là cú hồi kỹ thuật.
 - **Ngày 2025-07-17:** CTR giảm nhẹ từ 102.2 xuống 101.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (490.7k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** sau phiên **Test for Demand**. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không mạnh, xác nhận rằng lực bán đang cạn kiệt. Tín hiệu này hỗ trợ cho khả năng kết thúc xu hướng giảm ngắn hạn.
+- **Ngày 2025-07-18:** CTR giảm mạnh từ 101.8 xuống 99.8. Cây nến giảm có biên độ rộng với mức low 99.8. Khối lượng giao dịch tăng vọt (1.34 triệu đơn vị), tăng gấp 2.7 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện mạnh mẽ. Sau hai phiên **Test for Demand** và **No Supply**, việc giá giảm mạnh với khối lượng bùng nổ cho thấy áp lực bán đã quay trở lại một cách quyết đoán. Tín hiệu này phủ nhận hoàn toàn các tín hiệu tích cực trước đó và xác nhận xu hướng giảm tiếp diễn.
 
 

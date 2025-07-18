@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau phiên Test for Demand, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 76.0. Việc giá không thể duy trì ở mức cao với khối lượng tăng cho thấy vẫn còn áp lực bán, nhưng không quá mạnh.
 - **Ngày 2025-07-17:** VGI tăng từ 75.2 lên 76.8 với đỉnh ngày đạt 77.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (850.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 77.5. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc phục hồi hoàn toàn sau tín hiệu SOW trước đó.
+- **Ngày 2025-07-18:** VGI giảm từ 75.2 xuống 74.7 với đỉnh ngày đạt 75.8. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (726.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Rise của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp kiểm tra bình thường. Áp lực bán không mạnh và được hấp thụ tốt, là tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp tục sau khi giai đoạn tích lũy hoàn tất.
 
 

@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply (Không có Cung)**. Sau đợt tăng mạnh với khối lượng cao, giá tiếp tục tăng nhưng với khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể. Đây là dấu hiệu tích cực cho thấy phe mua đang duy trì kiểm soát thị trường.
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply**, hôm nay PTB mở cửa tăng từ 56.5 nhưng giảm xuống đóng cửa tại 55.6. Cây nến giảm có biên độ rộng với mức thấp nhất 55.5. Khối lượng giao dịch giảm (80.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau đợt tăng mạnh. Áp lực bán chốt lời xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là nhịp điều chỉnh bình thường sau đợt tăng, thị trường cần thời gian để tiêu hóa nguồn cung.
+- **Ngày 2025-07-18:** Tiếp nối phiên **Test for Supply**, hôm nay PTB tiếp tục giảm từ 55.7 xuống 55.2. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (42.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)** sau giai đoạn test supply. Việc giá tiếp tục giảm trên khối lượng thấp cho thấy lực cầu đã yếu đi và không có sự quan tâm từ phía mua. Tín hiệu này cho thấy áp lực điều chỉnh vẫn tiếp tục, thị trường cần thêm thời gian để tìm lại cân bằng.
 
 

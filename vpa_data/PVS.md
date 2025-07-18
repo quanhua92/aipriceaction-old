@@ -46,7 +46,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply (Không có Nguồn cung)** cực kỳ tích cực. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu tích cực, tạo điều kiện thuận lợi cho xu hướng tăng tiếp tục.
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực, hôm nay PVS giảm nhẹ từ 33.1 xuống 33.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch cạn kiệt (4.0 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply** tiếp tục với khối lượng cực thấp. Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu cực kỳ tích cực, tạo điều kiện thuận lợi cho xu hướng tăng đốt phá trong các phiên tới.
-- **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực, hôm nay PVS tăng mạnh từ 33.0 lên 33.4. Cây nến tăng có biên độ rộng với mức cao nhất 34.0. Khối lượng giao dịch cạn kiệt (2.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** với đặc điểm bùng nổ. Giá tăng mạnh trên khối lượng cực thấp cho thấy áp lực bán gần như không còn và lực cầu vẫn tồn tại. Đây là tín hiệu cực kỳ tích cực, xác nhận khả năng bứt phá mạnh mẽ trong thời gian tới.
+- **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực, hôm nay PVS tăng mạnh từ 33.0 lên 33.4. Cây nến tăng có biên độ rộng với mức cao nhất 34.0. Khối lượng giao dịch tăng (7.58 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng mạnh, xác nhận sự kết thúc giai đoạn **No Supply** và khởi đầu cho một đợt tăng giá mạnh mẽ. Tín hiệu cực kỳ tích cực.
+- **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay PVS bứt phá mạnh từ 33.4 lên 34.2. Cây nến tăng có biên độ rộng với mức cao nhất 34.5. Khối lượng giao dịch tăng vọt (10.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, xác nhận giai đoạn bứt phá đã bắt đầu. Lực cầu đã hoàn toàn chiếm ưu thế với khối lượng khổng lồ, cho thấy sự quan tâm mạnh mẽ từ các nhà đầu tư. Tín hiệu cực kỳ tích cực cho xu hướng tăng tiếp theo.
 
 

@@ -52,7 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay thể hiện **Test for Demand**. Việc giá phục hồi từ vùng thấp với khối lượng giảm cho thấy áp lực bán đã giảm và có dấu hiệu lực cầu quay trở lại. Bóng dưới thể hiện sự đỡ ở vùng thấp, tín hiệu tích cực cho thấy giai đoạn điều chỉnh có thể kết thúc.
 - **Ngày 2025-07-17:** MSN tăng mạnh từ 75.0 lên 76.2. Cây nến tăng có biên độ rộng (spread 1.7) với mức cao nhất 77.3. Khối lượng giao dịch tăng vọt (10.77 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Demand** thành công, lực cầu đã quay trở lại quyết đoán với khối lượng tăng vọt và giá phục hồi tốt. Việc giá test được vùng cao hơn (77.3) cho thấy momentum tăng mạnh, xác nhận giai đoạn điều chỉnh đã kết thúc.
-- **Ngày 2025-07-17:** MSN tăng nhẹ từ 76.2 lên 76.8. Cây nến tăng có biên độ hẹp (spread 0.6) với bóng trên dài. Khối lượng giao dịch giảm (7.85 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau nỗ lực tăng mạnh của phiên trước. Việc giá tăng nhẹ với khối lượng giảm và có bóng trên dài cho thấy áp lực bán chốt lời đã xuất hiện ở vùng cao. Đây là nhịp điều chỉnh bình thường, tín hiệu tích cực cho thấy đà tăng vẫn được duy trì.
+- **Ngày 2025-07-18:** MSN tăng mạnh từ 76.2 lên 79.1. Cây nến tăng có biên độ rộng (spread 4.5) với mức cao nhất 81.0. Khối lượng giao dịch tăng vọt (14.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, lực cầu đã bùng nổ với khối lượng tăng 35% và giá phá vỡ thành công vùng kháng cự. Việc giá test được vùng 81.0 cho thấy momentum tăng rất mạnh, xác nhận xu hướng tăng đang được củng cố và có thể tiếp tục phát triển.
 
 

@@ -32,7 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên tăng giá yếu với khối lượng giảm mạnh này là một tín hiệu **No Demand**. Lực cầu đã yếu đi đáng kể sau đợt bùng nổ, cho thấy đà tăng có thể chững lại. Cần thêm chất xúc tác để duy trì xu hướng tăng.
 - **Ngày 2025-07-17:** NKG tăng nhẹ từ 14.2 lên 14.3. Cây nến tăng có biên độ hẹp với mức cao nhất 14.55. Khối lượng giao dịch tăng (14.10 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên tăng giá với khối lượng tăng này là một tín hiệu **Effort to Rise** yếu. Lực cầu đã có dấu hiệu cải thiện nhưng chưa đủ mạnh, thể hiện qua kết quả tăng giá hạn chế. Tín hiệu trung tính, cần quan sát thêm.
-- **Ngày 2025-07-17:** NKG tăng nhẹ từ 14.3 lên 14.55. Cây nến tăng có biên độ hẹp (spread 0.25) với bóng trên ngắn. Khối lượng giao dịch giảm (11.20 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau nỗ lực tăng yếu của phiên trước. Việc giá tăng nhẹ với khối lượng giảm cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Tín hiệu trung tính, cần quan sát thêm để xác định hướng đi tiếp theo.
+- **Ngày 2025-07-18:** NKG đi ngang, đóng cửa ở mức 14.3. Cây nến có biên độ hẹp (spread 0.3) với mức cao nhất chỉ 14.5. Khối lượng giao dịch không đổi (14.10 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** yếu của phiên trước, phiên hôm nay thể hiện **No Demand**. Việc giá đi ngang trong biên độ hẹp với khối lượng cao cho thấy có sự giằng co nhưng thiếu động lực từ phía mua. Việc giá không thể vượt quá mức 14.5 dù có khối lượng cao là tín hiệu tiêu cực, cho thấy lực cầu vẫn chưa đủ mạnh để đẩy giá lên cao hơn.
 
 

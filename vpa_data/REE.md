@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Giá tiếp tục tăng nhẹ trên khối lượng giảm, cho thấy áp lực bán đã yếu đi đáng kể. Tín hiệu tích cực, xác nhận xu hướng tăng đang được duy trì trong điều kiện thiếu áp lực bán.
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **No Supply**, hôm nay REE giảm từ 68.8 xuống 68.0. Cây nến giảm có biên độ rộng với mức thấp nhất 67.8. Khối lượng giao dịch tăng (1.47 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** với khối lượng tăng đáng kể. Áp lực bán chốt lời đã xuất hiện sau đợt tăng liên tiếp, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
+- **Ngày 2025-07-18:** Tiếp nối phiên **Test for Supply**, hôm nay REE tăng từ 68.0 lên 68.5. Cây nến tăng có biên độ hẹp với mức cao nhất 68.8. Khối lượng giao dịch giảm (991.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** sau giai đoạn test supply. Lực cầu đã quay trở lại và hấp thụ được áp lực bán, thể hiện qua việc giá phục hồi và khối lượng giảm. Tín hiệu tích cực, xác nhận xu hướng tăng vẫn được duy trì.
 
 

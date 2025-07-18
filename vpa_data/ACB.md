@@ -54,4 +54,7 @@
 - **Ngày 2025-07-17:** ACB tăng nhẹ từ 22.45 lên 22.55. Cây nến tăng có biên độ hẹp và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm nhẹ xuống 13.8 triệu cổ phiếu so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực, xác nhận rằng phiên **Test for Supply** đã thành công. Việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán đã được hấp thụ hoàn toàn và phe mua đang bắt đầu chiếm ưu thế trở lại. Tín hiệu này cho thấy ACB đã hoàn tất giai đoạn tích lũy và sẵn sàng cho một đợt tăng giá mạnh hơn trong các phiên tới.
 
+- **Ngày 2025-07-18:** ACB tăng mạnh từ 22.5 lên 22.65. Cây nến tăng có biên độ rộng (từ 22.4 đến 22.75) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 17.84 triệu cổ phiếu, cao hơn đáng kể so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận thành công cho tín hiệu **Effort to Rise** của phiên trước. Việc giá tăng mạnh với biên độ rộng, đóng cửa gần đỉnh trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng giai đoạn tích lũy đã kết thúc và xu hướng tăng mạnh đang được khởi động.
+
 

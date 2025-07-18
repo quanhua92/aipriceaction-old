@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau signal **Effort to Rise**. Việc giá tăng nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đang cạn kiệt. Đây là dấu hiệu tích cực, xác nhận tín hiệu **Effort to Rise** trước đó và tạo điều kiện cho xu hướng tăng tiếp diễn.
 - **Ngày 2025-07-17:** DCM giảm từ 34.3 xuống 34.05. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (5.54 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau phiên **Test for Supply** tích cực trước đó. Việc giá giảm nhẹ trên khối lượng tăng cho thấy áp lực bán đã quay trở lại nhưng không quá mạnh. Tín hiệu này cho thấy thị trường đang trong giai đoạn kiểm tra và cần thêm xác nhận để xác định hướng đi tiếp theo.
+- **Ngày 2025-07-18:** DCM giảm từ 34.05 xuống 33.8. Cây nến giảm có biên độ rộng với mức low 33.65. Khối lượng giao dịch giảm (3.84 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện. Sau hai phiên **Test for Supply** liên tiếp, việc giá giảm với khối lượng giảm cho thấy áp lực bán vẫn còn nhưng không quá mạnh. Tín hiệu này cho thấy xu hướng giảm ngắn hạn có thể tiếp diễn, nhưng lực bán đang có dấu hiệu cạn kiệt dần.
 
 

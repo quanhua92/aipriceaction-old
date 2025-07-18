@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Effort to Fall, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 57.3. Việc giá phục hồi nhẹ với khối lượng giảm cho thấy lực cầu bắt đầu xuất hiện nhưng vẫn chưa thực sự mạnh mẽ.
 - **Ngày 2025-07-17:** VHC tăng từ 57.6 lên 58.5 với đỉnh ngày đạt 58.9. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (1.4 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand, lực cầu đã quay trở lại mạnh mẽ hơn để thử nghiệm vùng kháng cự 58.9. Việc giá tăng mạnh với khối lượng cải thiện cho thấy khả năng đảo chiều xu hướng giảm điều chỉnh sau tín hiệu Effort to Fall trước đó.
+- **Ngày 2025-07-18:** VHC giảm từ 57.5 xuống 56.9 với đỉnh ngày đạt 57.9. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (2.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau tín hiệu Effort to Rise của phiên trước, việc giá giảm mạnh với khối lượng tăng gấp đôi cho thấy áp lực bán đã quay trở lại mạnh mẽ. Nỗ lực tăng giá của phiên trước đã thất bại, thị trường có thể tiếp tục xu hướng giảm điều chỉnh.
 
 

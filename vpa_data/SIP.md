@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand (Không có Cầu)**. Giá tiếp tục điều chỉnh nhẹ với khối lượng giảm cho thấy lực cầu chưa trở lại. Thị trường cần thời gian để tích lũy và xác định hướng đi tiếp theo.
 - **Ngày 2025-07-17:** Tiếp nối phiên **No Demand**, hôm nay SIP tăng từ 61.5 lên 61.8. Cây nến tăng có biên độ hẹp với mức cao nhất 62.9. Khối lượng giao dịch tăng (664.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** nhẹ. Lực cầu đã quay trở lại với khối lượng tăng, cho thấy sự quan tâm tăng cường từ phe mua. Tuy nhiên, mức độ cải thiện còn chậm và cần thêm thời gian để xác nhận sự phục hồi.
+- **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Rise** nhẹ, hôm nay SIP giảm từ 61.8 xuống 61.5. Cây nến giảm có biên độ rộng với mức cao nhất 63.1. Khối lượng giao dịch tăng vọt (1.21 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** với khối lượng tăng đáng kể. Áp lực bán chốt lời xuất hiện sau đợt test đỉnh, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường trong quá trình phục hồi.
 
 

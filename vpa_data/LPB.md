@@ -50,7 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** mạnh mẽ, sự tăng giá tiếp tục nhưng trên khối lượng giảm đáng kể cho thấy lực cầu đang suy yếu. Mặc dù giá vẫn tăng nhưng động lực có thể đang giảm dần, cần theo dõi thêm.
 - **Ngày 2025-07-17:** LPB giảm nhẹ từ 33.8 xuống 33.65. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (3.9 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **No Demand** trước đó, sự giảm giá với khối lượng gia tăng cho thấy áp lực bán đã xuất hiện. Đây là một nhịp kiểm tra tích cực, xem lực cầu có trở lại để hỗ trợ giá hay không.
-- **Ngày 2025-07-17:** LPB tăng từ 33.65 lên 33.9. Nến tăng có biên độ vừa phải, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm (3.2 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** trở lại. Sau phiên **Test for Supply** trước đó, sự tăng giá với khối lượng giảm cho thấy lực cầu đã vượt qua thành công bài kiểm tra và áp lực bán đã giảm bớt. Tín hiệu tích cực cho xu hướng tăng tiếp tục.
+- **Ngày 2025-07-18:** LPB tăng mạnh từ 33.65 lên 34.6. Nến tăng có biên độ rộng với giá cao nhất đạt 34.85. Khối lượng giao dịch tăng (4.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** trước đó, sự tăng giá mạnh với khối lượng gia tăng cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá chạm mức cao 34.85 trước khi đóng cửa ở 34.6 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh duy trì xu hướng tăng mạnh. Tín hiệu rất tích cực cho xu hướng tăng tiếp theo.
 
 

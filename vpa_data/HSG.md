@@ -107,7 +107,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Tiếp nối tín hiệu **No Supply** của ngày trước, sự tăng giá nhẹ trên khối lượng thấp cho thấy cả lực cầu và lực cung đều yếu. Thị trường thiếu động lực rõ ràng và có khả năng tiếp tục đi ngang.
 - **Ngày 2025-07-17:** HT1 giảm từ 13.15 xuống 13.05. Nến giảm có biên độ vừa phải với bóng dưới dài, cho thấy có lực đỡ ở vùng giá thấp. Khối lượng giao dịch tăng nhẹ (565.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau chuỗi tín hiệu **No Demand** và **No Supply**, sự giảm giá với khối lượng tăng nhẹ và có bóng dưới dài cho thấy lực cầu đang được kiểm tra. Việc có bóng dưới dài là dấu hiệu tích cực, báo hiệu có lực đỡ tại vùng giá này.
-- **Ngày 2025-07-17:** HT1 tăng nhẹ từ 13.05 lên 13.2. Nến tăng có biên độ hẹp, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng (720.0k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Test for Demand** tích cực của ngày trước, sự tăng giá trên khối lượng gia tăng cho thấy lực cầu đang phản ứng tích cực. Mặc dù mức tăng chưa mạnh mẽ, nhưng đây là dấu hiệu khả quan khi thị trường thoát khỏi trạng thái thiếu động lực và bắt đầu có xu hướng tăng nhẹ.
+- **Ngày 2025-07-18:** HSG giảm từ 18.0 xuống 17.95. Cây nến giảm có biên độ rộng với giá thấp nhất đạt 17.75. Khối lượng giao dịch giảm nhẹ (10.02 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Test for Supply** của ngày trước, sự giảm giá nhẹ trên khối lượng giảm cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù có biên độ rộng nhưng mức giảm thực tế rất nhẹ, thể hiện lực cầu vẫn đang hỗ trợ. Đây là dấu hiệu tích cực, báo hiệu khả năng kết thúc giai đoạn điều chỉnh và chuẩn bị cho nhịp tăng tiếp theo.
 
 

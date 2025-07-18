@@ -36,4 +36,7 @@
 - **Ngày 2025-07-17:** BIC tiếp tục tăng từ 39.15 lên 39.65. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức trung bình (82.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận và tiếp tục củng cố cho tín hiệu **Sign of Strength** của phiên trước. Việc giá tiếp tục tăng mạnh trên khối lượng ổn định cho thấy sức mạnh của phe mua là bền vững. Tín hiệu này cho thấy BIC đã hoàn tất giai đoạn điều chỉnh và xu hướng tăng đang được nối dài với tiềm năng kiểm tra các vùng kháng cự cao hơn.
 
+- **Ngày 2025-07-18:** BIC giảm từ 39.15 xuống 38.4. Cây nến giảm có biên độ rộng với mức cao 39.3 và mức thấp 38.4, cho thấy áp lực bán mạnh. Khối lượng giao dịch tăng lên 95.7k đơn vị, cao hơn so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng mạnh liên tiếp. Việc giá giảm mạnh từ mức cao và đóng cửa gần mức thấp nhất trên khối lượng tăng cho thấy áp lực bán đã xuất hiện mạnh mẽ ở vùng đỉnh. Tín hiệu này cảnh báo rằng xu hướng tăng cần thêm thời gian để consolidate và kiểm tra xem lực cầu có thể hấp thụ được áp lực bán này hay không.
+
 
