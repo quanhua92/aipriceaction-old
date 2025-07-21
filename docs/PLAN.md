@@ -718,14 +718,52 @@ docs/tutorials/
     └── weekly-vs-daily-analysis.md    # So sánh daily vs weekly data
 ```
 
+### 📚 Methods Reference Structure
+```
+docs/methods/
+├── MAP_OF_CONTENT.md                   # Bản đồ hướng dẫn viết lại tutorials
+├── README.md                           # Tổng quan methods folder
+├── phần-1-nền-tảng-vững-chắc-vpa...md # Tham khảo cho chapters 1.1-1.3
+├── phần-2-giải-phẫu-chi-tiết...md     # Tham khảo cho chapters 2.1-3.2
+├── phần-3-thực-chiến-vpa-wyckoff...md # Tham khảo cho case studies
+├── phần-4-xây-dựng-chiến-lược...md    # Tham khảo cho chapter 4.1
+├── phần-6-nghiên-cứu-tình-huống...md  # Tham khảo cho case studies
+└── [other method files]                # Các file tham khảo khác
+```
+
+## 🔄 Quy Trình Viết Lại Tutorial Bằng Tiếng Việt Chất Lượng Cao
+
+### Bước 1: Chuẩn Bị và Tham Khảo
+1. **Đọc MAP_OF_CONTENT.md**: Bắt đầu với `docs/methods/MAP_OF_CONTENT.md` để hiểu quy trình viết lại
+2. **Xác định File Tham Khảo**: Tìm file tương ứng trong `docs/methods/` cho tutorial cần viết lại
+3. **Sử dụng Gemini CLI**: `gemini -p "Đọc và phân tích file methods để trích xuất thuật ngữ và phong cách" < docs/methods/phần-1-nền-tảng-vững-chắc-vpa...md`
+
+### Bước 2: Viết Lại Với Chuẩn Mực Tiếng Việt
+1. **Thuật Ngữ Chuẩn**: 
+   - VPA → Phân tích Giá và Khối lượng
+   - Smart Money → Dòng tiền thông minh  
+   - Accumulation → Tích lũy (gom hàng)
+   - Distribution → Phân phối (xả hàng)
+2. **Phong Cách Giáo Dục**: Tone chuyên nghiệp, sử dụng ẩn dụ sinh động
+3. **Cấu Trúc Logic**: Từ lý thuyết → ví dụ thực tế → bài tập thực hành
+
+### Bước 3: Tích Hợp Dữ Liệu Thực Tế
+1. **Ticker và Ngày Cụ Thể**: Phải nêu rõ mã cổ phiếu và ngày tháng chính xác
+2. **Dữ liệu RAW**: Bao gồm OHLCV data từ CSV files
+3. **Cross-reference**: So sánh với phân tích chuyên gia trong `vpa_data/`
+
 ### 🗂️ Data Integration Map
-| Tutorial Chapter | Market Data Source | VPA Analysis Reference | 
-|------------------|-------------------|------------------------|
-| 1.1 VPA Basics | `market_data/VCB_*.csv` | `vpa_data/VCB.md` |
-| 1.2 Wyckoff Laws | `market_data/VNINDEX_*.csv` | `vpa_data/VNINDEX.md` |
-| 1.3 Composite Man | Multiple banking stocks | `vpa_data/{VCB,TCB,STB}.md` |
-| 2.1 Accumulation | `market_data/TCB_*.csv` | `vpa_data/TCB.md` |
-| 2.2 Distribution | `market_data_week/VNINDEX_*.csv` | `vpa_data_week/VNINDEX.md` |
+| Tutorial Chapter | Market Data Source | VPA Analysis Reference | Methods Reference |
+|------------------|-------------------|------------------------|--------------------|
+| 1.1 VPA Basics | `market_data/VCB_*.csv` | `vpa_data/VCB.md` | `phần-1-nền-tảng-vững-chắc-vpa...md` |
+| 1.2 Wyckoff Laws | `market_data/VNINDEX_*.csv` | `vpa_data/VNINDEX.md` | `phần-1-nền-tảng-vững-chắc-vpa...md` |
+| 1.3 Composite Man | Multiple banking stocks | `vpa_data/{VCB,TCB,STB}.md` | `phần-1-nền-tảng-vững-chắc-vpa...md` |
+| 2.1 Accumulation | `market_data/TCB_*.csv` | `vpa_data/TCB.md` | `phần-2-giải-phẫu-chi-tiết...md` |
+| 2.2 Distribution | `market_data_week/VNINDEX_*.csv` | `vpa_data_week/VNINDEX.md` | `phần-2-giải-phẫu-chi-tiết...md` |
+| 3.1 Bullish Signals | `market_data/VCB_*.csv` | `vpa_data/VCB.md` | `phần-2-giải-phẫu-chi-tiết...md` |
+| 3.2 Bearish Signals | `market_data/HPG_*.csv` | `vpa_data/HPG.md` | `phần-2-giải-phẫu-chi-tiết...md` |
+| 4.1 Trading Systems | Multiple stocks | Multiple `vpa_data/` files | `phần-4-xây-dựng-chiến-lược...md` |
+| Case Studies | Sector-specific data | Cross-reference multiple | `phần-3-thực-chiến...md` + `phần-6-nghiên-cứu...md` |
 
 ### 📊 Practical Exercise Framework
 Mỗi tutorial bao gồm:
