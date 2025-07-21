@@ -18,6 +18,7 @@ ls market_data_check_dividends/
   - Follow the dividend processing protocol in `tasks/dividends_plan.md`
   - Update all price references in affected VPA files using dividend ratios
   - Delete processed files from `market_data_check_dividends/` after completion
+  - **CRITICAL**: Must complete ALL dividend processing before continuing to Step 2
 - If directory is empty or doesn't exist: proceed to Step 2
 
 **Success Criteria**: All dividend adjustments completed, `market_data_check_dividends/` directory is empty
@@ -138,20 +139,7 @@ uv run merge_vpa.py
 - Preserves all existing historical analysis
 - Backs up market_data to market_data_processed
 
-### Step 6: Generate Final Report
-**Objective**: Create comprehensive market report with integrated VPA
-
-```bash
-uv run main.py
-```
-
-**Process**:
-- Integrates VPA analysis from `VPA.md` into market report
-- Generates candlestick charts for all tickers
-- Creates `REPORT.md` with comprehensive market analysis
-- Links VPA signals to technical chart patterns
-
-### Step 7: Summary Documentation
+### Step 6: Summary Documentation
 **Objective**: Document the analysis session for review
 
 Create `tasks/report_vpa.md` with:
@@ -195,7 +183,7 @@ Before completing the daily VPA analysis, verify:
 - [ ] Vietnamese text is grammatically correct and uses proper financial terminology
 - [ ] All price references match market_data CSV files exactly
 - [ ] VPA.md file is properly formatted with headers and separators
-- [ ] REPORT.md successfully generated with integrated VPA analysis
+- [ ] VPA analysis completed and merged successfully
 - [ ] Summary report documents all analysis activities
 
 ## Error Handling
