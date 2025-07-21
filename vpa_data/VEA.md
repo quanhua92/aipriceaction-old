@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi tín hiệu No Demand và Effort to Fall, phiên tăng giá với khối lượng cải thiện này cho thấy lực cầu bắt đầu xuất hiện để kiểm tra vùng hỗ trợ 38.2. Tuy nhiên, cần quan sát thêm để xác nhận khả năng đảo chiều xu hướng.
 - **Ngày 2025-07-18:** VEA giảm từ 38.3 xuống 38.0 với đỉnh ngày đạt 38.4. Nến giảm có biên độ vừa phải và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (1.38 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau phiên Test for Demand yếu kém, việc giá giảm với khối lượng tăng cho thấy áp lực bán đã quay trở lại. Lực cầu không đủ mạnh để duy trì momentum tăng trước đó, xác nhận xu hướng giảm vẫn đang tiếp diễn.
+- **Ngày 2025-07-21:** Sau tín hiệu Effort to Fall tiêu cực, VEA đi ngang từ 38.0 xuống 38.0 với đỉnh ngày đạt 38.3. Nến doji có biên độ hẹp. Khối lượng giao dịch giảm (863.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi tín hiệu tiêu cực, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 38.0. Việc giá đi ngang với khối lượng giảm cho thấy áp lực bán đã tạm ngừng nhưng lực cầu vẫn chưa đủ mạnh để đảo chiều xu hướng.
 
 

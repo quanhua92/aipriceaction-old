@@ -48,5 +48,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp tục. Áp lực bán đã quay trở lại với khối lượng tăng, xác nhận rằng lực cầu vẫn chưa đủ mạnh. Xu hướng yếu kém vẫn tiếp tục, khả năng giá sẽ tiếp tục điều chỉnh.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay SGT giảm từ 17.35 xuống 17.05. Cây nến giảm có biên độ rộng với mức thấp nhất 16.8. Khối lượng giao dịch tăng (96.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ tiếp tục. Áp lực bán đã tăng cường và dễ dàng đẩy giá xuống mức thấp mới, xác nhận sự yếu kém của lực cầu. Xu hướng giảm mạnh vẫn tiếp tục, cần tìm kiếm dấu hiệu đáy.
+- **Ngày 2025-07-21:** SGT tăng nhẹ từ 17.15 lên 17.15. Cây nến tăng có biên độ hẹp với mức cao nhất 17.45. Khối lượng giao dịch giảm mạnh (29.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **Effort to Fall** mạnh mẽ, phiên hồi phục nhẹ với khối lượng giảm mạnh này là **Test for Demand** yếu. Việc khối lượng cực thấp cho thấy lực cầu vẫn chưa quay trở lại đáng kể. Tuy có dấu hiệu ổn định nhưng vẫn cần thêm bằng chứng về sự hồi phục.
 
 

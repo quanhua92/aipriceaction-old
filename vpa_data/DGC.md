@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** thành công, lực cầu đã quay trở lại với khối lượng gia tăng đáng kể. Tín hiệu này xác nhận xu hướng tăng mạnh và tiềm năng tiếp tục đà tăng giá tích cực.
 - **Ngày 2025-07-18:** DGC giảm từ 103.1 xuống 102.6. Cây nến giảm có biên độ vừa phải với mức low 102.3. Khối lượng giao dịch giảm (2.08 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Effort to Rise** mạnh mẽ. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời không đáng kể. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp và lực bán tỏ ra yếu ớt, hỗ trợ cho xu hướng tăng tiếp diễn.
+- **Ngày 2025-07-21:** DGC giảm từ 102.6 xuống 102.1. Cây nến giảm có biên độ hẹp với mức high 103.5. Khối lượng giao dịch giảm nhẹ (1.78 triệu đơn vị) so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** tiếp tục diễn ra. Sau phiên **Test for Supply** tích cực trước đó, việc giá tiếp tục giảm nhẹ với khối lượng giảm tiếp cho thấy áp lực bán chốt lời vẫn yếu và đang cạn kiệt dần. Đây là dấu hiệu tích cực, xác nhận rằng thị trường đang tiếp tục hấp thụ lực bán một cách hiệu quả và xu hướng tăng có thể sớm trở lại.
 
 

@@ -34,5 +34,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** với khối lượng tăng đáng kể. Áp lực bán chốt lời đã xuất hiện sau đợt tăng liên tiếp, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
 - **Ngày 2025-07-18:** Tiếp nối phiên **Test for Supply**, hôm nay REE tăng từ 68.0 lên 68.5. Cây nến tăng có biên độ hẹp với mức cao nhất 68.8. Khối lượng giao dịch giảm (991.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** sau giai đoạn test supply. Lực cầu đã quay trở lại và hấp thụ được áp lực bán, thể hiện qua việc giá phục hồi và khối lượng giảm. Tín hiệu tích cực, xác nhận xu hướng tăng vẫn được duy trì.
+- **Ngày 2025-07-21:** REE giảm nhẹ từ 68.7 xuống 68.6. Cây nến giảm có biên độ rộng với mức cao nhất 71.2. Khối lượng giao dịch tăng vọt (1.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên này có đặc điểm mạnh mẽ với việc test vùng 71.2 nhưng bị bán mạnh về 68.6. Khối lượng tăng gấp đôi cho thấy đây là **Test for Supply** với áp lực bán mạnh xuất hiện ở vùng giá cao. Cần theo dõi khả năng điều chỉnh sâu hơn.
 
 

@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** sau chuỗi test for supply. Việc giá phá vỡ vùng hỗ trợ 95.0 trên khối lượng tăng cho thấy áp lực bán đã mạnh hơn dự kiến. Đây là một tín hiệu cảnh báo cho thấy giai đoạn điều chỉnh có thể sâu hơn, lực cầu đang yếu đi và cần thời gian để tích lũy lại sức mạnh.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Fall**, VJC giảm từ 94.3 xuống 93.3. Cây nến giảm có biên độ rộng (3.2 điểm) với mức thấp nhất 93.0. Khối lượng giao dịch tăng mạnh (2.61 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)** rõ ràng. Việc giá tiếp tục giảm sâu hơn trên khối lượng tăng mạnh cho thấy áp lực bán đang rất lớn và phe bán đang kiểm soát hoàn toàn. Sự phá vỡ liên tiếp các vùng hỗ trợ (95.0 và 94.0) xác nhận xu hướng giảm đã hình thành và có khả năng tiếp tục trong ngắn hạn.
+- **Ngày 2025-07-21:** VJC tăng từ 93.3 lên 95.1. Cây nến tăng có biên độ tốt (1.8 điểm) với mức cao nhất 96.3 và mức thấp nhất 93.9. Khối lượng giao dịch giảm (1.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)**, phiên phục hồi trên khối lượng giảm này là một tín hiệu **Automatic Rally (AR)** điển hình. Việc giá phục hồi nhanh từ vùng thấp 93.0-93.9 lên 95.1 cho thấy có lực cầu hỗ trợ xuất hiện ở vùng đáy. Tuy nhiên, khối lượng thấp hơn đáng kể so với phiên bán tháo trước đó cho thấy lực mua vẫn chưa đủ mạnh. Đây là giai đoạn test và cần theo dõi các phiên tiếp theo để xác định liệu đây có phải là đáy ngắn hạn.
 
 

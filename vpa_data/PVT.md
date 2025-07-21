@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** nhẹ. Lực cầu đã quay trở lại với khối lượng tăng, cho thấy sự quan tâm trở lại từ phe mua. Tuy nhiên, mức độ cải thiện còn chậm, cần theo dõi thêm.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Rise** nhẹ, hôm nay PVT tăng mạnh từ 18.1 lên 18.3. Cây nến tăng có biên độ rộng với mức cao nhất 18.45. Khối lượng giao dịch tăng vọt (4.17 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng tăng gần gấp đôi. Tín hiệu này xác nhận sự kết thúc giai đoạn tích lũy và khởi đầu cho xu hướng tăng mạnh mẽ. Tín hiệu tích cực.
+- **Ngày 2025-07-21:** PVT giảm từ 18.4 xuống 18.05. Cây nến giảm có biên độ rộng với mức cao nhất 18.55. Khối lượng giao dịch giảm (3.15 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên điều chỉnh này với khối lượng giảm là tín hiệu **Test for Supply** tích cực. Việc giá chỉ giảm về mức thấp nhất trong ngày trên khối lượng giảm cho thấy áp lực bán không quá mạnh. Đây là nhịp điều chỉnh lành mạnh sau đợt tăng.
 
 

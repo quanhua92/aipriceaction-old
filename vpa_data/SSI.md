@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp tục. Giá tiếp tục tăng đến mức cao mới với khối lượng tăng, xác nhận lực cầu vẫn rất mạnh. Xu hướng tăng vẫn được duy trì mạnh mẽ và có thể tiếp tục đốt phá.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Rise** tiếp tục, hôm nay SSI giảm nhẹ từ 31.9 xuống 31.8. Cây nến giảm có biên độ hẹp với mức cao nhất 32.3. Khối lượng giao dịch giảm (38.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau chuỗi tăng mạnh. Áp lực bán chốt lời xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là nhịp điều chỉnh bình thường trong xu hướng tăng mạnh, tín hiệu vẫn tích cực.
+- **Ngày 2025-07-21:** SSI giảm mạnh từ 32.05 xuống 31.35. Cây nến giảm có biên độ rộng với mức thấp nhất 30.8. Khối lượng giao dịch tăng vọt (55.03 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** của phiên trước, phiên giảm giá mạnh với khối lượng tăng vọt này là tín hiệu **Effort to Fall**. Áp lực bán đã quay trở lại mạnh mẽ với sự tham gia của khối lượng lớn, cho thấy xu hướng tăng mạnh trước đó có thể đã kết thúc. Cần theo dõi khả năng điều chỉnh sâu hơn.
 
 

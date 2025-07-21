@@ -10,7 +10,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** No Supply. Việc giá giữ vững trên nền khối lượng thấp cho thấy áp lực chốt lời không lớn và thị trường đang hấp thụ tốt, sẵn sàng cho một đợt tăng tiếp theo.
 - **Ngày 2025-07-07:** Sau phiên kiểm tra cung thành công của tuần trước, HVN có một tuần giảm giá với biên độ hẹp. Khối lượng giao dịch giảm.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand**. Việc giá không thể tăng sau tín hiệu No Supply trước đó cho thấy phe mua đang do dự. Tín hiệu No Supply.
-- **Ngày 2025-07-14:** HVN có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (37.5) tăng từ 37.2 tuần trước. Giá dao động từ 37.25 đến 38.0. Khối lượng giao dịch giảm nhẹ xuống 10.7 triệu so với 11.8 triệu tuần trước.
+- **Ngày 2025-07-14:** HVN có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (29.55) tăng từ 29.32 tuần trước. Giá dao động từ 29.40 đến 29.95. Khối lượng giao dịch giảm nhẹ xuống 10.7 triệu so với 11.8 triệu tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Việc giá tăng nhẹ với khối lượng thấp sau tín hiệu No Demand của tuần trước cho thấy áp lực bán đã giảm, là tín hiệu No Supply tích cực cho khả năng phục hồi.
 
 

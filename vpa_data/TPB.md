@@ -50,4 +50,6 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 15.35. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc vượt qua kháng cự 15.5 trong các phiên tới.
 - **Ngày 2025-07-18:** TPB tăng từ 14.95 lên 15.1 với đỉnh ngày đạt 15.35. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (26.78 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận lực cầu đã củng cố mạnh mẽ. Việc giá duy trì ở mức cao với khối lượng tăng đáng kể cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá vượt qua kháng cự 15.35.
+- **Ngày 2025-07-21:** Sau tín hiệu SOS mạnh mẽ, TPB đi ngang từ 15.25 xuống 15.1 với đỉnh ngày đạt 15.3. Nến có biên độ hẹp với đuôi dài phía trên. Khối lượng giao dịch giảm (21.25 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt tăng SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 15.3. Việc giá duy trì ở mức cao mặc dù khối lượng giảm cho thấy áp lực bán không mạnh. Đây là tín hiệu tích cực, khẳng định xu hướng tăng vẫn còn nguyên vẹn và sẵn sàng cho đợt tăng tiếp theo.
 

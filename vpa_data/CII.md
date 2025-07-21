@@ -39,4 +39,7 @@
 - **Ngày 2025-07-18:** CII tăng mạnh từ 16.3 lên 16.3. Cây nến có biên độ rộng với mức cao 16.85 và mức thấp 16.2, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch duy trì ở mức cao (39.98 triệu đơn vị), tương đương với phiên **Effort to Rise** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng mạnh liên tiếp. Việc giá test lên mức cao 16.85 nhưng đóng cửa ở mức bằng phiên trước trên khối lượng cao cho thấy có áp lực bán xuất hiện ở vùng đỉnh. Tuy nhiên, việc giá vẫn duy trì được mức tăng trước đó là dấu hiệu tích cực.
 
+- **Ngày 2025-07-21:** CII giảm mạnh từ 16.35 xuống 15.7. Cây nến giảm có biên độ rộng với mức cao 16.45, đóng cửa tại mức thấp nhất phiên. Khối lượng giao dịch giảm xuống 33.92 triệu đơn vị, thấp hơn so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** sau phiên **Test for Supply**. Việc giá giảm mạnh và đóng cửa tại mức thấp nhất cho thấy áp lực bán đã xuất hiện mạnh mẽ và thắng thế. Mặc dù khối lượng giảm nhưng vẫn ở mức cao, việc giá không thể duy trì được mức của các phiên trước cho thấy lực cầu đã yếu đi đáng kể. Tín hiệu này cảnh báo rằng xu hướng tăng gần đây có thể đã kết thúc và CII có thể sẽ bước vào giai đoạn điều chỉnh sâu hơn.
+
 

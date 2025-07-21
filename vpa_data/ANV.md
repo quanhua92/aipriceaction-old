@@ -57,4 +57,7 @@
 - **Ngày 2025-07-18:** ANV mở cửa cao (23.45) nhưng gặp áp lực bán và giảm xuống đóng cửa tại 22.95, thấp hơn mức đóng cửa phiên trước. Cây nến có biên độ rộng với mức cao 23.45 và mức thấp 22.75. Khối lượng giao dịch giảm mạnh xuống 3.08 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng mạnh liên tiếp. Việc giá mở cao nhưng bị từ chối và giảm xuống dưới mức đóng cửa phiên trước cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Khối lượng giảm mạnh cũng cho thấy lực cầu đã yếu đi. Tín hiệu này cảnh báo rằng xu hướng tăng có thể cần thêm thời gian để consolidate trước khi có thể tiếp tục.
 
+- **Ngày 2025-07-21:** ANV tăng mạnh từ 22.95 lên 23.3. Cây nến tăng có biên độ rộng với mức cao 23.85 và mức thấp 22.8, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 5.48 triệu đơn vị, gần gấp đôi so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)**, xác nhận rằng phiên **Test for Supply** trước đó đã thành công. Việc giá tăng mạnh, test lên mức cao mới tại 23.85 trên khối lượng gấp đôi cho thấy lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn consolidate ngắn. Tín hiệu này xác nhận rằng xu hướng tăng được tái khẳng định và ANV có tiềm năng tiếp tục hướng tới các vùng kháng cự cao hơn.
+
 

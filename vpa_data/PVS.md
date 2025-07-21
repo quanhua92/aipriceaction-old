@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng mạnh, xác nhận sự kết thúc giai đoạn **No Supply** và khởi đầu cho một đợt tăng giá mạnh mẽ. Tín hiệu cực kỳ tích cực.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay PVS bứt phá mạnh từ 33.4 lên 34.2. Cây nến tăng có biên độ rộng với mức cao nhất 34.5. Khối lượng giao dịch tăng vọt (10.07 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, xác nhận giai đoạn bứt phá đã bắt đầu. Lực cầu đã hoàn toàn chiếm ưu thế với khối lượng khổng lồ, cho thấy sự quan tâm mạnh mẽ từ các nhà đầu tư. Tín hiệu cực kỳ tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-21:** PVS giảm từ 34.2 xuống 33.4. Cây nến giảm có biên độ rộng với mức cao nhất 34.7. Khối lượng giao dịch sụt giảm thảm họa (500 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** cực kỳ mạnh mẽ của phiên trước, phiên điều chỉnh này với khối lượng cực thấp là tín hiệu **No Supply** tích cực. Việc giá giảm trên khối lượng gần như không tồn tại cho thấy áp lực bán hoàn toàn biến mất. Đây là nhịp điều chỉnh lành mạnh trước khi tiếp tục bứt phá.
 
 

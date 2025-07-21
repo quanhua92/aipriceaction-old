@@ -109,5 +109,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau chuỗi tín hiệu **No Demand** và **No Supply**, sự giảm giá với khối lượng tăng nhẹ và có bóng dưới dài cho thấy lực cầu đang được kiểm tra. Việc có bóng dưới dài là dấu hiệu tích cực, báo hiệu có lực đỡ tại vùng giá này.
 - **Ngày 2025-07-18:** HSG giảm từ 18.0 xuống 17.95. Cây nến giảm có biên độ rộng với giá thấp nhất đạt 17.75. Khối lượng giao dịch giảm nhẹ (10.02 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Test for Supply** của ngày trước, sự giảm giá nhẹ trên khối lượng giảm cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù có biên độ rộng nhưng mức giảm thực tế rất nhẹ, thể hiện lực cầu vẫn đang hỗ trợ. Đây là dấu hiệu tích cực, báo hiệu khả năng kết thúc giai đoạn điều chỉnh và chuẩn bị cho nhịp tăng tiếp theo.
+- **Ngày 2025-07-21:** HSG mở cửa cao hơn ở 18.15, đạt mức cao nhất 18.55, nhưng đóng cửa ở 18.0. Cây nến có biên độ rộng với thân nến nhỏ và bóng trên dài. Khối lượng giao dịch tăng (12.2 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **No Supply** tích cực của ngày trước, sự xuất hiện của áp lực bán ở vùng giá cao (18.55) với khối lượng gia tăng cho thấy có nguồn cung đang cản trở đà tăng. Việc đóng cửa thấp hơn giá cao nhất dù có mở cửa cao thể hiện cuộc đấu tranh giữa phe mua và phe bán, với áp lực bán tạm thời chiếm ưu thế tại vùng kháng cự.
 
 

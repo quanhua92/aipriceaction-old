@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau tín hiệu **Effort to Rise** của phiên trước, lực cầu đã xác nhận sự quay trở lại với khối lượng bùng nổ. Tín hiệu này xác nhận việc đảo chiều xu hướng giảm ngắn hạn và mở ra tiềm năng tăng giá tích cực.
 - **Ngày 2025-07-18:** CTD giảm từ 87.7 xuống 86.1. Cây nến giảm có biên độ rộng với mức low 86.1. Khối lượng giao dịch giảm mạnh (1.16 triệu đơn vị), giảm 53% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Sign of Strength** mạnh mẽ. Việc giá giảm trên khối lượng giảm mạnh cho thấy áp lực bán không lớn và chỉ là phiên chốt lời kỹ thuật. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra không đáng kể.
+- **Ngày 2025-07-21:** CTD giảm từ 86.1 xuống 84.5. Cây nến giảm có biên độ rộng với mức low 84.5 và high 86.8. Khối lượng giao dịch tăng (1.34 triệu đơn vị), tăng 15% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện. Sau phiên **Test for Supply** của phiên trước, áp lực bán đã tăng lên với khối lượng gia tăng kèm theo giá giảm mạnh. Điều này cho thấy lực bán đã quay trở lại và có thể phủ nhận xu hướng tăng sau tín hiệu **Sign of Strength** trước đó. Cần theo dõi để xác định liệu đây có phải là sự đảo chiều hay chỉ là điều chỉnh sâu hơn.
 
 

@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau trạng thái **No Demand/No Supply**, lực cầu đã quay trở lại quyết đoán với khối lượng tăng vọt và giá phục hồi tốt. Đây là chất xúc tác mạnh phá vỡ trạng thái giằng co trước đó, tín hiệu tích cực cho xu hướng ngắn hạn.
 - **Ngày 2025-07-18:** MSR tăng mạnh từ 19.5 lên 21.1. Cây nến tăng có biên độ rộng (spread 2.0) với mức cao nhất 21.5. Khối lượng giao dịch tăng mạnh (5.96 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, lực cầu đã bùng nổ với khối lượng tăng 55% và giá phá vỡ thành công vùng kháng cự. Việc giá tăng 8.2% trong phiên với khối lượng cao cho thấy momentum tăng rất mạnh, xác nhận xu hướng tăng đang được củng cố và có thể tiếp tục phát triển.
+- **Ngày 2025-07-21:** MSR tiếp tục tăng từ 21.1 lên 21.7. Cây nến tăng có biên độ rộng (spread 1.3) với mức cao nhất 22.3. Khối lượng giao dịch giảm nhẹ (4.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp nối **Sign of Strength (SOS)** mạnh mẽ của phiên trước. Việc giá tiếp tục tăng và test thành công vùng cao hơn (22.3) với khối lượng vẫn ở mức tốt cho thấy momentum tăng được duy trì. Mặc dù khối lượng giảm nhẹ so với phiên trước nhưng vẫn đủ mạnh để đẩy giá lên, xác nhận xu hướng tăng đang phát triển tích cực.
 
 

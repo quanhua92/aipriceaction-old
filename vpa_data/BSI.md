@@ -39,4 +39,7 @@
 - **Ngày 2025-07-18:** BSI tăng từ 45.2 lên 45.6. Cây nến tăng có biên độ rộng với mức cao 46.6 và mức thấp 45.05, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng mạnh lên 2.43 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận thành công cho tín hiệu **Effort to Rise** của phiên trước. Việc giá tăng mạnh và test lên 46.6 trên khối lượng tăng cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng giai đoạn tích lũy đã kết thúc và xu hướng tăng mới đang được khởi động.
 
+- **Ngày 2025-07-21:** BSI giảm mạnh từ 45.55 xuống 44.1. Cây nến giảm có biên độ rộng với mức cao 46.3 và đóng cửa tại mức thấp nhất phiên. Khối lượng giao dịch tăng lên 2.98 triệu đơn vị, cao hơn so với phiên **SOS** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** mạnh. Sau phiên **Sign of Strength** của hôm trước, việc giá giảm mạnh và đóng cửa tại mức thấp nhất trên khối lượng tăng cho thấy áp lực bán đã xuất hiện mạnh mẽ và thắng thế hoàn toàn. Tín hiệu này cảnh báo rằng xu hướng tăng mới có thể đã kết thúc và BSI có thể sẽ bước vào giai đoạn điều chỉnh sâu hơn.
+
 

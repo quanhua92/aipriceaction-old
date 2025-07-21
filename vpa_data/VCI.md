@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 43.2. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tuy nhiên cần quan sát thêm để xác nhận khả năng phủ nhận hoàn toàn tín hiệu phân phối trước đó.
 - **Ngày 2025-07-18:** VCI tăng từ 41.5 lên 41.7 với đỉnh ngày đạt 42.6. Nến tăng có biên độ rộng và đóng cửa ở mức thấp. Khối lượng giao dịch giảm (14.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Effort to Rise của phiên trước, việc giá không thể duy trì được momentum và đóng cửa yếu với khối lượng giảm cho thấy lực cầu đã suy yếu. Đây là tín hiệu tiêu cực, cho thấy nỗ lực tăng giá trước đó có thể đã thất bại và thị trường thiếu sự ủng hộ từ dòng tiền lớn.
+- **Ngày 2025-07-21:** Sau tín hiệu No Demand tiêu cực, VCI giảm mạnh từ 41.7 xuống 40.65 với đỉnh ngày đạt 41.75. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (20.14 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tín hiệu No Demand, phiên này xác nhận áp lực bán đã quay trở lại mạnh mẽ. Việc giá giảm mạnh với khối lượng tăng đáng kể cho thấy smart money đang tích cực bán ra, xác nhận giai đoạn phân phối đang diễn ra. Đây là tín hiệu xấu cho xu hướng ngắn hạn.
 
 

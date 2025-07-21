@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện. Sau hai phiên **Sign of Weakness** và **No Demand**, khối lượng bùng nổ kèm theo giá tăng mạnh cho thấy lực cầu đã trở lại. Đây là tín hiệu tích cực khi thị trường có thể đảo ngược xu hướng yếu kém trước đó.
 - **Ngày 2025-07-18:** CSC tăng nhẹ từ 22.3 lên 22.4. Cây nến tăng có biên độ hẹp với mức high 23.0 và low 22.2. Khối lượng giao dịch giảm về 101.5k đơn vị, giảm 33% so với phiên trước nhưng vẫn ở mức tương đối tốt.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau tín hiệu **Sign of Strength** của phiên trước, sự tăng giá yếu ớt với khối lượng giảm mạnh cho thấy thiếu lực cầu tiếp tục. Mặc dù giá vẫn tăng nhẹ, nhưng việc khối lượng không duy trì được mức cao cho thấy sự thiếu bền vững trong xu hướng tăng.
+- **Ngày 2025-07-21:** CSC tăng từ 22.4 lên 22.7. Cây nến tăng có biên độ rộng với mức high 23.4 và low 21.9, tạo thành cây nến có bóng dài cả trên và dưới. Khối lượng giao dịch giảm nhẹ về 95.8k đơn vị.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau tín hiệu **No Demand** của phiên trước, giá test lên mức cao 23.4 nhưng bị đẩy xuống và đóng cửa gần giữa phiên. Khối lượng giảm cho thấy áp lực bán không mạnh ở vùng cao, nhưng lực cầu cũng chưa đủ mạnh để duy trì giá. Đây là dấu hiệu thị trường đang test khả năng cung ứng ở vùng kháng cự.
 
 

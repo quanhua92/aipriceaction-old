@@ -61,4 +61,7 @@
 - **Ngày 2025-07-18:** ACV tăng mạnh từ 94.0 lên 95.3. Cây nến tăng có biên độ rộng với mức cao 95.6 và mức thấp 93.5, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 732.2k đơn vị, cao hơn đáng kể so với phiên **Effort to Fall** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hoàn toàn phủ nhận xu hướng điều chỉnh của các phiên trước. Việc giá tăng mạnh với biên độ rộng, đóng cửa gần đỉnh trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách quyết đoán. Tín hiệu này xác nhận rằng giai đoạn điều chỉnh đã kết thúc và xu hướng tăng được tái khẳng định mạnh mẽ.
 
+- **Ngày 2025-07-21:** ACV giảm mạnh từ 95.0 xuống 94.0. Cây nến có biên độ rộng với mức cao 96.6 và mức thấp 93.9, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng nhẹ lên 777.7k đơn vị, cao hơn so với phiên **SOS** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength**. Việc giá test lên mức cao mới tại 96.6 nhưng bị từ chối mạnh và giảm xuống dưới mức đóng cửa phiên trước trên khối lượng tăng cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tuy nhiên, việc giá vẫn duy trì trên vùng 94.0 là dấu hiệu tích cực. Cần quan sát các phiên tiếp theo để xác định liệu đây có phải là nhịp điều chỉnh lành mạnh hay bắt đầu của một xu hướng yếu đi.
+
 

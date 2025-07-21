@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **No Demand** trước đó, sự bật tăng với khối lượng giao dịch tăng vọt cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc giá chạm mức cao 14.5 trước khi đóng cửa ở 14.0 cho thấy có áp lực bán ở vùng giá cao, nhưng lực cầu vẫn đủ mạnh để duy trì mức giá tốt.
 - **Ngày 2025-07-18:** HUT tăng mạnh từ 14.0 lên 14.6. Nến tăng có biên độ rộng với giá cao nhất đạt 15.1. Khối lượng giao dịch tăng vọt (5.2 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Effort to Rise** trước đó, sự bật tăng mạnh với khối lượng tăng vọt cho thấy lực cầu đã quay trở lại rất mạnh mẽ. Việc giá chạm mức cao 15.1 trước khi đóng cửa ở 14.6 cho thấy có áp lực chốt lời ở vùng giá cao, nhưng lực cầu vẫn đủ mạnh để duy trì mức tăng đáng kể. Tín hiệu rất tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-21:** HUT giảm từ 14.6 xuống 14.2. Nến giảm có biên độ hẹp với giá cao nhất đạt 14.8 và thấp nhất 14.1. Khối lượng giao dịch giảm đáng kể (2.33 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau hai phiên **Effort to Rise** mạnh mẽ liên tiếp, sự giảm giá nhẹ trên khối lượng giảm đáng kể cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Việc khối lượng giảm trong phiên điều chỉnh là dấu hiệu tích cực, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn sau giai đoạn tích lũy.
 
 

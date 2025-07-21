@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** trở lại. Sau phiên **No Demand** trước đó, sự tăng giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại. Việc giá chạm mức cao 16.0 trước khi đóng cửa ở 15.5 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh để duy trì xu hướng tăng.
 - **Ngày 2025-07-18:** IPA giảm từ 15.5 xuống 15.4. Nến giảm có biên độ vừa phải với giá cao nhất đạt 16.0. Khối lượng giao dịch giảm (412.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Effort to Rise** mạnh mẽ trước đó, sự giảm giá nhẹ trên khối lượng giảm đáng kể cho thấy áp lực bán đã suy yếu. Việc giá chạm mức cao 16.0 trước khi đóng cửa thấp hơn một chút thể hiện có áp lực chốt lời nhẹ, nhưng khối lượng giảm mạnh báo hiệu lực bán không mạnh. Tín hiệu tích cực cho việc duy trì xu hướng tăng.
+- **Ngày 2025-07-21:** IPA giảm từ 15.4 xuống 14.9. Nến giảm có biên độ rộng với giá thấp nhất đạt 14.8. Khối lượng giao dịch tăng (513.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Sau tín hiệu **No Supply** tích cực của ngày trước, sự giảm giá trên khối lượng gia tăng cho thấy áp lực bán đã quay trở lại và đang chiếm ưu thế. Việc giá giảm mạnh với biên độ rộng phủ nhận tín hiệu tích cực trước đó, cảnh báo khả năng xu hướng tăng có thể tạm dừng và bước vào giai đoạn điều chỉnh.
 
 

@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Tiếp nối tín hiệu Effort to Rise, phiên này xác nhận lực cầu đã hoàn toàn áp đảo, đẩy giá bứt phá lên vùng 49.2 với sự ủng hộ của khối lượng lớn. Đây là tín hiệu rất mạnh cho thấy tiềm năng tiếp tục xu hướng tăng trong các phiên tới.
 - **Ngày 2025-07-18:** VGC giảm từ 48.0 xuống 47.2 với đỉnh ngày đạt 48.2. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (1.17 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp chốt lời bình thường. Áp lực bán không mạnh, là tín hiệu tích cực cho thấy xu hướng tăng vẫn còn nguyên vẹn và sẽ tiếp tục sau khi giai đoạn tích lũy hoàn tất.
+- **Ngày 2025-07-21:** Sau tín hiệu Test for Supply, VGC giảm từ 47.95 xuống 46.15 với đỉnh ngày đạt 47.95. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất. Khối lượng giao dịch duy trì (1.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau hai phiên Test for Supply, phiên này cho thấy áp lực bán đã trở nên mạnh hơn. Việc giá giảm mạnh với khối lượng duy trì cao cho thấy sự phân phối của smart money tại vùng giá cao. Xu hướng tăng ngắn hạn gặp khó khăn, cần điều chỉnh sâu hơn.
 
 

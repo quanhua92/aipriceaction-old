@@ -4,8 +4,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "SOS",
-      "date": "2025-07-18"
+      "signal": "Test for Supply",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -20,8 +20,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-18"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -36,8 +36,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-18"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -52,8 +52,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "SOS",
-      "date": "2025-07-18"
+      "signal": "Test for Supply",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -69,12 +69,12 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-18"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -85,7 +85,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -100,8 +100,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "SOS",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -132,8 +132,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-16"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -148,8 +148,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-16"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -165,12 +165,12 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-16"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
       "signal": "No Demand",
-      "week_ending_date": "2025-07-07"
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -180,13 +180,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Signal",
-      "date": "N/A"
+      "signal": "Test for Supply",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
       "signal": "No Demand",
-      "week_ending_date": "2025-07-07"
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -197,7 +197,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-16"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -212,13 +212,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Weakness",
-      "date": "2025-07-10"
+      "signal": "No Demand",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "Upthrust",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -297,8 +297,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Supply",
-      "week_ending_date": "2025-07-07"
+      "signal": "No Demand",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -313,8 +313,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "Upthrust",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -361,8 +361,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "No Demand",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -377,8 +377,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Demand",
-      "week_ending_date": "2025-06-30"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -393,8 +393,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "Effort to Rise",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -410,7 +410,7 @@
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
       "signal": "No Supply",
-      "week_ending_date": "2025-06-02"
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -425,8 +425,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Supply",
-      "week_ending_date": "2025-06-23"
+      "signal": "Effort to Rise",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -441,8 +441,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Supply",
-      "week_ending_date": "2025-07-07"
+      "signal": "Test for Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -484,8 +484,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -500,8 +500,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "No Demand",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -516,8 +516,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-15"
+      "signal": "No Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -532,8 +532,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -548,8 +548,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -596,8 +596,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-16"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -629,7 +629,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-17"
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -644,8 +644,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "No Demand",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -660,8 +660,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "Sign of Strength",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -676,8 +676,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "Sign of Strength",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -692,8 +692,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1189,7 +1189,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-17"
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1204,13 +1204,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1220,8 +1220,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1236,13 +1236,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1252,8 +1252,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1268,13 +1268,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
       "signal": "No Supply",
-      "week_ending_date": "2025-07-07"
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1284,13 +1284,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "Test for Supply",
-      "week_ending_date": "2025-07-07"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1300,8 +1300,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1321,8 +1321,8 @@
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1338,7 +1338,7 @@
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
       "signal": "No Demand",
-      "week_ending_date": "2025-07-07"
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1348,8 +1348,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-15"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1364,8 +1364,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "No Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1380,13 +1380,13 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Signal",
-      "week_ending_date": "N/A"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1397,12 +1397,12 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "No Demand",
-      "date": "2025-07-17"
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
-      "signal": "No Demand",
-      "week_ending_date": "2025-07-07"
+      "signal": "No Supply",
+      "week_ending_date": "2025-07-14"
     },
     "industry_group": "Unknown",
     "industry_status": "Unknown"
@@ -1412,8 +1412,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1428,8 +1428,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-11"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1444,8 +1444,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-11"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1460,8 +1460,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-10"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1476,8 +1476,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-11"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1492,8 +1492,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Signal",
-      "date": "N/A"
+      "signal": "No Demand",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1508,8 +1508,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-14"
+      "signal": "Test for Supply",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1525,7 +1525,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-10"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1540,8 +1540,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-10"
+      "signal": "No Demand",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1557,7 +1557,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-10"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1588,8 +1588,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-09"
+      "signal": "Test for Supply",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1605,7 +1605,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-10"
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1620,8 +1620,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-10"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1652,8 +1652,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "Sign of Strength",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1668,8 +1668,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1684,8 +1684,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Strength",
-      "date": "2025-07-17"
+      "signal": "Effort to Rise",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1700,8 +1700,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Strength",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1732,8 +1732,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-10"
+      "signal": "SOS",
+      "date": "2025-07-21"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1748,8 +1748,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1765,7 +1765,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Test for Supply",
-      "date": "2025-07-17"
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1781,7 +1781,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1796,8 +1796,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Signal",
-      "date": "N/A"
+      "signal": "No Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1812,8 +1812,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-17"
+      "signal": "Sign of Strength",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -1828,8 +1828,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Supply",
-      "date": "2025-07-17"
+      "signal": "Test for Supply",
+      "date": "2025-07-18"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {

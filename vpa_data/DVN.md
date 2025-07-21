@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau giai đoạn **No Demand** kéo dài, lực cầu đã quay trở lại quyết đoán với khối lượng bùng nổ. Tín hiệu này phủ nhận trạng thái thiếu động lực trước đó và mở ra tiềm năng phục hồi giá.
 - **Ngày 2025-07-18:** DVN giảm từ 23.4 xuống 23.2. Cây nến giảm có biên độ vừa phải với mức low 22.9. Khối lượng giao dịch giảm (70.8k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Effort to Rise** mạnh mẽ. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán không lớn và chỉ là phiên chốt lời tự nhiên. Đây là dấu hiệu tích cực vì lực bán tỏ ra yếu ớt sau đợt tăng mạnh, hỗ trợ cho khả năng tiếp tục xu hướng phục hồi.
+- **Ngày 2025-07-21:** DVN giảm từ 23.2 xuống 22.9. Cây nến giảm có biên độ vừa phải với mức low 22.7. Khối lượng giao dịch tăng (118.4k đơn vị), tăng 64% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** tiếp diễn sau phiên trước. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán đã quay trở lại và đang kiểm tra mức hỗ trợ. Cần theo dõi để xác định liệu đây có phải là một phiên test cũng cấp thành công hay bắt đầu một cuộc điều chỉnh sâu hơn.
 
 

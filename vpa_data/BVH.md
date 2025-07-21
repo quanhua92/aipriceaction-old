@@ -67,6 +67,9 @@
 - **Ngày 2025-07-18:** BVH tiếp tục giảm từ 53.3 xuống 52.5. Cây nến giảm có biên độ rộng với mức cao 53.4 và mức thấp 52.4. Khối lượng giao dịch tăng tiếp lên 586.0k đơn vị, cao hơn so với phiên **Effort to Fall** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn trên khối lượng tăng. Việc giá tiếp tục giảm mạnh trên khối lượng tăng cho thấy áp lực bán vẫn mạnh và lực cầu chưa thể hấp thụ được. Tín hiệu này xác nhận rằng xu hướng điều chỉnh vẫn đang tiếp diễn và BVH có thể sẽ tiếp tục tìm kiếm mức hỗ trợ thấp hơn.
 
+- **Ngày 2025-07-21:** BVH tiếp tục giảm từ 52.5 xuống 51.9. Cây nến giảm có biên độ hẹp với mức thấp 51.7, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm xuống 413.6k đơn vị, thấp hơn so với phiên **Effort to Fall** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** quan trọng. Sau chuỗi giảm giá mạnh trên khối lượng cao, việc giá tiếp tục giảm nhưng trên khối lượng giảm đáng kể cho thấy áp lực bán đang yếu đi. Việc giá đóng cửa gần mức thấp nhất vẫn chưa thấy sự hỗ trợ mạnh của lực cầu. BVH có thể đang tiếp cận vùng hỗ trợ quan trọng và cần quan sát phản ứng của thị trường ở các mức thấp hơn.
+
 
 
 

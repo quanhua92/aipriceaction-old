@@ -50,4 +50,6 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)**, phiên giảm giá với khối lượng giảm này là một tín hiệu **Test for Supply**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là nhịp điều chỉnh bình thường sau đợt tăng mạnh, tín hiệu tích cực.
 - **Ngày 2025-07-18:** NT2 tăng nhẹ từ 19.8 lên 20.1. Cây nến tăng có biên độ hẹp (spread 0.5) với mức cao nhất 20.25. Khối lượng giao dịch tăng nhẹ (1.55 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** yếu. Việc giá tăng nhẹ với khối lượng tăng cho thấy lực cầu đã có dấu hiệu cải thiện sau các phiên kiểm tra cung thành công. Việc giá test được mức 20.25 cho thấy tiềm năng vượt lên cao hơn, tiếp nối tín hiệu SOS trước đó.
+- **Ngày 2025-07-21:** NT2 tăng mạnh từ 20.1 lên 20.6. Cây nến tăng có biên độ vừa phải (spread 0.55) với gap tăng từ 21.0. Khối lượng giao dịch tăng vọt (3.28 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** yếu của phiên trước, lực cầu đã bùng nổ với khối lượng tăng gấp đôi và gap tăng mạnh. Gap từ 21.0 cho thấy áp lực mua áp đảo ngay từ đầu phiên, xác nhận xu hướng tăng đang được củng cố mạnh mẽ.
 

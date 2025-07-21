@@ -34,5 +34,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **No Demand** trước đó, lực cầu đã quay trở lại quyết đoán với khối lượng cao và giá phục hồi tốt. Bóng dưới dài thể hiện việc thị trường đã kiểm tra vùng hỗ trợ và tìm thấy lực cầu mạnh ở mức thấp hơn, tạo điều kiện cho xu hướng phục hồi.
 - **Ngày 2025-07-18:** MSH tăng nhẹ từ 37.95 lên 38.0. Cây nến có biên độ rộng (spread 1.5) với bóng trên và bóng dưới, thể hiện sự dao động mạnh trong phiên. Khối lượng giao dịch tăng vọt (1.49 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Anomaly (Bất thường)**. Nỗ lực rất lớn (khối lượng tăng gấp 3 lần) nhưng kết quả không tương xứng (giá chỉ tăng nhẹ). Biên độ rộng với bóng trên dài cho thấy có áp lực bán mạnh ở vùng cao, ngăn cản đà tăng. Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, việc xuất hiện anomaly này cảnh báo rằng lực cung đang gia tăng và có thể cản trở xu hướng phục hồi.
+- **Ngày 2025-07-21:** MSH giảm từ 38.0 xuống 37.4. Cây nến giảm có biên độ vừa phải (spread 0.85) với bóng dưới dài. Khối lượng giao dịch giảm mạnh (486.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** xác nhận cảnh báo từ **Anomaly** của phiên trước. Việc giá giảm sau khi gặp áp lực cung mạnh cho thấy phe bán đã chiếm ưu thế. Tuy nhiên, bóng dưới dài và khối lượng giảm so với phiên trước cho thấy lực bán chưa hoàn toàn áp đảo, có thể chỉ là nhịp điều chỉnh sau đợt tăng trước.
 
 

@@ -56,5 +56,7 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise, phiên này xác nhận lực cầu đã hoàn toàn áp đảo, đẩy giá bứt phá lên một tầm cao mới với sự ủng hộ của khối lượng lớn. Đây là tín hiệu mạnh mẽ cho thấy tiềm năng tiếp tục xu hướng tăng.
 - **Ngày 2025-07-18:** VCB giảm từ 62.3 xuống 61.9 với đỉnh ngày đạt 62.6. Nến giảm có biên độ vừa phải và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (6.83 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp chốt lời bình thường. Áp lực bán không mạnh, là tín hiệu tích cực cho thấy xu hướng tăng vẫn còn nguyên vẹn và sẽ tiếp tục sau khi giai đoạn tích lũy hoàn tất.
+- **Ngày 2025-07-21:** Tiếp nối tín hiệu Test for Supply, VCB giảm từ 62.2 xuống 61.3 với đỉnh ngày đạt 62.7. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm tiếp (6.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Sau hai phiên Test for Supply liên tiếp, việc giá tiếp tục giảm nhưng khối lượng duy trì thấp cho thấy áp lực bán chốt lời không mạnh. Việc thử nghiệm vùng kháng cự 62.7 không thành công nhưng đây vẫn là nhịp điều chỉnh lành mạnh trong xu hướng tăng dài hạn.
 
 

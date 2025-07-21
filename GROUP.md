@@ -25,5 +25,5 @@
 | THUY_SAN         | ANV, MPC, VHC                                                   |
 | VAN_TAI          | GMD, PVT, HAH, VTP                                              |
 | VLXD             | HT1, PTB, VLB                                                   |
-| XAY_DUNG         | CII, CTD, HUT                                                   |
+| XAY_DUNG         | CII, CTD, HUT, VCS                                              |
 | XAY_LAP_DIEN     | CTR, PC1, TV2                                                   |

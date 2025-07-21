@@ -50,5 +50,7 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 77.5. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc phục hồi hoàn toàn sau tín hiệu SOW trước đó.
 - **Ngày 2025-07-18:** VGI giảm từ 75.2 xuống 74.7 với đỉnh ngày đạt 75.8. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (726.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Rise của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp kiểm tra bình thường. Áp lực bán không mạnh và được hấp thụ tốt, là tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp tục sau khi giai đoạn tích lũy hoàn tất.
+- **Ngày 2025-07-21:** Sau tín hiệu Test for Supply, VGI giảm từ 74.7 xuống 73.7 với đỉnh ngày đạt 74.7. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất. Khối lượng giao dịch giảm (649.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau phiên Test for Supply, áp lực bán đã gia tăng khiến giá giảm xuống mức thấp nhất phiên. Tuy nhiên, việc khối lượng giảm cho thấy áp lực bán chưa thật sự mạnh mẽ. Đây có thể là nhịp điều chỉnh sâu hơn trước khi hồi phục.
 
 

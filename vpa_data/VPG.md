@@ -34,5 +34,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Sau phiên test với áp lực bán, việc giá phục hồi nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã yếu đi đáng kể. Đây là một phiên kiểm tra cung thành công, cho thấy lực cầu vẫn kiểm soát được tình hình và tiềm năng kết thúc giai đoạn điều chỉnh.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **No Supply** tích cực, VPG giảm từ 8.11 xuống 8.07. Cây nến giảm có biên độ hẹp (0.14 điểm) với mức thấp nhất 8.04. Khối lượng giao dịch tăng mạnh (0.97 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** tiếp tục. Sau phiên No Supply, việc giá giảm nhẹ trên khối lượng tăng cho thấy có thêm áp lực bán test. Tuy nhiên, mức giảm vẫn còn hạn chế và việc đóng cửa cao hơn mức thấp nhất 8.04 cho thấy lực cầu vẫn có mặt. Đây vẫn là giai đoạn kiểm tra cung, cần theo dõi phản ứng tiếp theo để xác định hướng đi.
+- **Ngày 2025-07-21:** VPG giảm nhẹ từ 8.07 xuống 8.06. Cây nến giảm có biên độ hẹp (0.12 điểm) với mức cao nhất 8.17. Khối lượng giao dịch giảm mạnh (0.54 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** tiếp tục, phiên giảm nhẹ trên khối lượng thấp này là một tín hiệu **No Supply** tích cực. Việc giá chỉ giảm nhẹ và có test lên 8.17 trong phiên cho thấy lực cầu vẫn kiểm soát tốt. Khối lượng giảm mạnh cho thấy áp lực bán đã yếu đi đáng kể. Đây là kết quả tích cực của chuỗi test for supply trước đó, cho thấy giai đoạn kiểm tra cung đã hoàn thành và tiềm năng kết thúc điều chỉnh.
 
 

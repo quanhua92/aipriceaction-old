@@ -61,4 +61,7 @@
 - **Ngày 2025-07-18:** BSR tăng mạnh từ 18.7 lên 19.0. Cây nến tăng có biên độ rộng với mức cao 19.25 và mức thấp 18.5, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 9.33 triệu đơn vị, cao hơn đáng kể so với phiên **Effort to Rise** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận thành công cho tín hiệu **Effort to Rise** của phiên trước. Việc giá tăng mạnh và test lên 19.25 trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách áp đảo. Tín hiệu này xác nhận rằng xu hướng tăng mạnh đang được củng cố và BSR có tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn.
 
+- **Ngày 2025-07-21:** BSR giảm mạnh từ 19.15 xuống 18.6. Cây nến giảm có biên độ rộng với mức thấp 18.55, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm xuống 4.26 triệu đơn vị, thấp hơn đáng kể so với phiên **SOS** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength** mạnh mẽ. Việc giá giảm trên khối lượng giảm đáng kể cho thấy áp lực bán chốt lời tự nhiên sau đợt tăng mạnh, nhưng không có áp lực bán mạnh từ bên ngoài. Việc giá vẫn duy trì trên vùng 18.6 là dấu hiệu tích cực. Tín hiệu này cho thấy BSR có thể chỉ đang có nhịp điều chỉnh lành mạnh trước khi tiếp tục xu hướng tăng.
+
 

@@ -54,6 +54,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ, phiên giảm giá với khối lượng tăng này là một tín hiệu **Test for Supply**. Việc giá thử lên 88.5 nhưng bị đẩy lùi cho thấy có áp lực bán chốt lời ở vùng cao. Tín hiệu trung tính, cần quan sát thêm.
 - **Ngày 2025-07-18:** PNJ đi ngang, đóng cửa ở mức 86.2. Cây nến có biên độ hẹp (spread 1.3) với mức cao nhất 87.3. Khối lượng giao dịch giảm mạnh (470.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, phiên hôm nay thể hiện **Test for Supply** tiếp diễn. Việc giá giảm nhẹ với khối lượng giảm mạnh cho thấy áp lực bán đã giảm đáng kể. Việc giá test được mức 87.3 cho thấy lực cầu vẫn có mặt, tín hiệu tích cực cho thấy đà tăng vẫn được duy trì.
+- **Ngày 2025-07-21:** PNJ giảm từ 86.2 xuống 85.0. Cây nến giảm có biên độ hẹp (spread 1.5) với bóng dưới dài. Khối lượng giao dịch giảm (460.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **Test for Supply**, phiên hôm nay thể hiện **Test for Supply** không thành công. Việc giá giảm về vùng 85.0 với khối lượng vẫn ở mức tương đối cho thấy áp lực bán đã gia tăng. Tuy nhiên, bóng dưới dài thể hiện có lực đỡ ở vùng thấp, cho thấy chưa phải tín hiệu yếu hoàn toàn.
 - **Ngày 2025-07-17:** PNJ tăng nhẹ từ 86.3 lên 87.1. Cây nến tăng có biên độ hẹp (spread 0.8) với bóng trên ngắn. Khối lượng giao dịch giảm (685.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp diễn sau phiên **Test for Supply** trước đó. Việc giá tăng nhẹ với khối lượng giảm cho thấy áp lực bán đã giảm bớt và lực cầu vẫn kiểm soát. Tín hiệu tích cực cho xu hướng tăng.
 

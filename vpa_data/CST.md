@@ -32,5 +32,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục xuất hiện. Sau tín hiệu **No Supply** của phiên trước, việc giá tiếp tục tăng nhẹ với khối lượng giảm tiếp xác nhận lực bán đã cạn kiệt. Đây là dấu hiệu tích cực, cho thấy xu hướng tăng có thể tiếp diễn trong ngắn hạn.
 - **Ngày 2025-07-18:** CST giảm từ 16.1 xuống 15.9. Cây nến giảm có biên độ rộng với mức low 15.8. Khối lượng giao dịch tăng mạnh (54.8k đơn vị), tăng gấp 2.4 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau hai phiên **No Supply** liên tiếp, khối lượng tăng mạnh kèm theo giá giảm cho thấy áp lực bán đã quay trở lại. Đây là một phiên kiểm tra khả năng cung cấp của thị trường sau giai đoạn **Effort to Rise**. Cần theo dõi để xác định liệu lực bán có đủ mạnh để chấm dứt xu hướng tăng.
+- **Ngày 2025-07-21:** CST giảm từ 15.9 xuống 15.8. Cây nến giảm có biên độ rộng với mức low 15.6, tạo thành cây nến có bóng dưới dài. Khối lượng giao dịch bùng nổ (161k đơn vị), tăng gấp 2.8 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Weakness (SOW)** xuất hiện. Sau tín hiệu **Test for Supply** của phiên trước, áp lực bán tiếp tục gia tăng với khối lượng bùng nổ kèm theo giá giảm. Tuy nhiên, việc có bóng dưới dài cho thấy có sự hỗ trợ ở vùng thấp. Đây là dấu hiệu cảnh báo về sự yếu kém ngắn hạn sau giai đoạn **Effort to Rise**.
 
 

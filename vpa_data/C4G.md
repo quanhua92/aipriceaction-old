@@ -12,3 +12,6 @@
 - **Ngày 2025-07-18:** C4G giảm từ 9.0 xuống 8.9. Cây nến giảm có biên độ hẹp với mức cao 9.1 và mức thấp 8.6. Khối lượng giao dịch giảm mạnh xuống 2.44 triệu đơn vị, thấp hơn đáng kể so với phiên **Effort to Rise** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng mạnh liên tiếp. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán không đáng kể và có thể chỉ là điều chỉnh kỹ thuật tự nhiên. Tín hiệu này vẫn tương đối tích cực và C4G có thể sẽ tiếp tục xu hướng tăng sau khi hoàn tất giai đoạn consolidate ngắn.
 
+- **Ngày 2025-07-21:** C4G giảm nhẹ từ 8.9 xuống 8.8. Cây nến có biên độ rộng với mức cao 9.3 và mức thấp 8.7, cho thấy biến động trong phiên. Khối lượng giao dịch giảm xuống 2.15 triệu đơn vị so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** thành công. Việc giá có test lên mức cao mới tại 9.3 nhưng đóng cửa thấp hơn trên khối lượng giảm cho thấy áp lực bán chốt lợi nhẹ ở vùng đỉnh. Tuy nhiên, việc khối lượng giảm và giá vẫn duy trì trên vùng 8.8 là dấu hiệu tích cực. Tín hiệu này xác nhận rằng giai đoạn test đã hoàn tất và C4G có tiềm năng tiếp tục xu hướng tăng trong các phiên tới.
+

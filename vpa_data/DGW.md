@@ -34,5 +34,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau tín hiệu **No Supply** tích cực của phiên trước, lực cầu đã quay trở lại với khối lượng gia tăng đáng kể. Tín hiệu này xác nhận xu hướng tăng và tiềm năng tiếp tục đà tăng giá.
 - **Ngày 2025-07-18:** DGW tăng mạnh từ 44.5 lên 46.6. Cây nến tăng có biên độ rộng với mức high 47.0. Khối lượng giao dịch tăng vọt (6.75 triệu đơn vị), tăng gấp đôi so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, việc giá tăng mạnh với khối lượng bùng nổ cho thấy lực cầu đang cực kỳ mạnh mẽ. Tín hiệu này xác nhận xu hướng tăng mạnh và tiềm năng phá vỡ vùng kháng cự, mở ra cơ hội tăng giá đáng kể.
+- **Ngày 2025-07-21:** DGW giảm từ 46.6 xuống 46.0. Cây nến giảm có biên độ rộng với mức high 47.5 và low 45.5. Khối lượng giao dịch giảm mạnh (2.53 triệu đơn vị), giảm 63% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Sign of Strength** mạnh mẽ. Giá test lên mức cao 47.5 nhưng bị đẩy xuống, khối lượng giảm mạnh cho thấy áp lực bán chốt lời không lớn. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra yếu ớt.
 
 

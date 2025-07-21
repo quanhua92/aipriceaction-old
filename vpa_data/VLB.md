@@ -32,7 +32,9 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Test for Supply, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 43.5. Việc giá phục hồi với khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện, nhưng vẫn cần quan sát thêm để xác nhận.
 - **Ngày 2025-07-17:** VLB tăng từ 45.1 lên 45.8 với đỉnh ngày đạt 46.0. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (95.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand tích cực, lực cầu đã quay trở lại mạnh mẽ hơn để thử nghiệm vùng kháng cự 46.0. Việc giá tăng mạnh với khối lượng cải thiện tiếp tục cho thấy khả năng đảo chiều xu hướng giảm điều chỉnh.
-- **Ngày 2025-07-18:** VLB bùng nổ từ 45.2 lên 49.0 với đỉnh ngày đạt 49.1. Nến tăng có biên độ cực rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (497.8k đơn vị).
+- **Ngày 2025-07-18:** VLB bùng nổ từ 45.2 lên 49.0 với đỉnh ngày đạt 49.1. Nến tăng có biên độ cực rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọp (497.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bùng nổ mạnh mẽ của lực cầu. Khối lượng giao dịch tăng gấp 5 lần kèm theo việc giá bứt phá mạnh mẽ cho thấy smart money đang tích cực tích lũy, tạo nên momentum tăng giá cực mạnh sau giai đoạn điều chỉnh.
+- **Ngày 2025-07-21:** Sau tín hiệu SOS cực mạnh, VLB giảm từ 49.1 xuống 48.6 với đỉnh ngày đạt 49.5. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm mạnh (130.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bùng nổ SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng đỉnh 49.5. Việc giá giảm nhẹ với khối lượng giảm đáng kể (từ 497.8k xuống 130.7k) cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh.
 
 

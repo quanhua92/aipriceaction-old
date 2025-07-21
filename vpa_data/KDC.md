@@ -34,5 +34,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply** cùng lúc. Sau các phiên **Test for Supply** trước đó, việc giá đi ngang với khối lượng tăng nhẹ cho thấy thị trường đang trong giai đoạn cân bằng. Cả lực cầu và lực bán đều yếu, thị trường chờ đợi động lực mới.
 - **Ngày 2025-07-18:** KDC giảm từ 56.2 xuống 56.0. Nến giảm có biên độ vừa phải với giá cao nhất đạt 56.3. Khối lượng giao dịch tăng (542.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên cân bằng trước đó, sự giảm giá nhẹ trên khối lượng tăng cho thấy có áp lực bán nhẹ đang kiểm tra độ mạnh của lực cầu. Việc giá chạm mức cao 56.3 trước khi đóng cửa thấp hơn thể hiện có áp lực bán nhưng không mạnh. Tín hiệu trung tính, cần theo dõi thêm.
+- **Ngày 2025-07-21:** KDC giảm từ 56.0 xuống 54.8. Nến giảm có biên độ rộng với giá thấp nhất cũng là 54.8. Khối lượng giao dịch tăng (593.6k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Sau phiên **Test for Supply** trước đó, sự giảm giá mạnh trên khối lượng gia tăng cho thấy áp lực bán đã quay trở lại và đang chiếm ưu thế. Việc giá đóng cửa tại mức thấp nhất phiên (54.8) thể hiện lực bán mạnh và phủ nhận các tín hiệu tích cực trước đó, cảnh báo khả năng xu hướng giảm sẽ tiếp diễn.
 
 
