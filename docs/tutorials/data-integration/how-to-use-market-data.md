@@ -2,9 +2,9 @@
 
 ## Tổng quan Dataset
 
-Project này cung cấp **comprehensive dataset** cho Vietnam stock market analysis:
+Project này cung cấp **bộ dữ liệu toàn diện** cho phân tích thị trường chứng khoán Việt Nam:
 
-### 📁 Data Structure Overview
+### 📁 Tổng Quan Cấu Trúc Dữ Liệu
 ```
 ├── market_data/           # Daily data (2025-01-02 to 2025-07-21)
 │   ├── VNINDEX_*.csv     # VN-Index daily
@@ -31,7 +31,7 @@ VCB,2025-01-02,61.27,61.87,61.2,61.47,1631368
 VCB,2025-01-03,61.47,61.81,61.47,61.54,1403040
 ```
 
-**Columns explanation:**
+**Giải thích các cột:**
 - `ticker`: Stock symbol (VCB, TCB, VNINDEX, etc.)
 - `time`: Date in YYYY-MM-DD format
 - `open`: Opening price
@@ -42,7 +42,7 @@ VCB,2025-01-03,61.47,61.81,61.47,61.54,1403040
 
 ### VPA Analysis Format (.md files)
 
-**Structure example từ `vpa_data/VCB.md`:**
+**Ví dụ cấu trúc từ `vpa_data/VCB.md`:**
 ```markdown
 # VCB
 
@@ -55,7 +55,7 @@ VCB,2025-01-03,61.47,61.81,61.47,61.54,1403040
 
 ## Python Code Examples
 
-### 1. Basic Data Loading
+### 1. Tải Dữ Liệu Cơ Bản
 
 ```python
 import pandas as pd
@@ -64,7 +64,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 def load_stock_data(ticker, timeframe='daily'):
-    """Load stock data from CSV files"""
+    """Tải dữ liệu cổ phiếu từ file CSV"""
     folder = 'market_data' if timeframe == 'daily' else 'market_data_week'
     end_date = '2025-07-21' if timeframe == 'daily' else '2025-07-18'
     
@@ -74,52 +74,52 @@ def load_stock_data(ticker, timeframe='daily'):
     df.set_index('time', inplace=True)
     return df
 
-# Load VCB daily data
+# Tải dữ liệu VCB theo ngày
 vcb_daily = load_stock_data('VCB', 'daily')
 print(vcb_daily.head())
 
-# Load VNINDEX weekly data  
+# Tải dữ liệu VNINDEX theo tuần
 vnindex_weekly = load_stock_data('VNINDEX', 'weekly')
 print(vnindex_weekly.head())
 ```
 
-### 2. VPA Indicators Calculation
+### 2. Tính Toán Chỉ Báo VPA
 
 ```python
 def calculate_vpa_indicators(df):
-    """Calculate essential VPA indicators"""
+    """Tính toán các chỉ báo VPA cần thiết"""
     df = df.copy()
     
-    # Price indicators
+    # Chỉ báo giá
     df['price_change'] = df['close'].pct_change() * 100
     df['price_range'] = df['high'] - df['low']
     df['price_spread'] = (df['high'] - df['low']) / df['close'] * 100
     
-    # Volume indicators  
+    # Chỉ báo khối lượng  
     df['volume_ma'] = df['volume'].rolling(window=20).mean()
     df['volume_ratio'] = df['volume'] / df['volume_ma']
     df['volume_spike'] = df['volume_ratio'] > 1.5
     
-    # VPA signals
+    # Tín hiệu VPA
     df['ultra_high_volume'] = df['volume_ratio'] > 2.0
     df['low_volume'] = df['volume_ratio'] < 0.7
     
-    # Close position relative to range
+    # Vị trí đóng cửa tương đối với biên độ
     df['close_position'] = (df['close'] - df['low']) / (df['high'] - df['low'])
     
     return df
 
-# Apply VPA indicators
+# Áp dụng chỉ báo VPA
 vcb_vpa = calculate_vpa_indicators(vcb_daily)
-print("VPA indicators calculated:")
+print("Các chỉ báo VPA đã được tính:")
 print(vcb_vpa[['close', 'volume', 'volume_ratio', 'close_position']].tail())
 ```
 
-### 3. VPA Signal Detection
+### 3. Phát Hiện Tín Hiệu VPA
 
 ```python
 def detect_vpa_signals(df):
-    """Detect major VPA signals automatically"""
+    """Phát hiện tự động các tín hiệu VPA chính"""
     signals = []
     
     for i in range(1, len(df)):
@@ -127,7 +127,7 @@ def detect_vpa_signals(df):
         row = df.iloc[i]
         prev_row = df.iloc[i-1]
         
-        # Stopping Volume detection
+        # Phát hiện Stopping Volume
         if (row['volume_ratio'] > 2.0 and 
             row['close_position'] > 0.7 and 
             row['price_change'] > 0):
@@ -135,10 +135,10 @@ def detect_vpa_signals(df):
                 'date': date,
                 'signal': 'Stopping Volume',
                 'strength': 'Strong',
-                'description': f"Volume spike {row['volume_ratio']:.1f}x with bullish close"
+                'description': f"Tăng đột biến khối lượng {row['volume_ratio']:.1f}x với đóng cửa bullish"
             })
             
-        # No Supply detection  
+        # Phát hiện No Supply  
         elif (row['volume_ratio'] < 0.8 and 
               abs(row['price_change']) < 0.5 and
               row['close'] > prev_row['close']):
@@ -146,45 +146,45 @@ def detect_vpa_signals(df):
                 'date': date, 
                 'signal': 'No Supply',
                 'strength': 'Medium',
-                'description': f"Low volume ({row['volume_ratio']:.1f}x) test with no selling"
+                'description': f"Kiểm tra khối lượng thấp ({row['volume_ratio']:.1f}x) không có bán"
             })
             
-        # Effort vs Result anomaly
+        # Bất thường Effort vs Result
         elif (row['volume_ratio'] > 1.8 and 
               abs(row['price_change']) < 0.3):
             signals.append({
                 'date': date,
                 'signal': 'Effort vs Result Anomaly', 
                 'strength': 'Warning',
-                'description': f"High volume ({row['volume_ratio']:.1f}x) with minimal price movement"
+                'description': f"Khối lượng cao ({row['volume_ratio']:.1f}x) với biến động giá tối thiểu"
             })
     
     return pd.DataFrame(signals)
 
-# Detect signals in VCB data
+# Phát hiện tín hiệu trong dữ liệu VCB
 vcb_signals = detect_vpa_signals(vcb_vpa)
-print("Detected VPA signals:")
+print("Đã phát hiện các tín hiệu VPA:")
 print(vcb_signals)
 ```
 
-### 4. Multi-Stock Analysis
+### 4. Phân Tích Đa Cổ Phiếu
 
 ```python
 def analyze_multiple_stocks(tickers, date_range=None):
-    """Analyze multiple stocks for VPA patterns"""
+    """Phân tích nhiều cổ phiếu tìm mẫu hình VPA"""
     results = {}
     
     for ticker in tickers:
         try:
-            # Load data
+            # Tải dữ liệu
             df = load_stock_data(ticker, 'daily')
             if date_range:
                 df = df.loc[date_range[0]:date_range[1]]
             
-            # Calculate indicators
+            # Tính các chỉ báo
             df_vpa = calculate_vpa_indicators(df)
             
-            # Detect signals  
+            # Phát hiện tín hiệu  
             signals = detect_vpa_signals(df_vpa)
             
             results[ticker] = {
@@ -195,77 +195,77 @@ def analyze_multiple_stocks(tickers, date_range=None):
             }
             
         except Exception as e:
-            print(f"Error processing {ticker}: {e}")
+            print(f"Lỗi khi xử lý {ticker}: {e}")
             continue
     
     return results
 
-# Analyze banking sector
+# Phân tích ngành ngân hàng
 banking_stocks = ['VCB', 'TCB', 'STB', 'MBB', 'BID']
 banking_analysis = analyze_multiple_stocks(banking_stocks)
 
-# Print summary
+# In tóm tắt
 for ticker, data in banking_analysis.items():
-    print(f"{ticker}: {data['total_signals']} signals, {data['strong_signals']} strong")
+    print(f"{ticker}: {data['total_signals']} tín hiệu, {data['strong_signals']} mạnh")
 ```
 
-## Data Quality và Validation
+## Chất Lượng Dữ Liệu và Xác Thực
 
-### 1. Data Consistency Check
+### 1. Kiểm Tra Tính Nhất Quán Dữ Liệu
 
 ```python
 def validate_data_quality(df, ticker):
-    """Validate data quality and consistency"""
+    """Xác thực chất lượng và tính nhất quán dữ liệu"""
     issues = []
     
-    # Check for missing data
+    # Kiểm tra dữ liệu thiếu
     if df.isnull().sum().sum() > 0:
-        issues.append("Missing data points found")
+        issues.append("Tìm thấy các điểm dữ liệu thiếu")
         
-    # Check for impossible price relationships  
+    # Kiểm tra mối quan hệ giá không thể  
     invalid_prices = df[(df['high'] < df['low']) | 
                        (df['close'] > df['high']) | 
                        (df['close'] < df['low'])]
     if len(invalid_prices) > 0:
-        issues.append(f"Invalid price relationships: {len(invalid_prices)} days")
+        issues.append(f"Mối quan hệ giá không hợp lệ: {len(invalid_prices)} ngày")
         
-    # Check for zero/negative volumes
+    # Kiểm tra khối lượng zero/âm
     invalid_volumes = df[df['volume'] <= 0]
     if len(invalid_volumes) > 0:
-        issues.append(f"Invalid volumes: {len(invalid_volumes)} days")
+        issues.append(f"Khối lượng không hợp lệ: {len(invalid_volumes)} ngày")
     
-    # Check for extreme outliers (price gaps > 15%)
+    # Kiểm tra các ngoại lệ cực đoan (gap giá > 15%)
     price_changes = df['close'].pct_change().abs()
     extreme_moves = price_changes[price_changes > 0.15]
     if len(extreme_moves) > 0:
-        issues.append(f"Extreme price moves (>15%): {len(extreme_moves)} days")
+        issues.append(f"Biến động giá cực đoan (>15%): {len(extreme_moves)} ngày")
     
     if issues:
-        print(f"Data quality issues for {ticker}:")
+        print(f"Các vấn đề chất lượng dữ liệu cho {ticker}:")
         for issue in issues:
             print(f"  - {issue}")
     else:
-        print(f"{ticker}: Data quality OK ✅")
+        print(f"{ticker}: Chất lượng dữ liệu OK ✅")
     
     return issues
 
-# Validate all major stocks
+# Xác thực tất cả cổ phiếu chính
 major_stocks = ['VNINDEX', 'VCB', 'TCB', 'HPG', 'VIC', 'VHM']
 for ticker in major_stocks:
     try:
         data = load_stock_data(ticker)
         validate_data_quality(data, ticker)
     except Exception as e:
-        print(f"Error validating {ticker}: {e}")
+        print(f"Lỗi xác thực {ticker}: {e}")
 ```
 
-### 2. Cross-reference với VPA Analysis
+### 2. Tham Chiếu Chéo với Phân Tích VPA
 
 ```python
 def cross_reference_vpa_analysis(ticker, date, csv_data, vpa_file_path):
-    """Cross-reference CSV data với expert VPA analysis"""
+    """Tham chiếu chéo dữ liệu CSV với phân tích VPA chuyên gia"""
     
-    # Get CSV data for the date
+    # Lấy dữ liệu CSV cho ngày
     try:
         csv_row = csv_data.loc[date]
         csv_analysis = {
@@ -276,39 +276,39 @@ def cross_reference_vpa_analysis(ticker, date, csv_data, vpa_file_path):
     except:
         return None
         
-    # Read VPA analysis file (simplified - in practice would parse markdown)
-    # This is a simplified example - actual implementation would parse .md files
-    print(f"CSV Data for {ticker} on {date}:")
-    print(f"  Price change: {csv_analysis['price_change']:.2f}%")
-    print(f"  Volume ratio: {csv_analysis['volume_ratio']:.1f}x")
-    print(f"  Close position: {csv_analysis['close_position']:.2f}")
-    print(f"\nRefer to {vpa_file_path} for expert analysis")
+    # Đọc file phân tích VPA (đã được đơn giản hóa - trong thực tế sẽ parse file markdown)
+    # Đây là ví dụ được được đơn giản hóa - triển khai thực tế sẽ parse file .md
+    print(f"Dữ Liệu CSV cho {ticker} vào {date}:")
+    print(f"  Biến động giá: {csv_analysis['price_change']:.2f}%")
+    print(f"  Tỷ lệ khối lượng: {csv_analysis['volume_ratio']:.1f}x")
+    print(f"  Vị trí đóng cửa: {csv_analysis['close_position']:.2f}")
+    print(f"\nTham khảo {vpa_file_path} cho phân tích chuyên gia")
     
     return csv_analysis
 
-# Example usage
+# Ví dụ sử dụng
 vcb_data = calculate_vpa_indicators(load_stock_data('VCB'))
 cross_reference_vpa_analysis('VCB', '2025-06-13', vcb_data, 'vpa_data/VCB.md')
 ```
 
-## Visualization Templates
+## Mẫu Trực Quan Hóa
 
-### 1. VPA Chart with Volume
+### 1. Biểu Đồ VPA với Khối Lượng
 
 ```python
 def plot_vpa_chart(df, ticker, start_date=None, end_date=None):
-    """Create VPA chart với price và volume"""
+    """Tạo biểu đồ VPA với giá và khối lượng"""
     
     if start_date:
         df = df.loc[start_date:end_date]
     
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(15, 10), height_ratios=[3, 1])
     
-    # Price chart
+    # Biểu đồ giá
     ax1.plot(df.index, df['close'], linewidth=2, label='Close Price')
     ax1.fill_between(df.index, df['low'], df['high'], alpha=0.3, label='Day Range')
     
-    # Volume spikes
+    # Tăng đột biến khối lượng
     volume_spikes = df[df['volume_ratio'] > 1.5]
     ax1.scatter(volume_spikes.index, volume_spikes['close'], 
                color='red', s=50, label='Volume Spikes')
@@ -318,11 +318,11 @@ def plot_vpa_chart(df, ticker, start_date=None, end_date=None):
     ax1.legend()
     ax1.grid(True, alpha=0.3)
     
-    # Volume chart
+    # Biểu đồ khối lượng
     ax2.bar(df.index, df['volume'], alpha=0.7, label='Volume')
     ax2.axhline(y=df['volume'].mean(), color='orange', linestyle='--', label='Avg Volume')
     
-    # Highlight high volume days
+    # Đánh dấu những ngày khối lượng cao
     high_vol = df[df['volume_ratio'] > 1.5]
     ax2.bar(high_vol.index, high_vol['volume'], color='red', alpha=0.8)
     
@@ -333,44 +333,44 @@ def plot_vpa_chart(df, ticker, start_date=None, end_date=None):
     plt.tight_layout()
     plt.show()
 
-# Plot VCB VPA chart
+# Vẽ biểu đồ VPA của VCB
 vcb_vpa = calculate_vpa_indicators(load_stock_data('VCB'))
 plot_vpa_chart(vcb_vpa, 'VCB', '2025-06-01', '2025-07-01')
 ```
 
-## Best Practices
+## Thực Hành Tốt Nhất
 
-### 1. Data Loading Best Practices
-- Always validate data quality before analysis
-- Use consistent date formats across all operations
-- Handle missing data appropriately
-- Cache loaded data for performance
+### 1. Thực Hành Tốt Nhất Khi Tải Dữ Liệu
+- Luôn xác thực chất lượng dữ liệu trước khi phân tích
+- Sử dụng định dạng ngày nhất quán cho tất cả thao tác
+- Xử lý dữ liệu thiếu một cách thích hợp
+- Cache dữ liệu đã tải để tối ưu hiệu suất
 
-### 2. VPA Analysis Best Practices  
-- Combine multiple timeframes (daily + weekly)
-- Cross-reference automated signals với expert analysis
-- Consider market context (VNINDEX behavior)
-- Validate signals với subsequent price action
+### 2. Thực Hành Tốt Nhất Phân Tích VPA  
+- Kết hợp nhiều khung thời gian (ngày + tuần)
+- Tham chiếu chéo tín hiệu tự động với phân tích chuyên gia
+- Xem xét bối cảnh thị trường (hành vi VNINDEX)
+- Xác thực tín hiệu với hành động giá tiếp theo
 
-### 3. Performance Optimization
-- Use vectorized operations with pandas
-- Limit date ranges for large calculations
-- Cache frequently used indicators
-- Process multiple stocks in parallel
+### 3. Tối Ưuu Hiệu Suất
+- Sử dụng các thao tác vector hóa với pandas
+- Giới hạn phạm vi ngày cho các phép tính lớn
+- Cache các chỉ báo thường sử dụng
+- Xử lý nhiều cổ phiếu song song
 
-### 4. Integration với Expert Analysis
-- Always compare automated signals với `vpa_data/*.md` files
-- Use expert analysis to validate edge cases
-- Learn from expert interpretation của unusual patterns
-- Combine quantitative signals với qualitative insights
+### 4. Tích Hợp với Phân Tích Chuyên Gia
+- Luôn so sánh tín hiệu tự động với file `vpa_data/*.md`
+- Sử dụng phân tích chuyên gia để xác thực các trường hợp đặc biệt
+- Học hỏi từ việc giải thích của chuyên gia về các mẫu hình bất thường
+- Kết hợp tín hiệu định lượng với các góc nhìn định tính
 
-## Next Steps
+## Các Bước Tiếp Theo
 
-1. **Explore Tutorials:** Start với [Chapter 1.1 VPA Basics](../chapter-1-1-vpa-basics.md)
-2. **Practice Exercises:** Try [Exercise Notebooks](../exercises/)
-3. **Case Studies:** Read detailed [Case Studies](../case-studies/)
-4. **Advanced Analysis:** Learn [Weekly vs Daily Analysis](weekly-vs-daily-analysis.md)
+1. **Khám Phá Hướng Dẫn:** Bắt đầu với [Chương 1.1 Cơ Bản VPA](../chapter-1-1-vpa-basics.md)
+2. **Thực Hành Bài Tập:** Thử [Exercise Notebooks](../exercises/)
+3. **Nghiên Cứu Tình Huống:** Đọc chi tiết [Case Studies](../case-studies/)
+4. **Phân Tích Nâng Cao:** Học [Phân Tích Tuần vs Ngày](weekly-vs-daily-analysis.md)
 
 ---
 
-*💡 **Pro Tip:** Luôn combine multiple data sources và timeframes để có complete picture của market behavior. CSV data cho quantitative analysis, VPA files cho qualitative insights.*
+*💡 **Mẹo Chuyên Nghiệp:** Luôn kết hợp nhiều nguồn dữ liệu và khung thời gian để có bức tranh hoàn chỉnh về hành vi thị trường. Dữ liệu CSV cho phân tích định lượng, file VPA cho các góc nhìn định tính.*

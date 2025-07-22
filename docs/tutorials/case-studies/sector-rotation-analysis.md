@@ -179,157 +179,157 @@ Phân tích: "Đà tăng chững lại, lực cầu không còn quyết liệt"
 - Dòng tiền thông minh thoát vị thế
 - Nhà đầu tư cá nhân vẫn mua trên hy vọng
 
-### 3.2 Steel Sector Context
+### 3.2 Bối Cảnh Ngành Thép
 
-**Fundamental Headwinds:**
-- Global steel demand softening
-- Input cost pressures
-- Environmental regulations tightening
-- Export market challenges
+**Những Trở Ngại Cơ Bản:**
+- Nhu cầu thép toàn cầu suy yếu
+- Áp lực chi phí đầu vào
+- Quy định môi trường thắt chặt
+- Thách thức thị trường xuất khẩu
 
-**Other Steel Stocks:**
-- **HSG:** Similar distribution patterns
-- **NKG:** Weaker but following HPG lead
-- **SMC:** Earlier stage distribution
+**Cổ Phiếu Thép Khác:**
+- **HSG:** Pattern phân phối tương tự
+- **NKG:** Yếu hơn nhưng theo dấu HPG
+- **SMC:** Giai đoạn phân phối sớm
 
-**Sector Assessment:**
+**Đánh Giá Ngành:**
 ```python
 steel_stocks = ['HPG', 'HSG', 'NKG']
 steel_health = analyze_sector_vpa_health(steel_stocks)
-# Result: "DISTRIBUTION - Smart Money Selling"
+# Kết quả: "PHÂN PHỐI - Smart Money Đang Bán"
 
-# Individual breakdown:
-# HPG: -3 (clear distribution pattern)
-# HSG: -2 (following HPG weakness)
-# NKG: -1 (weaker signals but negative)
-# Sector Average: -2.0 (Distribution Phase)
+# Phân tích từng cổ phiếu:
+# HPG: -3 (pattern phân phối rõ ràng)
+# HSG: -2 (theo sự yếu kém của HPG)
+# NKG: -1 (tín hiệu yếu hơn nhưng tiêu cực)
+# Trung bình ngành: -2.0 (Giai Đoạn Phân Phối)
 ```
 
-## 4. Real Estate Sector - Mixed Signals
+## 4. Ngành Bất Động Sản - Tín Hiệu Trộn Lẫn
 
-### 4.1 VIC Accumulation Pattern
+### 4.1 Pattern Tích Lũy VIC
 
-**From `vpa_data/VIC.md` Analysis:**
+**Từ Phân Tích `vpa_data/VIC.md`:**
 
-**June 10, 2025 - Selling Climax/Shakeout:**
+**10 Tháng 6, 2025 - Selling Climax/Shakeout:**
 ```
 VIC mở giảm sâu xuống 86.0 nhưng phục hồi mạnh đóng cửa ở 90.6
-Volume: 6.8 triệu (rất lớn)
+Khối lượng: 6.8 triệu (rất lớn)
 Phân tích: "Selling Climax hoặc Shakeout điển hình"
 ```
 
-**June 11, 2025 - No Supply:**
+**11 Tháng 6, 2025 - No Supply:**
 ```
-VIC giao dịch biên độ rất hẹp với volume cực thấp (1.4M)
+VIC giao dịch biên độ rất hẹp với khối lượng cực thấp (1.4M)
 Phân tích: "No Supply. Áp lực bán đã cạn kiệt"
 ```
 
-**VIC Accumulation Sequence:**
-1. **Selling Climax:** Smart money absorbs panic (Jun 10)
-2. **No Supply Test:** Confirms sellers exhausted (Jun 11)  
-3. **Early Markup:** Beginning recovery phase (Jun 17)
+**Chuỗi Tích Lũy VIC:**
+1. **Selling Climax:** Smart money hấp thụ hoảng loạn (10/6)
+2. **Test No Supply:** Xác nhận người bán cạn kiệt (11/6)  
+3. **Markup Sớm:** Bắt đầu giai đoạn phục hồi (17/6)
 
-### 4.2 Sector Divergence
+### 4.2 Sự Phân Kỳ Ngành
 
-**Real Estate Stock Performance:**
-- **VIC:** Clear accumulation pattern (leading)
-- **VHM:** Mixed signals, some distribution
-- **VRE:** Neutral, trading range action
-- **NVL:** Weak patterns, potential distribution
-- **KDH:** Early accumulation signs
+**Hiệu Suất Cổ Phiếu Bất Động Sản:**
+- **VIC:** Pattern tích lũy rõ ràng (dẫn đầu)
+- **VHM:** Tín hiệu trộn lẫn, một số phân phối
+- **VRE:** Trung tính, hành động vùng giao dịch
+- **NVL:** Pattern yếu, tiềm năng phân phối
+- **KDH:** Dấu hiệu tích lũy sớm
 
-**Sector Assessment:**
+**Đánh Giá Ngành:**
 ```python
 real_estate_stocks = ['VIC', 'VHM', 'VRE', 'NVL', 'KDH']
 real_estate_health = analyze_sector_vpa_health(real_estate_stocks)
-# Result: "NEUTRAL - Mixed Signals"
+# Kết quả: "TRUNG TÍNH - Tín Hiệu Trộn Lẫn"
 
-# Individual breakdown:
-# VIC: +2 (accumulation pattern)
-# VHM: -1 (mixed/weak)
-# VRE: 0 (neutral)
-# NVL: -2 (distribution signs)
-# KDH: +1 (early accumulation)
-# Sector Average: 0 (Neutral/Mixed)
+# Phân tích từng cổ phiếu:
+# VIC: +2 (pattern tích lũy)
+# VHM: -1 (trộn lẫn/yếu)
+# VRE: 0 (trung tính)
+# NVL: -2 (dấu hiệu phân phối)
+# KDH: +1 (tích lũy sớm)
+# Trung bình ngành: 0 (Trung tính/Trộn lẫn)
 ```
 
-**Interpretation:**
-- Quality real estate (VIC) being accumulated
-- Lower quality names being distributed
-- Flight to quality within sector
-- Selective accumulation vs broad distribution
+**Diễn Giải:**
+- Bất động sản chất lượng (VIC) đang được tích lũy
+- Các tên chất lượng thấp hơn đang bị phân phối
+- Chạy tới chất lượng trong ngành
+- Tích lũy có chọn lọc so với phân phối rộng
 
-## 5. Cross-Sector Flow Analysis
+## 5. Phân Tích Dòng Chảy Liên Ngành
 
-### 5.1 Smart Money Migration Patterns
+### 5.1 Pattern Di Chuyển Smart Money
 
-**Q1 2025 Flow Pattern:**
+**Pattern Dòng Chảy Q1 2025:**
 ```
-Technology → Banking
-Steel → Real Estate (Quality)
-Consumer Discretionary → Consumer Staples
-Small Caps → Large Caps
-```
-
-**Q2 2025 Acceleration:**
-```
-Continued Tech → Banking
-Steel Distribution Accelerating
-Real Estate Quality Focus (VIC accumulation)
-Flight to Safety (Defensive sectors)
+Công nghệ → Ngân hàng
+Thép → Bất động sản (Chất lượng)
+Tiêu dùng không thiết yếu → Tiêu dùng thiết yếu
+Cổ phiếu nhỏ → Cổ phiếu lớn
 ```
 
-### 5.2 Foreign vs Domestic Preferences
+**Tăng Tốc Q2 2025:**
+```
+Tiếp tục Công nghệ → Ngân hàng
+Phân phối Thép Tăng tốc
+Tập trung Chất lượng Bất động sản (tích lũy VIC)
+Chạy tới An toàn (Các ngành phòng thủ)
+```
 
-**Foreign Investor Preferences:**
-- **Banking:** Heavy accumulation (VCB, TCB)
-- **Large Caps:** Flight to quality
-- **Stable Sectors:** Risk-off positioning
-- **Liquid Names:** Easy entry/exit
+### 5.2 Sở Thích Nước Ngoài vs Trong Nước
 
-**Domestic Investor Patterns:**
-- **Technology:** Still holding hope
-- **Small Caps:** Retail speculation
-- **Cyclical Stocks:** Following momentum
-- **Real Estate:** Mixed regional preferences
+**Sở Thích Nhà Đầu Tư Nước Ngoài:**
+- **Ngân hàng:** Tích lũy mạnh (VCB, TCB)
+- **Cổ phiếu lớn:** Chạy tới chất lượng
+- **Ngành ổn định:** Định vị tránh rủi ro
+- **Tên thanh khoản:** Dễ vào/ra
 
-## 6. Timing Analysis
+**Pattern Nhà Đầu Tư Trong Nước:**
+- **Công nghệ:** Vẫn còn hy vọng
+- **Cổ phiếu nhỏ:** Đầu cơ retail
+- **Cổ phiếu chu kỳ:** Theo momentum
+- **Bất động sản:** Sở thích khu vực trộn lẫn
 
-### 6.1 Rotation Sequence
+## 6. Phân Tích Thời Điểm
 
-**Stage 1 (Jan-Feb 2025):** Early Signals
-- Banking stocks begin accumulation
-- Technology shows first distribution signs
-- Steel sector peaks begin forming
+### 6.1 Trình Tự Luân Chuyển
 
-**Stage 2 (Mar-Apr 2025):** Momentum Building
-- Banking accumulation accelerates
-- Tech distribution confirmed
-- Real estate mixed signals emerge
+**Giai Đoạn 1 (Th1-Th2 2025):** Tín Hiệu Sớm
+- Cổ phiếu ngân hàng bắt đầu tích lũy
+- Công nghệ cho thấy dấu hiệu phân phối đầu tiên
+- Đỉnh ngành thép bắt đầu hình thành
 
-**Stage 3 (May-Jun 2025):** Clear Trends
-- Banking Phase D signals appear
-- Steel clear distribution (HPG May 30)
-- Real estate quality accumulation (VIC June 10)
+**Giai Đoạn 2 (Th3-Th4 2025):** Xây Dựng Động Lực
+- Tích lũy ngân hàng tăng tốc
+- Phân phối công nghệ được xác nhận
+- Tín hiệu trộn lẫn bất động sản nổi lên
 
-**Stage 4 (Jul 2025-Present):** Trend Maturation
-- Banking entering markup phase
-- Steel in decline phase
-- Real estate divergence continues
+**Giai Đoạn 3 (Th5-Th6 2025):** Xu Hướng Rõ Ràng
+- Tín hiệu Phase D ngân hàng xuất hiện
+- Thép phân phối rõ ràng (HPG 30/5)
+- Tích lũy chất lượng bất động sản (VIC 10/6)
 
-### 6.2 Future Rotation Predictions
+**Giai Đoạn 4 (Th7 2025-Hiện tại):** Xu Hướng Trưởng Thành
+- Ngân hàng bước vào giai đoạn markup
+- Thép trong giai đoạn suy giảm
+- Phân kỳ bất động sản tiếp tục
 
-**Next 3 Months:**
-- Banking markup phase continues
-- Steel oversold bounce opportunity
-- Real estate quality vs quantity divergence
-- Consumer defensive rotation begins
+### 6.2 Dự Đoán Luân Chuyển Tương Lai
 
-**Next 6 Months:**
-- Banking targets reached, distribution begins?
-- Steel accumulation at oversold levels
-- Real estate recovery broadens
-- Export sectors recovery potential
+**3 Tháng Tới:**
+- Giai đoạn markup ngân hàng tiếp tục
+- Cơ hội phục hồi oversold thép
+- Phân kỳ chất lượng vs số lượng bất động sản
+- Luân chuyển phòng thủ tiêu dùng bắt đầu
+
+**6 Tháng Tới:**
+- Mục tiêu ngân hàng đạt được, phân phối bắt đầu?
+- Tích lũy thép ở mức oversold
+- Phục hồi bất động sản mở rộng
+- Tiềm năng phục hồi ngành xuất khẩu
 
 ## 7. Sector Trading Strategies
 

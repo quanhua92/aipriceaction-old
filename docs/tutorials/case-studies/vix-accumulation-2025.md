@@ -78,11 +78,11 @@ về khả năng phân phối"
 - Lạc quan cơ sở hạ tầng ở đỉnh
 - Smart money chuẩn bị cho điểm vào tốt hơn
 
-## 3. Phase B: The Decline and Exhaustion (June 2025)
+## 3. Phase B: Suy Giảm và Cạn Kiệt (Tháng 6 2025)
 
-### 3.1 Sign of Weakness - June 13, 2025
+### 3.1 Tín Hiệu Yếu Kém - 13 Tháng 6, 2025
 
-**From VPA Analysis:**
+**Từ Phân Tích VPA:**
 ```
 Ngày 2025-06-13: VIX giảm mạnh xuống 13.00, phá vỡ các mức hỗ trợ trước đó. 
 Khối lượng giao dịch lại tăng vọt lên mức rất cao (65.9 triệu đơn vị).
@@ -91,32 +91,32 @@ Phân tích: "Sign of Weakness (SOW) rõ ràng. Giá giảm mạnh với biên �
 đóng cửa gần mức thấp nhất trên nền khối lượng lớn"
 ```
 
-**SOW Characteristics:**
-- **Major Breakdown:** Below key support at 13.0
-- **Volume Confirmation:** 65.9M shares (panic selling)
-- **Range Character:** Wide range down day
-- **Close Position:** Near lows (weak)
+**Đặc Điểm SOW:**
+- **Phá Vỡ Lớn:** Dưới hỗ trợ chính tại 13.0
+- **Xác Nhận Khối Lượng:** 65.9M cổ phiếu (bán hoảng loạn)
+- **Đặc Trưng Biên Độ:** Ngày biên độ rộng giảm
+- **Vị Trí Đóng Cửa:** Gần mức thấp (yếu)
 
-### 3.2 Continued Weakness - June 17-20, 2025
+### 3.2 Sự Yếu Kém Tiếp Diễn - 17-20 Tháng 6, 2025
 
-**Effort to Fall Sequence:**
+**Chuỗi Effort to Fall:**
 ```
 Ngày 2025-06-18: VIX giảm từ 13.15 xuống 12.6. Biên độ giảm rộng, 
 khối lượng không đổi (22.6 triệu đơn vị).
 Phân tích: "Effort to Fall, xác nhận sự yếu kém"
 ```
 
-**No Demand Period:**
+**Giai Đoạn No Demand:**
 ```
 Ngày 2025-06-19-20: VIX lặp lại pattern No Demand với khối lượng giảm
 Phân tích: "Thiếu vắng nhu cầu. Rủi ro giảm tiếp vẫn cao"
 ```
 
-**Selling Exhaustion Indicators:**
-- Volume declining on continued weakness
-- Price action becoming less dramatic
-- Range compression beginning
-- Smart money starting to probe
+**Chỉ Báo Cạn Kiệt Bán Tháo:**
+- Khối lượng giảm trong sự yếu kém tiếp tục
+- Hành động giá trở nên ít kịch tính hơn
+- Biên độ bắt đầu nén lại
+- Smart money bắt đầu thăm dò
 
 ## 4. Phase C: Điểm Bướm Đảo Chiều (24 Tháng 6, 2025)
 
@@ -160,64 +160,64 @@ Phân tích VPA/Wyckoff: "Đây là một phiên Test for Supply sau phiên
 - Không có áp lực bán rõ ràng
 - Nguồn cung được hấp thụ thành công
 
-## 5. Infrastructure Sector Dynamics
+## 5. Động Lực Ngành Cơ Sở Hạ Tầng
 
-### 5.1 Cyclical Recovery Pattern
+### 5.1 Pattern Phục Hồi Chu Kỳ
 
-**Economic Cycle Position:**
-- Government infrastructure spending increasing
-- Private construction activity recovering
-- Regional development projects accelerating
-- Export market opportunities emerging
+**Vị Thế Chu Kỳ Kinh Tế:**
+- Chi tiêu cơ sở hạ tầng của Chính phủ đang tăng
+- Hoạt động xây dựng tư nhân phục hồi
+- Các dự án phát triển khu vực tăng tốc
+- Cơ hội thị trường xuất khẩu nổi lên
 
-**VIX Positioning:**
-- Strategic geographical location
-- Integrated supply chain advantages
-- Operational leverage to volume increases
-- Strong balance sheet for expansion
+**Định Vị VIX:**
+- Vị trí địa lý chiến lược
+- Lợi thế chuỗi cung ứng tích hợp
+- Đòn bẩy hoạt động cho tăng khối lượng
+- Bảng cân đối kế toán mạnh cho mở rộng
 
-### 5.2 Sector Rotation Implications
+### 5.2 Hàm Ý Luân Chuyển Ngành
 
-**From Defensive to Growth:**
-- Infrastructure follows early cycle recovery
-- Cement demand highly elastic to construction
-- Government policy support evident
-- Regional economic growth driver
+**Từ Phòng Thủ Sang Tăng Trưởng:**
+- Cơ sở hạ tầng theo chu kỳ phục hồi sớm
+- Nhu cầu xi măng có tính đàn hồi cao với xây dựng
+- Hỗ trợ chính sách Chính phủ rõ ràng
+- Động lực tăng trưởng kinh tế khu vực
 
-**Investment Thesis:**
-- Economic recovery play
-- Infrastructure development beneficiary
-- Operational leverage characteristics
-- Asset-light business model benefits
+**Luận Điểm Đầu Tư:**
+- Chơi phục hồi kinh tế
+- Thụ hưởng phát triển cơ sở hạ tầng
+- Đặc điểm đòn bẩy hoạt động
+- Lợi ích mô hình kinh doanh tài sản nhẹ
 
-## 6. Price Objective Calculation
+## 6. Tính Toán Mục Tiêu Giá
 
-### 6.1 Wyckoff Count Method
+### 6.1 Phương Pháp Wyckoff Count
 
-**Distribution-to-Accumulation Analysis:**
-- **Distribution High:** 14.2 VND (May 28)
-- **Accumulation Low:** 12.45 VND (June lows)
-- **Range:** 1.75 points
-- **Character:** Sharp reversal pattern
+**Phân Tích Từ Phân Phối Sang Tích Lũy:**
+- **Đỉnh Phân Phối:** 14.2 VNĐ (28/5)
+- **Đáy Tích Lũy:** 12.45 VNĐ (đáy tháng 6)
+- **Phạm Vi:** 1.75 điểm
+- **Đặc Tính:** Pattern đảo chiều mạnh
 
-**Price Target Calculation:**
-- **Conservative:** 12.9 + (1.75 × 2.0) = 16.4 VND
-- **Primary:** 12.9 + (1.75 × 2.5) = 17.3 VND
-- **Aggressive:** 12.9 + (1.75 × 3.0) = 18.2 VND
+**Tính Toán Mục Tiêu Giá:**
+- **Bảo Thủ:** 12.9 + (1.75 × 2.0) = 16.4 VNĐ
+- **Chính:** 12.9 + (1.75 × 2.5) = 17.3 VNĐ
+- **Tích Cực:** 12.9 + (1.75 × 3.0) = 18.2 VNĐ
 
-### 6.2 Fundamental Value Analysis
+### 6.2 Phân Tích Giá Trị Cơ Bản
 
-**Business Recovery Metrics:**
-- Cement demand elasticity: 1.5x GDP growth
-- Infrastructure spending multiplier effect
-- Operational leverage: 60-70% fixed costs
-- Regional market expansion opportunities
+**Chỉ Số Phục Hồi Kinh Doanh:**
+- Tính đàn hồi nhu cầu xi măng: 1.5x tăng trưởng GDP
+- Hiệu ứng nhân chi tiêu cơ sở hạ tầng
+- Đòn bẩy hoạt động: 60-70% chi phí cố định
+- Cơ hội mở rộng thị trường khu vực
 
-**Valuation Support:**
-- P/E ratio: 6.5x vs historical 10-12x
-- EV/EBITDA: 4.2x vs sector 6-8x
-- Asset utilization improvement potential
-- Cash flow generation at higher volumes
+**Hỗ Trợ Định Giá:**
+- Tỷ số P/E: 6.5x so với lịch sử 10-12x
+- EV/EBITDA: 4.2x so với ngành 6-8x
+- Tiềm năng cải thiện sử dụng tài sản
+- Tạo dòng tiền ở khối lượng cao hơn
 
 ## 7. Risk Analysis
 

@@ -1,19 +1,19 @@
-# Case Study: VCB Accumulation Campaign 2025
+# Nghiên Cứu Tình Huống: Chiến Dịch Tích Lũy Vietcombank VCB 2025
 
-## Executive Summary
+## Tóm Tắt Tổng Quan
 
-This case study analyzes Vietcombank (VCB)'s accumulation pattern from January to July 2025, demonstrating a textbook example of Wyckoff accumulation methodology applied to Vietnam's largest bank. Using real market data and expert VPA analysis, we'll trace the complete accumulation campaign from initial weakness through to markup phase initiation.
+Nghiên cứu tình huống này phân tích pattern tích lũy của Vietcombank (VCB) từ tháng 1 đến tháng 7 năm 2025, minh họa một ví dụ sách giáo khoa về phương pháp tích lũy Wyckoff áp dụng cho ngân hàng lớn nhất Việt Nam. Sử dụng dữ liệu thị trường thực tế và phân tích VPA chuyên gia, chúng ta sẽ theo dõi toàn bộ chiến dịch tích lũy từ điểm yếu ban đầu đến giai đoạn khởi động markup.
 
-**Key Results:**
-- **Duration:** 6 months (Jan-Jun 2025)
-- **Accumulation Range:** 56.0 - 62.5 VND
-- **Smart Money Evidence:** Multiple stopping volume và no supply signals
-- **Current Status:** Phase D (Moving to Supply Line)
-- **Price Objective:** 68-72 VND range
+**Kết Quả Chính:**
+- **Thời Gian:** 6 tháng (Tháng 1-6 2025)
+- **Vùng Tích Lũy:** 56.0 - 62.5 VNĐ
+- **Bằng Chứng Smart Money:** Nhiều tín hiệu stopping volume và no supply
+- **Trạng Thái Hiện Tại:** Phase D (Di chuyển tới Supply Line)
+- **Mục Tiêu Giá:** Vùng 68-72 VNĐ
 
-## 1. Background và Market Context
+## 1. Bối Cảnh và Môi Trường Thị Trường
 
-### 1.1 VCB Fundamentals (Early 2025)
+### 1.1 Thông Tin Cơ Bản VCB (Đầu 2025)
 
 **Company Profile:**
 - **Ticker:** VCB (Vietcombank)
@@ -21,24 +21,24 @@ This case study analyzes Vietcombank (VCB)'s accumulation pattern from January t
 - **Sector:** Banking
 - **Index Weight:** 15.8% of VNINDEX
 
-**Why VCB for Accumulation Study:**
-- High institutional participation
-- Excellent liquidity (avg 1.5M shares/day)
-- Clean price action (less manipulation)
-- Strong fundamental backdrop
+**Tại Sao Chọn VCB Cho Nghiên Cứu Tích Lũy:**
+- Sự tham gia cao của tổ chức
+- Thanh khoản xuất sắc (TB 1.5M cổ phiếu/ngày)
+- Hành động giá sạch (ít thao túng)
+- Nền tảng cơ bản mạnh mẽ
 
-### 1.2 Market Environment
+### 1.2 Môi Trường Thị Trường
 
-**Vietnam Market Context (Q1 2025):**
-- VNINDEX trading range: 1240-1320
-- Banking sector showing relative strength
-- Foreign investment flows positive
-- Interest rate environment stabilizing
+**Bối Cảnh Thị Trường Việt Nam (Q1 2025):**
+- VNINDEX giao dịch trong vùng: 1240-1320
+- Ngành ngân hàng thể hiện sức mạnh tương đối
+- Dòng vốn đầu tư nước ngoài tích cực
+- Môi trường lãi suất đang ổn định
 
-**VCB Relative Performance:**
-- Outperforming VNINDEX by 3-5%
-- Leading banking sector rotation
-- Strong institutional interest visible
+**Hiệu Suất Tương Đối VCB:**
+- Vượt trội VNINDEX 3-5%
+- Dẫn đầu luân chuyển ngành ngân hàng
+- Sự quan tâm mạnh mẽ của tổ chức có thể thấy rõ
 
 ## 2. Phase A: Stopping the Decline (January 2025)
 

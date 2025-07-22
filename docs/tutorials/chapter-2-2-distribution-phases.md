@@ -183,48 +183,48 @@ Volume giảm dần → xác nhận smart money đã thoát
 
 **HPG Phase B Evidence (Jun 12-16):**
 
-**Jun 12:** False strength
+**Jun 12:** Sức mạnh giả
 ```
 HPG tăng mạnh lên 22.33, volume cao (52.24M)
 Phân tích: "Effort to Rise, có thể là SOS"
 ```
 
-**Jun 16:** Weakness returns  
+**Jun 16:** Suy yếu quay lại
 ```
 HPG tăng lên 22.29, biên độ hẹp, volume giảm (29.75M)
 Phân tích: "Đà tăng chững lại, lực cầu không còn quyết liệt"
 ```
 
-**Pattern Recognition:**
-- Jun 12 looked bullish (retail trap)
-- Jun 16 showed true weakness (smart money reality)
-- Volume declining = distribution continuing
+**Nhận Dạng Mẫu Hình:**
+- Jun 12 trông bullish (cầu trập retail)
+- Jun 16 cho thấy suy yếu thực sự (thực tế smart money)
+- Volume giảm = phân phối tiếp tục
 
-## 4. Phase C: The Final Test
+## 4. Phase C: Cuộc Kiểm Tra Cuối Cùng
 
-### 4.1 Upthrust After Distribution (UTAD)
+### 4.1 Cầu Trập Sau Phân Phối (UTAD - Upthrust After Distribution)
 
-**Definition:** False breakout above distribution range to trap final buyers
-**Purpose:**
-- Attract last wave of retail buying
-- Test if any significant demand remains  
-- Provide final distribution opportunity
-- "Fuel" for upcoming decline
+**Định nghĩa:** Đột phá giả lên trên vùng phân phối để bẫy những người mua cuối cùng
+**Mục đích:**
+- Thu hút làn sóng mua cuối cùng từ retail
+- Kiểm tra xem còn cầu đáng kể nào không
+- Tạo cơ hội phân phối cuối cùng
+- Cung cấp "nhiên liệu" cho đợt giảm sắp tới
 
-**UTAD Identification:**
-- **Break above trading range high**
-- **High volume initially** then quick reversal
-- **Wide spread up** but **weak close**
-- **Quick return to range**
+**Nhận diện UTAD:**
+- **Phá vỡ lên trên đỉnh vùng giao dịch**
+- **Khối lượng cao ban đầu** rồi đảo chiều nhanh
+- **Biên độ rộng lên** nhưng **đóng cửa yếu**
+- **Nhanh chóng quay về vùng**
 
-### 4.2 Last Point of Supply (LPSY)
+### 4.2 Điểm Cung Cuối Cùng (LPSY - Last Point of Supply)
 
-**Definition:** Final rally attempt before major decline begins
-**Characteristics:**
-- **Lower high** than UTAD
-- **Very low volume** (no demand)
-- **Weak bounce** from support
-- **Quick failure**
+**Định nghĩa:** Nỗ lực tăng cuối cùng trước khi bắt đầu giảm mạnh
+**Đặc điểm:**
+- **Đỉnh thấp hơn** UTAD
+- **Khối lượng rất thấp** (không có cầu)
+- **Phục hồi yếu** từ hỗ trợ
+- **Thất bại nhanh chóng**
 
 **UTAD vs LPSY Comparison:**
 
