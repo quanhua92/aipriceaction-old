@@ -435,4 +435,286 @@ uv run python main.py  # Auto-installs dependencies
 
 ---
 
-**Made with ❤️ for Vietnamese stock market analysis**
+## 📚 Hệ Thống Giáo Dục VPA & Phương Pháp Wyckoff
+
+### Tổng Quan
+
+Dự án này bao gồm một **hệ thống giáo dục toàn diện bằng tiếng Việt** về Phân Tích Khối Lượng Giá (VPA) và các nguyên lý Phương Pháp Wyckoff. Hệ thống tutorial này đại diện cho một bản dịch và nâng cấp hoàn chỉnh của giáo dục giao dịch cấp tổ chức, được điều chỉnh đặc biệt cho thị trường Việt Nam với các ví dụ dữ liệu thị trường thực tế.
+
+### 🎓 Triết Lý Giáo Dục & Phương Pháp Tiếp Cận
+
+**Thiết Kế Học Tập Tiến Bộ:**
+Hệ thống tutorial tuân theo một tiến trình có cấu trúc cẩn thận từ **các khái niệm cấp đại học** (độ khó 9.2/10) đến **kiến thức chuyên gia tổ chức** (độ khó 10/10), đảm bảo chuyển giao kiến thức mượt mà mà không làm choáng ngợp người mới bắt đầu.
+
+**Tích Hợp Thị Trường Thực Tế:**
+Mọi khái niệm đều được minh họa bằng **dữ liệu cổ phiếu Việt Nam thực tế** từ các thư mục `market_data/` và `vpa_data/` của pipeline, cung cấp trải nghiệm học tập chân thực thay vì các ví dụ lý thuyết.
+
+**Thuật Ngữ Tài Chính Việt Nam:**
+Tất cả các khái niệm kỹ thuật đã được dịch chuyên nghiệp sử dụng thuật ngữ tài chính Việt Nam phù hợp, làm cho các khái niệm VPA nâng cao có thể tiếp cận được đối với các nhà đầu tư nói tiếng Việt lần đầu tiên.
+
+### 📖 Các Chương Tutorial - Phân Tích Chi Tiết
+
+#### **Khái Niệm Cơ Bản (Chương 1.1-1.3)**
+
+**Chương 1.1: Căn Bản VPA (Tiếng Việt)**
+- **Mục Đích:** Giới thiệu các nguyên tắc cơ bản của Phân Tích Khối Lượng Giá
+- **Khái Niệm Chính:** 
+  - Động lực mối quan hệ khối lượng-giá
+  - Hành vi dòng tiền thông minh vs dòng tiền retail
+  - Nhận dạng tín hiệu VPA cơ bản
+- **Dữ Liệu Thực Tế:** Sử dụng cổ phiếu Việt Nam thực tế từ `market_data/` với phân tích VPA tiếng Việt từ `vpa_data/`
+- **Thuật Ngữ Việt Nam:** Khối lượng (Volume), Giá (Price), Phân tích (Analysis), Smart Money (Dòng tiền thông minh)
+
+**Chương 1.2: Các Định Luật Wyckoff (Tiếng Việt)**
+- **Mục Đích:** Ba định luật cơ bản chi phối hành vi thị trường
+- **Khái Niệm Chính:**
+  - Luật Cung - Cầu (Law of Supply & Demand)
+  - Luật Nhân - Quả (Law of Cause & Effect)
+  - Luật Nỗ lực vs Kết quả (Law of Effort vs Result)
+- **Tích Hợp Thị Trường:** Ví dụ từ chuyển động VNINDEX và luân chuyển ngành
+- **Bối Cảnh Việt Nam:** Điều chỉnh cho đặc điểm thị trường và mô hình giao dịch Việt Nam
+
+**Chương 1.3: Composite Man (Tiếng Việt)**
+- **Mục Đích:** Hiểu góc nhìn tổ chức
+- **Khái Niệm Chính:**
+  - Chiến thuật tích lũy/phân phối của dòng tiền thông minh
+  - Nhận dạng thao túng thị trường
+  - Mô hình hành vi tổ chức vs retail
+- **Phương Pháp Giáo Dục:** Sử dụng các công ty dẫn đầu thị trường Việt Nam (VIC, VCB, FPT) làm ví dụ
+
+#### **Các Giai Đoạn Thị Trường (Chương 2.1-2.2)**
+
+**Chương 2.1: Các Pha Tích Lũy (Tiếng Việt)**
+- **Độ Sâu:** Phân tích chi tiết tất cả 5 pha tích lũy Wyckoff
+- **Ví Dụ Thực Tế:** Sử dụng các mô hình tích lũy thực tế từ blue chips Việt Nam
+- **Tích Hợp Kỹ Thuật:** Biểu đồ được tạo bởi `main.py` với thư viện mplfinance
+- **Thuật Ngữ Việt Nam:** Tích lũy (Accumulation), Pha (Phase), Kiểm tra (Test)
+
+**Chương 2.2: Các Pha Phân Phối (Tiếng Việt)**
+- **Mục Đích:** Nhận dạng các mô hình bán tổ chức
+- **Thông Đảm Quan Trọng:** Dấu hiệu cảnh báo sớm của đỉnh thị trường
+- **Nghiên Cứu Tình Huống:** Ví dụ phân phối thị trường Việt Nam lịch sử
+- **Quản Lý Rủi Ro:** Khung đánh giá rủi ro đặc thù Việt Nam
+
+#### **Nhận Dạng Tín Hiệu (Chương 3.1-3.2)**
+
+**Chương 3.1: Tín Hiệu VPA Tăng Giá (Tiếng Việt)**
+- **Bao Phủ Toàn Diện:** Tất cả các mô hình VPA tăng giá chính
+- **Các Loại Tín Hiệu:**
+  - No Supply (Không có Nguồn Cung)
+  - Sign of Strength (Dấu hiệu Mạnh mẽ)
+  - Effort to Rise (Nỗ lực Tăng giá)
+  - Test for Supply (Kiểm tra Nguồn cung)
+- **Tích Hợp Dữ Liệu Thực Tế:** Sử dụng trích dẫn chính xác từ các file `vpa_data/{TICKER}.md`
+- **Ứng Dụng Thực Tế:** Tích hợp trực tiếp với quy trình VPA hàng ngày
+
+**Chương 3.2: Tín Hiệu VPA Giảm Giá (Tiếng Việt)**
+- **Khung Hoàn Chỉnh:** Tất cả các mô hình giảm giá chính và cảnh báo
+- **Nhận Dạng Tín Hiệu:**
+  - Sign of Weakness (Dấu hiệu Yếu kém)
+  - No Demand (Không có Nhu cầu)
+  - Effort to Fall (Nỗ lực Giảm giá)
+  - Các mô hình phân phối
+- **Bối Cảnh Thị Trường Việt Nam:** Điều chỉnh cho hành vi và chu kỳ thị trường địa phương
+
+#### **Khái Niệm Nâng Cao (Chương 5.1-5.4)**
+
+**Chương 5.1: Nhận Dạng Mô Hình Nâng Cao**
+- **Nội Dung Cấp Tổ Chức:** Kỹ thuật phân tích mô hình chuyên nghiệp
+- **Mô Hình Phức Tạp:** Chu kỳ tích lũy/phân phối đa pha
+- **Phần Tìm Hiểu Sâu:** Giải thích nâng cao cho các khái niệm phức tạp
+- **Tích Hợp Việt Nam:** Sử dụng ví dụ cổ phiếu Việt Nam toàn diện
+
+**Chương 5.2: Engine Backtesting Tổ Chức**
+- **Độ Sâu Kỹ Thuật:** Xây dựng khung kiểm tra VPA có hệ thống
+- **Tích Hợp Code:** Hoạt động với cấu trúc dữ liệu CSV của pipeline
+- **Xác Thực Thống Kê:** Phương pháp backtesting đặc thù thị trường Việt Nam
+- **Chỉ Số Hiệu Suất:** Tính toán ROI được điều chỉnh cho chi phí giao dịch Việt Nam
+
+**Chương 5.3: Phân Tích Dòng Tiền Thông Minh**
+- **Kỹ Thuật Nâng Cao:** Theo dõi chuyển động tiền tổ chức
+- **Chỉ Báo Dòng Chảy:** Phát hiện dòng tiền thông minh dựa trên khối lượng
+- **Bối Cảnh Việt Nam:** Điều chỉnh cho mô hình hành vi tổ chức Việt Nam
+- **Tích Hợp:** Sử dụng `market_data/` cho tính toán phân tích dòng chảy
+
+**Chương 5.4: Nhận Dạng Mô Hình Machine Learning**
+- **Phương Pháp Tiên Tiến:** Phát hiện tín hiệu VPA được hỗ trợ AI
+- **Triển Khai Kỹ Thuật:** Nhận dạng mô hình ML dựa trên Python
+- **Tích Hợp Dữ Liệu:** Tận dụng thu thập dữ liệu toàn diện của pipeline
+- **Điều Chỉnh Việt Nam:** Mô hình ML được đào tạo trên mô hình thị trường Việt Nam
+
+### 🎯 Nghiên Cứu Tình Huống: Chiến Dịch Tích Lũy 2025 - Phân Tích Sâu
+
+#### **Phương Pháp Giáo Dục**
+
+Mỗi nghiên cứu tình huống đại diện cho một **phân tích chiến dịch tích lũy tổ chức hoàn chỉnh** sử dụng dữ liệu thị trường Việt Nam thực tế từ năm 2025. Đây không phải là các ví dụ lý thuyết mà là các sự kiện thị trường thực tế với phân tích VPA được ghi chép.
+
+#### **Cấu Trúc & Thông Đảm Nghiên Cứu Tình Huống**
+
+**VIC - Chiến Dịch Tích Lũy Bất Động Sản 2025**
+- **Tập Trung Ngành:** Phân tích vai trò dẫn dắt thị trường bất động sản
+- **Loại Mô Hình:** Minh chứng chuỗi VPA hoàn hảo
+- **Học Hỏi Chính:** Cách các công ty dẫn đầu bất động sản hoạt động trong phục hồi thị trường
+- **Nguồn Dữ Liệu:** Phân tích VPA thực tế từ `vpa_data/VIC.md`
+- **Thông Đảm Việt Nam:** 
+  - "Đây là một tín hiệu Effort to Rise mạnh mẽ"
+  - "Lực cầu đã quay trở lại quyết đoán"
+- **Giảng Dạy Kỹ Thuật:** Xác nhận markup Phase D với phân tích khối lượng
+- **Rủi Ro/Lợi Nhuận:** Chiến lược định cỡ vị thế và cắt lỗ thế giới thực
+
+**VHM - Chiến Dịch Tích Lũy Biến Động 2025**
+- **Tập Trung Biến Động:** Mô hình tích lũy cổ phiếu beta cao
+- **Khái Niệm Nâng Cao:** Quản lý mô hình tích lũy biến động
+- **Động Lực Ngành:** Vinhomes như cổ phiếu beta bất động sản
+- **Nhận Dạng Mô Hình:** Tích lũy phạm vi rộng với biến động cao
+- **Bối Cảnh Thị Trường Việt Nam:** Hiểu chu kỳ bất động sản Việt Nam
+- **Thông Đảm Chuyên Nghiệp:** Cách tổ chức xử lý tích lũy biến động
+
+**SSI - Chiến Dịch Tích Lũy Nhà Vô Địch Ngành Chứng Khoán 2025**
+- **Luân Chuyển Ngành:** Thời điểm phục hồi dịch vụ tài chính
+- **Mô Hình Nâng Cao:** Nhận dạng và phản ứng Shakeout
+- **Mô Hình Kinh Doanh:** Đặc điểm và chu kỳ ngành chứng khoán
+- **Bối Cảnh Việt Nam:** Hiểu động lực môi giới địa phương
+- **Thành Thạo Kỹ Thuật:** Chuỗi Shakeout → Phục hồi hoàn hảo
+- **Ứng Dụng Chuyên Nghiệp:** Chiến lược đầu tư luân chuyển ngành
+
+**VIX - Chiến Dịch Tích Lũy Gã Khổng Lồ Cơ Sở Hạ Tầng 2025**
+- **Phân Tích Chu Kỳ:** Thời điểm và mô hình ngành cơ sở hạ tầng
+- **Đảo Chiều Mô Hình:** Chuyển đổi từ phân phối sang tích lũy
+- **Bối Cảnh Kinh Tế:** Chi tiêu Chính phủ và chu kỳ cơ sở hạ tầng
+- **Nhận Dạng Nâng Cao:** Xác định tín hiệu đảo chiều sớm
+- **Kinh Tế Việt Nam:** Chu kỳ và thời điểm đầu tư cơ sở hạ tầng
+- **Đầu Tư Chiến Lược:** Phương pháp đầu tư cơ sở hạ tầng dài hạn
+
+**LPB - Chiến Dịch Tích Lũy Chuyển Đổi Ngân Hàng 2025**
+- **Ví Dụ Sách Giáo Khoa:** Minh chứng chuỗi VPA hoàn hảo
+- **Ngân Hàng Khu Vực:** Câu chuyện chuyển đổi ngân hàng nhỏ hơn
+- **Hoàn Hảo Tuần Tự:** No Supply → Test → SOS → Markup
+- **Tích Hợp Dữ Liệu Chính Xác:** Sử dụng trích dẫn chính xác từ `vpa_data/LPB.md`:
+  - "Đây là một tín hiệu No Supply (Không có Nguồn Cung) rõ ràng"
+  - "Test for Supply (Kiểm tra Nguồn cung)"
+  - "Sign of Strength (SOS), là kết quả của các tín hiệu No Supply và Test for Supply thành công"
+- **Chuyển Đổi Ngân Hàng:** Chủ đề hiện đại hóa ngân hàng khu vực
+- **Thực Thi Chuyên Nghiệp:** Chiến lược vào và ra lệnh tổ chức
+
+### 🔄 Integration with Pipeline Data
+
+#### **Real-Time Learning**
+The tutorial system is **directly integrated** with the pipeline's live data:
+
+- **Tutorial Examples ←→ `market_data/` CSV files**
+- **VPA Analysis ←→ `vpa_data/{TICKER}.md` files**  
+- **Chart Integration ←→ `reports/` generated images**
+- **Live Updates ←→ Daily `main.py` execution**
+
+#### **Educational Data Flow**
+```mermaid
+graph LR
+    A[Live Market Data] --> B[VPA Analysis in vpa_data/]
+    B --> C[Tutorial Examples]
+    C --> D[Student Learning]
+    D --> E[Applied Analysis]
+    E --> A
+```
+
+### 🎓 Learning Path Recommendations
+
+#### **Beginner Path (0-3 months)**
+1. Start with Chapter 1.1 (VPA Basics)
+2. Master Chapter 1.2 (Wyckoff Laws)  
+3. Read VIC case study for practical application
+4. Practice with live `VPA.md` daily analysis
+
+#### **Intermediate Path (3-6 months)**
+1. Complete Chapters 2.1-2.2 (Market Phases)
+2. Study all 5 case studies in sequence
+3. Begin writing own VPA analysis in `vpa_data/` format
+4. Use `merge_vpa.py` workflow for practice
+
+#### **Advanced Path (6+ months)**
+1. Master Chapters 3.1-3.2 (Signal Recognition)
+2. Implement Chapter 5.1-5.4 (Advanced Concepts)
+3. Develop personal trading systems using pipeline data
+4. Contribute to VPA analysis using institutional-grade methodology
+
+### 🇻🇳 Vietnamese Market Adaptation
+
+#### **Cultural & Market Context**
+- **Trading Hours:** Adapted for Vietnamese market sessions (9:00-15:00)
+- **Settlement:** T+2 settlement cycle considerations
+- **Regulations:** Vietnamese market regulations and restrictions
+- **Currency:** VND-specific calculations and risk management
+- **Broker Integration:** Compatible with Vietnamese brokerage platforms
+
+#### **Linguistic Excellence**
+- **Financial Terminology:** Professional Vietnamese financial vocabulary
+- **Technical Precision:** Accurate translation of complex VPA concepts
+- **Cultural Adaptation:** Vietnamese business culture and investment mentality
+- **Educational Style:** Vietnamese pedagogical approaches and learning preferences
+
+### 🛠 Technical Implementation
+
+#### **File Structure Integration**
+```
+docs/tutorials/
+├── vpa-basics-vi.md              # Chapter 1.1
+├── wyckoff-laws-vi.md             # Chapter 1.2  
+├── composite-man-vi.md            # Chapter 1.3
+├── accumulation-phases-vi.md      # Chapter 2.1
+├── distribution-phases-vi.md      # Chapter 2.2
+├── bullish-vpa-signals-vi.md      # Chapter 3.1
+├── bearish-vpa-signals-vi.md      # Chapter 3.2
+├── trading-systems-vi.md          # Chapter 4.1
+├── advanced-pattern-recognition.md # Chapter 5.1
+├── institutional-backtesting.md    # Chapter 5.2
+├── smart-money-flow.md            # Chapter 5.3
+├── ml-pattern-recognition.md      # Chapter 5.4
+└── case-studies/
+    ├── vic-accumulation-2025.md   # VIC case study
+    ├── vhm-accumulation-2025.md   # VHM case study
+    ├── ssi-accumulation-2025.md   # SSI case study  
+    ├── vix-accumulation-2025.md   # VIX case study
+    └── lpb-accumulation-2025.md   # LPB case study
+```
+
+#### **Data Dependencies**
+- **Market Data:** `market_data/{TICKER}_2025-01-02_to_2025-07-21.csv`
+- **VPA Analysis:** `vpa_data/{TICKER}.md` 
+- **Charts:** `reports/{TICKER}_chart.png`
+- **Configuration:** `ticker_group.json` for sector analysis
+
+### 🎯 Educational Outcomes
+
+#### **Student Achievements**
+Upon completion, students will be able to:
+
+1. **Recognize Institutional Activity:** Identify smart money accumulation/distribution
+2. **Time Market Entries:** Use VPA signals for optimal position timing  
+3. **Manage Risk:** Apply Vietnamese market-specific risk management
+4. **Sector Analysis:** Understand Vietnamese market sector rotation
+5. **Professional Analysis:** Write institutional-grade VPA analysis
+6. **System Integration:** Use pipeline tools for ongoing market analysis
+
+#### **Professional Application**
+- **Portfolio Management:** Institutional-grade stock selection
+- **Risk Assessment:** Vietnamese market-specific risk frameworks
+- **Sector Allocation:** Industry rotation strategies using Vietnamese market dynamics
+- **Performance Measurement:** ROI calculation with Vietnamese trading costs
+- **Continuous Learning:** Integration with live market data for ongoing education
+
+### 🔗 Navigation & Resources
+
+#### **Quick Access Links**
+- **[Tutorial Map & Content Overview](MAP_OF_CONTENT.md)** - Complete curriculum structure
+- **[VPA Methods & Methodology](methods/README.md)** - Technical methodology documentation
+- **Main Pipeline Integration:** All tutorials work seamlessly with `main.py` and data pipeline
+
+#### **Support Materials**
+- **Live Data:** Updated daily through GitHub Actions workflow
+- **Vietnamese Support:** Full UTF-8 support with proper Vietnamese financial terminology
+- **Chart Integration:** Professional mplfinance charts with Vietnamese labels
+- **Real-time Examples:** Examples update automatically with market data
+
+---
+
+**Made with ❤️ for Vietnamese stock market analysis and education**

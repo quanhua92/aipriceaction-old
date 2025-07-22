@@ -54,6 +54,65 @@ Based on the latest analysis, the **`PLAN.md`** file outlines potential trading 
 
 *   **`FUNDS.md`**: A comprehensive deep-dive into the performance, risk profiles, and portfolio compositions of major Vietnamese investment funds. Use this to compare professional money managers against the market and each other.
 
+---
+
+## 📚 VPA & Wyckoff Method Tutorial System
+
+This project includes a comprehensive Vietnamese-language tutorial system covering Volume Price Analysis (VPA) and Wyckoff Method principles with real market data examples.
+
+### 📖 Tutorial Chapters
+
+**Fundamental Concepts:**
+- [Chapter 1.1: VPA Basics (Vietnamese)](docs/tutorials/vpa-basics-vi.md)
+- [Chapter 1.2: Wyckoff Laws (Vietnamese)](docs/tutorials/wyckoff-laws-vi.md)
+- [Chapter 1.3: Composite Man (Vietnamese)](docs/tutorials/composite-man-vi.md)
+
+**Market Phases:**
+- [Chapter 2.1: Accumulation Phases (Vietnamese)](docs/tutorials/accumulation-phases-vi.md)
+- [Chapter 2.2: Distribution Phases (Vietnamese)](docs/tutorials/distribution-phases-vi.md)
+
+**Signal Recognition:**
+- [Chapter 3.1: Bullish VPA Signals (Vietnamese)](docs/tutorials/bullish-vpa-signals-vi.md)
+- [Chapter 3.2: Bearish VPA Signals (Vietnamese)](docs/tutorials/bearish-vpa-signals-vi.md)
+
+**Trading Systems:**
+- [Chapter 4.1: Trading Systems (Vietnamese)](docs/tutorials/trading-systems-vi.md)
+
+**Advanced Concepts:**
+- [Chapter 5.1: Advanced Pattern Recognition](docs/tutorials/advanced-pattern-recognition.md)
+- [Chapter 5.2: Institutional Backtesting Engine](docs/tutorials/institutional-backtesting.md)
+- [Chapter 5.3: Smart Money Flow Analysis](docs/tutorials/smart-money-flow.md)
+- [Chapter 5.4: Machine Learning Pattern Recognition](docs/tutorials/ml-pattern-recognition.md)
+
+### 🎯 Case Studies: Chiến Dịch Tích Lũy 2025
+
+Detailed case studies analyzing institutional accumulation campaigns in Vietnamese stocks during 2025:
+
+**➡️ [Nghiên Cứu Tình Huống: VIC - Chiến Dịch Tích Lũy Bất Động Sản 2025](docs/tutorials/case-studies/vic-accumulation-2025.md)**
+- Phân tích pattern tích lũy VIC Vingroup với chuỗi VPA hoàn hảo
+- Thể hiện sức mạnh leader bất động sản trong phục hồi thị trường
+
+**➡️ [Nghiên Cứu Tình Huống: VHM - Chiến Dịch Tích Lũy Biến Động 2025](docs/tutorials/case-studies/vhm-accumulation-2025.md)**
+- Pattern tích lũy với biến động cao của VHM Vinhomes
+- Minh họa đặc tính beta cao trong ngành bất động sản
+
+**➡️ [Nghiên Cứu Tình Huống: SSI - Chiến Dịch Tích Lũy Nhà Vô Địch Ngành Chứng Khoán 2025](docs/tutorials/case-studies/ssi-accumulation-2025.md)**
+- Phân tích Shakeout pattern và luân chuyển ngành chứng khoán
+- Thể hiện đặc tính dịch vụ tài chính trong chu kỳ phục hồi
+
+**➡️ [Nghiên Cứu Tình Huống: VIX - Chiến Dịch Tích Lũy Gã Khổng Lồ Cơ Sở Hạ Tầng 2025](docs/tutorials/case-studies/vix-accumulation-2025.md)**
+- Pattern đảo chiều từ phân phối sang tích lũy
+- Minh họa đặc tính chu kỳ cơ sở hạ tầng
+
+**➡️ [Nghiên Cứu Tình Huống: LPB - Chiến Dịch Tích Lũy Chuyển Đổi Ngân Hàng 2025](docs/tutorials/case-studies/lpb-accumulation-2025.md)**
+- Chuỗi VPA kinh điển: No Supply → Test for Supply → Sign of Strength
+- Thể hiện câu chuyện chuyển đổi ngân hàng khu vực
+
+### 🗺️ Navigation
+
+**➡️ [Tutorial Map & Content Overview](docs/MAP_OF_CONTENT.md)**
+**➡️ [VPA Methods & Methodology](docs/methods/README.md)**
+
 ## Key Features
 
 -   **Configurable Ticker List**: Easily manage which stocks to analyze by editing a simple `TICKERS.csv` file.
