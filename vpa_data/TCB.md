@@ -64,5 +64,7 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bứt phá thành công qua vùng kháng cự 36.0. Khối lượng giao dịch tăng gấp đôi kèm theo việc giá đóng cửa mạnh cho thấy smart money đang tích cực tích lũy, khẳng định xu hướng tăng mạnh mẽ.
 - **Ngày 2025-07-21:** Sau tín hiệu SOS mạnh mẽ, TCB giảm từ 36.3 xuống 35.45 với đỉnh ngày đạt 36.5. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (23.07 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bứt phá SOS của phiên trước, thị trường đang kiểm tra áp lực chốt lời tại vùng kháng cự 36.5. Việc giá giảm với khối lượng giảm (từ 36.47M xuống 23.07M) cho thấy áp lực bán đã giảm bớt, đây là một phản ứng tự nhiên sau đợt tăng mạnh, tín hiệu vẫn tích cực.
+- **Ngày 2025-07-22:** TCB giảm từ 35.15 xuống 35.35 với mức thấp nhất 34.9. Nến có biên độ rộng và đóng cửa ở giữa phiên. Khối lượng giao dịch tăng mạnh (26.85 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Secondary Test (ST)** - Sau Test for Supply của phiên trước, phiên này thị trường tiếp tục kiểm tra độ bền vững của vùng hỗ trợ 34.9-35.0. Việc khối lượng tăng mạnh (từ 23.07M lên 26.85M) với giá hồi phục về 35.35 cho thấy có sức mua xuất hiện tại vùng thấp, đây là tín hiệu tích cực của quá trình tích lũy sau SOS.
 
 

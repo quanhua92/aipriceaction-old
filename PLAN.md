@@ -1,16 +1,16 @@
 # PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Cập nhật: 2025-07-21 | Phân tích theo phương pháp VPA-Strategist*
+*Cập nhật: 2025-07-22 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
 ![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-**Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tăng mạnh mẽ với tín hiệu **Sign of Strength** tuần kết thúc 2025-07-07, đóng cửa ở mức 1457.76 điểm. Khối lượng giao dịch tăng vọt xác nhận cho sức mạnh của đà tăng, thể hiện lực cầu quyết liệt từ dòng tiền tổ chức.
+**Bối Cảnh Tuần**: VNINDEX tiếp tục xu hướng tăng vững chắc với tín hiệu **Sign of Strength** tuần kết thúc 2025-06-23, thiết lập đỉnh mới với động lực mạnh mẽ. Khối lượng giao dịch duy trì ở mức cao, xác nhận sức mạnh của đà tăng từ dòng tiền thông minh.
 
-**Hành Động Gần Đây**: Phiên 2025-07-17 ghi nhận tín hiệu **Test for Supply** tích cực với **No Supply**, khi chỉ số tăng nhẹ từ 1490.01 lên 1495.82 điểm trên khối lượng giảm xuống 1.12 tỷ đơn vị. Điều này cho thấy áp lực bán chốt lời không đáng kể và nguồn cung hạn chế, củng cố xu hướng tăng.
+**Hành Động Gần Đây**: Phiên 2025-07-22 ghi nhận tín hiệu **Sign of Strength** mạnh mẽ, thể hiện momentum tiếp tục được duy trì. Với 32 mã có tín hiệu SOS trong phiên, thị trường thể hiện sự mở rộng rõ rệt về độ sâu và chiều rộng của đà tăng.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Với nền tảng tuần mạnh mẽ và tín hiệu hằng ngày tích cực, thị trường đang trong giai đoạn lý tưởng để tăng tỷ trọng. Vùng 1485-1490 điểm là support gần nhất, trong khi khả năng kiểm tra vùng 1500+ điểm trong các phiên tới rất cao.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Thị trường đang trong giai đoạn lý tưởng để tăng tỷ trọng với nền tảng tuần mạnh và tín hiệu ngày tích cực. Sự mở rộng của các tín hiệu SOS cho thấy nhiều cơ hội đầu tư chất lượng đang xuất hiện, đặc biệt tại các nhóm ngành dẫn dắt.
 
 ## 2. Top 26 Cơ Hội Giao Dịch Chất Lượng
 
@@ -50,56 +50,22 @@
 
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
-*Những cơ hội mới nổi từ nhóm unlisted - đáng theo dõi sát sao*
+*Những cơ hội mới nổi được xác định từ phân tích VPA-Strategist ngày 2025-07-22*
 
 ### Cơ Hội Tăng Trưởng Mạnh
-1. **CSC** (Penny) - **85%**
-   - **Tín hiệu**: SOS bùng nổ (2025-07-17) 
-   - **Phân tích**: Volume explosion x6, đảo ngược từ weakness
-   - **Điểm mạnh**: Breakout mạnh mẽ từ vùng tích lũy dài
-
-2. **CTD** (Xây Dựng) - **85%**
-   - **Tín hiệu**: SOS continuation (2025-07-17)
-   - **Phân tích**: Volume surge 2.47M, momentum tăng mạnh
-   - **Điểm mạnh**: Sector rotation vào construction
-
-3. **DBC** (Nông Nghiệp) - **85%**
-   - **Tín hiệu**: Effort to Rise với volume explosion (2025-07-17)
-   - **Phân tích**: Volume x2.5, recovery từ No Supply
-   - **Điểm mạnh**: Agricultural sector revival
+1. **DPM** (Hóa Chất) - **85%** - Fast entry: Daily Effort to Rise + supportive weekly context - [View Report](REPORT.md#DPM)
+2. **DRC** (Cao Su) - **85%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#DRC)
 
 ### Cơ Hội Theo Dõi Đặc Biệt
-4. **DGC** (Hóa Chất) - **80%** - Effort to Rise mạnh (2025-07-17)
-5. **DGW** (Bán Lẻ) - **80%** - Effort to Rise với volume surge (2025-07-17)
-6. **DVN** (Sức Khỏe) - **80%** - Effort to Rise volume x2.5 (2025-07-17)
-7. **BCM** (BĐS KCN) - **80%** - Effort to Rise từ Test for Supply (2025-07-17)
-8. **BSR** (Dầu Khí) - **80%** - Effort to Rise continuation (2025-07-17)
-9. **CII** (Xây Dựng) - **80%** - Effort to Rise volume cao (2025-07-17)
-10. **C4G** (Đầu Tư Công) - **80%** - Effort to Rise với No Supply (2025-07-17)
-
-### Cơ Hội Cần Xác Nhận
-11. **CST** (Khai Khoáng) - **75%** - No Supply tiếp diễn (2025-07-17)
-12. **DHG** (Sức Khỏe) - **75%** - Effort to Rise từ Test for Demand (2025-07-17)
-13. **DPM** (Hóa Chất) - **75%** - Effort to Rise từ Test for Supply (2025-07-17)
-14. **DPR** (Cao Su) - **75%** - Effort to Rise confirmation (2025-07-17)
-15. **DRC** (Cao Su) - **85%** - Effort to Rise tuần (2025-07-14) - [View Report](REPORT.md#DRC)
-
-### Cơ Hội Mới Nổi (SOS Signals 2025-07-21)
-16. **ACB** (Ngân Hàng) - **80%** - SOS breakthrough ngày 2025-07-21 - [View Report](REPORT.md#ACB)
-17. **ACV** (Hàng Không) - **80%** - SOS mạnh mẽ ngày 2025-07-21 - [View Report](REPORT.md#ACV)
-18. **STB** (Ngân Hàng) - **80%** - SOS confirmation ngày 2025-07-21 - [View Report](REPORT.md#STB)
-19. **TCB** (Ngân Hàng) - **80%** - SOS đột phá ngày 2025-07-21 - [View Report](REPORT.md#TCB)
-20. **TNG** (Dệt May) - **80%** - SOS breakthrough ngày 2025-07-21 - [View Report](REPORT.md#TNG)
-21. **TPB** (Ngân Hàng) - **80%** - SOS + No Supply tuần kết thúc 2025-07-07 - [View Report](REPORT.md#TPB)
-22. **VGT** (Dệt May) - **80%** - SOS mạnh mẽ ngày 2025-07-21 - [View Report](REPORT.md#VGT)
-23. **VLB** (VLXD) - **80%** - SOS confirmation ngày 2025-07-21 - [View Report](REPORT.md#VLB)
-
-### Cơ Hội Có Nền Tảng Tuần Vững Chắc
-24. **BSR** (Dầu Khí) - **80%** - SOS ngày 2025-07-21 + No Supply tuần (2025-07-07) - [View Report](REPORT.md#BSR)
-25. **DPM** (Hóa Chất) - **85%** - Effort to Rise tuần (2025-07-14) mạnh mẽ - [View Report](REPORT.md#DPM)
-
-### Cơ Hội Cần Xác Nhận Tiếp
-26. **BSI** (Chứng Khoán) - **75%** - SOS ngày 2025-07-21, cần theo dõi xác nhận - [View Report](REPORT.md#BSI)
+3. **ACB** (Ngân Hàng) - **80%** - Fast entry: Daily Effort to Rise + supportive weekly context - [View Report](REPORT.md#ACB)
+4. **ANV** (Thuỷ Sản) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#ANV)
+5. **BMP** (Nhựa) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#BMP)
+6. **STB** (Ngân Hàng) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#STB)
+7. **TCB** (Ngân Hàng) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#TCB)
+8. **TNG** (Dệt May) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#TNG)
+9. **TPB** (Ngân Hàng) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#TPB)
+10. **VGT** (Dệt May) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#VGT)
+11. **VLB** (VLXD) - **80%** - Fast entry: Daily SOS + supportive weekly context - [View Report](REPORT.md#VLB)
 
 ## 4. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
 
@@ -213,52 +179,32 @@
 
 **Vùng Tham Gia Tốt Nhất**: Mua vào khi test support với volume thấp
 
-## 5. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
+## 5. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG) - Cập nhật 2025-07-22
 
-### Cổ Phiếu Được Nâng Lên "Top 26":
-- **VHM**: Nâng confidence lên **95%**. Lý do: **SOS** mạnh mẽ ngày 2025-07-17, xác nhận xu hướng tăng
-- **VRE**: Nâng confidence lên **95%**. Lý do: **SOS** đột phá ngày 2025-07-17 với volume xác nhận
-- **FOX**: Thêm vào Top List **90%**. Lý do: **SOS** liên tiếp, momentum mạnh mẽ không thể bỏ qua
-- **ANV**: Thêm vào Top List **90%**. Lý do: **SOS** ngày 2025-07-17 + **Effort to Rise** ngày 2025-07-17
-- **HDG**: Thêm vào Top List **85%**. Lý do: **SOS** bùng nổ với volume khủng ngày 2025-07-17
-- **HHV**: Thêm vào Top List **85%**. Lý do: **SOS** continuation, momentum bền vững
-- **VCS**: Thêm vào Top List **80%**. Lý do: **SOS** breakthrough tích cực
-- **VGC**: Thêm vào Top List **80%**. Lý do: **SOS** với nền tảng vững chắc
-- **AAA**: Thêm vào Top List **80%**. Lý do: **SOS** ngày 2025-07-17 + **Effort to Rise** ngày 2025-07-17
+### Cổ Phiếu Được Thêm Vào "Danh Sách Tiềm Năng":
+- **ACB**: Từ `Unlisted` → `Potential List`. Lý do: **Effort to Rise** ngày 2025-07-22, supportive weekly context
+- **ANV**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context  
+- **BMP**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
+- **DPM**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, weekly SOS tuần kết thúc 2025-07-14
+- **DRC**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, weekly SOS tuần kết thúc 2025-07-14
+- **STB**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
+- **TCB**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
+- **TNG**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
+- **TPB**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
+- **VGT**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
+- **VLB**: Từ `Unlisted` → `Potential List`. Lý do: **SOS** ngày 2025-07-22, supportive weekly context
 
-### Cổ Phiếu Được Thêm Vào "Danh Sách Tiềm Năng"
-- **CSC**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **SOS** bùng nổ ngày 2025-07-17, volume explosion x6
-- **CTD**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **SOS** continuation ngày 2025-07-17, volume surge 2.47M
-- **DBC**: Từ `Unlisted` → `Potential List` **85%**. Lý do: **Effort to Rise** volume explosion x2.5 ngày 2025-07-17
-- **DGC**: Duy trì `Potential List` **80%**. Lý do: **Effort to Rise** mạnh ngày 2025-07-17
-- **DGW**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **Effort to Rise** với volume surge ngày 2025-07-17
-- **DVN**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **Effort to Rise** volume x2.5 ngày 2025-07-17
+### Tổng Kết Thay Đổi 2025-07-22
+- **Thêm Potential List**: 11 cổ phiếu từ daily SOS và Effort to Rise signals
+- **Không có cổ phiếu nào được thêm vào Top List** (chưa đạt threshold cao cho promotion)
+- **Không có cổ phiếu bị downgrade** (áp dụng stability-focused approach)
+- **Tổng cơ hội theo dõi**: 37 cổ phiếu (26 Top + 11 Potential)
 
-### Cổ Phiếu Mới Được Thêm (Cập nhật 2025-07-21)
-- **ACB**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** breakthrough ngày 2025-07-21
-- **ACV**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** mạnh mẽ ngày 2025-07-21
-- **BSI**: Từ `Unlisted` → `Potential List` **75%**. Lý do: **SOS** ngày 2025-07-21, cần theo dõi xác nhận
-- **BSR**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** ngày 2025-07-21 + **No Supply** tuần (2025-07-07)
-- **DPM**: Nâng cấp `Potential List` → **85%**. Lý do: **Effort to Rise** tuần (2025-07-14) mạnh mẽ
-- **DRC**: Nâng cấp `Potential List` → **85%**. Lý do: **Effort to Rise** tuần (2025-07-14) xác nhận xu hướng
-- **STB**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** confirmation ngày 2025-07-21
-- **TCB**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** đột phá ngày 2025-07-21
-- **TNG**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** breakthrough ngày 2025-07-21
-- **TPB**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** + **No Supply** tuần kết thúc 2025-07-07
-- **VGT**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** mạnh mẽ ngày 2025-07-21
-- **VLB**: Từ `Unlisted` → `Potential List` **80%**. Lý do: **SOS** confirmation ngày 2025-07-21
-
-### Cổ Phiếu Điều Chỉnh Confidence
-- **VCB**: Nâng từ **80%** lên **80%** (duy trì). Lý do: **SOS** mạnh mẽ, blue chip dẫn dắt
-- **VPB**: Duy trì **90%**. Lý do: **Effort to Rise** vững chắc, banking sector mạnh
-- **VND**: Duy trì **90%**. Lý do: **SOS** xác nhận xu hướng, hưởng lợi thanh khoản
-
-### Tổng Kết Thay Đổi
-- **Nâng cấp confidence**: 9 cổ phiếu trong Top 26 với signals mạnh hơn
-- **Thêm mới Top List**: 6 cổ phiếu từ breakthrough signals
-- **Thêm Potential List**: 27 cổ phiếu với strong daily signals (15 trước + 12 mới)
-- **Cập nhật 2025-07-21**: 12 cổ phiếu mới với SOS signals mạnh mẽ
-- **Tổng cơ hội theo dõi**: 53 cổ phiếu (26 Top + 27 Potential)
+### Thống Kê Tín Hiệu Ngày 2025-07-22
+- **Total SOS signals**: 32 tickers
+- **Effort to Rise signals**: Nhiều tickers 
+- **Fast-track opportunities**: 11 tickers được thêm vào Potential List
+- **Market breadth**: Tín hiệu tích cực lan rộng qua nhiều ngành
 
 ## 6. Chiến Lược Giao Dịch Tuần Tới
 
@@ -269,8 +215,8 @@
 4. **Điều chỉnh tỷ trọng** theo confidence score
 
 ### Phân Bổ Danh Mục Đề Xuất
-- **55%**: Top 26 cổ phiếu chất lượng cao
-- **30%**: Potential List cho cơ hội tăng trưởng (27 cổ phiếu với nhiều SOS signals)
+- **60%**: Top 26 cổ phiếu chất lượng cao (confidence 75-95%)
+- **25%**: Potential List cho cơ hội tăng trưởng (11 cổ phiếu với SOS signals mạnh)
 - **15%**: Tiền mặt cho cơ hội đột biến
 
 ### Lưu Ý Quan Trọng

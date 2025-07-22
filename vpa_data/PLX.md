@@ -56,7 +56,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** yếu. Việc giá tăng nhẹ với khối lượng tăng cho thấy lực cầu đã có dấu hiệu cải thiện. Việc giá test được mức 37.6 cho thấy tiềm năng hồi phục yếu, nhưng vẫn cần xác nhận thêm.
 - **Ngày 2025-07-21:** PLX giảm từ 37.3 xuống 37.1. Cây nến giảm có biên độ hẹp (spread 0.5) với gap tăng từ 37.55. Khối lượng giao dịch giảm mạnh (1.16 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** yếu của phiên trước, phiên hôm nay thể hiện **No Demand**. Việc giá gap tăng nhưng đóng cửa thấp hơn với khối lượng giảm mạnh cho thấy lực cầu đã yếu đi sau nỗ lực tăng giá. Tín hiệu tiêu cực, cho thấy đà hồi phục không bền vững.
-- **Ngày 2025-07-17:** PLX tăng nhẹ từ 37.1 lên 37.35. Cây nến tăng có biên độ hẹp (spread 0.25) với bóng dưới ngắn. Khối lượng giao dịch giảm (1.35 triệu đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** yếu sau tín hiệu **No Demand** của phiên trước. Việc giá tăng nhẹ với khối lượng giảm cho thấy lực cầu đã có dấu hiệu cải thiện nhưng chưa đủ mạnh. Tín hiệu trung tính, cần quan sát thêm.
+- **Ngày 2025-07-22:** PLX tăng nhẹ từ 37.1 lên 37.15. Cây nến tăng có biên độ hẹp (spread 0.25) với mức cao nhất 37.15. Khối lượng giao dịch tăng (1.51 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** yếu sau **No Demand** của phiên trước. Việc giá tăng rất nhẹ với khối lượng tăng cho thấy lực cầu đã có dấu hiệu cải thiện nhưng vẫn rất yếu. Tình hình vẫn trong trạng thái trung tính, thiếu động lực mạnh từ cả hai phía cung và cầu.
 
 

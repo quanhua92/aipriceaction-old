@@ -36,5 +36,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Anomaly (Bất thường)**. Nỗ lực rất lớn (khối lượng tăng gấp 3 lần) nhưng kết quả không tương xứng (giá chỉ tăng nhẹ). Biên độ rộng với bóng trên dài cho thấy có áp lực bán mạnh ở vùng cao, ngăn cản đà tăng. Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, việc xuất hiện anomaly này cảnh báo rằng lực cung đang gia tăng và có thể cản trở xu hướng phục hồi.
 - **Ngày 2025-07-21:** MSH giảm từ 38.0 xuống 37.4. Cây nến giảm có biên độ vừa phải (spread 0.85) với bóng dưới dài. Khối lượng giao dịch giảm mạnh (486.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** xác nhận cảnh báo từ **Anomaly** của phiên trước. Việc giá giảm sau khi gặp áp lực cung mạnh cho thấy phe bán đã chiếm ưu thế. Tuy nhiên, bóng dưới dài và khối lượng giảm so với phiên trước cho thấy lực bán chưa hoàn toàn áp đảo, có thể chỉ là nhịp điều chỉnh sau đợt tăng trước.
+- **Ngày 2025-07-22:** MSH tiếp tục giảm nhẹ từ 37.4 xuống 37.3. Cây nến giảm có biên độ hẹp với spread 0.5. Khối lượng giao dịch tăng nhẹ (584.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau **Sign of Weakness (SOW)** của phiên trước. Việc giá giảm tiếp tục nhưng với biên độ hẹp hơn và khối lượng tăng nhẹ cho thấy lực bán đang giảm dần. Đây có thể là một bước kiểm tra vùng hỗ trợ để xác định mức độ quan tâm của lực cầu ở vùng thấp hơn.
 
 

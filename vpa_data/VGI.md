@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Rise của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp kiểm tra bình thường. Áp lực bán không mạnh và được hấp thụ tốt, là tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp tục sau khi giai đoạn tích lũy hoàn tất.
 - **Ngày 2025-07-21:** Sau tín hiệu Test for Supply, VGI giảm từ 74.7 xuống 73.7 với đỉnh ngày đạt 74.7. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất. Khối lượng giao dịch giảm (649.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau phiên Test for Supply, áp lực bán đã gia tăng khiến giá giảm xuống mức thấp nhất phiên. Tuy nhiên, việc khối lượng giảm cho thấy áp lực bán chưa thật sự mạnh mẽ. Đây có thể là nhịp điều chỉnh sâu hơn trước khi hồi phục.
+- **Ngày 2025-07-22:** VGI tăng từ 73.7 lên 74.1 với đỉnh ngày đạt 74.5 và mức thấp 72.7. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm (559.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Effort to Fall, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 72.7. Việc giá test xuống 72.7 rồi phục hồi về 74.1 với khối lượng giảm cho thấy lực cầu bắt đầu xuất hiện. Đây là tín hiệu tích cực sau giai đoạn biến động mạnh, cho thấy khả năng ổn định và phục hồi dần.
 
 

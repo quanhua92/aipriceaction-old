@@ -42,4 +42,7 @@
 - **Ngày 2025-07-21:** AAA giảm từ 7.76 xuống 7.68. Cây nến giảm có biên độ rộng (từ 7.68 đến 7.84), mở cửa tại mức đóng cửa phiên trước và có mức thấp nhất tại vùng đóng cửa. Khối lượng giao dịch tăng lên 3.73 triệu đơn vị, cao hơn so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)**. Sau phiên **Test for Supply** của hôm trước, việc giá giảm với biên độ rộng trên khối lượng tăng cho thấy áp lực bán đã thắng thế và phe mua không thể duy trì được mức giá cao. Việc đóng cửa tại vùng thấp nhất phiên càng khẳng định sức mạnh của phe bán. Tín hiệu này cho thấy khả năng xu hướng tăng gần đây đã kết thúc và có thể sẽ có thêm các nhịp điều chỉnh trong các phiên tới.
 
+- **Ngày 2025-07-22:** AAA mở cửa tại mức đóng cửa phiên trước (7.68) và dao động trong biên độ hẹp từ 7.62 đến 7.73, cuối cùng đóng cửa tại 7.68. Cây nến có biên độ hẹp hơn với bóng trên và bóng dưới, thể hiện sự giằng co. Khối lượng giao dịch giảm mạnh xuống 2.31 triệu đơn vị, thấp hơn đáng kể so với phiên **SOW** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau phiên **Sign of Weakness** trước đó. Việc giá không tiếp tục giảm mà dao động quanh mức thấp với khối lượng giảm mạnh cho thấy áp lực bán đã yếu đi đáng kể. Sự thiếu vắng nguồn cung ở vùng giá thấp này là dấu hiệu tích cực, cho thấy phe bán đã hết đạn hoặc không còn quan tâm bán ở mức giá này. Tín hiệu **No Supply** thường là tiền đề cho một nhịp phục hồi, tuy nhiên cần có xác nhận từ lực cầu trong các phiên tới.
+
 

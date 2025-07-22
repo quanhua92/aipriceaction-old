@@ -34,5 +34,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp tục. Sau phiên **No Demand** trước đó, sự tăng giá tiếp tục nhưng trên khối lượng giảm tiếp xác nhận rằng lực cầu vẫn yếu và cú hồi kỹ thuật không bền vững.
 - **Ngày 2025-07-18:** MPC tăng từ 13.8 lên 13.9. Nến tăng có biên độ vừa phải với giá cao nhất đạt 14.4. Khối lượng giao dịch tăng mạnh (354.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau chuỗi phiên **No Demand** và **Effort to Fall**, sự tăng giá với khối lượng tăng vọt cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc giá chạm mức cao 14.4 trước khi đóng cửa ở 13.9 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu đủ mạnh để phá vỡ xu hướng giảm trước đó. Tín hiệu tích cực cho khả năng phục hồi.
+- **Ngày 2025-07-21:** MPC giảm từ 13.9 xuống 13.8. Nến giảm có biên độ hẹp với giá cao nhất đạt 14.1 và thấp nhất 13.7. Khối lượng giao dịch giảm mạnh (90.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự giảm giá nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Việc khối lượng giảm đáng kể trong phiên điều chỉnh là dấu hiệu tích cực, cho thấy lực bán không áp đảo và xu hướng phục hồi có thể tiếp diễn.
+- **Ngày 2025-07-22:** MPC tăng mạnh từ 13.8 lên 14.3. Nến tăng có biên độ rộng với giá cao nhất đạt 14.5 và thấp nhất 13.8. Khối lượng giao dịch tăng vọt (631.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** tích cực của ngày trước, sự tăng giá mạnh với khối lượng tăng vọt cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá chạm mức cao 14.5 trước khi đóng cửa ở 14.3 thể hiện có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh duy trì mức tăng đáng kể. Tín hiệu rất tích cực cho xu hướng phục hồi mạnh mẽ.
 
 

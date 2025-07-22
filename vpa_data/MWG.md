@@ -56,5 +56,7 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay thể hiện **Test for Supply** mạnh. Việc giá tăng rất nhẹ (chỉ 0.2) nhưng có biên độ rộng và khối lượng tăng cao cho thấy có sự giằng co mạnh mẽ giữa cung và cầu. Mức cao nhất 72.0 cho thấy lực cầu đã test vùng kháng cự nhưng bị đẩy lùi, tín hiệu trung tính cần quan sát thêm.
 - **Ngày 2025-07-21:** MWG giảm từ 70.7 xuống 70.0. Cây nến giảm có biên độ vừa phải (spread 1.8) với bóng dưới dài. Khối lượng giao dịch giảm nhẹ (7.6 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** mạnh, hôm nay thể hiện **Test for Supply** không thành công. Việc giá giảm từ vùng cao với khối lượng vẫn ở mức tương đối cao cho thấy áp lực bán đã gia tăng sau khi test vùng kháng cự 72.0. Tuy nhiên, bóng dưới dài thể hiện có lực đỡ ở vùng thấp, cho thấy chưa phải tín hiệu yếu hoàn toàn.
+- **Ngày 2025-07-22:** MWG tăng nhẹ từ 70.0 lên 70.4. Cây nến tăng có biên độ vừa phải (spread 1.4) với mức cao nhất 70.4. Khối lượng giao dịch tăng nhẹ (7.9 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau **Test for Supply** không thành công của phiên trước. Việc giá phục hồi nhẹ từ vùng thấp với khối lượng tăng cho thấy có lực cầu xuất hiện để đỡ giá. Bóng dưới dài của phiên trước và sự phục hồi hôm nay cho thấy vùng 70.0 có thể là vùng hỗ trợ quan trọng.
 
 

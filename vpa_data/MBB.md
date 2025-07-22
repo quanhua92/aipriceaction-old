@@ -56,5 +56,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **No Demand** trước đó, sự tăng giá mạnh với khối lượng tăng vọt cho thấy lực cầu đã quay trở lại rất mạnh mẽ. Việc giá chạm mức cao 27.25 và đóng cửa gần đó với khối lượng khổng lồ cho thấy sự quan tâm tích cực từ nhà đầu tư. Tín hiệu rất tích cực cho xu hướng tăng mạnh.
 - **Ngày 2025-07-21:** MBB giảm từ 27.2 xuống 26.95. Nến giảm có biên độ rộng với giá cao nhất đạt 27.65 và mở cửa tại 27.3. Khối lượng giao dịch giảm (17.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự giảm giá trên khối lượng giảm đáng kể cho thấy áp lực bán chốt lời đã xuất hiện nhưng không áp đảo. Việc giá mở cửa gap up và chạm mức cao 27.65 trước khi đóng cửa thấp hơn thể hiện có lực bán ở vùng giá cao, nhưng khối lượng giảm là dấu hiệu tích cực. Đây là một nhịp điều chỉnh bình thường sau đợt tăng mạnh.
+- **Ngày 2025-07-22:** MBB phục hồi từ 26.95 lên 27.15. Nến tăng có biên độ vừa phải với giá cao nhất đạt 27.15 và thấp nhất 26.65. Khối lượng giao dịch giảm (15.46 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Test for Supply** tích cực của ngày trước, sự phục hồi giá với khối lượng duy trì cho thấy lực cầu đã quay trở lại. Việc có test xuống 26.65 ở đầu phiên nhưng phục hồi và đóng cửa tại mức cao nhất 27.15 thể hiện sức mạnh của lực đỡ và khả năng vượt qua giai đoạn kiểm tra cung. Tín hiệu tích cực cho xu hướng phục hồi tiếp tục.
 
 

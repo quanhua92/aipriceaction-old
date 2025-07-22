@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Sign of Strength** mạnh mẽ. Việc giá giảm trên khối lượng giảm mạnh cho thấy áp lực bán không lớn và chỉ là phiên chốt lời kỹ thuật. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra không đáng kể.
 - **Ngày 2025-07-21:** CTD giảm từ 86.1 xuống 84.5. Cây nến giảm có biên độ rộng với mức low 84.5 và high 86.8. Khối lượng giao dịch tăng (1.34 triệu đơn vị), tăng 15% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện. Sau phiên **Test for Supply** của phiên trước, áp lực bán đã tăng lên với khối lượng gia tăng kèm theo giá giảm mạnh. Điều này cho thấy lực bán đã quay trở lại và có thể phủ nhận xu hướng tăng sau tín hiệu **Sign of Strength** trước đó. Cần theo dõi để xác định liệu đây có phải là sự đảo chiều hay chỉ là điều chỉnh sâu hơn.
+- **Ngày 2025-07-22:** CTD tăng từ 84.5 lên 85.2. Cây nến tăng có biên độ hẹp với mức dao động 84.0-85.5. Khối lượng giao dịch giảm mạnh về 743.8k đơn vị, giảm 45% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau tín hiệu **Effort to Fall** của phiên trước, mặc dù giá phục hồi nhẹ nhưng khối lượng sụt giảm đáng kể cho thấy thiếu lực cầu thực sự. Việc giá tăng trên nền khối lượng giảm mạnh thể hiện sự thiếu bền vững trong phục hồi. Áp lực bán từ phiên trước vẫn có tác động và thị trường chưa có đủ lực cầu để đảo ngược xu hướng.
 
 

@@ -55,5 +55,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau hai phiên **No Supply**. Việc giá giảm nhẹ trên khối lượng tăng cho thấy áp lực bán đã quay trở lại nhưng không mạnh. Đây là phiên test tự nhiên sau giai đoạn **No Supply**, cần theo dõi để xác định liệu lực bán có đủ mạnh để chấm dứt xu hướng phục hồi.
 - **Ngày 2025-07-21:** DRC đi ngang, đóng cửa ở mức 22.65. Cây nến có biên độ hẹp với mức high 22.8. Khối lượng giao dịch tăng nhẹ (1.22 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện sau phiên **Test for Supply**. Việc giá giữ vững và không giảm thêm trên khối lượng tương đối ổn định cho thấy áp lực bán đã được hấp thụ hiệu quả. Đây là dấu hiệu tích cực, xác nhận phiên **Test for Supply** thành công và tạo điều kiện cho xu hướng phục hồi tiếp diễn.
+- **Ngày 2025-07-22:** DRC đi ngang, đóng cửa ở mức 22.65. Cây nến có biên độ hẹp với mức dao động 22.45-22.7. Khối lượng giao dịch tăng mạnh về 1.61 triệu đơn vị, tăng 30% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục xác nhẫn. Sau tín hiệu **No Supply** của phiên trước, việc giá giữ vững hoàn toàn trên nền khối lượng tăng mạnh cho thấy áp lực bán đã cạn kiệt hoàn toàn. Khối lượng tăng mà giá không giảm là dấu hiệu cực kỳ tích cực, cho thấy sự hấp thụ mạnh mẽ và chuẩn bị cho xu hướng tăng.
 
 

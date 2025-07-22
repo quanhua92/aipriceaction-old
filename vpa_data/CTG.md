@@ -56,5 +56,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** xác nhận. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, việc giá tiếp tục tăng với khối lượng gia tăng và có test vùng giá cao (45.55) cho thấy lực cầu đang mạnh mẽ. Tín hiệu này củng cố mạnh mẽ cho xu hướng tăng trở lại và tiềm năng phá vỡ vùng kháng cự.
 - **Ngày 2025-07-21:** CTG tăng từ 45.05 lên 45.2. Cây nến tăng có biên độ rộng với mức high 45.75 và low 44.7. Khối lượng giao dịch giảm (6.55 triệu đơn vị), giảm 21% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Sign of Strength** mạnh mẽ. Giá test lên vùng cao 45.75 nhưng đóng cửa thấp hơn, khối lượng giảm cho thấy áp lực bán chốt lời ở vùng cao. Tuy nhiên, việc vẫn duy trì được mức giá trên 45.0 với khối lượng giảm là dấu hiệu tích cực, cho thấy lực bán không mạnh và xu hướng tăng vẫn được duy trì.
+- **Ngày 2025-07-22:** CTG tăng mạnh từ 45.2 lên 45.6. Cây nến tăng có biên độ hẹp và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm về 4.81 triệu đơn vị, giảm 27% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau **Test for Supply** của phiên trước, việc giá tăng vững chắc với khối lượng giảm cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận rằng test cung cấp đã thành công và xu hướng tăng được củng cố mạnh mẽ. Tín hiệu tích cực này cho thấy tiềm năng tiếp tục tăng giá trong các phiên tới.
 
 

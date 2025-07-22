@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Effort to Fall** trước đó, sự tăng giá trên khối lượng gia tăng cho thấy lực cầu đã quay trở lại. Việc giá chạm mức cao 29.87 trước khi đóng cửa ở 29.55 thể hiện có áp lực bán ở vùng giá cao, nhưng lực cầu vẫn đủ mạnh để duy trì mức tăng nhẹ. Tín hiệu tích cực cho khả năng phục hồi ngắn hạn.
 - **Ngày 2025-07-21:** HVN tăng vọt từ 29.55 lên 31.6. Phiên tăng trần với giá mở, cao, thấp và đóng cửa đều ở mức 31.6. Khối lượng giao dịch giảm (758.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực mạnh. Sau tín hiệu **Effort to Rise** tích cực của ngày trước, sự bứt phá mạnh mẽ với gap up lớn và tăng trần cho thấy lực cầu đã trở thành áp đảo. Mặc dù khối lượng giảm do giới hạn giao dịch tại giá trần, nhưng động thái gap up mạnh mẽ này báo hiệu sự thay đổi căn bản về tâm lý nhà đầu tư và khả năng cao sẽ tiếp tục xu hướng tăng mạnh.
+- **Ngày 2025-07-22:** HVN tiếp tục gap up mạnh từ 31.6 lên vùng giá 33.7, sau đó điều chỉnh và đóng cửa ở 33.1. Nến có biên độ rộng với giá thấp nhất 32.5. Khối lượng giao dịch tăng vọt (3.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận **Sign of Strength** của phiên trước. Việc gap up mạnh tiếp tục với khối lượng bùng nổ cho thấy lực cầu đang rất mạnh. Mặc dù có điều chỉnh từ đỉnh 33.7 xuống 33.1 nhưng vẫn duy trì được mức tăng đáng kể, thể hiện sự kiểm soát của phe mua. Xu hướng tăng được củng cố mạnh mẽ.
 
 

@@ -36,5 +36,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** tiếp diễn sau phiên **SOS**. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không lớn và chỉ là phiên test tự nhiên. Đây là dấu hiệu tích cực vì lực bán tỏ ra yếu ớt sau đợt tăng mạnh, hỗ trợ cho khả năng tiếp tục xu hướng tăng khi có xác nhận từ lực cầu.
 - **Ngày 2025-07-21:** FIT đi ngang, đóng cửa ở mức 4.82. Cây nến có biên độ hẹp với mức high 4.99. Khối lượng giao dịch giảm (1.96 triệu đơn vị), giảm 31% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** tiếp tục với đặc điểm tích cực. Sau hai phiên **Test for Supply** liên tiếp, việc giá giữ vững với khối lượng giảm cho thấy áp lực bán đã được hấp thụ hiệu quả. Đây là dấu hiệu tích cực, xác nhận các phiên test cung cấp thành công và tạo điều kiện cho xu hướng tăng tiếp diễn sau phiên **SOS** mạnh mẽ.
+- **Ngày 2025-07-22:** FIT tăng nhẹ từ 4.82 lên 4.87. Cây nến tăng có biên độ hẹp với mức dao động 4.76-4.92. Khối lượng giao dịch giảm về 1.70 triệu đơn vị, giảm 14% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau chuỗi các phiên **Test for Supply** thành công, việc giá bắt đầu tăng nhẹ trên nền khối lượng giảm cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận quá trình test cung cấp đã hoàn tất và thị trường sẵn sàng tiếp tục xu hướng tăng sau giai đoạn **SOS**.
 
 

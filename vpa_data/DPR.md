@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, việc giá tăng mạnh với khối lượng bùng nổ cho thấy lực cầu đang cực kỳ mạnh mẽ. Tín hiệu này xác nhận xu hướng tăng mạnh và tiềm năng tiếp tục đà phục hồi giá đáng kể.
 - **Ngày 2025-07-21:** DPR tăng mạnh từ 40.9 lên 42.3. Cây nến tăng có biên độ rộng với mức high 42.4. Khối lượng giao dịch tăng (2.01 triệu đơn vị), tăng 13% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** tiếp tục diễn ra mạnh mẽ. Sau tín hiệu **Sign of Strength** của phiên trước, lực cầu tiếp tục thể hiện sức mạnh với việc đẩy giá lên mức cao mới kèm theo khối lượng duy trì ở mức cao. Đây là xác nhận mạnh mẽ cho xu hướng tăng và tiềm năng tiếp tục phá vỡ các vùng kháng cự.
+- **Ngày 2025-07-22:** DPR giảm nhẹ từ 42.3 xuống 42.15. Cây nến giảm có biên độ rộng với mức high 42.7 và low 41.7. Khối lượng giao dịch giảm mạnh về 809k đơn vị, giảm 61% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau chuỗi tín hiệu **Sign of Strength** mạnh mẽ. Giá test lên vùng cao 42.7 nhưng bị đẩy xuống, khối lượng giảm mạnh cho thấy áp lực bán chốt lời không lớn. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra yếu ớt.
 
 

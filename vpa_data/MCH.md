@@ -50,5 +50,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** mạnh mẽ. Sau phiên **No Demand** trước đó, sự giảm giá mạnh với khối lượng gia tăng xác nhận rằng cú hồi kỹ thuật đã kết thúc và áp lực bán đã quay trở lại mạnh mẽ, tiếp tục củng cố xu hướng giảm.
 - **Ngày 2025-07-18:** MCH giảm từ 118.9 xuống 118.0. Nến giảm có biên độ rộng với giá cao nhất đạt 121.0. Khối lượng giao dịch tăng mạnh (656.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Sau phiên **Effort to Fall** mạnh mẽ trước đó, sự giảm giá tiếp tục với khối lượng tăng vọt xác nhận rằng áp lực bán vẫn rất mạnh. Việc giá chạm mức cao 121.0 trước khi đóng cửa thấp hơn nhiều cho thấy có áp lực bán mạnh ngay cả khi giá tăng. Xu hướng giảm có khả năng tiếp tục trong ngắn hạn.
+- **Ngày 2025-07-21:** MCH tiếp tục giảm từ 118.0 xuống 115.8. Nến giảm có biên độ rộng với giá cao nhất đạt 118.9 và thấp nhất 115.0. Khối lượng giao dịch giảm (545.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Sau chuỗi phiên **Effort to Fall** mạnh mẽ trước đó, sự giảm giá mạnh tiếp tục cho thấy áp lực bán vẫn đang chiếm ưu thế. Việc giá có test xuống 115.0 thể hiện lực bán mạnh, mặc dù khối lượng giảm nhưng vẫn ở mức cao. Xu hướng giảm tiếp tục được xác nhận.
+- **Ngày 2025-07-22:** MCH tiếp tục giảm từ 115.8 xuống 115.0. Nến giảm có biên độ hẹp với giá cao nhất đạt 116.0 và thấp nhất 114.3. Khối lượng giao dịch giảm mạnh (335.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau hai phiên **Effort to Fall** liên tiếp, sự giảm giá nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù giá vẫn giảm nhẹ và có test xuống 114.3 nhưng khối lượng thấp thể hiện không có lực bán mạnh tiếp tục. Đây có thể là dấu hiệu kết thúc giai đoạn bán tháo và chuẩn bị cho sự ổn định giá.
 
 

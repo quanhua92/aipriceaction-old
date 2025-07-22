@@ -60,4 +60,7 @@
 - **Ngày 2025-07-21:** ANV tăng mạnh từ 22.95 lên 23.3. Cây nến tăng có biên độ rộng với mức cao 23.85 và mức thấp 22.8, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 5.48 triệu đơn vị, gần gấp đôi so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)**, xác nhận rằng phiên **Test for Supply** trước đó đã thành công. Việc giá tăng mạnh, test lên mức cao mới tại 23.85 trên khối lượng gấp đôi cho thấy lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn consolidate ngắn. Tín hiệu này xác nhận rằng xu hướng tăng được tái khẳng định và ANV có tiềm năng tiếp tục hướng tới các vùng kháng cự cao hơn.
 
+- **Ngày 2025-07-22:** ANV tăng mạnh từ 23.9 lên 23.85. Cây nến tăng có biên độ rộng (từ 23.25 đến 24.9) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 8.50 triệu đơn vị, cao hơn đáng kể so với phiên **SOS** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, tiếp tục củng cố cho tín hiệu **Sign of Strength** của phiên trước. Việc giá mở cửa cao hơn đáng kể (23.9 so với 23.3) và tiếp tục tăng mạnh, chạm mức cao mới tại 24.9 trên khối lượng bùng nổ cho thấy lực cầu đang rất mạnh mẽ và quyết đoán. Tín hiệu này xác nhận rằng xu hướng tăng đang được tăng tốc và ANV có tiềm năng lớn để đạt những mức giá cao hơn nữa trong các phiên tới.
+
 

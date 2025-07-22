@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Effort to Rise**. Việc giá giảm trên khối lượng giảm cho thấy áp lực bán không lớn và chỉ là phiên test tự nhiên. Đây là dấu hiệu tích cực vì lực bán tỏ ra yếu ớt, tiếp tục củng cố tín hiệu **No Supply** trước đó và hỗ trợ cho xu hướng tăng tiếp diễn.
 - **Ngày 2025-07-21:** DHG giảm từ 101.3 xuống 101.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (9.1k đơn vị), giảm 37% so với phiên trước và vẫn ở mức cạn kiệt.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục diễn ra. Sau phiên **Test for Supply** tích cực trước đó, việc giá giảm nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không tồn tại. Điều này củng cố mạnh mẽ cho tín hiệu **No Supply** và tạo điều kiện rất thuận lợi cho xu hướng tăng khi có lực cầu xuất hiện.
+- **Ngày 2025-07-22:** DHG tăng mạnh từ 101.0 lên 102.5. Cây nến tăng có biên độ rộng với mức high 104.0 và mở cửa 102.5. Khối lượng giao dịch bùng nổ (39.2k đơn vị), tăng gấp 4.1 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Sau chuỗi các phiên **No Supply** liên tiếp, lực cầu đã xuất hiện với khối lượng bùng nổ kèm theo giá tăng mạnh và thậm chí test lên mức 104.0. Đây là xác nhận mạnh mẽ cho việc xu hướng tăng đã bắt đầu sau giai đoạn tích lũy.
 
 

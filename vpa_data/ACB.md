@@ -60,4 +60,7 @@
 - **Ngày 2025-07-21:** ACB tiếp tục tăng mạnh từ 22.7 lên 22.85. Cây nến tăng có biên độ rộng (từ 22.65 đến 23.1) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ở mức cao 17.12 triệu cổ phiếu, chỉ giảm nhẹ so với phiên **SOS** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận và tiếp tục củng cố cho tín hiệu **Sign of Strength** của phiên trước. Việc giá tiếp tục tăng với biên độ rộng, chạm mức cao mới tại 23.1 trên khối lượng duy trì cao cho thấy sức mạnh của phe mua là bền vững và quyết đoán. Tín hiệu này xác nhận rằng xu hướng tăng mạnh đang được tiếp diễn và có tiềm năng kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
 
+- **Ngày 2025-07-22:** ACB tiếp tục tăng từ 22.85 lên 22.9. Cây nến tăng có biên độ hẹp hơn (từ 22.6 đến 22.9) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch giảm xuống 12.02 triệu cổ phiếu, thấp hơn đáng kể so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau chuỗi tăng mạnh liên tiếp. Việc giá tiếp tục tăng và đóng cửa tại đỉnh phiên mặc dù khối lượng giảm cho thấy áp lực bán đã giảm thiểu ở vùng cao. Sự thiếu vắng nguồn cung giúp phe mua dễ dàng duy trì và đẩy giá cao hơn mà không cần nỗ lực lớn. Tín hiệu **No Supply** này tiếp tục củng cố xu hướng tăng và cho thấy tiềm năng giá sẽ tiếp tục hướng lên các mức kháng cự cao hơn trong các phiên tới.
+
 

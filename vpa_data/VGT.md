@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhẫn lực cầu đã củng cố mạnh mẽ. Việc giá tiếp tục tăng với khối lượng tăng cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá sau thời gian dài thiếu quan tâm.
 - **Ngày 2025-07-21:** Sau tín hiệu SOS tích cực, VGT tăng từ 12.4 lên 12.4 với đỉnh ngày đạt 12.6. Nến doji có biên độ vừa phải với đuôi dài phía trên. Khối lượng giao dịch giảm (1.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 12.6. Việc giá không thể duy trì ở mức cao với khối lượng giảm nhẹ cho thấy vẫn còn áp lực bán chốt lời. Tuy nhiên, đây là nhịp kiểm tra bình thường sau SOS.
+- **Ngày 2025-07-22:** VGT giữ nguyên giá đóng cửa 12.4 với biên độ hẹp dao động từ 12.2 đến 12.5. Nến dựng có biên độ hẹp. Khối lượng giao dịch giảm (1.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **No Supply** - Tiếp nối Test for Supply của phiên trước, việc giá duy trì ổn định với khối lượng tiếp tục giảm cho thấy áp lực bán đã cạn kiệt. Đây là tín hiệu tích cực sau giai đoạn SOS, thị trường đang tạo nền tảng vững chắc tại vùng 12.4 để chuẩn bị cho đợt tăng tiếp theo.
 
 

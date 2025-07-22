@@ -52,5 +52,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **No Demand** trước đó, sự giảm giá với khối lượng gia tăng cho thấy áp lực bán đã xuất hiện. Đây là một nhịp kiểm tra tích cực, xem lực cầu có trở lại để hỗ trợ giá hay không.
 - **Ngày 2025-07-18:** LPB tăng mạnh từ 33.65 lên 34.6. Nến tăng có biên độ rộng với giá cao nhất đạt 34.85. Khối lượng giao dịch tăng (4.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** trước đó, sự tăng giá mạnh với khối lượng gia tăng cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá chạm mức cao 34.85 trước khi đóng cửa ở 34.6 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh duy trì xu hướng tăng mạnh. Tín hiệu rất tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-21:** LPB tiếp tục tăng từ 34.6 lên 35.5. Nến tăng có biên độ rộng với giá cao nhất đạt 36.0 và mở cửa tại 35.0. Khối lượng giao dịch giảm nhẹ (4.43 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp diễn. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự tăng giá tiếp tục với gap up cho thấy lực cầu vẫn mạnh. Việc giá chạm mức cao 36.0 trước khi đóng cửa ở 35.5 thể hiện có áp lực chốt lời ở vùng giá cao. Mặc dù khối lượng giảm nhẹ nhưng xu hướng tăng vẫn được duy trì mạnh mẽ.
+- **Ngày 2025-07-22:** LPB tăng từ 35.5 lên 35.9. Nến tăng có biên độ hẹp với giá cao nhất cũng là 35.9 và thấp nhất 35.05. Khối lượng giao dịch giảm mạnh (2.67 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau hai phiên **Effort to Rise** mạnh mẽ liên tiếp, sự tăng giá nhẹ trên khối lượng giảm mạnh cho thấy lực cầu đang suy yếu. Mặc dù giá vẫn tăng và đóng cửa tại mức cao nhất phiên nhưng khối lượng thấp thể hiện sự thiếu hụt động lực tiếp tục. Đây là tín hiệu cảnh báo cho thấy đà tăng có thể tạm dừng để consolidation.
 
 

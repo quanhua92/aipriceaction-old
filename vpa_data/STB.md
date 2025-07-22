@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bùng nổ mạnh mẽ của lực cầu. Khối lượng giao dịch tăng gần gấp 3 lần kèm theo việc giá bứt phá mạnh mẽ cho thấy smart money đang tích cực mua vào, tạo nên momentum tăng giá mạnh sau giai đoạn tích lũy.
 - **Ngày 2025-07-21:** Sau tín hiệu SOS mạnh mẽ, STB giảm từ 50.7 xuống 49.5 với đỉnh ngày đạt 50.8. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (10.52 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bùng nổ SOS của phiên trước, thị trường đang kiểm tra áp lực chốt lời tại vùng đỉnh 50.8. Việc giá giảm với khối lượng giảm đáng kể (từ 26.07M xuống 10.52M) cho thấy áp lực bán không mạnh, đây là một nhịp điều chỉnh lành mạnh sau đợt tăng mạnh.
+- **Ngày 2025-07-22:** STB giữ nguyên giá đóng cửa 49.5 với mở cửa thấp hơn 49.2. Nến có biên độ hẹp dao động từ 48.7 đến 49.5. Khối lượng giao dịch tiếp tục giảm (9.54 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **No Supply** - Tiếp nối Test for Supply của phiên trước, việc giá đóng cửa không thay đổi với khối lượng tiếp tục giảm cho thấy áp lực bán đã cạn kiệt. Đây là tín hiệu tích cực sau đợt SOS, thị trường đang hình thành nền tảng vững chắc tại vùng 49.5 để chuẩn bị cho đợt tăng tiếp theo.
 
 

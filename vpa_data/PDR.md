@@ -38,5 +38,7 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay thể hiện **Test for Supply**. Việc giá test lên 21.9 nhưng bị đẩy lùi với khối lượng giảm cho thấy có áp lực bán chốt lời ở vùng cao nhưng không quá mạnh. Đây là nhịp điều chỉnh bình thường sau SOS, tín hiệu tích cực.
 - **Ngày 2025-07-21:** PDR giảm từ 20.55 xuống 20.0. Cây nến giảm có biên độ vừa phải (spread 0.9) với bóng dưới dài. Khối lượng giao dịch giảm (21.58 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** của phiên trước, phiên hôm nay thể hiện **Test for Supply** không thành công. Việc giá giảm về vùng 20.0 với khối lượng vẫn ở mức cao cho thấy áp lực bán đã gia tăng sau đợt tăng mạnh. Tuy nhiên, bóng dưới dài thể hiện có lực đỡ ở vùng thấp, cho thấy chưa phải tín hiệu yếu hoàn toàn.
+- **Ngày 2025-07-22:** PDR tăng từ 20.0 lên 20.4. Cây nến tăng có biên độ rộng (spread 0.7) với mức cao nhất 20.45. Khối lượng giao dịch giảm (19.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau **Test for Supply** không thành công của phiên trước. Việc giá phục hồi từ vùng thấp với khối lượng vẫn ở mức cao cho thấy bóng dưới dài của phiên trước đã thể hiện đúng lực cầu hỗ trợ. Tín hiệu tích cực cho thấy vùng 20.0 có thể là vùng hỗ trợ quan trọng.
 
 

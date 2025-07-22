@@ -64,4 +64,7 @@
 - **Ngày 2025-07-21:** BID giảm từ 38.45 xuống 38.1. Cây nến giảm có biên độ hẹp với mức thấp 38.05, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm xuống 6.19 triệu đơn vị so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** nhẹ. Sau phiên **Test for Supply** giằng co, việc giá giảm và đóng cửa gần mức thấp nhất cho thấy áp lực bán đã thắng thế. Mặc dù khối lượng giảm nhưng việc giá không thể duy trì được mức tăng của các phiên trước vẫn cho thấy lực cầu đã yếu đi. Tín hiệu này cảnh báo rằng xu hướng tăng gần đây có thể cần thời gian để consolidate.
 
+- **Ngày 2025-07-22:** BID tăng mạnh từ 38.05 lên 38.9. Cây nến tăng có biên độ rộng (từ 38.0 đến 39.3) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 10.82 triệu đơn vị, cao hơn đáng kể so với phiên **SOW** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hoàn toàn phủ nhận tín hiệu **Sign of Weakness** của phiên trước. Việc giá mở cửa gần mức thấp (38.05) nhưng sau đó phục hồi quyết đoán, chạm mức cao 39.3 và đóng cửa mạnh tại 38.9 trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách mạnh mẽ. Tín hiệu này xác nhận rằng giai đoạn yếu đi chỉ là tạm thời và xu hướng tăng đã được tái khẳng định, với tiềm năng tiếp tục hướng tới các mức kháng cự cao hơn.
+
 

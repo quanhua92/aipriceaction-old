@@ -34,7 +34,9 @@
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand tích cực, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 21.2. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc vượt qua kháng cự trong các phiên tới.
 - **Ngày 2025-07-18:** TNG tăng từ 20.7 lên 21.1 với đỉnh ngày đạt 21.2. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.37 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận lực cầu đã củng cố thành công. Việc giá duy trì ở mức cao và khối lượng tiếp tục tăng cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá.
-- **Ngày 2025-07-21:** Sau tín hiệu SOS tích cực, TNG giảm từ 21.2 xuống 20.8 với đỉnh ngày đạt 21.3. Nến giảm có biên độ rộng. Khối lượng giao dịch cực thấp (200 đơn vị).
-    - **Phân tích VPA/Wyckoff:** **No Supply** - Mặc dù giá giảm từ mức cao nhưng với khối lượng cực thấp cho thấy không có áp lực bán thật sự. Việc thiếu khối lượng trong phiên giảm giá này có thể do dữ liệu chưa đầy đủ hoặc thị trường đang trong tình trạng chờ đợi. Cần theo dõi thêm để xác nhận xu hướng.
+- **Ngày 2025-07-21:** Sau tín hiệu SOS tích cực, TNG giảm từ 21.2 xuống 20.8 với đỉnh ngày đạt 21.3. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (1.47 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS của phiên trước, thị trường đang kiểm tra áp lực chốt lời tại vùng kháng cự 21.3. Việc giá giảm với khối lượng giảm từ 2.37M xuống 1.47M cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh.
+- **Ngày 2025-07-22:** TNG tăng từ 20.8 lên 21.1 với đỉnh ngày đạt 21.2. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau Test for Supply tích cực của phiên trước, lực cầu đã quay trở lại để tiếp tục thử nghiệm vùng kháng cự 21.2. Việc khối lượng tăng từ 1.47M lên 2.07M kèm theo giá đóng cửa mạnh cho thấy smart money vẫn đang tích cực tham gia, tiếp tục củng cố xu hướng tăng sau SOS.
 
 

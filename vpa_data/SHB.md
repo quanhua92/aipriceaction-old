@@ -36,5 +36,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau gần phục hồi. Áp lực bán chốt lời xuất hiện với khối lượng tăng, cho thấy thị trường đang kiểm tra mức độ quan tâm của phe mua. Đây là nhịp điều chỉnh bình thường trong quá trình phục hồi.
 - **Ngày 2025-07-21:** SHB tăng mạnh từ 14.3 lên 14.6. Cây nến tăng có biên độ rộng với mức cao nhất 14.75. Khối lượng giao dịch tăng vọt (101.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng khổng lồ, xác nhận sự kết thúc giai đoạn điều chỉnh. Tín hiệu tích cực cho xu hướng phục hồi mạnh mẽ.
+- **Ngày 2025-07-22:** SHB đi ngang, đóng cửa ở mức 14.6. Cây nến có biên độ hẹp với mức cao nhất 14.65. Khối lượng giao dịch giảm (63.416.800 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** tích cực. Việc giá duy trì ở mức cao với khối lượng giảm cho thấy áp lực bán đã được hấp thụ hoàn toàn và thị trường đang tích lũy ở vùng giá 14.6. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
 
 

@@ -36,5 +36,7 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bùng nổ mạnh mẽ của lực cầu. Khối lượng giao dịch tăng gấp 5 lần kèm theo việc giá bứt phá mạnh mẽ cho thấy smart money đang tích cực tích lũy, tạo nên momentum tăng giá cực mạnh sau giai đoạn điều chỉnh.
 - **Ngày 2025-07-21:** Sau tín hiệu SOS cực mạnh, VLB giảm từ 49.1 xuống 48.6 với đỉnh ngày đạt 49.5. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm mạnh (130.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bùng nổ SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng đỉnh 49.5. Việc giá giảm nhẹ với khối lượng giảm đáng kể (từ 497.8k xuống 130.7k) cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh.
+- **Ngày 2025-07-22:** VLB giảm từ 49.0 xuống 48.1 với mức thấp nhất 47.6. Nến giảm có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm tiếp (81.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Tiếp nối Test for Supply của phiên trước, việc giá tiếp tục giảm nhưng khối lượng duy trì thấp (từ 130.7k xuống 81.1k) cho thấy áp lực bán chốt lời không mạnh. Việc test mức 47.6 và hồi phục về 48.1 xác nhận đây vẫn là nhịp điều chỉnh lành mạnh trong xu hướng tăng mạnh mẽ sau SOS.
 
 

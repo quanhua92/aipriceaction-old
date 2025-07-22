@@ -54,5 +54,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau các phiên **Test for Supply** tích cực, sự tăng giá mạnh với khối lượng gia tăng cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá chạm mức cao 29.45 trước khi đóng cửa ở 28.95 cho thấy có áp lực bán ở vùng giá cao nhưng lực cầu vẫn đủ mạnh duy trì xu hướng tăng mạnh.
 - **Ngày 2025-07-18:** KDH tăng nhẹ từ 28.95 lên 29.0. Nến tăng có biên độ vừa phải với giá cao nhất đạt 29.7. Khối lượng giao dịch giảm (5.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** mạnh mẽ trước đó, sự tăng giá nhẹ trên khối lượng giảm cho thấy lực cầu đang suy yếu. Việc giá chạm mức cao 29.7 trước khi đóng cửa thấp hơn thể hiện có áp lực bán ở vùng giá cao. Mặc dù giá vẫn tăng nhưng động lực tăng trưởng đã giảm, cần chờ đợi xác nhận từ khối lượng lớn hơn.
+- **Ngày 2025-07-21:** KDH giảm mạnh từ 29.0 xuống 28.25. Nến giảm có biên độ rộng với giá thấp nhất đạt 28.1. Khối lượng giao dịch tăng mạnh (5.55 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Sau phiên **No Demand** của ngày trước, sự giảm giá mạnh trên khối lượng tăng mạnh cho thấy áp lực bán đã quay trở lại và chiếm ưu thế. Việc giá có test xuống 28.1 và đóng cửa ở 28.25 thể hiện lực bán mạnh, phủ nhận các tín hiệu tích cực trước đó và cảnh báo xu hướng điều chỉnh sâu hơn.
+- **Ngày 2025-07-22:** KDH phục hồi nhẹ từ 28.25 lên 28.4. Nến tăng có biên độ hẹp với giá cao nhất đạt 28.45 và thấp nhất 28.05. Khối lượng giao dịch giảm (3.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau phiên **Effort to Fall** mạnh mẽ của ngày trước, sự phục hồi nhẹ với khối lượng giảm cho thấy lực cầu có phản ứng nhưng chưa đủ mạnh. Việc có test xuống gần 28.05 nhưng đóng cửa cao hơn ở 28.4 thể hiện có lực đỡ tại vùng hỗ trợ. Đây là giai đoạn kiểm tra quan trọng để xác định khả năng phục hồi của cổ phiếu.
 
 

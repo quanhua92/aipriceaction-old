@@ -54,7 +54,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** cực kỳ mạnh mẽ. Giá tiếp tục tăng mạnh đến mức cao mới trên khối lượng giảm cho thấy áp lực bán hoàn toàn biến mất. Tín hiệu rất tích cực, xác nhận xu hướng tăng mạnh vẫn tiếp tục.
 - **Ngày 2025-07-18:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ, hôm nay SHS tăng từ 16.5 lên 16.8. Cây nến tăng có biên độ rộng với mức cao nhất 17.5. Khối lượng giao dịch giảm (39.05 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp tục cực kỳ mạnh mẽ. Giá tiếp tục tăng mạnh đến mức cao mới trên khối lượng giảm cho thấy áp lực bán hoàn toàn biến mất. Xu hướng tăng mạnh vẫn tiếp tục với dấu hiệu đốt phá mạnh mẽ.
-- **Ngày 2025-07-21:** SHS giảm từ 16.8 xuống 16.4. Cây nến giảm có biên độ rộng với mức cao nhất 17.0. Khối lượng giao dịch sụt giảm thảm họa (1k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Supply** cực kỳ mạnh mẽ, phiên điều chỉnh với khối lượng gần như không tồn tại này vẫn là tín hiệu **No Supply** tích cực. Việc giá chỉ giảm nhẹ trên khối lượng cực thấp cho thấy áp lực bán vẫn hoàn toàn biến mất. Đây là nhịp điều chỉnh lành mạnh trong xu hướng tăng mạnh.
+- **Ngày 2025-07-21:** SHS giảm từ 16.8 xuống 16.4. Cây nến giảm có biên độ rộng với mức cao nhất 17.0. Khối lượng giao dịch tăng đáng kể (46.624.148 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Supply** cực kỳ mạnh mẽ, phiên điều chỉnh với khối lượng tăng này là **Test for Supply**. Áp lực bán chốt lời đã xuất hiện với khối lượng lớn sau đợt tăng mạnh, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường sau đợt bứt phá.
+- **Ngày 2025-07-22:** SHS tăng mạnh từ 16.4 lên 17.4. Cây nến tăng có biên độ rộng với mức cao nhất 17.5. Khối lượng giao dịch giảm mạnh (28.400 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** cực kỳ mạnh mẽ trở lại. Việc giá bứt phá mạnh lên mức cao mới trên khối lượng cực thấp cho thấy áp lực bán đã hoàn toàn biến mất và lực cầu dễ dàng đẩy giá lên. Tín hiệu cực kỳ tích cực.
 
 

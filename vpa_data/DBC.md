@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Effort to Rise** mạnh mẽ. Việc giá giảm trên khối lượng giảm mạnh cho thấy áp lực bán chốt lời không lớn và chỉ là phiên test tự nhiên. Đây là dấu hiệu tích cực vì thị trường đang kiểm tra khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra yếu ớt.
 - **Ngày 2025-07-21:** DBC giảm từ 33.7 xuống 32.9. Cây nến giảm có biên độ rộng với mức high 34.25 và low 32.8. Khối lượng giao dịch tăng mạnh (11.18 triệu đơn vị), tăng 55% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện. Sau phiên **Test for Supply** của phiên trước, áp lực bán đã tăng lên đáng kể với khối lượng gia tăng kèm theo giá giảm mạnh. Điều này cho thấy test cung cấp đã thất bại và lực bán đã quay trở lại mạnh mẽ, phủ nhận tín hiệu **Effort to Rise** trước đó. Xu hướng giảm ngắn hạn được tái khẳng định.
+- **Ngày 2025-07-22:** DBC tăng mạnh từ 32.9 lên 33.85. Cây nến tăng có biên độ rộng với mức dao động 32.25-33.85. Khối lượng giao dịch tăng tiếp về 15.11 triệu đơn vị, tăng 35% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Rise** xuất hiện mạnh mẽ. Sau tín hiệu **Effort to Fall** của phiên trước, khối lượng bùng nổ kèm theo giá tăng mạnh cho thấy lực cầu đã quay trở lại quyết đoán. Đây là tín hiệu đảo ngược tiềm năng sau giai đoạn test và giảm giá. Việc khối lượng tiếp tục tăng kèm theo giá phục hồi mạnh cho thấy sự trở lại của nhà đầu tư.
 
 

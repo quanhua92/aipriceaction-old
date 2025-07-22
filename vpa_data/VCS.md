@@ -36,5 +36,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp chốt lời bình thường. Áp lực bán không mạnh, là tín hiệu tích cực cho thấy xu hướng tăng vẫn còn nguyên vẹn và sẽ tiếp tục sau khi giai đoạn tích lũy hoàn tất.
 - **Ngày 2025-07-21:** Sau tín hiệu Test for Supply, VCS giảm từ 51.0 xuống 49.7 với đỉnh ngày đạt 53.0. Nến giảm có biên độ rất rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (189.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Sau khi thử nghiệm vùng kháng cự 53.0, áp lực bán đã xuất hiện khiến giá đóng cửa gần mức thấp nhất phiên. Tuy nhiên, việc khối lượng giảm cho thấy áp lực bán không quá mạnh. Đây vẫn là nhịp kiểm tra trong xu hướng tăng, cần theo dõi thêm.
+- **Ngày 2025-07-22:** VCS giữ nguyên giá đóng cửa 49.7 với mở cửa thấp hơn 49.5. Nến có biên độ hẹp dao động từ 49.2 đến 49.7. Khối lượng giao dịch duy trì (193.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** **No Supply** - Sau Test for Supply mạnh mẽ của phiên trước, việc giá giữ nguyên với khối lượng ổn định cho thấy áp lực bán đã cạn kiệt. Đây là tín hiệu tích cực sau giai đoạn SOS và các phiên kiểm tra, thị trường đang tạo nền tảng vững chắc tại vùng 49.7 để chuẩn bị cho đợt tăng tiếp theo.
 
 

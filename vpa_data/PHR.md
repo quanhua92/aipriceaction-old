@@ -56,7 +56,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** mạnh mẽ. Việc giá tăng mạnh với khối lượng tăng gấp 3.5 lần cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc giá test được mức 63.0 thể hiện tiềm năng bứt phá về phía trên. Tín hiệu rất tích cực.
 - **Ngày 2025-07-21:** PHR tăng nhẹ từ 62.2 lên 62.3. Cây nến tăng có biên độ hẹp (spread 1.4) với gap tăng từ 62.9 và test được 63.7. Khối lượng giao dịch giảm mạnh (435.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay thể hiện **No Demand**. Việc giá gap tăng và test được vùng cao 63.7 nhưng đóng cửa thấp với khối lượng giảm gần 60% cho thấy lực cầu đã yếu đi đáng kể. Tín hiệu cảnh báo rằng đà tăng có thể chững lại.
-- **Ngày 2025-07-17:** PHR tăng nhẹ từ 60.0 lên 60.5. Cây nến tăng có biên độ hẹp (spread 0.5) với bóng trên ngắn. Khối lượng giao dịch tăng (415.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** yếu sau tín hiệu **No Demand** của phiên trước. Việc giá tăng nhẹ với khối lượng tăng cho thấy lực cầu đã có dấu hiệu cải thiện nhưng chưa đủ mạnh. Tín hiệu trung tính, cần quan sát thêm.
+- **Ngày 2025-07-22:** PHR giảm từ 62.3 xuống 61.5. Cây nến giảm có biên độ rộng (spread 2.3) với mức thấp nhất 60.9. Khối lượng giao dịch tăng (686.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** xác nhận **No Demand** của phiên trước. Việc giá giảm với khối lượng tăng đáng kể sau tín hiệu cảnh báo cho thấy áp lực bán đã quay trở lại và đà tăng trước đó đã bị phủ nhận. Giá test xuống vùng 60.9 thể hiện momentum giảm mạnh, tín hiệu tiêu cực trong ngắn hạn.
 
 

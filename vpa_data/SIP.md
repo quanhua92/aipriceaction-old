@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** với khối lượng tăng đáng kể. Áp lực bán chốt lời xuất hiện sau đợt test đỉnh, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường trong quá trình phục hồi.
 - **Ngày 2025-07-21:** SIP tăng từ 62.0 lên 62.6. Cây nến tăng có biên độ rộng với mức cao nhất 63.4. Khối lượng giao dịch giảm (909.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** của phiên trước, đây là tín hiệu **Effort to Rise** tích cực. Lực cầu đã quay trở lại và đẩy giá vượt qua vùng kháng cự trước đó với khối lượng giảm, cho thấy áp lực bán đã được hấp thụ tốt. Tín hiệu tích cực cho xu hướng phục hồi.
+- **Ngày 2025-07-22:** SIP tăng nhẹ từ 62.5 lên 62.8. Cây nến tăng có biên độ hẹp với mức cao nhất 63.2. Khối lượng giao dịch giảm tiếp (536.600 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** tích cực của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply**. Việc giá tiếp tục tăng trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể và xu hướng tăng đang được duy trì tốt. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
 
 

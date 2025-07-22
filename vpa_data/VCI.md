@@ -56,5 +56,7 @@
     - **Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Effort to Rise của phiên trước, việc giá không thể duy trì được momentum và đóng cửa yếu với khối lượng giảm cho thấy lực cầu đã suy yếu. Đây là tín hiệu tiêu cực, cho thấy nỗ lực tăng giá trước đó có thể đã thất bại và thị trường thiếu sự ủng hộ từ dòng tiền lớn.
 - **Ngày 2025-07-21:** Sau tín hiệu No Demand tiêu cực, VCI giảm mạnh từ 41.7 xuống 40.65 với đỉnh ngày đạt 41.75. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (20.14 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tín hiệu No Demand, phiên này xác nhận áp lực bán đã quay trở lại mạnh mẽ. Việc giá giảm mạnh với khối lượng tăng đáng kể cho thấy smart money đang tích cực bán ra, xác nhận giai đoạn phân phối đang diễn ra. Đây là tín hiệu xấu cho xu hướng ngắn hạn.
+- **Ngày 2025-07-22:** VCI tăng mạnh từ 40.35 lên 41.75 với đỉnh ngày đạt 41.8. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (16.92 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW mạnh mẽ, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 40.0. Việc giá phục hồi mạnh với khối lượng giảm từ 20.14M xuống 16.92M cho thấy có lực cầu xuất hiện để hấp thụ áp lực bán. Tuy nhiên, cần quan sát thêm để xác nhận khả năng đảo ngược xu hướng sau giai đoạn phân phối trước đó.
 
 

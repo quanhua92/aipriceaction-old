@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** sau đợt tăng mạnh. Áp lực bán chốt lời xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm đáng kể. Việc giá duy trì ở mức cao và không giảm sâu cho thấy lực cầu vẫn ở trạng thái tốt. Đây là nhịp điều chỉnh bình thường sau đợt tăng.
 - **Ngày 2025-07-21:** PVI tăng mạnh từ 58.0 lên 59.0. Cây nến tăng có biên độ rộng với mức cao nhất 59.1. Khối lượng giao dịch tăng mạnh (41.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng gần gấp 3 lần, cho thấy sự hấp thụ tốt nguồn cung và tiềm năng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+- **Ngày 2025-07-22:** PVI tiếp tục tăng từ 58.9 lên 59.5. Cây nến tăng có biên độ rộng với mức cao nhất 59.5. Khối lượng giao dịch tăng tiếp (43.500 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của hôm qua, PVI tiếp tục thể hiện **Sign of Strength (Dấu hiệu Mạnh mẽ)**. Việc giá bứt phá lên mức cao mới với khối lượng tăng liên tục cho thấy lực cầu vẫn đang hoàn toàn kiểm soát thị trường. Đây là tín hiệu tích cực rất mạnh cho xu hướng tăng dài hạn.
 
 

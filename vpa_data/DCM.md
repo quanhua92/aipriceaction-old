@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện. Sau hai phiên **Test for Supply** liên tiếp, việc giá giảm với khối lượng giảm cho thấy áp lực bán vẫn còn nhưng không quá mạnh. Tín hiệu này cho thấy xu hướng giảm ngắn hạn có thể tiếp diễn, nhưng lực bán đang có dấu hiệu cạn kiệt dần.
 - **Ngày 2025-07-21:** DCM tăng từ 33.8 lên 34.45. Cây nến tăng có biên độ rộng với mức high 34.6. Khối lượng giao dịch tăng mạnh (6.42 triệu đơn vị), tăng 67% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Rise** xuất hiện mạnh mẽ. Sau tín hiệu **Effort to Fall** của phiên trước với lực bán cạn kiệt, lực cầu đã quay trở lại quyết liệt với khối lượng bùng nổ kèm theo giá tăng mạnh. Tín hiệu này cho thấy khả năng kết thúc xu hướng giảm và bắt đầu một đợt phục hồi tích cực.
+- **Ngày 2025-07-22:** DCM tăng mạnh từ 34.45 lên 35.2. Cây nến tăng có biên độ rộng với mức high 35.5. Khối lượng giao dịch tiếp tục tăng về 7.94 triệu đơn vị, tăng 24% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, khối lượng tiếp tục tăng kèm theo giá đạt mức cao mới cho thấy lực cầu cực kỳ mạnh mẽ và được xác nhận. Tín hiệu này củng cố mạnh mẽ cho xu hướng tăng trở lại và tiềm năng phá vỡ các vùng kháng cự.
 
 

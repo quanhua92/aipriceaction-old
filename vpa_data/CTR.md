@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện mạnh mẽ. Sau hai phiên **Test for Demand** và **No Supply**, việc giá giảm mạnh với khối lượng bùng nổ cho thấy áp lực bán đã quay trở lại một cách quyết đoán. Tín hiệu này phủ nhận hoàn toàn các tín hiệu tích cực trước đó và xác nhận xu hướng giảm tiếp diễn.
 - **Ngày 2025-07-21:** CTR giảm từ 99.8 xuống 98.0. Cây nến giảm có biên độ rộng với mức high 100.7 và low 98.0. Khối lượng giao dịch giảm (777.6k đơn vị), giảm 42% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** tiếp tục diễn ra. Sau tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, giá tiếp tục giảm xuống mức thấp mới 98.0. Tuy khối lượng giảm so với phiên bùng nổ trước, nhưng việc giá vẫn giảm mạnh cho thấy áp lực bán vẫn đang kiểm soát thị trường. Xu hướng giảm ngắn hạn được củng cố.
+- **Ngày 2025-07-22:** CTR tăng từ 98.0 lên 99.5. Cây nến tăng có biên độ rộng với mức dao động 97.3-99.9. Khối lượng giao dịch giảm về 456.1k đơn vị, giảm 41% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau chuỗi tín hiệu **Effort to Fall** liên tiếp, mặc dù giá phục hồi mạnh nhưng khối lượng giảm đáng kể cho thấy thiếu lực cầu thực sự. Việc giá tăng trên nền khối lượng thấp thể hiện sự thiếu bền vững trong phục hồi. Áp lực bán từ các phiên trước vẫn có tác động và thị trường chưa đủ lực cầu để đảo ngược xu hướng.
 
 
