@@ -776,7 +776,7 @@ Signal: Markup phase beginning
 - ✅ **Phase 3:** Professional Volume = Markup initiation
 - 🎯 **Result:** Perfect 3-stage bullish sequence
 
-### 5.2 Signal Filtering và Quality Control
+### 5.2 Lọc Tín Hiệu và Kiểm Soát Chất Lượng
 
 #### Primary Filters (Must Pass)
 
@@ -807,7 +807,7 @@ Signal: Markup phase beginning
 - 🔄 **Momentum indicators:** RSI, MACD supportive
 - 📈 **Relative strength:** Outperforming sector/market
 
-### 5.3 Signal Grading và Position Sizing
+### 5.3 Phân Loại Tín Hiệu và Xác Định Kích Thước Vị Thế
 
 #### VPA Signal Scoring System
 
@@ -937,7 +937,7 @@ def calculate_vpa_position_size(signal_grade, risk_per_trade, account_size, conf
 - **Thực tế:** Grade A signals deserve bigger allocation
 - **Khắc phục:** Use VPA grading system cho position sizing
 
-### 7.3 Solutions Framework
+### 7.3 Khung Giải Pháp
 
 **Systematic Approach:**
 1. **Pre-market Prep:** Check market context, sector health
@@ -966,7 +966,7 @@ def calculate_vpa_position_size(signal_grade, risk_per_trade, account_size, conf
 - Success rate tracking sau 5-10 days
 - Error analysis và improvement plan
 
-### Bài Tập 2: Multi-Signal Combination Analysis
+### Bài Tập 2: Phân Tích Kết Hợp Đa Tín Hiệu
 
 **Mục tiêu:** Master việc kết hợp signals để create high-probability setups
 
@@ -982,7 +982,7 @@ def calculate_vpa_position_size(signal_grade, risk_per_trade, account_size, conf
 - Develop personal playbook của best setups
 - Test strategies trên paper trading
 
-### Bài Tập 3: Real-time Signal Monitoring
+### Bài Tập 3: Theo Dõi Tín Hiệu Thời Gian Thực
 
 **Mục tiêu:** Develop real-time recognition skills
 
@@ -1014,7 +1014,7 @@ def calculate_vpa_position_size(signal_grade, risk_per_trade, account_size, conf
 
 ✅ **Discipline thắng discretion** - Follow system, avoid emotional decisions
 
-### 9.2 Success Factors Quan Trọng
+### 9.2 Các Yếu Tố Thành Công Quan Trọng
 
 🎯 **Technical Mastery:** Understand mechanics của từng signal
 
@@ -1320,7 +1320,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 ## 6. Signal Combination Strategies
 
-### 6.1 Multiple Signal Confirmation
+### 6.1 Xác Nhận Bằng Nhiều Tín Hiệu
 
 **High Probability Setups:**
 - **Spring + LPS:** Exceptional reliability
@@ -1334,7 +1334,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 **Result:** Perfect accumulation sequence
 
-### 6.2 Signal Filtering System
+### 6.2 Hệ Thống Lọc Tín Hiệu
 
 **Primary Filters:**
 - Market context (VNINDEX direction)
@@ -1376,7 +1376,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 ## 8. Time Frame Analysis
 
-### 8.1 Daily vs Weekly Signals
+### 8.1 Tín Hiệu Ngày so với Tuần
 
 **Daily Signals:**
 - Better for entry timing
@@ -1388,7 +1388,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 - Less noise, higher reliability
 - Good for position sizing
 
-### 8.2 Intraday Signal Validation
+### 8.2 Xác Thực Tín Hiệu Trong Ngày
 
 **Best Practice:** Use intraday data to validate daily signals
 - Morning weakness, afternoon strength = bullish
@@ -1397,7 +1397,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 ## 9. Signal Reliability Statistics
 
-### 9.1 Success Rates (Vietnam Market 2025 Data)
+### 9.1 Tỷ Lệ Thành Công (Dữ Liệu Thị Trường Việt Nam 2025)
 
 | Signal Type | Success Rate | Avg Return (5 days) | Best Timeframe |
 |-------------|--------------|---------------------|----------------|
@@ -1407,7 +1407,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 | **JOC** | 82% | +5.5% | Weekly |
 | **Professional Volume** | 72% | +2.9% | Daily |
 
-### 9.2 Sector Performance Comparison
+### 9.2 So Sánh Hiệu Suất Theo Ngành
 
 | Sector | Signal Accuracy | Avg Hold Time | Best Signals |
 |--------|----------------|---------------|--------------|
@@ -1418,7 +1418,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 ## 10. Common Mistakes và Prevention
 
-### 10.1 Signal Misidentification
+### 10.1 Nhận Diện Sai Tín Hiệu
 
 **Common Errors:**
 - Confusing volume spike với stopping volume
@@ -1432,7 +1432,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 - Confirm với multiple indicators
 - Practice on historical data
 
-### 10.2 Timing Mistakes
+### 10.2 Lỗi Thời Điểm
 
 **Premature Entry:**
 - Buying first sign of strength
@@ -1446,7 +1446,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 ## 11. Advanced Applications
 
-### 11.1 Signal Grading System
+### 11.1 Hệ Thống Phân Loại Tín Hiệu
 
 **A+ Signals (High conviction):**
 - Multiple confirmations
@@ -1464,7 +1464,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 - Poor context
 - High risk
 
-### 11.2 Position Sizing by Signal Quality
+### 11.2 Xác Định Kích Thước Vị Thế Theo Chất Lượng Tín Hiệu
 
 **A+ Signals:** Full position size
 **B Signals:** 50-75% position
@@ -1472,7 +1472,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 
 ## 12. Real-Time Signal Monitoring
 
-### 12.1 Daily Scanning Process
+### 12.1 Quy Trình Quét Hàng Ngày
 
 **Morning Routine:**
 1. Scan for overnight gaps
@@ -1486,7 +1486,7 @@ Phân tích: "Selling Climax hoặc Shakeout. Lực mua mạnh hấp thụ"
 3. Watch for signal completion
 4. Execute when criteria met
 
-### 12.2 Signal Alert System
+### 12.2 Hệ Thống Cảnh Báo Tín Hiệu
 
 ```python
 def create_vpa_alerts(df_list, signal_types=['stopping_volume', 'no_supply', 'spring']):
@@ -1513,7 +1513,7 @@ def create_vpa_alerts(df_list, signal_types=['stopping_volume', 'no_supply', 'sp
 
 ## 13. Tổng Kết và Điểm Mấu Chốt
 
-### 13.1 Key Takeaways - Những Điều Cốt Lõi
+### 13.1 Điểm Chính - Những Điều Cốt Lõi
 
 ✅ **Stopping Volume và Spring là tín hiệu đáng tin cậy nhất** - Success rate >85% khi có đủ context
 

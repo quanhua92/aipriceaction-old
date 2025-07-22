@@ -328,7 +328,7 @@ Effort vs Result Analysis:
 
 ## 5. Tích Hợp Ba Quy Luật - Framework Toàn Diện
 
-### 5.1 Multi-Law Analysis Framework
+### 5.1 Khung Phân Tích Đa Quy Luật
 
 **Khi cả ba quy luật cùng xác nhận một hướng:**
 
@@ -405,7 +405,7 @@ flowchart LR
 
 ## 7. Thực Hành Với Dữ Liệu Thị Trường Việt Nam
 
-### 7.1 Bài Tập Cơ Bản - Ba Quy Luật Identification
+### 7.1 Bài Tập Cơ Bản - Nhận Diện Ba Quy Luật
 
 **Dữ liệu sử dụng:**
 - `market_data/VCB_2025-01-02_to_2025-07-21.csv`
@@ -432,7 +432,7 @@ Success: Yes/No
 Expert Confirmation: ____
 ```
 
-### 7.2 Bài Tập Nâng Cao - Multi-Timeframe Analysis
+### 7.2 Bài Tập Nâng Cao - Phân Tích Đa Khung Thời Gian
 
 **So sánh Weekly vs Daily:**
 - **Daily:** `market_data/VNINDEX_2025-01-02_to_2025-07-21.csv`
@@ -448,7 +448,7 @@ Expert Confirmation: ____
 - Daily data sensitive hơn cho **Law 3** (Effort/Result)  
 - **Law 1** (Supply/Demand) effective trên cả hai timeframes
 
-### 7.3 Bài Tập Chuyên Sâu - Sector Rotation Analysis
+### 7.3 Bài Tập Chuyên Sâu - Phân Tích Luân Chuyển Ngành
 
 **Banking Sector Deep Dive:**
 - **VCB:** `vpa_data/VCB.md` + `market_data/VCB_*.csv`
@@ -469,7 +469,7 @@ Expert Confirmation: ____
 
 ## 8. Code Implementation - Automated Detection
 
-### 8.1 Python Framework cho Ba Quy Luật
+### 8.1 Khung Làm Việc Python cho Ba Quy Luật
 
 ```python
 import pandas as pd
@@ -627,7 +627,7 @@ def analyze_stock_with_wyckoff_laws(csv_file):
 # vcb_signals = analyze_stock_with_wyckoff_laws('market_data/VCB_2025-01-02_to_2025-07-21.csv')
 ```
 
-### 8.2 Backtesting Framework
+### 8.2 Khung Làm Việc Backtesting
 
 ```python
 def backtest_wyckoff_laws(signals, data, hold_days=5):
@@ -705,7 +705,7 @@ def backtest_wyckoff_laws(signals, data, hold_days=5):
 
 ✅ **Multi-timeframe analysis** essential cho Law 2 (Cause/Effect) identification
 
-### 9.2 Practical Applications Framework
+### 9.2 Khung Ứng Dụng Thực Tế
 
 **For Daily Trading:**
 - **Law 3** priority - Monitor effort/result anomalies
@@ -722,7 +722,7 @@ def backtest_wyckoff_laws(signals, data, hold_days=5):
 - **Multi-timeframe** validation across all laws
 - **Patience** for major cause completion
 
-### 9.3 Success Rate Summary (Vietnam Market Data)
+### 9.3 Tóm Tắt Tỷ Lệ Thành Công (Dữ Liệu Thị Trường Việt Nam)
 
 | Quy Luật | Success Rate | Avg Confirmation Time | Best Application |
 |----------|--------------|----------------------|------------------|

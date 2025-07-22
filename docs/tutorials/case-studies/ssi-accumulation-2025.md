@@ -46,49 +46,49 @@ Nghiên cứu này phân tích sự chuyển đổi đáng chú ý của SSI Sec
 - Cơ sở khách hàng vững chắc
 - Đội ngũ quản lý chuyên nghiệp
 
-## 2. Phase A: Sector Weakness Bottoming (April 2025)
+## 2. Giai Đoạn A: Đáy Của Sự Yếu Kém Ngành (Tháng 4 2025)
 
-### 2.1 Industry-Wide Pressure
+### 2.1 Áp Lực Toàn Ngành
 
-**Market Context:**
-Securities sector hit by reduced trading volumes and margin pressure. SSI declined from March highs around 26-27 VND to test critical support at 22-23 VND level.
+**Bối Cảnh Thị Trường:**
+Ngành chứng khoán bị ảnh hưởng bởi khối lượng giao dịch giảm và áp lực biên lợi nhuận. SSI giảm từ đỉnh tháng 3 khoảng 26-27 VNĐ để kiểm tra hỗ trợ quan trọng ở mức 22-23 VNĐ.
 
-**Sector Dynamics:**
-- Trading commissions under pressure
-- Margin lending volumes declining
-- Investment banking activity slow
-- Asset management fees dropping
+**Động Lực Ngành:**
+- Hoa hồng giao dịch chịu áp lực
+- Khối lượng cho vay ký quỹ giảm
+- Hoạt động ngân hàng đầu tư chậm
+- Phí quản lý tài sản giảm
 
-**Phase A Characteristics:**
-- ✅ Clear sector capitulation evident
-- ✅ Support forming around 23 VND
-- ✅ Volume expansion on major declines
-- ✅ Contrarian opportunity developing
+**Đặc Điểm Giai Đoạn A:**
+- ✅ Sự đầu hàng rõ ràng của ngành
+- ✅ Hỗ trợ hình thành quanh 23 VNĐ
+- ✅ Khối lượng tăng vọt khi giảm mạnh
+- ✅ Cơ hội đi ngược xu hướng đang phát triển
 
-## 3. Phase B: Professional Accumulation (May 2025)
+## 3. Giai Đoạn B: Tích Lũy Chuyên Nghiệp (Tháng 5 2025)
 
-### 3.1 Trading Range Development
+### 3.1 Phát Triển Vùng Giao Dịch
 
-**Range Boundaries:**
-- **Support:** 22.8-23.2 VND (tested multiple times)
-- **Resistance:** 24.5-25.0 VND (clear supply)
-- **Width:** ~2.2 points (tight range for accumulation)
-- **Character:** Orderly, professional accumulation
+**Ranh Giới Vùng Giá:**
+- **Hỗ trợ:** 22.8-23.2 VNĐ (kiểm tra nhiều lần)
+- **Kháng cự:** 24.5-25.0 VNĐ (cung rõ ràng)
+- **Độ rộng:** ~2.2 điểm (phạm vi hẹp cho tích lũy)
+- **Đặc điểm:** Tích lũy thể thống, chuyên nghiệp
 
-**Volume Analysis:**
+**Phân Tích Khối Lượng:**
 ```python
-# SSI Phase B accumulation estimate
-avg_daily_volume = 25M    # SSI higher volume due to sector nature
-accumulation_days = 40    # Phase B duration
-institutional_net = avg_daily_volume * accumulation_days * 0.4
-# Result: ~400M shares net accumulated
+# Ước tính tích lũy Giai đoạn B của SSI
+khối_lượng_tb_ngày = 25M    # SSI có khối lượng cao hơn do tính chất ngành
+số_ngày_tích_lũy = 40    # Thời gian Giai đoạn B
+mua_ròng_tổ_chức = khối_lượng_tb_ngày * số_ngày_tích_lũy * 0.4
+# Kết quả: ~400M cổ phiếu được tích lũy thuần
 ```
 
-**Phase B Evidence:**
-- Consistent support at 23 VND level
-- Diminishing supply on rallies to 24.5 VND
-- Professional volume patterns
-- Sector sentiment improving gradually
+**Bằng Chứng Giai Đoạn B:**
+- Hỗ trợ ổn định ở mức 23 VNĐ
+- Nguồn cung giảm dần khi tăng lên 24.5 VNĐ
+- Các mô hình khối lượng chuyên nghiệp
+- Tâm lý ngành cải thiện dần dần
 
 ## 4. Phase C: Shakeout Hoàn Hảo (13 Tháng 6, 2025)
 

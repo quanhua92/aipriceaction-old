@@ -390,7 +390,7 @@ def create_vpa_alert_rules(alert_system):
 create_vpa_alert_rules(alert_system)
 ```
 
-### C. Market Scanner với Alert Integration
+### C. Quét Thị Trường với Tích Hợp Cảnh Báo
 
 ```python
 def run_market_scanner_with_alerts(stock_list, alert_system, scan_interval_minutes=5):
@@ -483,7 +483,7 @@ for rule_name, rule in alert_system.alert_rules.items():
 
 ## 📈 Phần 2: Thực Hành - Dashboard & Monitoring
 
-### A. Web Dashboard Đơn Giản
+### A. Trang Điều Khiển Web Đơn Giản
 
 ```python
 from flask import Flask, render_template, jsonify
@@ -639,7 +639,7 @@ print("   • GET /api/recent_alerts - Recent alerts")
 > 💡 **Lưu ý**: Phần này dành cho người muốn xây dựng hệ thống cảnh báo thích ứng. 
 > Nếu bạn mới bắt đầu, có thể **bỏ qua** và quay lại sau.
 
-### A. Machine Learning-Enhanced Alerts
+### A. Cảnh Báo Tăng Cường Bằng Machine Learning
 
 ```python
 class AdaptiveAlertSystem:

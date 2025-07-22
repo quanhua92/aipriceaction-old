@@ -371,7 +371,7 @@ def demo_portfolio_construction():
 demo_portfolio_construction()
 ```
 
-### C. Risk Management & Rebalancing
+### C. Quản Lý Rủi Ro và Cân Bằng Lại
 
 ```python
 def implement_risk_management(portfolio, current_prices):
@@ -478,7 +478,7 @@ risk_report = implement_risk_management(portfolio, new_prices)
 
 ## 📈 Phần 2: Thực Hành - Portfolio Optimization
 
-### A. Modern Portfolio Theory với VPA
+### A. Thuyết Danh Mục Hiện Đại với VPA
 
 ```python
 def optimize_vpa_portfolio(vpa_signals, historical_returns, risk_tolerance=0.15):
@@ -626,7 +626,7 @@ else:
 > 💡 **Lưu ý**: Phần này dành cho portfolio management nâng cao. 
 > Nếu bạn mới bắt đầu, có thể **bỏ qua** và quay lại sau.
 
-### A. Adaptive Rebalancing Strategy
+### A. Chiến Lược Cân Bằng Thích Ứng
 
 ```python
 class DynamicPortfolioRebalancer:

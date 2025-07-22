@@ -780,7 +780,7 @@ def detect_utad_patterns(df, distribution_high, distribution_low, min_range_time
 
 ## 5. Hệ Thống Cảnh Báo Thờ Gian Thực - "Real-time Alert System"
 
-### 5.1 Multi-Level Warning System
+### 5.1 Hệ Thống Cảnh Báo Nhiều Cấp
 
 #### Cấp Độ Cảnh Báo
 
@@ -916,7 +916,7 @@ def calculate_portfolio_risk(bearish_signals_list):
 - **Rationale:** Breakout would change character
 - **Risk:** 3-6% depending on setup
 
-### 6.2 Position Protection Strategies
+### 6.2 Chiến Lược Bảo Vệ Vị Thế
 
 #### 3-Tier Defense System
 
@@ -1014,7 +1014,7 @@ Result: Successful avoidance of 8-12% decline
 - Success rate analysis by signal type
 - Personal "Never Again" list of missed signals
 
-### Bài Tập 2: Portfolio Defense Simulation
+### Bài Tập 2: Simúlat Bảo Vệ Danh Mục
 
 **Scenario:** Portfolio của 10 cổ phiếu, 100M VND
 
@@ -1029,7 +1029,7 @@ Result: Successful avoidance of 8-12% decline
 - Outperform market during decline periods
 - Maintain 70%+ of capital during bear phases
 
-### Bài Tập 3: Real-time Alert System
+### Bài Tập 3: Hệ Thống Cảnh Báo Thời Gian Thực
 
 **Build Personal Monitoring System:**
 
@@ -1061,7 +1061,7 @@ Result: Successful avoidance of 8-12% decline
 
 ⚠️ **Capital preservation > Profit maximization** - Sống sót để trade ngày mai
 
-### 9.2 Critical Success Factors
+### 9.2 Các Yếu Tố Thành Công Quan Trọng
 
 🛡️ **Discipline Over Emotion:** Execute defense plan bất kể cảm giác
 
@@ -1448,7 +1448,7 @@ Volume: 850.78 triệu (still high)
 
 ## 7. Time Frame Analysis
 
-### 7.1 Daily vs Weekly Bearish Signals
+### 7.1 Tín Hiệu Tiêu Cực Ngày so với Tuần
 
 **Daily Bearish Signals:**
 - More frequent but less reliable
@@ -1470,7 +1470,7 @@ Volume: 850.78 triệu (still high)
 
 ## 8. Risk Management với Bearish Signals
 
-### 8.1 Position Protection Strategies
+### 8.1 Chiến Lược Bảo Vệ Vị Thế
 
 **Early Warning (ND, WR):**
 - Tighten stops
@@ -1510,7 +1510,7 @@ Volume: 850.78 triệu (still high)
 - **Test:** Low volume probe of support
 - **Failure:** High volume break with follow-through
 
-### 9.2 Signal Filtering Criteria
+### 9.2 Tiêu Chí Lọc Tín Hiệu
 
 **Primary Filters:**
 - Market phase (distribution vs accumulation)
@@ -1538,7 +1538,7 @@ Volume: 850.78 triệu (still high)
 - Consumer staples
 - Dividend-paying stocks
 
-### 10.2 Rotation Warning System
+### 10.2 Hệ Thống Cảnh Báo Luân Chuyển
 
 **Stage 1:** Speculative sectors show distribution
 **Stage 2:** Growth sectors follow
@@ -1553,7 +1553,7 @@ Volume: 850.78 triệu (still high)
 
 ## 11. Practical Applications
 
-### 11.1 Daily Monitoring Routine
+### 11.1 Quy Trình Theo Dõi Hàng Ngày
 
 **Morning Scan:**
 - Check for overnight distribution signals
@@ -1573,7 +1573,7 @@ Volume: 850.78 triệu (still high)
 - Plan next day actions
 - Review signal accuracy
 
-### 11.2 Portfolio Protection System
+### 11.2 Hệ Thống Bảo Vệ Danh Mục
 
 **Alert Levels:**
 - **Yellow:** 1-2 bearish signals, monitor closely
@@ -1620,7 +1620,7 @@ def calculate_position_risk(bearish_signals):
 **Phase D/E (Decline):**
 - SOD, Support Breaks
 
-### 12.2 Composite Man Distribution Strategy
+### 12.2 Chiến Lược Phân Phối Của Composite Man
 
 **How Smart Money Uses Bearish Signals:**
 1. Create false bullish signals (UTAD)

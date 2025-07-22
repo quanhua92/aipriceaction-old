@@ -18,7 +18,7 @@ Portfolio đã hoạt động 6 tháng, lãi 15%. Nhưng lợi nhuận này đ�
 
 ## 📚 Phần 1: Cơ Bản - Performance Metrics
 
-### A. Core Performance Analytics
+### A. Phân Tích Hiệu Suất Cốt Lõi
 
 ```python
 import numpy as np
@@ -329,7 +329,7 @@ if basic_metrics:
     print(f"   • Peak Value: {basic_metrics['values']['peak_value']:,.0f}đ")
 ```
 
-### B. Benchmark Comparison
+### B. So Sánh Benchmark
 
 ```python
 def compare_with_benchmark(analyzer, benchmark_returns=None):
@@ -628,7 +628,7 @@ print(f"   • Factor-Based Return: {factor_analysis['total_factor_return']:.2%}
 print(f"   • Alpha (Unexplained): {factor_analysis['alpha']:.2%}")
 ```
 
-### B. Risk Attribution Analysis
+### B. Phân Tích Nguyên Nhân Rủi Ro
 
 ```python
 def risk_attribution_analysis(portfolio_positions, correlations=None):
@@ -778,7 +778,7 @@ if risk_attribution:
 > 💡 **Lưu ý**: Phần này dành cho portfolio analysis chuyên sâu. 
 > Nếu bạn mới bắt đầu, có thể **bỏ qua** và quay lại sau.
 
-### A. Style Drift Analysis
+### A. Phân Tích Thay Đổi Phong Cách
 
 ```python
 class StyleDriftAnalyzer:

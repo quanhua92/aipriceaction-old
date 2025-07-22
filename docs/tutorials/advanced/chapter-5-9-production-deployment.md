@@ -19,7 +19,7 @@ Bạn đã xây dựng được hệ thống VPA hoàn chỉnh. Bây giờ là l
 
 ## 📚 Phần 1: Cơ Bản - Containerization & Orchestration
 
-### A. Docker Configuration
+### A. Cấu Hình Docker
 
 ```dockerfile
 # Dockerfile cho VPA System
@@ -144,7 +144,7 @@ volumes:
   redis_data:
 ```
 
-### B. Database Schema
+### B. Lược Đồ Cơ Sở Dữ Liệu
 
 ```sql
 -- init.sql
@@ -257,7 +257,7 @@ INSERT INTO stocks (symbol, name, sector) VALUES
 ('SAB', 'Sabeco', 'Consumer');
 ```
 
-### C. Application Structure
+### C. Cấu Trúc Ứng Dụng
 
 ```python
 # src/main.py - FastAPI Application
@@ -1111,7 +1111,7 @@ spec:
         averageUtilization: 80
 ```
 
-### B. Data Pipeline Optimization
+### B. Tối Ưuu Hóa Data Pipeline
 
 ```python
 # src/optimized_data_pipeline.py

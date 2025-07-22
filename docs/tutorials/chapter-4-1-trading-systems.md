@@ -544,7 +544,7 @@ def classify_wyckoff_phase(df, lookback=50):
 
 ## 4. Entry Strategy Framework
 
-### 4.1 Multi-Signal Confirmation System
+### 4.1 Hệ Thống Xác Nhận Đa Tín Hiệu
 
 **Entry Criteria Hierarchy:**
 1. **Market Filter:** VNINDEX in favorable phase
@@ -650,7 +650,7 @@ def evaluate_entry_opportunity(ticker, market_status, sector_rank):
         }
 ```
 
-### 4.2 Timing Optimization
+### 4.2 Tối Ưuu Hóa Thời Điểm
 
 **Entry Timing Strategies:**
 
@@ -671,7 +671,7 @@ def evaluate_entry_opportunity(ticker, market_status, sector_rank):
 
 ## 5. Exit Strategy System
 
-### 5.1 Multiple Exit Methods
+### 5.1 Nhiều Phương Pháp Thoát Lệnh
 
 **Target-Based Exits:**
 ```python
@@ -729,7 +729,7 @@ def calculate_stop_loss(entry_price, entry_signal, support_level):
     return stop_loss
 ```
 
-### 5.2 Trailing Stop System
+### 5.2 Hệ Thống Trailing Stop
 
 **Dynamic Stop Adjustment:**
 ```python
@@ -753,7 +753,7 @@ def update_trailing_stop(current_price, entry_price, current_stop,
 
 ## 6. Risk Management Framework
 
-### 6.1 Position Sizing System
+### 6.1 Hệ Thống Xác Định Kích Thước Vị Thế
 
 **Kelly Criterion Implementation:**
 ```python
@@ -792,7 +792,7 @@ def calculate_fixed_fractional_size(capital, risk_per_trade=0.02):
     return max_risk_amount
 ```
 
-### 6.2 Portfolio Risk Controls
+### 6.2 Kiểm Soát Rủi Ro Danh Mục
 
 **Correlation Limits:**
 ```python
@@ -852,7 +852,7 @@ def check_drawdown_limits(current_portfolio_value, peak_portfolio_value,
 
 ## 7. System Integration và Automation
 
-### 7.1 Daily Trading Routine
+### 7.1 Quy Trình Giao Dịch Hàng Ngày
 
 **Morning Process:**
 ```python
@@ -901,7 +901,7 @@ def daily_morning_routine():
     }
 ```
 
-### 7.2 Position Monitoring System
+### 7.2 Hệ Thống Theo Dõi Vị Thế
 
 **Real-time Position Tracking:**
 ```python
@@ -978,7 +978,7 @@ class PositionManager:
 
 ## 8. Backtesting Framework
 
-### 8.1 Historical Performance Testing
+### 8.1 Kiểm Tra Hiệu Suất Lịch Sử
 
 **Comprehensive Backtesting Engine:**
 ```python
@@ -1095,7 +1095,7 @@ class VPABacktester:
 
 ## 9. Performance Metrics và Optimization
 
-### 9.1 Key Performance Indicators
+### 9.1 Các Chỉ Số Hiệu Suất Chính
 
 **Essential Metrics:**
 - **Total Return:** Overall portfolio performance
@@ -1105,7 +1105,7 @@ class VPABacktester:
 - **Maximum Drawdown:** Largest peak-to-trough decline
 - **Average Hold Time:** Typical position duration
 
-### 9.2 System Optimization
+### 9.2 Tối Ưuu Hóa Hệ Thống
 
 **Parameter Optimization:**
 ```python
@@ -1143,7 +1143,7 @@ def optimize_system_parameters():
 
 ## 10. System Implementation Checklist
 
-### 10.1 Pre-Launch Validation
+### 10.1 Xác Thực Trước Khi Ra Mắt
 
 **Technical Validation:**
 - [ ] All data feeds working correctly
@@ -1159,7 +1159,7 @@ def optimize_system_parameters():
 - [ ] Risk parameters appropriate for account size
 - [ ] Emotional discipline maintained during testing
 
-### 10.2 Live Trading Deployment
+### 10.2 Triển Khai Giao Dịch Thực Tế
 
 **Phase 1: Pilot Program (1 month)**
 - Start with 25% of intended position sizes
@@ -1187,14 +1187,14 @@ def optimize_system_parameters():
 ✅ **Backtesting validates strategy effectiveness**
 ✅ **Continuous monitoring and improvement essential**
 
-### Critical Success Factors:
+### Các Yếu Tố Thành Công Quan Trọng:
 - **Discipline:** Follow system rules consistently
 - **Patience:** Wait for high-quality setups
 - **Risk Focus:** Preserve capital above all
 - **Continuous Learning:** Adapt and improve system
 - **Documentation:** Learn from every trade
 
-### System Maintenance:
+### Bảo Trì Hệ Thống:
 - **Weekly:** Review performance metrics
 - **Monthly:** Analyze win/loss patterns
 - **Quarterly:** Optimize parameters
