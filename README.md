@@ -62,31 +62,36 @@ This project includes a comprehensive Vietnamese-language tutorial system coveri
 
 ### 📖 Tutorial Chapters
 
-**Fundamental Concepts:**
-- [Chapter 1.1: VPA Basics (Vietnamese)](docs/tutorials/vpa-basics-vi.md)
-- [Chapter 1.2: Wyckoff Laws (Vietnamese)](docs/tutorials/wyckoff-laws-vi.md)
-- [Chapter 1.3: Composite Man (Vietnamese)](docs/tutorials/composite-man-vi.md)
+**Khái Niệm Cơ Bản:**
+- [Chương 1.1: VPA Cơ Bản (Tiếng Việt)](docs/tutorials/chapter-1-1-vpa-basics.md)
+- [Chương 1.2: Các Định Luật Wyckoff (Tiếng Việt)](docs/tutorials/chapter-1-2-wyckoff-laws.md)
+- [Chương 1.3: Composite Man (Tiếng Việt)](docs/tutorials/chapter-1-3-composite-man.md)
 
-**Market Phases:**
-- [Chapter 2.1: Accumulation Phases (Vietnamese)](docs/tutorials/accumulation-phases-vi.md)
-- [Chapter 2.2: Distribution Phases (Vietnamese)](docs/tutorials/distribution-phases-vi.md)
+**Các Giai Đoạn Thị Trường:**
+- [Chương 2.1: Các Pha Tích Lũy (Tiếng Việt)](docs/tutorials/chapter-2-1-accumulation-phases.md)
+- [Chương 2.2: Các Pha Phân Phối (Tiếng Việt)](docs/tutorials/chapter-2-2-distribution-phases.md)
 
-**Signal Recognition:**
-- [Chapter 3.1: Bullish VPA Signals (Vietnamese)](docs/tutorials/bullish-vpa-signals-vi.md)
-- [Chapter 3.2: Bearish VPA Signals (Vietnamese)](docs/tutorials/bearish-vpa-signals-vi.md)
+**Nhận Dạng Tín Hiệu:**
+- [Chương 3.1: Tín Hiệu VPA Tăng Giá (Tiếng Việt)](docs/tutorials/chapter-3-1-bullish-vpa-signals.md)
+- [Chương 3.2: Tín Hiệu VPA Giảm Giá (Tiếng Việt)](docs/tutorials/chapter-3-2-bearish-vpa-signals.md)
 
-**Trading Systems:**
-- [Chapter 4.1: Trading Systems (Vietnamese)](docs/tutorials/trading-systems-vi.md)
+**Hệ Thống Giao Dịch:**
+- [Chương 4.1: Hệ Thống Giao Dịch (Tiếng Việt)](docs/tutorials/chapter-4-1-trading-systems.md)
 
-**Advanced Concepts:**
-- [Chapter 5.1: Advanced Pattern Recognition](docs/tutorials/advanced-pattern-recognition.md)
-- [Chapter 5.2: Institutional Backtesting Engine](docs/tutorials/institutional-backtesting.md)
-- [Chapter 5.3: Smart Money Flow Analysis](docs/tutorials/smart-money-flow.md)
-- [Chapter 5.4: Machine Learning Pattern Recognition](docs/tutorials/ml-pattern-recognition.md)
+**Khái Niệm Nâng Cao:**
+- [Chương 5.1: Nhận Dạng Mô Hình Nâng Cao](docs/tutorials/advanced/chapter-5-1-quantitative-vpa-framework.md)
+- [Chương 5.2: Engine Backtesting Tổ Chức](docs/tutorials/advanced/chapter-5-2-backtesting-engine.md)
+- [Chương 5.3: Phân Tích Dòng Tiền Thông Minh](docs/tutorials/advanced/chapter-5-3-smart-money-flow-analysis.md)
+- [Chương 5.4: Nhận Dạng Mô Hình Machine Learning](docs/tutorials/advanced/chapter-5-4-machine-learning-vpa.md)
+- [Chương 5.5: Phân Tích Liên Thị Trường](docs/tutorials/advanced/chapter-5-5-cross-market-analysis.md)
+- [Chương 5.6: Hệ Thống Cảnh Báo Thông Minh](docs/tutorials/advanced/chapter-5-6-intelligent-alert-system.md)
+- [Chương 5.7: Tối Ưu Hóa Danh Mục](docs/tutorials/advanced/chapter-5-7-portfolio-optimization.md)
+- [Chương 5.8: Phân Bổ Hiệu Suất](docs/tutorials/advanced/chapter-5-8-performance-attribution.md)
+- [Chương 5.9: Triển Khai Production](docs/tutorials/advanced/chapter-5-9-production-deployment.md)
 
-### 🎯 Case Studies: Chiến Dịch Tích Lũy 2025
+### 🎯 Nghiên Cứu Tình Huống: Chiến Dịch Tích Lũy 2025
 
-Detailed case studies analyzing institutional accumulation campaigns in Vietnamese stocks during 2025:
+Phân tích chi tiết các chiến dịch tích lũy tổ chức trong cổ phiếu Việt Nam năm 2025:
 
 **➡️ [Nghiên Cứu Tình Huống: VIC - Chiến Dịch Tích Lũy Bất Động Sản 2025](docs/tutorials/case-studies/vic-accumulation-2025.md)**
 - Phân tích pattern tích lũy VIC Vingroup với chuỗi VPA hoàn hảo
@@ -108,26 +113,43 @@ Detailed case studies analyzing institutional accumulation campaigns in Vietname
 - Chuỗi VPA kinh điển: No Supply → Test for Supply → Sign of Strength
 - Thể hiện câu chuyện chuyển đổi ngân hàng khu vực
 
-### 🗺️ Navigation
+**➡️ [Nghiên Cứu Tình Huống: VCB - Chiến Dịch Tích Lũy Ngân Hàng Quốc Gia 2025](docs/tutorials/case-studies/vcb-accumulation-2025.md)**
+- Phân tích pattern tích lũy của ngân hàng lớn nhất Việt Nam
+- Thể hiện đặc tính blue-chip banking trong chu kỳ phục hồi
 
-**➡️ [Tutorial Map & Content Overview](docs/MAP_OF_CONTENT.md)**
-**➡️ [VPA Methods & Methodology](docs/methods/README.md)**
+**➡️ [Nghiên Cứu Tình Huống: Phân Tích Luân Chuyển Ngành](docs/tutorials/case-studies/sector-rotation-analysis.md)**
+- Nghiên cứu về luân chuyển ngành trong thị trường Việt Nam
+- Chiến lược đầu tư theo chu kỳ ngành
 
-## Key Features
+**➡️ [Nghiên Cứu Tình Huống: Phân Tích Phân Phối VN-Index](docs/tutorials/case-studies/vnindex-distribution-analysis.md)**
+- Phân tích pattern phân phối của VN-Index
+- Nhận dạng tín hiệu đảo chiều thị trường
 
--   **Configurable Ticker List**: Easily manage which stocks to analyze by editing a simple `TICKERS.csv` file.
--   **Smart Data Caching**: Automatically saves downloaded data and re-loads it from local files on subsequent runs, saving time and network requests.
--   **VPA Integration**: Reads your qualitative analysis from a `VPA.md` file and seamlessly integrates it into the final report.
--   **Detailed Reporting**: Generates a master `REPORT.md` with a summary table, a table of contents, and a detailed breakdown for each ticker.
--   **Advanced Charting**: Creates professional candlestick charts for each ticker, complete with volume and multiple moving averages.
+### 🗺️ Điều Hướng
 
-## Setup and Usage
+**➡️ [Bản Đồ Tutorial & Tổng Quan Nội Dung](docs/methods/MAP_OF_CONTENT.md)**
+**➡️ [Phương Pháp & Phương Pháp Luận VPA](docs/methods/README.md)**
+**➡️ [Hướng Dẫn Sử Dụng Dữ Liệu Thị Trường](docs/tutorials/data-integration/how-to-use-market-data.md)**
 
-### 1. Configure Tickers
+---
 
-Create and edit the **`TICKERS.csv`** file in the main project directory. Add the ticker symbols you want to analyze, one per line, under the `ticker` header.
+## 🚀 Hướng Dẫn Bắt Đầu Nhanh
 
-_Example `TICKERS.csv`:_
+### Tính Năng Chính
+
+-   **Danh Sách Ticker Có Thể Cấu Hình**: Dễ dàng quản lý các cổ phiếu cần phân tích bằng cách chỉnh sửa file `TICKERS.csv` đơn giản.
+-   **Smart Data Caching**: Tự động lưu dữ liệu đã tải và tải lại từ file local trong các lần chạy tiếp theo, tiết kiệm thời gian và yêu cầu mạng.
+-   **Tích Hợp VPA**: Đọc phân tích định tính của bạn từ file `VPA.md` và tích hợp liền mạch vào báo cáo cuối cùng.
+-   **Báo Cáo Chi Tiết**: Tạo file `REPORT.md` chính với bảng tóm tắt, mục lục, và phân tích chi tiết cho từng ticker.
+-   **Biểu Đồ Nâng Cao**: Tạo biểu đồ nến chuyên nghiệp cho từng ticker, đầy đủ với khối lượng và nhiều đường trung bình động.
+
+### Thiết Lập và Sử Dụng
+
+#### 1. Cấu Hình Tickers
+
+Tạo và chỉnh sửa file **`TICKERS.csv`** trong thư mục dự án chính. Thêm các ký hiệu ticker bạn muốn phân tích, mỗi dòng một ticker, dưới header `ticker`.
+
+_Ví dụ `TICKERS.csv`:_
 
 ```csv
 ticker
@@ -136,37 +158,39 @@ TCB
 FPT
 ```
 
-### 2. (Optional) Add Your Analysis
+#### 2. (Tùy Chọn) Thêm Phân Tích Của Bạn
 
-You can add your own price action analysis to the **`VPA.md`** file. The script will parse this file and display your notes alongside the corresponding ticker in the final report. Use a markdown header for each ticker.
+Bạn có thể thêm phân tích price action của riêng mình vào file **`VPA.md`**. Script sẽ phân tích file này và hiển thị ghi chú của bạn cùng với ticker tương ứng trong báo cáo cuối cùng. Sử dụng markdown header cho từng ticker.
 
-_Example `VPA.md`:_
+_Ví dụ `VPA.md`:_
 
 ```markdown
 # FPT
 
--   Strong uptrend continues.
--   A pullback to the 20-day MA could be a buying opportunity.
+-   Xu hướng tăng mạnh tiếp tục.
+-   Pullback về đường MA 20 ngày có thể là cơ hội mua vào.
 
 # TCB
 
--   Showing signs of accumulation in the current range.
+-   Cho thấy dấu hiệu tích lũy trong vùng hiện tại.
 ```
 
-### 3. Install Dependencies
+#### 3. Cài Đặt Dependencies
 
-Before running the script for the first time, install the required Python libraries using the `requirements.txt` file.
+Trước khi chạy script lần đầu tiên, cài đặt các thư viện Python cần thiết sử dụng file `requirements.txt`.
 
-Open your terminal and run:
+Mở terminal và chạy:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Pipeline
+#### 4. Chạy Pipeline
 
-To execute the data pipeline, simply run the `main.py` script from your terminal:
+Để thực thi data pipeline, đơn giản chỉ cần chạy script `main.py` từ terminal:
 
 ```bash
 python main.py
 ```
+
+---

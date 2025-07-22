@@ -1,34 +1,34 @@
-# AIPriceAction - Vietnamese Stock Market Analysis Pipeline
+# AIPriceAction - Hệ Thống Phân Tích Thị Trường Chứng Khoán Việt Nam
 
-A comprehensive automated system for analyzing Vietnamese stock market data with VPA (Volume Price Analysis) using AI-powered analysis and dividend detection.
+Hệ thống tự động hóa toàn diện để phân tích dữ liệu thị trường chứng khoán Việt Nam với VPA (Phân Tích Khối Lượng Giá) sử dụng phân tích được hỗ trợ AI và phát hiện cổ tức.
 
-## 📋 Table of Contents
+## 📋 Mục Lục
 
-- [Overview](#overview)
-- [Core Pipeline Scripts](#core-pipeline-scripts)
-- [Data Management Scripts](#data-management-scripts)
-- [VPA Analysis Scripts](#vpa-analysis-scripts)
-- [Dividend Detection System](#dividend-detection-system)
-- [Utilities and Testing](#utilities-and-testing)
-- [Configuration Files](#configuration-files)
+- [Tổng Quan](#tổng-quan)
+- [Scripts Pipeline Chính](#scripts-pipeline-chính)
+- [Scripts Quản Lý Dữ Liệu](#scripts-quản-lý-dữ-liệu)
+- [Scripts Phân Tích VPA](#scripts-phân-tích-vpa)
+- [Hệ Thống Phát Hiện Cổ Tức](#hệ-thống-phát-hiện-cổ-tức)
+- [Tiện Ích và Kiểm Thử](#tiện-ích-và-kiểm-thử)
+- [Files Cấu Hình](#files-cấu-hình)
 - [GitHub Actions Workflows](#github-actions-workflows)
-- [Usage Examples](#usage-examples)
-- [Directory Structure](#directory-structure)
+- [Ví Dụ Sử Dụng](#ví-dụ-sử-dụng)
+- [Cấu Trúc Thư Mục](#cấu-trúc-thư-mục)
 
-## 🎯 Overview
+## 🎯 Tổng Quan
 
-AIPriceAction is a flexible data pipeline that:
-- Downloads Vietnamese stock market data automatically
-- Generates professional candlestick charts with technical indicators
-- Performs AI-powered Volume Price Analysis (VPA) using Wyckoff methodology
-- Detects dividend adjustments automatically using multi-agent scanning
-- Produces comprehensive markdown reports with actionable insights
-- Supports both daily and weekly analysis modes
+AIPriceAction là một data pipeline linh hoạt với các tính năng:
+- Tự động tải dữ liệu thị trường chứng khoán Việt Nam
+- Tạo biểu đồ nến chuyên nghiệp với các chỉ báo kỹ thuật
+- Thực hiện Phân Tích Khối Lượng Giá (VPA) được hỗ trợ AI sử dụng phương pháp Wyckoff
+- Tự động phát hiện điều chỉnh cổ tức bằng hệ thống multi-agent scanning
+- Tạo báo cáo markdown toàn diện với thông tin có thể hành động
+- Hỗ trợ cả chế độ phân tích hàng ngày và hàng tuần
 
-## 🔧 Core Pipeline Scripts
+## 🔧 Scripts Pipeline Chính
 
-### `main.py` - Primary Data Pipeline
-**The heart of the system** - orchestrates the entire data processing workflow.
+### `main.py` - Data Pipeline Chính
+**Trái tim của hệ thống** - điều phối toàn bộ quy trình xử lý dữ liệu.
 
 ```bash
 # Basic usage
@@ -47,25 +47,25 @@ python main.py --check-dividend
 python main.py --week --check-dividend
 ```
 
-**What it does:**
-- Downloads stock data using vnstock library for all tickers in `TICKERS.csv`
-- Generates candlestick charts with volume and moving averages using mplfinance
-- Parses VPA analysis from `VPA.md` or `VPA_week.md`
-- Creates comprehensive `REPORT.md` with market analysis
-- Supports smart caching to avoid redundant API calls
-- Handles both daily (1D) and weekly (1W) intervals
+**Chức năng:**
+- Tải dữ liệu cổ phiếu sử dụng thư viện vnstock cho tất cả tickers trong `TICKERS.csv`
+- Tạo biểu đồ nến với khối lượng và đường trung bình động sử dụng mplfinance
+- Phân tích cú pháp VPA từ `VPA.md` hoặc `VPA_week.md`
+- Tạo `REPORT.md` toàn diện với phân tích thị trường
+- Hỗ trợ smart caching để tránh các cuộc gọi API dư thừa
+- Xử lý cả khoảng thời gian hàng ngày (1D) và hàng tuần (1W)
 
-**Key Features:**
-- **Smart Caching**: Automatically caches downloaded data to avoid redundant API calls
-- **Dual Timeframes**: Supports both daily and weekly analysis modes
-- **VPA Integration**: Seamlessly integrates manual volume price analysis
-- **Industry Grouping**: Categorizes stocks by industry using `ticker_group.json`
-- **Professional Charts**: Generated candlestick charts with comprehensive technical indicators
+**Tính Năng Chính:**
+- **Smart Caching**: Tự động cache dữ liệu đã tải để tránh các cuộc gọi API dư thừa
+- **Dual Timeframes**: Hỗ trợ cả chế độ phân tích hàng ngày và hàng tuần
+- **Tích Hợp VPA**: Tích hợp liền mạch phân tích khối lượng giá thủ công
+- **Nhóm Ngành**: Phân loại cổ phiếu theo ngành sử dụng `ticker_group.json`
+- **Biểu Đồ Chuyên Nghiệp**: Tạo biểu đồ nến với các chỉ báo kỹ thuật toàn diện
 
-## 📊 Data Management Scripts
+## 📊 Scripts Quản Lý Dữ Liệu
 
-### `get_market_cap.py` - Market Capitalization Data
-Downloads and caches market capitalization data for all Vietnamese stocks.
+### `get_market_cap.py` - Dữ Liệu Vốn Hóa Thị Trường
+Tải và cache dữ liệu vốn hóa thị trường cho tất cả cổ phiếu Việt Nam.
 
 ```bash
 # Fresh download
@@ -75,14 +75,14 @@ python get_market_cap.py
 python get_market_cap.py --resume
 ```
 
-**Features:**
-- Fetches market cap data from Vietnamese exchanges
-- Implements intelligent caching to prevent redundant API calls
-- Supports resume mode for interrupted downloads
-- Rate limiting to respect API constraints
+**Tính Năng:**
+- Lấy dữ liệu vốn hóa từ các sàn giao dịch Việt Nam
+- Triển khai intelligent caching để ngăn chặn các cuộc gọi API dư thừa
+- Hỗ trợ chế độ resume cho các lần tải bị gián đoạn
+- Rate limiting để tôn trọng các ràng buộc API
 
-### `merge_vpa.py` - VPA Data Combiner
-Combines individual ticker VPA files from `vpa_data/` directory into main VPA file.
+### `merge_vpa.py` - Công Cụ Gộp Dữ Liệu VPA
+Gộp các file VPA ticker riêng lẻ từ thư mục `vpa_data/` vào file VPA chính.
 
 ```bash
 # Merge daily VPA analysis
@@ -92,21 +92,21 @@ python merge_vpa.py
 python merge_vpa.py --week
 ```
 
-**What it does:**
-- Reads all individual ticker files from `vpa_data/` directory (e.g., `vpa_data/SIP.md`, `vpa_data/TPB.md`)
-- Combines into single `VPA.md` or `VPA_week.md` file with proper formatting
-- Maintains alphabetical ticker ordering with proper `# TICKER` headers
-- Handles both daily and weekly modes
-- Preserves existing analysis structure and formatting
-- Creates backup of processed data automatically
+**Chức năng:**
+- Đọc tất cả file ticker riêng lẻ từ thư mục `vpa_data/` (ví dụ: `vpa_data/SIP.md`, `vpa_data/TPB.md`)
+- Gộp vào file `VPA.md` hoặc `VPA_week.md` duy nhất với định dạng phù hợp
+- Duy trì thứ tự ticker theo bảng chữ cái với headers `# TICKER` phù hợp
+- Xử lý cả chế độ hàng ngày và hàng tuần
+- Bảo tồn cấu trúc và định dạng phân tích hiện có
+- Tự động tạo backup dữ liệu đã xử lý
 
-### `merge_vpa_legacy.py` - Legacy VPA Merger
-Legacy script for merging `VPA_NEW.md` into existing VPA files (kept for reference).
+### `merge_vpa_legacy.py` - Công Cụ Gộp VPA Legacy
+Script legacy để gộp `VPA_NEW.md` vào các file VPA hiện có (giữ lại để tham khảo).
 
-## 🧠 VPA Analysis Scripts
+## 🧠 Scripts Phân Tích VPA
 
-### VPA Data Files Structure
-The system uses structured markdown files for VPA analysis:
+### Cấu Trúc Files Dữ Liệu VPA
+Hệ thống sử dụng các file markdown có cấu trúc cho phân tích VPA:
 
 - **`VPA.md`** - Daily VPA analysis (combined from vpa_data/)
 - **`VPA_week.md`** - Weekly VPA analysis  
@@ -123,15 +123,15 @@ The system uses structured markdown files for VPA analysis:
 ---
 ```
 
-**Current Workflow:**
-1. AI agents write analysis to individual `vpa_data/{TICKER}.md` files (e.g., `vpa_data/SIP.md`, `vpa_data/TPB.md`)
-2. `merge_vpa.py` combines all ticker files into main `VPA.md` with proper formatting
-3. `main.py` integrates VPA analysis into final reports and generates charts
+**Quy Trình Hiện Tại:**
+1. AI agents viết phân tích vào các file `vpa_data/{TICKER}.md` riêng lẻ (ví dụ: `vpa_data/SIP.md`, `vpa_data/TPB.md`)
+2. `merge_vpa.py` gộp tất cả file ticker vào `VPA.md` chính với định dạng phù hợp
+3. `main.py` tích hợp phân tích VPA vào báo cáo cuối cùng và tạo biểu đồ
 
-## 🔍 Dividend Detection System
+## 🔍 Hệ Thống Phát Hiện Cổ Tức
 
-### `vpa_dividend_scanner.py` - Multi-Agent Dividend Scanner
-**Advanced multi-agent system** that intelligently scans VPA data and compares with CSV prices to detect dividend adjustments.
+### `vpa_dividend_scanner.py` - Máy Quét Cổ Tức Multi-Agent
+**Hệ thống multi-agent tiên tiến** quét thông minh dữ liệu VPA và so sánh với giá CSV để phát hiện điều chỉnh cổ tức.
 
 ```bash
 # Scan daily data
@@ -144,22 +144,22 @@ python vpa_dividend_scanner.py --week
 python vpa_dividend_scanner.py --workers 8
 ```
 
-**How it works:**
-1. **Deploys multiple agents** (default: 8) to analyze tickers in parallel
-2. **Extracts prices** from Vietnamese VPA text using intelligent regex patterns
-3. **Compares with CSV data** using statistical analysis
-4. **Detects dividend patterns** when prices show consistent adjustments
-5. **Copies flagged files** to `market_data_check_dividends/` for AI processing
+**Cách hoạt động:**
+1. **Triển khai nhiều agents** (mặc định: 8) để phân tích tickers song song
+2. **Trích xuất giá** từ văn bản VPA tiếng Việt sử dụng các mẫu regex thông minh
+3. **So sánh với dữ liệu CSV** sử dụng phân tích thống kê
+4. **Phát hiện patterns cổ tức** khi giá cho thấy điều chỉnh nhất quán
+5. **Copy các file được đánh dấu** vào `market_data_check_dividends/` để xử lý AI
 
-**Features:**
-- **Multi-threaded processing** for speed and efficiency
-- **Vietnamese text parsing** with intelligent price extraction
-- **Statistical validation** (15%+ difference, 60%+ confidence required)
-- **False positive prevention** with consistency checking
-- **Detailed reporting** with JSON results and confidence scores
+**Tính Năng:**
+- **Xử lý multi-threaded** để tăng tốc độ và hiệu quả
+- **Phân tích văn bản tiếng Việt** với trích xuất giá thông minh
+- **Xác thực thống kê** (yêu cầu chênh lệch 15%+, độ tin cậy 60%+)
+- **Ngăn chặn false positive** với kiểm tra tính nhất quán
+- **Báo cáo chi tiết** với kết quả JSON và điểm tin cậy
 
-### `verify_dividends.py` - Legacy Dividend Checker
-Original dividend detection script (now superseded by multi-agent scanner).
+### `verify_dividends.py` - Công Cụ Kiểm Tra Cổ Tức Legacy
+Script phát hiện cổ tức nguyên bản (hiện đã được thay thế bởi multi-agent scanner).
 
 ```bash
 python verify_dividends.py
@@ -597,6 +597,30 @@ Mỗi nghiên cứu tình huống đại diện cho một **phân tích chiến 
 - **Chuyển Đổi Ngân Hàng:** Chủ đề hiện đại hóa ngân hàng khu vực
 - **Thực Thi Chuyên Nghiệp:** Chiến lược vào và ra lệnh tổ chức
 
+**VCB - Chiến Dịch Tích Lũy Ngân Hàng Quốc Gia 2025**
+- **Blue-Chip Banking:** Phân tích pattern tích lũy của ngân hàng lớn nhất Việt Nam
+- **Đặc Tính Quốc Gia:** Thể hiện sức mạnh ngân hàng blue-chip trong chu kỳ phục hồi
+- **Mô Hình Tổ Chức:** Cách dòng tiền thông minh tích lũy trong cổ phiếu trụ cột
+- **Timing Hoàn Hảo:** Phân tích các điểm vào lệnh optimal dựa trên VPA signals
+- **Quản Lý Rủi Ro:** Khung đánh giá rủi ro đặc thù cho blue-chip banking
+- **Chiến Lược Dài Hạn:** Phương pháp đầu tư value investing cho ngân hàng quốc gia
+
+**Phân Tích Luân Chuyển Ngành - Nghiên Cứu Tổng Thể Thị Trường 2025**
+- **Chu Kỳ Ngành:** Nghiên cứu về luân chuyển ngành trong thị trường Việt Nam
+- **Leadership Rotation:** Phân tích sự chuyển giao leadership giữa các ngành
+- **Timing Ngành:** Xác định thời điểm optimal để chuyển đổi sector allocation
+- **Macro Context:** Tích hợp phân tích kinh tế vĩ mô với rotation patterns
+- **Performance Attribution:** Đo lường contribution của sector rotation vào returns
+- **Chiến Lược Tactical:** Framework tactical asset allocation dựa trên sector analysis
+
+**Phân Tích Phân Phối VN-Index - Nghiên Cứu Market-Wide Distribution**
+- **Distribution Pattern:** Phân tích pattern phân phối của VN-Index
+- **Market Reversal:** Nhận dạng tín hiệu đảo chiều thị trường sớm
+- **Volume Analysis:** Phân tích khối lượng để xác nhận distribution phases
+- **Sector Impact:** Đánh giá impact của từng ngành trong distribution process
+- **Risk Management:** Chiến lược phòng ngừa rủi ro trong market distribution
+- **Exit Strategy:** Framework để exit positions trong distribution phases
+
 ### 🔄 Integration with Pipeline Data
 
 #### **Real-Time Learning**
@@ -657,24 +681,37 @@ graph LR
 #### **File Structure Integration**
 ```
 docs/tutorials/
-├── vpa-basics-vi.md              # Chapter 1.1
-├── wyckoff-laws-vi.md             # Chapter 1.2  
-├── composite-man-vi.md            # Chapter 1.3
-├── accumulation-phases-vi.md      # Chapter 2.1
-├── distribution-phases-vi.md      # Chapter 2.2
-├── bullish-vpa-signals-vi.md      # Chapter 3.1
-├── bearish-vpa-signals-vi.md      # Chapter 3.2
-├── trading-systems-vi.md          # Chapter 4.1
-├── advanced-pattern-recognition.md # Chapter 5.1
-├── institutional-backtesting.md    # Chapter 5.2
-├── smart-money-flow.md            # Chapter 5.3
-├── ml-pattern-recognition.md      # Chapter 5.4
-└── case-studies/
-    ├── vic-accumulation-2025.md   # VIC case study
-    ├── vhm-accumulation-2025.md   # VHM case study
-    ├── ssi-accumulation-2025.md   # SSI case study  
-    ├── vix-accumulation-2025.md   # VIX case study
-    └── lpb-accumulation-2025.md   # LPB case study
+├── chapter-1-1-vpa-basics.md              # Chapter 1.1
+├── chapter-1-2-wyckoff-laws.md            # Chapter 1.2  
+├── chapter-1-3-composite-man.md           # Chapter 1.3
+├── chapter-2-1-accumulation-phases.md     # Chapter 2.1
+├── chapter-2-2-distribution-phases.md     # Chapter 2.2
+├── chapter-3-1-bullish-vpa-signals.md     # Chapter 3.1
+├── chapter-3-2-bearish-vpa-signals.md     # Chapter 3.2
+├── chapter-4-1-trading-systems.md         # Chapter 4.1
+├── advanced/
+│   ├── chapter-5-1-quantitative-vpa-framework.md     # Chapter 5.1
+│   ├── chapter-5-2-backtesting-engine.md             # Chapter 5.2
+│   ├── chapter-5-3-smart-money-flow-analysis.md      # Chapter 5.3
+│   ├── chapter-5-4-machine-learning-vpa.md           # Chapter 5.4
+│   ├── chapter-5-5-cross-market-analysis.md          # Chapter 5.5
+│   ├── chapter-5-6-intelligent-alert-system.md       # Chapter 5.6
+│   ├── chapter-5-7-portfolio-optimization.md         # Chapter 5.7
+│   ├── chapter-5-8-performance-attribution.md        # Chapter 5.8
+│   └── chapter-5-9-production-deployment.md          # Chapter 5.9
+├── case-studies/
+│   ├── vic-accumulation-2025.md           # VIC case study
+│   ├── vhm-accumulation-2025.md           # VHM case study
+│   ├── ssi-accumulation-2025.md           # SSI case study  
+│   ├── vix-accumulation-2025.md           # VIX case study
+│   ├── lpb-accumulation-2025.md           # LPB case study
+│   ├── vcb-accumulation-2025.md           # VCB case study
+│   ├── sector-rotation-analysis.md        # Sector rotation analysis
+│   └── vnindex-distribution-analysis.md   # VN-Index distribution analysis
+├── data-integration/
+│   └── how-to-use-market-data.md          # Data integration guide
+└── exercises/
+    └── chapter-1-1-exercises.ipynb        # Interactive exercises
 ```
 
 #### **Data Dependencies**
