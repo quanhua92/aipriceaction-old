@@ -484,6 +484,27 @@ Chương 2.1 sẽ đi sâu vào **Các Giai Đoạn Tích Lũy** - quá trình c
 
 ---
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **VIC ngày 10/06/2025 cho thấy giai đoạn nào của Composite Man?**
+   - *Gợi ý: Selling Climax hay Accumulation?*
+
+2. **Tại sao HPG ngày 30/05/2025 là dấu hiệu Distribution?**
+   - *Gợi ý: Volume vs Price relationship*
+
+3. **Smart Money và Retail Investors khác nhau gì về timing?**
+   - *Gợi ý: Fear vs Greed cycles*
+
+4. **Làm thế nào để nhận biết Accumulation vs Reaccumulation?**
+   - *Gợi ý: Previous price action context*
+
+5. **Banking sector hiện tại đang ở giai đoạn nào theo phân tích Composite Man?**
+   - *Gợi ý: Multiple SOS signals nghĩa là gì?*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-1-3-composite-man-answers.md)**
+
+---
+
 ## Ghi Chú Quan Trọng
 
 ⚠️ **Composite Man analysis đòi hỏi thời gian và kinh nghiệm** - đừng nhanh nóng

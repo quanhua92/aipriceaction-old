@@ -23,9 +23,9 @@ flowchart TD
     
     B --> B1[Demand > Supply = Giá tăng<br/>Supply > Demand = Giá giảm<br/>Supply = Demand = Giá đi ngang]
     
-    C --> C1[Accumulation (Nguyên nhân) → Markup (Kết quả)<br/>Distribution (Nguyên nhân) → Markdown (Kết quả)<br/>Quy mô Nguyên nhân = Quy mô Kết quả]
+    C --> C1["Accumulation (Nguyên nhân) → Markup (Kết quả)<br/>Distribution (Nguyên nhân) → Markdown (Kết quả)<br/>Quy mô Nguyên nhân = Quy mô Kết quả"]
     
-    D --> D1[Volume (Nỗ lực) phải tương xứng Price Move (Kết quả)<br/>Sự bất hợp lý = Tín hiệu cảnh báo<br/>Trái tim của VPA methodology]
+    D --> D1["Volume (Nỗ lực) phải tương xứng Price Move (Kết quả)<br/>Sự bất hợp lý = Tín hiệu cảnh báo<br/>Trái tim của VPA methodology"]
 ```
 
 Những quy luật này **không phải lý thuyết** mà là **quy luật tự nhiên** được kiểm chứng qua hàng triệu giao dịch. Chúng ta sẽ chứng minh điều này qua dữ liệu thực tế từ thị trường Việt Nam.
@@ -762,6 +762,8 @@ Chương 1.3 sẽ đi sâu vào **Composite Man** concept - cách "dòng tiền 
 
 5. **HPG ngày 30/05/2025 cho thấy law violation gì?**
    - *Gợi ý: Ultra volume but weak close*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-1-2-wyckoff-laws-answers.md)**
 
 ---
 

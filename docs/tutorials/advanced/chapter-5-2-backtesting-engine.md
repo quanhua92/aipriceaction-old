@@ -511,5 +511,24 @@ for ly_do, thong_tin in ket_qua['phan_tich_ly_do_ban'].items():
 - ✅ Quản lý rủi ro dựa trên số liệu cụ thể
 - ✅ So sánh khách quan nhiều phương pháp
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **Tại sao backtesting lại quan trọng trong phát triển chiến lược VPA?**
+   - *Gợi ý: Validation, optimization, risk assessment*
+
+2. **Sự khác biệt giữa in-sample và out-of-sample testing là gì?**
+   - *Gợi ý: Overfitting prevention và validation approach*
+
+3. **4 metrics chính để đánh giá hiệu suất backtesting là gì?**
+   - *Gợi ý: Win rate, Profit factor, Sharpe ratio, Max drawdown*
+
+4. **Làm thế nào để tránh overfitting trong backtesting?**
+   - *Gợi ý: Simple rules, walk-forward analysis, robustness testing*
+
+5. **Backtesting engine chuyên nghiệp cần những component nào?**
+   - *Gợi ý: Data management, signal processing, performance analysis, reporting*
+
+📖 **[Xem Đáp Án Chi Tiết](../answers/chapter-5-2-backtesting-engine-answers.md)**
+
 ### Chương Tiếp Theo:
 **Chương 5.3: Phân Tích Dòng Tiền Thông Minh** - Cách theo dõi tiền của các nhà đầu tư lớn trong thị trường Việt Nam.

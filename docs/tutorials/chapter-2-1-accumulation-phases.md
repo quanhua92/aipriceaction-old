@@ -542,6 +542,27 @@ Chương 2.2 sẽ đi sâu vào **Giai Đoạn Phân Phối** - "hình ảnh gư
 
 ---
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **VIC ngày 10/06/2025 thể hiện sự kiện Wyckoff nào trong Phase A?**
+   - *Gợi ý: Volume 6.8M với gap down và recovery mạnh*
+
+2. **Tại sao VIC ngày 11/06/2025 lại là Secondary Test (ST) hoàn hảo?**
+   - *Gợi ý: Volume thay đổi như thế nào so với SC?*
+
+3. **Spring khác gì với Selling Climax về mặt volume và intent?**
+   - *Gợi ý: Smart Money strategy khác nhau trong 2 events*
+
+4. **Làm thế nào để tính price target từ Trading Range width?**
+   - *Gợi ý: Point & Figure method - công thức cụ thể*
+
+5. **Banking sector hiện tại đang ở phase nào và evidence gì chứng minh?**
+   - *Gợi ý: VCB và TCB patterns analysis*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-2-1-accumulation-phases-answers.md)**
+
+---
+
 ## Ghi Chú Quan Trọng
 
 ⚠️ **Accumulation patterns cần thời gian phát triển** - great patterns không hình thành trong vài ngày

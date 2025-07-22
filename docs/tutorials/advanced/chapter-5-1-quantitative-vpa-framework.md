@@ -420,5 +420,24 @@ for khuyen_nghi in ket_qua['khuyen_nghi']:
 - ✅ Tránh được những cú lừa ngẫu nhiên
 - ✅ Quản lý rủi ro hiệu quả hơn
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **Sự khác biệt chính giữa phân tích VPA "cũ" và "mới" là gì?**
+   - *Gợi ý: Từ "có vẻ" đến "chắc chắn"*
+
+2. **Làm thế nào để tính độ bất thường của khối lượng?**
+   - *Gợi ý: So sánh với trung bình 20 ngày và áp dụng scale 0-5*
+
+3. **5 yếu tố trong hệ thống đánh giá nâng cao là gì?**
+   - *Gợi ý: Volume, Price recovery, Context, Technical, Risk*
+
+4. **Tại sao cần phải đo lường chính xác thay vì dựa vào trực giác?**
+   - *Gợi ý: Consistency, objectivity, risk management*
+
+5. **Ứng dụng quantitative framework vào dữ liệu thực tế như thế nào?**
+   - *Gợi ý: Code implementation với VCB, TCB, HPG*
+
+📖 **[Xem Đáp Án Chi Tiết](../answers/chapter-5-1-quantitative-vpa-framework-answers.md)**
+
 ### Chương Tiếp Theo:
 **Chương 5.2: Xây Dựng Hệ Thống Backtesting Chuyên Nghiệp** - Cách kiểm tra xem chiến lược của bạn có thực sự hiệu quả trong quá khứ hay không.

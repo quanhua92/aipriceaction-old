@@ -235,105 +235,105 @@ Phân tích: "Đà tăng chững lại, lực cầu không còn quyết liệt"
 | **Duration** | 1-3 days | 1-2 days |
 | **Purpose** | Trap buyers | Test remaining demand |
 
-## 5. Phase D: The Decline Begins
+## 5. Phase D: Bắt Đầu Suy Giảm - "Nguồn Cung Áp Đảo"
 
-### 5.1 Supply Overwhelms Demand
+### 5.1 Nguồn Cung Áp Đảo Cầu (Supply Overwhelms Demand)
 
-**Evidence:**
-- Price easily breaks through support
-- Volume increases significantly on declines
-- Wide spreads down với bearish closes
-- Any bounces weak và short-lived
+**Bằng chứng rõ ràng:**
+- 📉 **Giá dễ dàng phá vỡ hỗ trợ** - Không còn sức cầu đáng kể
+- 📊 **Volume tăng đáng kể khi giảm** - Smart money bán mạnh
+- 📏 **Biên độ rộng xuống với đóng cửa bearish** - Áp lực bán thống trị
+- 🔄 **Mọi đợt phục hồi đều yếu và ngắn ngủi** - Thiếu niềm tin
 
-### 5.2 Support Becomes Resistance
+### 5.2 Hỗ Trợ Trở Thành Kháng Cự
 
-**Key concept:** Previous accumulation zone now becomes selling area
-**Why:** Smart money established cost basis higher
-**Implication:** Any bounce to old support met with fresh selling
+**Khái niệm chính:** Vùng tích lũy trước đây giờ trở thành vùng bán
+**Tại sao:** Smart money có cost basis cao hơn
+**Ý nghĩa:** Mọi đợt phục hồi về vùng hỗ trợ cũ đều gặp áp lực bán mới
 
-## 6. Phase E: Stock Leaves Range
+## 6. Phase E: Cổ Phiếu Thoát Khỏi Vùng - "Sự Sụp Đổ Quyết Định"
 
-### 6.1 Support Line Break
+### 6.1 Phá Vỡ Đường Hỗ Trợ (Support Line Break)
 
-**Definition:** Decisive break below distribution range
-**Characteristics:**
-- **High volume breakdown**
-- **Wide spread down** 
-- **Bearish close near low**
-- **No intraday recovery**
+**Định nghĩa:** Phá vỡ quyết định xuống dưới vùng phân phối
+**Đặc điểm nhận dạng:**
+- 📊 **Volume cao khi breakdown** - Xác nhận áp lực bán
+- 📏 **Biên độ rộng xuống** - Panic selling xuất hiện
+- 📉 **Đóng cửa bearish gần đáy** - Không có sự phục hồi
+- ❌ **Không có phục hồi intraday** - Áp lực bán liên tục
 
-### 6.2 Backup Rally (if any)
+### 6.2 Đợt Phục Hồi Giả (Backup Rally) - Nếu Có
 
-**Weak rallies may occur:**
-- Return toward broken support (now resistance)
-- Very low volume (confirms no demand)
-- Quick failure và resumed decline
+**Các đợt tăng yếu có thể xảy ra:**
+- 🔙 **Trở về gần vùng hỗ trợ bị phá (giờ là kháng cự)** - Test lại breakdown level
+- 📊 **Volume rất thấp** - Xác nhận không có cầu
+- ⚡ **Thất bại nhanh chóng và tiếp tục giảm** - Fake recovery
 
-## 7. Distribution vs Reaccumulation
+## 7. Phân Phối vs Tái Tích Lũy - "Phân Biệt Thật Giả"
 
-### 7.1 Critical Distinctions
+### 7.1 Sự Khác Biệt Quan Trọng
 
-**Distribution Signals:**
+**Tín Hiệu Phân Phối:**
 
-| Metric | Distribution | Reaccumulation |
-|---------|-------------|----------------|
-| **Volume on Rallies** | Decreasing | Stable/Increasing |
-| **Volume on Declines** | Increasing | Decreasing |
-| **Close Position** | Weakening | Maintaining strength |
-| **Breakthrough** | Downward | Upward |
-| **Market Context** | Late bull market | Mid bull market |
+| Chỉ số | Phân Phối | Tái Tích Lũy |
+|---------|-------------|----------------| 
+| **Volume khi Tăng** | Giảm dần | Ổn định/Tăng |
+| **Volume khi Giảm** | Tăng lên | Giảm xuống |
+| **Vị Trí Đóng Cửa** | Yếu đi | Duy trì sức mạnh |
+| **Hướng Đột Phá** | Xuống dưới | Lên trên |
+| **Bối Cảnh Thị Trường** | Cuối bull market | Giữa bull market |
 
-### 7.2 The "Fake-Out" Problem
+### 7.2 Vấn Đề "Nhầm Lẫn" - The "Fake-Out" Problem
 
-**Common mistake:** Mistaking distribution for reaccumulation
-**Solutions:**
-- Focus on volume characteristics
-- Monitor smart money behavior
-- Consider broader market context
-- Use multiple timeframe analysis
+**Sai lầm phổ biến:** Nhầm lẫn phân phối với tái tích lũy
+**Giải pháp:**
+- 🔍 **Tập trung vào đặc điểm volume** - Volume không thể giả dối
+- 👁️ **Theo dõi hành vi smart money** - Xem họ mua hay bán
+- 🌍 **Xem xét bối cảnh thị trường rộng** - Market cycle position
+- ⏰ **Sử dụng phân tích đa timeframe** - Xác nhận từ nhiều khung thời gian
 
-## 8. Volume Analysis in Distribution
+## 8. Phân Tích Volume Trong Phân Phối - "Dấu Chân" Smart Money
 
-### 8.1 Volume Patterns Evolution
+### 8.1 Tiến Hóa Mẫu Hình Volume
 
-**Phase A:** High volume on BC, moderate on AR
-**Phase B:** Decreasing on rallies, increasing on declines  
-**Phase C:** High on UTAD, very low on LPSY
-**Phase D/E:** High on breakdown, low on bounces
+**Phase A:** Volume cao tại BC, trung bình tại AR
+**Phase B:** Giảm khi tăng, tăng khi giảm  
+**Phase C:** Cao tại UTAD, rất thấp tại LPSY
+**Phase D/E:** Cao khi breakdown, thấp khi phục hồi
 
-### 8.2 Volume Divergence Signals
+### 8.2 Tín Hiệu Phân Kỳ Volume - Volume Divergence Signals
 
 ```python
-def detect_distribution_volume_signals(df):
-    """Detect volume patterns indicating distribution"""
-    signals = []
+def phat_hien_tin_hieu_volume_phan_phoi(df):
+    """Phát hiện các mẫu hình volume chỉ ra phân phối"""
+    tin_hieu = []
     
-    # Look for high volume with poor price performance
+    # Tìm kiếm volume cao với kết quả giá kém
     for i in range(20, len(df)):
-        if (df['volume_ratio'].iloc[i] > 2.0 and          # High volume
-            df['price_change'].iloc[i] > 1.0 and         # Price up
-            df['close_position'].iloc[i] < 0.4):         # But weak close
+        if (df['volume_ratio'].iloc[i] > 2.0 and          # Volume cao
+            df['price_change'].iloc[i] > 1.0 and         # Giá tăng
+            df['close_position'].iloc[i] < 0.4):         # Nhưng đóng cửa yếu
             
-            signals.append({
-                'date': df.index[i],
-                'type': 'Buying Climax',
-                'volume_ratio': df['volume_ratio'].iloc[i],
-                'close_position': df['close_position'].iloc[i]
+            tin_hieu.append({
+                'ngay': df.index[i],
+                'loai': 'Buying Climax',
+                'ty_le_volume': df['volume_ratio'].iloc[i],
+                'vi_tri_dong_cua': df['close_position'].iloc[i]
             })
             
-        # Look for volume increasing on declines
-        elif (df['volume_ratio'].iloc[i] > 1.5 and       # Above average volume
-              df['price_change'].iloc[i] < -1.0 and      # Price down
-              df['close_position'].iloc[i] < 0.3):       # Bearish close
+        # Tìm kiếm volume tăng khi giá giảm
+        elif (df['volume_ratio'].iloc[i] > 1.5 and       # Volume trên trung bình
+              df['price_change'].iloc[i] < -1.0 and      # Giá giảm
+              df['close_position'].iloc[i] < 0.3):       # Đóng cửa bearish
             
-            signals.append({
-                'date': df.index[i],
-                'type': 'Supply Overwhelms Demand',
-                'volume_ratio': df['volume_ratio'].iloc[i],
-                'price_change': df['price_change'].iloc[i]
+            tin_hieu.append({
+                'ngay': df.index[i],
+                'loai': 'Nguon Cung Ap Dao Cau',
+                'ty_le_volume': df['volume_ratio'].iloc[i],
+                'thay_doi_gia': df['price_change'].iloc[i]
             })
     
-    return signals
+    return tin_hieu
 ```
 
 ## 9. Real-World Example: VNINDEX Distribution Analysis
@@ -374,129 +374,129 @@ Phân tích: "Effort to Fall, áp lực bán thắng thế"
 - High volume continued on down move
 - Retail trapped at highs, smart money distributed
 
-### Lessons from VNINDEX Case:
+### Bài Học Từ Case VNINDEX:
 
-1. **Volume spikes với poor results = Major warning**
-2. **Record volume often marks important tops**
-3. **Next day action confirms distribution**
-4. **Vietnam market follows universal patterns**
+1. **Volume bùng nổ với kết quả kém = Cảnh báo lớn**
+2. **Volume kỷ lục thường đánh dấu đỉnh quan trọng**
+3. **Hành động ngày hôm sau xác nhận phân phối**
+4. **Thị trường Việt Nam tuân theo quy luật phổ quát**
 
-## 10. Sector Distribution Analysis
+## 10. Phân Tích Phân Phối Theo Ngành - Sector Distribution Analysis
 
-### Technology Sector Distribution (Hypothetical)
+### Phân Phối Ngành Công Nghệ (Giả định)
 
-**Identifying sector-wide distribution:**
-- Multiple stocks showing similar patterns
-- Sector leaders failing to make new highs
-- Volume characteristics deteriorating
-- Relative strength weakening vs market
+**Nhận diện phân phối toàn ngành:**
+- 📊 **Nhiều cổ phiếu có mẫu hình tương tự** - Pattern synchronization
+- 📈 **Cổ phiếu dẫn đầu ngành không tạo được đỉnh mới** - Leadership failure
+- 📉 **Đặc điểm volume xấu đi** - Volume quality deterioration
+- ⚖️ **Sức mạnh tương đối yếu đi so với thị trường** - Relative weakness
 
-### Banking Sector Health Check
+### Kiểm Tra Sức Khỏe Ngành Ngân Hàng
 
-**Current status (Mid-2025):**
-- **VCB:** Still in accumulation/early markup
-- **TCB:** Mixed signals, possible reaccumulation
-- **Sector rotation:** Money flowing OUT of other sectors INTO banking
+**Tình trạng hiện tại (Giữa 2025):**
+- **VCB:** Vẫn trong giai đoạn tích lũy/markup sớm
+- **TCB:** Tín hiệu hỗn hợp, có thể tái tích lũy
+- **Luân chuyển ngành:** Tiền chảy RA khỏi các ngành khác VÀO ngân hàng
 
-**Implication:** Banking not yet in distribution phase
+**Ý nghĩa:** Ngân hàng chưa vào giai đoạn phân phối
 
-## 11. Trading Distribution Patterns
+## 11. Giao Dịch Với Mẫu Hình Phân Phối - Trading Distribution Patterns
 
-### 11.1 Short Selling Opportunities
+### 11.1 Cơ Hội Bán Khống (Short Selling Opportunities)
 
-**Best Short Entry Points:**
-1. **UTAD failure:** After false breakout fails
-2. **LPSY rejection:** Weak rally from support fails
-3. **Support break:** Decisive breakdown with volume
-4. **Backup rally:** Weak bounce to resistance
+**Điểm vào lệnh Short tốt nhất:**
+1. **UTAD thất bại:** Sau khi breakout giả thất bại
+2. **LPSY bị từ chối:** Đợt tăng yếu từ hỗ trợ thất bại
+3. **Phá vỡ hỗ trợ:** Breakdown quyết định với volume
+4. **Đợt phục hồi giả:** Phục hồi yếu về kháng cự
 
-### 11.2 Long Position Protection
+### 11.2 Bảo Vệ Vị Thế Long Hiện Tại
 
-**Exit Signals for Existing Longs:**
-- Volume anomalies (effort vs result)
-- Support/resistance role reversal
-- Multiple SOW signals
-- Breakdown below Phase C low
+**Tín hiệu thoát lệnh cho Long positions hiện tại:**
+- 📊 **Bất thường volume** (effort vs result)
+- 🔄 **Đảo ngược vai trò hỗ trợ/kháng cự** - Psychology flip
+- ⚠️ **Nhiều tín hiệu SOW** - Signs of weakness accumulate
+- 📉 **Phá vỡ dưới đáy Phase C** - Structure breakdown
 
-### 11.3 Risk Management
+### 11.3 Quản Lý Rủi Ro - Risk Management
 
-**Stop Loss for Shorts:**
-- Above UTAD high
-- Above recent BC level  
-- Adjust lower as distribution progresses
+**Đặt Stop Loss cho Short positions:**
+- ⬆️ **Trên đỉnh UTAD** - Invalidation level
+- 📈 **Trên mức BC gần đây** - Recent high protection
+- 🔄 **Điều chỉnh thấp hơn khi phân phối tiến triển** - Trail stops
 
-**Position Sizing:**
-- Start small on early distribution signs
-- Add on confirmed breakdown
-- Maximum size on backup rally failures
+**Kích Thước Vị Thế:**
+- 🐥 **Bắt đầu nhỏ với dấu hiệu phân phối sớm** - Test the waters
+- 📊 **Tăng thêm khi breakdown được xác nhận** - Add on confirmation
+- 🔄 **Kích thước tối đa khi backup rally thất bại** - Maximum conviction
 
-## 12. Common Distribution Traps
+## 12. Bẫn Phân Phối Phổ Biến - Common Distribution Traps
 
-### 12.1 The "New High" Trap
+### 12.1 Bẫn "New High" - Cầu Trập Đỉnh Mới
 
-**Scenario:** Stock makes new high on good news
-**Reality:** Often UTAD setup
-**Solution:** Check volume và close position
+**Kịch bản:** Cổ phiếu lập đỉnh mới trên tin tức tốt
+**Thực tế:** Thường là setup UTAD
+**Giải pháp:** Kiểm tra volume và vị trí đóng cửa
 
-### 12.2 The "Support Holds" Trap
+### 12.2 Bẫn "Support Holds" - Cầu Trập Hỗ Trợ Giữ Vững
 
-**Scenario:** Support bounces look strong
-**Reality:** Often LPSY before final breakdown
-**Solution:** Monitor volume on bounces
+**Kịch bản:** Các đợt phục hồi từ hỗ trợ trông mạnh
+**Thực tế:** Thường là LPSY trước breakdown cuối cùng
+**Giải pháp:** Theo dõi volume trên các đợt phục hồi
 
-### 12.3 The "Oversold" Trap
+### 12.3 Bẫn "Oversold" - Cầu Trập Quá Bán
 
-**Scenario:** Technical indicators show oversold
-**Reality:** Distribution can continue much longer
-**Solution:** Respect the primary trend
+**Kịch bản:** Chỉ báo kỹ thuật hiển thị oversold
+**Thực tế:** Phân phối có thể tiếp tục lâu hơn nhiều
+**Giải pháp:** Tôn trọng xu hướng chính
 
-## 13. Advanced Distribution Concepts
+## 13. Khái Niệm Phân Phối Nâng Cao - Advanced Distribution Concepts
 
-### 13.1 Terminal Shakeout
+### 13.1 Rũ Bỏ Cuối Cùng (Terminal Shakeout)
 
-**Definition:** Final violent decline to complete distribution
-**Purpose:** Force out remaining weak longs
-**Characteristics:** High volume, wide spread, quick reversal
+**Định nghĩa:** Suỵ giảm dữ dội cuối cùng để hoàn thành phân phối
+**Mục đích:** Ép buộc các long positions yếu thoát ra
+**Đặc điểm:** Volume cao, biên độ rộng, đảo chiều nhanh
 
-### 13.2 Compound Distribution
+### 13.2 Phân Phối Phức Hợp (Compound Distribution)
 
-**Definition:** Multiple distribution ranges at different levels
-**Example:** Primary distribution at high level, secondary at mid level
-**Implication:** Multiple price targets possible
+**Định nghĩa:** Nhiều vùng phân phối ở các mức khác nhau
+**Ví dụ:** Phân phối chính ở mức cao, phân phối phụ ở mức trung bình
+**Ý nghĩa:** Có thể có nhiều mục tiêu giá
 
-## 14. Multi-Timeframe Distribution Analysis
+## 14. Phân Tích Phân Phối Đa Khung Thời Gian - Multi-Timeframe Distribution Analysis
 
-### 14.1 Weekly vs Daily Distribution
+### 14.1 Phân Tích Tuần vs Ngày
 
-**Weekly charts:** Better for identifying major distribution
-**Daily charts:** Better for timing entries/exits
-**Combination:** Use weekly for bias, daily for execution
+**Biểu đồ tuần:** Tốt hơn cho việc nhận diện phân phối lớn
+**Biểu đồ ngày:** Tốt hơn cho timing vào/thoát lệnh
+**Kết hợp:** Dùng tuần cho bias, ngày cho execution
 
-### 14.2 Distribution Phase Timing
+### 14.2 Thời Gian Các Giai Đoạn Phân Phối
 
-**Early Distribution (Phase A/B):** Months to complete
-**Late Distribution (Phase C/D):** Weeks to complete  
-**Final Distribution (Phase E):** Days to complete
+**Phân phối sớm (Phase A/B):** Hàng tháng mới hoàn thành
+**Phân phối muộn (Phase C/D):** Hàng tuần hoàn thành
+**Phân phối cuối (Phase E):** Hàng ngày hoàn thành
 
-**Trading implication:** Patience required in early phases
+**Ý nghĩa giao dịch:** Cần kiên nhẫn trong các giai đoạn sớm
 
-## 15. Prevention và Protection Strategies
+## 15. Chiến Lược Phòng Ngừa và Bảo Vệ - Prevention & Protection Strategies
 
-### 15.1 Portfolio Protection
+### 15.1 Bảo Vệ Danh Mục Đầu Tư
 
-**Early Warning System:**
-- Monitor key holdings for distribution signs
-- Set automatic alerts for volume anomalies
-- Regular review of position health
-- Diversification across phases/sectors
+**Hệ Thống Cảnh Báo Sớm:**
+- 🔍 **Theo dõi các nắm giữ chính cho dấu hiệu phân phối**
+- 🔔 **Đặt cảnh báo tự động cho bất thường volume**
+- 📈 **Xem xét định kỳ sức khỏe vị thế**
+- 🎯 **Đa dạng hóa qua các giai đoạn/ngành**
 
-### 15.2 Market Timing
+### 15.2 Thời Điểm Thị Trường - Market Timing
 
-**Market-wide distribution signals:**
-- VNINDEX showing distribution characteristics
-- Sector rotation into defensive sectors
-- Volume patterns deteriorating broadly
-- Economic cycle considerations
+**Tín hiệu phân phối toàn thị trường:**
+- 📉 **VNINDEX thể hiện đặc điểm phân phối**
+- 🔄 **Luân chuyển ngành vào các ngành phòng thủ**
+- 📊 **Mẫu hình volume xấu đi rộng rãi**
+- 🔄 **Cân nhắc chu kỳ kinh tế**
 
 ## 16. Tổng Kết và Điểm Mấu Chốt
 
@@ -544,6 +544,98 @@ Phân tích: "Effort to Fall, áp lực bán thắng thế"
 
 ---
 
+## 17. Bài Tập Thực Hành - "Trở Thành Thám Tử Phân Phối"
+
+### Bài Tập 1: Nhận Diện Giai Đoạn Phân Phối (Distribution Phase Identification)
+
+**Mục tiêu:** Phát triển khả năng nhận diện chính xác 5 phases của distribution
+
+1️⃣ **Phân tích 3 cổ phiếu:** HPG, MSN, DXG từ dữ liệu `market_data/`
+   - Sử dụng dữ liệu 6 tháng gần nhất
+   - Vẽ các giai đoạn phân phối trên biểu đồ
+
+2️⃣ **Xác định giai đoạn Wyckoff hiện tại:**
+   - Phase A, B, C, D hay E?
+   - Evidence supporting your conclusion
+
+3️⃣ **Đánh dấu các sự kiện quan trọng:**
+   - PS (Nguồn cung Sơ bộ), BC (Đỉnh điểm Mua vào)
+   - AR (Phản ứng Tự động), UTAD (Cầu Trập Sau Phân phối)
+   - LPSY (Điểm Cung Cuối cùng)
+
+4️⃣ **Tính toán mục tiêu giá giảm tiềm năng:**
+   - Sử dụng Point & Figure method
+   - Width of Distribution Range + Breakdown Point
+
+### Bài Tập 2: Phân Tích So Sánh Các Mẫu Hình Distribution
+
+**Mục tiêu:** Học cách phân biệt distribution với reaccumulation
+
+1️⃣ **So sánh 5 cổ phiếu từ các ngành khác nhau:**
+   - HPG (Thép), VHM (Bất động sản), FPT (Công nghệ)
+   - MSN (Tiêu dùng), ELC (Công nghệ)
+   - Timeline: 4 tháng gần nhất
+
+2️⃣ **Xếp hạng theo mức độ distribution:**
+   - Volume characteristics analysis
+   - SOW vs SOS signal ratio
+   - Smart money behavior evidence
+
+3️⃣ **Chọn ứng viên có distribution mạnh nhất:**
+   - Clear distribution structure
+   - Strong volume confirmation
+   - Multiple timeframe alignment
+
+4️⃣ **Phát triển chiến lược short/exit:**
+   - Entry points cho từng phase
+   - Stop-loss placement for shorts
+   - Target levels based on TR width
+
+### Bài Tập 3: Hệ Thống Cảnh Báo Phân Phối Real-Time
+
+**Mục tiêu:** Xây dựng khả năng phát hiện phân phối trong thời gian thực
+
+1️⃣ **Track distribution signals hàng ngày:**
+   - Tạo watchlist 15-20 cổ phiếu
+   - Daily volume anomaly scanning
+   - Ghi chép mọi BC/UTAD signals
+
+2️⃣ **Update phân tích phase hàng tuần:**
+   - Distribution progression tracking
+   - New weakness evidence documentation
+   - Adjustment of phase assessment
+
+3️⃣ **Thu thập bằng chứng Smart Money distribution:**
+   - Topping Volume events
+   - High Volume No Progress patterns
+   - Failed Rally confirmations
+
+4️⃣ **Portfolio protection strategies:**
+   - Exit timing for existing longs
+   - Position sizing during distribution
+   - Risk management adjustments
+
+## 18. Câu Hỏi Tự Kiểm Tra
+
+1. **HPG ngày 30/05/2025 thể hiện giai đoạn nào của phân phối?**
+   - *Gợi ý: 65.01M volume với weak close*
+
+2. **Tại sao UTAD là "cầu trập cuối cùng"?**
+   - *Gợi ý: False breakout để trap buyers*
+
+3. **Làm thế nào phân biệt distribution với reaccumulation?**
+   - *Gợi ý: Volume patterns on rallies vs declines*
+
+4. **VNINDEX ngày 15/05/2025 cho thấy distribution signal gì?**
+   - *Gợi ý: Ultra volume với minimal price gain*
+
+5. **Khi nào nên thoát hoàn toàn khỏi long positions?**
+   - *Gợi ý: Phase D SOD confirmation*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-2-2-distribution-phases-answers.md)**
+
+---
+
 **Chương tiếp theo:** [Chương 3.1 - Tín Hiệu VPA Tích Cực](chapter-3-1-bullish-vpa-signals.md)
 
-*"💡 **Master Warning:** Giai đoạn phân phối có thể đánh lừa cả những trader kinh nghiệm. Chìả then chốt là nhận ra rằng những gì trông có vẻ mạnh mẽ (đỉnh mới, tin tức tốt) thường đánh dấu sự bắt đầu của kết thúc. Hãy tin vào volume, không phải tin tức."* - **Anna Coulling**
+*"💡 **Master Warning:** Giai đoạn phân phối có thể đánh lừa cả những trader kinh nghiệm. Chìa khóa then chốt là nhận ra rằng những gì trông có vẻ mạnh mẽ (đỉnh mới, tin tức tốt) thường đánh dấu sự bắt đầu của kết thúc. Hãy tin vào volume, không phải tin tức."* - **Anna Coulling**

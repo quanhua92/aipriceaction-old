@@ -1667,6 +1667,27 @@ Một hệ thống giao dịch chỉ tốt bằng kỷ luật của bạn trong 
 
 ---
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **5 nguyên tắc cốt lõi của hệ thống VPA Trading là gì?**
+   - *Gợi ý: Multi-timeframe, Evidence-based, Risk-first...*
+
+2. **Tại sao Kelly Criterion cần phải áp dụng safety factor?**
+   - *Gợi ý: Full Kelly có thể quá aggressive cho live trading*
+
+3. **Sự khác biệt giữa backtesting và forward testing là gì?**
+   - *Gợi ý: Historical data vs real-time performance*
+
+4. **Entry Decision Matrix hoạt động như thế nào?**
+   - *Gợi ý: Market filter, VPA signals, Phase analysis, Risk/reward*
+
+5. **3 giai đoạn triển khai hệ thống trading là gì và tại sao quan trọng?**
+   - *Gợi ý: Pilot, Scale-up, Full implementation với lý do từng giai đoạn*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-4-1-trading-systems-answers.md)**
+
+---
+
 **Từng kết khóa học:** [Bài Tập Tổng Hợp và Case Studies](comprehensive-exercises.md)
 
 *"💡 **Thông Điệp Cuối Cùng:** Thành công trong giao dịch không phải là việc dự đoán thị trường, mà là việc follow một system đã được proven với discipline tuyệt đối. Master VPA, build your system, và trust the process."* - **Complete VPA Trading System Guide**

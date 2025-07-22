@@ -1681,6 +1681,27 @@ Chương 4.1 sẽ hướng dẫn xây dựng **Hệ Thống Giao Dịch Hoàn Ch
 
 ---
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **HPG ngày 30/05/2025 cho thấy tín hiệu bearish nào và tại sao lại nguy hiểm?**
+   - *Gợi ý: Volume 65M nhưng kết quả giá như thế nào?*
+
+2. **Sự khác biệt giữa HVNP và Topping Out Volume là gì?**
+   - *Gợi ý: Context và timing trong chu kỳ thị trường*
+
+3. **Tại sao UTAD được coi là "most reliable bearish signal"?**
+   - *Gợi ý: Reliability rate và đặc điểm kỹ thuật*
+
+4. **No Demand signal có phải lúc nào cũng bearish không?**
+   - *Gợi ý: Context của market phase rất quan trọng*
+
+5. **Hệ thống cảnh báo 4 cấp hoạt động như thế nào trong thực tế?**
+   - *Gợi ý: Yellow, Orange, Red alerts và actions tương ứng*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-3-2-bearish-vpa-signals-answers.md)**
+
+---
+
 **Chương tiếp theo:** [Chương 4.1 - Hệ Thống Giao Dịch](chapter-4-1-trading-systems.md)
 
 *"⚠️ **Quy Tắc Sống Còn:** Trong VPA, tín hiệu tiêu cực cấp bách hơn tín hiệu tích cực. Bỏ lỡ cơ hội tích cực chỉ làm mất lợi nhuận tiềm năng; bỏ qua cảnh báo tiêu cực làm mất tiền thật. Khi nghi ngờ, hãy bảo vệ vốn."* - **VPA Survival Guide**

@@ -19,7 +19,7 @@ Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
 ```mermaid
 flowchart TD
-    A[Thị trường như một "cuộc đối thoại"] --> B[Giá = Ngôn ngữ]
+    A["Thị trường như một cuộc đối thoại"] --> B[Giá = Ngôn ngữ]
     A --> C[Khối lượng = Cảm xúc]
     A --> D[Thời gian = Bối cảnh]
     B --> E[Nến Nhật phản ánh tâm lý]
@@ -453,6 +453,8 @@ Chương 1.2 sẽ đi sâu vào **Ba Quy Luật Wyckoff** - nền tảng lý thu
 
 5. **Tại sao VCB ngày 13/06/2025 là setup "Stopping Volume" hoàn hảo?**
    - *Gợi ý: Hammer + Volume spike + Support test*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-1-1-vpa-basics-answers.md)**
 
 ---
 

@@ -1065,6 +1065,27 @@ Chương 3.2 sẽ explore **Tín Hiệu VPA Tiêu Cực** - "The Dark Side" củ
 
 ---
 
+## Câu Hỏi Tự Kiểm Tra
+
+1. **VCB ngày 13/06/2025 thể hiện tín hiệu VPA nào và tại sao?**
+   - *Gợi ý: Volume 5.3M với hammer candle và recovery*
+
+2. **Phân biệt Professional Volume và Amateur Volume như thế nào?**
+   - *Gợi ý: Close position và follow-through characteristics*
+
+3. **Spring pattern cần những điều kiện gì để được coi là Grade A?**
+   - *Gợi ý: Volume ratio và time below support*
+
+4. **Tại sao TCB ngày 11/06/2025 là No Supply hoàn hảo?**
+   - *Gợi ý: Volume 6.1M so với trung bình*
+
+5. **JOC khác gì với False Breakout? Làm sao phân biệt?**
+   - *Gợi ý: Volume sustainability và follow-through*
+
+📖 **[Xem Đáp Án Chi Tiết](answers/chapter-3-1-bullish-vpa-signals-answers.md)**
+
+---
+
 **Chương tiếp theo:** [Chương 3.2 - Tín Hiệu VPA Tiêu Cực](chapter-3-2-bearish-vpa-signals.md)
 
 *"💡 **Thông Điệp Master:** Tín hiệu VPA tích cực là gifts từ thị trường, nhưng chỉ dành cho những ai biết recognize và act với discipline. Quality recognition + proper execution + sound risk management = Long-term success."* - **VPA Mastery Guide**
