@@ -13,7 +13,7 @@ Dự án này bao gồm một **hệ thống giáo dục toàn diện bằng ti�
 - **Dữ Liệu Hàng Ngày:** `market_data/` - 100+ cổ phiếu từ tháng 1-7 năm 2025
 - **Dữ Liệu Hàng Tuần:** `market_data_week/` - cùng các cổ phiếu, khung thời gian tuần
 - **Phân Tích VPA Chuyên Gia:** `vpa_data/` & `vpa_data_week/` - Files phân tích chuyên nghiệp
-- **Phạm Vi Bao Phủ:** VNINDEX + VN30 + các cổ phiếu blue-chip chính
+- **Bao gồm:** VNINDEX + VN30 + các cổ phiếu lớn
 
 ## 🎓 Triết Lý Giáo Dục & Phương Pháp Tiếp Cận
 
@@ -357,15 +357,15 @@ docs/tutorials/
 
 *📊 Ghi nhớ: VPA vừa là nghệ thuật vừa là khoa học. Các quy tắc kỹ thuật cung cấp nền tảng, nhưng kinh nghiệm với dữ liệu thị trường thực tế sẽ phát triển trực giác cần thiết để thành thạo.*
 
-**Tổng Thời Gian Học:** 150-200 giờ (3-6 tháng)  
-**Cấp Độ Cuối:** Chuyên gia cấp tổ chức (10/10)  
-**Cập Nhật Lần Cuối:** Tháng 7 năm 2025
+**Thời Gian Học:** 150-200 giờ (3-6 tháng)  
+**Cấp Độ Cuối:** Chuyên gia VPA  
+**Cập Nhật:** Tháng 7/2025
 
 ---
 
 **Chúc bạn thành công trong hành trình học VPA! 📊💪**
 
-*💡 **Thông Đảm Chuyên Gia:** Hệ thống tutorial toàn diện này nâng bạn từ cấp độ đại học (9.2/10) lên cấp độ chuyên gia tổ chức (10/10) thông qua phương pháp học tập tiến bộ được thiết kế đặc biệt cho các chuyên gia thị trường Việt Nam.*
+*💡 **Ghi Chú:** Hệ thống này giúp bạn học VPA từ cơ bản đến nâng cao một cách có hệ thống, phù hợp với thị trường Việt Nam.*
 
 ---
 
