@@ -54,26 +54,26 @@ flowchart TD
 
 > *"Nhiệm vụ của chúng ta không phải là chống lại Composite Man, mà là nhận diện hành động của họ và đồng hành cùng họ"* - **Wyckoff Method**
 
-## 2. Composite Man Strategy - 4 Giai đoạn
+## 2. Chiến Lược Composite Man - 4 Giai Đoạn
 
 ### Giai đoạn 1: Accumulation (Tích lũy âm thầm)
 
 **Mục tiêu:** Mua gom lớn mà không đẩy giá lên  
-**Tactics:** 
+**Thủ đoạn:** 
 - Mua từ từ khi retail panic selling
 - Absorb supply trên volume thấp
 - Create sideways consolidation
 
-**Case Study: VIC Accumulation Pattern**
+**Nghiên Cứu Trường Hợp: Mô Hình Tích Lũy VIC**
 
 Từ `vpa_data/VIC.md` - Ngày 2025-06-10:
 ```
 VIC mở cửa giảm sâu xuống 86.0 nhưng phục hồi mạnh đóng cửa ở 90.6
-Volume: 6.8 triệu đơn vị (rất lớn)
+Khối lượng: 6.8 triệu đơn vị (rất lớn)
 Phân tích: "Selling Climax hoặc Shakeout điển hình"
 ```
 
-**Composite Man Analysis:**
+**Phân Tích Composite Man:**
 - **Morning:** Fake panic selling để scare retail investors
 - **Afternoon:** Composite Man absorbs all panic supply  
 - **Result:** Price recovery shows smart money accumulation
@@ -84,51 +84,51 @@ VIC giao dịch biên độ rất hẹp với volume cực thấp (1.4M)
 Phân tích: "No Supply - áp lực bán đã cạn kiệt"
 ```
 
-➡️ **Smart Money Tactic:** Test market sau khi accumulate, confirm không còn supply
+➡️ **Thủ Đoạn Dòng Tiền Thông Minh:** Kiểm tra thị trường sau khi tích lũy, xác nhận không còn cung
 
 ### Giai đoạn 2: Markup (Đẩy giá lên)
 
 **Mục tiêu:** Tạo momentum để attract retail buying  
-**Tactics:**
+**Thủ đoạn:**
 - Controlled price increases
 - Volume increases on rallies
 - Create bullish technical patterns
 
-**Case Study: TCB Markup Phase**
+**Nghiên Cứu Trường Hợp: Giai Đoạn Đánh Dấu TCB**
 
 Từ `vpa_data/TCB.md` - Ngày 2025-05-20:
 ```
 TCB tăng rất mạnh từ 29.50 lên 30.95 (+4.92%)
-Volume: 38.2 triệu đơn vị (BÙNG NỔ)
+Khối lượng: 38.2 triệu đơn vị (BÙNG NỔ)
 Phân tích: "Sign of Strength (SOS) cực kỳ rõ ràng"
 ```
 
-**Composite Man Analysis:**
-- Volume explosion = Smart money shifting to aggressive buying
-- Wide spread + bullish close = Institutional accumulation complete
-- **Strategy:** Now attracting retail FOMO to provide liquidity for distribution
+**Phân Tích Composite Man:**
+- Bùng nổ khối lượng = Dòng tiền thông minh chuyển sang mua tích cực
+- Biên độ rộng + đóng cửa tăng = Tích lũy tổ chức hoàn thành
+- **Chiến lược:** Giờ thu hút FOMO nhà đầu tư lẻ để cung cấp thanh khoản cho phân phối
 
 ### Giai đoạn 3: Distribution (Phân phối)
 
 **Mục tiêu:** Bán holdings cho retail investors ở giá cao  
-**Tactics:**
-- Gradual selling khi retail buying increases
-- Maintain price facade while distributing
-- Volume decreases as supply overwhelms demand
+**Thủ đoạn:**
+- Bán dần dần khi việc mua của nhà đầu tư lẻ tăng
+- Duy trì vẻ ngoài giá trong khi phân phối
+- Khối lượng giảm khi cung áp đảo cầu
 
-**Case Study: HPG Distribution Signals**
+**Nghiên Cứu Trường Hợp: Tín Hiệu Phân Phối HPG**
 
 Từ `vpa_data/HPG.md` - Ngày 2025-05-30:
 ```
 HPG đẩy lên cao 22.21 nhưng đóng cửa chỉ 21.46
-Volume: 65.01 triệu (CỰC LỚN)
+Khối lượng: 65.01 triệu (CỰC LỚN)
 Phân tích: "Topping Out Volume hoặc Buying Climax"
 ```
 
-**Composite Man Analysis:**
-- **High Volume + Poor Price Action = Distribution**
-- Smart money dumping shares into retail buying
-- Wide spread up but weak close = Supply overwhelming demand
+**Phân Tích Composite Man:**
+- **Khối Lượng Cao + Hành Động Giá Kém = Phân Phối**
+- Dòng tiền thông minh đổ cổ phiếu vào việc mua của nhà đầu tư lẻ
+- Biên độ rộng lên nhưng đóng cửa yếu = Cung áp đảo cầu
 
 **Confirmation ngày 2025-06-16:**
 ```
@@ -136,97 +136,97 @@ HPG tăng lên 22.29, biên độ hẹp, volume giảm (29.75M)
 Phân tích: "Đà tăng chững lại, lực cầu không còn quyết liệt"
 ```
 
-➡️ **Distribution Pattern:** Volume decreasing = Smart money exiting
+➡️ **Mô Hình Phân Phối:** Khối lượng giảm = Dòng tiền thông minh thoát
 
 ### Giai đoạn 4: Markdown (Đẩy giá xuống)
 
 **Mục tiêu:** Scare retail investors để mua lại cheaper  
-**Tactics:**
-- Aggressive selling to break support
-- Create panic để force retail selling
-- Volume increases on declines
+**Thủ đoạn:**
+- Bán tích cực để phá vỡ hỗ trợ
+- Tạo hoảng loạn để buộc nhà đầu tư lẻ bán
+- Khối lượng tăng khi giảm
 
-## 3. Smart Money Footprints - Cách nhận biết
+## 3. Dấu Vết Dòng Tiền Thông Minh - Cách Nhận Biết
 
-### 3.1 Volume Characteristics
+### 3.1 Đặc Điểm Khối Lượng
 
-**Smart Money Volume Patterns:**
+**Mô Hình Khối Lượng Dòng Tiền Thông Minh:**
 
-| Phase | Volume Behavior | Retail Reaction |
+| Giai Đoạn | Hành Vi Khối Lượng | Phản Ứng Nhà Đầu Tư Lẻ |
 |-------|----------------|-----------------|
-| **Accumulation** | Low during decline, spike on recovery | Panic selling on lows |
-| **Markup** | Increases on rallies | FOMO buying |
-| **Distribution** | High with poor results | Euphoric buying |
-| **Markdown** | Spike on breaks | Panic selling |
+| **Tích Lũy** | Thấp khi giảm, tăng vọt khi phục hồi | Bán hoảng loạn ở mức thấp |
+| **Đánh Dấu** | Tăng khi hồi phục | Mua FOMO |
+| **Phân Phối** | Cao nhưng kết quả kém | Mua hừu phấn |
+| **Hạ Giá** | Tăng vọt khi phá vỡ | Bán hoảng loạn |
 
 ### 3.2 Detection Algorithm
 
 ```python
 def detect_smart_money_activity(df):
-    """Detect potential smart money operations"""
+    """Phát hiện hoạt động tiềm năng của dòng tiền thông minh"""
     signals = []
     
     for i in range(20, len(df)):
         row = df.iloc[i]
         
-        # Accumulation signals
+        # Tín hiệu tích lũy
         if (row['volume_ratio'] > 2.0 and 
             row['close_position'] > 0.7 and
             df.iloc[i-20:i]['close'].std() / df.iloc[i]['close'] < 0.05):
             signals.append({
                 'date': df.index[i],
-                'type': 'Smart Money Accumulation',
-                'description': 'Volume spike during consolidation with bullish close'
+                'type': 'Tích Lũy Dòng Tiền Thông Minh',
+                'description': 'Tăng vọt khối lượng trong hợp nhất với đóng cửa tăng'
             })
             
-        # Distribution signals  
+        # Tín hiệu phân phối  
         elif (row['volume_ratio'] > 2.0 and
               row['close_position'] < 0.3 and
               row['price_change'] > 2.0):
             signals.append({
                 'date': df.index[i], 
-                'type': 'Smart Money Distribution',
-                'description': 'High volume with poor close despite big move up'
+                'type': 'Phân Phối Dòng Tiền Thông Minh',
+                'description': 'Khối lượng cao nhưng đóng cửa kém dù tăng lớn'
             })
     
     return signals
 ```
 
-## 4. Sector Analysis - Smart Money Flow
+## 4. Phân Tích Ngành - Dòng Chảy Dòng Tiền Thông Minh
 
-### Banking Sector Smart Money Activity
+### Hoạt Động Dòng Tiền Thông Minh Ngành Ngân Hàng
 
-**Analyzing multiple banking stocks từ `vpa_data/`:**
+**Phân tích nhiều cổ phiếu ngân hàng từ `vpa_data/`:**
 
-#### VCB Smart Money Pattern:
-- **Jun 13, 2025:** Stopping Volume (volume spike 5.3M with recovery)
-- **Jun 16:** Test for Supply (price test với low volume)  
-- **Jun 20:** Effort to Rise (volume 6.88M with strong close)
+#### Mô Hình Dòng Tiền Thông Minh VCB:
+- **13/06/2025:** Khối Lượng Ngăn Chặn (tăng vọt khối lượng 5.3M với phục hồi)
+- **16/06:** Kiểm Tra Cung (đo giá với khối lượng thấp)  
+- **20/06:** Nỗ Lực Tăng (khối lượng 6.88M với đóng cửa mạnh)
 
-**Pattern:** Classic accumulation → test → markup sequence
+**Mô hình:** Chuỗi tích lũy cổ điển → kiểm tra → đánh dấu
 
-#### TCB Smart Money Pattern:
-- **May 20, 2025:** SOS signal (volume 38.2M, price +4.92%)
-- **Jun 6:** Effort to Fall (volume 28.3M với selling pressure)
-- **Jun 11:** No Supply (volume drop to 6.1M)
+#### Mô Hình Dòng Tiền Thông Minh TCB:
+- **20/05/2025:** Tín hiệu SOS (khối lượng 38.2M, giá +4.92%)
+- **06/06:** Nỗ Lực Giảm (khối lượng 28.3M với áp lực bán)
+- **11/06:** Không Có Cung (khối lượng giảm xuống 6.1M)
 
-**Pattern:** Accumulation complete → distribution test → renewed accumulation
+**Mô hình:** Tích lũy hoàn thành → kiểm tra phân phối → tích lũy mới
 
 ### Cross-Sector Comparison
 
-**Real Estate vs Steel Smart Money:**
+**Dòng Tiền Thông Minh Bất Động Sản vs Thép:**
 
-| Sector | Stock | Smart Money Activity | Current Phase |
+| Ngành | Cổ Phiếu | Hoạt Động Dòng Tiền Thông Minh | Giai Đoạn Hiện Tại |
 |---------|-------|---------------------|---------------|
-| **Real Estate** | VIC | Shakeout + No Supply pattern | Late Accumulation |
-| **Steel** | HPG | Buying Climax + Distribution | Early Distribution |
-| **Banking** | VCB | Multiple accumulation signals | Markup Phase |
-| **Banking** | TCB | Mixed signals | Reaccumulation |
+| **Bất Động Sản** | VIC | Mô hình Lắc + Không Có Cung | Tích Lũy Muộn |
+| **Thép** | HPG | Đỉnh Mua + Phân Phối | Phân Phối Sớm |
+| **Ngân Hàng** | VCB | Nhiều tín hiệu tích lũy | Giai Đoạn Đánh Dấu |
+| **Ngân Hàng** | TCB | Tín hiệu hỗn hợp | Tích Lũy Lại |
 
-**Insights:**
-- **Banking sector:** Smart money accumulating (consistent SOS signals)
-- **Real estate:** Smart money testing lows (shakeout patterns)  
-- **Steel sector:** Smart money distributing (topping signals)
+**Nhận xét:**
+- **Ngành ngân hàng:** Dòng tiền thông minh đang tích lũy (tín hiệu SOS nhất quán)
+- **Bất động sản:** Dòng tiền thông minh kiểm tra mức thấp (mô hình lắc)  
+- **Ngành thép:** Dòng tiền thông minh phân phối (tín hiệu đỉnh)
 
 ## 5. Psychology of Composite Man
 
@@ -247,15 +247,15 @@ graph TD
     D --> D1[Buy retail panic<br/>Sell retail euphoria<br/>Create false signals]
 ```
 
-### 5.2 Common Retail Mistakes vs Smart Money
+### 5.2 Sai Lầm Phổ Biến Của Nhà Đầu Tư Lẻ vs Dòng Tiền Thông Minh
 
 | Situation | Retail Investor | Composite Man |
 |-----------|----------------|---------------|
-| **Price drops 10%** | Panic sell | Start accumulating |
-| **Price gaps up 5%** | FOMO buy | Start distributing |
-| **High volume spike** | Think breakout | Check price/volume relationship |
-| **Low volume drift** | Ignore | Look for accumulation |
-| **News driven moves** | Follow news | Fade the news |
+| **Giá giảm 10%** | Bán hoảng loạn | Bắt đầu tích lũy |
+| **Giá nhảy lên 5%** | Mua FOMO | Bắt đầu phân phối |
+| **Tăng vọt khối lượng cao** | Nghĩ bứt phá | Kiểm tra mối quan hệ giá/khối lượng |
+| **Khối lượng thấp trôi** | Bỏ qua | Tìm kiếm tích lũy |
+| **Chuyển động theo tin tức** | Theo tin tức | Ngược với tin tức |
 
 ### 5.3 Emotional Cycle Exploitation
 
@@ -268,9 +268,9 @@ graph TD
 
 ## 6. Practical Applications
 
-### 6.1 Smart Money Alignment Strategy
+### 6.1 Chiến Lược Đồng Hành Với Dòng Tiền Thông Minh
 
-**Step 1: Identify Current Phase**
+**Bước 1: Xác Định Giai Đoạn Hiện Tại**
 ```python
 def identify_wyckoff_phase(df, lookback=50):
     recent_data = df.tail(lookback)
@@ -295,30 +295,30 @@ def identify_wyckoff_phase(df, lookback=50):
         return "Uncertain/Transition"
 ```
 
-**Step 2: Align with Smart Money**
-- **Accumulation Phase:** Join smart money buying
-- **Markup Phase:** Hold positions, add on pullbacks
-- **Distribution Phase:** Prepare exits, reduce exposure
-- **Markdown Phase:** Stay in cash, wait for next accumulation
+**Bước 2: Đồng Hành Với Dòng Tiền Thông Minh**
+- **Giai đoạn Tích Lũy:** Tham gia mua cùng dòng tiền thông minh
+- **Giai đoạn Đánh Dấu:** Giữ vị thế, thêm khi điều chỉnh
+- **Giai đoạn Phân Phối:** Chuẩn bị thoát, giảm rủi ro
+- **Giai đoạn Hạ Giá:** Giữ tiền mặt, chờ tích lũy tiếp theo
 
-### 6.2 Smart Money Confirmation Checklist
+### 6.2 Danh Sách Kiểm Tra Xác Nhận Dòng Tiền Thông Minh
 
 Before taking any position, confirm smart money alignment:
 
-✅ **Volume Analysis:**
-- [ ] Volume behavior consistent với expected phase
-- [ ] No major effort/result divergences
-- [ ] Volume supporting price direction
+✅ **Phân Tích Khối Lượng:**
+- [ ] Hành vi khối lượng nhất quán với giai đoạn dự kiến
+- [ ] Không có sự khác biệt lớn về nỗ lực/kết quả
+- [ ] Khối lượng hỗ trợ hướng giá
 
-✅ **Price Action:**
-- [ ] Price respecting support/resistance levels
-- [ ] No signs of smart money distribution
-- [ ] Wyckoff structure intact
+✅ **Hành Động Giá:**
+- [ ] Giá tôn trọng các mức hỗ trợ/kháng cự
+- [ ] Không có dấu hiệu phân phối dòng tiền thông minh
+- [ ] Cấu trúc Wyckoff còn nguyên vẹn
 
-✅ **Market Context:**  
-- [ ] Sector showing similar patterns
-- [ ] VNINDEX alignment
-- [ ] No major divergences với broader market
+✅ **Bối Cảnh Thị Trường:**  
+- [ ] Ngành cho thấy các mô hình tương tự
+- [ ] Sự thống nhất với VNINDEX
+- [ ] Không có sự khác biệt lớn với thị trường tổng thể
 
 ## 7. Advanced Concepts
 
@@ -340,26 +340,26 @@ Sometimes institutional money conflicts:
 
 **Recognition:** Mixed signals, choppy price action
 
-## 8. Case Study: VIC Complete Cycle
+## 8. Nghiên Cứu Trường Hợp: Chu Kỳ Hoàn Chỉnh VIC
 
-### The Setup (Early June 2025)
+### Thiết Lập (Đầu Tháng 6 Năm 2025)
 **Jun 10:** Selling Climax/Shakeout
-- Opening gap down to 86.0 (panic retail selling)
-- Strong recovery to 90.6 (smart money absorption)
-- Volume 6.8M (institutional size)
+- Mở cửa gap xuống 86.0 (nhà đầu tư lẻ bán hoảng loạn)
+- Phục hồi mạnh lên 90.6 (hấp thụ dòng tiền thông minh)
+- Khối lượng 6.8M (quy mô tổ chức)
 
-### The Test (Jun 11)  
+### Cuộc Kiểm Tra (11/06)  
 **No Supply Signal**
 - Narrow range trading (85.4-87.7)
-- Volume drops to 1.4M (supply exhausted)
-- Smart money testing: "Any more sellers?"
+- Khối lượng giảm xuống 1.4M (cung cạn kiệt)
+- Dòng tiền thông minh kiểm tra: "Còn ai bán không?"
 
-### The Confirmation (Jun 16-17)
+### Xác Nhận (16-17/06)
 **Renewed Accumulation**
-- Jun 16: Low volume drift (2.5M) - No Demand yet
-- Jun 17: Effort to Rise (volume 3.3M) - Smart money returns
+- 16/06: Trôi khối lượng thấp (2.5M) - Chưa có Cầu
+- 17/06: Nỗ Lực Tăng (khối lượng 3.3M) - Dòng tiền thông minh trở lại
 
-**Pattern Recognition:**
+**Nhận Dạng Mô Hình:**
 1. ✅ Shakeout weak hands
 2. ✅ Test for remaining supply  
 3. ✅ Confirm accumulation complete
@@ -367,7 +367,7 @@ Sometimes institutional money conflicts:
 
 ## 9. Bài Tập Thực Hành - "Trở Thành Thám Tử Composite Man"
 
-### Bài Tập 1: Nhận Diện Chiến Dịch Smart Money
+### Bài Tập 1: Nhận Diện Chiến Dịch Dòng Tiền Thông Minh
 
 **Mục tiêu:** Phát triển khả năng nhận diện dấu vết Composite Man trong thực tế
 
@@ -393,14 +393,14 @@ Sometimes institutional money conflicts:
 
 ### Bài Tập 2: Phân Tích Sector Rotation
 
-**Mục tiêu:** Hiểu cách Smart Money di chuyển giữa các ngành
+**Mục tiêu:** Hiểu cách Dòng Tiền Thông Minh di chuyển giữa các ngành
 
 1️⃣ **So sánh 3 ngành chính:**
    - **Banking (Ngân hàng):** VCB, TCB, BID
    - **Technology (Công nghệ):** FPT, CMG, VNG
    - **Real Estate (Bất động sản):** VIC, VHM, NVL
 
-2️⃣ **Xác định ngành Smart Money ưa thích:**
+2️⃣ **Xác định ngành Dòng Tiền Thông Minh ưa thích:**
    - Ngành nào có nhiều SOS signals nhất?
    - Volume patterns tích cực ở ngành nào?
    - Relative strength so với VNINDEX
@@ -424,8 +424,8 @@ Sometimes institutional money conflicts:
    - Ghi chép mọi VPA signal
    - Đánh giá tính chất: SOS, SOW, hay Neutral
 
-2️⃣ **Tìm kiếm xác nhận Smart Money:**
-   - Volume spikes với price action tương ứng
+2️⃣ **Tìm kiếm xác nhận Dòng Tiền Thông Minh:**
+   - Tăng vọt khối lượng với hành động giá tương ứng
    - Multiple timeframe alignment
    - Sector context validation
 
@@ -434,22 +434,22 @@ Sometimes institutional money conflicts:
    - Từ Distribution sang Markdown
    - Reaccumulation vs Redistribution
 
-4️⃣ **Paper Trading đồng hành Smart Money:**
-   - Chỉ vào lệnh khi Smart Money signals confirm
+4️⃣ **Giao Dịch Giả Đồng Hành Dòng Tiền Thông Minh:**
+   - Chỉ vào lệnh khi tín hiệu Dòng Tiền Thông Minh xác nhận
    - Thực hành position sizing theo giai đoạn
    - Track accuracy và kết quả
 
 ## 10. Tổng Kết và Điểm Mấu Chốt
 
-### 10.1 Key Takeaways - Những Điều Cốt Lõi
+### 10.1 Những Điều Cốt Lõi
 
 ✅ **Composite Man có các mẫu hình hành vi dự đoán được** - Không ngẫu nhiên mà có logic rõ ràng
 
-✅ **Các pattern volume tiết lộ hoạt động Smart Money** - Volume là "dấu chân" của Composite Man
+✅ **Các mô hình khối lượng tiết lộ hoạt động Dòng Tiền Thông Minh** - Khối lượng là "dấu vết" của Composite Man
 
 ✅ **Thị trường Việt Nam tuân theo nguyên lý Wyckoff phổ quát** - Các quy luật bất biến áp dụng toàn cầu
 
-✅ **Thành công = đồng hành với Smart Money** - Không chống lại mà đi cùng hướng
+✅ **Thành công = đồng hành với Dòng Tiền Thông Minh** - Không chống lại mà đi cùng hướng
 
 ✅ **Kiên nhẫn và kỷ luật thắng phản ứng cảm xúc** - Lý trí chiến thắng cảm tính
 
@@ -459,7 +459,7 @@ Sometimes institutional money conflicts:
 
 📈 **Lợi dụng cảm xúc của retail:** Mua khi sợ hãi, bán khi tham lam
 
-👃 **Theo dõi volume:** Smart Money luôn để lại dấu vết
+👃 **Theo dõi khối lượng:** Dòng Tiền Thông Minh luôn để lại dấu vết
 
 🔄 **Tôn trọng chu kỳ:** Mọi quá trình tích lũy đều dẫn đến phân phối
 
@@ -492,13 +492,13 @@ Chương 2.1 sẽ đi sâu vào **Các Giai Đoạn Tích Lũy** - quá trình c
 2. **Tại sao HPG ngày 30/05/2025 là dấu hiệu Distribution?**
    - *Gợi ý: Volume vs Price relationship*
 
-3. **Smart Money và Retail Investors khác nhau gì về timing?**
-   - *Gợi ý: Fear vs Greed cycles*
+3. **Dòng Tiền Thông Minh và Nhà Đầu Tư Lẻ khác nhau gì về thời điểm?**
+   - *Gợi ý: Chu kỳ Sợ Hãi vs Tham Lam*
 
 4. **Làm thế nào để nhận biết Accumulation vs Reaccumulation?**
    - *Gợi ý: Previous price action context*
 
-5. **Banking sector hiện tại đang ở giai đoạn nào theo phân tích Composite Man?**
+5. **Ngành ngân hàng hiện tại đang ở giai đoạn nào theo phân tích Composite Man?**
    - *Gợi ý: Multiple SOS signals nghĩa là gì?*
 
 📖 **[Xem Đáp Án Chi Tiết](answers/chapter-1-3-composite-man-answers.md)**
@@ -513,7 +513,7 @@ Chương 2.1 sẽ đi sâu vào **Các Giai Đoạn Tích Lũy** - quá trình c
 
 ⚠️ **Kết hợp với risk management** - Composite Man không loại bỏ rủi ro nhưng giảm đáng kể
 
-💡 **Pro Tip:** Tạo "Composite Man Journal" để track các pattern và cải thiện recognition skills
+💡 **Mẹo Chuyên Nghiệp:** Tạo "Nhật Ký Composite Man" để theo dõi các mô hình và cải thiện kỹ năng nhận dạng
 
 ---
 

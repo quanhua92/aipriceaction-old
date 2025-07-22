@@ -63,7 +63,7 @@ Close Position: Strong (near high)
 
 VPA Analysis:
 💪 DEMAND OVERWHELMING SUPPLY
-📈 Price advanced với strong volume confirmation  
+📈 Giá tăng với xác nhận khối lượng mạnh  
 ✅ Wide range up với strong close
 🎯 Institutional buying pressure evident
 ```
@@ -85,7 +85,7 @@ Context: Selling pressure tăng
 
 VPA Analysis:
 ⚠️ SUPPLY STARTING TO OVERWHELM DEMAND
-📉 High volume on decline = institutional selling
+📉 Khối lượng cao khi giảm = bán tổ chức
 🔄 Shift trong supply/demand balance  
 ⏳ Early warning of potential weakness
 ```
@@ -108,7 +108,7 @@ Pattern: No Supply
 VPA Analysis:
 ✅ SUPPLY EXHAUSTED
 📊 Extremely low volume = no selling interest
-🔄 Supply/Demand reaching new equilibrium
+🔄 Cung/Cầu đạt cân bằng mới
 📈 Setup for potential demand resurgence
 ```
 
@@ -117,13 +117,13 @@ VPA Analysis:
 ### 2.3 Ứng Dụng Thực Tiễn - Nhận Diện Shifts Trong Supply/Demand
 
 **Dấu hiệu Cầu tăng:**
-- Volume tăng trên price advance
+- Khối lượng tăng khi giá tăng
 - Narrow range down trên low volume  
 - Strong closes after test support
 - Professional volume on breakouts
 
 **Dấu hiệu Cung tăng:**
-- Volume tăng trên price decline
+- Khối lượng tăng khi giá giảm
 - Wide range up nhưng weak close
 - High volume no progress
 - Failed breakouts
@@ -208,7 +208,7 @@ Cause Status: NEARING COMPLETION
 Cause Analysis:
 ✅ 6-month accumulation cause (Jan-Jun 2025)
 🎯 Spring confirms cause completion
-📊 Volume absorption at crucial test
+📊 Hấp thụ khối lượng tại thời điểm quan trọng
 🚀 Ready for "Effect" (Markup phase)
 ```
 
@@ -326,7 +326,7 @@ Effort vs Result Analysis:
 
 ---
 
-## 5. Tích Hợp Ba Quy Luật - Framework Toàn Diện
+## 5. Tích Hợp Ba Quy Luật - Khung Làm Việc Toàn Diện
 
 ### 5.1 Khung Phân Tích Đa Quy Luật
 
@@ -334,41 +334,41 @@ Effort vs Result Analysis:
 
 ```mermaid
 flowchart LR
-    A[Market Analysis] --> B[Law 1: Supply/Demand]
-    A --> C[Law 2: Cause/Effect]  
-    A --> D[Law 3: Effort/Result]
+    A[Phân Tích Thị Trường] --> B[Quy Luật 1: Cung/Cầu]
+    A --> C[Quy Luật 2: Nguyên Nhân/Kết Quả]  
+    A --> D[Quy Luật 3: Nỗ Lực/Kết Quả]
     
-    B --> E{All Laws Agree?}
+    B --> E{Tất Cả Quy Luật Đồng Thuận?}
     C --> E
     D --> E
     
-    E -->|Yes| F[High Confidence Signal<br/>Success Rate >90%]
-    E -->|No| G[Mixed Signal<br/>Proceed with Caution]
+    E -->|Có| F[Tín Hiệu Tin Cậy Cao<br/>Tỷ Lệ Thành Công >90%]
+    E -->|Không| G[Tín Hiệu Trộn Lẫn<br/>Thận Trọng Khi Tiến Hành]
     
-    F --> H[Strong Position]
-    G --> I[Small Position or Wait]
+    F --> H[Vị Thế Mạnh]
+    G --> I[Vị Thế Nhỏ hoặc Chờ Đợi]
 ```
 
 **Ví dụ Ba Quy Luật Cùng Xác Nhận:**
 
 **VCB Spring Setup (13/06/2025):**
-- **Law 1:** Demand overwhelms supply (Stopping Volume)
-- **Law 2:** Accumulation cause nearing completion
-- **Law 3:** High effort (volume) produces appropriate result (support)
-- **Conclusion:** 🎯 **Extremely high confidence bullish setup**
+- **Quy Luật 1:** Cầu áp đảo cung (Khối Lượng Ngăn Chặn)
+- **Quy Luật 2:** Nguyên nhân tích lũy gần hoàn thành
+- **Quy Luật 3:** Nỗ lực cao (khối lượng) tạo kết quả phù hợp (hỗ trợ)
+- **Kết luận:** 🎯 **Thiết lập tăng tin cậy cực cao**
 
 ### 5.2 Conflict Resolution - Khi Các Quy Luật Mâu Thuẫn
 
-**Priority Framework:**
-1. **Law 3** (Effort/Result) - Immediate concern
-2. **Law 1** (Supply/Demand) - Current balance  
-3. **Law 2** (Cause/Effect) - Longer-term context
+**Khung Ưu Tiên:**
+1. **Quy Luật 3** (Nỗ Lực/Kết Quả) - Mối quan tâm trước mắt
+2. **Quy Luật 1** (Cung/Cầu) - Cân bằng hiện tại  
+3. **Quy Luật 2** (Nguyên Nhân/Kết Quả) - Bối cảnh dài hạn
 
-**Ví dụ Conflict:**
-- Law 1: Supply increasing
-- Law 2: Still in accumulation cause
-- Law 3: Effort/Result harmony
-- **Resolution:** Wait for clearer signals
+**Ví dụ Mâu Thuẫn:**
+- Quy Luật 1: Cung đang tăng
+- Quy Luật 2: Vẫn trong giai đoạn tích lũy
+- Quy Luật 3: Hài hòa Nỗ lực/Kết quả
+- **Giải quyết:** Chờ tín hiệu rõ ràng hơn
 
 ---
 
@@ -381,7 +381,7 @@ flowchart LR
 - **Price giảm trên low volume:** No Demand (có thể bullish)
 - **Sideways action với high volume:** Cuộc chiến quyết liệt
 
-**Success Rate:** 78% (dựa trên backtest với dữ liệu VN)
+**Tỷ Lệ Thành Công:** 78% (dựa trên kiểm tra ngược với dữ liệu VN)
 
 ### 6.2 Vi Phạm Quy Luật Nguyên Nhân-Kết Quả  
 
@@ -390,7 +390,7 @@ flowchart LR
 - **Long accumulation không markup:** Accumulation failed
 - **Distribution không có markdown:** Distribution incomplete
 
-**Success Rate:** 65% (require longer time confirmation)
+**Tỷ Lệ Thành Công:** 65% (cần thời gian xác nhận dài hơn)
 
 ### 6.3 Vi Phạm Quy Luật Nỗ Lực-Kết Quả
 
@@ -399,7 +399,7 @@ flowchart LR
 - **Low effort, big result:** News-driven, không bền
 - **Sustained effort without result:** Building distribution
 
-**Success Rate:** 85% (highest accuracy, fastest confirmation)
+**Tỷ Lệ Thành Công:** 85% (độ chính xác cao nhất, xác nhận nhanh nhất)
 
 ---
 
@@ -416,10 +416,10 @@ flowchart LR
 **Nhiệm vụ:**
 1. **Tìm 3 ví dụ vi phạm mỗi quy luật** trong dữ liệu 6 tháng
 2. **Phân tích kết quả** 3-5 ngày sau tín hiệu vi phạm
-3. **Tính success rate** của từng loại vi phạm
-4. **So sánh với expert analysis** trong vpa_data files
+3. **Tính tỷ lệ thành công** của từng loại vi phạm
+4. **So sánh với phân tích chuyên gia** trong các tệp vpa_data
 
-**Template phân tích:**
+**Mẫu phân tích:**
 ```
 Stock: ____
 Date: ____
@@ -456,18 +456,18 @@ Expert Confirmation: ____
 - **STB:** `vpa_data/STB.md` + `market_data/STB_*.csv`
 
 **Phân tích Sector:**
-1. **So sánh Effort/Result patterns** giữa các ngân hàng
-2. **Identify rotation signals** dựa trên Supply/Demand shifts
-3. **Predict sector performance** based on cause development
+1. **So sánh mô hình Nỗ lực/Kết quả** giữa các ngân hàng
+2. **Xác định tín hiệu luân chuyển** dựa trên thay đổi Cung/Cầu
+3. **Dự báo hiệu suất ngành** dựa trên phát triển nguyên nhân
 
-**Steel Sector Comparison:**
-- **HPG:** Distribution signals analysis
-- **HSG:** Follower behavior patterns
-- **Sector decline prediction** accuracy
+**So Sánh Ngành Thép:**
+- **HPG:** Phân tích tín hiệu phân phối
+- **HSG:** Mô hình hành vi theo dõi
+- **Dự báo suy giảm ngành:** độ chính xác
 
 ---
 
-## 8. Code Implementation - Automated Detection
+## 8. Triển Khai Mã - Phát Hiện Tự Động
 
 ### 8.1 Khung Làm Việc Python cho Ba Quy Luật
 
@@ -482,51 +482,51 @@ class WyckoffLawsAnalyzer:
         self.prepare_indicators()
     
     def prepare_indicators(self):
-        """Prepare necessary indicators for analysis"""
+        """Chuẩn bị các chỉ số cần thiết cho phân tích"""
         df = self.data.copy()
         
-        # Basic calculations
+        # Tính toán cơ bản
         df['price_change'] = df['close'].pct_change() * 100
         df['range'] = df['high'] - df['low']
         df['close_position'] = (df['close'] - df['low']) / df['range']
         
-        # Volume indicators
+        # Chỉ số khối lượng
         df['volume_ma_20'] = df['volume'].rolling(20).mean()
         df['volume_ratio'] = df['volume'] / df['volume_ma_20']
         
-        # Trend indicators
+        # Chỉ số xu hướng
         df['price_ma_20'] = df['close'].rolling(20).mean()
         df['trend'] = np.where(df['close'] > df['price_ma_20'], 'UP', 'DOWN')
         
         self.data = df
     
     def analyze_supply_demand(self, volume_threshold=1.5):
-        """Law 1: Supply and Demand Analysis"""
+        """Quy Luật 1: Phân Tích Cung và Cầu"""
         df = self.data.copy()
         signals = []
         
         for i in range(20, len(df)):
             row = df.iloc[i]
             
-            # No Supply: Price up/flat, volume low
+            # Không có Cung: Giá tăng/ngang, khối lượng thấp
             if (row['price_change'] >= 0 and 
                 row['volume_ratio'] < 0.8 and
                 row['close_position'] > 0.5):
                 signals.append({
                     'date': df.index[i],
-                    'type': 'No Supply',
+                    'type': 'Không Có Cung',
                     'law': 1,
                     'confidence': 'HIGH',
                     'bullish': True
                 })
             
-            # Supply Overwhelms Demand: Price down, volume high
+            # Cung Áp Đảo Cầu: Giá giảm, khối lượng cao
             elif (row['price_change'] < -1 and 
                   row['volume_ratio'] > volume_threshold and
                   row['close_position'] < 0.3):
                 signals.append({
                     'date': df.index[i],
-                    'type': 'Supply > Demand', 
+                    'type': 'Cung > Cầu', 
                     'law': 1,
                     'confidence': 'HIGH',
                     'bullish': False
@@ -535,27 +535,27 @@ class WyckoffLawsAnalyzer:
         return signals
     
     def analyze_effort_result(self, volume_threshold=2.0, price_threshold=0.5):
-        """Law 3: Effort vs Result Analysis"""  
+        """Quy Luật 3: Phân Tích Nỗ Lực vs Kết Quả"""  
         df = self.data.copy()
         signals = []
         
         for i in range(20, len(df)):
             row = df.iloc[i]
             
-            # High Volume No Progress
+            # Khối Lượng Cao Không Tiến Bộ
             if (row['volume_ratio'] > volume_threshold and
                 abs(row['price_change']) < price_threshold):
                 
-                # Determine if bullish or bearish based on context
+                # Xác định tăng hay giảm dựa trên bối cảnh
                 if row['close_position'] > 0.7:
-                    signal_type = 'Stopping Volume'
+                    signal_type = 'Khối Lượng Ngăn Chặn'
                     bullish = True
                 elif row['close_position'] < 0.3:
-                    signal_type = 'Selling Pressure'  
+                    signal_type = 'Áp Lực Bán'  
                     bullish = False
                 else:
-                    signal_type = 'High Volume No Progress'
-                    bullish = None  # Needs context
+                    signal_type = 'Khối Lượng Cao Không Tiến Bộ'
+                    bullish = None  # Cần bối cảnh
                 
                 signals.append({
                     'date': df.index[i],
@@ -570,23 +570,23 @@ class WyckoffLawsAnalyzer:
         return signals
     
     def analyze_cause_effect(self, window=50):
-        """Law 2: Cause and Effect Analysis (Simplified)"""
+        """Quy Luật 2: Phân Tích Nguyên Nhân và Kết Quả (Đơn giản hóa)"""
         df = self.data.copy()
         signals = []
         
         for i in range(window, len(df)):
-            # Analyze recent range action
+            # Phân tích hành động trong khoảng gần đây
             recent_data = df.iloc[i-window:i]
             range_width = recent_data['high'].max() - recent_data['low'].min()
             current_price = df.iloc[i]['close']
             
-            # Check if breaking out of established range  
+            # Kiểm tra xem có đánh vỡ khoảng đã thiết lập không  
             if (current_price > recent_data['high'].max() * 1.02 and
                 df.iloc[i]['volume_ratio'] > 1.5):
                 
                 signals.append({
                     'date': df.index[i],
-                    'type': 'Cause Effect - Breakout',
+                    'type': 'Nguyên Nhân Kết Quả - Bứt Phá',
                     'law': 2,
                     'cause_width': range_width,
                     'effect_start': current_price,
@@ -597,19 +597,19 @@ class WyckoffLawsAnalyzer:
         return signals
     
     def get_all_signals(self):
-        """Get all signals from three laws"""
+        """Lấy tất cả tín hiệu từ ba quy luật"""
         signals = []
         signals.extend(self.analyze_supply_demand())
         signals.extend(self.analyze_effort_result()) 
         signals.extend(self.analyze_cause_effect())
         
-        # Sort by date
+        # Sắp xếp theo ngày
         signals.sort(key=lambda x: x['date'])
         return signals
 
-# Usage example với VCB data
+# Ví dụ sử dụng với dữ liệu VCB
 def analyze_stock_with_wyckoff_laws(csv_file):
-    """Analyze stock using Wyckoff's three laws"""
+    """Phân tích cổ phiếu sử dụng ba quy luật Wyckoff"""
     df = pd.read_csv(csv_file)
     df['time'] = pd.to_datetime(df['time'])
     df.set_index('time', inplace=True)
@@ -617,13 +617,13 @@ def analyze_stock_with_wyckoff_laws(csv_file):
     analyzer = WyckoffLawsAnalyzer(df)
     signals = analyzer.get_all_signals()
     
-    print(f"Found {len(signals)} signals:")
-    for signal in signals[-10:]:  # Show last 10
-        print(f"{signal['date'].strftime('%Y-%m-%d')}: {signal['type']} (Law {signal['law']}) - {'Bullish' if signal.get('bullish') else 'Bearish' if signal.get('bullish') is False else 'Neutral'}")
+    print(f"Tìm thấy {len(signals)} tín hiệu:")
+    for signal in signals[-10:]:  # Hiện thị 10 tín hiệu cuối
+        print(f"{signal['date'].strftime('%Y-%m-%d')}: {signal['type']} (Quy Luật {signal['law']}) - {'Tăng' if signal.get('bullish') else 'Giảm' if signal.get('bullish') is False else 'Trung Tính'}")
     
     return signals
 
-# Analyze VCB
+# Phân tích VCB
 # vcb_signals = analyze_stock_with_wyckoff_laws('market_data/VCB_2025-01-02_to_2025-07-21.csv')
 ```
 
@@ -631,7 +631,7 @@ def analyze_stock_with_wyckoff_laws(csv_file):
 
 ```python
 def backtest_wyckoff_laws(signals, data, hold_days=5):
-    """Backtest success rate of Wyckoff law signals"""
+    """Kiểm tra ngược tỷ lệ thành công của tín hiệu quy luật Wyckoff"""
     results = []
     
     for signal in signals:
@@ -642,22 +642,22 @@ def backtest_wyckoff_laws(signals, data, hold_days=5):
         if predicted_direction is None:
             continue
             
-        # Find signal index in data
+        # Tìm chỉ số tín hiệu trong dữ liệu
         try:
             signal_idx = data.index.get_loc(signal_date)
         except KeyError:
             continue
             
-        # Calculate future performance
+        # Tính toán hiệu suất tương lai
         if signal_idx + hold_days < len(data):
             entry_price = data.iloc[signal_idx]['close']
             exit_price = data.iloc[signal_idx + hold_days]['close']
             actual_return = (exit_price - entry_price) / entry_price
             
-            # Determine success
-            if predicted_direction:  # Bullish prediction
+            # Xác định thành công
+            if predicted_direction:  # Dự báo tăng
                 success = actual_return > 0.01  # >1% gain
-            else:  # Bearish prediction  
+            else:  # Dự báo giảm  
                 success = actual_return < -0.01  # >1% loss
                 
             results.append({
@@ -669,22 +669,22 @@ def backtest_wyckoff_laws(signals, data, hold_days=5):
                 'success': success
             })
     
-    # Calculate statistics
+    # Tính toán thống kê
     if results:
         success_rate = sum(r['success'] for r in results) / len(results)
         avg_return = np.mean([r['actual_return'] for r in results])
         
-        print(f"Backtest Results:")
-        print(f"Total Signals: {len(results)}")
-        print(f"Success Rate: {success_rate:.1%}")
-        print(f"Average Return: {avg_return:.2f}%")
+        print(f"Kết Quả Kiểm Tra Ngược:")
+        print(f"Tổng Tín Hiệu: {len(results)}")
+        print(f"Tỷ Lệ Thành Công: {success_rate:.1%}")
+        print(f"Lợi Nhuận Trung Bình: {avg_return:.2f}%")
         
-        # By law
+        # Theo quy luật
         for law in [1, 2, 3]:
             law_results = [r for r in results if r['law'] == law]
             if law_results:
                 law_success = sum(r['success'] for r in law_results) / len(law_results)
-                print(f"Law {law} Success Rate: {law_success:.1%} ({len(law_results)} signals)")
+                print(f"Quy Luật {law} Tỷ Lệ Thành Công: {law_success:.1%} ({len(law_results)} tín hiệu)")
     
     return results
 ```
@@ -693,43 +693,43 @@ def backtest_wyckoff_laws(signals, data, hold_days=5):
 
 ## 9. Tổng Kết và Điểm Mấu Chốt
 
-### 9.1 Key Takeaways - Những Điều Cốt Lõi
+### 9.1 Những Điều Cốt Lõi
 
-✅ **Ba quy luật Wyckoff là nền tảng** của mọi market analysis và VPA methodology
+✅ **Ba quy luật Wyckoff là nền tảng** của mọi phân tích thị trường và phương pháp VPA
 
-✅ **Vi phạm quy luật = tín hiệu cảnh báo sớm** với success rate cao (65-85%)
+✅ **Vi phạm quy luật = tín hiệu cảnh báo sớm** với tỷ lệ thành công cao (65-85%)
 
-✅ **Thị trường Việt Nam xác nhận** tính universal của các quy luật Wyckoff
+✅ **Thị trường Việt Nam xác nhận** tính phổ quát của các quy luật Wyckoff
 
-✅ **Law 3 (Effort vs Result)** có accuracy cao nhất và confirmation nhanh nhất
+✅ **Quy Luật 3 (Nỗ Lực vs Kết Quả)** có độ chính xác cao nhất và xác nhận nhanh nhất
 
-✅ **Multi-timeframe analysis** essential cho Law 2 (Cause/Effect) identification
+✅ **Phân tích đa khung thời gian** cần thiết cho việc xác định Quy Luật 2 (Nguyên Nhân/Kết Quả)
 
 ### 9.2 Khung Ứng Dụng Thực Tế
 
-**For Daily Trading:**
-- **Law 3** priority - Monitor effort/result anomalies
-- **Law 1** secondary - Supply/demand shifts  
-- **Law 2** context - Understand current market phase
+**Giao Dịch Trong Ngày:**
+- **Quy Luật 3** ưu tiên - Theo dõi sự bất thường nỗ lực/kết quả
+- **Quy Luật 1** thứ yếu - Thay đổi cán cân cung cầu  
+- **Quy Luật 2** bối cảnh - Hiểu giai đoạn thị trường hiện tại
 
-**For Swing Trading:**
-- **Law 2** primary - Identify cause completion
-- **Law 3** confirmation - Validate with volume
-- **Law 1** timing - Entry when S/D favorable
+**Giao Dịch Swing:**
+- **Quy Luật 2** chính - Xác định hoàn thành nguyên nhân
+- **Quy Luật 3** xác nhận - Kiểm chứng bằng khối lượng
+- **Quy Luật 1** thời điểm - Vào lệnh khi cung cầu thuận lợi
 
-**For Position Trading:**
-- **Law 2** foundation - Major cause/effect cycles
-- **Multi-timeframe** validation across all laws
-- **Patience** for major cause completion
+**Giao Dịch Vị Thế:**
+- **Quy Luật 2** nền tảng - Chu kỳ nguyên nhân/kết quả chính
+- **Đa khung thời gian** kiểm chứng tất cả quy luật
+- **Kiên nhẫn** chờ hoàn thành nguyên nhân lớn
 
 ### 9.3 Tóm Tắt Tỷ Lệ Thành Công (Dữ Liệu Thị Trường Việt Nam)
 
-| Quy Luật | Success Rate | Avg Confirmation Time | Best Application |
+| Quy Luật | Tỷ Lệ Thành Công | Thời Gian Xác Nhận | Ứng Dụng Tốt Nhất |
 |----------|--------------|----------------------|------------------|
-| **Law 1: Supply/Demand** | 78% | 3-5 days | Daily trading, entry timing |
-| **Law 2: Cause/Effect** | 65% | 5-10 days | Swing/position trading |
-| **Law 3: Effort/Result** | 85% | 1-2 days | All timeframes, high priority |
-| **All 3 Laws Agree** | 92% | 2-3 days | Highest confidence setups |
+| **Quy Luật 1: Cung/Cầu** | 78% | 3-5 ngày | Giao dịch ngày, thời điểm vào lệnh |
+| **Quy Luật 2: Nguyên Nhân/Kết Quả** | 65% | 5-10 ngày | Giao dịch swing/vị thế |
+| **Quy Luật 3: Nỗ Lực/Kết Quả** | 85% | 1-2 ngày | Mọi khung thời gian, ưu tiên cao |
+| **Cả 3 Quy Luật Đồng Thuận** | 92% | 2-3 ngày | Thiết lập tin cậy nhất |
 
 ### 9.4 Checklist Thành Thạo Ba Quy Luật
 

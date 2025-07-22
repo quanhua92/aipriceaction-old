@@ -21,7 +21,7 @@ Trong thị trường, có hai loại nhà đầu tư: **"Tiền thông minh"** 
 
 **Trong thị trường Việt Nam:**
 
-1. **Nhà đầu tư nước ngoài (Foreign Investors)**
+1. **Nhà đầu tư nước ngoài**
    - Có nguồn vốn lớn, phân tích chuyên nghiệp
    - Thường mua ở vùng thấp, bán ở vùng cao
    - Ít bị ảnh hưởng bởi tin tức ngắn hạn
@@ -170,7 +170,7 @@ print(f"Tín hiệu mạnh (>75 điểm): {len(tin_hieu_manh)}")
 
 ## 📈 Phần 2: Thực Hành - Theo Dõi Nhà Đầu Tư Nước Ngoài
 
-### A. Phân Tích Dòng Tiền Nước Ngoài (Foreign Flow)
+### A. Phân Tích Dòng Tiền Nước Ngoài
 
 ```python
 def phan_tich_dong_tien_nuoc_ngoai(data_co_phieu, foreign_flow_data=None):
@@ -277,7 +277,7 @@ for analysis in foreign_analysis[-10:]:  # 10 ngày gần nhất
 > 💡 **Lưu ý**: Phần này dành cho người muốn hiểu sâu về tâm lý đầu tư. 
 > Nếu bạn mới bắt đầu, có thể **bỏ qua** và quay lại sau.
 
-### A. Sentiment Analysis (Phân Tích Tâm Lý)
+### A. Phân Tích Tâm Lý Thị Trường
 
 **Nguyên lý:** Khi đại đa số nhà đầu tư cá nhân quá lạc quan = Đỉnh thị trường gần, và ngược lại.
 
@@ -441,44 +441,44 @@ for analysis in sentiment_analysis[-5:]:  # 5 ngày gần nhất
 <summary>📋 <strong>Advanced Smart Money Detection - Chỉ Dành Cho Người Muốn Tìm Hiểu Sâu</strong></summary>
 
 ```python
-class AdvancedSmartMoneyDetector:
+class Bo_Phat_Hien_Dong_Tien_Thong_Minh_Nang_Cao:
     def __init__(self):
-        self.indicators = {
-            'wyckoff_phases': WyckoffPhaseDetector(),
-            'institutional_footprint': InstitutionalFootprintAnalyzer(),
-            'dark_pool_detection': DarkPoolActivityDetector(),
-            'options_flow': OptionsFlowAnalyzer()
+        self.chi_bao = {
+            'giai_doan_wyckoff': Bo_Phat_Hien_Giai_Doan_Wyckoff(),
+            'dau_chan_to_chuc': Bo_Phan_Tich_Dau_Chan_To_Chuc(),
+            'phat_hien_ho_toi': Bo_Phat_Hien_Hoat_Dong_Ho_Toi(),
+            'dong_quyen_chon': Bo_Phan_Tich_Dong_Quyen_Chon()
         }
     
-    def analyze_comprehensive_smart_money(self, stock_data, market_data=None):
+    def phan_tich_toan_dien_dong_tien_thong_minh(self, du_lieu_co_phieu, du_lieu_thi_truong=None):
         """
         Phân tích toàn diện Smart Money với nhiều góc độ
         """
         
         results = {}
         
-        # 1. Wyckoff Phase Analysis
-        wyckoff_analysis = self.detect_wyckoff_phases(stock_data)
-        results['wyckoff'] = wyckoff_analysis
+        # 1. Phân Tích Giai Đoạn Wyckoff
+        phan_tich_wyckoff = self.phat_hien_giai_doan_wyckoff(du_lieu_co_phieu)
+        ket_qua['wyckoff'] = phan_tich_wyckoff
         
-        # 2. Institutional Footprint
-        institutional_analysis = self.detect_institutional_activity(stock_data)
-        results['institutional'] = institutional_analysis
+        # 2. Dấu Chân Tổ Chức
+        phan_tich_to_chuc = self.phat_hien_hoat_dong_to_chuc(du_lieu_co_phieu)
+        ket_qua['to_chuc'] = phan_tich_to_chuc
         
-        # 3. Hidden Order Flow
-        hidden_flow_analysis = self.detect_hidden_order_flow(stock_data)
-        results['hidden_flow'] = hidden_flow_analysis
+        # 3. Dòng Lệnh Ẩn
+        phan_tich_dong_lenh_an = self.phat_hien_dong_lenh_an(du_lieu_co_phieu)
+        ket_qua['dong_lenh_an'] = phan_tich_dong_lenh_an
         
-        # 4. Cross-Asset Smart Money Flow
-        if market_data:
-            cross_asset_analysis = self.analyze_cross_asset_flow(stock_data, market_data)
-            results['cross_asset'] = cross_asset_analysis
+        # 4. Dòng Tiền Thông Minh Liên Tài Sản
+        if du_lieu_thi_truong:
+            phan_tich_lien_tai_san = self.phan_tich_dong_tien_lien_tai_san(du_lieu_co_phieu, du_lieu_thi_truong)
+            ket_qua['lien_tai_san'] = phan_tich_lien_tai_san
         
-        # 5. Composite Smart Money Score
-        composite_score = self.calculate_composite_smart_money_score(results)
-        results['composite'] = composite_score
+        # 5. Điểm Tổng Hợp Dòng Tiền Thông Minh
+        diem_tong_hop = self.tinh_diem_tong_hop_dong_tien_thong_minh(ket_qua)
+        ket_qua['tong_hop'] = diem_tong_hop
         
-        return results
+        return ket_qua
     
     def detect_wyckoff_phases(self, stock_data):
         """
@@ -638,47 +638,47 @@ class AdvancedSmartMoneyDetector:
             
             # Phân loại mức độ Smart Money activity
             if composite_score >= 80:
-                activity_level = "INTENSE SMART MONEY ACTIVITY"
-                recommendation = "FOLLOW CLOSELY"
+                activity_level = "HOẠT ĐỘNG DÒNG TIỀN THÔNG MINH MẠNH"
+                recommendation = "THEO DÕI SÁT"
             elif composite_score >= 60:
-                activity_level = "Significant Smart Money Activity"
-                recommendation = "Monitor"
+                activity_level = "Hoạt động dòng tiền thông minh đáng kể"
+                recommendation = "Giám sát"
             elif composite_score >= 40:
-                activity_level = "Moderate Activity"
-                recommendation = "Watch"
+                activity_level = "Hoạt động vừa phải"
+                recommendation = "Quan sát"
             else:
-                activity_level = "Low Activity"
-                recommendation = "Routine Monitoring"
+                activity_level = "Hoạt động thấp"
+                recommendation = "Giám sát thường quy"
             
             composite_scores.append({
                 'date': date,
                 'composite_score': composite_score,
                 'component_scores': scores,
-                'activity_level': activity_level,
-                'recommendation': recommendation,
-                'high_confidence': composite_score >= 75
+                'muc_do_hoat_dong': activity_level,
+                'khuyen_nghi': recommendation,
+                'do_tin_cay_cao': composite_score >= 75
             })
         
         return composite_scores
     
     # Helper methods
-    def analyze_volume_profile(self, data):
-        # Implement volume profile analysis
+    def phan_tich_profile_khoi_luong(self, du_lieu):
+        # Triển khai phân tích profile khối lượng
         pass
     
-    def analyze_price_action(self, data):
-        # Implement price action analysis
+    def phan_tich_hanh_dong_gia(self, du_lieu):
+        # Triển khai phân tích hành động giá
         pass
     
-    def identify_wyckoff_phase(self, volume_profile, price_action):
-        # Implement Wyckoff phase identification
+    def nhan_dien_giai_doan_wyckoff(self, profile_khoi_luong, hanh_dong_gia):
+        # Triển khai nhận diện giai đoạn Wyckoff
         pass
     
-    def detect_block_trades(self, day_data, historical_data):
-        # Implement block trade detection
+    def phat_hien_giao_dich_khoi(self, du_lieu_ngay, du_lieu_lich_su):
+        # Triển khai phát hiện giao dịch khối
         pass
     
-    # ... other helper methods
+    # ... các phương thức hỗ trợ khác
 ```
 
 </details>

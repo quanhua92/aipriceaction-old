@@ -51,7 +51,7 @@ Hãy xem xét hai phiên giao dịch của **Vietcombank (VCB)**:
 Ticker: VCB
 Date: 2025-01-03
 Open: 61.47, High: 61.81, Low: 61.47, Close: 61.54
-Volume: 1,403,040
+Khối lượng: 1,403,040
 Phân tích giá đơn thuần: Tăng nhẹ +0.07 (+0.11%) - Tín hiệu tích cực?
 ```
 
@@ -60,7 +60,7 @@ Phân tích giá đơn thuần: Tăng nhẹ +0.07 (+0.11%) - Tín hiệu tích c
 Ticker: VCB
 Date: 2025-06-13  
 Open: 56.8, High: 57.2, Low: 56.0, Close: 56.2
-Volume: 5,300,000
+Khối lượng: 5,300,000
 Phân tích giá đơn thuần: Giảm nhẹ - Tín hiệu tiêu cực?
 ```
 
@@ -101,8 +101,8 @@ Trong VPA, **khối lượng = nỗ lực**, **biến động giá = kết quả
 Ticker: VNINDEX
 Date: 2025-05-15
 Open: 1309.73, High: 1313.8, Low: 1309.2, Close: 1313.2  
-Volume: 1,048,490,000 (RECORD HIGH - cao nhất nhiều tuần)
-Price Change: +0.26% (CỰC THẤP cho mức khối lượng này)
+Khối lượng: 1,048,490,000 (MỨC KỶ LỤC - cao nhất nhiều tuần)
+Biến động giá: +0.26% (CỰC THẤP cho mức khối lượng này)
 
 Phân tích VPA: NỖ LỰC CỰC LỚN (1.048 tỷ cổ phiếu) nhưng KẾT QUẢ CỰC KÉM (+3.47 điểm)
 → Tỷ lệ nỗ lực/kết quả = 302 triệu cổ phiếu cho 1 điểm tăng (bình thường chỉ 50 triệu)
@@ -132,8 +132,8 @@ Phân tích VPA: NỖ LỰC CỰC LỚN (1.048 tỷ cổ phiếu) nhưng KẾT Q
 Ticker: TCB
 Date: 2025-05-20
 Open: 29.50, High: 30.95, Low: 29.45, Close: 30.80
-Volume: 38,200,000 (BÙNG NỔ - mức cao nhất trong nhiều tháng)
-Price Change: +4.92% (tăng mạnh)
+Khối lượng: 38,200,000 (BÙNG NỔ - mức cao nhất trong nhiều tháng)
+Biến động giá: +4.92% (tăng mạnh)
 
 Phân tích VPA: NỖ LỰC LỚN (38.2M) + KẾT QUẢ TƯƠNG XỨNG (+4.92%)  
 → "Sign of Strength" (SOS) cực kỳ rõ ràng
@@ -165,7 +165,7 @@ Phân tích VPA: NỖ LỰC LỚN (38.2M) + KẾT QUẢ TƯƠNG XỨNG (+4.92%)
 Ticker: HPG  
 Date: 2025-05-30
 Open: 21.20, High: 22.21, Low: 21.15, Close: 21.46
-Volume: 65,010,000 (CỰC LỚN - record level)  
+Khối lượng: 65,010,000 (CỰC LỚN - mức kỷ lục)  
 Intraday: Đẩy lên 22.21 nhưng đóng cửa chỉ 21.46
 
 Phân tích VPA: 
@@ -209,11 +209,11 @@ VPA không thay thế phân tích nến mà **nâng tầm** nó bằng cách th�
 Ticker: VCB
 Date: 2025-06-13
 Open: 56.8, High: 57.2, Low: 56.0, Close: 56.2
-Volume: 5,300,000 (vs average ~1,200,000)
+Khối lượng: 5,300,000 (so với trung bình ~1,200,000)
 Candle pattern: Hammer với bóng dưới dài
 Context: Test vùng support 56.0
 
-VPA Analysis:
+Phân tích VPA:
 ✅ Classic Hammer formation với bóng dưới từ 56.0
 ✅ Stopping Volume (5.3M vs 1.2M average = 4.4x) 
 ✅ Strong support test tại 56.0
@@ -249,12 +249,12 @@ Nhưng quan trọng hơn: **VPA xác thực sức mạnh thực sự của các 
 ```csv
 Ticker: TCB
 Date: 2025-06-16  
-Previous Resistance: ~31.20
+Kháng cự trước: ~31.20
 Open: 31.25, High: 32.30, Low: 31.15, Close: 32.15
-Volume: 22,900,000 (cao)
-Context: Breakout khỏi trading range
+Khối lượng: 22,900,000 (cao)
+Bối cảnh: Bứt phá khỏi khoảng giao dịch
 
-VPA Analysis:
+Phân tích VPA:
 ✅ Clean break above 31.20 resistance
 ✅ High volume confirmation (22.9M)
 ✅ Strong close near high (32.15)
@@ -304,10 +304,10 @@ Smart money phân phối cổ phiếu cho retail FOMO:
 Ticker: VIC
 Date: 2025-06-10
 Open: 88.5, High: 91.2, Low: 86.0, Close: 90.6
-Volume: 6,800,000 (rất lớn)
+Khối lượng: 6,800,000 (rất lớn)
 Intraday story: Mở giảm sâu xuống 86.0, sau đó phục hồi mạnh
 
-VPA Analysis:
+Phân tích VPA:
 📉 Opening weakness (88.5 → 86.0) - Retail panic
 📊 Ultra high volume (6.8M) - Smart money stepping in  
 📈 Strong recovery (86.0 → 90.6) - Absorption complete
@@ -321,9 +321,9 @@ VPA Analysis:
 ```csv
 Ticker: VIC  
 Date: 2025-06-11
-Volume: 1,400,000 (CỰC THẤP)
-Price action: Biên độ hẹp, đi ngang
-Analysis: "No Supply" - Áp lực bán đã cạn kiệt
+Khối lượng: 1,400,000 (CỰC THẤP)
+Hành động giá: Biên độ hẹp, đi ngang
+Phân tích: "Không Có Cung" - Áp lực bán đã cạn kiệt
 ```
 
 **Từ chuyên gia:** *"VIC giao dịch biên độ rất hẹp với volume cực thấp (1.4M). Phân tích: 'No Supply. Áp lực bán đã cạn kiệt'"*
@@ -344,13 +344,13 @@ Analysis: "No Supply" - Áp lực bán đã cạn kiệt
 3. So sánh với phân tích chuyên gia trong `vpa_data/VCB.md`
 4. Đánh giá độ chính xác dự đoán
 
-**Template phân tích:**
+**Mẫu phân tích:**
 ```
 Ngày: ____
 OHLCV: ____  
-Volume ratio: ____ (vs 20-day average)
-Price change: ____%
-Pattern: Validation/Anomaly
+Tỷ lệ khối lượng: ____ (so với trung bình 20 ngày)
+Biến động giá: ____%
+Mô hình: Xác thực/Bất thường
 Reason: ____
 Prediction: ____
 Cross-check với vpa_data/VCB.md: ____
@@ -406,7 +406,7 @@ Accuracy: ____
 
 ## 7. Tổng Kết và Điểm Mấu Chốt
 
-### 7.1 Key Takeaways - Những Điều Cốt Lõi
+### 7.1 Những Điều Cốt Lõi
 
 ✅ **VPA = Phân tích 3 chiều** (Giá + Khối lượng + Thời gian) vượt trội hơn phân tích giá đơn thuần
 
@@ -466,7 +466,7 @@ Chương 1.2 sẽ đi sâu vào **Ba Quy Luật Wyckoff** - nền tảng lý thu
 
 ⚠️ **Kết hợp với risk management** - VPA giúp timing tốt hơn nhưng không loại bỏ được rủi ro
 
-💡 **Pro Tip:** Tạo VPA journal để track accuracy và improve pattern recognition skills
+💡 **Mẹo Chuyên Nghiệp:** Tạo nhật ký VPA để theo dõi độ chính xác và cải thiện kỹ năng nhận dạng mô hình
 
 ---
 

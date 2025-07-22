@@ -363,7 +363,7 @@ class HeDanhGiaDoTinCay:
             'khuyen_nghi': self.tao_khuyen_nghi(diem_thanh_phan)
         }
     
-    def tao_khuyen_nghi(self, diem: Dict) -> List[str]:
+    def tao_khuyen_nghi(self, diem: Tu_Dien) -> Danh_Sach[str]:
         """
         Đưa ra lời khuyên cải thiện
         """
@@ -429,13 +429,13 @@ for khuyen_nghi in ket_qua['khuyen_nghi']:
    - *Gợi ý: So sánh với trung bình 20 ngày và áp dụng scale 0-5*
 
 3. **5 yếu tố trong hệ thống đánh giá nâng cao là gì?**
-   - *Gợi ý: Volume, Price recovery, Context, Technical, Risk*
+   - *Gợi ý: Khối lượng, Phục hồi giá, Bối cảnh, Kỹ thuật, Rủi ro*
 
 4. **Tại sao cần phải đo lường chính xác thay vì dựa vào trực giác?**
-   - *Gợi ý: Consistency, objectivity, risk management*
+   - *Gợi ý: Tính nhất quán, tính khách quan, quản lý rủi ro*
 
 5. **Ứng dụng quantitative framework vào dữ liệu thực tế như thế nào?**
-   - *Gợi ý: Code implementation với VCB, TCB, HPG*
+   - *Gợi ý: Triển khai mã với VCB, TCB, HPG*
 
 📖 **[Xem Đáp Án Chi Tiết](../answers/chapter-5-1-quantitative-vpa-framework-answers.md)**
 

@@ -5,10 +5,10 @@
 Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
 - **Thành thạo 12 tín hiệu VPA tích cực** quan trọng nhất trên thị trường Việt Nam
-- **Phân biệt độ tin cậy** từ các signal cơ bản đến exceptionally strong
-- **Kết hợp nhiều tín hiệu** để tạo ra entry points với xác suất thành công cao
+- **Phân biệt độ tin cậy** từ các tín hiệu cơ bản đến đặc biệt mạnh
+- **Kết hợp nhiều tín hiệu** để tạo ra điểm vào lệnh với xác suất thành công cao
 - **Áp dụng vào thực tế** với dữ liệu cụ thể từ VCB, TCB, HPG, VIC
-- **Xây dựng quy trình** nhận diện và trading các pattern bullish
+- **Xây dựng quy trình** nhận diện và giao dịch các mẫu hình tích cực
 
 ---
 
@@ -43,19 +43,19 @@ flowchart TD
 **Đặc Điểm Chung Của Mọi Tín Hiệu VPA Tích Cực:**
 
 🔍 **Nguyên lý 1: "Khối lượng Nói thật, Giá Có thể Nói dối"**
-- Volume patterns tiết lộ ý định thật của smart money
-- Price action có thể bị thao túng ngắn hạn
-- Kết hợp price + volume = Truth serum của thị trường
+- Các mẫu hình khối lượng tiết lộ ý định thật của dòng tiền thông minh
+- Hành động giá có thể bị thao túng ngắn hạn
+- Kết hợp giá + khối lượng = Huyết thanh thật của thị trường
 
 ⚖️ **Nguyên lý 2: "Nỗ lực vs Kết quả Phải Hài hòa"**
 - Khối lượng lớn (nỗ lực) phải tạo ra biến động giá tương xứng (kết quả)
-- Bất thường effort-result = Red flag cần điều tra
-- Harmony trong relationship = Green light để action
+- Bất thường nỗ lực-kết quả = Cờ đỏ cần điều tra
+- Sự hài hòa trong mối quan hệ = Đèn xanh để hành động
 
 🎯 **Nguyên lý 3: "Context Là Vua"**
 - Cùng một pattern trong context khác nhau có ý nghĩa khác nhau
-- Market phase (tích lũy/phân phối) quyết định interpretation
-- Sector rotation và VNINDEX health tác động đến độ tin cậy
+- Giai đoạn thị trường (tích lũy/phân phối) quyết định cách diễn giải
+- Luân chuyển ngành và sức khỏe VNINDEX tác động đến độ tin cậy
 
 ---
 
@@ -161,18 +161,18 @@ def identify_stopping_volume(df, min_volume_ratio=2.0, min_close_position=0.6):
     return stopping_volumes
 ```
 
-**Trading Applications - "Cách Giao Dịch SV":**
+**Ứng Dụng Giao Dịch - "Cách Giao Dịch SV":**
 
-**Entry Strategy:**
-- 🎯 **Aggressive Entry:** Mua ngay khi SV được xác nhận (close của ngày SV)
-- 🛡️ **Conservative Entry:** Đợi pullback test lại vùng SV low rồi mới mua
-- ⚡ **Scalping Entry:** Mua breakout trên high của ngày SV
+**Chiến Lược Vào Lệnh:**
+- 🎯 **Vào Lệnh Tích Cực:** Mua ngay khi SV được xác nhận (đóng cửa của ngày SV)
+- 🛡️ **Vào Lệnh Bảo Thủ:** Đợi rút lùi kiểm tra lại vùng thấp SV rồi mới mua
+- ⚡ **Vào Lệnh Ngắn Hạn:** Mua đột phá trên mức cao của ngày SV
 
-**Risk Management:**
-- 🚫 **Stop Loss:** Đặt bên dưới low của ngày SV (thường 2-3%)
-- 💰 **Target 1:** Previous resistance gần nhất
-- 🚀 **Target 2:** Measured move = SV range + breakout point
-- 📊 **Position Size:** Có thể aggressive hơn do high probability
+**Quản Lý Rủi Ro:**
+- 🚫 **Cắt Lỗ:** Đặt bên dưới mức thấp của ngày SV (thường 2-3%)
+- 💰 **Mục Tiêu 1:** Kháng cự trước đó gần nhất
+- 🚀 **Mục Tiêu 2:** Biến động đo lường = Khoảng SV + điểm đột phá
+- 📊 **Kích Thước Vị Thế:** Có thể tích cực hơn do xác suất cao
 
 ### 2.2 Khối Lượng Chuyên Nghiệp (Professional Volume - PV) ⭐⭐⭐
 
@@ -181,18 +181,18 @@ def identify_stopping_volume(df, min_volume_ratio=2.0, min_close_position=0.6):
 
 #### Đặc Điểm Phân Biệt "Professional vs Amateur Volume"
 
-**Professional Volume Characteristics:**
-- 📊 **Volume ≥ 150%** của average (nhưng không quá extreme như SV)
-- 📈 **Price advance ≥ 1.5%** trong ngày
-- 🎯 **Close position ≥ 80%** của daily range
-- 📏 **Wide spread up** - biên độ tăng lớn
-- ✅ **Good follow-through** trong 1-3 phiên tiếp theo
+**Đặc Điểm Khối Lượng Chuyên Nghiệp:**
+- 📊 **Khối Lượng ≥ 150%** của trung bình (nhưng không quá cực đoạn như SV)
+- 📈 **Tăng giá ≥ 1.5%** trong ngày
+- 🎯 **Vị trí đóng cửa ≥ 80%** của khoảng ngày
+- 📏 **Biên độ tăng rộng** - biên độ tăng lớn
+- ✅ **Tiếp nối tốt** trong 1-3 phiên tiếp theo
 
-**Amateur Volume Warning Signs:**
-- ❌ High volume but **weak close** (bottom 40% of range)
-- ❌ High volume but **narrow spread** (< 1% move)
-- ❌ **No follow-through** - giá fail ngay phiên sau
-- ❌ **Volume too extreme** (>500%) có thể là distribution
+**Dấu Hiệu Cảnh Báo Khối Lượng Nghiệp Dư:**
+- ❌ Khối lượng cao nhưng **đóng cửa yếu** (dưới 40% của khoảng)
+- ❌ Khối lượng cao nhưng **biên độ hẹp** (< 1% biến động)
+- ❌ **Không tiếp nối** - giá thất bại ngay phiên sau
+- ❌ **Khối lượng quá cực đoạn** (>500%) có thể là phân phối
 
 #### Case Study Thực Tế: TCB - "Professional Volume Hoàn Hảo" (20/05/2025)
 
@@ -365,7 +365,7 @@ def detect_no_supply(df, max_volume_ratio=0.7, max_price_change=0.5):
 - 🛡️ **Conservative:** Đợi demand return (volume tăng + giá tăng)
 - ⚡ **Breakout Play:** Đợi giá phá vỡ resistance trên volume
 
-**Risk Management:**
+**Quản Lý Rủi Ro:**
 - 📍 **Stop Loss:** Dưới recent low hoặc support
 - 💰 **Targets:** Previous highs hoặc resistance levels
 - ⏰ **Time Stop:** Nếu không có follow-through trong 5-10 phiên
@@ -591,7 +591,7 @@ def detect_spring_patterns(df, support_level, lookback_days=5):
 - 🛡️ **Conservative Entry:** Đợi retest support với low volume
 - ⚡ **Momentum Entry:** Mua breakout trên spring high
 
-**Risk Management:**
+**Quản Lý Rủi Ro:**
 - 🚫 **Stop Loss:** Tight stop below spring low (usually 1-2%)
 - 💰 **Target 1:** Previous resistance level
 - 🚀 **Target 2:** Measured move từ trading range width
@@ -939,148 +939,148 @@ def calculate_vpa_position_size(signal_grade, risk_per_trade, account_size, conf
 
 ### 7.3 Khung Giải Pháp
 
-**Systematic Approach:**
-1. **Pre-market Prep:** Check market context, sector health
-2. **Signal Validation:** Use checklist cho mỗi signal type
-3. **Quality Grading:** A/B/C classification before entry
-4. **Risk Management:** Position size theo signal grade
-5. **Post-trade Review:** Learn từ both wins và losses
+**Cách Tiếp Cận Hệ Thống:**
+1. **Chuẩn Bị Trước Phiên:** Kiểm tra bối cảnh thị trường, sức khỏe ngành
+2. **Xác Thực Tín Hiệu:** Sử dụng danh sách kiểm tra cho mỗi loại tín hiệu
+3. **Phân Loại Chất Lượng:** Phân loại A/B/C trước khi vào lệnh
+4. **Quản Lý Rủi Ro:** Kích thước vị thế theo cấp độ tín hiệu
+5. **Đánh Giá Sau Giao Dịch:** Học hỏi từ cả thắng lợi và thua lỗ
 
 ---
 
-## 8. Bài Tập Thực Hành - "Trở Thành Master VPA Signals"
+## 8. Bài Tập Thực Hành - "Trở Thành Bậc Thầy Tín Hiệu VPA"
 
-### Bài Tập 1: Signal Recognition Challenge
+### Bài Tập 1: Thách Thức Nhận Diện Tín Hiệu
 
-**Mục tiêu:** Phát triển khả năng nhận diện chính xác 12 tín hiệu bullish
+**Mục tiêu:** Phát triển khả năng nhận diện chính xác 12 tín hiệu tích cực
 
-**Steps:**
-1. **Download data:** 5 cổ phiếu từ different sectors (VCB, HPG, VIC, FPT, MSN)
-2. **Time period:** 6 tháng gần nhất
-3. **Task:** Identify và mark tất cả bullish VPA signals
-4. **Validation:** So sánh với expert analysis trong `vpa_data/`
+**Các Bước:**
+1. **Tải dữ liệu:** 5 cổ phiếu từ các ngành khác nhau (VCB, HPG, VIC, FPT, MSN)
+2. **Thời gian:** 6 tháng gần nhất
+3. **Nhiệm vụ:** Xác định và đánh dấu tất cả tín hiệu VPA tích cực
+4. **Xác thực:** So sánh với phân tích chuyên gia trong `vpa_data/`
 
-**Deliverables:**
-- Annotated charts với signal identification
-- Signal grading (A/B/C) với reasoning
-- Success rate tracking sau 5-10 days
-- Error analysis và improvement plan
+**Sản Phẩm Bàn Giao:**
+- Biểu đồ có chú thích với việc xác định tín hiệu
+- Phân loại tín hiệu (A/B/C) với lý do
+- Theo dõi tỷ lệ thành công sau 5-10 ngày
+- Phân tích lỗi và kế hoạch cải thiện
 
 ### Bài Tập 2: Phân Tích Kết Hợp Đa Tín Hiệu
 
-**Mục tiêu:** Master việc kết hợp signals để create high-probability setups
+**Mục tiêu:** Thành thạo việc kết hợp tín hiệu để tạo ra các thiết lập xác suất cao
 
-**Focus Areas:**
+**Khu Vực Trọng Tâm:**
 1. **Spring + LPS combinations**
 2. **Stopping Volume + No Supply sequences**  
 3. **Professional Volume + JOC patterns**
 4. **Multi-timeframe confirmations**
 
-**Analysis Framework:**
-- Identify combination patterns trong historical data
-- Calculate success rates cho different combinations
-- Develop personal playbook của best setups
-- Test strategies trên paper trading
+**Khung Phân Tích:**
+- Xác định các mẫu hình kết hợp trong dữ liệu lịch sử
+- Tính toán tỷ lệ thành công cho các kết hợp khác nhau
+- Phát triển sổ tay cá nhân của các thiết lập tốt nhất
+- Kiểm thử chiến lược trên giao dịch mô phỏng
 
 ### Bài Tập 3: Theo Dõi Tín Hiệu Thời Gian Thực
 
-**Mục tiêu:** Develop real-time recognition skills
+**Mục tiêu:** Phát triển kỹ năng nhận diện thời gian thực
 
-**Daily Routine:**
-1. **Morning scan:** Pre-market analysis of watchlist
-2. **Intraday monitoring:** Track signal development  
-3. **End-of-day review:** Confirm signals và plan next day
-4. **Weekly summary:** Performance tracking và pattern analysis
+**Thói Quen Hàng Ngày:**
+1. **Quét buổi sáng:** Phân tích trước phiên của danh sách theo dõi
+2. **Giám sát trong phiên:** Theo dõi sự phát triển tín hiệu  
+3. **Đánh giá cuối ngày:** Xác nhận tín hiệu và lên kế hoạch ngày hôm sau
+4. **Tóm tắt hàng tuần:** Theo dõi hiệu suất và phân tích mẫu hình
 
-**Tools cần thiết:**
-- Watchlist của 20-30 cổ phiếu
-- Volume alerts setup
-- Signal tracking spreadsheet
-- Performance metrics dashboard
+**Công Cụ Cần Thiết:**
+- Danh sách theo dõi của 20-30 cổ phiếu
+- Thiết lập cảnh báo khối lượng
+- Bảng tính theo dõi tín hiệu
+- Bảng điều khiển chỉ số hiệu suất
 
 ---
 
 ## 9. Tổng Kết và Điểm Mấu Chốt
 
-### 9.1 Key Takeaways - Những Điều Cốt Lõi
+### 9.1 Điểm Chính - Những Điều Cốt Lõi
 
 ✅ **Volume là chìa khóa của VPA analysis** - Giá có thể lừa dối, volume không thể
 
 ✅ **Context quyết định signal interpretation** - Cùng pattern, khác context = khác meaning
 
-✅ **Quality over quantity** - Tốt hơn trade 5 Grade A signals hơn 20 Grade C signals
+✅ **Chất lượng hơn số lượng** - Tốt hơn giao dịch 5 tín hiệu Cấp A hơn 20 tín hiệu Cấp C
 
-✅ **Combination signals powerful nhất** - Multiple confirmations = Higher probability
+✅ **Tín hiệu kết hợp mạnh nhất** - Nhiều xác nhận = Xác suất cao hơn
 
-✅ **Discipline thắng discretion** - Follow system, avoid emotional decisions
+✅ **Kỷ luật thắng quyết định tùy ý** - Tuân theo hệ thống, tránh quyết định cảm tính
 
 ### 9.2 Các Yếu Tố Thành Công Quan Trọng
 
-🎯 **Technical Mastery:** Understand mechanics của từng signal
+🎯 **Thành thạo Kỹ thuật:** Hiểu cơ chế của từng tín hiệu
 
-📊 **Context Awareness:** Market phase, sector health, economic cycle
+📊 **Nhận thức Bối cảnh:** Giai đoạn thị trường, sức khỏe ngành, chu kì kinh tế
 
-⚖️ **Risk Management:** Position sizing theo signal quality
+⚖️ **Quản lý Rủi ro:** Định cỡ vị thế theo chất lượng tín hiệu
 
-📈 **Continuous Learning:** Track results, analyze errors, improve system
+📈 **Học hỏi Liên tục:** Theo dõi kết quả, phân tích lỗi, cải thiện hệ thống
 
-🕐 **Patience:** Wait for Grade A setups, avoid FOMO
+🕐 **Kiên nhẫn:** Đợi thiết lập Cấp A, tránh FOMO
 
-### 9.3 Master Checklist Cho Bullish VPA Signals
+### 9.3 Danh Sách Kiểm Tra Tổng Quát Cho Tín Hiệu VPA Tích Cực
 
-**Pre-Entry Checklist:**
-- [ ] Signal criteria completely met
-- [ ] Market context supportive
-- [ ] Sector không headwind
-- [ ] Risk/reward ratio >2:1
-- [ ] Position size appropriate cho signal grade
-- [ ] Exit plan clearly defined
+**Danh Sách Kiểm Tra Trước Khi Vào Lệnh:**
+- [ ] Tiêu chí tín hiệu được đáp ứng hoàn toàn
+- [ ] Bối cảnh thị trường hỗ trợ
+- [ ] Ngành không có géo ngược
+- [ ] Tỷ lệ rủi ro/lợi nhuận >2:1
+- [ ] Kích thước vị thế phù hợp với cấp độ tín hiệu
+- [ ] Kế hoạch thoát lệnh được xác định rõ ràng
 
-**Post-Entry Monitoring:**
-- [ ] Follow-through confirmation trong 2-3 days
-- [ ] Volume patterns remain supportive  
+**Giám Sát Sau Khi Vào Lệnh:**
+- [ ] Xác nhận tiếp nối trong 2-3 ngày
+- [ ] Các mẫu hình khối lượng vẫn hỗ trợ  
 - [ ] Price action meets expectations
 - [ ] Ready to exit nếu setup fails
 
 ### 9.4 Chuẩn Bị Cho Chương Tiếp Theo
 
-Chương 3.2 sẽ explore **Tín Hiệu VPA Tiêu Cực** - "The Dark Side" của market analysis:
+Chương 3.2 sẽ khám phá **Tín Hiệu VPA Tiêu Cực** - "Mặt Tối" của phân tích thị trường:
 
-1. **Bearish Volume Patterns:** Distribution signals, selling climax
-2. **Price Action Warnings:** No demand, weakness on rally
-3. **Combination Bearish Signals:** UTAD, failed breakouts
-4. **Risk Management:** Protecting profits từ bullish positions
+1. **Các Mẫu Hình Khối Lượng Tiêu Cực:** Tín hiệu phân phối, đỉnh điểm bán
+2. **Cảnh Báo Hành Động Giá:** Không có nhu cầu, yếu kém trên đà tăng
+3. **Tín Hiệu Tiêu Cực Kết Hợp:** UTAD, đột phá thất bại
+4. **Quản Lý Rủi Ro:** Bảo vệ lợi nhuẫn từ các vị thế tích cực
 
 ---
 
 ## Ghi Chú Quan Trọng
 
-⚠️ **VPA signals đòi hỏi patience và discipline** - không rush vào positions
+⚠️ **Tín hiệu VPA đòi hỏi kiên nhẫn và kỷ luật** - không vội và vào các vị thế
 
-⚠️ **Market có thể irrational trong short term** - stick to proven methodology
+⚠️ **Thị trường có thể phi lý trong ngắn hạn** - bám sát phương pháp đã được chứng minh
 
-⚠️ **Always combine với sound risk management** - VPA improves odds nhưng không guarantee
+⚠️ **Luôn kết hợp với quản lý rủi ro chắc chắn** - VPA cải thiện tỷ lệ cược nhưng không bảo đảm
 
-💡 **Pro Tip:** Tạo personal "VPA Playbook" với best patterns và results tracking
+💡 **Mẹo Chuyên Gia:** Tạo "Sổ Tay VPA" cá nhân với các mẫu hình tốt nhất và theo dõi kết quả
 
 ---
 
 ## Câu Hỏi Tự Kiểm Tra
 
 1. **VCB ngày 13/06/2025 thể hiện tín hiệu VPA nào và tại sao?**
-   - *Gợi ý: Volume 5.3M với hammer candle và recovery*
+   - *Gợi ý: Khối lượng 5.3M với nến búa tạ và phục hồi*
 
-2. **Phân biệt Professional Volume và Amateur Volume như thế nào?**
-   - *Gợi ý: Close position và follow-through characteristics*
+2. **Phân biệt Khối Lượng Chuyên Nghiệp và Khối Lượng Nghiệp Dư như thế nào?**
+   - *Gợi ý: Vị trí đóng cửa và đặc điểm tiếp nối*
 
-3. **Spring pattern cần những điều kiện gì để được coi là Grade A?**
-   - *Gợi ý: Volume ratio và time below support*
+3. **Mẫu hình Spring cần những điều kiện gì để được coi là Cấp A?**
+   - *Gợi ý: Tỷ lệ khối lượng và thời gian dưới mức hỗ trợ*
 
-4. **Tại sao TCB ngày 11/06/2025 là No Supply hoàn hảo?**
-   - *Gợi ý: Volume 6.1M so với trung bình*
+4. **Tại sao TCB ngày 11/06/2025 là Không Có Nguồn Cung hoàn hảo?**
+   - *Gợi ý: Khối lượng 6.1M so với trung bình*
 
-5. **JOC khác gì với False Breakout? Làm sao phân biệt?**
-   - *Gợi ý: Volume sustainability và follow-through*
+5. **JOC khác gì với Đột Phá Giả? Làm sao phân biệt?**
+   - *Gợi ý: Tính bền vững của khối lượng và tiếp nối*
 
 📖 **[Xem Đáp Án Chi Tiết](answers/chapter-3-1-bullish-vpa-signals-answers.md)**
 

@@ -514,19 +514,19 @@ for ly_do, thong_tin in ket_qua['phan_tich_ly_do_ban'].items():
 ## Câu Hỏi Tự Kiểm Tra
 
 1. **Tại sao backtesting lại quan trọng trong phát triển chiến lược VPA?**
-   - *Gợi ý: Validation, optimization, risk assessment*
+   - *Gợi ý: Xác thực, tối ưu hóa, đánh giá rủi ro*
 
 2. **Sự khác biệt giữa in-sample và out-of-sample testing là gì?**
-   - *Gợi ý: Overfitting prevention và validation approach*
+   - *Gợi ý: Ngăn chặn overfitting và phương pháp xác thực*
 
 3. **4 metrics chính để đánh giá hiệu suất backtesting là gì?**
-   - *Gợi ý: Win rate, Profit factor, Sharpe ratio, Max drawdown*
+   - *Gợi ý: Tỷ lệ thắng, Hệ số lợi nhuận, Tỷ số Sharpe, Rút vốn tối đa*
 
 4. **Làm thế nào để tránh overfitting trong backtesting?**
-   - *Gợi ý: Simple rules, walk-forward analysis, robustness testing*
+   - *Gợi ý: Quy tắc đơn giản, phân tích tiến dần, kiểm tra độ bền vững*
 
 5. **Backtesting engine chuyên nghiệp cần những component nào?**
-   - *Gợi ý: Data management, signal processing, performance analysis, reporting*
+   - *Gợi ý: Quản lý dữ liệu, xử lý tín hiệu, phân tích hiệu suất, báo cáo*
 
 📖 **[Xem Đáp Án Chi Tiết](../answers/chapter-5-2-backtesting-engine-answers.md)**
 

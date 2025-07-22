@@ -443,101 +443,101 @@ backtest_results = backtest_ai_model(ai_model, feature_cols, vcb_data)
 > 💡 **Lưu ý**: Phần này dành cho người muốn tìm hiểu về Deep Learning. 
 > Nếu bạn mới bắt đầu với AI, có thể **bỏ qua** và quay lại sau.
 
-### A. CNN Để Nhận Diện Chart Patterns
+### A. CNN Để Nhận Diện Các Mẫu Biểu Đồ
 
 ```python
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 
-def tao_chart_images_cho_cnn(data_co_phieu, window_size=50, image_size=(64, 64)):
+def tao_hinh_anh_bieu_do_cho_cnn(du_lieu_co_phieu, kich_thuoc_cua_so=50, kich_thuoc_hinh=(64, 64)):
     """
     Chuyển đổi dữ liệu OHLCV thành hình ảnh để CNN có thể học
     """
     
-    chart_images = []
-    labels = []
+    hinh_anh_bieu_do = []
+    nhan = []
     
-    for i in range(window_size, len(data_co_phieu) - 5):  # -5 để có forward return
-        # Lấy window data
-        window_data = data_co_phieu.iloc[i-window_size:i]
+    for i in range(kich_thuoc_cua_so, len(du_lieu_co_phieu) - 5):  # -5 để có lợi nhuận tương lai
+        # Lấy dữ liệu cửa sổ
+        du_lieu_cua_so = du_lieu_co_phieu.iloc[i-kich_thuoc_cua_so:i]
         
-        # Tạo chart image (đơn giản hóa)
-        chart_image = tao_candlestick_image_matrix(window_data, image_size)
+        # Tạo hình ảnh biểu đồ (đơn giản hóa)
+        hinh_anh_bieu_do_item = tao_ma_tran_hinh_nen(du_lieu_cua_so, kich_thuoc_hinh)
         
-        # Tính forward return để làm label
-        current_price = data_co_phieu.iloc[i]['close']
-        future_price = data_co_phieu.iloc[i+5]['close']
-        forward_return = (future_price - current_price) / current_price
+        # Tính lợi nhuận tương lai để làm nhãn
+        gia_hien_tai = du_lieu_co_phieu.iloc[i]['close']
+        gia_tuong_lai = du_lieu_co_phieu.iloc[i+5]['close']
+        loi_nhuan_tuong_lai = (gia_tuong_lai - gia_hien_tai) / gia_hien_tai
         
-        # Binary label: 1 nếu return > 2%, 0 nếu không
-        label = 1 if forward_return > 0.02 else 0
+        # Nhãn nhị phân: 1 nếu lợi nhuận > 2%, 0 nếu không
+        nhan_item = 1 if loi_nhuan_tuong_lai > 0.02 else 0
         
-        chart_images.append(chart_image)
-        labels.append(label)
+        hinh_anh_bieu_do.append(hinh_anh_bieu_do_item)
+        nhan.append(nhan_item)
     
-    return np.array(chart_images), np.array(labels)
+    return np.array(hinh_anh_bieu_do), np.array(nhan)
 
-def tao_candlestick_image_matrix(window_data, image_size):
+def tao_ma_tran_hinh_nen(du_lieu_cua_so, kich_thuoc_hinh):
     """
     Tạo ma trận hình ảnh từ dữ liệu candlestick
     """
-    height, width = image_size
-    image_matrix = np.zeros((height, width, 3))  # RGB channels
+    chieu_cao, chieu_rong = kich_thuoc_hinh
+    ma_tran_hinh = np.zeros((chieu_cao, chieu_rong, 3))  # Các kênh RGB
     
     # Chuẩn hóa dữ liệu giá về [0, 1]
-    price_min = window_data[['open', 'high', 'low', 'close']].min().min()
-    price_max = window_data[['open', 'high', 'low', 'close']].max().max()
+    gia_min = du_lieu_cua_so[['open', 'high', 'low', 'close']].min().min()
+    gia_max = du_lieu_cua_so[['open', 'high', 'low', 'close']].max().max()
     
-    volume_min = window_data['volume'].min()
-    volume_max = window_data['volume'].max()
+    khoi_luong_min = du_lieu_cua_so['volume'].min()
+    khoi_luong_max = du_lieu_cua_so['volume'].max()
     
-    for i, (_, day) in enumerate(window_data.iterrows()):
-        if i >= width:  # Không vượt quá width của image
+    for i, (_, ngay) in enumerate(du_lieu_cua_so.iterrows()):
+        if i >= chieu_rong:  # Không vượt quá chiều rộng của hình
             break
             
         # Chuẩn hóa giá
-        open_norm = (day['open'] - price_min) / (price_max - price_min)
-        high_norm = (day['high'] - price_min) / (price_max - price_min)
-        low_norm = (day['low'] - price_min) / (price_max - price_min)
-        close_norm = (day['close'] - price_min) / (price_max - price_min)
-        volume_norm = (day['volume'] - volume_min) / (volume_max - volume_min)
+        mo_norm = (ngay['open'] - gia_min) / (gia_max - gia_min)
+        cao_norm = (ngay['high'] - gia_min) / (gia_max - gia_min)
+        thap_norm = (ngay['low'] - gia_min) / (gia_max - gia_min)
+        dong_norm = (ngay['close'] - gia_min) / (gia_max - gia_min)
+        khoi_luong_norm = (ngay['volume'] - khoi_luong_min) / (khoi_luong_max - khoi_luong_min)
         
-        # Chuyển về pixel coordinates
-        open_y = int((1 - open_norm) * (height - 1))
-        high_y = int((1 - high_norm) * (height - 1))
-        low_y = int((1 - low_norm) * (height - 1))
-        close_y = int((1 - close_norm) * (height - 1))
+        # Chuyển về toạ độ pixel
+        mo_y = int((1 - mo_norm) * (chieu_cao - 1))
+        cao_y = int((1 - cao_norm) * (chieu_cao - 1))
+        thap_y = int((1 - thap_norm) * (chieu_cao - 1))
+        dong_y = int((1 - dong_norm) * (chieu_cao - 1))
         
-        # Vẽ candlestick
-        # Red channel: Price action
-        for y in range(min(high_y, low_y), max(high_y, low_y) + 1):
-            image_matrix[y, i, 0] = 0.5  # High-Low line
+        # Vẽ nến
+        # Kênh đỏ: Hành động giá
+        for y in range(min(cao_y, thap_y), max(cao_y, thap_y) + 1):
+            ma_tran_hinh[y, i, 0] = 0.5  # Đường cao-thấp
         
-        # Body của candlestick
-        body_start = min(open_y, close_y)
-        body_end = max(open_y, close_y)
+        # Thân của nến
+        than_bat_dau = min(mo_y, dong_y)
+        than_ket_thuc = max(mo_y, dong_y)
         
-        if close_norm > open_norm:  # Green candle
-            image_matrix[body_start:body_end+1, i, 1] = 1.0  # Green channel
-        else:  # Red candle
-            image_matrix[body_start:body_end+1, i, 0] = 1.0  # Red channel
+        if dong_norm > mo_norm:  # Nến xanh
+            ma_tran_hinh[than_bat_dau:than_ket_thuc+1, i, 1] = 1.0  # Kênh xanh
+        else:  # Nến đỏ
+            ma_tran_hinh[than_bat_dau:than_ket_thuc+1, i, 0] = 1.0  # Kênh đỏ
         
-        # Blue channel: Volume
-        volume_height = int(volume_norm * height * 0.3)  # Volume bars ở dưới
-        if volume_height > 0:
-            image_matrix[-volume_height:, i, 2] = volume_norm
+        # Kênh xanh dương: Khối lượng
+        chieu_cao_khoi_luong = int(khoi_luong_norm * chieu_cao * 0.3)  # Cột khối lượng ở dưới
+        if chieu_cao_khoi_luong > 0:
+            ma_tran_hinh[-chieu_cao_khoi_luong:, i, 2] = khoi_luong_norm
     
-    return image_matrix
+    return ma_tran_hinh
 
-def tao_cnn_model(input_shape):
+def tao_mo_hinh_cnn(hinh_dang_dau_vao):
     """
-    Tạo CNN model để nhận diện VPA patterns từ chart images
+    Tạo mô hình CNN để nhận diện các mẫu VPA từ hình ảnh biểu đồ
     """
     
-    model = keras.Sequential([
-        # Convolutional layers
-        layers.Conv2D(32, (3, 3), activation='relu', input_shape=input_shape),
+    mo_hinh = keras.Sequential([
+        # Các lớp tích chập
+        layers.Conv2D(32, (3, 3), activation='relu', input_shape=hinh_dang_dau_vao),
         layers.MaxPooling2D((2, 2)),
         
         layers.Conv2D(64, (3, 3), activation='relu'),
@@ -546,7 +546,7 @@ def tao_cnn_model(input_shape):
         layers.Conv2D(64, (3, 3), activation='relu'),
         layers.MaxPooling2D((2, 2)),
         
-        # Dense layers
+        # Các lớp dày đặc
         layers.Flatten(),
         layers.Dense(64, activation='relu'),
         layers.Dropout(0.5),

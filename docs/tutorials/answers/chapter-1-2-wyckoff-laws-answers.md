@@ -4,40 +4,40 @@
 
 ### 1. VN-INDEX ngày 15/05/2025 vi phạm quy luật nào?
 
-**Đáp án: Quy Luật 1 - Law of Supply and Demand**
+**Đáp án: Quy Luật 1 - Quy Luật Cung và Cầu**
 
 **Phân tích chi tiết:**
-- **Volume:** 1.048 tỷ (effort cực cao)
-- **Price change:** +0.26% (result cực thấp)
-- **Vi phạm:** High effort, minimal result = Supply pressure
+- **Khối lượng:** 1.048 tỷ (nỗ lực cực cao)
+- **Thay đổi giá:** +0.26% (kết quả cực thấp)
+- **Vi phạm:** Nỗ lực cao, kết quả tối thiểu = Áp lực cung
 
 **Giải thích:**
-Theo Law 1, khi có effort lớn (volume cao) nhưng result nhỏ (price change thấp), điều này cho thấy có lực cản mạnh. Volume 1.048 tỷ cho thấy có rất nhiều giao dịch, nhưng giá chỉ tăng 0.26% nghĩa là có áp lực bán mạnh từ smart money.
+Theo Quy Luật 1, khi có nỗ lực lớn (khối lượng cao) nhưng kết quả nhỏ (thay đổi giá thấp), điều này cho thấy có lực cản mạnh. Khối lượng 1.048 tỷ cho thấy có rất nhiều giao dịch, nhưng giá chỉ tăng 0.26% nghĩa là có áp lực bán mạnh từ dòng tiền thông minh.
 
-**Dự đoán:** Cảnh báo distribution, có thể sẽ có correction trong các phiên tiếp theo.
+**Dự đoán:** Cảnh báo phân phối, có thể sẽ có điều chỉnh trong các phiên tiếp theo.
 
 ### 2. TCB ngày 11/06/2025 thể hiện quy luật nào?
 
-**Đáp án: Quy Luật 3 - Law of Effort vs Result (Bullish Scenario)**
+**Đáp án: Quy Luật 3 - Quy Luật Nỗ Lực vs Kết Quả (Kịch Bản Tích Cực)**
 
 **Phân tích chi tiết:**
-- **Volume:** Thấp hơn trung bình (low effort)
-- **Price:** Flat, không giảm (positive result given low effort)
-- **Context:** Test resistance level
+- **Khối lượng:** Thấp hơn trung bình (nỗ lực thấp)
+- **Giá:** Ổn định, không giảm (kết quả tích cực với nỗ lực thấp)
+- **Bối cảnh:** Kiểm tra mức kháng cự
 
 **Giải thích:**
-Đây là **No Supply** scenario. Khi price test resistance với volume thấp mà không có selling pressure, điều này cho thấy:
-- Floating supply đã được smart money thu mua
-- Không còn áp lực bán tại level này
-- Sẵn sàng cho breakout với volume confirmation
+Đây là kịch bản **Không Có Nguồn Cung**. Khi giá kiểm tra kháng cự với khối lượng thấp mà không có áp lực bán, điều này cho thấy:
+- Nguồn cung lưu động đã được dòng tiền thông minh thu mua
+- Không còn áp lực bán tại mức này
+- Sẵn sàng cho đứt phá với xác nhận khối lượng
 
-**Dự đoán:** Bullish - expect breakout với professional volume.
+**Dự đoán:** Tích cực - mong đợi đứt phá với khối lượng chuyên nghiệp.
 
 ### 3. Tại sao weekly data quan trọng cho Law 2?
 
-**Đáp án: Vì Cause Development cần Time Perspective**
+**Đáp án: Vì Phát Triển Nguyên Nhân cần Góc Nhìn Thời Gian**
 
-**Giải thích Law 2 - Law of Cause and Effect:**
+**Giải thích Quy Luật 2 - Quy Luật Nguyên Nhân và Kết Quả:**
 
 **Daily Data Limitations:**
 - Noise và false signals nhiều

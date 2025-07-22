@@ -4,17 +4,17 @@
 
 Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
-- **Thiết kế hệ thống giao dịch systematic** kết hợp tất cả VPA knowledge
-- **Tích hợp hoàn chỉnh** bullish và bearish signals thành trading framework
-- **Xây dựng backtesting engine** với dữ liệu thị trường Việt Nam
-- **Triển khai live trading** với risk management chuyên nghiệp
-- **Tạo lập performance tracking system** để cải tiến liên tục
-- **Master advanced techniques** cho portfolio management và position sizing
-- **Phát triển discipline và psychology** cần thiết cho thành công dài hạn
+- **Thiết kế hệ thống giao dịch có hệ thống** kết hợp tất cả kiến thức VPA
+- **Tích hợp hoàn chỉnh** tín hiệu tích cực và tiêu cực thành khung giao dịch
+- **Xây dựng động cơ kiểm thử lại** với dữ liệu thị trường Việt Nam
+- **Triển khai giao dịch thời gian thực** với quản lý rủi ro chuyên nghiệp
+- **Tạo lập hệ thống theo dõi hiệu suất** để cải tiến liên tục
+- **Thành thạo các kỹ thuật nâng cao** cho quản lý danh mục và định cỡ vị thế
+- **Phát triển kỷ luật và tâm lý** cần thiết cho thành công dài hạn
 
 ---
 
-## 1. Kiến Trúc Hệ Thống VPA Trading - "Blueprint" Cho Thành Công Bền Vững
+## 1. Kiến Trúc Hệ Thống Giao Dịch VPA - "Bản Vẽ" Cho Thành Công Bền Vững
 
 ### 1.1 Tầm Nhìn Tổng Quan - "Hệ Sinh Thái Giao Dịch Hoàn Chỉnh"
 
@@ -46,23 +46,23 @@ flowchart TD
 - **Tuần (Weekly):** Xác định xu hướng tổng thể và giai đoạn Wyckoff
 - **Ngày (Daily):** Timing vào/thoát lệnh và tín hiệu VPA chi tiết
 - **Intraday:** Thực thi giao dịch và fine-tuning
-- **Quy tắc vàng:** All timeframes must align cho high-confidence trades
+- **Quy tắc vàng:** Tất cả khung thời gian phải thống nhất cho các giao dịch độ tin cậy cao
 
 **📈 Nguyên Tắc 2: Quyết Định Dựa Trên Bằng Chứng**
-- Mọi giao dịch đều cần VPA signal confirmation
-- Không "cảm tính" hay "hy vọng" - chỉ facts và data
-- Tài liệu hóa systematic mọi quyết định
-- Backtest và forward test mọi strategy trước khi deploy
+- Mọi giao dịch đều cần xác nhận tín hiệu VPA
+- Không "cảm tính" hay "hy vọng" - chỉ sự thật và dữ liệu
+- Tài liệu hóa có hệ thống mọi quyết định
+- Kiểm thử lại và kiểm thử tiến mọi chiến lược trước khi triển khai
 
 **🛡️ Nguyên Tắc 3: Tư Duy "Risk-First"**
-- Xác định risk trước khi định nghĩa reward
-- Maximum loss mỗi trade được xác định trước
-- Bảo vệ portfolio là ưu tiên số 1
-- "Preserve capital to trade another day" - Fundamental philosophy
+- Xác định rủi ro trước khi định nghĩa phần thưởng
+- Tổn thất tối đa mỗi giao dịch được xác định trước
+- Bảo vệ danh mục là ưu tiên số 1
+- "Bảo tồn vốn để giao dịch ngày khác" - Triết lý cơ bản
 
 **⚖️ Nguyên Tắc 4: Kỷ Luật Thiên Lý**
-- Follow system một cách mechanical - không réo sang discretionary
-- Kết quả ngắn hạn không tác động đến system rules
+- Tuân theo hệ thống một cách cơ khí - không chuyển sang quyết định tùy ý
+- Kết quả ngắn hạn không tác động đến quy tắc hệ thống
 - Continuous improvement dựa trên data, không phải emotion
 - Bắt đầu với small size, scale up khi proven
 
@@ -377,276 +377,276 @@ for item in ket_qua:
 # 5. 🔴 Technology: -1.5 (YẾU)
 ```
 
-**Trading Implications từ Sector Analysis:**
-- **Focus vào top-ranked sectors** cho long positions
-- **Avoid hoặc short bottom-ranked sectors**
-- **Monitor sector rotation** - leaders become laggards
-- **Diversification across strong sectors** giảm risk
+**Ý Nghĩa Giao Dịch từ Phân Tích Ngành:**
+- **Tập trung vào các ngành xếp hạng cao** cho các vị thế mua
+- **Tránh hoặc bán khống các ngành xếp hạng thấp**
+- **Theo dõi sự luân chuyển ngành** - những người dẫn đầu trở thành kẻ tụt hậu
+- **Đa dạng hóa qua các ngành mạnh** giảm rủi ro
 
-## 3. Stock Selection System
+## 3. Hệ Thống Lựa Chọn Cổ Phiếu
 
-### 3.1 VPA Signal Scanning
+### 3.1 Quét Tín Hiệu VPA
 
-**Daily Stock Scanner:**
+**Máy Quét Cổ Phiếu Hàng Ngày:**
 ```python
 class VPAScanner:
-    def __init__(self, stock_universe):
-        self.stock_universe = stock_universe
-        self.signals_found = []
+    def __init__(self, danh_sach_co_phieu):
+        self.danh_sach_co_phieu = danh_sach_co_phieu
+        self.tin_hieu_tim_thay = []
     
-    def scan_for_bullish_signals(self, date=None):
-        """Scan all stocks for bullish VPA signals"""
+    def quet_tin_hieu_tich_cuc(self, ngay=None):
+        """Quét tất cả cổ phiếu tìm tín hiệu VPA tích cực"""
         
-        bullish_candidates = []
+        ung_vien_tich_cuc = []
         
-        for ticker in self.stock_universe:
+        for ma_co_phieu in self.danh_sach_co_phieu:
             try:
-                data = load_stock_data(ticker)
-                vpa_data = calculate_vpa_indicators(data)
+                du_lieu = tai_du_lieu_co_phieu(ma_co_phieu)
+                vpa_data = tinh_toan_vpa_indicators(du_lieu)
                 
-                if date:
-                    latest = vpa_data.loc[date:date]
+                if ngay:
+                    gan_nhat = vpa_data.loc[ngay:ngay]
                 else:
-                    latest = vpa_data.tail(1)
+                    gan_nhat = vpa_data.tail(1)
                 
-                if len(latest) == 0:
+                if len(gan_nhat) == 0:
                     continue
                     
-                row = latest.iloc[0]
-                signals = []
+                dong = gan_nhat.iloc[0]
+                tin_hieu = []
                 
                 # Stopping Volume
-                if (row['volume_ratio'] > 2.0 and 
-                    row['close_position'] > 0.7 and
-                    row['price_change'] > 0):
-                    signals.append('Stopping Volume')
+                if (dong['volume_ratio'] > 2.0 and 
+                    dong['close_position'] > 0.7 and
+                    dong['price_change'] > 0):
+                    tin_hieu.append('Stopping Volume')
                 
                 # No Supply
-                elif (row['volume_ratio'] < 0.8 and
-                      abs(row['price_change']) < 0.5 and
-                      row['close_position'] > 0.5):
-                    signals.append('No Supply')
+                elif (dong['volume_ratio'] < 0.8 and
+                      abs(dong['price_change']) < 0.5 and
+                      dong['close_position'] > 0.5):
+                    tin_hieu.append('No Supply')
                 
                 # Professional Volume
-                elif (row['volume_ratio'] > 1.5 and
-                      row['price_change'] > 1.0 and
-                      row['close_position'] > 0.8):
-                    signals.append('Professional Volume')
+                elif (dong['volume_ratio'] > 1.5 and
+                      dong['price_change'] > 1.0 and
+                      dong['close_position'] > 0.8):
+                    tin_hieu.append('Professional Volume')
                 
-                if signals:
-                    bullish_candidates.append({
-                        'ticker': ticker,
-                        'date': latest.index[0],
-                        'signals': signals,
-                        'volume_ratio': row['volume_ratio'],
-                        'price_change': row['price_change'],
-                        'close_position': row['close_position']
+                if tin_hieu:
+                    ung_vien_tich_cuc.append({
+                        'ma_co_phieu': ma_co_phieu,
+                        'ngay': gan_nhat.index[0],
+                        'tin_hieu': tin_hieu,
+                        'ty_le_volume': dong['volume_ratio'],
+                        'thay_doi_gia': dong['price_change'],
+                        'vi_tri_dong_cua': dong['close_position']
                     })
                     
             except Exception as e:
                 continue
         
-        return sorted(bullish_candidates, 
-                     key=lambda x: len(x['signals']), reverse=True)
+        return sorted(ung_vien_tich_cuc, 
+                     key=lambda x: len(x['tin_hieu']), reverse=True)
     
-    def scan_for_bearish_signals(self, date=None):
-        """Scan all stocks for bearish VPA signals"""
+    def quet_tin_hieu_tieu_cuc(self, ngay=None):
+        """Quét tất cả cổ phiếu tìm tín hiệu VPA tiêu cực"""
         
-        bearish_warnings = []
+        canh_bao_tieu_cuc = []
         
-        for ticker in self.stock_universe:
+        for ma_co_phieu in self.danh_sach_co_phieu:
             try:
-                data = load_stock_data(ticker)  
-                vpa_data = calculate_vpa_indicators(data)
+                du_lieu = tai_du_lieu_co_phieu(ma_co_phieu)  
+                vpa_data = tinh_toan_vpa_indicators(du_lieu)
                 
-                if date:
-                    latest = vpa_data.loc[date:date]
+                if ngay:
+                    gan_nhat = vpa_data.loc[ngay:ngay]
                 else:
-                    latest = vpa_data.tail(1)
+                    gan_nhat = vpa_data.tail(1)
                 
-                if len(latest) == 0:
+                if len(gan_nhat) == 0:
                     continue
                     
-                row = latest.iloc[0]
-                warnings = []
+                dong = gan_nhat.iloc[0]
+                canh_bao = []
                 
                 # High Volume No Progress
-                if (row['volume_ratio'] > 2.0 and
-                    abs(row['price_change']) < 1.0 and
-                    row['close_position'] < 0.4):
-                    warnings.append('High Volume No Progress')
+                if (dong['volume_ratio'] > 2.0 and
+                    abs(dong['price_change']) < 1.0 and
+                    dong['close_position'] < 0.4):
+                    canh_bao.append('High Volume No Progress')
                 
                 # No Demand
-                elif (row['volume_ratio'] < 0.8 and
-                      row['price_change'] < -0.5):
-                    warnings.append('No Demand')
+                elif (dong['volume_ratio'] < 0.8 and
+                      dong['price_change'] < -0.5):
+                    canh_bao.append('No Demand')
                 
-                if warnings:
-                    bearish_warnings.append({
-                        'ticker': ticker,
-                        'date': latest.index[0],
-                        'warnings': warnings,
-                        'volume_ratio': row['volume_ratio'],
-                        'price_change': row['price_change'],
-                        'urgency': 'HIGH' if 'High Volume No Progress' in warnings else 'MEDIUM'
+                if canh_bao:
+                    canh_bao_tieu_cuc.append({
+                        'ma_co_phieu': ma_co_phieu,
+                        'ngay': gan_nhat.index[0],
+                        'canh_bao': canh_bao,
+                        'ty_le_volume': dong['volume_ratio'],
+                        'thay_doi_gia': dong['price_change'],
+                        'muc_do_khan_cap': 'CAO' if 'High Volume No Progress' in canh_bao else 'TRUNG BINH'
                     })
                     
             except Exception as e:
                 continue
         
-        return sorted(bearish_warnings, 
-                     key=lambda x: x['urgency'], reverse=True)
+        return sorted(canh_bao_tieu_cuc, 
+                     key=lambda x: x['muc_do_khan_cap'], reverse=True)
 ```
 
-### 3.2 Wyckoff Phase Classification
+### 3.2 Phân Loại Giai Đoạn Wyckoff
 
-**Automatic Phase Detection:**
+**Phát Hiện Giai Đoạn Tự Động:**
 ```python
-def classify_wyckoff_phase(df, lookback=50):
-    """Classify current Wyckoff phase for a stock"""
+def phan_loai_giai_doan_wyckoff(df, thoi_gian_nhin_lai=50):
+    """Phân loại giai đoạn Wyckoff hiện tại cho một cổ phiếu"""
     
-    recent_data = df.tail(lookback)
+    du_lieu_gan_day = df.tail(thoi_gian_nhin_lai)
     
-    # Price range analysis
-    price_range = recent_data['high'].max() - recent_data['low'].min()
-    current_price = recent_data['close'].iloc[-1]
-    range_position = (current_price - recent_data['low'].min()) / price_range
+    # Phân tích dải giá
+    dai_gia = du_lieu_gan_day['high'].max() - du_lieu_gan_day['low'].min()
+    gia_hien_tai = du_lieu_gan_day['close'].iloc[-1]
+    vi_tri_trong_dai = (gia_hien_tai - du_lieu_gan_day['low'].min()) / dai_gia
     
-    # Volume characteristics
-    avg_volume = recent_data['volume'].mean()
-    recent_volume = recent_data['volume'].tail(10).mean()
-    volume_trend = recent_volume / avg_volume
+    # Đặc trưng khối lượng
+    volume_trung_binh = du_lieu_gan_day['volume'].mean()
+    volume_gan_day = du_lieu_gan_day['volume'].tail(10).mean()
+    xu_huong_volume = volume_gan_day / volume_trung_binh
     
-    # Accumulation indicators
-    accumulation_signals = len(recent_data[
-        (recent_data['volume_ratio'] > 1.5) & 
-        (recent_data['close_position'] > 0.6)
+    # Chỉ số tích lũy
+    tin_hieu_tich_luy = len(du_lieu_gan_day[
+        (du_lieu_gan_day['volume_ratio'] > 1.5) & 
+        (du_lieu_gan_day['close_position'] > 0.6)
     ])
     
-    # Distribution indicators
-    distribution_signals = len(recent_data[
-        (recent_data['volume_ratio'] > 1.5) & 
-        (recent_data['close_position'] < 0.4)
+    # Chỉ số phân phối
+    tin_hieu_phan_phoi = len(du_lieu_gan_day[
+        (du_lieu_gan_day['volume_ratio'] > 1.5) & 
+        (du_lieu_gan_day['close_position'] < 0.4)
     ])
     
-    # Phase classification logic
-    if distribution_signals > accumulation_signals and range_position > 0.7:
-        return "Distribution"
-    elif accumulation_signals > distribution_signals and range_position < 0.3:
-        return "Accumulation"
-    elif range_position > 0.8 and volume_trend > 1.2:
-        return "Markup"
-    elif range_position < 0.2 and volume_trend > 1.2:
-        return "Markdown"
+    # Logic phân loại giai đoạn
+    if tin_hieu_phan_phoi > tin_hieu_tich_luy and vi_tri_trong_dai > 0.7:
+        return "Phân Phối"
+    elif tin_hieu_tich_luy > tin_hieu_phan_phoi and vi_tri_trong_dai < 0.3:
+        return "Tích Lũy"
+    elif vi_tri_trong_dai > 0.8 and xu_huong_volume > 1.2:
+        return "Đẩy Giá"
+    elif vi_tri_trong_dai < 0.2 and xu_huong_volume > 1.2:
+        return "Hạ Giá"
     else:
-        return "Trading Range"
+        return "Dải Giao Dịch"
 ```
 
-## 4. Entry Strategy Framework
+## 4. Khung Chiến Lược Vào Lệnh
 
 ### 4.1 Hệ Thống Xác Nhận Đa Tín Hiệu
 
-**Entry Criteria Hierarchy:**
-1. **Market Filter:** VNINDEX in favorable phase
-2. **Sector Filter:** Sector showing relative strength  
-3. **VPA Signal:** Minimum 1 strong bullish signal
-4. **Phase Filter:** Accumulation or Early Markup phase
-5. **Risk/Reward:** Minimum 1:2 ratio
+**Thứ Bậc Tiêu Chí Vào Lệnh:**
+1. **Bộ Lọc Thị Trường:** VNINDEX ở giai đoạn thuận lợi
+2. **Bộ Lọc Ngành:** Ngành thể hiện sức mạnh tương đối  
+3. **Tín Hiệu VPA:** Tối thiểu 1 tín hiệu tích cực mạnh
+4. **Bộ Lọc Giai Đoạn:** Tích Lũy hoặc Đẩy Giá Sớm
+5. **Rủi Ro/Phần Thưởng:** Tối thiểu tỷ lệ 1:2
 
-**Entry Decision Matrix:**
+**Ma Trận Quyết Định Vào Lệnh:**
 ```python
-def evaluate_entry_opportunity(ticker, market_status, sector_rank):
-    """Comprehensive entry evaluation"""
+def danh_gia_co_hoi_vao_lenh(ma_co_phieu, trang_thai_thi_truong, xep_hang_nganh):
+    """Danh giá vào lệnh toàn diện"""
     
-    # Load stock data
-    data = load_stock_data(ticker)
-    vpa_data = calculate_vpa_indicators(data)
-    latest = vpa_data.tail(1).iloc[0]
+    # Tải dữ liệu cổ phiếu
+    du_lieu = tai_du_lieu_co_phieu(ma_co_phieu)
+    vpa_data = tinh_toan_vpa_indicators(du_lieu)
+    gan_nhat = vpa_data.tail(1).iloc[0]
     
-    entry_score = 0
-    criteria_met = {}
+    diem_vao_lenh = 0
+    tieu_chi_dat = {}
     
-    # Market Filter (30% weight)
-    if market_status == "BULLISH":
-        entry_score += 3
-        criteria_met['market'] = True
-    elif market_status == "NEUTRAL":
-        entry_score += 1
-        criteria_met['market'] = True
+    # Bộ Lọc Thị Trường (trọng số 30%)
+    if trang_thai_thi_truong == "TÍCH CỰC":
+        diem_vao_lenh += 3
+        tieu_chi_dat['thi_truong'] = True
+    elif trang_thai_thi_truong == "TRUNG TÍNH":
+        diem_vao_lenh += 1
+        tieu_chi_dat['thi_truong'] = True
     else:
-        criteria_met['market'] = False
+        tieu_chi_dat['thi_truong'] = False
     
-    # VPA Signal (40% weight)
-    vpa_score = 0
-    signals = []
+    # Tín Hiệu VPA (trọng số 40%)
+    diem_vpa = 0
+    tin_hieu = []
     
-    # Check for major bullish signals
-    if (latest['volume_ratio'] > 2.0 and 
-        latest['close_position'] > 0.7 and
-        latest['price_change'] > 0):
-        vpa_score += 4
-        signals.append('Stopping Volume')
+    # Kiểm tra các tín hiệu tích cực chính
+    if (gan_nhat['volume_ratio'] > 2.0 and 
+        gan_nhat['close_position'] > 0.7 and
+        gan_nhat['price_change'] > 0):
+        diem_vpa += 4
+        tin_hieu.append('Stopping Volume')
     
-    if (latest['volume_ratio'] > 1.5 and
-        latest['price_change'] > 1.0 and  
-        latest['close_position'] > 0.8):
-        vpa_score += 3
-        signals.append('Professional Volume')
+    if (gan_nhat['volume_ratio'] > 1.5 and
+        gan_nhat['price_change'] > 1.0 and  
+        gan_nhat['close_position'] > 0.8):
+        diem_vpa += 3
+        tin_hieu.append('Professional Volume')
     
-    if (latest['volume_ratio'] < 0.8 and
-        abs(latest['price_change']) < 0.5):
-        vpa_score += 2  
-        signals.append('No Supply')
+    if (gan_nhat['volume_ratio'] < 0.8 and
+        abs(gan_nhat['price_change']) < 0.5):
+        diem_vpa += 2  
+        tin_hieu.append('No Supply')
     
-    entry_score += vpa_score
-    criteria_met['vpa_signals'] = signals
+    diem_vao_lenh += diem_vpa
+    tieu_chi_dat['tin_hieu_vpa'] = tin_hieu
     
-    # Wyckoff Phase (20% weight)
-    phase = classify_wyckoff_phase(vpa_data)
-    if phase in ['Accumulation', 'Early Markup']:
-        entry_score += 2
-        criteria_met['phase'] = phase
-    elif phase == 'Trading Range':
-        entry_score += 1
-        criteria_met['phase'] = phase
+    # Giai Đoạn Wyckoff (trọng số 20%)
+    giai_doan = phan_loai_giai_doan_wyckoff(vpa_data)
+    if giai_doan in ['Tích Lũy', 'Đẩy Giá Sớm']:
+        diem_vao_lenh += 2
+        tieu_chi_dat['giai_doan'] = giai_doan
+    elif giai_doan == 'Dải Giao Dịch':
+        diem_vao_lenh += 1
+        tieu_chi_dat['giai_doan'] = giai_doan
     else:
-        criteria_met['phase'] = phase
+        tieu_chi_dat['giai_doan'] = giai_doan
     
-    # Risk/Reward (10% weight)  
-    support_level = vpa_data['low'].tail(20).min()
-    resistance_level = vpa_data['high'].tail(20).max()
-    current_price = latest['close']
+    # Rủi Ro/Phần Thưởng (trọng số 10%)  
+    muc_ho_tro = vpa_data['low'].tail(20).min()
+    muc_khang_cu = vpa_data['high'].tail(20).max()
+    gia_hien_tai = gan_nhat['close']
     
-    risk = current_price - support_level
-    reward = resistance_level - current_price
+    rui_ro = gia_hien_tai - muc_ho_tro
+    phan_thuong = muc_khang_cu - gia_hien_tai
     
-    if risk > 0 and reward / risk >= 2.0:
-        entry_score += 1
-        criteria_met['risk_reward'] = reward / risk
+    if rui_ro > 0 and phan_thuong / rui_ro >= 2.0:
+        diem_vao_lenh += 1
+        tieu_chi_dat['ty_le_rui_ro_phan_thuong'] = phan_thuong / rui_ro
     else:
-        criteria_met['risk_reward'] = reward / risk if risk > 0 else 0
+        tieu_chi_dat['ty_le_rui_ro_phan_thuong'] = phan_thuong / rui_ro if rui_ro > 0 else 0
     
-    # Final evaluation
-    if entry_score >= 7 and criteria_met['market'] and len(signals) > 0:
+    # Đánh giá cuối cùng
+    if diem_vao_lenh >= 7 and tieu_chi_dat['thi_truong'] and len(tin_hieu) > 0:
         return {
-            'recommendation': 'BUY',
-            'confidence': 'HIGH',
-            'entry_score': entry_score,
-            'criteria_met': criteria_met
+            'khuyen_nghi': 'MUA',
+            'do_tin_cay': 'CAO',
+            'diem_vao_lenh': diem_vao_lenh,
+            'tieu_chi_dat': tieu_chi_dat
         }
-    elif entry_score >= 5:
+    elif diem_vao_lenh >= 5:
         return {
-            'recommendation': 'WATCHLIST',
-            'confidence': 'MEDIUM', 
-            'entry_score': entry_score,
-            'criteria_met': criteria_met
+            'khuyen_nghi': 'THEO DÕI',
+            'do_tin_cay': 'TRUNG BÌNH', 
+            'diem_vao_lenh': diem_vao_lenh,
+            'tieu_chi_dat': tieu_chi_dat
         }
     else:
         return {
-            'recommendation': 'PASS',
-            'confidence': 'LOW',
-            'entry_score': entry_score,
-            'criteria_met': criteria_met
+            'khuyen_nghi': 'Bỏ QUA',
+            'do_tin_cay': 'THẤP',
+            'diem_vao_lenh': diem_vao_lenh,
+            'tieu_chi_dat': tieu_chi_dat
         }
 ```
 

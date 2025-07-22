@@ -88,7 +88,7 @@ flowchart TD
 - 💥 **Khối lượng cực lớn** (thường cao nhất trong nhiều tháng)
 - 📉 **Biên độ rộng xuống** với đóng cửa yếu
 - 😱 **Bán tháo đầu hàng** từ nhà đầu tư nhỏ lẻ
-- 🐟 **Smart Money "nuốt chừng"** tất cả nguồn cung panic
+- 🐟 **Dòng Tiền Thông Minh "nuốt chừng"** tất cả nguồn cung panic
 
 > *"SC là khoảnh khắc vàng cho những ai biết nhận diện. Khi mọi người đang bán trong sợ hãi, các chuyên gia đang mua với niềm tin"* - **VPA Methodology**
 
@@ -98,16 +98,16 @@ flowchart TD
 ```csv
 Ticker: VIC  
 Date: 2025-06-10
-Open: 88.5, High: 91.2, Low: 86.0, Close: 90.6
-Volume: 6,800,000 (Độc tôn - rất lớn)
+Mở cửa: 88.5, Cao nhất: 91.2, Thấp nhất: 86.0, Đóng cửa: 90.6
+Khối lượng: 6,800,000 (Độc tôn - rất lớn)
 Intraday story: Mở giảm sâu xuống 86.0, sau đó phục hồi mạnh
 ```
 
 **Phân tích chi tiết theo VPA:**
-- 🌅 **Phiên sáng - Panic Selling:** Gap down xuống 86.0 (retail investors hoảng loạn bán tháo)
+- 🌅 **Phiên sáng - Bán Tháo Hoảng Loạn:** Giảm giá cách biệt xuống 86.0 (nhà đầu tư lẻ hoảng loạn bán tháo)
 - 📊 **Khối lượng khổng lồ:** 6.8 triệu cổ phiếu (đây chính là dòng tiền thông minh đang hành động)
 - 🚀 **Phục hồi mạnh mẽ:** Từ 86.0 lên 90.6 (+5.3%) - nguồn cung đã được hấp thụ
-- ✅ **Đảo chiều intraday:** Mẫu hình SC điển hình, không thể rõ ràng hơn
+- ✅ **Đảo chiều trong phiên:** Mẫu hình SC điển hình, không thể rõ ràng hơn
 
 **Kết luận chuyên gia:** *"VIC Selling Climax hoặc Shakeout điển hình"* - Từ phân tích VPA/Wyckoff của chuyên gia
 
@@ -117,17 +117,17 @@ Intraday story: Mở giảm sâu xuống 86.0, sau đó phục hồi mạnh
 
 **Đặc điểm kỹ thuật:**
 - 📈 **Giá tăng từ đáy SC** trên khối lượng giảm
-- 📄 **Mức độ phục hồi** tiết lộ sức mạnh cầu của smart money
+- 📄 **Mức độ phục hồi** tiết lộ sức mạnh cầu của dòng tiền thông minh
 - 📏 **Thiết lập ràng buộc trên** của vùng giao dịch tương lai
 
 **Phân Tích VIC AR Chi Tiết:**
 - ⬆️ **Phục hồi từ 86.0 lên 90.6 = AR 5.3%** (mạnh mẽ)
-- 🐟 **Phản ứng tự nhiên** sau khi smart money mua mạnh
+- 🐟 **Phản ứng tự nhiên** sau khi dòng tiền thông minh mua mạnh
 - 📏 **Thiết lập kháng cự** quanh vùng 90.6 (giới hạn trên của TR)
 
-> *"Mức độ phục hồi AR cho biết smart money 'tiêu thụ' bao nhiêu nguồn cung trong SC. AR mạnh = Nhu cầu thật mạnh"* - **Wyckoff Method**
+> *"Mức độ phục hồi AR cho biết dòng tiền thông minh 'tiêu thụ' bao nhiêu nguồn cung trong SC. AR mạnh = Nhu cầu thật mạnh"* - **Wyckoff Method**
 
-### 2.4 ST - Kiểm Tra Thứ Hai (Secondary Test): "Test Lại Xác Minh"
+### 2.4 ST - Kiểm Tra Thứ Hai (Secondary Test): "Kiểm Tra Lại Xác Minh"
 
 **Mục đích của ST:** Quay trở lại hoặc gần vùng SC để **"thăm dò"** xem còn áp lực bán nào không. Giống như người thợ săn gõ cửa xem còn ai trong nhà không.
 
@@ -143,7 +143,7 @@ Intraday story: Mở giảm sâu xuống 86.0, sau đó phục hồi mạnh
 Ticker: VIC
 Date: 2025-06-11  
 Trading range: 85.4 - 87.7 (biên độ rất hẹp)
-Volume: 1,400,000 (cực thấp)
+Khối lượng: 1,400,000 (cực thấp)
 Phân tích: "No Supply - áp lực bán đã cạn kiệt"
 ```
 
@@ -159,62 +159,62 @@ Phân tích: "No Supply - áp lực bán đã cạn kiệt"
 
 ## 3. Phase B: "Xây Dựng Nguyên Nhân" - Giai Đoạn Gom Hàng Thầm Lặng
 
-### 3.1 Trading Range Development
+### 3.1 Phát Triển Vùng Giao Dịch
 
-**Purpose:** Smart money accumulates large positions without moving price
-**Duration:** Can last weeks to months
-**Characteristics:**
-- Price oscillates between support và resistance
-- Volume generally lower than Phase A
-- Multiple tests of both ends of range
+**Mục đích:** Dòng tiền thông minh tích lũy vị thế lớn mà không làm di chuyển giá
+**Thời lượng:** Có thể kéo dài từ vài tuần đến vài tháng
+**Đặc điểm:**
+- Giá dao động giữa hỗ trợ và kháng cự
+- Khối lượng nói chung thấp hơn Giai Đoạn A
+- Nhiều lần kiểm tra cả hai đầu của khoảng
 
-### 3.2 Signs of Weakness (SOW) vs Signs of Strength (SOS)
+### 3.2 Dấu Hiệu Suy Yếu (SOW) so với Dấu Hiệu Sức Mạnh (SOS)
 
-**Signs of Weakness (SOW):**
-- Price declines on increased volume
-- Wide spreads down với bearish closes
-- Break below ST lows
+**Dấu Hiệu Suy Yếu (SOW):**
+- Giá giảm khi khối lượng tăng
+- Biên độ rộng xuống với đóng cửa giảm
+- Phá vỡ dưới mức thấp ST
 
-**Signs of Strength (SOS):**  
-- Price advances on increased volume
-- Wide spreads up với bullish closes
-- Hold above support levels
+**Dấu Hiệu Sức Mạnh (SOS):**  
+- Giá tăng khi khối lượng tăng
+- Biên độ rộng lên với đóng cửa tăng
+- Giữ vững trên các mức hỗ trợ
 
-**TCB Phase B Example:**
+**Ví dụ TCB Giai Đoạn B:**
 
-From `vpa_data/TCB.md` analysis:
+Từ phân tích trong `vpa_data/TCB.md`:
 - **May 20:** SOS signal (volume 38.2M, price +4.92%)
 - **Jun 6:** SOW signal (volume 28.3M với selling pressure)  
 - **Jun 11:** No Supply (volume 6.1M, accumulation continuing)
 
-**Pattern Recognition:**
-- Mixed signals during Phase B are normal
-- Overall trend: SOW signals decrease, SOS signals increase
-- Smart money gradually gaining control
+**Nhận Dạng Mẫu Hình:**
+- Tín hiệu hỗn hợp trong Giai Đoạn B là bình thường
+- Xu hướng chung: Tín hiệu SOW giảm, tín hiệu SOS tăng
+- Dòng tiền thông minh dần kiểm soát thị trường
 
-## 4. Phase C: The Test
+## 4. Phase C: Cuộc Kiểm Tra
 
-### 4.1 Spring (False Breakdown)
+### 4.1 Spring (Phá Vỡ Giả)
 
-**Definition:** Break below ST low to "test" remaining supply and shake out weak holders
-**Purpose:**
-- Flush out remaining weak hands
-- Test if any large supply remains
-- Create final accumulation opportunity
+**Định nghĩa:** Phá vỡ dưới mức thấp ST để "kiểm tra" nguồn cung còn lại và rũ bỏ những người nắm giữ yếu
+**Mục đích:**
+- Đẩy ra những tay yếu còn sót lại
+- Kiểm tra xem còn nguồn cung lớn nào không
+- Tạo cơ hội tích lũy cuối cùng
 
-**Characteristics:**
-- **Volume should be lower** than SC/ST
-- **Quick reversal** back into range
-- **False breakdown** - looks bearish but isn't
+**Đặc điểm:**
+- **Khối lượng nên thấp hơn** SC/ST
+- **Đảo chiều nhanh chóng** trở lại vùng
+- **Phá vỡ giả** - trông giảm nhưng thực tế không
 
-**Spring Analysis Framework:**
+**Khung Phân Tích Spring:**
 ```python
 def identify_spring(df, st_low, lookback=10):
-    """Identify potential Spring patterns"""
+    """Xác định các mô hình Spring tiềm năng"""
     springs = []
     
     for i in range(lookback, len(df)):
-        if df['low'].iloc[i] < st_low:  # Break below ST
+        if df['low'].iloc[i] < st_low:  # Phá vỡ dưới ST
             if (df['volume'].iloc[i] < df['volume'].iloc[i-lookback:i].mean() and
                 df['close'].iloc[i] > df['low'].iloc[i] + 
                 (df['high'].iloc[i] - df['low'].iloc[i]) * 0.6):
@@ -239,14 +239,14 @@ def identify_spring(df, st_low, lookback=10):
 - Quick bounce from support
 - Often forms double bottom với Spring
 
-## 5. Phase D: Moving to Supply Line
+## 5. Phase D: Tiến Tới Đường Cung
 
-### 5.1 Signs of Strength Dominate
+### 5.1 Dấu Hiệu Sức Mạnh Thống Trị
 
-**Evidence of Smart Money Control:**
-- Price easily moves through resistance
-- Volume increases on advances
-- Any pullbacks are shallow với low volume
+**Bằng Chứng Kiểm Soát Dòng Tiền Thông Minh:**
+- Giá dễ dàng vượt qua kháng cự
+- Khối lượng tăng khi tiến bộ
+- Mọi sự điều chỉnh đều nông cạn với khối lượng thấp
 
 **TCB Phase D Example (Jun 16, 2025):**
 ```
@@ -254,159 +254,159 @@ TCB tăng vọt từ 31.20 lên 32.30
 Volume: 22.9 triệu (cao), xác nhận sức mạnh của phiên tăng
 ```
 
-**Phase D Indicators:**
-- ✅ Easy movement through resistance
-- ✅ Volume confirmation on advance
-- ✅ Wide spread up với bullish close
-- ✅ No supply apparent
+**Chỉ Số Giai Đoạn D:**
+- ✅ Di chuyển dễ dàng qua kháng cự
+- ✅ Xác nhận khối lượng khi tiến bộ
+- ✅ Biên độ rộng lên với đóng cửa tích cực
+- ✅ Không có cung rõ ràng
 
 ### 5.2 Backup (BU)
 
-**Definition:** Pullback to edge of trading range before final breakout
-**Purpose:** Final test of accumulation; shake out weak longs
-**Characteristics:**
-- **Low volume pullback**
-- **Holds above Spring low**
-- **Quick recovery**
+**Định nghĩa:** Điều chỉnh về rìa vùng giao dịch trước bứt phá cuối cùng
+**Mục đích:** Kiểm tra cuối cùng việc tích lũy; rũ bỏ những vị thế long yếu
+**Đặc điểm:**
+- **Điều chỉnh khối lượng thấp**
+- **Giữ trên mức thấp Spring**
+- **Phục hồi nhanh chóng**
 
-## 6. Phase E: Stock Leaves Range
+## 6. Phase E: Cổ Phiếu Thoát Khỏi Vùng
 
 ### 6.1 Jump Over Creek (JOC)
 
-**Definition:** Decisive breakout above trading range resistance
-**Characteristics:**
-- **High volume breakout**
-- **Wide spread up**
-- **Bullish close near high**
-- **Follow-through in subsequent sessions**
+**Định nghĩa:** Bứt phá quyết định trên kháng cự vùng giao dịch
+**Đặc điểm:**
+- **Bứt phá khối lượng cao**
+- **Biên độ rộng lên**
+- **Đóng cửa tăng gần đỉnh**
+- **Tiếp tục trong các phiên tiếp theo**
 
-### 6.2 Backup After JOC
+### 6.2 Quay Lại Sau JOC
 
-**Normal behavior:** Return to breakout level to test support
-**Bullish if:**
-- Lower volume than breakout
-- Holds above breakout level  
-- Quick recovery
+**Hành vi bình thường:** Trở về mức bứt phá để kiểm tra hỗ trợ
+**Tăng nếu:**
+- Khối lượng thấp hơn lúc bứt phá
+- Giữ trên mức bứt phá  
+- Phục hồi nhanh chóng
 
-## 7. Price Objective Calculation
+## 7. Tính Toán Mục Tiêu Giá
 
 ### 7.1 Point & Figure Count Method
 
-**Formula:** Width of TR × 3 + Breakout Point = Target
+**Công thức:** Độ Rộng TR × 3 + Điểm Bứt Phá = Mục Tiêu
 
-**Example Calculation:**
+**Ví Dụ Tính Toán:**
 ```
-Trading Range: 86.0 (low) to 92.0 (high)
-Width: 92.0 - 86.0 = 6.0 points
-Count: 6.0 × 3 = 18.0 points
-Breakout: 92.0
-Target: 92.0 + 18.0 = 110.0
+Vùng Giao Dịch: 86.0 (thấp) đến 92.0 (cao)
+Độ Rộng: 92.0 - 86.0 = 6.0 điểm
+Đếm: 6.0 × 3 = 18.0 điểm
+Bứt Phá: 92.0
+Mục Tiêu: 92.0 + 18.0 = 110.0
 ```
 
 ### 7.2 Time-Based Calculation
 
-**Alternative Method:** Duration of accumulation predicts markup duration
-- 6 months accumulation → 2-3 months markup
-- Longer cause → Larger effect
+**Phương Pháp Thay Thế:** Thời lượng tích lũy dự báo thời lượng đánh dấu
+- 6 tháng tích lũy → 2-3 tháng đánh dấu
+- Nguyên nhân dài hơn → Tác động lớn hơn
 
-## 8. Real-World Application: Banking Sector Analysis
+## 8. Ứng Dụng Thực Tế: Phân Tích Ngành Ngân Hàng
 
-### VCB Accumulation Pattern (2025)
+### Mẫu Hình Tích Lũy VCB (2025)
 
-**Phase A Identification:**
-- **Jan 2:** High of 61.87 (resistance established)
-- **Jan 10:** Low of 61.14 (ST level)
-- **Volume patterns:** Classic SC/AR sequence
+**Nhận Dạng Giai Đoạn A:**
+- **Jan 2:** Đỉnh 61.87 (kháng cự được thiết lập)
+- **Jan 10:** Đáy 61.14 (mức ST)
+- **Mẫu hình khối lượng:** Chuỗi SC/AR cổ điển
 
-**Phase B Development:**
-- **Jan-May:** Range trading 60.5-62.5
-- **Multiple tests:** Both support và resistance
-- **Volume declining:** Smart money accumulation
+**Phát Triển Giai Đoạn B:**
+- **Jan-May:** Giao dịch trong vùng 60.5-62.5
+- **Nhiều lần kiểm tra:** Cả hỗ trợ và kháng cự
+- **Khối lượng giảm:** Tích lũy dòng tiền thông minh
 
-**Phase C Confirmation:**
-- **Jun 13:** Stopping Volume signal (Spring-like behavior)
-- **Volume spike:** 5.3M on recovery
-- **Strong close:** Bullish accumulation
+**Xác Nhận Giai Đoạn C:**
+- **Jun 13:** Tín hiệu Stopping Volume (hành vi giống Spring)
+- **Tăng vọt khối lượng:** 5.3M khi phục hồi
+- **Đóng cửa mạnh:** Tích lũy tích cực
 
-**Phase D Evidence:**
-- **Jun 20:** Effort to Rise (volume 6.88M)
-- **Breaking resistance:** Move above 57.0
-- **SOS confirmed:** Smart money control
+**Bằng Chứng Giai Đoạn D:**
+- **Jun 20:** Nỗ lực Tăng (khối lượng 6.88M)
+- **Phá vỡ kháng cự:** Di chuyển lên trên 57.0
+- **SOS xác nhận:** Kiểm soát dòng tiền thông minh
 
-### TCB vs VCB Comparison
+### So Sánh TCB và VCB
 
-| Metric | VCB | TCB |
+| Chỉ Số | VCB | TCB |
 |--------|-----|-----|
 | **TR Width** | ~2.0 points | ~4.0 points |
-| **Duration** | 5 months | 3 months |  
-| **Volume Pattern** | Declining trend | Volatile |
-| **Current Phase** | Late D/Early E | Mid Phase D |
-| **Price Target** | 64.0-66.0 | 38.0-42.0 |
+| **Thời Lượng** | 5 months | 3 months |  
+| **Mẫu Hình Khối Lượng** | Xu hướng giảm | Biến động |
+| **Giai Đoạn Hiện Tại** | Late D/Early E | Mid Phase D |
+| **Mục Tiêu Giá** | 64.0-66.0 | 38.0-42.0 |
 
-## 9. Advanced Accumulation Patterns
+## 9. Mẫu Hình Tích Lũy Nâng Cao
 
 ### 9.1 Reaccumulation
 
-**Definition:** Second accumulation after initial markup
-**Characteristics:**
-- Occurs at higher level than original
-- Shorter duration
-- Less volume required
-- Often forms ascending triangle
+**Định nghĩa:** Tích lũy lần thứ hai sau đánh dấu ban đầu
+**Đặc điểm:**
+- Xảy ra ở mức cao hơn ban đầu
+- Thời gian ngắn hơn
+- Yêu cầu ít khối lượng hơn
+- Thường hình thành tam giác tăng dần
 
-### 9.2 Failed Accumulation
+### 9.2 Tích Lũy Thất Bại
 
-**Warning Signs:**
-- Multiple Springs without follow-through
-- Volume increasing on declines
-- Unable to hold above ST lows
-- SOW signals dominating SOS
+**Dấu Hiệu Cảnh Báo:**
+- Nhiều Spring mà không tiếp theo
+- Khối lượng tăng khi giảm
+- Không thể giữ trên đáy ST
+- Tín hiệu SOW áp đảo SOS
 
-**Risk Management:** Exit if accumulation structure breaks down
+**Quản Lý Rủi Ro:** Thoát nếu cấu trúc tích lũy bị phá vỡ
 
 ## 10. Sector Rotation và Accumulation
 
-### Identifying Sector Leaders
+### Nhận Diện Ngành Dẫn Đầu
 
 **Analysis Framework:**
-1. **Scan all sectors** for accumulation patterns
-2. **Compare relative strength** during market weakness
-3. **Monitor volume patterns** for smart money activity
-4. **Track phase development** across sector
+1. **Quét tất cả ngành** tìm mẫu hình tích lũy
+2. **So sánh sức mạnh tương đối** trong thời kỳ thị trường yếu
+3. **Theo dõi mẫu hình khối lượng** của hoạt động dòng tiền thông minh
+4. **Theo dõi sự phát triển giai đoạn** trên toàn ngành
 
-**Current Vietnam Market (Mid-2025):**
-- **Banking:** Multiple accumulation patterns (VCB, TCB)
-- **Steel:** Mixed signals (HPG showing distribution)
-- **Real Estate:** Early accumulation (VIC pattern)
-- **Technology:** Lagging (no clear accumulation)
+**Thị Trường Việt Nam Hiện Tại (Giữa Năm 2025):**
+- **Ngân hàng:** Nhiều mẫu hình tích lũy (VCB, TCB)
+- **Thép:** Tín hiệu hỗn hợp (HPG cho thấy phân phối)
+- **Bất động sản:** Tích lũy sớm (mẫu hình VIC)
+- **Công nghệ:** Chậm chạp (không có tích lũy rõ ràng)
 
-**Investment Implication:** Focus on Banking và Real Estate
+**Ý Nghĩa Đầu Tư:** Tập trung vào Ngân Hàng và Bất Động Sản
 
-## 11. Practical Trading Applications
+## 11. Ứng Dụng Giao Dịch Thực Tế
 
-### 11.1 Entry Points
+### 11.1 Điểm Vào Lệnh
 
-**Best Accumulation Entries:**
-1. **Spring Low:** Highest risk/reward but requires precision
-2. **LPS:** Safer entry với confirmed support
-3. **Phase D SOS:** Lower risk, confirmed trend
-4. **JOC Backup:** Conservative entry on breakout pullback
+**Điểm Vào Lệnh Tích Lũy Tốt Nhất:**
+1. **Đáy Spring:** Rủi ro/lợi nhuận cao nhất nhưng yêu cầu chính xác
+2. **LPS:** Vào lệnh an toàn hơn với hỗ trợ xác nhận
+3. **Phase D SOS:** Rủi ro thấp hơn, xu hướng xác nhận
+4. **JOC Backup:** Vào lệnh bảo thủ khi điều chỉnh sau bứt phá
 
-### 11.2 Position Sizing
+### 11.2 Kích Thước Vị Thế
 
-**Accumulation Phase Position Sizing:**
-- **Phase A/B:** Small positions, scale in gradually
-- **Phase C:** Increase size on Spring confirmation
-- **Phase D:** Full position as SOS confirmed
-- **Phase E:** Add on JOC backup (if any)
+**Kích Thước Vị Thế Giai Đoạn Tích Lũy:**
+- **Giai Đoạn A/B:** Vị thế nhỏ, tăng dần
+- **Giai Đoạn C:** Tăng kích thước khi xác nhận Spring
+- **Giai Đoạn D:** Vị thế đầy đủ khi SOS xác nhận
+- **Giai Đoạn E:** Thêm vào JOC backup (nếu có)
 
-### 11.3 Risk Management
+### 11.3 Quản Lý Rủi Ro
 
-**Stop Loss Placement:**
-- **Phase A/B:** Below recent ST low
-- **Phase C:** Below Spring low
-- **Phase D:** Below LPS
-- **Phase E:** Below JOC level
+**Đặt Cắt Lỗ:**
+- **Giai Đoạn A/B:** Dưới đáy ST gần đây
+- **Giai Đoạn C:** Dưới đáy Spring
+- **Giai Đoạn D:** Dưới LPS
+- **Giai Đoạn E:** Dưới mức JOC
 
 ## 12. Các Sai Lầm Phổ Biến và Cách Khắc Phục
 
@@ -500,11 +500,11 @@ Target: 92.0 + 18.0 = 110.0
 
 ## 14. Tổng Kết và Điểm Mấu Chốt
 
-### 14.1 Key Takeaways - Những Điều Cốt Lõi
+### 14.1 Những Điều Cốt Lõi
 
 ✅ **Tích lũy tuân theo cấu trúc 5 giai đoạn có thể dự đoán được** - Không ngẫu nhiên mà có logic rõ ràng
 
-✅ **Các pattern volume tiết lộ hoạt động Smart Money** - Volume là "dấu chân" của dòng tiền thông minh
+✅ **Các mô hình khối lượng tiết lộ hoạt động Dòng Tiền Thông Minh** - Khối lượng là "dấu vết" của dòng tiền thông minh
 
 ✅ **Phase C Spring là xác nhận quan trọng nhất** - Moment of truth cho toàn bộ accumulation
 
@@ -516,7 +516,7 @@ Target: 92.0 + 18.0 = 110.0
 
 🕰️ **Kiên nhẫn:** Chờ accumulation hoàn thành đúng cách - không vội vàng
 
-🔍 **Tập trung Volume:** Smart Money luôn để lại dấu vết - học cách đọc chúng
+🔍 **Tập trung Khối Lượng:** Dòng Tiền Thông Minh luôn để lại dấu vết - học cách đọc chúng
 
 📊 **Kỷ luật Phase:** Không bỏ qua giai đoạn nào - từng phase có ý nghĩa riêng
 
@@ -571,7 +571,7 @@ Chương 2.2 sẽ đi sâu vào **Giai Đoạn Phân Phối** - "hình ảnh gư
 
 ⚠️ **Kết hợp với risk management** - VPA giúp timing tốt hơn nhưng không loại bỏ rủi ro
 
-💡 **Pro Tip:** Tạo Accumulation Journal để track các patterns và cải thiện recognition skills
+💡 **Mẹo Chuyên Nghiệp:** Tạo Nhật Ký Tích Lũy để theo dõi các mô hình và cải thiện kỹ năng nhận dạng
 
 ---
 

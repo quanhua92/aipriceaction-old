@@ -1,11 +1,11 @@
-# Chương 2.2: Giai Đoạn Phân Phối - "Xả Hàng" Khôn Ngoan Của Smart Money
+# Chương 2.2: Giai Đoạn Phân Phối - "Xả Hàng" Khôn Ngoan Của Dòng Tiền Thông Minh
 
 ## Mục Tiêu Học Tập
 
 Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
 - **Nhận diện sớm các dấu hiệu phân phối** trước khi thị trường sụp đổ 
-- **Phân biệt chính xác Distribution với Reaccumulation** - tránh nhầm lẫn tín hiệu
+- **Phân biệt chính xác Phân Phối với Tích Lũy Lại** - tránh nhầm lẫn tín hiệu
 - **Thành thạo 5 giai đoạn phân phối:** PS (Nguồn cung Sơ bộ), BC (Đỉnh điểm Mua vào), AR (Phản ứng Tự động), UTAD (Cầu Trập Sau Phân phối), LPSY (Điểm Cung Cuối cùng)
 - **Xây dựng hệ thống cảnh báo sớm** và chiến lược thoát vị thế hiệu quả
 - **Áp dụng vào phân tích VNINDEX, HPG và cổ phiếu Việt Nam** với dữ liệu thực tế
@@ -14,35 +14,35 @@ Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
 ## 1. Tổng Quan Cấu Trúc Phân Phối - "Chiến Thuật Xả Hàng" Của Composite Man
 
-### 1.1 Sơ Đồ Phân Phối Wyckoff - "Cuộc Chiến" Giữa Smart Money và Retail
+### 1.1 Sơ Đồ Phân Phối Wyckoff - "Cuộc Chiến" Giữa Dòng Tiền Thông Minh và Nhà Đầu Tư Lẻ
 
 ```mermaid
 flowchart TD
     subgraph "🚨 PHASE A: NGUỒN CUNG SƠ BỘ (Preliminary Supply)"
-        PS["🟡 PS - Nguồn Cung Sơ bộ<br/>(Preliminary Supply)<br/>Smart Money bắt đầu bán nhẹ"]
-        BC["💥 BC - Đỉnh điểm Mua vào<br/>(Buying Climax)<br/>FOMO đạt đỉnh, Smart Money đổ hàng mạnh"]
+        PS["🟡 PS - Nguồn Cung Sơ bộ<br/>(Preliminary Supply)<br/>Dòng Tiền Thông Minh bắt đầu bán nhẹ"]
+        BC["💥 BC - Đỉnh điểm Mua vào<br/>(Buying Climax)<br/>FOMO đạt đỉnh, Dòng Tiền Thông Minh đổ hàng mạnh"]
         AR["⬇️ AR - Phản ứng Tự động<br/>(Automatic Reaction)<br/>Giảm tự nhiên sau BC"]
     end
     
     subgraph "💰 PHASE B: SỰ THAM GIA CỦA CÔNG CHÚNG (Public Participation)"
-        TR["📊 Vùng Giao dịch Phân phối<br/>(Trading Range)<br/>Smart Money xả hàng vào retail FOMO"]
+        TR["📊 Vùng Giao dịch Phân phối<br/>(Trading Range)<br/>Dòng Tiền Thông Minh xả hàng vào nhà đầu tư lẻ FOMO"]
         SOW["⚠️ Dấu hiệu Suy yếu gia tăng<br/>(Signs of Weakness)<br/>SOW signals nhiều hơn SOS"]
-        SOS["📉 Dấu hiệu Sức mạnh giảm<br/>(Fake Signs of Strength)<br/>SOS giả để dụ retail"]
+        SOS["📉 Dấu hiệu Sức mạnh giảm<br/>(Fake Signs of Strength)<br/>SOS giả để dụ nhà đầu tư lẻ"]
     end
     
     subgraph "🧪 PHASE C: CUỐC KIỂM TRA CUỐI CÙNG (The Final Test)"
-        UTAD["🎣 UTAD - Cầu Trập Sau Phân phối<br/>(Upthrust After Distribution)<br/>Phá vỡ giả lên trên để trập buyer cuối cùng"]
+        UTAD["🎣 UTAD - Cầu Trập Sau Phân phối<br/>(Cầu Trập Sau Phân Phối)<br/>Phá vỡ giả lên trên để trập người mua cuối cùng"]
         LPSY["🙅 LPSY - Điểm Cung Cuối cùng<br/>(Last Point of Supply)<br/>Nỗ lực tăng cuối cùng yếu ớt"]
     end
     
     subgraph "📉 PHASE D: BẮT ĐẦU SUY GIẢM (Decline Begins)"
-        SOD["⬇️ SOD - Nguồn Cung Áp đảo Cầu<br/>(Supply Overwhelms Demand)<br/>Smart Money bán mạnh, Retail hoảng sợ"]
+        SOD["⬇️ SOD - Nguồn Cung Áp đảo Cầu<br/>(Supply Overwhelms Demand)<br/>Dòng Tiền Thông Minh bán mạnh, nhà đầu tư lẻ hoảng sợ"]
         LPSY2["❌ Xác nhận LPSY<br/>Hỗ trợ trở thành kháng cự"]
     end
     
     subgraph "🌊 PHASE E: THOÁT KHỎI VÙNG (Stock Leaves Range)"
-        BRK["🔴 Break Down - Phá Vỡ Hỗ trợ<br/>Phá vỡ quyết định khỏi vùng phân phối"]
-        BU["🔙 Backup - Giả phục hồi yếu<br/>(nếu có) về vùng hỗ trợ cũ"]
+        BRK["🔴 Phá Vỡ Hỗ Trợ<br/>Phá vỡ quyết định khỏi vùng phân phối"]
+        BU["🔙 Quay Lại - Giả phục hồi yếu<br/>(nếu có) về vùng hỗ trợ cũ"]
     end
     
     PS --> BC --> AR
@@ -54,13 +54,13 @@ flowchart TD
 
 **Anna Coulling** giải thích phân phối là **"hình ảnh gương"** của tích lũy:
 
-📊 **Vùng Giao dịch Phân phối (Distribution Trading Range):** Khu vực giá đi ngang nơi "dòng tiền thông minh" xả hàng cho retail investors
+📊 **Vùng Giao dịch Phân phối (Distribution Trading Range):** Khu vực giá đi ngang nơi "dòng tiền thông minh" xả hàng cho nhà đầu tư lẻ
 
-📈 **Đường Cung (Supply Line):** Ràng buộc trên nơi áp lực bán xuất hiện mạnh
+📈 **Đường Cung (Đường Cung):** Ràng buộc trên nơi áp lực bán xuất hiện mạnh
 
-📉 **Đường Cầu (Demand Line):** Ràng buộc dưới nơi hỗ trợ mua vẫn tồn tại (nhưng yếu dần)
+📉 **Đường Cầu (Đường Cầu):** Ràng buộc dưới nơi hỗ trợ mua vẫn tồn tại (nhưng yếu dần)
 
-🎣 **UTAD (Upthrust After Distribution):** "Cầu trập cuối cùng" - phá vỡ giả lên trên vùng để lưu lưới các buyer cuối cùng
+🎣 **UTAD (Cầu Trập Sau Phân Phối):** "Cầu trập cuối cùng" - phá vỡ giả lên trên vùng để lưu lưới các buyer cuối cùng
 
 > *"Phân phối là nghệ thuật của việc bán mà không làm giá sụp đổ. Giống như việc đổ từ từ một bình nước đầy - nếu đổ quá nhanh, nước sẽ tràn ra"* - **Wyckoff Method**
 
@@ -70,13 +70,13 @@ flowchart TD
 
 ### 2.1 PS - Nguồn Cung Sơ Bộ (Preliminary Supply): "Dấu Hiệu Đầu Tiên"
 
-**Wyckoff giải thích:** PS là bằng chứng ban đầu cho thấy **smart money bắt đầu bán ra**. Đây chưa phải là đỉnh cuối cùng, nhưng là tín hiệu cảnh báo rằng "kẻ thông minh" đang chuẩn bị thoát vị thế.
+**Wyckoff giải thích:** PS là bằng chứng ban đầu cho thấy **dòng tiền thông minh bắt đầu bán ra**. Đây chưa phải là đỉnh cuối cùng, nhưng là tín hiệu cảnh báo rằng "kẻ thông minh" đang chuẩn bị thoát vị thế.
 
 **Đặc điểm nhận dạng:**
 - 🐌 **Đà tăng giá trở nên khó khăn** - giá leo lên như "mang gánh nặng"
-- 📉 **Volume giảm trên các đợt tăng** - thiếu sự nhiệt tình từ người mua
-- 🎯 **Biên độ rộng nhưng đóng cửa yếu** - effort lớn nhưng result kém
-- 🤫 **Smart money âm thầm giảm vị thế** - bán ra từ từ không làm giá sụp
+- 📉 **Khối lượng giảm trên các đợt tăng** - thiếu sự nhiệt tình từ người mua
+- 🎯 **Biên độ rộng nhưng đóng cửa yếu** - nỗ lực lớn nhưng kết quả kém
+- 🤫 **Dòng tiền thông minh âm thầm giảm vị thế** - bán ra từ từ không làm giá sụp
 
 > *"PS giống như người bán hàng bắt đầu 'thăm dò' thị trường. Họ thử bán một ít để xem phản ứng của người mua như thế nào"* - **VPA Analysis**
 
@@ -88,42 +88,42 @@ flowchart TD
 - 💥 **Khối lượng cực lớn** với biên độ rộng lên trên
 - 🚀 **Gap mở cửa** trên tin tức tích cực (euphoric news)
 - ⚠️ **Đà tăng không bền vững** - nỗ lực lớn nhưng không có kết quả tương xứng
-- 🏪 **Smart Money "đổ hàng"** vào làn sóng mua của retail
+- 🏪 **Dòng Tiền Thông Minh "đổ hàng"** vào làn sóng mua của nhà đầu tư lẻ
 
 **Tâm lý học đằng sau BC:**
 - **Retail:** "Tin tức tốt! Giá tăng mạnh! Phải mua ngay!"
-- **Smart Money:** "Retail đã sẵn sàng. Đây là lúc thoát hàng với giá cao nhất."
-- **Kết quả:** Retail mua đỉnh, Smart Money bán đỉnh
+- **Dòng Tiền Thông Minh:** "Nhà đầu tư lẻ đã sẵn sàng. Đây là lúc thoát hàng với giá cao nhất."
+- **Kết quả:** Nhà đầu tư lẻ mua đỉnh, Dòng Tiền Thông Minh bán đỉnh
 
-#### Case Study Thực Tế: HPG - Mẫu Hình BC Hoàn Hảo (30/05/2025)
+#### Nghiên Cứu Trường Hợp Thực Tế: HPG - Mẫu Hình BC Hoàn Hảo (30/05/2025)
 
 **Dữ liệu thực tế từ `vpa_data/HPG.md`:**
 ```csv
 Ticker: HPG
 Date: 2025-05-30
-Open: 21.20, High: 22.21, Low: 21.15, Close: 21.46
-Volume: 65,010,000 (CỰC LỚN - record level)
+Mở cửa: 21.20, Cao nhất: 22.21, Thấp nhất: 21.15, Đóng cửa: 21.46
+Khối lượng: 65,010,000 (CỰC LỚN - mức kỷ lục)
 Intraday: Đẩy lên 22.21 nhưng đóng cửa chỉ 21.46
 Context: Tin tức tích cực về ngành thép
 ```
 
 **Phân tích chi tiết theo VPA:**
-- 🌅 **Phiên sáng - Retail FOMO:** Tin tức tích cực về ngành thép, retail đổ xô mua vào
+- 🌅 **Phiên sáng - Nhà Đầu Tư Lẻ FOMO:** Tin tức tích cực về ngành thép, nhà đầu tư lẻ đổ xô mua vào
 - 💥 **Khối lượng kỷ lục:** 65.01M cổ phiếu (cao nhất trong giai đoạn)
 - 📈 **Biên độ rộng lên:** Intraday high đạt 22.21 (+4.8% từ mở cửa)
 - 😔 **Đóng cửa yếu:** Chỉ 21.46 (gần giữa ngày, không phải gần high)
 - ⚖️ **Effort vs Result:** Nỗ lực khổng lồ (65M), kết quả kém (+1.2% chỉ)
 
 **Câu chuyện đằng sau HPG BC:**
-- **06:00-09:00:** Tin tức tích cực về xuất khẩu thép, retail investors hào hứng
+- **06:00-09:00:** Tin tức tích cực về xuất khẩu thép, nhà đầu tư lẻ hào hứng
 - **09:00-11:00:** Giá tăng vọt lên 22.21, volume bùng nổ (smart money bán mạnh)
 - **13:00-15:00:** Áp lực bán gia tăng, giá suy yếu về 21.46
-- **Kết luận từ chuyên gia:** *"Topping Out Volume hoặc Buying Climax điển hình"*
+- **Kết luận từ chuyên gia:** *"Khối Lượng Đỉnh hoặc Đỉnh Điểm Mua điển hình"*
 
 **Xác nhận 3 ngày sau (02/06/2025):**
 ```csv
 HPG tiếp tục suy yếu, không thể vượt lại 22.21
-Volume giảm dần → xác nhận smart money đã thoát
+Khối lượng giảm dần → xác nhận dòng tiền thông minh đã thoát
 ```
 
 ### 2.3 AR - Phản Ứng Tự Động (Automatic Reaction): "Hậu Quả Tự Nhiên"
@@ -161,11 +161,11 @@ Volume giảm dần → xác nhận smart money đã thoát
 
 1️⃣ **Retail nhìn thấy "cơ hội mua đáy"** sau AR - "Giá đã giảm, bây giờ có thể mua rẻ!"
 
-2️⃣ **Smart Money cung cấp thanh khoản** bằng cách bán vào các đợt tăng - "Cảm ơn các bạn đã mua hàng của chúng tôi!"
+2️⃣ **Dòng Tiền Thông Minh cung cấp thanh khoản** bằng cách bán vào các đợt tăng - "Cảm ơn các bạn đã mua hàng của chúng tôi!"
 
 3️⃣ **Truyền thông quảng cáo "breakout"** ở thời điểm tồi tệ nhất - Headlines: "Cổ phiếu ABC phá vỡ kháng cự mạnh!"
 
-4️⃣ **Volume giảm dần** khi smart money kiểm soát nguồn cung - Những người có hàng đã bán xong
+4️⃣ **Khối lượng giảm dần** khi dòng tiền thông minh kiểm soát nguồn cung - Những người có hàng đã bán xong
 
 ### 3.2 SOW Thống Trị - "Dấu Hiệu Suy Yếu" Áp Đảo
 
@@ -198,15 +198,15 @@ Phân tích: "Đà tăng chững lại, lực cầu không còn quyết liệt"
 **Nhận Dạng Mẫu Hình:**
 - Jun 12 trông bullish (cầu trập retail)
 - Jun 16 cho thấy suy yếu thực sự (thực tế smart money)
-- Volume giảm = phân phối tiếp tục
+- Khối lượng giảm = phân phối tiếp tục
 
 ## 4. Phase C: Cuộc Kiểm Tra Cuối Cùng
 
-### 4.1 Cầu Trập Sau Phân Phối (UTAD - Upthrust After Distribution)
+### 4.1 Cầu Trập Sau Phân Phối (UTAD - Cầu Trập Sau Phân Phối)
 
 **Định nghĩa:** Đột phá giả lên trên vùng phân phối để bẫy những người mua cuối cùng
 **Mục đích:**
-- Thu hút làn sóng mua cuối cùng từ retail
+- Thu hút làn sóng mua cuối cùng từ nhà đầu tư lẻ
 - Kiểm tra xem còn cầu đáng kể nào không
 - Tạo cơ hội phân phối cuối cùng
 - Cung cấp "nhiên liệu" cho đợt giảm sắp tới

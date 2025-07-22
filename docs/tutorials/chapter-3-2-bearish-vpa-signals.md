@@ -5,15 +5,15 @@
 Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
 - **Nhận diện sớm 10+ tín hiệu VPA tiêu cực** quan trọng nhất để bảo vệ vốn
-- **Phân loại mức độ nguy hiểm** từ caution đến extremely bearish
+- **Phân loại mức độ nguy hiểm** từ cảnh giác đến cực kỳ tiêu cực
 - **Thiết lập hệ thống bảo vệ** cho các vị thế hiện tại
-- **Tránh các bẫu bull traps** và false breakouts nguy hiểm
-- **Master kỹ thuật defensive VPA** với dữ liệu thị trường Việt Nam
-- **Timing hoàn hảo cho exit strategies** để bảo toàn lợi nhuận
+- **Tránh các bẫy bull traps** và đột phá giả nguy hiểm
+- **Thành thạo kỹ thuật VPA phòng thủ** với dữ liệu thị trường Việt Nam
+- **Thời điểm hoàn hảo cho chiến lược thoát lệnh** để bảo toàn lợi nhuận
 
 ---
 
-## 1. Hệ Thống Phân Cấp Tín Hiệu Bearish VPA - "Mức Độ Cảnh Báo" Theo Độ Nguy Hiểm
+## 1. Hệ Thống Phân Cấp Tín Hiệu VPA Tiêu Cực - "Mức Độ Cảnh Báo" Theo Độ Nguy Hiểm
 
 ### 1.1 Sơ Đồ Tổng Quan - "Bản Đồ Nguy Hiểm Thị Trường"
 
@@ -34,66 +34,66 @@ flowchart TD
 ```
 
 **Hệ Thống Cảnh Báo 4 Cấp:**
-- ⭐ = **EXTREME OVERSOLD** (Cơ hội mua đáy tiềm năng)
-- ⭐⭐ = **MODERATE BEARISH** (Cẩn thận, giảm exposure)
-- ⭐⭐⭐ = **STRONG BEARISH** (Giảm mạnh positions, bảo vệ vốn)
-- ⭐⭐⭐⭐ = **EXTREMELY BEARISH** (Thoát hết positions, defensive mode)
+- ⭐ = **BÁN QUÁ MỨC CỰC ĐOẠN** (Cơ hội mua đáy tiềm năng)
+- ⭐⭐ = **TIÊu CỰC Vừa PHẢI** (Cẩn thận, giảm mức độ rủi ro)
+- ⭐⭐⭐ = **TIÊu CỰC MẠNH** (Giảm mạnh vị thế, bảo vệ vốn)
+- ⭐⭐⭐⭐ = **CỰC KỲ TIÊu CỰC** (Thoát hết vị thế, chế độ phòng thủ)
 
 ### 1.2 Nguyên Tắc Cơ Bản - "DNA" Của Tín Hiệu Tiêu Cực
 
-**Đặc Điểm Chung Của Bearish VPA Signals:**
+**Đặc Điểm Chung Của Các Tín Hiệu VPA Tiêu Cực:**
 
 🔴 **Nguyên lý 1: "Volume Tiết lộ Ý Định Distribution"**
-- High volume với poor price results = Smart money bán ra
-- Distribution patterns xuất hiện trước price weakness
-- Volume analysis là early warning system
+- Khối lượng cao với kết quả giá kém = Dòng tiền thông minh bán ra
+- Các mẫu hình phân phối xuất hiện trước khi giá yếu
+- Phân tích khối lượng là hệ thống cảnh báo sớm
 
-⚠️ **Nguyên lý 2: "Effort-Result Divergence = Red Flag"**
-- Khối lượng lớn nhưng giá kém = Distribution warning
-- Price advances nhưng volume giảm = Lack of support
-- Any anomaly trong effort-result cần investigation
+⚠️ **Nguyên lý 2: "Phân Kỳ Nỗ Lực-Kết Quả = Cờ Đỏ"**
+- Khối lượng lớn nhưng giá kém = Cảnh báo phân phối
+- Giá tăng nhưng khối lượng giảm = Thiếu sự hỗ trợ
+- Bất kỳ bất thường nào trong nỗ lực-kết quả cần điều tra
 
-🚫 **Nguyên lý 3: "Bearish Signals Đòi Hỏi Immediate Action"**
-- Không thể "wait and see" với bearish signals
-- Time is critical - giảm exposure ngay khi có warning
-- Capital preservation important hơn profit maximization
+🚫 **Nguyên lý 3: "Tín Hiệu Tiêu Cực Đòi Hỏi Hành Động Ngay Lập Tức"**
+- Không thể "đợi xem" với các tín hiệu tiêu cực
+- Thời gian rất quan trọng - giảm mức độ rủi ro ngay khi có cảnh báo
+- Bảo toàn vốn quan trọng hơn tối đa hóa lợi nhuận
 
 ---
 
-## 2. Nhóm Tín Hiệu Dựa Trên Nguồn Cung - "Supply-Based Bearish Signals"
+## 2. Nhóm Tín Hiệu Dựa Trên Nguồn Cung - "Tín Hiệu Tiêu Cực Theo Nguồn Cung"
 
 ### 2.1 Volume Cao - Kết Quả Kém (High Volume No Progress - HVNP) ⭐⭐⭐
 
-**Định nghĩa Anna Coulling VPA:** 
+**Định nghĩa theo Phương pháp VPA Anna Coulling:** 
 *"High Volume No Progress xảy ra khi khối lượng giao dịch rất lớn nhưng giá chỉ tiến bộ rất ít hoặc không tiến bộ, cho thấy nguồn cung nặng đang được hấp thụ mạnh mẽ."*
 
 #### Cơ Chế Hoạt Động "Câu Chuyện Đằng Sau Volume"
 
-**HVNP Psychology & Market Dynamics:**
+**Tâm Lý HVNP và Động Lực Thị Trường:**
 
 ```mermaid
 sequenceDiagram
-    participant Retail as 🐑 Retail FOMO
-    participant Smart as 🐋 Smart Money
-    participant Market as 📊 Market Price
-    participant Volume as 📈 Volume
+    participant Retail as 🐑 Nhà đầu tư nhỏ lẻ FOMO
+    participant Smart as 🐋 Dòng Tiền Thông Minh
+    participant Market as 📊 Giá Thị Trường
+    participant Volume as 📈 Khối Lượng
     
-    Market->>Retail: Giá đẩy lên, FOMO triggered
-    Retail->>Volume: Mua mạnh, volume spike
-    Smart->>Volume: Bán mạnh cho retail buyers
+    Market->>Retail: Giá đẩy lên, FOMO kích hoạt
+    Retail->>Volume: Mua mạnh, khối lượng tăng vôt
+    Smart->>Volume: Bán mạnh cho nhà đầu tư nhỏ lẻ
     Market->>Market: Giá không thể tiến xa hơn
     Smart->>Retail: "Cảm ơn đã mua ở giá cao!"
-    Note over Market: Kết quả: High effort, poor result
+    Note over Market: Kết quả: Nỗ lực cao, kết quả kém
 ```
 
 #### Tiêu Chí Kỹ Thuật "HVNP Điển Hình"
 
 **Đặc điểm bắt buộc:**
-- 📊 **Volume ≥ 200%** của average 20 ngày (massive institutional activity)
-- 📉 **Price advance < 1.5%** mặc dù high volume (poor result)
-- 😟 **Close position < 40%** của daily range (weak close)
-- 📏 **Wide intraday spread** nhưng kết thúc yếu (distribution characteristic)
-- 🕒 **Thường sau significant advance** (late-stage pattern)
+- 📊 **Khối Lượng ≥ 200%** của trung bình 20 ngày (hoạt động tổ chức lớn)
+- 📉 **Tăng giá < 1.5%** mặc dù khối lượng cao (kết quả kém)
+- 😟 **Vị trí đóng cửa < 40%** của khoảng ngày (đóng cửa yếu)
+- 📏 **Biên độ trong ngày rộng** nhưng kết thúc yếu (đặc trưng phân phối)
+- 🕒 **Thường sau đà tăng đáng kể** (mẫu hình giai đoạn cuối)
 
 #### Case Study Kinh Điển: HPG - "HVNP Hoàn Hảo" (30/05/2025)
 
@@ -109,16 +109,16 @@ Close position: 29% (rất yếu)
 ```
 
 **Phân Tích HVNP Chi Tiết:**
-- ✅ **Massive Volume Confirmed:** 65M vs 25M = 260% average
-- ✅ **Poor Price Result:** Chỉ +1.2% mặc dù volume kỷ lục
-- ✅ **Weak Close Position:** 29% = Clear distribution sign
-- ✅ **Wide Intraday Range:** 1.06 điểm spread nhưng kết thúc yếu
-- ✅ **Late Stage Context:** Sau nhiều tuần advance
+- ✅ **Xác Nhận Khối Lượng Khổng Lồ:** 65M so với 25M = 260% trung bình
+- ✅ **Kết Quả Giá Kém:** Chỉ +1.2% mặc dù khối lượng kỷ lục
+- ✅ **Vị Trí Đóng Cửa Yếu:** 29% = Dấu hiệu phân phối rõ ràng
+- ✅ **Khoảng Trong Ngày Rộng:** Biên độ 1.06 điểm nhưng kết thúc yếu
+- ✅ **Bối Cảnh Giai Đoạn Cuối:** Sau nhiều tuần tăng giá
 
 **Kết Luận Chuyên Gia:** 
-*"Topping Out Volume hoặc Buying Climax điển hình. Smart money đang distribution."*
+*"Khối lượng đỉnh hoặc Đỉnh mua điển hình. Dòng tiền thông minh đang phân phối."*
 
-#### HVNP Detection Algorithm
+#### Thuật Toán Phát Hiện HVNP
 
 ```python
 def detect_high_volume_no_progress(df, min_volume_ratio=2.0, max_price_advance=1.5, max_close_position=0.4):
@@ -146,7 +146,7 @@ def detect_high_volume_no_progress(df, min_volume_ratio=2.0, max_price_advance=1
         current_spread = current['high'] - current['low']
         spread_ratio = current_spread / avg_spread if avg_spread > 0 else 0
         
-        # Context: Should be after advance
+        # Bối cảnh: Nên sau giai đoạn tăng
         recent_advance = (current['close'] > df['close'].iloc[i-10:i].min() * 1.05)
         
         # HVNP criteria validation
@@ -156,13 +156,13 @@ def detect_high_volume_no_progress(df, min_volume_ratio=2.0, max_price_advance=1
             spread_ratio > 1.2 and                       # Wide spread
             recent_advance):                              # After advance context
             
-            # Calculate warning severity
+            # Tính toán mức độ cảnh báo
             severity_score = 0
             if volume_ratio > 3.0: severity_score += 2
             if close_position < 0.3: severity_score += 2  
             if price_advance < 0: severity_score += 1  # Actually declining
             
-            warning_level = 'EXTREME' if severity_score >= 4 else 'HIGH' if severity_score >= 2 else 'MEDIUM'
+            warning_level = 'CỰC ĐOẠN' if severity_score >= 4 else 'CAO' if severity_score >= 2 else 'TRUNG BÌNH'
             
             hvnp_signals.append({
                 'date': df.index[i],
@@ -171,69 +171,69 @@ def detect_high_volume_no_progress(df, min_volume_ratio=2.0, max_price_advance=1
                 'close_position': round(close_position, 2),
                 'spread_ratio': round(spread_ratio, 2),
                 'warning_level': warning_level,
-                'recommended_action': 'REDUCE_POSITIONS' if warning_level == 'HIGH' else 'EXIT_POSITIONS'
+                'recommended_action': 'GIẢM Vị THẾ' if warning_level == 'CAO' else 'THOÁT Vị THẾ'
             })
     
     return hvnp_signals
 ```
 
-**Trading Implications cho HVNP:**
+**Ảnh Hưởng Giao Dịch của HVNP:**
 
-**Immediate Actions:**
-- 🚨 **Giảm position size:** Reduce exposure trên affected stock
-- 🛡️ **Thắt chặt stop loss:** Move stops closer to current price
-- 🚫 **Tránh new longs:** Không mua thêm trong 3-5 ngày
-- 🔍 **Monitor follow-through:** Watch for continued weakness
+**Các Hành Động Ngay Lập Tức:**
+- 🚨 **Giảm kích thước vị thế:** Giảm mức độ rủi ro trên cổ phiếu bị ảnh hưởng
+- 🛡️ **Thắt chặt cắt lỗ:** Di chuyển mức cắt lỗ gần hơn với giá hiện tại
+- 🚫 **Tránh vị thế long mới:** Không mua thêm trong 3-5 ngày
+- 🔍 **Giám sát tiếp diễn:** Theo dõi sự yếu đi kéo dài
 
-**Expected Outcomes:**
-- **Near term (1-3 days):** Price consolidation hoặc slight weakness
-- **Medium term (1-2 weeks):** Increased selling pressure
-- **Long term:** Potential distribution completion
+**Kết Quả Dự Kiến:**
+- **Gần (1-3 ngày):** Củng cố giá hoặc yếu nhẹ
+- **Trung hạn (1-2 tuần):** Tăng áp lực bán
+- **Dài hạn:** Tiềm năng hoàn thành phân phối
 
 ### 2.2 Upthrust Thất Bại (Failed Upthrust - UT) ⭐⭐⭐⭐
 
-**Định nghĩa Wyckoff Classic:** 
-*"Upthrust là false breakout trên resistance level, thường được follow bởi immediate failure và return dưới breakout level, tạo ra một trong những tín hiệu bearish đáng tin cậy nhất."*
+**Định nghĩa Wyckoff Cổ điển:** 
+*"Upthrust là đột phá giả trên mức kháng cự, thường được theo sau bởi thất bại ngay lập tức và quảy lại dưới mức đột phá, tạo ra một trong những tín hiệu tiêu cực đáng tin cậy nhất."*
 
 #### Cơ Chế "Cầu Trập Cuối Cùng"
 
-**Upthrust Psychology & Trap Mechanism:**
+**Tâm Lý Upthrust & Cơ Chế Bẫy:**
 
 ```mermaid
 sequenceDiagram
-    participant Resistance as 🚫 Resistance Level
-    participant Bulls as 🐂 Bulls/Retail
-    participant Smart as 🧠 Smart Money
-    participant Breakout as 🚀 False Breakout
+    participant Resistance as 🚫 Mức Kháng Cự
+    participant Bulls as 🐂 Bên mua/Nhà đầu tư nhỏ lẻ
+    participant Smart as 🧠 Dòng Tiền Thông Minh
+    participant Breakout as 🚀 Đột Phá Giả
     
-    Resistance->>Market: Established resistance level
-    Market->>Breakout: Price breaks above resistance
-    Bulls->>Market: FOMO buying, breakout confirmation
-    Smart->>Market: Aggressive selling into breakout
-    Market->>Resistance: Quick failure back below level
-    Bulls->>Market: Stop losses triggered
-    Note over Smart: "Cảm ơn bulls đã mua đỉnh!"
+    Resistance->>Market: Thiết lập mức kháng cự
+    Market->>Breakout: Giá đột phá trên kháng cự
+    Bulls->>Market: Mua FOMO, xác nhận đột phá
+    Smart->>Market: Bán mạnh vào đột phá
+    Market->>Resistance: Thất bại nhanh trở lại dưới mức
+    Bulls->>Market: Cắt lỗ được kích hoạt
+    Note over Smart: "Cảm ơn bên mua đã mua đỉnh!"
 ```
 
-#### Tiêu Chí "Perfect Upthrust" Recognition
+#### Tiêu Chí Nhận Diện "Upthrust Hoàn Hảo"
 
-**Essential Characteristics:**
-- 🚀 **Break above** significant resistance (previous high, trend line)
-- 📊 **High volume initially** trên breakout attempt
-- 📉 **Quick reversal** back below breakout level (same day ideal)
-- 😟 **Close trong bottom 40%** của daily range
-- ⏰ **Limited time** above resistance (intraday best)
-- 💪 **Wide spread** nhưng weak finish
+**Đặc Điểm Thiết Yếu:**
+- 🚀 **Đột phá trên** kháng cự quan trọng (đỉnh trước, đường xu hướng)
+- 📊 **Khối lượng cao ban đầu** trên nỗ lực đột phá
+- 📉 **Đảo chiều nhanh** trở lại dưới mức đột phá (cùng ngày lý tưởng)
+- 😟 **Đóng cửa trong 40% dưới** của khoảng ngày
+- ⏰ **Thời gian hạn chế** trên kháng cự (trong ngày tốt nhất)
+- 💪 **Biên độ rộng** nhưng kết thúc yếu
 
-#### Quality Grading System cho Upthrusts
+#### Hệ Thống Đánh Giá Chất Lượng cho Upthrusts
 
-| Grade | Time Above Resistance | Volume Pattern | Close Position | Reliability |
+| Cấp Độ | Thời Gian Trên Kháng Cự | Mẫu Khối Lượng | Vị Trí Đóng Cửa | Độ Tin Cậy |
 |-------|---------------------|----------------|----------------|-----------|
-| **Grade A** | Intraday only | High initial, dies | Bottom 30% | 90%+ |
-| **Grade B** | 1-2 days | High then moderate | Bottom 50% | 80-85% |
-| **Grade C** | 3+ days | Mixed volume | Middle range | 65-75% |
+| **Cấp A** | Chỉ trong ngày | Cao ban đầu, sau giảm | 30% dưới | 90%+ |
+| **Cấp B** | 1-2 ngày | Cao sau vừa phải | 50% dưới | 80-85% |
+| **Cấp C** | 3+ ngày | Khối lượng hỗn hợp | Giữa biên độ | 65-75% |
 
-#### Upthrust Detection Framework
+#### Khung Phát Hiện Upthrust
 
 ```python
 def detect_upthrust_patterns(df, resistance_level, lookback_days=3):
@@ -245,31 +245,31 @@ def detect_upthrust_patterns(df, resistance_level, lookback_days=3):
     for i in range(lookback_days, len(df)):
         current = df.iloc[i]
         
-        # Check for break above resistance
+        # Kiểm tra đột phá trên kháng cự
         if current['high'] > resistance_level:
-            # Volume analysis
+            # Phân tích khối lượng
             current_volume = current['volume']
             avg_volume = df['volume'].iloc[i-20:i].mean()
             volume_ratio = current_volume / avg_volume
             
-            # Check for failure back below resistance
+            # Kiểm tra thất bại trở lại dưới kháng cự
             if current['close'] < resistance_level:
-                # Calculate failure characteristics
+                # Tính toán đặc trưng thất bại
                 daily_range = current['high'] - current['low']
                 close_position = (current['close'] - current['low']) / daily_range if daily_range > 0 else 0
                 
-                # Measure breakout magnitude và failure
+                # Đo lường mức độ đột phá và thất bại
                 breakout_magnitude = (current['high'] - resistance_level) / resistance_level * 100
                 failure_magnitude = (resistance_level - current['close']) / resistance_level * 100
                 
-                # Upthrust criteria validation
-                if (volume_ratio > 1.5 and          # High volume on attempt
-                    close_position < 0.5 and        # Weak close
-                    breakout_magnitude > 0.5 and    # Meaningful breakout attempt
-                    failure_magnitude > 0.2):       # Clear failure
+                # Xác thực tiêu chí Upthrust
+                if (volume_ratio > 1.5 and          # Khối lượng cao khi thử
+                    close_position < 0.5 and        # Đóng cửa yếu
+                    breakout_magnitude > 0.5 and    # Nỗ lực đột phá có ý nghĩa
+                    failure_magnitude > 0.2):       # Thất bại rõ ràng
                     
-                    # Grade the upthrust
-                    time_above = 1  # Assume intraday for simplicity
+                    # Phân loại Upthrust
+                    time_above = 1  # Giả định trong ngày cho đơn giản
                     if volume_ratio > 2.0 and close_position < 0.3:
                         grade = 'A'
                         reliability = 0.90
@@ -297,81 +297,81 @@ def detect_upthrust_patterns(df, resistance_level, lookback_days=3):
     return upthrusts
 ```
 
-**Upthrust Trading Strategy:**
+**Chiến Lược Giao Dịch Upthrust:**
 
-**Entry Tactics:**
-- 🚨 **Immediate Action:** Exit longs ngay khi UT confirmed
-- 🔄 **Short Entry:** Consider short positions (nếu market allows)
-- 🛡️ **Defensive Posture:** Reduce overall market exposure
+**Chiến Thuật Vào Lệnh:**
+- 🚨 **Hành Động Ngay Lập Tức:** Thoát vị thế mua ngay khi UT được xác nhận
+- 🔄 **Vào Lệnh Bán:** Cân nhắc vị thế bán (nếu thị trường cho phép)
+- 🛡️ **Tư Thế Phòng Thủ:** Giảm mức độ rủi ro thị trường tổng thể
 
-**Risk Management:**
-- 🚫 **Stop Loss (for shorts):** Tight stop above UT high
-- 🎯 **Targets:** Return to previous support, measured move down
-- ⏰ **Time Frame:** Usually resolves trong 5-10 sessions
-- 📊 **Position Size:** Can be aggressive due to high reliability
+**Quản Lý Rủi Ro:**
+- 🚫 **Cắt Lỗ (cho vị thế bán):** Cắt lỗ chặt trên đỉnh UT
+- 🎯 **Mục Tiêu:** Trở lại hỗ trợ trước, biến động đo lường xuống
+- ⏰ **Khung Thời Gian:** Thường giải quyết trong 5-10 phiên
+- 📊 **Kích Thước Vị Thế:** Có thể tích cực do độ tin cậy cao
 
 ### 2.3 Nguồn Cung Vượt Cầu (Supply Overcomes Demand - SOD) ⭐⭐⭐
 
 **Định nghĩa:** 
-*"Supply Overcomes Demand biểu hiện qua heavy selling pressure với volume lớn trên wide spread down, cho thấy institutional selling đang vượt qua buying demand."*
+*"Nguồn Cung Vượt Cầu biểu hiện qua áp lực bán nặng với khối lượng lớn trên biên độ giảm rộng, cho thấy việc bán của các tổ chức đang vượt qua nhu cầu mua."*
 
-#### Đặc Điểm SOD Pattern
+#### Đặc Điểm Mẫu Hình SOD
 
-**Technical Criteria:**
-- 📊 **Volume > 150%** average trên down move
-- 📉 **Wide spread down** - significant daily decline
-- 😟 **Close near low** của ngày (bottom 30%)
-- 🚫 **Breaks important support** levels decisively
-- 📈 **Follow-through** trong subsequent sessions
+**Tiêu Chí Kỹ Thuật:**
+- 📊 **Khối Lượng > 150%** trung bình trên đà giảm
+- 📉 **Biên độ giảm rộng** - giảm đáng kể trong ngày
+- 😟 **Đóng cửa gần thấp** của ngày (30% dưới)
+- 🚫 **Phá vỡ hỗ trợ quan trọng** một cách quyết đoán
+- 📈 **Tiếp nối** trong các phiên tiếp theo
 
-**Market Psychology:**
-- **Institutional selling pressure** overwhelming retail buying
-- **Support levels failing** under heavy volume
-- **Demand unable to absorb supply** at current levels
-- **Beginning of potential markdown phase**
+**Tâm Lý Thị Trường:**
+- **Áp lực bán của tổ chức** lấn át việc mua của nhà đầu tư nhỏ lẻ
+- **Các mức hỗ trợ thất bại** dưới khối lượng lớn
+- **Nhu cầu không thể hấp thụ nguồn cung** ở mức giá hiện tại
+- **Bắt đầu của giai đoạn giảm giá tiềm năng**
 
 #### SOD vs Normal Selling
 
-| Feature | Supply Overcomes Demand | Normal Selling |
+| Đặc Điểm | Nguồn Cung Vượt Cầu | Bán Bình Thường |
 |---------|------------------------|----------------|
-| **Volume** | >150% average | Normal levels |
-| **Spread** | Wide down | Narrow range |
-| **Close** | Near low (bottom 30%) | Middle range |
-| **Support** | Breaks decisively | May hold |
-| **Follow-through** | Continues weakness | Often recovers |
-| **Implication** | Major trend change | Temporary weakness |
+| **Khối Lượng** | >150% trung bình | Mức bình thường |
+| **Biên Độ** | Giảm rộng | Khoảng hẹp |
+| **Đóng Cửa** | Gần thấp (30% dưới) | Giữa khoảng |
+| **Hỗ Trợ** | Phá quyết đoán | Có thể giữ |
+| **Tiếp Nối** | Tiếp tục yếu | Thường phục hồi |
+| **Ảnh Hưởng** | Thay đổi xu hướng lớn | Yếu tạm thời |
 
-**Trading Response cho SOD:**
-- 🚨 **Exit all long positions** trong affected stock
-- 🛡️ **Avoid catching falling knife** - wait for stabilization
-- 🔍 **Monitor for follow-through** weakness
-- 📊 **Consider sector implications** - may spread
+**Phản Ứng Giao Dịch với SOD:**
+- 🚨 **Thoát tất cả vị thế mua** trong cổ phiếu bị ảnh hưởng
+- 🛡️ **Tránh chặn đắo rơi** - đợi ổn định
+- 🔍 **Giám sát tiếp diễn** sự yếu
+- 📊 **Xem xét ảnh hưởng ngành** - có thể lan rộng
 
 ---
 
-## 3. Nhóm Tín Hiệu Dựa Trên Sự Suy Yếu - "Weakness-Based Bearish Signals"
+## 3. Nhóm Tín Hiệu Dựa Trên Sự Suy Yếu - "Tín Hiệu Tiêu Cực Theo Sự Suy Yếu"
 
 ### 3.1 Không Có Nhu Cầu (No Demand - ND) ⭐⭐
 
 **Định nghĩa Anna Coulling:** 
-*"No Demand xảy ra khi giá giảm trên volume thấp, cho thấy lack of buying interest tại mức giá hiện tại và natural drift lower không có selling pressure."*
+*"Không Có Nhu Cầu xảy ra khi giá giảm trên khối lượng thấp, cho thấy thiếu sự quan tâm mua tại mức giá hiện tại và giá tự nhiên trượt xuống mà không có áp lực bán."*
 
-#### Cơ Chế "Sự Thờ Ở Có Ý Nghĩa"
+#### Cơ Chế "Sự Thờ Ơ Có Ý Nghĩa"
 
-**No Demand Psychology:**
-- 😶 **Lack of institutional interest** ở current levels
-- 📉 **Natural price drift** lower without support
-- 😕 **Retail investors** not stepping in to buy
-- ⚠️ **Warning sign** rằng higher prices không sustainable
+**Tâm Lý Không Có Nhu Cầu:**
+- 😶 **Thiếu sự quan tâm của tổ chức** ở các mức hiện tại
+- 📉 **Giá tự nhiên trượt** xuống mà không có hỗ trợ
+- 😕 **Nhà đầu tư nhỏ lẻ** không bước vào mua
+- ⚠️ **Dấu hiệu cảnh báo** rằng giá cao hơn không bền vững
 
-#### Tiêu Chí Nhận Dạng No Demand
+#### Tiêu Chí Nhận Dạng Không Có Nhu Cầu
 
 **Đặc điểm kỹ thuật:**
 - 📉 **Volume < 70%** của average 20 ngày
-- 📉 **Price decline > 0.5%** trên low volume
-- 📏 **Narrow spread down** - không có panic selling
-- 🕒 **Often follows failed rally** attempt
-- ⬇️ **Gradual drift** lower, not sharp decline
+- 📉 **Giảm giá > 0.5%** trên khối lượng thấp
+- 📏 **Biên độ giảm hẹp** - không có bán hoảng loạn
+- 🕒 **Thường theo sau nỗ lực tăng thất bại**
+- ⬇️ **Trượt dần dần** xuống, không giảm mạnh
 
 #### Case Study: VIC No Demand (16/06/2025)
 
@@ -387,11 +387,11 @@ Price change: -0.3% (nhẹ giảm)
 ```
 
 **No Demand Analysis:**
-- ✅ **Low Volume Confirmed:** 2.5M vs 4.2M = 60% average
-- ✅ **Slight Price Decline:** -0.3% trên weak volume
-- ✅ **No Panic Selling:** Narrow range, controlled decline
-- ✅ **Context:** Following previous Selling Climax và recovery
-- ✅ **Lack of Demand:** Không có buyer interest
+- ✅ **Xác Nhận Khối Lượng Thấp:** 2.5M so với 4.2M = 60% trung bình
+- ✅ **Giảm Giá Nhẹ:** -0.3% trên khối lượng yếu
+- ✅ **Không Bán Hoảng Loạn:** Khoảng hẹp, giảm kiểm soát
+- ✅ **Bối Cảnh:** Theo sau Đỉnh Bán trước đó và phục hồi
+- ✅ **Thiếu Nhu Cầu:** Không có sự quan tâm của người mua
 
 **Chuyên Gia Đánh Giá:** 
 *"No Demand. Lực cầu vẫn chưa quay trở lại mạnh mẽ."*
@@ -454,14 +454,14 @@ def detect_no_demand(df, max_volume_ratio=0.7, min_price_decline=0.3, max_spread
 **Defensive Actions:**
 - 🛡️ **Avoid new long positions** trong affected stock
 - 📊 **Monitor existing longs** closely
-- 🔍 **Watch for demand return** signals
+- 🔍 **Theo dõi tín hiệu nhu cầu trở lại**
 - ⏰ **Set time-based stops** nếu không có improvement
 
 **What to Watch For:**
 - **Volume increase** với price stability = Demand returning
 - **Support level tests** với good volume
 - **Reversal patterns** forming
-- **Sector improvement** signals
+- **Tín hiệu cải thiện ngành**
 
 ### 3.2 Đà Tăng Yếu (ớt) (Weak Rally - WR) ⭐⭐
 
@@ -475,18 +475,18 @@ def detect_no_demand(df, max_volume_ratio=0.7, min_price_decline=0.3, max_spread
 - 📏 **Wide spread up** - meaningful range
 - 💪 **Close near high** (top 80%+)
 - ⚡ **Easy resistance penetration**
-- 📈 **Good follow-through**
+- 📈 **Tiếp nối tốt**
 
 **Weak Rally Warning Signs:**
 - 📉 **Volume decreases** on advance
 - 📏 **Narrow spread** despite move up
 - 😟 **Close in lower half** of range
 - 🚫 **Struggles at resistance**
-- 📉 **No follow-through**
+- 📉 **Không tiếp nối**
 
 #### Weak Rally Comparison Matrix
 
-| Feature | Strong Rally (Bullish) | Weak Rally (Bearish) |
+| Đặc Điểm | Tăng Mạnh (Tích Cực) | Tăng Yếu (Tiêu Cực) |
 |---------|----------------------|---------------------|
 | **Volume Trend** | Increasing | Decreasing |
 | **Spread** | Wide up | Narrow |
@@ -535,7 +535,7 @@ def detect_weak_rally(df, min_price_advance=0.8, max_volume_ratio=0.9, max_close
             if close_position < 0.4: weakness_score += 1
             if approaching_resistance and failed_resistance: weakness_score += 2
             
-            # Previous day follow-through check
+            # Kiểm tra tiếp nối ngày trước
             follow_through = False
             if i < len(df) - 1:
                 next_day = df.iloc[i + 1]
@@ -558,10 +558,10 @@ def detect_weak_rally(df, min_price_advance=0.8, max_volume_ratio=0.9, max_close
 **Weak Rally Trading Response:**
 
 **Risk Management Actions:**
-- 🛡️ **Thắt chặt stop losses** trên existing longs
+- 🛡️ **Thắt chặt cắt lỗ** trên các vị thế mua hiện tại
 - 🚫 **Cancel pending buy orders** above resistance
 - 📊 **Reduce position sizes** on weakness confirmation
-- 🔍 **Monitor for follow-through failure**
+- 🔍 **Giám sát thất bại tiếp nối**
 
 **Expected Outcomes:**
 - **Short term:** Rally failure trong 1-2 sessions
@@ -579,7 +579,7 @@ def detect_weak_rally(df, min_price_advance=0.8, max_volume_ratio=0.9, max_close
 - **HVNP:** Sau strong advance (distribution context)
 - **ENR:** Trong accumulation phase (absorption context)
 - **Volume Pattern:** Tương tự nhưng implication khác
-- **Market Phase:** Quyết định bullish hay bearish interpretation
+- **Giai Đoạn Thị Trường:** Quyết định cách diễn giải tích cực hay tiêu cực
 
 **ENR Recognition:**
 - 📊 **High volume** (>150% average)
@@ -590,20 +590,20 @@ def detect_weak_rally(df, min_price_advance=0.8, max_volume_ratio=0.9, max_close
 
 **Trading Interpretation:**
 - **Bull Market Context:** Smart money absorption = Bullish
-- **Bear Market Context:** Failed rally attempt = Bearish
-- **Distribution Phase:** Supply overwhelming = Very Bearish
+- **Bối Cảnh Thị Trường Giảm:** Nỗ lực tăng thất bại = Tiêu cực
+- **Giai Đoạn Phân Phối:** Nguồn cung áp đảo = Rất tiêu cực
 - **Accumulation Phase:** Institutional buying = Bullish
 
 ---
 
-## 4. Nhóm Tín Hiệu Phân Phối - "Distribution-Based Signals"
+## 4. Nhóm Tín Hiệu Phân Phối - "Tín Hiệu Dựa Trên Phân Phối"
 
 ### 4.1 UTAD - Upthrust After Distribution (Đẩy Lên Sau Phân Phối) ⭐⭐⭐⭐
 
 **Định nghĩa Wyckoff Master Pattern:** 
-*"UTAD là false breakout trên distribution range để trap final buyers, là một trong những tín hiệu bearish đáng tin cậy và nguy hiểm nhất."*
+*"UTAD là đột phá giả trên khoảng phân phối để bẫy những người mua cuối cùng, là một trong những tín hiệu tiêu cực đáng tin cậy và nguy hiểm nhất."*
 
-#### Tại Sao UTAD Là "Most Reliable Bearish Signal"
+#### Tại Sao UTAD Là "Tín Hiệu Tiêu Cực Đáng Tin Cậy Nhất"
 
 **UTAD's Exceptional Reliability:**
 1. **Đánh dấu Distribution completion** - Institutional selling hoàn thành
@@ -1630,31 +1630,31 @@ def calculate_position_risk(bearish_signals):
 
 ## 13. Tổng Kết và Điểm Mấu Chốt
 
-### 13.1 Key Takeaways - Những Điều Cốt Lõi
+### 13.1 Điểm Chính - Những Điều Cốt Lõi
 
 ✅ **UTAD là tín hiệu tiêu cực đáng tin cậy nhất** - "Cầu trập" cuối cùng trước sụp đổ
 
-✅ **Hành vi volume quan trọng hơn price action** - Volume "cảnh báo" trước giá cả yếu đi
+✅ **Hành vi khối lượng quan trọng hơn hành động giá** - Khối lượng "cảnh báo" trước giá cả yếu đi
 
-✅ **Tín hiệu phân phối xuất hiện trước sự yếu kém giá cả** - Early warnings có giá trị vàng
+✅ **Tín hiệu phân phối xuất hiện trước sự yếu kém giá cả** - Cảnh báo sớm có giá trị vàng
 
-✅ **Bối cảnh thị trường thiết yếu cho việc diễn giải tín hiệu** - Context là everything
+✅ **Bối cảnh thị trường thiết yếu cho việc diễn giải tín hiệu** - Bối cảnh là tất cả
 
 ✅ **Tín hiệu tiêu cực đòi hỏi hành động bảo vệ ngay lập tức** - Không thể chờ đợi
 
-### 13.2 Master Checklist Cho Tín Hiệu Tiêu Cực:
+### 13.2 Danh Sách Kiểm Tra Tổng Quát Cho Tín Hiệu Tiêu Cực:
 
-- [ ] 📊 **Đặc điểm volume khớp với loại tín hiệu** - Mỗi bearish signal có volume pattern riêng
-- [ ] 📉 **Mối quan hệ giá/volume thể hiện sự yếu kém** - Distribution characteristics
-- [ ] ⏰ **Giai đoạn thị trường phù hợp với tín hiệu** - Late bull market hoặc distribution phase
-- [ ] 🔄 **Xác nhận từ nhiều tín hiệu** - Multiple bearish confirmations
+- [ ] 📊 **Đặc điểm khối lượng khớp với loại tín hiệu** - Mỗi tín hiệu tiêu cực có mẫu khối lượng riêng
+- [ ] 📉 **Mối quan hệ giá/khối lượng thể hiện sự yếu kém** - Đặc trưng phân phối
+- [ ] ⏰ **Giai đoạn thị trường phù hợp với tín hiệu** - Cuối thị trường tăng hoặc giai đoạn phân phối
+- [ ] 🔄 **Xác nhận từ nhiều tín hiệu** - Nhiều xác nhận tiêu cực
 - [ ] 🏢 **Bối cảnh sector hỗ trợ** - Sector rotation patterns
 - [ ] ⚡ **Kế hoạch quản lý rủi ro được kích hoạt** - Protection plan ready
 
 ### 13.3 Các Hành Động Quan Trọng Cho Tín Hiệu Tiêu Cực:
 
-1️⃣ **Ngay lập tức:** Thắt chặt stops, giảm kích thước position
-2️⃣ **Ngắn hạn:** Thoát một phần positions, bảo vệ lợi nhuận
+1️⃣ **Ngay lập tức:** Thắt chặt cắt lỗ, giảm kích thước vị thế
+2️⃣ **Ngắn hạn:** Thoát một phần vị thế, bảo vệ lợi nhuận
 3️⃣ **Trung hạn:** Tránh các vị thế long mới
 4️⃣ **Dài hạn:** Chờ accumulation cycle mới
 
@@ -1662,7 +1662,7 @@ def calculate_position_risk(bearish_signals):
 
 Chương 4.1 sẽ hướng dẫn xây dựng **Hệ Thống Giao Dịch Hoàn Chỉnh**:
 
-1. **Kết hợp tất cả VPA signals** thành trading system
+1. **Kết hợp tất cả tín hiệu VPA** thành hệ thống giao dịch
 2. **Position sizing và risk management** strategies
 3. **Entry/Exit rules** dựa trên Wyckoff phases
 4. **Backtesting và optimization** cho thị trường Việt Nam
