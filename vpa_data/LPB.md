@@ -57,4 +57,7 @@
 - **Ngày 2025-07-22:** LPB tăng từ 35.5 lên 35.9. Nến tăng có biên độ hẹp với giá cao nhất cũng là 35.9 và thấp nhất 35.05. Khối lượng giao dịch giảm mạnh (2.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau hai phiên **Effort to Rise** mạnh mẽ liên tiếp, sự tăng giá nhẹ trên khối lượng giảm mạnh cho thấy lực cầu đang suy yếu. Mặc dù giá vẫn tăng và đóng cửa tại mức cao nhất phiên nhưng khối lượng thấp thể hiện sự thiếu hụt động lực tiếp tục. Đây là tín hiệu cảnh báo cho thấy đà tăng có thể tạm dừng để consolidation.
 
+- **Ngày 2025-07-23:** LPB giảm từ 35.95 xuống 35.25. Cây nến giảm có biên độ rộng với mức cao 36.0 và mức thấp 35.25, đóng cửa tại mức thấp nhất phiên. Khối lượng giao dịch tăng lên 3.71 triệu đơn vị, cao hơn so với phiên **No Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **No Demand**. Việc giá test lên 36.0 rồi giảm mạnh và đóng cửa tại mức thấp nhất trên khối lượng tăng cho thấy áp lực bán đã xuất hiện mạnh mẽ ở vùng cao. Tín hiệu này xác nhận rằng tín hiệu **No Demand** trước đó là chính xác và LPB đang bước vào giai đoạn điều chỉnh sau đợt tăng mạnh.
+
 

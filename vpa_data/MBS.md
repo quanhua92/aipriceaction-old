@@ -55,4 +55,7 @@
 - **Ngày 2025-07-22:** MBS phục hồi mạnh từ 29.6 lên 30.2. Nến tăng có biên độ rộng với giá cao nhất đạt 30.4 và thấp nhất 29.2. Khối lượng giao dịch tăng (7.66 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** tích cực của ngày trước, sự phục hồi giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại quyết đoán. Việc có test xuống 29.2 ở đầu phiên nhưng phục hồi mạnh lên 30.2 thể hiện sức mạnh của lực đỡ và khả năng vượt qua giai đoạn kiểm tra cung. Tín hiệu tích cực cho xu hướng tăng tiếp tục.
 
+- **Ngày 2025-07-23:** MBS duy trì ở mức 30.2. Cây nến có biên độ rộng với mức cao 31.4 và mức thấp 30.0, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 10.38 triệu đơn vị, cao hơn 35% so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Effort to Rise**. Việc giá test lên đỉnh 31.4 nhưng quay về đóng cửa không đổi trên khối lượng tăng vọt cho thấy có áp lực bán mạnh ở vùng cao hơn. Tuy nhiên, việc giá duy trì được mức 30.2 mặc dù có áp lực test xuống 30.0 là dấu hiệu tích cực, cho thấy support đang được duy trì. MBS cần thêm thời gian để tiêu hóa nguồn cung ở vùng 31.4.
+
 

@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** nhẹ của phiên trước, phiên test cao đến 67.6 nhưng bị bán về 66.7 với khối lượng tăng này là **Test for Supply**. Áp lực bán đã xuất hiện ở vùng giá cao, cho thấy thị trường cần thêm thời gian để tiêu hóa nguồn cung trước khi tiếp tục xu hướng tăng.
 - **Ngày 2025-07-22:** SCS tăng từ 66.7 lên 67.1. Cây nến tăng có biên độ rộng với mức cao nhất 67.2. Khối lượng giao dịch giảm (249.400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** tích cực. Việc giá phục hồi và vượt lên trên khối lượng giảm gần 50% cho thấy áp lực bán đã được hấp thụ tốt. Đây là tín hiệu tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-23:** SCS tăng từ 67.4 lên 67.4. Cây nến có biên độ rộng với mức cao nhất 68.0. Khối lượng giao dịch tăng mạnh (412.200 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng gần gấp đôi, xác nhận việc hấp thụ nguồn cung đã hoàn tất. Việc giá test vùng 68.0 cho thấy động lực tăng mạnh và khả năng bứt phá tiếp theo. Tín hiệu tích cực cho xu hướng tăng.
 
 

@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Effort to Fall mạnh mẽ, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 56.9. Việc giá phục hồi nhẹ với khối lượng giảm mạnh (từ 2.66M xuống 982.9k) cho thấy lực cầu bắt đầu xuất hiện nhưng vẫn yếu. Cần theo dõi thêm để xác nhận.
 - **Ngày 2025-07-22:** VHC tăng từ 57.5 lên 57.6 với đỉnh ngày đạt 58.9. Nến tăng có biên độ rộng và đóng cửa ở mức thấp. Khối lượng giao dịch tăng (1.70 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau Test for Demand yếu kém của phiên trước, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 58.9. Việc khối lượng tăng từ 982.9k lên 1.70M kèm theo việc giá test thành công 58.9 cho thấy smart money đang tích cực mua vào, tuy nhiên cần quan sát thêm để xác nhận khả năng phủ nhận hoàn toàn xu hướng giảm điều chỉnh trước đó.
+- **Ngày 2025-07-23:** VHC giảm nhẹ từ 57.6 xuống 57.6. Cây nến giảm có biên độ hẹp với giá mở cửa 58.1. Khối lượng giao dịch giảm (1.15 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Effort to Rise** của phiên trước, việc giá mở cửa ở mức cao 58.1 nhưng đóng cửa không thay đổi với khối lượng giảm cho thấy áp lực bán chốt lợi đã xuất hiện nhưng không mạnh. Việc khối lượng giảm là dấu hiệu tích cực, cho thấy đây chỉ là nhịp nghỉ sau nỗ lực tăng giá.
 
 

@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp nối **Sign of Strength (SOS)** mạnh mẽ của phiên trước. Việc giá tiếp tục tăng và test thành công vùng cao hơn (22.3) với khối lượng vẫn ở mức tốt cho thấy momentum tăng được duy trì. Mặc dù khối lượng giảm nhẹ so với phiên trước nhưng vẫn đủ mạnh để đẩy giá lên, xác nhận xu hướng tăng đang phát triển tích cực.
 - **Ngày 2025-07-22:** MSR giảm nhẹ từ 21.7 xuống 21.5. Cây nến giảm có biên độ rộng (spread 1.1) với mức thấp nhất 20.9. Khối lượng giao dịch giảm mạnh (2.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi **Effort to Rise** mạnh mẽ. Việc giá điều chỉnh nhẹ với khối lượng giảm đáng kể (giảm 35%) cho thấy áp lực bán chốt lời là chính, chưa có lực bán thực sự mạnh. Đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh trước đó, tín hiệu tích cực cho thấy xu hướng tăng vẫn được duy trì.
+- **Ngày 2025-07-23:** MSR giảm từ 21.5 xuống 21.1. Cây nến giảm có biên độ rộng (spread 1.8) với mức cao nhất 22.4 và thấp nhất 20.6. Khối lượng giao dịch tăng (3.37 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** sau **Test for Supply** của phiên trước. Việc giá test vùng cao (22.4) nhưng không thể duy trì và đóng cửa thấp hơn với khối lượng tăng 26% cho thấy áp lực bán đã gia tăng. Biên độ rộng và bóng trên dài thể hiện sự từ chối ở vùng cao, cảnh báo rằng lực cung đang mạnh lên và có thể cản trở xu hướng tăng.
 
 

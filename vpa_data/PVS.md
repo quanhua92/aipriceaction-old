@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** cực kỳ mạnh mẽ của phiên trước, phiên điều chỉnh này với khối lượng giảm đáng kể là tín hiệu **Test for Supply**. Áp lực bán chốt lời xuất hiện nhưng khối lượng vẫn ở mức hợp lý, cho thấy đây là nhịp điều chỉnh bình thường sau đợt bứt phá mạnh.
 - **Ngày 2025-07-22:** PVS đi ngang từ 33.5 lên 33.4. Cây nến có biên độ hẹp với mức cao nhất 33.7. Khối lượng giao dịch giảm tiếp (4.710.000 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** tích cực. Việc giá đi ngang và duy trì ở mức cao trên khối lượng giảm cho thấy áp lực bán đã được hấp thụ tốt và thị trường đang tích lũy ở vùng giá 33.4. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-23:** PVS tăng từ 33.5 lên 33.8. Cây nến tăng có biên độ rộng với mức cao nhất 34.1. Khối lượng giao dịch tăng mạnh (7.969.100 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng gần gấp đôi, xác nhận việc hấp thụ nguồn cung đã hoàn tất và xu hướng tăng tiếp tục. Việc giá test vùng 34.1 và đóng cửa tại 33.8 cho thấy sự kiểm soát tốt của phe mua. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
 
 

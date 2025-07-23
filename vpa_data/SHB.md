@@ -38,5 +38,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán với khối lượng khổng lồ, xác nhận sự kết thúc giai đoạn điều chỉnh. Tín hiệu tích cực cho xu hướng phục hồi mạnh mẽ.
 - **Ngày 2025-07-22:** SHB đi ngang, đóng cửa ở mức 14.6. Cây nến có biên độ hẹp với mức cao nhất 14.65. Khối lượng giao dịch giảm (63.416.800 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** tích cực. Việc giá duy trì ở mức cao với khối lượng giảm cho thấy áp lực bán đã được hấp thụ hoàn toàn và thị trường đang tích lũy ở vùng giá 14.6. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-23:** SHB tăng nhẹ từ 14.6 lên 14.65. Cây nến tăng có biên độ hẹp với giá cao nhất 14.9. Khối lượng giao dịch tăng (80.13 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực. Sau tín hiệu **No Supply** của phiên trước, việc giá tăng nhẹ với khối lượng tăng đáng kể và có thể test cao lên 14.9 cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc khối lượng tăng từ 63.43M lên 80.13M xác nhận sự quan tâm của nhà đầu tư. Tín hiệu tích cực cho xu hướng tăng tiếp tục.
 
 

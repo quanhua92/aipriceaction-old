@@ -55,4 +55,7 @@
 - **Ngày 2025-07-22:** DPM tiếp tục tăng mạnh từ 39.75 lên 40.4. Cây nến tăng có biên độ hẹp với mức high 40.5. Khối lượng giao dịch giảm về 5.50 triệu đơn vị, giảm 44% so với phiên trước nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Tiếp nối tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, việc giá tiếp tục tăng ổn định với khối lượng giảm cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận xu hướng tăng bền vững và tiềm năng tiếp tục mở rộng đà tăng.
 
+- **Ngày 2025-07-23:** DPM tiếp tục bùng nổ từ 40.7 lên 41.8. Cây nến tăng có biên độ rộng với mức cao 42.4 và mức thấp 40.5, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng lên 6.65 triệu đơn vị, cao hơn so với phiên **No Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp theo xác nhận thành công cho tín hiệu **No Supply** của phiên trước. Việc giá bùng nổ tăng mạnh và test lên đỉnh 42.4 trên khối lượng tăng cho thấy lực cầu tiếp tục thống trị thị trường một cách áp đảo. Tín hiệu này xác nhận rằng xu hướng tăng mạnh đang được duy trì vững chắc và DPM có tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn nữa.
+
 

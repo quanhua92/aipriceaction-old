@@ -52,5 +52,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** mạnh mẽ của phiên trước, phiên test cao đến 94.6 nhưng giảm về 91.3 trên khối lượng vẫn thấp cho thấy đây là **Test for Supply** nhẹ. Áp lực bán xuất hiện ở vùng giá cao nhưng không mạnh do khối lượng vẫn thấp. Thị trường cần thêm thời gian để xác định hướng đi.
 - **Ngày 2025-07-22:** SSH tăng từ 93.0 lên 93.2. Cây nến tăng có biên độ hẹp với mức thấp nhất 91.3. Khối lượng giao dịch giảm nhẹ (41.400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** nhẹ của hôm qua, hành động giá hôm nay cho thấy tín hiệu **Test for Demand**. Việc giá test xuống vùng 91.3 nhưng phục hồi và đóng cửa gần mức cao nhất với khối lượng vẫn thấp cho thấy lực cầu bắt đầu xuất hiện. Đây là dấu hiệu tích cực đầu tiên trong bối cảnh khối lượng thấp.
+- **Ngày 2025-07-23:** SSH giảm từ 93.2 xuống 91.0. Cây nến giảm có biên độ rộng với mức thấp nhất 85.0. Khối lượng giao dịch tăng nhẹ (43.500 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Demand** tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Test for Demand** sâu hơn. Việc giá test xuống mức thấp 85.0 nhưng phục hồi và đóng cửa ở 91.0 với khối lượng tăng nhẹ cho thấy áp lực bán đã được hấp thụ tại vùng giá thấp và lực cầu đã can thiệp. Mặc dù có sự test sâu, nhưng khả năng phục hồi cho thấy nền tảng cung cầu đang dần ổn định. Tín hiệu tích cực cho xu hướng phục hồi tiếp theo.
 
 

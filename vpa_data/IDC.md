@@ -60,3 +60,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau phiên **No Supply** của ngày trước, sự giảm giá trên khối lượng gia tăng cho thấy lực cầu đang được kiểm tra ở vùng giá thấp hơn. Mặc dù có biên độ rộng với test xuống 44.8 nhưng đóng cửa gần giá mở cửa ở 45.4, thể hiện có lực đỡ. Đây là giai đoạn kiểm tra quan trọng để xác định sức mạnh của lực cầu tại vùng hỗ trợ.
 
 
+- **Ngày 2025-07-23:** IDC tăng từ 45.4 lên 46.0, mở cửa ở 45.5 và đạt mức cao nhất 46.4. Cây nến tăng có biên độ rộng và đóng cửa ở mức giá cao. Khối lượng giao dịch giảm nhẹ (2.09 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Test for Demand** thành công của ngày trước, sự tăng giá với việc đạt mức cao mới 46.4 cho thấy lực cầu đã vượt qua được kiểm tra và đang quay trở lại mạnh mẽ. Mặc dù khối lượng giảm nhẹ nhưng việc giá tăng tốt và đóng cửa gần mức cao cho thấy áp lực bán đã yếu đi (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực cho xu hướng phục hồi.

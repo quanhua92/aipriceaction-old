@@ -67,4 +67,7 @@
 - **Ngày 2025-07-22:** BSR không có thay đổi về giá đóng cửa, duy trì ở mức 18.6. Cây nến có biên độ hẹp (từ 18.45 đến 18.6) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch giảm xuống 3.60 triệu đơn vị, thấp hơn so với phiên **Test for Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **Test for Supply**. Việc giá không có thay đổi và dao động trong biên độ hẹp trên khối lượng giảm mạnh cho thấy cả phe mua và phe bán đều thiếu quan tâm ở vùng giá này. Tín hiệu **No Demand** này cho thấy thị trường đang trong giai đoạn equilibrium sau nhịp test cung, cần thêm thời gian để xác định hướng đi tiếp theo. Việc giá duy trì ở mức 18.6 mà không giảm sâu hơn vẫn là dấu hiệu tích cực, cho thấy support tại vùng này đang được duy trì.
 
+- **Ngày 2025-07-23:** BSR tăng nhẹ từ 18.65 lên 18.65. Cây nến có biên độ rộng với mức cao 19.0 và mức thấp 18.55, cho thấy biến động tích cực trong phiên. Khối lượng giao dịch tăng vọt lên 7.28 triệu đơn vị, cao hơn gấp đôi so với phiên **No Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ sau giai đoạn **No Demand**. Việc giá test lên 19.0 trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn equilibrium. Tín hiệu này phủ nhận tín hiệu **No Demand** trước đó và cho thấy áp lực mua đang gia tăng. BSR có tiềm năng tiếp tục kiểm tra vùng kháng cự 19.0 và cao hơn.
+
 

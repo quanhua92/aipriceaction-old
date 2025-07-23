@@ -59,4 +59,7 @@
 - **Ngày 2025-07-22:** MBB phục hồi từ 26.95 lên 27.15. Nến tăng có biên độ vừa phải với giá cao nhất đạt 27.15 và thấp nhất 26.65. Khối lượng giao dịch giảm (15.46 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Test for Supply** tích cực của ngày trước, sự phục hồi giá với khối lượng duy trì cho thấy lực cầu đã quay trở lại. Việc có test xuống 26.65 ở đầu phiên nhưng phục hồi và đóng cửa tại mức cao nhất 27.15 thể hiện sức mạnh của lực đỡ và khả năng vượt qua giai đoạn kiểm tra cung. Tín hiệu tích cực cho xu hướng phục hồi tiếp tục.
 
+- **Ngày 2025-07-23:** MBB tăng từ 27.2 lên 27.4. Cây nến tăng có biên độ hẹp với mức cao 27.6 và mức thấp 27.1, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 27.18 triệu đơn vị, cao hơn 75% so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ xác nhận thành công cho tín hiệu **Effort to Rise** của phiên trước. Việc giá tăng và test lên 27.6 trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách áp đảo. Tín hiệu này xác nhận rằng giai đoạn test cung đã hoàn thành thành công và MBB đang khởi động một xu hướng tăng mạnh mới.
+
 

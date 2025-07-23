@@ -38,5 +38,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** tích cực. Việc giá tăng và test thành công vùng cao hơn (14.75) với khối lượng tăng cho thấy lực cầu đã quay trở lại mạnh hơn. Đây là tín hiệu tích cực sau giai đoạn giằng co, cho thấy tiềm năng đà tăng có thể được phục hồi.
 - **Ngày 2025-07-22:** NKG tăng nhẹ từ 14.4 lên 14.45. Cây nến tăng có biên độ hẹp (spread 0.25) với mức cao nhất 14.5. Khối lượng giao dịch giảm mạnh (8.77 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp nối **Effort to Rise** của phiên trước. Việc giá tăng yếu với khối lượng giảm mạnh (giảm 45%) cho thấy lực cầu đã yếu đi sau đợt bùng nổ trước. Mặc dù hướng đi vẫn tích cực nhưng momentum đang chừng lại, cần thêm chất xúc tác để duy trì xu hướng tăng.
+- **Ngày 2025-07-23:** NKG tăng mạnh từ 14.45 lên 14.85. Cây nến tăng có biên độ rộng (spread 0.55) với mức cao nhất 15.1. Khối lượng giao dịch tăng vọt (28.58 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau tín hiệu **No Demand** của phiên trước, lực cầu đã bùng nổ với khối lượng tăng gấp 3.3 lần và giá phá vỡ thành công vùng kháng cự 14.5. Việc giá test được vùng 15.1 và đóng cửa gần mức cao cho thấy momentum tăng rất mạnh, phủ nhận hoàn toàn những lo ngại trước đó và xác nhận xu hướng tăng đang được củng cố mạnh mẽ.
 
 

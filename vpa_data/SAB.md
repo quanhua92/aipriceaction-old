@@ -58,5 +58,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** của phiên trước, phiên giảm giá với khối lượng tăng này là tín hiệu **Effort to Fall**. Áp lực bán đã quay trở lại mạnh mẽ và đẩy giá xuống dưới vùng hỗ trợ 48.0, cho thấy xu hướng tăng trước đó có thể đã kết thúc. Tín hiệu tiêu cực.
 - **Ngày 2025-07-22:** SAB tăng từ 47.75 lên 47.8. Cây nến tăng có biên độ hẹp với mức cao nhất 47.9. Khối lượng giao dịch giảm mạnh (797.900 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Fall** của hôm qua, hành động giá hôm nay cho thấy tín hiệu **Test for Demand**. Việc giá hồi phục nhẹ trên khối lượng giảm gần 50% cho thấy lực cầu bắt đầu xuất hiện để kiểm tra vùng hỗ trợ 47.7-47.8. Đây là dấu hiệu tích cực đầu tiên sau đợt giảm, nhưng cần thêm xác nhận.
+- **Ngày 2025-07-23:** SAB bùng nổ từ 47.85 lên 48.6. Cây nến tăng có biên độ cực rộng với mức cao nhất 48.9. Khối lượng giao dịch tăng vọt gấp 3 lần (2.638.400 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Demand** của phiên trước, đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ. Lực cầu đã được xác nhận quyết liệt thông qua việc bứt phá mạnh với khối lượng tăng vọt gấp 3 lần. Việc giá vượt qua vùng kháng cự 48.0 và đóng cửa tại 48.6 cho thấy xu hướng tăng đã được khôi phục. Tín hiệu cực kỳ tích cực.
 
 

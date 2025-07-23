@@ -67,4 +67,7 @@
 - **Ngày 2025-07-22:** CMG phục hồi từ 41.5 lên 41.6. Cây nến tăng có biên độ rộng (từ 41.0 đến 41.8) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng lên 1.66 triệu đơn vị, cao hơn so với phiên **Test for Demand** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên test for demand của ngày hôm trước, việc giá test xuống vùng thấp hơn (41.0) nhưng sau đó phục hồi và đóng cửa gần đỉnh phiên trên khối lượng tăng cho thấy lực cầu đã xuất hiện mạnh mẽ ở vùng thấp. Tín hiệu này xác nhận rằng giai đoạn test đã hoàn thành thành công và CMG có tiềm năng kết thúc giai đoạn tích lũy, chuẩn bị cho một xu hướng tăng mới trong các phiên tới.
 
+- **Ngày 2025-07-23:** CMG bùng nổ từ 41.8 lên 43.0. Cây nến tăng có biên độ rộng với mức cao 43.05 và mức thấp 41.8, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 3.40 triệu đơn vị, cao hơn gấp đôi so với phiên **Test for Demand** thành công trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ xác nhận thành công cho tín hiệu **Test for Demand** của phiên trước. Việc giá bùng nổ tăng mạnh và test lên đỉnh 43.05 trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại một cách áp đảo. Tín hiệu này xác nhận rằng giai đoạn tích lũy đã kết thúc và một xu hướng tăng mạnh mới đang được khởi động. CMG có tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn.
+
 

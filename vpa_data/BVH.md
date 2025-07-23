@@ -73,6 +73,9 @@
 - **Ngày 2025-07-22:** BVH phục hồi từ 51.7 lên 52.5. Cây nến tăng có biên độ rộng (từ 51.6 đến 52.5) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch giảm xuống 348.7k đơn vị, thấp hơn so với phiên test for demand trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên test for demand của ngày hôm trước, việc giá phục hồi mạnh và đóng cửa tại đỉnh phiên trên khối lượng giảm cho thấy lực cầu đã xuất hiện mạnh mẽ ở vùng thấp hơn. Sự phục hồi quyết đoán kết hợp với **No Supply** chứng tỏ rằng giai đoạn test đã hoàn thành thành công và BVH có tiềm năng kết thúc chu kỳ giảm giá, hướng tới sự phục hồi trong các phiên tới.
 
+- **Ngày 2025-07-23:** BVH giảm nhẹ từ 52.7 xuống 52.4. Cây nến có biên độ rộng với mức cao 53.2 và mức thấp 52.3, cho thấy biến động trong phiên. Khối lượng giao dịch tăng nhẹ lên 365.2k đơn vị, cao hơn so với phiên **Test for Demand** thành công trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** sau phiên **Test for Demand** thành công. Việc giá test lên 53.2 rồi quay về đóng cửa gần mức thấp trên khối lượng tăng nhẹ cho thấy thị trường đang test khả năng duy trì của vùng support mới được thiết lập. Mặc dù giá đóng cửa thấp hơn nhưng không phá vỡ support 52.3, điều này cho thấy lực cầu vẫn đang hiện diện. Tín hiệu này cần được theo dõi để xác định liệu BVH có thể tiếp tục phục hồi hay cần thêm thời gian consolidation.
+
 
 
 

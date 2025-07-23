@@ -56,3 +56,5 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Rise** xuất hiện mạnh mẽ. Sau tín hiệu **Effort to Fall** của phiên trước, khối lượng bùng nổ kèm theo giá tăng mạnh cho thấy lực cầu đã quay trở lại quyết đoán. Đây là tín hiệu đảo ngược tiềm năng sau giai đoạn test và giảm giá. Việc khối lượng tiếp tục tăng kèm theo giá phục hồi mạnh cho thấy sự trở lại của nhà đầu tư.
 
 
+- **Ngày 2025-07-23:** DBC tăng mạnh từ 33.85 lên 34.55. Cây nến tăng có biên độ rộng với mức mở cửa 34.05 và dao động trong khoảng 33.5-35.2. Khối lượng giao dịch tiếp tục tăng lên 18.41 triệu đơn vị, tăng 21% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** tích cực của phiên trước, việc khối lượng tiếp tục tăng kèm theo giá tăng mạnh và test lên mức cao 35.2 cho thấy lực cầu đã được củng cố mạnh mẽ. Đây là xác nhận rõ ràng cho việc đảo ngược xu hướng và khởi đầu của một giai đoạn tăng giá mới. Tín hiệu này rất tích cực cho triển vọng ngắn hạn.

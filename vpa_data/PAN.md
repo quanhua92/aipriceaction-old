@@ -40,6 +40,8 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** tích cực của phiên trước, phiên hôm nay thể hiện **No Demand**. Việc giá gap tăng nhưng đóng cửa thấp hơn với khối lượng giảm cho thấy lực cầu đã yếu đi sau đợt test vùng cao. Áp lực bán xuất hiện trong phiên, tín hiệu trung tính cần quan sát thêm.
 - **Ngày 2025-07-22:** PAN tăng mạnh từ 30.4 lên 32.5. Cây nến tăng có biên độ rộng (spread 2.2) và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (6.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau tín hiệu **No Demand** của phiên trước, lực cầu đã bùng nổ với khối lượng tăng gần 5 lần và giá tăng 6.9% trong phiên. Cây nến đóng cửa ở mức cao nhất cho thấy sự hấp thú mạnh mẽ của nhà đầu tư. Tín hiệu rất tích cực cho xu hướng tăng.
+- **Ngày 2025-07-23:** PAN đi ngang, đóng cửa ở mức 32.5. Cây nến có biên độ hẹp (spread 0.8) với giá cao nhất 32.9. Khối lượng giao dịch giảm mạnh (2.04 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, sự giảm khối lượng đáng kể cùng với việc giá duy trì mức cao cho thấy áp lực bán chốt lời đã xuất hiện nhưng không đủ mạnh để đẩy giá xuống. Việc có thể test cao lên 32.9 cho thấy vẫn có lực mua tiềm ẩn. Đây là nhịp nghỉ tích cực sau đợt bùng nổ, tín hiệu tích cực cho xu hướng tiếp tục.
 
 
 

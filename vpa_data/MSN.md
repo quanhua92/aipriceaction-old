@@ -58,5 +58,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau **Sign of Strength (SOS)** mạnh mẽ của phiên trước. Việc giá điều chỉnh từ vùng cao với khối lượng giảm đáng kể (giảm 46%) cho thấy áp lực bán chốt lời là chính, chưa có lực bán thực sự mạnh. Bóng trên dài thể hiện sự test vùng cao trước khi điều chỉnh, đây là nhịp lành mạnh sau đợt tăng mạnh.
 - **Ngày 2025-07-22:** MSN tăng nhẹ từ 77.5 lên 77.7. Cây nến tăng có biên độ tốt (spread 1.8) với mức cao nhất 78.4. Khối lượng giao dịch duy trì ổn định (7.37 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** sau **Test for Supply** của phiên trước. Việc giá phục hồi nhẹ với khối lượng duy trì ở mức vừa phải cho thấy **Test for Supply** đã thành công và lực cầu đang quay trở lại. Biểu hiện này xác nhận rằng áp lực bán tạm thời đã giảm và xu hướng tăng có thể sẽ tiếp diễn.
+- **Ngày 2025-07-23:** MSN giảm nhẹ từ 77.7 xuống 77.3. Cây nến giảm có biên độ tốt (spread 2.1) với mức cao nhất 79.3. Khối lượng giao dịch tăng (8.22 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp theo sau **Secondary Test (ST)** của phiên trước. Việc giá điều chỉnh nhẹ sau khi test được vùng cao hơn (79.3) với khối lượng tăng cho thấy có áp lực bán chốt lời ở vùng cao. Tuy nhiên, việc giá chỉ giảm nhẹ với bóng trên dài thể hiện lực cầu vẫn có mặt, đây là nhịp điều chỉnh lành mạnh trong xu hướng tăng.
 
 

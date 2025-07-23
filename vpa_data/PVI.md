@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng gần gấp 3 lần, cho thấy sự hấp thụ tốt nguồn cung và tiềm năng tiếp tục xu hướng tăng. Tín hiệu tích cực.
 - **Ngày 2025-07-22:** PVI tiếp tục tăng từ 58.9 lên 59.5. Cây nến tăng có biên độ rộng với mức cao nhất 59.5. Khối lượng giao dịch tăng tiếp (43.500 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của hôm qua, PVI tiếp tục thể hiện **Sign of Strength (Dấu hiệu Mạnh mẽ)**. Việc giá bứt phá lên mức cao mới với khối lượng tăng liên tục cho thấy lực cầu vẫn đang hoàn toàn kiểm soát thị trường. Đây là tín hiệu tích cực rất mạnh cho xu hướng tăng dài hạn.
+- **Ngày 2025-07-23:** PVI bùng nổ từ 59.8 lên 61.6. Cây nến tăng có biên độ cực rộng với mức cao nhất 62.8. Khối lượng giao dịch tăng vọt gần gấp 3 lần (122.900 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Sign of Strength** của phiên trước, đây là một tín hiệu **Effort to Rise** cực mạnh, thậm chí có thể được xem là **Climax Action**. Việc giá bứt phá mạnh mẽ với khối lượng tăng vọt gần 300% cho thấy lực cầu đã đạt đến đỉnh điểm. Mặc dù đây là tín hiệu tích cực trong ngắn hạn, cần theo dõi các phiên tiếp theo để xem thị trường có thể tiêu hóa được khối lượng khổng lồ này hay không.
 
 

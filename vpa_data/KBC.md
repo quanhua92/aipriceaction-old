@@ -60,3 +60,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **No Supply** tích cực của ngày trước, sự tăng giá với khối lượng duy trì cho thấy lực cầu đã quay trở lại. Việc có test xuống 28.1 ở đầu phiên nhưng phục hồi và đóng cửa cao hơn thể hiện sức mạnh của lực đỡ và khả năng vượt qua vùng kháng cự ngắn hạn. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
 
 
+- **Ngày 2025-07-23:** KBC mở cửa cao hơn ở 28.55 và đạt mức cao nhất 29.0, nhưng đóng cửa trở về 28.45. Cây nến có biên độ rộng với thân nến nhỏ và bóng trên dài. Khối lượng giao dịch tăng mạnh (4.75 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **Effort to Rise** của ngày trước, việc giá test lên mức cao 29.0 nhưng không thể duy trì và quay về mức đóng cửa tương đương với khối lượng tăng mạnh cho thấy áp lực bán đã xuất hiện ở vùng giá cao. Bóng trên dài thể hiện cuộc đấu tranh giữa phe mua và phe bán, với áp lực bán tạm thời chiếm ưu thế tại vùng kháng cự gần 29.0. Tín hiệu cần theo dõi để xác định khả năng vượt qua hoặc điều chỉnh.

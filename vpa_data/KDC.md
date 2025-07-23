@@ -40,3 +40,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Effort to Fall** mạnh mẽ của ngày trước, sự giảm giá nhẹ trên khối lượng giảm cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù giá vẫn giảm nhẹ và có test xuống 54.1 nhưng khối lượng thấp thể hiện không có lực bán mạnh tiếp tục. Đây có thể là dấu hiệu kết thúc giai đoạn bán tháo và chuẩn bị cho sự ổn định giá.
 
 
+- **Ngày 2025-07-23:** KDC tăng mạnh từ 54.5 lên 55.3, mở cửa ở 54.8 và đạt mức cao nhất 55.8. Cây nến tăng có biên độ rộng và đóng cửa tích cực. Khối lượng giao dịch duy trì ổn định (525.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **No Supply** tích cực của ngày trước, sự tăng giá mạnh mẽ với việc đạt mức cao mới 55.8 cho thấy lực cầu đã quay trở lại quyết đoán. Việc khối lượng duy trì ổn định mà giá tăng tốt thể hiện áp lực bán đã yếu đi đáng kể, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực mạnh, xác nhận kết thúc giai đoạn bán tháo và bắt đầu xu hướng phục hồi.

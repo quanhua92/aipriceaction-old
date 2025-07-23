@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 12.6. Việc giá không thể duy trì ở mức cao với khối lượng giảm nhẹ cho thấy vẫn còn áp lực bán chốt lời. Tuy nhiên, đây là nhịp kiểm tra bình thường sau SOS.
 - **Ngày 2025-07-22:** VGT giữ nguyên giá đóng cửa 12.4 với biên độ hẹp dao động từ 12.2 đến 12.5. Nến dựng có biên độ hẹp. Khối lượng giao dịch giảm (1.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Supply** - Tiếp nối Test for Supply của phiên trước, việc giá duy trì ổn định với khối lượng tiếp tục giảm cho thấy áp lực bán đã cạn kiệt. Đây là tín hiệu tích cực sau giai đoạn SOS, thị trường đang tạo nền tảng vững chắc tại vùng 12.4 để chuẩn bị cho đợt tăng tiếp theo.
+- **Ngày 2025-07-23:** VGT giữ nguyên giá đóng cửa 12.4. Cây nến có biên độ hẹp dao động từ 12.2 đến 12.5. Khối lượng giao dịch tăng (1.819.400 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Test for Demand**. Việc giá duy trì ổn định tại vùng 12.4 nhưng khối lượng tăng từ 1.41M lên 1.82M cho thấy lực cầu đã bắt đầu tích cực hơn trong việc hấp thụ nguồn cung còn lại. Mặc dù giá chưa bứt phá lên cao hơn, nhưng sự ổn định trong bối cảnh khối lượng tăng là dấu hiệu tích cực cho thấy thị trường đang được củng cố vững chắc. Đây là tín hiệu chuẩn bị cho đợt tăng mạnh tiếp theo.
 
 

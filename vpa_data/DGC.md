@@ -56,3 +56,5 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau chuỗi các phiên **Test for Supply** liên tiếp, việc giá bắt đầu phục hồi nhẹ với khối lượng tăng nhẹ cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận rằng quá trình test cung cấp đã thành công và thị trường đang cẩn thận trở lại với xu hướng tăng.
 
 
+- **Ngày 2025-07-23:** DGC tăng mạnh từ 102.3 lên 105.7. Cây nến tăng có biên độ rộng với mức mở cửa 104.3 và dao động trong khoảng 102.9-106.0. Khối lượng giao dịch bùng nổ lên 5.43 triệu đơn vị, tăng gấp 3 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Sau tín hiệu **No Supply** tích cực của phiên trước, khối lượng bùng nổ kèm theo giá tăng mạnh và gap up cho thấy lực cầu đã quay trở lại một cách quyết đoán. Đây là xác nhận rõ ràng cho việc kết thúc giai đoạn test và khởi đầu của một đợt tăng giá mạnh mẽ. Tín hiệu này rất tích cực cho triển vọng ngắn hạn.

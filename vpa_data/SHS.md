@@ -58,5 +58,7 @@
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Supply** cực kỳ mạnh mẽ, phiên điều chỉnh với khối lượng tăng này là **Test for Supply**. Áp lực bán chốt lời đã xuất hiện với khối lượng lớn sau đợt tăng mạnh, cho thấy thị trường cần thời gian để tiêu hóa nguồn cung. Đây là nhịp điều chỉnh bình thường sau đợt bứt phá.
 - **Ngày 2025-07-22:** SHS tăng mạnh từ 16.4 lên 17.4. Cây nến tăng có biên độ rộng với mức cao nhất 17.5. Khối lượng giao dịch giảm mạnh (28.400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** cực kỳ mạnh mẽ trở lại. Việc giá bứt phá mạnh lên mức cao mới trên khối lượng cực thấp cho thấy áp lực bán đã hoàn toàn biến mất và lực cầu dễ dàng đẩy giá lên. Tín hiệu cực kỳ tích cực.
+- **Ngày 2025-07-23:** SHS tiếp tục tăng từ 17.4 lên 17.8. Cây nến tăng có biên độ rộng với mức cao nhất 18.5. Khối lượng giao dịch cạn kiệt hoàn toàn (1.100 đơn vị).
+    - **Phán tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay tiếp tục xác nhận tín hiệu **No Supply** với cường độ phi thường. Việc giá tăng mạnh và chạm mức cao nhất 18.5 trên khối lượng cạn kiệt hoàn toàn cho thấy áp lực bán đã biến mất tuyệt đối. Lực cầu có thể dễ dàng đẩy giá lên mức cao mới mà không gặp bất kỳ kháng cự nào. Tín hiệu cực kỳ tích cực, xu hướng tăng mạnh vẫn tiếp tục với đà bứt phá ấn tượng.
 
 

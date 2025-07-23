@@ -40,3 +40,5 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau **Test for Supply** thành công của phiên trước, việc giá phục hồi vững chắc với khối lượng tăng nhẹ cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận rằng test cung cấp đã thành công và xu hướng tăng được tiếp tục củng cố, mở ra tiềm năng tăng giá tiếp theo.
 
 
+- **Ngày 2025-07-23:** DGW tăng mạnh từ 46.45 lên 48.0. Cây nến tăng có biên độ rộng với mức mở cửa 46.65 và dao động trong khoảng 46.35-48.5. Khối lượng giao dịch tăng mạnh lên 4.51 triệu đơn vị, tăng 64% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, việc khối lượng tăng mạnh kèm theo giá tăng vững chắc và test lên mức cao 48.5 cho thấy lực cầu đã được củng cố và mở rộng. Đây là xác nhận rõ ràng cho xu hướng tăng mạnh và tiềm năng phá vỡ các mức kháng cự tiếp theo. Tín hiệu này rất tích cực cho triển vọng tăng giá tiếp tục.

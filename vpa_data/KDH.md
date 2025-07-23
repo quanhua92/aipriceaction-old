@@ -59,4 +59,7 @@
 - **Ngày 2025-07-22:** KDH phục hồi nhẹ từ 28.25 lên 28.4. Nến tăng có biên độ hẹp với giá cao nhất đạt 28.45 và thấp nhất 28.05. Khối lượng giao dịch giảm (3.8 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau phiên **Effort to Fall** mạnh mẽ của ngày trước, sự phục hồi nhẹ với khối lượng giảm cho thấy lực cầu có phản ứng nhưng chưa đủ mạnh. Việc có test xuống gần 28.05 nhưng đóng cửa cao hơn ở 28.4 thể hiện có lực đỡ tại vùng hỗ trợ. Đây là giai đoạn kiểm tra quan trọng để xác định khả năng phục hồi của cổ phiếu.
 
+- **Ngày 2025-07-23:** KDH tăng nhẹ từ 28.7 lên 28.5. Cây nến có biên độ hẹp với mức cao và thấp cùng ở 28.7 và 28.3. Khối lượng giao dịch giảm xuống 3.04 triệu đơn vị, thấp hơn so với phiên **Test for Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** sau phiên **Test for Demand**. Việc giá dao động trong biên độ hẹp trên khối lượng giảm cho thấy thị trường đang trong giai đoạn cân bằng sau giai đoạn test demand. Mặc dù giá đóng cửa thấp hơn nhưng vẫn duy trì trên vùng support 28.3, cho thấy lực cầu vẫn đang hiện diện. KDH cần thêm thời gian để xác định hướng đi rõ ràng.
+
 

@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi tín hiệu tiêu cực, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 38.0. Việc giá đi ngang với khối lượng giảm cho thấy áp lực bán đã tạm ngừng nhưng lực cầu vẫn chưa đủ mạnh để đảo chiều xu hướng.
 - **Ngày 2025-07-22:** VEA giữ nguyên giá đóng cửa 38.0 với mở cửa cao hơn 38.3. Nến có biên độ hẹp dao động từ 37.9 đến 38.3. Khối lượng giao dịch tăng nhẹ (906.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** tiếp diễn - Tiếp nối Test for Demand của phiên trước, việc giá duy trì ổn định với khối lượng tăng nhẹ cho thấy lực cầu bắt đầu xuất hiện nhưng vẫn chưa thực sự mạnh mẽ. Đây là tín hiệu cải thiện nhẹ, vùng 38.0 đang dần được củng cố như một mức hỗ trợ quan trọng.
+- **Ngày 2025-07-23:** VEA giữ nguyên giá đóng cửa 38.0. Cây nến có biên độ hẹp dao động từ 37.9 đến 38.2. Khối lượng giao dịch giảm (751.200 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối chuỗi tín hiệu **Test for Demand** của các phiên trước, phiên hôm nay tiếp tục xác nhận tín hiệu **Test for Demand**. Việc giá duy trì ổn định tại vùng 38.0 với khối lượng giảm cho thấy vùng hỗ trợ này đang được củng cố. Mặc dù lực cầu chưa bùng nổ mạnh mẽ, nhưng sự ổn định của giá trong bối cảnh khối lượng giảm cho thấy áp lực bán đã cạn kiệt tại mức này. Đây là tín hiệu tích cực, có thể tạo nền tảng cho một đợt phục hồi trong tương lai gần.
 
 

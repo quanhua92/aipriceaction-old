@@ -38,5 +38,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bùng nổ SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng đỉnh 49.5. Việc giá giảm nhẹ với khối lượng giảm đáng kể (từ 497.8k xuống 130.7k) cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh.
 - **Ngày 2025-07-22:** VLB giảm từ 49.0 xuống 48.1 với mức thấp nhất 47.6. Nến giảm có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm tiếp (81.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Tiếp nối Test for Supply của phiên trước, việc giá tiếp tục giảm nhưng khối lượng duy trì thấp (từ 130.7k xuống 81.1k) cho thấy áp lực bán chốt lời không mạnh. Việc test mức 47.6 và hồi phục về 48.1 xác nhận đây vẫn là nhịp điều chỉnh lành mạnh trong xu hướng tăng mạnh mẽ sau SOS.
+- **Ngày 2025-07-23:** VLB tăng từ 48.1 lên 48.4. Cây nến tăng có biên độ hẹp với giá cao nhất 48.5. Khối lượng giao dịch tăng mạnh (165.8k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Sau chuỗi **Test for Supply**, việc giá phục hồi với khối lượng tăng gấp đôi (từ 81.1k lên 165.8k) cho thấy lực cầu đã quay trở lại để hấp thụ nguồn cung. Việc giá có thể test lên 48.5 thể hiện tiềm năng phục hồi. Tín hiệu tích cực, cho thấy giai đoạn điều chỉnh có thể đã kết thúc.
 
 

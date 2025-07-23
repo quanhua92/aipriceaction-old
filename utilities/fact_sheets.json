@@ -20,8 +20,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Effort to Rise",
-      "date": "2025-07-22"
+      "signal": "No Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -52,8 +52,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "SOS",
-      "date": "2025-07-22"
+      "signal": "Effort to Rise",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -84,8 +84,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "test for supply",
-      "date": "2025-07-22"
+      "signal": "Effort to Rise",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -100,8 +100,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "SOW",
-      "date": "2025-07-22"
+      "signal": "SOS",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -116,8 +116,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "SOS",
-      "date": "2025-07-22"
+      "signal": "Test for Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -148,8 +148,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Test for Supply",
-      "date": "2025-07-22"
+      "signal": "No Demand",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -164,8 +164,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "test for supply",
-      "date": "2025-07-22"
+      "signal": "No Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -180,8 +180,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "test for supply",
-      "date": "2025-07-22"
+      "signal": "No Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -388,8 +388,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-09"
+      "signal": "No Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -404,8 +404,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Weakness",
-      "date": "2025-07-14"
+      "signal": "Test for Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -436,8 +436,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-08"
+      "signal": "Effort to Rise",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -452,8 +452,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "No Demand",
-      "date": "2025-07-14"
+      "signal": "No Supply",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -868,8 +868,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Weakness",
-      "date": "2025-07-10"
+      "signal": "No Demand",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -885,7 +885,7 @@
     "current_price": null,
     "most_recent_daily_signal": {
       "signal": "Effort to Rise",
-      "date": "2025-07-14"
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {
@@ -900,8 +900,8 @@
     "previous_state": "Unlisted",
     "current_price": null,
     "most_recent_daily_signal": {
-      "signal": "Sign of Strength",
-      "date": "2025-07-14"
+      "signal": "Effort to Rise",
+      "date": "2025-07-23"
     },
     "daily_narrative_context": "No recent VPA entries",
     "weekly_context": {

@@ -45,4 +45,7 @@
 - **Ngày 2025-07-22:** BMP giảm từ 145.8 xuống 143.8. Cây nến giảm có biên độ rộng với mức thấp 143.0, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm mạnh xuống 99.8k đơn vị, thấp hơn đáng kể so với phiên **SOS** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength** mạnh mẽ. Việc giá giảm và test xuống 143.0 trên khối lượng giảm đáng kể cho thấy đây chủ yếu là áp lực bán chốt lời tự nhiên sau đợt tăng mạnh, chứ không phải áp lực bán mạnh từ bên ngoài. Việc giá vẫn duy trì trên vùng 143.0-143.8 là dấu hiệu tích cực, cho thấy support đang được duy trì. Cần quan sát phiên tiếp theo để xác định liệu đây có phải là nhịp điều chỉnh lành mạnh trước khi tiếp tục xu hướng tăng.
 
+- **Ngày 2025-07-23:** BMP phục hồi nhẹ từ 144.0 lên 144.1. Cây nến có biên độ hẹp với mức cao 145.1 và mức thấp 143.7, cho thấy sự cân bằng trong phiên. Khối lượng giao dịch tăng lên 126.6k đơn vị, cao hơn so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** tích cực sau phiên **Test for Supply**. Việc giá phục hồi nhẹ và test lên 145.1 trên khối lượng tăng cho thấy lực cầu đang dần quay trở lại sau nhịp test supply. Tín hiệu này xác nhận rằng áp lực bán đã yếu đi và support trong vùng 143.7-144.0 được duy trì vững chắc. BMP đang chuẩn bị cho khả năng tiếp tục xu hướng tăng.
+
 

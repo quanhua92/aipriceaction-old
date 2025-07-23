@@ -55,4 +55,7 @@
 - **Ngày 2025-07-22:** DPR giảm nhẹ từ 42.3 xuống 42.15. Cây nến giảm có biên độ rộng với mức high 42.7 và low 41.7. Khối lượng giao dịch giảm mạnh về 809k đơn vị, giảm 61% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau chuỗi tín hiệu **Sign of Strength** mạnh mẽ. Giá test lên vùng cao 42.7 nhưng bị đẩy xuống, khối lượng giảm mạnh cho thấy áp lực bán chốt lời không lớn. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra yếu ớt.
 
+- **Ngày 2025-07-23:** DPR tăng từ 42.4 lên 42.5. Cây nến tăng có biên độ rộng với mức cao 42.5 và mức thấp 41.5, đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 1.26 triệu đơn vị, cao hơn 56% so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** thành công sau phiên **Test for Supply**. Việc giá test xuống vùng thấp hơn (41.5) nhưng sau đó phục hồi mạnh và đóng cửa tại đỉnh phiên trên khối lượng tăng mạnh cho thấy lực cầu đã xuất hiện quyết đoán ở vùng giá thấp hơn. Tín hiệu này xác nhận rằng giai đoạn test cung đã hoàn thành thành công và DPR sẵn sáng tiếp tục xu hướng tăng mạnh.
+
 

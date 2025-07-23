@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** của phiên trước, đây là tín hiệu **Effort to Rise** tích cực. Lực cầu đã quay trở lại và đẩy giá vượt qua vùng kháng cự trước đó với khối lượng giảm, cho thấy áp lực bán đã được hấp thụ tốt. Tín hiệu tích cực cho xu hướng phục hồi.
 - **Ngày 2025-07-22:** SIP tăng nhẹ từ 62.5 lên 62.8. Cây nến tăng có biên độ hẹp với mức cao nhất 63.2. Khối lượng giao dịch giảm tiếp (536.600 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** tích cực của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply**. Việc giá tiếp tục tăng trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể và xu hướng tăng đang được duy trì tốt. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-23:** SIP tăng mạnh từ 62.8 lên 64.0. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (854.200 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá bứt phá lên mức cao mới với khối lượng tăng vọt cho thấy lực cầu đã quay trở lại một cách quyết đoán. Phe mua đã chiếm ưu thế hoàn toàn và có khả năng duy trì xu hướng tăng trong thời gian tới. Tín hiệu cực kỳ tích cực.
 
 

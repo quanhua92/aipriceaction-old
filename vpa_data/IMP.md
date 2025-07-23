@@ -40,3 +40,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự tăng giá nhẹ trên khối lượng giảm đáng kể cho thấy lực cầu đang suy yếu. Mặc dù giá vẫn tăng nhẹ và có test lên 52.6 nhưng khối lượng thấp thể hiện sự thiếu hụt động lực tiếp tục. Đây là tín hiệu cảnh báo cho thấy đà tăng có thể tạm dừng.
 
 
+- **Ngày 2025-07-23:** IMP mở cửa ở 52.2 và đạt mức cao nhất 53.1, nhưng giảm xuống đóng cửa ở 52.0. Cây nến có biên độ rộng với thân nến âm, đóng cửa ở mức thấp nhất phiên. Khối lượng giao dịch tăng (163.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **No Demand** của ngày trước, việc giá test lên mức cao 53.1 nhưng không thể duy trì và đóng cửa thấp hơn trên khối lượng gia tăng cho thấy áp lực bán đã xuất hiện ở vùng giá cao. Việc đóng cửa ở mức thấp nhất phiên thể hiện phe bán đang chiếm ưu thế tạm thời, xác nhận rằng lực cầu chưa đủ mạnh để vượt qua kháng cự. Tín hiệu cảnh báo cho xu hướng tăng ngắn hạn.

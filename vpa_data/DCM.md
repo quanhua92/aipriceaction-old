@@ -56,3 +56,5 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, khối lượng tiếp tục tăng kèm theo giá đạt mức cao mới cho thấy lực cầu cực kỳ mạnh mẽ và được xác nhận. Tín hiệu này củng cố mạnh mẽ cho xu hướng tăng trở lại và tiềm năng phá vỡ các vùng kháng cự.
 
 
+- **Ngày 2025-07-23:** DCM tăng từ 35.2 lên 35.7. Cây nến tăng có biên độ hẹp với mức mở cửa 35.5 và dao động trong khoảng 35.1-35.8. Khối lượng giao dịch tăng lên 8.37 triệu đơn vị, tăng 5% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** tiếp tục được củng cố. Sau tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, việc giá tiếp tục tăng với khối lượng duy trì ở mức cao cho thấy lực cầu vẫn đang kiểm soát thị trường. Mặc dù biên độ tăng hẹp hơn, nhưng việc duy trì được momentum tăng với khối lượng ổn định là dấu hiệu tích cực cho sự tiếp diễn của xu hướng tăng.

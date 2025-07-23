@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên điều chỉnh này với khối lượng giảm là tín hiệu **Test for Supply** tích cực. Việc giá chỉ giảm về mức thấp nhất trong ngày trên khối lượng giảm cho thấy áp lực bán không quá mạnh. Đây là nhịp điều chỉnh lành mạnh sau đợt tăng.
 - **Ngày 2025-07-22:** PVT giảm nhẹ từ 18.05 xuống 18.0. Cây nến giảm có biên độ hẹp với mức thấp nhất 17.85. Khối lượng giao dịch tăng (3.843.600 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** tích cực của hôm qua, hành động giá hôm nay cho thấy tín hiệu **Test for Demand**. Việc giá test xuống vùng 17.85 nhưng đóng cửa gần mức mở cửa với khối lượng tăng cho thấy lực cầu đã xuất hiện để hấp thụ áp lực bán. Đây là tín hiệu tích cực cho thấy thị trường đang kiểm tra và tìm thấy hỗ trợ tốt.
+- **Ngày 2025-07-23:** PVT tăng mạnh từ 18.1 lên 18.25. Cây nến tăng có biên độ rộng với mức cao nhất 18.3. Khối lượng giao dịch giảm nhẹ (3.418.800 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Demand** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã được xác nhận thông qua việc đẩy giá tăng mạnh từ vùng test. Mặc dù khối lượng giảm nhẹ nhưng việc giá bứt phá lên mức 18.25-18.3 cho thấy áp lực bán đã yếu đi đáng kể. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
 
 

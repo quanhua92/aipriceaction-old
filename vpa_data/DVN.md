@@ -37,4 +37,7 @@
 - **Ngày 2025-07-22:** DVN tăng mạnh từ 22.9 lên 23.2. Cây nến tăng có biên độ vừa phải với mức dao động 22.7-23.2. Khối lượng giao dịch tăng tiếp về 180.1k đơn vị, tăng 52% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Rise** xuất hiện. Sau phiên **Test for Supply** của phiên trước, khối lượng tiếp tục tăng kèm theo giá phục hồi mạnh cho thấy lực cầu đã quay trở lại. Điều này xác nhận rằng phiên test cung cấp đã thành công và thị trường sẵn sàng tiếp tục xu hướng tăng.
 
+- **Ngày 2025-07-23:** DVN duy trì ở mức 23.2. Cây nến có biên độ hẹp với mức cao 23.5 và mức thấp 23.0, cho thấy sự consolidation trong phiên. Khối lượng giao dịch giảm xuống 106.7k đơn vị, thấp hơn 40% so với phiên **Effort to Rise** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau phiên **Effort to Rise**. Việc giá test lên 23.5 nhưng duy trì ở mức đóng cửa ổn định trên khối lượng giảm cho thấy áp lực bán đã cạn kiệt và thị trường đang trong giai đoạn consolidation lành mạnh. Tín hiệu này xác nhận rằng xu hướng tăng vẫn được duy trì và DVN đang chuẩn bị cho các bước tăng tiếp theo.
+
 

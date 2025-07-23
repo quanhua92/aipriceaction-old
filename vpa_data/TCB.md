@@ -66,5 +66,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bứt phá SOS của phiên trước, thị trường đang kiểm tra áp lực chốt lời tại vùng kháng cự 36.5. Việc giá giảm với khối lượng giảm (từ 36.47M xuống 23.07M) cho thấy áp lực bán đã giảm bớt, đây là một phản ứng tự nhiên sau đợt tăng mạnh, tín hiệu vẫn tích cực.
 - **Ngày 2025-07-22:** TCB giảm từ 35.15 xuống 35.35 với mức thấp nhất 34.9. Nến có biên độ rộng và đóng cửa ở giữa phiên. Khối lượng giao dịch tăng mạnh (26.85 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Secondary Test (ST)** - Sau Test for Supply của phiên trước, phiên này thị trường tiếp tục kiểm tra độ bền vững của vùng hỗ trợ 34.9-35.0. Việc khối lượng tăng mạnh (từ 23.07M lên 26.85M) với giá hồi phục về 35.35 cho thấy có sức mua xuất hiện tại vùng thấp, đây là tín hiệu tích cực của quá trình tích lũy sau SOS.
+- **Ngày 2025-07-23:** TCB giảm từ 35.35 xuống 35.0 với mức thấp nhất vẫn là 34.9. Nến giảm có biên độ vừa phải và đóng cửa ở mức thấp gần nhất. Khối lượng giao dịch tăng nhẹ (27.84 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Tiếp nối Secondary Test của phiên trước, thị trường tiếp tục kiểm tra lực cầu tại vùng hỗ trợ quan trọng 34.9-35.0. Việc giá đóng cửa yếu hơn (35.0 so với 35.35) với khối lượng duy trì cao cho thấy áp lực bán vẫn hiện hữu, nhưng không đủ mạnh để phá vỡ hỗ trợ 34.9. Cần quan sát thêm để xác định hướng đi tiếp theo.
 
 

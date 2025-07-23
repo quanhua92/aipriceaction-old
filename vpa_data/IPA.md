@@ -56,3 +56,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally (AR)**. Sau phiên **Effort to Fall** của ngày trước, sự phục hồi mạnh mẽ với khối lượng gia tăng cho thấy lực cầu đã quay trở lại để chặn đà giảm. Việc có test xuống 14.6 nhưng phục hồi mạnh lên 15.5 thể hiện sức mạnh của lực đỡ. Đây là tín hiệu tích cực sau giai đoạn giảm giá, báo hiệu khả năng bắt đầu phase tích lũy mới.
 
 
+- **Ngày 2025-07-23:** IPA tiếp tục tăng mạnh từ 15.5 lên 15.8, mở cửa gap up ở 15.7 và đạt mức cao nhất 16.2. Cây nến tăng có biên độ rộng và đóng cửa tích cực. Khối lượng giao dịch tăng vọt (928.1k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Automatic Rally** tích cực của ngày trước, sự tiếp tục tăng mạnh với gap up và khối lượng bùng nổ cho thấy lực cầu đang rất mạnh mẽ và được duy trì. Việc đạt mức cao mới 16.2 và duy trì đóng cửa tốt ở 15.8 thể hiện sự kiểm soát của phe mua. Tín hiệu rất tích cực, xác nhận xu hướng phục hồi đang được củng cố và có khả năng tiếp tục phát triển.

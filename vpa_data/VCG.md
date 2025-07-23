@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Sau phiên Test for Supply trước đó, việc giá tiếp tục được kiểm tra tại vùng kháng cự 23.85 với khối lượng duy trì ổn định cho thấy thị trường đang trong giai đoạn cân bằng. Việc không có sự suy giảm khối lượng là tín hiệu tích cực, cho thấy lực cầu vẫn có mặt để hỗ trợ giá.
 - **Ngày 2025-07-22:** VCG tăng nhẹ từ 23.25 lên 23.4 với đỉnh ngày đạt 23.45. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (9.22 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Supply** - Sau chuỗi Test for Supply, việc giá tăng nhẹ với khối lượng giảm cho thấy áp lực bán đã cạn kiệt. Đây là tín hiệu tích cực sau giai đoạn SOS và các phiên kiểm tra, thị trường đang chuẩn bị cho giai đoạn tích lũy tiếp theo trước khi tiếp tục xu hướng tăng.
+- **Ngày 2025-07-23:** VCG tăng vọt từ 23.4 lên 24.3. Cây nến tăng có biên độ rất rộng (spread 1.55) với giá cao nhất 25.0. Khối lượng giao dịch bùng nổ (26.40 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ. Sau tín hiệu **No Supply** của phiên trước, lực cầu đã bùng nổ với khối lượng tăng gần 3 lần và giá tăng 3.8% trong phiên. Việc giá có thể test cao lên 25.0 cho thấy sự hấp thú cực lớn của nhà đầu tư. Tín hiệu rất tích cực, báo hiệu sự bắt đầu của một xu hướng tăng mạnh mới.
 
 

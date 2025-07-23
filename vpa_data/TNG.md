@@ -38,5 +38,7 @@
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS của phiên trước, thị trường đang kiểm tra áp lực chốt lời tại vùng kháng cự 21.3. Việc giá giảm với khối lượng giảm từ 2.37M xuống 1.47M cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh.
 - **Ngày 2025-07-22:** TNG tăng từ 20.8 lên 21.1 với đỉnh ngày đạt 21.2. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.07 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau Test for Supply tích cực của phiên trước, lực cầu đã quay trở lại để tiếp tục thử nghiệm vùng kháng cự 21.2. Việc khối lượng tăng từ 1.47M lên 2.07M kèm theo giá đóng cửa mạnh cho thấy smart money vẫn đang tích cực tham gia, tiếp tục củng cố xu hướng tăng sau SOS.
+- **Ngày 2025-07-23:** TNG tăng từ 21.1 lên 21.3 với mở cửa gap lên 21.3 và đỉnh ngày đạt 21.5. Nến tăng có biên độ vừa phải và đóng cửa ở mức cao. Khối lượng giao dịch giảm (1.65 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau chuỗi tín hiệu Effort to Rise tích cực, việc cổ phiếu gap lên và đóng cửa ở mức cao cho thấy sự bứt phá thành công qua vùng kháng cự 21.2. Mặc dù khối lượng giảm (từ 2.07M xuống 1.65M), nhưng việc không có áp lực bán nào đáng kể là tín hiệu tích cực, cho thấy smart money đã kiểm soát hoàn toàn và xu hướng tăng được khẳng định mạnh mẽ.
 
 
