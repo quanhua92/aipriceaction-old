@@ -2,10 +2,10 @@
 | :--------------- | :-------------------------------------------------------------- |
 | BAN_LE           | DGW, FRT, MWG, PNJ                                              |
 | BAO_HIEM         | BIC, BVH, PVI                                                   |
-| BAT_DONG_SAN     | KDH, NLG, NVL, PDR, SSH, VHM, VIC, VRE                          |
+| BAT_DONG_SAN     | KDH, HDC, NLG, NVL, PDR, SSH, TCH, VHM, VIC, VRE                |
 | BAT_DONG_SAN_KCN | BCM, IDC, KBC, SIP, VGC                                         |
 | CAO_SU           | DPR, DRC, GVR, PHR                                              |
-| CHUNG_KHOAN      | BSI, FTS, HCM, MBS, SHS, SSI, VCI, VIX, VND                     |
+| CHUNG_KHOAN      | BSI, CTS, FTS, HCM, MBS, SHS, SSI, VCI, VIX, VND                |
 | CONG_NGHE        | CMG, FOX, FPT, SGT, VGI                                         |
 | DAU_KHI          | BSR, GAS, PLX, PVS                                              |
 | DAU_TU_CONG      | C4G, HHV, VCG                                                   |

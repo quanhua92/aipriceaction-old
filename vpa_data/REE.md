@@ -40,5 +40,6 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** mạnh mẽ của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** tích cực. Việc giá phục hồi nhẹ trên khối lượng giảm mạnh gần 50% cho thấy áp lực bán đã được hấp thụ tốt và thị trường đang tìm lại cân bằng. Đây là tín hiệu tích cực sau đợt test supply.
 - **Ngày 2025-07-23:** REE tăng từ 69.0 lên 69.3. Cây nến tăng có biên độ rộng với mức cao nhất 70.0. Khối lượng giao dịch tăng (1.030.900 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng gần 20%, xác nhận việc hấp thụ nguồn cung đã hoàn tất. Việc giá test vùng 70.0 và duy trì đóng cửa tại 69.3 cho thấy sự kiểm soát tốt của phe mua. Tín hiệu tích cực cho xu hướng tăng tiếp theo.
-
+- **Ngày 2025-07-24:** REE tăng nhẹ từ 69.3 lên 69.4. Cây nến tăng có biên độ hẹp (spread 1.0) với mức mở cửa 69.9, cao nhất 70.3 và thấp nhất 69.3. Khối lượng giao dịch tăng (1.104.500 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay thể hiện **Test for Supply** tích cực. Việc giá gap tăng và test lên mức cao 70.3 nhưng đóng cửa thấp hơn mức mở cửa với khối lượng tăng nhẹ cho thấy áp lực chốt lời đã xuất hiện ở vùng 70.0-70.3. Tuy nhiên, việc giá duy trì trên vùng hỗ trợ 69.3 và khối lượng chỉ tăng nhẹ là dấu hiệu tích cực, cho thấy áp lực bán không quá mạnh. Đây là nhịp điều chỉnh lành mạnh sau đợt tăng, xu hướng tăng vẫn được duy trì.
 

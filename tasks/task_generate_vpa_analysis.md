@@ -23,7 +23,7 @@ CRITICAL REQUIREMENTS:
 - Compare current bar to previous bar (price, spread, volume)
 - Only generate analysis for [DATE] - do not modify any existing entries
 
-For each ticker, append the new analysis entry to the existing content in vpa_data/{TICKER}.md files. Preserve all existing historical analysis.
+For each ticker, use the Write tool to append the new analysis entry to the existing content in vpa_data/{TICKER}.md files. NEVER use echo or bash commands to update markdown files. Always use the Write tool to preserve proper file encoding and avoid formatting issues. Preserve all existing historical analysis.
 
 Process all [NUMBER] tickers systematically, ensuring each gets proper VPA analysis based on their individual context and recent signals.
 

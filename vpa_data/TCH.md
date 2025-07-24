@@ -14,3 +14,5 @@
 
 - **Ngày 2025-07-23:** TCH mở cửa tại 24.95 (gap up) và đóng cửa tại 24.95 (+1.42%), tăng 0.35 điểm so với ngày trước. Thanh nến xanh có spread rộng 1.6 điểm (từ 24.5 đến 26.1), spread tăng đáng kể. Khối lượng bùng nổ lên 11.053.318 cổ phiếu, tăng 45.7% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Nến xanh mạnh với spread rộng kết hợp volume bùng nổ cho thấy có dòng tiền lớn đổ vào. Gap up kèm theo khối lượng cao và giá duy trì gần mức đóng cửa khẳng định xu hướng tăng mạnh, có thể bước vào giai đoạn markup.
+- **Ngày 2025-07-24:** TCH tăng từ 24.95 lên 25.25 (+1.20%). Nến xanh có spread hẹp 0.75 điểm (từ 24.55 đến 25.3). Khối lượng giảm mạnh xuống 6.577.300 cổ phiếu, giảm 40.5% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **No Supply** - Tiếp nối tín hiệu SOS mạnh mẽ của phiên trước, TCH tiếp tục tăng giá với khối lượng giảm đáng kể cho thấy áp lực bán hoàn toàn biến mất. Việc giá tăng dễ dàng trên volume thấp xác nhận smart money không còn muốn bán tại mức giá này, tạo điều kiện thuận lợi cho đợt tăng tiếp theo trong giai đoạn markup.

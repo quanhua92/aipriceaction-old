@@ -33,7 +33,7 @@ CRITICAL REQUIREMENTS:
 - **Weekly Patterns**: Higher highs, higher lows, weekly support/resistance
 - **Weekly Trends**: Multi-week trend analysis, not daily fluctuations
 
-For each ticker, append the new weekly analysis entry to the existing content in vpa_data_week/{TICKER}.md files. Preserve all existing historical analysis.
+For each ticker, use the Write tool to append the new weekly analysis entry to the existing content in vpa_data_week/{TICKER}.md files. NEVER use echo or bash commands to update markdown files. Always use the Write tool to preserve proper file encoding and avoid formatting issues. Preserve all existing historical analysis.
 
 Process all [NUMBER] tickers systematically, ensuring each gets proper weekly VPA analysis based on their individual context and recent weekly signals.
 

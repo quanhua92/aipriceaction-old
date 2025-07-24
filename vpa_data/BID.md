@@ -71,3 +71,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength** mạnh mẽ. Việc giá mở cao hơn nhưng bị từ chối và đóng cửa thấp hơn mức đóng cửa phiên trước trên khối lượng giảm cho thấy áp lực bán đã xuất hiện ở vùng đỉnh (39-39.3). Tuy nhiên, việc giá vẫn duy trì trên mức 38.5 và khối lượng giảm cho thấy áp lực bán không quá mạnh. Sau tín hiệu **SOS** của hôm trước, một nhịp **Test for Supply** là bình thường và cần thiết để consolidate trước khi có thể tiếp tục xu hướng tăng. Cần theo dõi phản ứng trong các phiên tới để xác định sức mạnh của xu hướng.
 
 
+
+- **Ngày 2025-07-24:** BID mở cửa cao hơn tại 39.0 và tiếp tục tăng đến mức cao nhất 39.65, sau đó giảm nhẹ và đóng cửa tại 38.85. Cây nến có biên độ rộng (0.95 điểm) với bóng trên và bóng dưới, thể hiện sự biến động trong phiên. Khối lượng giao dịch tăng vọt lên 10.95 triệu đơn vị, cao hơn 57% so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tích cực, vượt qua được thử thách **Test for Supply** của phiên trước. Việc giá mở cao hơn và đạt mức cao mới 39.65 trên khối lượng tăng vọt cho thấy lực cầu đã xuất hiện mạnh mẽ sau giai đoạn consolidate. Mặc dù có pullback từ đỉnh nhưng việc đóng cửa cao hơn phiên trước (38.85 vs 38.7) chứng tỏ phe mua vẫn kiểm soát được tình hình. Sự kết hợp giữa **Test for Supply** hôm trước và **SOS** hôm nay tạo thành một pattern tích cực mạnh, xác nhận xu hướng tăng đã vượt qua được giai đoạn kiểm tra và sẵn sàng tiếp tục hướng lên các mức cao hơn.
+

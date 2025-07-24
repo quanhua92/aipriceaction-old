@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Demand** của hôm qua, việc khối lượng tăng gần gấp 3 lần trong khi giá chỉ dao động nhẹ cho thấy tín hiệu **Test for Demand**. Lực cầu bắt đầu quay trở lại để kiểm tra vùng hỗ trợ 48.6. Đây là dấu hiệu tích cực cho thấy thị trường có thể tìm được cân bằng tại mức giá này.
 - **Ngày 2025-07-23:** QNS tăng từ 48.8 lên 48.8. Cây nến có biên độ hẹp với mức thấp nhất 48.6. Khối lượng giao dịch tăng tiếp (219.500 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Demand** của phiên trước, đây là tín hiệu **Effort to Rise** nhẹ. Lực cầu đã được xác nhận thông qua việc duy trì giá ở mức cao với khối lượng tăng tiếp. Mặc dù mức độ tăng giá còn hạn chế nhưng việc khối lượng duy trì cao cho thấy sự quan tâm liên tục của phe mua. Tín hiệu tích cực nhẹ cho xu hướng ổn định.
+- **Ngày 2025-07-24:** QNS tăng nhẹ từ 48.8 lên 48.9. Cây nến tăng có biên độ hẹp (spread 0.3) với mức cao nhất 49.1 và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (117.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** nhẹ của phiên trước, phiên hôm nay thể hiện **Test for Supply** tích cực. Việc giá tăng nhẹ và test lên mức 49.1 nhưng khối lượng giảm gần một nửa cho thấy áp lực bán đã giảm đáng kể. Việc đóng cửa gần mức cao nhất 48.9 là dấu hiệu tích cực, cho thấy lực cầu vẫn có mặt dù không mạnh. Thị trường đang trong trạng thái cân bằng với thiên hướng tích cực nhẹ.
 
 

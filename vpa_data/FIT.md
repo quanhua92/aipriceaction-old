@@ -41,5 +41,7 @@
 
 - **Ngày 2025-07-23:** FIT tăng từ 4.88 lên 4.92. Cây nến tăng có biên độ hẹp với mức cao 4.94 và mức thấp 4.82, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng lên 2.40 triệu đơn vị, cao hơn 40% so với phiên **No Supply** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ xác nhận thành công cho tín hiệu **No Supply** của phiên trước. Việc giá tăng và test lên 4.94 trên khối lượng tăng cho thấy lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn consolidation. Tín hiệu này xác nhận rằng quá trình test cung đã hoàn thành thành công và FIT sẵn sàng tiếp tục xu hướng tăng mạnh.
+- **Ngày 2025-07-24:** FIT tăng mạnh với gap lên từ 4.92 lên 5.26. Cây nến tăng có biên độ rộng với open 5.04, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch bùng nổ lên 8.03 triệu đơn vị, tăng 234% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận hoàn hảo cho tín hiệu **Effort to Rise** của phiên trước. Việc gap lên và tăng mạnh trên khối lượng bùng nổ cho thấy lực cầu đã chiếm ưu thế tuyệt đối và có thể có thông tin tích cực hoặc dòng tiền lớn chảy vào. Đây là tín hiệu tăng trưởng mạnh nhất kể từ đầu chu kỳ phân tích.
 
 

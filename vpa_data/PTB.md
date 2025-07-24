@@ -40,5 +40,7 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Fall** của hôm qua, PTB đã phá vỡ vùng hỗ trợ 55.0 và tiếp tục giảm. Tuy nhiên, việc giá đóng cửa gần mức cao nhất của phiên và khối lượng tăng cho thấy đây có thể là một phiên **Test for Demand** tại vùng giá thấp hơn. Lực cầu đã bắt đầu xuất hiện để hấp thụ áp lực bán, nhưng cần thêm xác nhận trong các phiên tiếp theo.
 - **Ngày 2025-07-23:** PTB tăng nhẹ từ 55.0 lên 54.8. Cây nến giảm có biên độ hẹp với mức cao nhất 55.4. Khối lượng giao dịch giảm (54.800 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Demand** của hôm qua, hành động giá hôm nay cho thấy tín hiệu **No Supply** tích cực. Mặc dù mở cửa cao nhưng giá đóng cửa thấp hơn, việc khối lượng giảm đáng kể cho thấy áp lực bán đã yếu đi. Đây là dấu hiệu tích cực cho thấy giai đoạn điều chỉnh có thể đang kết thúc và thị trường đang tìm kiếm sự cân bằng ở vùng giá 54.8-55.0.
+- **Ngày 2025-07-24:** PTB tăng nhẹ từ 54.8 lên 54.9. Cây nến tăng có biên độ rộng (spread 0.7) với mức cao nhất 55.5 và đóng cửa gần mức trung bình. Khối lượng giao dịch tăng mạnh (132.4k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** tích cực của phiên trước, phiên hôm nay thể hiện **Effort to Rise** rõ ràng. Việc giá test lên mức 55.5 với khối lượng tăng gấp đôi cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn tích lũy ở vùng 54.8-55.0. Mặc dù đóng cửa chưa được ở mức cao nhất nhưng việc khối lượng tăng vọt là dấu hiệu tích cực cho thấy áp lực điều chỉnh đã kết thúc và xu hướng hồi phục có thể bắt đầu.
 
 

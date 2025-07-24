@@ -60,5 +60,7 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Fall** của hôm qua, việc giá test xuống vùng 30.55 nhưng bứt phá mạnh lên 32.0 với khối lượng khổng lồ cho thấy tín hiệu **Test for Demand** cực kỳ mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán và hấp thụ hoàn toàn áp lực bán. Đây là tín hiệu tích cực mạnh mẽ cho xu hướng phục hồi.
 - **Ngày 2025-07-23:** SSI tiếp tục tăng từ 32.0 lên 32.25. Cây nến tăng có biên độ rộng với giá cao nhất 33.35. Khối lượng giao dịch giảm (43.85 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Test for Demand** cực kỳ mạnh mẽ của phiên trước, việc giá có thể test cao lên 33.35 nhưng khối lượng giảm cho thấy áp lực bán chốt lợi đã xuất hiện ở vùng giá cao. Tuy nhiên, việc giá vẫn duy trì được mức tăng 0.8% là dấu hiệu tích cực, cho thấy đây chỉ là nhịp nghỉ sau đợt phục hồi mạnh mẽ.
+- **Ngày 2025-07-24:** SSI giảm nhẹ từ 32.25 xuống 32.0. Cây nến giảm có biên độ hẹp với mức thấp nhất 31.35. Khối lượng giao dịch không đổi (43.17 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, hành động giá hôm nay thể hiện **Secondary Test** nhẹ. Việc giá giảm về mức đóng cửa phiên 22/7 với khối lượng tương đối ổn định cho thấy áp lực bán không quá mạnh và đây có thể là nhịp test lại vùng hỗ trợ. Hành động giá cho thấy thị trường đang trong giai đoạn tích lũy sau đợt bứt phá mạnh mẽ trước đó. Triển vọng trung tính với xu hướng tích cực.
 
 

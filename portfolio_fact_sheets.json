@@ -1,0 +1,266 @@
+{
+  "portfolio_fact_sheets": {
+    "BID": {
+      "ticker": "BID",
+      "holding_info": {
+        "average_buy_price": 38.567,
+        "shares_held": 300,
+        "unrealized_pnl_percent": 0.34,
+        "unrealized_pnl_amount": 39.9
+      },
+      "previous_recommendation": "Hold",
+      "current_price": 38.7,
+      "most_recent_daily_signal": {
+        "signal": "Sign of Strength",
+        "date": "2025-07-24",
+        "analysis": "SOS tích cực, vượt qua được thử thách Test for Supply của phiên trước. Việc giá mở cao hơn và đạt mức cao mới 39.65 trên khối lượng tăng vọt cho thấy lực cầu đã xuất hiện mạnh mẽ sau giai đoạn consolidate."
+      },
+      "daily_narrative_context": "Sau Test for Supply ngày 2025-07-23 thành công, BID cho thấy Sign of Strength mạnh mẽ với việc tạo đỉnh mới 39.65 và đóng cửa cao hơn phiên trước (38.85 vs 38.7) trên khối lượng tăng vọt 57%. Pattern tích cực mạnh xác nhận xu hướng tăng đã vượt qua giai đoạn kiểm tra.",
+      "weekly_context": {
+        "signal": "No Supply",
+        "week_ending_date": "2025-07-14",
+        "narrative": "No Supply tuần kết thúc 2025-07-14 sau Test for Supply, ngành ngân hàng duy trì 84.6% performer tích cực với sự tham gia mạnh mẽ của tổ chức, cấu trúc tăng giá vẫn nguyên vẹn"
+      },
+      "industry_group": "NGAN_HANG",
+      "industry_status": "Dẫn Dắt Đồng Thuận - 84.6% cổ phiếu có hiệu suất tích cực với sự luân chuyển tổ chức rõ ràng và Sign of Strength phổ biến",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "SSI": {
+      "ticker": "SSI", 
+      "holding_info": {
+        "average_buy_price": 31.975,
+        "shares_held": 800,
+        "unrealized_pnl_percent": 0.86,
+        "unrealized_pnl_amount": 220.0
+      },
+      "previous_recommendation": "Hold",
+      "current_price": 31.35,
+      "most_recent_daily_signal": {
+        "signal": "Test for Supply",
+        "date": "2025-07-24", 
+        "analysis": "Secondary Test nhẹ sau Test for Supply phiên trước. Việc giá giảm về mức đóng cửa phiên 22/7 với khối lượng tương đối ổn định cho thấy áp lực bán không quá mạnh và đây có thể là nhịp test lại vùng hỗ trợ."
+      },
+      "daily_narrative_context": "SSI trong giai đoạn tích lũy sau đợt Test for Demand mạnh mẽ ngày 2025-07-22. Test for Supply ngày 2025-07-23 với khối lượng giảm cho thấy healthy pullback, tiếp tục bởi Secondary Test nhẹ ngày 2025-07-24, thể hiện consolidation bình thường sau momentum mạnh.",
+      "weekly_context": {
+        "signal": "Sign of Strength", 
+        "week_ending_date": "2025-07-14",
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 với ngành chứng khoán dẫn đầu 100% positive performers, tín hiệu tổ chức mạnh và duy trì momentum, nhưng có cảnh báo climax risk"
+      },
+      "industry_group": "CHUNG_KHOAN",
+      "industry_status": "Dẫn Dắt Đồng Thuận - 100% cổ phiếu có hiệu suất tích cực với tín hiệu VPA chất lượng cao và sự tham gia mạnh mẽ của dòng tiền tổ chức",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "STB": {
+      "ticker": "STB",
+      "holding_info": {
+        "average_buy_price": 49.188,
+        "shares_held": 400,
+        "unrealized_pnl_percent": -0.99,
+        "unrealized_pnl_amount": -195.2
+      },
+      "previous_recommendation": "Sell",
+      "current_price": 48.5,
+      "most_recent_daily_signal": {
+        "signal": "Test for Demand",
+        "date": "2025-07-24",
+        "analysis": "Test for Demand sau SOW mạnh mẽ phiên trước. Việc giá phục hồi nhẹ lên 49.0 với khối lượng giảm mạnh cho thấy lực cầu có can thiệp nhưng chưa đủ mạnh. Đây là test ban đầu sau SOW."
+      },
+      "daily_narrative_context": "STB trải qua Sign of Weakness nguy hiểm ngày 2025-07-23 sau No Supply, với giá mở cao 49.7 nhưng bị bán mạnh xuống đóng cửa tại đáy phiên với khối lượng tăng vọt, phá vỡ cấu trúc tăng giá. Test for Demand yếu kém ngày 2025-07-24.",
+      "weekly_context": {
+        "signal": "Sign of Strength",
+        "week_ending_date": "2025-07-14", 
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 với STB dẫn đầu ngành ngân hàng +5.1% và volume tăng 46%, thể hiện áp lực mua áp đảo"
+      },
+      "industry_group": "NGAN_HANG",
+      "industry_status": "Dẫn Dắt Đồng Thuận - 84.6% cổ phiếu có hiệu suất tích cực với sự luân chuyển tổ chức rõ ràng và Sign of Strength phổ biến. STB đứng đầu ngành theo LEADER.md",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "VHM": {
+      "ticker": "VHM",
+      "holding_info": {
+        "average_buy_price": 93.700,
+        "shares_held": 100,
+        "unrealized_pnl_percent": -1.60,
+        "unrealized_pnl_amount": -150.0
+      },
+      "previous_recommendation": "Hold",
+      "current_price": 87.9,
+      "most_recent_daily_signal": {
+        "signal": "Others",
+        "date": "2025-07-24",
+        "analysis": "Test for Demand sau Secondary Test tiêu cực phiên trước. Việc giá test sâu xuống 87.9 và phục hồi về 92.0 với khối lượng gấp đôi cho thấy lực cầu đã xuất hiện mạnh mẽ để bảo vệ vùng support quan trọng."
+      },
+      "daily_narrative_context": "VHM trải qua Secondary Test tiêu cực ngày 2025-07-23 sau Automatic Rally, với giá mở cao nhưng bị bán mạnh xuống 92.2 trên khối lượng tăng. Test for Demand mạnh mẽ ngày 2025-07-24 với đuôi dài phía dưới từ 87.9 lên 92.0 và khối lượng bùng nổ 8.03M.",
+      "weekly_context": {
+        "signal": "Sign of Strength",
+        "week_ending_date": "2025-07-14",
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 với gap-up mạnh và volume tăng 16.4%, ngành bất động sản dẫn dắt với VHM ranking #2"
+      },
+      "industry_group": "BAT_DONG_SAN",
+      "industry_status": "Dẫn Dắt Đồng Thuận - Ngành dẫn dắt thị trường với 75% cổ phiếu có hiệu suất tích cực. VHM ranking #2 trong ngành với điểm dẫn dắt 107.0",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "VIX": {
+      "ticker": "VIX",
+      "holding_info": {
+        "average_buy_price": 18.937,
+        "shares_held": 200,
+        "unrealized_pnl_percent": 14.36,
+        "unrealized_pnl_amount": 542.6
+      },
+      "previous_recommendation": "Buy More",
+      "current_price": 21.4,
+      "most_recent_daily_signal": {
+        "signal": "Sign of Strength", 
+        "date": "2025-07-24",
+        "analysis": "SOS mạnh mẽ sau Effort to Rise phiên trước. Việc gap up và đóng cửa tại đỉnh ngày 22.5 là tín hiệu SOS rất mạnh mẽ. Việc giá phá vỡ hoàn toàn ngưỡng kháng cự 22.05 và thiết lập đỉnh mới cho thấy lực cầu đã hoàn toàn chiếm ưu thế."
+      },
+      "daily_narrative_context": "VIX trong giai đoạn acceleration mạnh mẽ với Effort to Rise ngày 2025-07-23 phá vỡ ngưỡng 21.0 chạm đỉnh mới 22.05, tiếp tục bởi SOS gap up ngày 2025-07-24 lên đỉnh mới 22.5. Xu hướng tăng đã bước vào giai đoạn acceleration với tiềm năng tiếp tục phá vỡ các kháng cự cao hơn.",
+      "weekly_context": {
+        "signal": "Sign of Strength",
+        "week_ending_date": "2025-07-14",
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 với VIX dẫn đầu ngành chứng khoán +99% YTD, đạt all-time high với volume kỷ lục"
+      },
+      "industry_group": "CHUNG_KHOAN",
+      "industry_status": "Dẫn Dắt Đồng Thuận - 100% cổ phiếu có hiệu suất tích cực. VIX dẫn đầu ngành với điểm dẫn dắt 93.0 và hiệu suất vượt trội +99%",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "VND": {
+      "ticker": "VND",
+      "holding_info": {
+        "average_buy_price": 18.426,
+        "shares_held": 1900,
+        "unrealized_pnl_percent": 6.10,
+        "unrealized_pnl_amount": 2135.6
+      },
+      "previous_recommendation": "Buy More", 
+      "current_price": 19.2,
+      "most_recent_daily_signal": {
+        "signal": "Effort to Rise",
+        "date": "2025-07-24",
+        "analysis": "Test for Supply sau Effort to Rise mạnh mẽ phiên trước. Việc giá tiếp tục tăng nhẹ và đóng cửa tại đỉnh ngày 19.8 với khối lượng giảm là tín hiệu Test for Supply rất tích cực. Khối lượng giảm trong bối cảnh giá vẫn tăng cho thấy No Supply."
+      },
+      "daily_narrative_context": "VND trong giai đoạn mở rộng xu hướng tăng mạnh với Effort to Rise breakthrough ngày 2025-07-23 phá vỡ ngưỡng 20.0 chạm đỉnh mới 20.15. Test for Supply tích cực ngày 2025-07-24 với No Supply cho thấy xu hướng tăng đang được consolidate vững chắc.",
+      "weekly_context": {
+        "signal": "Sign of Strength",
+        "week_ending_date": "2025-07-14",
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 với VND duy trì xu hướng tăng mạnh +51.92% YTD, ranking #2 trong ngành với volume tăng 22%"
+      },
+      "industry_group": "CHUNG_KHOAN", 
+      "industry_status": "Dẫn Dắt Đồng Thuận - 100% cổ phiếu có hiệu suất tích cực. VND ranking #2 trong ngành với điểm dẫn dắt 76.6 và tăng trưởng bền vững +52%",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "VPB": {
+      "ticker": "VPB",
+      "holding_info": {
+        "average_buy_price": 22.057,
+        "shares_held": 800,
+        "unrealized_pnl_percent": 5.86,
+        "unrealized_pnl_amount": 1034.4
+      },  
+      "previous_recommendation": "Buy More",
+      "current_price": 23.15,
+      "most_recent_daily_signal": {
+        "signal": "Sign of Strength",
+        "date": "2025-07-24",
+        "analysis": "Test for Supply sau SOS cực kỳ mạnh mẽ phiên trước. Việc gap up cao nhưng sau đó test xuống 23.15 và phục hồi về 23.5 với khối lượng giảm là phiên kiểm tra nguồn cung điển hình. Đuôi dài phía dưới cho thấy có lực cầu mạnh hỗ trợ."
+      },
+      "daily_narrative_context": "VPB trong giai đoạn bùng nổ mạnh mẽ với SOS gap-up breakout ngày 2025-07-23 phá vỡ ngưỡng 23.0 đạt đỉnh mới 23.6 trên khối lượng kỷ lục 73.93M. Test for Supply tích cực ngày 2025-07-24 cho thấy consolidation healthy sau đợt SOS mạnh.",
+      "weekly_context": {
+        "signal": "Sign of Strength",
+        "week_ending_date": "2025-07-14", 
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 với VPB tiếp tục momentum +15% YTD, ranking #2 trong ngành ngân hàng với institutional support mạnh"
+      },
+      "industry_group": "NGAN_HANG",
+      "industry_status": "Dẫn Dắt Đồng Thuận - 84.6% cổ phiếu có hiệu suất tích cực. VPB ranking #2 trong ngành với điểm dẫn dắt 65.8 và tăng trưởng bền vững +20%",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "CTS": {
+      "ticker": "CTS",
+      "holding_info": {
+        "average_buy_price": 37.825,
+        "shares_held": 400,
+        "unrealized_pnl_percent": -2.17,
+        "unrealized_pnl_amount": -330.0
+      },
+      "previous_recommendation": "Hold",
+      "current_price": 37.0,
+      "most_recent_daily_signal": {
+        "signal": "Buying Climax",
+        "date": "2025-07-24", 
+        "analysis": "Gap up liên tiếp với giá tăng mạnh nhưng spread thu hẹp và volume tăng đột biến có thể là dấu hiệu của buying climax. Cần cẩn trọng với khả năng có profit-taking mạnh trong các phiên tới."
+      },
+      "daily_narrative_context": "CTS trải qua chuỗi gap up mạnh mẽ từ ngày 2025-07-21 với SOS, tiếp tục No Supply ngày 2025-07-22, và Buying Climax ngày 2025-07-23 với gap up liên tiếp. Tín hiệu cảnh báo có thể cần điều chỉnh sau đợt tăng mạnh 3 ngày liên tiếp.",
+      "weekly_context": {
+        "signal": "Not available in weekly data", 
+        "week_ending_date": "2025-07-14",
+        "narrative": "CTS không xuất hiện trong danh sách weekly signals, có thể trong giai đoạn consolidation hoặc đang hình thành pattern mới"
+      },
+      "industry_group": "XAY_DUNG",
+      "industry_status": "Dẫn Dắt Phân Hóa - 2/3 cổ phiếu tích cực với CII dẫn dắt mạnh mẽ. Ngành hưởng lợi từ infrastructure và real estate recovery", 
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "HDB": {
+      "ticker": "HDB",
+      "holding_info": {
+        "average_buy_price": 27.150,
+        "shares_held": 400,
+        "unrealized_pnl_percent": -1.10,
+        "unrealized_pnl_amount": -120.0
+      },
+      "previous_recommendation": "Hold",
+      "current_price": 26.85,
+      "most_recent_daily_signal": {
+        "signal": "Sign of Strength",
+        "date": "2025-07-24",
+        "analysis": "SOS tiếp diễn mạnh mẽ hơn nữa. Tiếp nối tín hiệu SOS mạnh mẽ hôm trước, việc giá tiếp tục tăng với biên độ rộng và khối lượng tăng thêm 28% xác nhận xu hướng tăng mạnh là thật và bền vững."
+      },
+      "daily_narrative_context": "HDB thoát khỏi giai đoạn yếu kém và consolidation với SOS mạnh mẽ ngày 2025-07-22 (biên độ 1.1 điểm, khối lượng +70%), tiếp tục bởi SOS tiếp diễn mạnh mẽ hơn ngày 2025-07-23 với khối lượng tăng thêm 28%. Đang trong giai đoạn markup mạnh mẽ.",
+      "weekly_context": {
+        "signal": "Sign of Strength",
+        "week_ending_date": "2025-07-14",
+        "narrative": "Sign of Strength tuần kết thúc 2025-07-14 trong nhóm ngân hàng với sự phục hồi mạnh mẽ sau giai đoạn tích lũy"
+      },
+      "industry_group": "NGAN_HANG",
+      "industry_status": "Dẫn Dắt Đồng Thuận - 84.6% cổ phiếu có hiệu suất tích cực với sự luân chuyển tổ chức rõ ràng và Sign of Strength phổ biến",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    },
+    "HDC": {
+      "ticker": "HDC",
+      "holding_info": {
+        "average_buy_price": 32.350,
+        "shares_held": 200,
+        "unrealized_pnl_percent": -1.08,
+        "unrealized_pnl_amount": -68.0
+      },
+      "previous_recommendation": "Hold",
+      "current_price": 32.0,
+      "most_recent_daily_signal": {
+        "signal": "Sign of Strength",
+        "date": "2025-07-24",
+        "analysis": "Gap up và tăng mạnh với volume bùng nổ cho thấy breakout mạnh mẽ. Việc gap up và đóng cửa tại 32.2 với khối lượng tăng 49.1% thể hiện sự quan tâm mạnh mẽ của dòng tiền lớn."
+      },
+      "daily_narrative_context": "HDC cho thấy series tín hiệu tích cực với SOS ngày 2025-07-17, Test for Supply ngày 2025-07-18, Effort to Rise ngày 2025-07-21, No Supply ngày 2025-07-22, và SOS mạnh mẽ ngày 2025-07-23 với gap up và volume bùng nổ +49.1%.",
+      "weekly_context": {
+        "signal": "Not specified",
+        "week_ending_date": "2025-07-14",
+        "narrative": "HDC trong nhóm bất động sản có tín hiệu hỗ trợ từ ngành dẫn dắt đồng thuận"
+      },
+      "industry_group": "BAT_DONG_SAN",
+      "industry_status": "Dẫn Dắt Đồng Thuận - Ngành dẫn dắt thị trường với 75% cổ phiếu có hiệu suất tích cực. Dòng tiền tổ chức đang chảy mạnh vào toàn ngành",
+      "overall_market_context": "VNINDEX duy trì xu hướng tăng mạnh mẽ với Sign of Strength từ tuần kết thúc 2025-07-14. Phiên 2025-07-24 có 54 tín hiệu SOS lan rộng khắp các ngành, thể hiện sức mạnh và độ bền vững của đà tăng."
+    }
+  },
+  "summary": {
+    "total_tickers_processed": 10,
+    "data_extraction_date": "2025-07-24", 
+    "overall_portfolio_performance": "Mixed with 6/10 positions in profit",
+    "key_findings": [
+      "Banking sector (BID, HDB, VPB) showing strong institutional rotation with 84.6% positive performers",
+      "Securities sector (SSI, VIX, VND) leading with 100% positive performers and strong momentum",
+      "Real estate (VHM, HDC) in leading consensus phase with 75% sector participation",
+      "Construction (CTS) showing buying climax warning after strong 3-day rally",
+      "STB showing weakness with SOW breakdown despite sector strength"
+    ]
+  }
+}

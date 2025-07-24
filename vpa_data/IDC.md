@@ -62,3 +62,6 @@
 
 - **Ngày 2025-07-23:** IDC tăng từ 45.4 lên 46.0, mở cửa ở 45.5 và đạt mức cao nhất 46.4. Cây nến tăng có biên độ rộng và đóng cửa ở mức giá cao. Khối lượng giao dịch giảm nhẹ (2.09 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise**. Sau phiên **Test for Demand** thành công của ngày trước, sự tăng giá với việc đạt mức cao mới 46.4 cho thấy lực cầu đã vượt qua được kiểm tra và đang quay trở lại mạnh mẽ. Mặc dù khối lượng giảm nhẹ nhưng việc giá tăng tốt và đóng cửa gần mức cao cho thấy áp lực bán đã yếu đi (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực cho xu hướng phục hồi.
+- **Ngày 2025-07-24:** IDC tăng từ 46.0 lên 46.7. Cây nến tăng có biên độ rộng với mức cao 47.1 và mức thấp 45.8. Khối lượng giao dịch giảm nhẹ (1.96 triệu đơn vị), giảm 8% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp diễn. Sau tín hiệu **Effort to Rise** tích cực hôm trước, việc giá tiếp tục tăng và test lên mức cao 47.1 cho thấy lực cầu vẫn đang duy trì sức mạnh. Mặc dù khối lượng giảm nhẹ 8% nhưng việc giá tăng mạnh và đóng cửa gần mức cao cho thấy **No Supply** - áp lực bán đã suy yếu đáng kể, giúp phe mua dễ dàng đẩy giá lên. Sau chuỗi **Test for Demand** thành công và **Effort to Rise**, IDC đang củng cố xu hướng phục hồi và có tiềm năng tiếp tục tăng trong các phiên tới.
+

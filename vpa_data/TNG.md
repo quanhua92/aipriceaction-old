@@ -42,3 +42,5 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau chuỗi tín hiệu Effort to Rise tích cực, việc cổ phiếu gap lên và đóng cửa ở mức cao cho thấy sự bứt phá thành công qua vùng kháng cự 21.2. Mặc dù khối lượng giảm (từ 2.07M xuống 1.65M), nhưng việc không có áp lực bán nào đáng kể là tín hiệu tích cực, cho thấy smart money đã kiểm soát hoàn toàn và xu hướng tăng được khẳng định mạnh mẽ.
 
 
+- **Ngày 2025-07-24:** TNG tăng từ 21.3 lên 21.6 với đỉnh ngày đạt 21.9. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (2.8 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Tiếp nối tín hiệu SOS mạnh mẽ của phiên trước, TNG tiếp tục tăng mạnh với khối lượng bùng nổ (từ 1.65M lên 2.8M). Việc giá test cao lên 21.9 và đóng cửa mạnh tại 21.6 với volume tăng gấp đôi cho thấy smart money đang tích cực mua vào trong giai đoạn markup. Xu hướng tăng được xác nhận rất mạnh mẽ.

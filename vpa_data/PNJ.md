@@ -60,5 +60,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau **Test for Supply** không thành công của phiên trước. Việc giá phục hồi tốt từ vùng thấp với khối lượng tăng nhẹ cho thấy bóng dưới dài của phiên trước đã thể hiện đúng lực cầu hỗ trợ. Tín hiệu tích cực cho thấy vùng 85.0 có thể là vùng hỗ trợ quan trọng và xu hướng tăng có khả năng được phục hồi.
 - **Ngày 2025-07-23:** PNJ tăng nhẹ từ 85.9 lên 86.0. Cây nến tăng có biên độ hẹp (spread 0.7) với mức cao nhất 86.1. Khối lượng giao dịch giảm (382.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Test for Demand** tích cực của phiên trước, việc giá tăng nhẹ với khối lượng giảm cho thấy áp lực bán chốt lời đã xuất hiện ở vùng giá cao 86.0-86.1. Việc khối lượng giảm là dấu hiệu tích cực, cho thấy áp lực bán không mạnh và đây chỉ là nhịp nghỉ sau phục hồi, xu hướng tăng vẫn có thể tiếp diễn.
+- **Ngày 2025-07-24:** PNJ đi ngang ở mức 86.0. Cây nến doji có biên độ rộng (spread 1.2) với bóng dưới sâu xuống 85.1 và cao nhất 86.3. Khối lượng giao dịch tăng mạnh (560.3k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tiếp theo. Sau tín hiệu **Test for Supply** của phiên trước, việc giá test xuống vùng 85.1 nhưng phục hồi về 86.0 với khối lượng tăng mạnh cho thấy lực cầu đã xuất hiện mạnh mẽ ở vùng thấp. Biên độ dao động rộng nhưng đóng cửa không đổi thể hiện cuộc đấu tranh cân bằng giữa cung và cầu, với lực cầu cuối cùng chiếm ưu thế. Tín hiệu tích cực cho thấy vùng 85.0-85.1 tiếp tục là hỗ trợ vững chắc.
 
 

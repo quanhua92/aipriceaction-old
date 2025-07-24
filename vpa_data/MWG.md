@@ -60,5 +60,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau **Test for Supply** không thành công của phiên trước. Việc giá phục hồi nhẹ từ vùng thấp với khối lượng tăng cho thấy có lực cầu xuất hiện để đỡ giá. Bóng dưới dài của phiên trước và sự phục hồi hôm nay cho thấy vùng 70.0 có thể là vùng hỗ trợ quan trọng.
 - **Ngày 2025-07-23:** MWG tăng nhẹ từ 70.4 lên 70.5. Cây nến tăng có biên độ hẹp (spread 1.0) với mức cao nhất 71.0. Khối lượng giao dịch giảm nhẹ (7.53 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** sau **Test for Demand** của phiên trước. Việc giá tăng nhẹ và test vùng cao hơn (71.0) với khối lượng giảm cho thấy **Test for Demand** đã thành công và lực cầu đang duy trì. Mặc dù biên độ hẹp nhưng xu hướng vẫn tích cực, cho thấy vùng hỗ trợ 70.0 đã được xác nhận và giá có thể tiếp tục phục hồi.
+- **Ngày 2025-07-24:** MWG mở cửa ở 70.0 nhưng không thể duy trì và giảm về 69.5. Nến giảm có biên độ rộng với mức thấp nhất 68.8. Khối lượng giao dịch giảm (6.6 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** thất bại sau **Secondary Test (ST)** của phiên trước. Việc giá mở cửa tại vùng hỗ trợ 70.0 nhưng không thể duy trì và giảm mạnh xuống 68.8 với khối lượng giảm cho thấy lực cầu đã yếu đi. Mặc dù khối lượng giảm (giảm 12%) nhưng việc phá vỡ vùng hỗ trợ quan trọng 70.0 là tín hiệu cảnh báo rằng **Secondary Test** trước đó có thể đã thất bại và giá có thể cần test sâu hơn.
 
 

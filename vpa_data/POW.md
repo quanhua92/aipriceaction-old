@@ -54,5 +54,7 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** tích cực của hôm qua, hành động giá hôm nay cho thấy một tín hiệu **No Supply** rõ ràng. Việc giá đi ngang trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt và thị trường đang tích lũy ở vùng giá 13.95-14.0. Đây là tín hiệu tích cực cho xu hướng tăng tiếp theo.
 - **Ngày 2025-07-23:** POW tăng từ 14.1 lên 14.0. Cây nến tăng có biên độ rộng với mức cao nhất 14.25 và thấp nhất 13.9. Khối lượng giao dịch tăng (15.737.600 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, hành động giá hôm nay xác nhận một tín hiệu **Sign of Strength (SOS)** rõ ràng. Việc giá bứt phá khỏi vùng tích lũy 13.95-14.0 với khối lượng tăng mạnh cho thấy lực cầu đã quay trở lại quyết liệt. Mặc dù đóng cửa thấp hơn mở cửa nhưng vẫn duy trì trên vùng kháng cự cũ, đây là dấu hiệu tích cực cho xu hướng tăng tiếp theo.
+- **Ngày 2025-07-24:** POW đi ngang ở mức 14.0. Cây nến có biên độ hẹp (spread 0.3) với mức cao nhất 14.15 và thấp nhất 13.85. Khối lượng giao dịch giảm mạnh (9.08 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength (SOS)** của phiên trước, phiên hôm nay thể hiện **Test for Supply** điển hình. Việc giá đi ngang với biên độ thu hẹp và khối lượng giảm mạnh gần một nửa so với phiên trước cho thấy áp lực bán đã giảm đáng kể. Điều này xác nhận rằng đợt tích lũy đã thành công và lực cầu vẫn đang kiểm soát. Đây là dấu hiệu tích cực cho thấy giá sẵn sàng cho nhịp tăng tiếp theo.
 
 
