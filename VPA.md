@@ -1144,6 +1144,25 @@
 
 ---
 
+# CTS
+
+- **Ngày 2025-07-17:** CTS mở cửa tại 30.7 và đóng cửa tại 30.85 (+1.15%), tăng 0.35 điểm từ ngày trước. Thanh nến xanh có spread nhỏ 0.95 điểm (từ 30.0 đến 30.95), cho thấy sự vận động hạn chế. Khối lượng đạt 3.109.754 cổ phiếu, tăng 21.4% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Nến xanh nhỏ với spread hẹp nhưng khối lượng tăng cho thấy có sự quan tâm từ nhà đầu tư. Tuy nhiên, việc spread hẹp so với volume tăng có thể báo hiệu sự kháng cự ở vùng 31.0, cần theo dõi thêm.
+
+- **Ngày 2025-07-18:** CTS mở cửa tại 31.0 và đóng cửa tại 30.85 (0%), giá đóng cửa không đổi so với ngày trước. Thanh nến doji có spread 1.3 điểm (từ 30.4 đến 31.7), spread tăng so với ngày trước. Khối lượng giảm xuống 2.781.640 cổ phiếu (-10.6%).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Nến doji với spread rộng hơn nhưng volume giảm cho thấy có sự do dự của thị trường ở vùng 31.0. Việc giá không thể vượt qua mức kháng cự này với volume giảm báo hiệu cần có thêm động lực để bứt phá.
+
+- **Ngày 2025-07-21:** CTS mở cửa tại 33.0 (gap up mạnh) và đóng cửa tại 32.15 (+4.21%), tăng mạnh 1.3 điểm. Thanh nến xanh có spread 1.35 điểm (từ 31.65 đến 33.0), spread tương đương ngày trước. Khối lượng bùng nổ lên 4.915.684 cổ phiếu, tăng 76.7% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Gap up đáng kể kết hợp với volume bùng nổ cho thấy có tin tức hoặc thông tin tích cực mạnh. Mặc dù có profit-taking khiến giá đóng cửa thấp hơn mức cao nhất nhưng việc duy trì mức tăng 4.21% với volume cao là dấu hiệu rất tích cực.
+
+- **Ngày 2025-07-22:** CTS mở cửa tại 32.0 và đóng cửa tại 34.4 (+7.00%), tăng tiếp 2.25 điểm so với ngày trước. Thanh nến xanh có spread 2.7 điểm (từ 31.7 đến 34.4), spread mở rộng đáng kể. Khối lượng giảm xuống 3.836.364 cổ phiếu (-22.0%).
+    - **Phân tích VPA/Wyckoff:** **No Supply** - Mặc dù volume giảm nhưng giá vẫn tăng mạnh với spread rộng cho thấy áp lực bán rất yếu. Smart money tiếp tục đẩy giá lên mà không gặp nhiều kháng cự, đây là dấu hiệu của background strength mạnh.
+
+- **Ngày 2025-07-23:** CTS mở cửa tại 35.95 (gap up tiếp) và đóng cửa tại 36.8 (+6.98%), tăng tiếp 2.4 điểm. Thanh nến xanh có spread nhỏ 1.0 điểm (từ 35.8 đến 36.8), spread thu hẹp mạnh. Khối lượng tăng lên 6.619.340 cổ phiếu (+72.5%).
+    - **Phân tích VPA/Wyckoff:** **Buying Climax** - Gap up liên tiếp với giá tăng mạnh nhưng spread thu hẹp và volume tăng đột biến có thể là dấu hiệu của buying climax. Cần cẩn trọng với khả năng có profit-taking mạnh trong các phiên tới, CTS có thể cần điều chỉnh sau đợt tăng mạnh 3 ngày liên tiếp.
+
+---
+
 # DBC
 
 -   **Ngày 2025-06-16:** DBC tăng từ 30.3 lên 30.75. Nến tăng có biên độ hẹp và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (8,68 triệu đơn vị) so với phiên bùng nổ trước đó.
@@ -2430,6 +2449,25 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** rất mạnh mẽ. Sau tín hiệu **Effort to Rise** có cải thiện hôm trước, việc giá bùng nổ với biên độ rộng và khối lượng tăng 70% cho thấy lực cầu đã hoàn toàn áp đảo. Việc giá đóng cửa đúng tại mức cao nhất phiên (25.45) thể hiện sức mạnh rất tích cực. HDB đã chính thức thoát khỏi giai đoạn yếu kém và consolidation, bước vào xu hướng tăng mạnh mẽ với sự xác nhận rõ ràng từ khối lượng.
 - **Ngày 2025-07-23:** HDB tiếp tục bùng nổ từ 25.45 lên 26.5. Cây nến tăng có biên độ rộng (1.05 điểm) với mức cao 26.7 và mức thấp 25.65. Khối lượng giao dịch tăng mạnh (35.01 triệu đơn vị), tăng 28% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp diễn mạnh mẽ hơn nữa. Tiếp nối tín hiệu SOS mạnh mẽ hôm trước, việc giá tiếp tục tăng với biên độ rộng và khối lượng tăng thêm 28% xác nhận xu hướng tăng mạnh là thật và bền vững. Việc giá test lên mức cao 26.7 và đóng cửa tại 26.5 cho thấy lực cầu rất mạnh. HDB đang trong giai đoạn markup mạnh mẽ, tiếp tục xác nhận breakout thành công và đang trên đà phát triển xu hướng tăng dài hạn.
+
+---
+
+# HDC
+
+- **Ngày 2025-07-17:** HDC mở cửa tại 29.9 và đóng cửa tại 30.4 (+2.18%), tăng 0.65 điểm từ ngày trước. Thanh nến xanh có spread rộng 1.8 điểm (từ 29.7 đến 31.5), cho thấy sự vận động mạnh mẽ. Khối lượng đạt 9.275.218 cổ phiếu, tăng 24.5% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Nến xanh mạnh với spread rộng kết hợp khối lượng tăng đáng kể cho thấy có sự tham gia tích cực của các nhà đầu tư lớn. Giá vượt qua vùng kháng cự 30.0 với volume hỗ trợ mạnh, khẳng định momentum tăng.
+
+- **Ngày 2025-07-18:** HDC mở cửa tại 30.7 và đóng cửa tại 30.0 (-1.32%), giảm 0.4 điểm từ ngày trước. Thanh nến đỏ có spread 1.45 điểm (từ 29.75 đến 31.2), thu hẹp so với ngày trước. Khối lượng giảm xuống 7.880.084 cổ phiếu, giảm 15.0% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau ngày tăng mạnh, HDC có sự điều chỉnh nhẹ với spread thu hẹp và volume giảm. Giá test lại vùng 30.0 với áp lực bán không quá mạnh, cho thấy việc điều chỉnh là tự nhiên và nguồn cung hạn chế.
+
+- **Ngày 2025-07-21:** HDC mở cửa tại 30.1 và đóng cửa tại 30.25 (+0.83%), tăng nhẹ 0.25 điểm. Thanh nến xanh có spread rộng 2.05 điểm (từ 29.6 đến 31.65), spread tăng đáng kể so với ngày trước. Khối lượng tăng mạnh lên 9.132.987 cổ phiếu (+15.9%).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Mặc dù giá chỉ tăng nhẹ nhưng spread rộng và volume tăng mạnh cho thấy có cuộc tranh đấu gay gắt giữa người mua và người bán ở vùng 30.0-31.0. Việc giá duy trì trên 30.0 với volume cao là dấu hiệu tích cực.
+
+- **Ngày 2025-07-22:** HDC mở cửa tại 30.1 và đóng cửa tại 30.9 (+2.15%), tăng 0.65 điểm so với ngày trước. Thanh nến xanh có spread 1.7 điểm (từ 30.1 đến 31.8), spread thu hẹp nhẹ. Khối lượng giảm xuống 7.654.008 cổ phiếu (-16.2%).
+    - **Phân tích VPA/Wyckoff:** **No Supply** - Nến xanh với giá tăng tốt mặc dù volume giảm cho thấy áp lực bán rất yếu. Smart money tiếp tục tích lũy ở vùng này, việc volume giảm nhưng giá vẫn tăng là dấu hiệu của strength in the background.
+
+- **Ngày 2025-07-23:** HDC mở cửa tại 31.25 (gap up) và đóng cửa tại 32.2 (+4.21%), tăng mạnh 1.3 điểm. Thanh nến xanh có spread 1.6 điểm (từ 30.6 đến 32.2), cho thấy xu hướng tăng mạnh. Khối lượng bùng nổ lên 11.413.817 cổ phiếu, tăng 49.1% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Gap up kết hợp với nến xanh mạnh và volume bùng nổ cho thấy có dòng tiền lớn đổ vào. Giá vượt qua vùng kháng cự 31.0-32.0 một cách thuyết phục, HDC có thể đã bước vào giai đoạn markup với potential target cao hơn.
 
 ---
 
@@ -5399,6 +5437,25 @@
     - **Phân tích VPA/Wyckoff:** **Secondary Test (ST)** - Sau Test for Supply của phiên trước, phiên này thị trường tiếp tục kiểm tra độ bền vững của vùng hỗ trợ 34.9-35.0. Việc khối lượng tăng mạnh (từ 23.07M lên 26.85M) với giá hồi phục về 35.35 cho thấy có sức mua xuất hiện tại vùng thấp, đây là tín hiệu tích cực của quá trình tích lũy sau SOS.
 - **Ngày 2025-07-23:** TCB giảm từ 35.35 xuống 35.0 với mức thấp nhất vẫn là 34.9. Nến giảm có biên độ vừa phải và đóng cửa ở mức thấp gần nhất. Khối lượng giao dịch tăng nhẹ (27.84 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Tiếp nối Secondary Test của phiên trước, thị trường tiếp tục kiểm tra lực cầu tại vùng hỗ trợ quan trọng 34.9-35.0. Việc giá đóng cửa yếu hơn (35.0 so với 35.35) với khối lượng duy trì cao cho thấy áp lực bán vẫn hiện hữu, nhưng không đủ mạnh để phá vỡ hỗ trợ 34.9. Cần quan sát thêm để xác định hướng đi tiếp theo.
+
+---
+
+# TCH
+
+- **Ngày 2025-07-17:** TCH mở cửa tại 24.25 và đóng cửa tại 24.7 (+1.86%), tăng 0.45 điểm từ ngày trước. Thanh nến xanh có thân nến khá mạnh với spread 1.6 điểm (từ 24.1 đến 25.7). Khối lượng đạt 9.056.576 cổ phiếu, tăng 46.7% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Nến xanh mạnh với spread rộng kết hợp khối lượng tăng đáng kể cho thấy có áp lực mua mạnh từ các tay lớn. Giá vượt qua vùng kháng cự 24.5 với sự hỗ trợ của volume, khẳng định xu hướng tăng.
+
+- **Ngày 2025-07-18:** TCH mở cửa tại 24.9 và đóng cửa tại 24.5 (-0.81%), giảm 0.2 điểm từ ngày trước. Thanh nến đỏ có spread thu hẹp 1.0 điểm (từ 24.2 đến 25.2), nhỏ hơn nhiều so với ngày trước. Khối lượng giảm xuống 7.405.054 cổ phiếu, giảm 18.2% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau nến tăng mạnh ngày trước, TCH test lại vùng kháng cự với spread thu hẹp và volume giảm. Việc giá không giảm sâu dù có áp lực bán cho thấy nguồn cung hạn chế, đây là dấu hiệu tích cực cho xu hướng tăng.
+
+- **Ngày 2025-07-21:** TCH mở cửa tại 24.5 và đóng cửa tại 24.05 (-1.84%), giảm 0.45 điểm từ ngày cuối tuần trước. Thanh nến đỏ có spread 0.85 điểm (từ 24.05 đến 24.9), tiếp tục thu hẹp. Khối lượng tại 7.307.956 cổ phiếu, gần như không đổi so với phiên trước (-1.3%).
+    - **Phân tích VPA/Wyckoff:** **No Demand** - Nến đỏ với spread hẹp và volume tương đối thấp cho thấy thiếu sự quan tâm từ người mua. Giá test về vùng hỗ trợ 24.0 với áp lực bán yếu, có thể là giai đoạn tích lũy trước khi bứt phá.
+
+- **Ngày 2025-07-22:** TCH mở cửa tại 23.7 (gap down) và đóng cửa tại 24.6 (+2.29%), tăng mạnh 0.55 điểm. Thanh nến xanh có spread rộng 0.9 điểm (từ 23.7 đến 24.6), cho thấy sự phục hồi mạnh. Khối lượng tăng lên 7.584.002 cổ phiếu (+3.8%).
+    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Mặc dù gap down ở đầu phiên nhưng TCH đã phục hồi mạnh mẽ, đóng cửa gần đỉnh ngày với volume tăng nhẹ. Đây là dấu hiệu của sự can thiệp từ smart money, cho thấy vùng 23.7-24.0 là vùng hỗ trợ mạnh.
+
+- **Ngày 2025-07-23:** TCH mở cửa tại 24.95 (gap up) và đóng cửa tại 24.95 (+1.42%), tăng 0.35 điểm so với ngày trước. Thanh nến xanh có spread rộng 1.6 điểm (từ 24.5 đến 26.1), spread tăng đáng kể. Khối lượng bùng nổ lên 11.053.318 cổ phiếu, tăng 45.7% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Nến xanh mạnh với spread rộng kết hợp volume bùng nổ cho thấy có dòng tiền lớn đổ vào. Gap up kèm theo khối lượng cao và giá duy trì gần mức đóng cửa khẳng định xu hướng tăng mạnh, có thể bước vào giai đoạn markup.
 
 ---
 
