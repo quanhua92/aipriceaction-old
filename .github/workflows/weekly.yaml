@@ -62,29 +62,9 @@ jobs:
             echo "No dividend adjustments needed for weekly data"
           fi
 
-      # Step 6: Prepare ticker batches for parallel processing
-      - name: Prepare ticker batches
-        run: |
-          mkdir -p utilities/data
-          python utilities/split_tickers.py
-
-      # Step 7: Prepare VPA analysis context
-      - name: Prepare weekly VPA analysis context
-        run: python utilities/vpa_analysis_prep_week.py
-
       # Step 8: Run the main Python script to generate the new files.
       - name: Run data pipeline and generate report
         run: python main.py --week --check-dividend
-
-      # Step 9: Verify VPA analysis quality
-      - name: Verify weekly VPA analysis
-        run: |
-          if [ -d "vpa_data_week" ] && [ "$(ls -A vpa_data_week)" ]; then
-            echo "Running weekly VPA verification..."
-            python utilities/verify_vpa_week.py
-          else
-            echo "No VPA data to verify"
-          fi
 
       # Step 10: Combine only the last 40 lines of each market data file.
       - name: Combine last 40 lines of market data
