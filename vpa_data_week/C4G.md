@@ -14,3 +14,5 @@
     - **Phân tích VPA/Wyckoff:** Nỗ lực (khối lượng) tăng nhưng kết quả (giá) không tương xứng. Đây là tín hiệu của sự giăng co (churning) và **No Demand**, cho thấy phe mua đang gặp khó khăn trong việc đẩy giá lên, là một dấu hiệu yếu kém.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu No Demand của tuần trước, C4G có một tuần tăng giá đáng kể với nến tăng thân dài, đóng cửa (8.9) cao hơn đáng kể so với tuần trước. Khối lượng giao dịch tăng mạnh lên 13.7 triệu cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, phủ nhận các tín hiệu yếu trước đó. Lực cầu đã quay trở lại một cách quyết liệt, cho thấy khả năng bắt đầu một đợt tăng giá mới.
+- **Ngày 2025-07-21:** C4G tiếp tục xu hướng tăng với nến tăng biên độ hẹp, đóng cửa (9.0) cao hơn tuần trước và thiết lập mức cao mới. Khối lượng giao dịch giảm nhưng vẫn duy trì ở mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Xây dựng trên đà tăng mạnh của tuần trước, việc giá tiếp tục tạo đỉnh mới trên nền khối lượng giảm cho thấy áp lực bán đã cạn kiệt và xu hướng tăng đang được củng cố.

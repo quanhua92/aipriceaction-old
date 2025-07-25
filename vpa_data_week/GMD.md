@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, báo hiệu khả năng kết thúc đợt điều chỉnh.
 - **Ngày 2025-07-14:** GMD có một tuần điều chỉnh, giảm từ 60.2 xuống 57.2 (-5.0%) với biên độ rộng. Khối lượng giao dịch tăng nhẹ so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá điều chỉnh trên nền khối lượng tăng nhẹ cho thấy áp lực bán xuất hiện nhưng không quá mạnh. Cần theo dõi xem liệu GMD có thể phục hồi ở các tuần tiếp theo.
+- **Ngày 2025-07-21:** GMD có một tuần phục hồi, tăng từ 57.2 lên 58.4 (+2.1%) với biên độ giao dịch từ 56.1 đến 59.0. Khối lượng giao dịch giảm xuống 13.007.972 cp, thấp hơn tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau test for supply của tuần trước. Việc giá phục hồi trên nền khối lượng giảm là dấu hiệu tích cực, cho thấy áp lực bán đã yếu đi và xu hướng tăng có thể được khôi phục. Tuy nhiên, cần một nến tăng mạnh hơn để xác nhận sức mạnh.
 
 

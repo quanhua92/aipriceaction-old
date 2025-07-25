@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
 - **Ngày 2025-07-14:** VCG phục hồi mạnh mẽ với một tuần tăng giá tốt, từ 23.0 lên 23.35 (+2.4%). Nến tăng với thân dài, đỉnh tuần tại 24.0, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng lên 69.543.922 so với tuần trước (54.243.639).
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo. Việc giá tăng mạnh (+2.4%) kèm theo khối lượng tăng (+28%) cho thấy dòng tiền mua tiếp tục mạnh mẽ. Điều này khẳng định xu hướng tăng từ tín hiệu No Supply tuần trước, thể hiện sự tiếp tục của đà tăng giá.
+- **Ngày 2025-07-21:** Tiếp nối tín hiệu Sign of Strength của tuần trước, VCG có một tuần bùng nổ mạnh mẽ với nến tăng từ 23.55 lên 25.7 (+10.0%). Biên độ giao dịch 23.05-25.7, đóng cửa đỉnh tuần. Khối lượng giao dịch tăng vọt lên 87.906.084.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Climactic Action**. Việc giá tăng vọt (+10.0%) kèm theo khối lượng bùng nổ (+26%) sau hai tuần Sign of Strength liên tiếp cho thấy đây là một đợt climax mạnh mẽ. Mặc dù vẫn là dấu hiệu sức mạnh, nhưng sự tăng tốc quá nhanh này đã tạo ra rủi ro điều chỉnh cao trong các tuần tới.
 
 

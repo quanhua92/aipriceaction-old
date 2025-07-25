@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phản ứng tự nhiên sau một **Climax** và là một **Sign of Weakness**. Sự xuất hiện của áp lực bán mạnh ở vùng đỉnh xác nhận khả năng bắt đầu một giai đoạn phân phối hoặc điều chỉnh.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu yếu của tuần trước, ANV có một tuần phục hồi nhẹ với nến tăng nhỏ, đóng cửa (22.95) cao hơn tuần trước. Khối lượng giao dịch vẫn duy trì ở mức cao (20.5 triệu cp), gần bằng tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** hoặc **Automatic Rally** sau cú sốc của tuần trước. Việc giá có thể phục hồi trên nền khối lượng cao cho thấy vẫn còn lực cầu, nhưng cần xem khả năng duy trì xu hướng tăng hay sẽ tiếp tục điều chỉnh.
+- **Ngày 2025-07-21:** Xác nhận tín hiệu tích cực của tuần trước, ANV có một tuần tăng giá mạnh mẽ với nến tăng biên độ rộng từ 22.8 đến 24.9, đóng cửa (24.55) gần mức cao nhất tuần và thiết lập đỉnh mới. Khối lượng giao dịch tăng vọt lên 33.0 triệu cp, cao nhất kể từ tuần 30/6.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu từ hai tuần trước. Việc thiết lập đỉnh mới kết hợp với khối lượng gia tăng đáng kể cho thấy lực cầu đã quay trở lại quyết liệt và xu hướng tăng đang được tái khẳng định.
 
 

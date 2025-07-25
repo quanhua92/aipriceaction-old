@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-14:** MSH tiếp tục xu hướng tăng mạnh mẽ, nến tăng với biên độ tốt từ 37.65 lên 38.0. Giá đóng cửa cao hơn tuần trước và tạo đỉnh tuần mới tại 39.5. Khối lượng giao dịch tăng mạnh gần 59% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, tiếp nối tín hiệu mạnh từ tuần trước. Sự kết hợp giữa việc tăng giá và khối lượng tăng vọt cho thấy lực cầu institutional đang tích cực mua vào, củng cố xu hướng tăng.
+- **Ngày 2025-07-21:** MSH tiếp tục duy trì xu hướng tăng với nến tăng biên độ vừa phải, đóng cửa (38.45) cao hơn tuần trước. Giá dao động từ 37.0 đến 39.0. Khối lượng giao dịch tăng nhẹ lên 2.9 triệu so với 2.8 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau chuỗi Sign of Strength. Việc giá tiếp tục tăng với khối lượng duy trì ở mức cao cho thấy lực cầu vẫn đang kiểm soát, xu hướng tăng được củng cố và có thể tiếp tục.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng mạnh trên nền khối lượng thấp hơn là một tín hiệu **No Supply**, cho thấy phe bán đã yếu đi. Đây là một tín hiệu rất No Supply cho xu hướng tăng.
 - **Ngày 2025-07-14:** NTP tiếp tục xu hướng tăng với nến tăng có biên độ vừa phải, đóng cửa (68.9) cao hơn tuần trước. Giá tạo đỉnh tuần tại 69.3. Khối lượng giao dịch giảm nhẹ so với tuần trước nhưng vẫn ổn định.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, cho thấy xu hướng tăng được duy trì. Việc giá tăng trên khối lượng ổn định cho thấy lực cầu vẫn đang kiểm soát và tín hiệu No Supply tiếp tục có hiệu lực, hỗ trợ xu hướng tăng dài hạn.
+- **Ngày 2025-07-21:** Tiếp nối Sign of Strength tuần trước, NTP có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (69.0) từ 68.9 tuần trước. Giá dao động từ 67.1 đến 71.8 tạo đỉnh tuần mới. Khối lượng giao dịch tăng lên 2.9 triệu so với 1.8 triệu tuần trước (+59%).
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Việc giá tạo đỉnh mới và tăng trên nền khối lượng tăng vọt cho thấy lực cầu institutional đang tham gia tích cực. Mặc dù giá đóng cửa gần bằng tuần trước, việc tạo đỉnh mới với khối lượng cao là tín hiệu tích cực cho xu hướng tăng.
 
 

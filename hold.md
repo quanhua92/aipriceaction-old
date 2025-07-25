@@ -1,352 +1,383 @@
 # Kế Hoạch Quản Lý Danh Mục
 
-**Cập Nhật Lần Cuối:** 2025-07-24
+**Cập Nhật Lần Cuối:** 2025-07-26
 
 ## Dữ Liệu Danh Mục
 
 | Mã Cổ Phiếu | Giá Mua Trung Bình | Số Lượng Nắm Giữ |
 | :---------- | :----------------- | :--------------- |
-| BID         | 38.567             | 300              |
-| CTS         | 37.825             | 400              |
-| HDB         | 27.150             | 400              |
-| HDC         | 32.350             | 200              |
-| SSI         | 31.950             | 900              |
-| STB         | 49.188             | 400              |
-| VHM         | 91.267             | 300              |
-| VIX         | 18.937             | 200              |
-| VND         | 18.680             | 2400             |
-| VPB         | 22.370             | 1000             |
+| CTS         | 37.925             | 600              |
+| HDB         | 27.460             | 1000             |
+| HDC         | 32.625             | 400              |
+| MWG         | 69.650             | 200              |
+| SHB         | 15.114             | 700              |
+| SSI         | 32.159             | 1200             |
+| TCH         | 25.513             | 400              |
+| VHM         | 91.175             | 400              |
+| VIX         | 20.358             | 300              |
+| VND         | 18.806             | 2600             |
+| VPB         | 22.642             | 1200             |
 
-## Phân Tích
+## Phân tích
 
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
-VNINDEX duy trì đà tăng mạnh mẽ với 54 **Tín hiệu Sức mạnh (SOS)** lan tỏa trong phiên 2025-07-24, thể hiện sự mở rộng tích cực về sự tham gia của các tổ chức. Danh mục hiện tại thể hiện hiệu suất xuất sắc với tổng **Lãi/Lỗ chưa thực hiện** là +5.235.200 VND. VIX tiếp tục dẫn dắt (+18.82%), VND tăng trưởng bền vững (+6.00%), và VPB khẳng định đà tăng (+5.05%). 9/10 vị thế đang sinh lời (tỷ lệ thắng 90%), chỉ có STB ghi nhận một khoản lỗ nhỏ (-0.38%). Ngành Ngân hàng và Chứng khoán đều duy trì trạng thái "Dẫn dắt Đồng thuận", tạo nền tảng vững chắc để mở rộng sang các ngành khác.
+VNINDEX tiếp tục duy trì đà tăng mạnh mẽ tại mức 1531.13 điểm (+20.66% từ đầu năm) với 58 **Dấu Hiệu Sức Mạnh** lan tỏa toàn thị trường. Danh mục hiện tại thể hiện hiệu suất xuất sắc với tổng **Lãi/Lỗ chưa thực hiện** là +14.795.800 VND. VIX dẫn dắt với lợi nhuận ấn tượng (+18.11%), VND tăng trưởng bền vững (+12.46%), và VPB khẳng định sức mạnh (+6.22%). 10/11 vị thế đang sinh lời (tỷ lệ thắng 90.9%), chỉ có SHB ghi nhận khoản lỗ nhỏ (-0.42%). Ngành Chứng khoán dẫn dắt với 100% cổ phiếu tích cực, Ngân hàng và Bất động sản duy trì trạng thái "Dẫn dắt Đồng thuận".
 
-*   **Tóm Tắt Hành Động Đề Xuất:**
-    | Mã Cổ Phiếu | Trạng Thái Hiện Tại | Hành Động Đề Xuất |
-    | :---------- | :------------------ | :------------------------- |
-    | BID         | Tín hiệu Sức mạnh (SOS) phá vỡ mạnh | Mua Thêm (lực mua từ tổ chức) |
-    | CTS         | Tích lũy nhẹ | Nắm Giữ (theo dõi diễn biến) |
-    | HDB         | Tín hiệu Sức mạnh (SOS) với khối lượng tăng | Mua Thêm (ngành ngân hàng phục hồi) |
-    | HDC         | Tín hiệu Sức mạnh (SOS) phá vỡ vững chắc | Mua Thêm (đà tăng ngành bất động sản) |
-    | SSI         | Kiểm tra Nguồn cung (Test for Supply) lành mạnh | Nắm Giữ (dẫn dắt ngành) |
-    | STB         | Tín hiệu Suy yếu (SOW) nguy hiểm | Bán (xác nhận phá vỡ) |
-    | VHM         | Tích lũy đi ngang | Nắm Giữ (theo dõi vùng hỗ trợ) |
-    | VIX         | Tín hiệu Sức mạnh (SOS) tiếp diễn đà tăng | Nắm Giữ (bảo toàn lợi nhuận) |
-    | VND         | Nỗ lực Tăng giá (Effort to Rise) mạnh | Mua Thêm (sức mạnh tiếp diễn) |
-    | VPB         | Tín hiệu Sức mạnh (SOS) từ dòng tiền tổ chức | Nắm Giữ (vị thế mạnh) |
+* **Phân Bổ Danh Mục Theo Ngành:**
+  | Ngành | Các Mã Cổ Phiếu | Tỷ Trọng Danh Mục |
+  | :---- | :-------------- | :---------------- |
+  | Chứng Khoán | CTS, SSI, VIX, VND | 45.6% |
+  | Ngân Hàng | HDB, SHB, VPB | 25.5% |
+  | Bất Động Sản | HDC, TCH, VHM | 23.4% |
+  | Bán Lẻ | MWG | 5.5% |
+
+* **Tóm Tắt Hành Động Đề Xuất:**
+  | Mã Cổ Phiếu | Trạng Thái Hiện Tại | Hành Động Đề Xuất Ngắn Gọn |
+  | :---------- | :------------------ | :------------------------- |
+  | CTS         | Cao Trào Mua sau chuỗi tăng mạnh | Nắm Giữ (cần thận trọng) |
+  | HDB         | Dấu Hiệu Sức Mạnh tiếp diễn | Nắm Giữ (đã mua thêm trước đó) |
+  | HDC         | Dấu Hiệu Sức Mạnh bền vững | Nắm Giữ (đã mua thêm trước đó) |
+  | MWG         | Kiểm Tra Nguồn Cung lành mạnh | Nắm Giữ (tích lũy) |
+  | SHB         | Yếu tương đối so với ngành | Bán (hiệu suất kém) |
+  | SSI         | Dấu Hiệu Sức Mạnh dẫn dắt ngành | Mua Thêm (dẫn dắt ngành) |
+  | TCH         | Kiểm Tra Nguồn Cung tích cực | Nắm Giữ (chờ xác nhận) |
+  | VHM         | Nỗ Lực Tăng Giá sau kiểm tra | Mua Thêm (sức mạnh được xác nhận) |
+  | VIX         | Hồi Phục Tự Động đỉnh cao | Nắm Giữ (bảo toàn lợi nhuận) |
+  | VND         | Đột Phá mạnh mẽ | Mua Thêm (động lực mạnh) |
+  | VPB         | Nỗ Lực Tăng Giá bền vững | Mua Thêm (dẫn đầu ngành ngân hàng) |
 
 **2. Kế Hoạch Giao Dịch Chi Tiết**
 
-### **BID (Ngân Hàng)**
-![Biểu đồ Tuần](./reports_week/BID/BID_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/BID/BID_candlestick_chart.png)
-
-*   **Giá Mua Trung Bình:** 38.567
-*   **Số Lượng Nắm Giữ:** 300
-*   **Giá Hiện Tại:** 38.85
-*   **Lãi/Lỗ Chưa Thực Hiện:** +0.73% (+84.900)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần kết thúc ngày 2025-07-14 sau phiên **Kiểm tra Nguồn cung (Test for Supply)**. Ngành ngân hàng duy trì 84.6% cổ phiếu hiệu suất tích cực với sự tham gia mạnh mẽ của tổ chức, củng cố cấu trúc tăng giá.
-    *   **Bối Cảnh Ngày:** **Tín hiệu Sức mạnh (SOS)** trên khung ngày 2025-07-24 với giá kiểm tra mức cao 39.65 và khối lượng tăng vọt 57%, cho thấy lực mua mạnh mẽ của tổ chức sau giai đoạn tích lũy.
-*   **Hành Động Đề Xuất:** Mua Thêm
-    *   **Giá Đề Xuất:** Mua thêm ở mức 38.8 - 39.2
-    *   **Số Lượng Đề Xuất:** 200 cổ phiếu
-    *   **Lý Do:** Tín hiệu SOS ngày 2025-07-24 với khối lượng tăng 57% xác nhận lực mua của tổ chức, đáp ứng điều kiện #1A - tiếp diễn xu hướng tăng giá mạnh.
-*   **Điểm Dừng Lỗ:** 37.5 (bảo vệ dưới vùng hỗ trợ quan trọng)
-*   **Điểm Chốt Lời:** 40.5 - 41.0 (chốt lời từng phần), 42.5 - 43.0 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **TCB**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần với đà phục hồi +47.06% YTD, cơ hội để các tổ chức tái tham gia.
-    *   **MBB**: **Nỗ lực Tăng giá (Effort to Rise)** trên cả khung tuần và ngày, xếp hạng #1 ngành ngân hàng với sự tích lũy nhất quán.
-    *   **ACB**: **Không có Nguồn cung (No Supply)** trên khung tuần sau **Tín hiệu Sức mạnh (SOS)** cao trào, mô hình tích lũy lành mạnh cho sự tiếp diễn.
-
 ### **CTS (Chứng Khoán)**
-![Biểu đồ Tuần](./reports_week/CTS/CTS_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/CTS/CTS_candlestick_chart.png)
+![Weekly Chart](./reports_week/CTS/CTS_candlestick_chart.png)
+![Daily Chart](./reports/CTS/CTS_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 37.825
-*   **Số Lượng Nắm Giữ:** 400
-*   **Giá Hiện Tại:** 38.15
-*   **Lãi/Lỗ Chưa Thực Hiện:** +0.86% (+130.000)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Không có Nguồn cung (No Supply)** trên khung tuần kết thúc ngày 2025-07-14 sau đỉnh cao trào, khối lượng giảm cho thấy sự tích lũy lành mạnh, cấu trúc kỹ thuật vẫn tích cực.
-    *   **Bối Cảnh Ngày:** Tích lũy nhẹ trong ngày 2025-07-24 với biến động hẹp, chờ tín hiệu xác nhận để xác định hướng đi tiếp theo.
-*   **Hành Động Đề Xuất:** Nắm Giữ
-    *   **Vùng Giá Quan Sát:** 38.0 - 38.5
-    *   **Số Lượng:** Giữ nguyên 400 cổ phiếu
-    *   **Lý Do:** Tích lũy sau cao trào cho thấy sự tạm dừng lành mạnh, cần tín hiệu xác nhận để ra quyết định tiếp theo.
-*   **Điểm Dừng Lỗ:** 36.8 (bảo vệ dưới vùng hỗ trợ gần nhất)
-*   **Điểm Chốt Lời:** 39.5 - 40.0 (chốt lời từng phần), 41.5 - 42.0 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **VCI**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với hiệu suất +26.33% YTD, đà tăng nhất quán và lực mua từ các tổ chức.
-    *   **MBS**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần, **Nỗ lực Tăng giá (Effort to Rise)** trên khung ngày, câu chuyện phục hồi mạnh mẽ.
-    *   **BSI**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần và ngày (2025-07-24), đà phá vỡ mới.
+* **Giá Mua Trung Bình:** 37.925
+* **Số Lượng Nắm Giữ:** 600
+* **Giá Hiện Tại:** 40.70
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +7.31% (+1.665)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** trên khung tuần với hiệu suất +63.45% từ đầu năm, ngành chứng khoán duy trì 100% cổ phiếu tích cực
+  * **Bối Cảnh Ngày:** **Cao Trào Mua** ngày 2025-07-25 sau chuỗi tăng giá mạnh liên tiếp, cần thận trọng với tín hiệu đỉnh điểm mua
+* **Hành Động Đề Xuất:** Nắm Giữ
+  * **Giá Đề Xuất:** Giữ nguyên vị thế tại vùng 40.5-41.0
+  * **Số Lượng Đề Xuất:** Giữ nguyên 600 cổ phiếu
+  * **Lý Do Hành Động:** Đỉnh điểm mua sau chuỗi tăng mạnh cần giai đoạn củng cố, duy trì vị thế trong ngành dẫn dắt
+* **Điểm Dừng Lỗ:** 38.5 (bảo vệ dưới vùng hỗ trợ gần nhất)
+* **Điểm Chốt Lời:** 42.0-42.5 (chốt lời từng phần), 44.0-44.5 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VCI**: **Dấu Hiệu Sức Mạnh** trên khung tuần với hiệu suất +26.33% ổn định hơn CTS
+  * **MBS**: **Dấu Hiệu Sức Mạnh** trên khung tuần với câu chuyện phục hồi mạnh mẽ
+  * **BSI**: **Dấu Hiệu Sức Mạnh** trên cả khung tuần và ngày với đặc tính đột phá mới
 
 ### **HDB (Ngân Hàng)**
-![Biểu đồ Tuần](./reports_week/HDB/HDB_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/HDB/HDB_candlestick_chart.png)
+![Weekly Chart](./reports_week/HDB/HDB_candlestick_chart.png)
+![Daily Chart](./reports/HDB/HDB_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 27.150
-*   **Số Lượng Nắm Giữ:** 400
-*   **Giá Hiện Tại:** 27.60
-*   **Lãi/Lỗ Chưa Thực Hiện:** +1.66% (+180.000)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với đà phục hồi, ngành ngân hàng đang trong giai đoạn tích lũy mạnh của các tổ chức.
-    *   **Bối Cảnh Ngày:** **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 với xác nhận từ khối lượng, phá vỡ khỏi vùng tích lũy cho thấy sự quan tâm mua mới.
-*   **Hành Động Đề Xuất:** Mua Thêm
-    *   **Giá Đề Xuất:** Mua thêm ở mức 27.5 - 28.0
-    *   **Số Lượng Đề Xuất:** 200 cổ phiếu
-    *   **Lý Do:** Tín hiệu SOS ngày 2025-07-24 xác nhận sức mạnh trên khung tuần, sự phục hồi của ngành ngân hàng với hỗ trợ từ các tổ chức, đáp ứng điều kiện #1A.
-*   **Điểm Dừng Lỗ:** 26.5 (bảo vệ dưới ngưỡng phá vỡ)
-*   **Điểm Chốt Lời:** 29.0 - 29.5 (chốt lời từng phần), 31.0 - 31.5 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **TCB**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần với beta cao hơn và đà phục hồi mạnh mẽ hơn.
-    *   **MBB**: **Nỗ lực Tăng giá (Effort to Rise)** trên cả khung tuần và ngày, xếp hạng #1 ngành ngân hàng với tăng trưởng ổn định.
-    *   **ACB**: Tích lũy trong pha **Không có Nguồn cung (No Supply)** sau đợt tăng giá bùng nổ, cơ hội tích lũy tốt.
+* **Giá Mua Trung Bình:** 27.460
+* **Số Lượng Nắm Giữ:** 1000
+* **Giá Hiện Tại:** 28.25
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +2.88% (+790)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Cao Trào Mua** trên khung tuần với tăng +15.8% và khối lượng bùng nổ, ngành ngân hàng 84.6% cổ phiếu tích cực
+  * **Bối Cảnh Ngày:** **Dấu Hiệu Sức Mạnh** tiếp diễn với sự tích lũy của tổ chức, động lực vẫn mạnh
+* **Hành Động Đề Xuất:** Nắm Giữ
+  * **Giá Đề Xuất:** Duy trì vị thế tại vùng 28.0-28.5
+  * **Số Lượng Đề Xuất:** Giữ nguyên 1000 cổ phiếu
+  * **Lý Do Hành Động:** Đã thực hiện mua thêm trước đó thành công, Đỉnh điểm mua cần giai đoạn củng cố
+* **Điểm Dừng Lỗ:** 26.8 (bảo vệ dưới vùng hỗ trợ quan trọng)
+* **Điểm Chốt Lời:** 29.5-30.0 (chốt lời từng phần), 31.0-31.5 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **ACB**: **Dấu Hiệu Sức Mạnh** với các giai đoạn Không Có Nguồn Cung lành mạnh hơn
+  * **MBB**: **Dấu Hiệu Sức Mạnh** với xếp hạng #1 ngành ngân hàng
+  * **TCB**: **Nỗ Lực Tăng Giá** với động lực phục hồi mạnh, ít mở rộng quá mức hơn
 
 ### **HDC (Bất Động Sản)**
-![Biểu đồ Tuần](./reports_week/HDC/HDC_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/HDC/HDC_candlestick_chart.png)
+![Weekly Chart](./reports_week/HDC/HDC_candlestick_chart.png)
+![Daily Chart](./reports/HDC/HDC_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 32.350
-*   **Số Lượng Nắm Giữ:** 200
-*   **Giá Hiện Tại:** 32.95
-*   **Lãi/Lỗ Chưa Thực Hiện:** +1.85% (+120.000)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với sự phục hồi của ngành bất động sản, dòng tiền của tổ chức chảy vào các vị thế dẫn dắt ngành.
-    *   **Bối Cảnh Ngày:** **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 với đà tăng phá vỡ, ngành bất động sản hưởng lợi từ sự hỗ trợ của chính sách.
-*   **Hành Động Đề Xuất:** Mua Thêm
-    *   **Giá Đề Xuất:** Mua thêm ở mức 32.8 - 33.3
-    *   **Số Lượng Đề Xuất:** 100 cổ phiếu
-    *   **Lý Do:** Tín hiệu SOS ngày 2025-07-24 trong một ngành đang có sức mạnh, chủ đề phục hồi của ngành bất động sản với chất xúc tác từ chính sách, đáp ứng điều kiện #1A.
-*   **Điểm Dừng Lỗ:** 31.8 (bảo vệ dưới vùng hỗ trợ gần đây)
-*   **Điểm Chốt Lời:** 34.5 - 35.0 (chốt lời từng phần), 36.5 - 37.0 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **VIC**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với hiệu suất +193.83% YTD, cổ phiếu dẫn đầu ngành bất động sản.
-    *   **PDR**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với sự đột biến về khối lượng (tăng 45%), mô hình phá vỡ bùng nổ.
-    *   **VRE**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần với hiệu suất +71.22% YTD, đà tăng trưởng ổn định.
+* **Giá Mua Trung Bình:** 32.625
+* **Số Lượng Nắm Giữ:** 400
+* **Giá Hiện Tại:** 33.00
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +1.15% (+150)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** với đột phá +27% và khối lượng tổ chức bùng nổ, bất động sản xếp hạng #2
+  * **Bối Cảnh Ngày:** **Dấu Hiệu Sức Mạnh** tiếp diễn với sự hỗ trợ chính sách cho ngành
+* **Hành Động Đề Xuất:** Nắm Giữ
+  * **Giá Đề Xuất:** Duy trì vị thế tại vùng 32.8-33.3
+  * **Số Lượng Đề Xuất:** Giữ nguyên 400 cổ phiếu
+  * **Lý Do Hành Động:** Đã thực hiện mua thêm trước đó, ngành bất động sản duy trì sức mạnh
+* **Điểm Dừng Lỗ:** 31.5 (bảo vệ dưới vùng hỗ trợ phá vỡ)
+* **Điểm Chốt Lời:** 34.5-35.0 (chốt lời từng phần), 36.0-36.5 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VIC**: **Dấu Hiệu Sức Mạnh** với hiệu suất +194% dẫn dắt ngành
+  * **PDR**: **Dấu Hiệu Sức Mạnh** với khối lượng bùng nổ +45%
+  * **VRE**: **Nỗ Lực Tăng Giá** với hiệu suất +70% ổn định
+
+### **MWG (Bán Lẻ)**
+![Weekly Chart](./reports_week/MWG/MWG_candlestick_chart.png)
+![Daily Chart](./reports/MWG/MWG_candlestick_chart.png)
+
+* **Giá Mua Trung Bình:** 69.650
+* **Số Lượng Nắm Giữ:** 200
+* **Giá Hiện Tại:** 70.10
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +0.65% (+90)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Nỗ Lực Tăng Giá** với xu hướng phục hồi ngành bán lẻ, MWG dẫn dắt với 75% độ rộng ngành
+  * **Bối Cảnh Ngày:** **Kiểm Tra Nguồn Cung** lành mạnh sau đợt tiến, củng cố tích cực
+* **Hành Động Đề Xuất:** Nắm Giữ
+  * **Giá Đề Xuất:** Duy trì vị thế tại vùng 69.5-70.5
+  * **Số Lượng Đề Xuất:** Giữ nguyên 200 cổ phiếu
+  * **Lý Do Hành Động:** Kiểm tra nguồn cung cho thấy giai đoạn củng cố lành mạnh, chủ đề phục hồi tiêu dùng
+* **Điểm Dừng Lỗ:** 67.5 (bảo vệ dưới ngưỡng hỗ trợ quan trọng)
+* **Điểm Chốt Lời:** 72.5-73.0 (chốt lời từng phần), 75.0-76.0 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **PNJ**: **Dấu Hiệu Sức Mạnh** với khối lượng tăng 72% trong ngành bán lẻ
+  * **DGW**: **Dấu Hiệu Sức Mạnh** với đột phá bùng nổ và khối lượng mạnh
+  * **FRT**: **Dấu Hiệu Sức Mạnh** với phục hồi mạnh và xác nhận khối lượng
+
+### **SHB (Ngân Hàng)**
+![Weekly Chart](./reports_week/SHB/SHB_candlestick_chart.png)
+![Daily Chart](./reports/SHB/SHB_candlestick_chart.png)
+
+* **Giá Mua Trung Bình:** 15.114
+* **Số Lượng Nắm Giữ:** 700
+* **Giá Hiện Tại:** 15.05
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -0.42% (-44.8)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** với đột phá +6% và khối lượng tăng 24%, nhưng yếu so với ngành
+  * **Bối Cảnh Ngày:** **Nỗ Lực Tăng Giá** nhưng yếu hơn rõ rệt (relative weakness) so với các ngân hàng khác
+* **Hành Động Đề Xuất:** Bán
+  * **Giá Đề Xuất:** Bán tại giá thị trường 15.0-15.1
+  * **Số Lượng Đề Xuất:** Bán 700 cổ phiếu (toàn bộ vị thế)
+  * **Lý Do Hành Động:** Yếu hơn so với ngành mạnh, không tham gia được đà tăng chung
+* **Điểm Dừng Lỗ:** Không áp dụng (đã quyết định bán)
+* **Điểm Chốt Lời:** Không áp dụng (vị thế lỗ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VPB**: **Dấu Hiệu Sức Mạnh** với tăng +11.3% và khối lượng mạnh
+  * **MBB**: **Dấu Hiệu Sức Mạnh** với xếp hạng #1 ngành ngân hàng
+  * **ACB**: **Dấu Hiệu Sức Mạnh** với giai đoạn tích lũy Không Có Nguồn Cung tốt
 
 ### **SSI (Chứng Khoán)**
-![Biểu đồ Tuần](./reports_week/SSI/SSI_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/SSI/SSI_candlestick_chart.png)
+![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart.png)
+![Daily Chart](./reports/SSI/SSI_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 31.950
-*   **Số Lượng Nắm Giữ:** 900
-*   **Giá Hiện Tại:** 32.00
-*   **Lãi/Lỗ Chưa Thực Hiện:** +0.16% (+45.000)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với 100% cổ phiếu ngành chứng khoán có hiệu suất tích cực, vai trò dẫn dắt của các tổ chức được duy trì.
-    *   **Bối Cảnh Ngày:** **Kiểm tra Nguồn cung (Test for Supply)** ngày 2025-07-24 sau đà tăng mạnh, mô hình tích lũy lành mạnh cho thấy sự hấp thụ ở mức giá cao.
-*   **Hành Động Đề Xuất:** Nắm Giữ
-    *   **Vùng Giá Quan Sát:** 31.8 - 32.5
-    *   **Số Lượng:** Giữ nguyên 900 cổ phiếu
-    *   **Lý Do:** Phiên **Kiểm tra Nguồn cung (Test for Supply)** cho thấy sự tích lũy lành mạnh sau đợt tăng giá mạnh, vai trò dẫn dắt ngành được giữ vững, đà tăng trước đó được duy trì.
-*   **Điểm Dừng Lỗ:** 31.0 (bảo vệ dưới ngưỡng hỗ trợ quan trọng)
-*   **Điểm Chốt Lời:** 33.5 - 34.0 (chốt lời từng phần), 35.5 - 36.0 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **VCI**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với hiệu suất +26.33% YTD, đà tăng nhất quán và lực mua từ các tổ chức.
-    *   **MBS**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần, **Nỗ lực Tăng giá (Effort to Rise)** trên khung ngày, câu chuyện phục hồi mạnh mẽ.
-    *   **BSI**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần và ngày (2025-07-24), đà phá vỡ mới.
+* **Giá Mua Trung Bình:** 32.159
+* **Số Lượng Nắm Giữ:** 1200
+* **Giá Hiện Tại:** 34.00
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +5.72% (+2.209.2)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Hành Động Cao Trào** với 3 tuần Dấu Hiệu Sức Mạnh liên tiếp, ngành chứng khoán 100% tích cực
+  * **Bối Cảnh Ngày:** **Dấu Hiệu Sức Mạnh** duy trì vai trò dẫn dắt ngành
+* **Hành Động Đề Xuất:** Mua Thêm
+  * **Giá Đề Xuất:** Mua thêm tại vùng 33.8-34.2
+  * **Số Lượng Đề Xuất:** 200 cổ phiếu
+  * **Lý Do Hành Động:** Dẫn dắt ngành chứng khoán mạnh, Dấu Hiệu Sức Mạnh tiếp diễn với vai trò dẫn dắt ngành
+* **Điểm Dừng Lỗ:** 32.0 (bảo vệ dưới mức giá vào lệnh cũ)
+* **Điểm Chốt Lời:** 35.5-36.0 (chốt lời từng phần), 37.5-38.0 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VCI**: **Dấu Hiệu Sức Mạnh** với hiệu suất +26.33% ổn định
+  * **MBS**: **Dấu Hiệu Sức Mạnh** với câu chuyện phục hồi mạnh
+  * **VND**: **Dấu Hiệu Sức Mạnh** với tăng +13.4% và tích lũy tổ chức
 
-### **STB (Ngân Hàng)**
-![Biểu đồ Tuần](./reports_week/STB/STB_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/STB/STB_candlestick_chart.png)
+### **TCH (Bất Động Sản)**
+![Weekly Chart](./reports_week/TCH/TCH_candlestick_chart.png)
+![Daily Chart](./reports/TCH/TCH_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 49.188
-*   **Số Lượng Nắm Giữ:** 400
-*   **Giá Hiện Tại:** 49.00
-*   **Lãi/Lỗ Chưa Thực Hiện:** -0.38% (-75.200)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với STB dẫn dắt ngành ngân hàng (+5.1%), khối lượng tăng 46% cho thấy sự quan tâm của các tổ chức.
-    *   **Bối Cảnh Ngày:** **Tín hiệu Suy yếu (SOW)** ngày 2025-07-24 tiếp diễn từ ngày trước, mô hình phá vỡ xuống với áp lực bán, suy yếu về mặt kỹ thuật.
-*   **Hành Động Đề Xuất:** Bán
-    *   **Giá Đề Xuất:** Bán ngay tại giá thị trường 48.8 - 49.2
-    *   **Số Lượng Đề Xuất:** Bán 200 cổ phiếu (giảm 50% vị thế)
-    *   **Lý Do:** **Tín hiệu Suy yếu (SOW)** ngày 2025-07-24 xác nhận mô hình phá vỡ từ ngày trước, sức mạnh trên khung tuần không còn hiệu lực, đáp ứng điều kiện #1C.
-*   **Điểm Dừng Lỗ:** 47.5 (bảo vệ cho phần vị thế còn lại)
-*   **Điểm Chốt Lời:** Không áp dụng (vị thế đang lỗ và giá đã phá vỡ xuống)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **TCB**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần với đà phục hồi, lựa chọn an toàn hơn trong ngành ngân hàng.
-    *   **MBB**: **Nỗ lực Tăng giá (Effort to Rise)** trên cả khung tuần và ngày, xếp hạng #1 ngành ngân hàng với sự ổn định.
-    *   **ACB**: Tích lũy trong pha **Không có Nguồn cung (No Supply)**, mô hình lành mạnh hơn so với sự phá vỡ của STB.
+* **Giá Mua Trung Bình:** 25.513
+* **Số Lượng Nắm Giữ:** 400
+* **Giá Hiện Tại:** 25.60
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +0.34% (+34.8)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Nỗ Lực Tăng Giá** với +4.5% tăng giá (advance) trong ngành bất động sản mạnh
+  * **Bối Cảnh Ngày:** **Kiểm Tra Nguồn Cung** tích cực với khối lượng phục hồi +19.8%
+* **Hành Động Đề Xuất:** Nắm Giữ
+  * **Giá Đề Xuất:** Duy trì vị thế tại vùng 25.4-25.8
+  * **Số Lượng Đề Xuất:** Giữ nguyên 400 cổ phiếu
+  * **Lý Do Hành Động:** Kiểm tra nguồn cung tích cực, chờ xác nhận để nâng cấp
+* **Điểm Dừng Lỗ:** 24.5 (bảo vệ dưới vùng hỗ trợ gần nhất)
+* **Điểm Chốt Lời:** 26.8-27.2 (chốt lời từng phần), 28.0-28.5 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VHM**: **Không Có Nguồn Cung** sau chuỗi Dấu Hiệu Sức Mạnh, củng cố lành mạnh hơn
+  * **VIC**: **Dấu Hiệu Sức Mạnh** với +194% dẫn dắt ngành rõ ràng
+  * **SSH**: **Dấu Hiệu Sức Mạnh** trong cùng ngành bất động sản
 
 ### **VHM (Bất Động Sản)**
-![Biểu đồ Tuần](./reports_week/VHM/VHM_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/VHM/VHM_candlestick_chart.png)
+![Weekly Chart](./reports_week/VHM/VHM_candlestick_chart.png)
+![Daily Chart](./reports/VHM/VHM_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 91.267
-*   **Số Lượng Nắm Giữ:** 300
-*   **Giá Hiện Tại:** 92.00
-*   **Lãi/Lỗ Chưa Thực Hiện:** +0.80% (+219.900)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với khoảng trống giá tăng và khối lượng tăng 16.4%, ngành bất động sản xếp hạng #2 về vai trò dẫn dắt.
-    *   **Bối Cảnh Ngày:** Tích lũy đi ngang trong ngày 2025-07-24, tín hiệu trung lập cho thấy sự do dự tại các mức giá hiện tại.
-*   **Hành Động Đề Xuất:** Nắm Giữ
-    *   **Vùng Giá Quan Sát:** 91.5 - 92.5
-    *   **Số Lượng:** Giữ nguyên 300 cổ phiếu
-    *   **Lý Do:** Tích lũy sau khi thể hiện sức mạnh trên khung tuần, cần theo dõi phản ứng tại các ngưỡng quan trọng, nền tảng trên khung tuần vẫn còn nguyên vẹn.
-*   **Điểm Dừng Lỗ:** 89.5 (bảo vệ dưới ngưỡng hỗ trợ chính)
-*   **Điểm Chốt Lời:** 94.5 - 95.0 (chốt lời từng phần), 97.0 - 98.0 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **VIC**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với hiệu suất +193.83% YTD, cổ phiếu dẫn dắt ngành rõ ràng.
-    *   **PDR**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với sự đột biến về khối lượng (tăng 45%), đà tăng phá vỡ bùng nổ.
-    *   **VRE**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần với hiệu suất +71.22% YTD, mô hình tăng giá nhất quán.
+* **Giá Mua Trung Bình:** 91.175
+* **Số Lượng Nắm Giữ:** 400
+* **Giá Hiện Tại:** 93.70
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +2.77% (+1.010)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Không Có Nguồn Cung** sau chuỗi Dấu Hiệu Sức Mạnh, củng cố lành mạnh với khối lượng giảm
+  * **Bối Cảnh Ngày:** **Nỗ Lực Tăng Giá** sau Kiểm Tra Cầu thành công, động lực tích cực trở lại
+* **Hành Động Đề Xuất:** Mua Thêm
+  * **Giá Đề Xuất:** Mua thêm tại vùng 93.5-94.0
+  * **Số Lượng Đề Xuất:** 100 cổ phiếu
+  * **Lý Do Hành Động:** Nỗ lực tăng giá xác nhận sức mạnh sau kiểm tra thành công, ngành bất động sản duy trì vai trò dẫn dắt (leadership)
+* **Điểm Dừng Lỗ:** 90.5 (bảo vệ dưới vùng kiểm tra gần nhất)
+* **Điểm Chốt Lời:** 96.0-96.5 (chốt lời từng phần), 98.5-99.0 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VIC**: **Dấu Hiệu Sức Mạnh** với động lực mạnh hơn cùng ngành
+  * **PDR**: **Dấu Hiệu Sức Mạnh** với đặc tính khối lượng bùng nổ
+  * **VRE**: **Nỗ Lực Tăng Giá** với mô hình ổn định +70%
 
 ### **VIX (Chứng Khoán)**
-![Biểu đồ Tuần](./reports_week/VIX/VIX_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/VIX/VIX_candlestick_chart.png)
+![Weekly Chart](./reports_week/VIX/VIX_candlestick_chart.png)
+![Daily Chart](./reports/VIX/VIX_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 18.937
-*   **Số Lượng Nắm Giữ:** 200
-*   **Giá Hiện Tại:** 22.50
-*   **Lãi/Lỗ Chưa Thực Hiện:** +18.82% (+712.600)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với VIX dẫn đầu ngành chứng khoán (+99% YTD), đạt mức cao nhất mọi thời đại với khối lượng kỷ lục.
-    *   **Bối Cảnh Ngày:** **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 tiếp diễn đà tăng, dòng tiền của tổ chức duy trì ở mức cao cho cổ phiếu dẫn dắt ngành.
-*   **Hành Động Đề Xuất:** Nắm Giữ
-    *   **Vùng Giá Mục Tiêu:** Bảo toàn lợi nhuận tại vùng 22.3 - 22.8
-    *   **Số Lượng:** Giữ nguyên 200 cổ phiếu
-    *   **Lý Do:** Vị thế đã có lợi nhuận lớn (+18.82%), tín hiệu SOS tiếp diễn nhưng cần bảo toàn lợi nhuận khi giá ở gần mức cao nhất mọi thời đại.
-*   **Điểm Dừng Lỗ:** 21.0 (bảo vệ khoản lợi nhuận lớn)
-*   **Điểm Chốt Lời:** 23.5 - 24.0 (chốt lời từng phần), 25.0 - 25.5 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **VND**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung ngày với lực mua từ tổ chức, ít bị kéo dài hơn so với VIX.
-    *   **MBS**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần, **Nỗ lực Tăng giá (Effort to Rise)** trên khung ngày, hồ sơ rủi ro/lợi nhuận tốt.
-    *   **VCI**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với đà tăng nhất quán, biến động thấp hơn.
+* **Giá Mua Trung Bình:** 20.358
+* **Số Lượng Nắm Giữ:** 300
+* **Giá Hiện Tại:** 24.05
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +18.11% (+1.107.6)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** với tăng +27.6% đạt đỉnh lịch sử, dẫn dắt ngành
+  * **Bối Cảnh Ngày:** **Hồi Phục Tự Động** với bước nhảy lên +6.89% đạt đỉnh mới 24.05
+* **Hành Động Đề Xuất:** Nắm Giữ
+  * **Giá Đề Xuất:** Bảo toàn lợi nhuận tại vùng 23.8-24.3
+  * **Số Lượng Đề Xuất:** Giữ nguyên 300 cổ phiếu
+  * **Lý Do Hành Động:** Lợi nhuận lớn (+18.11%) cần bảo toàn, dù động lực vẫn mạnh
+* **Điểm Dừng Lỗ:** 22.5 (bảo vệ phần lớn lợi nhuận)
+* **Điểm Chốt Lời:** 25.0-25.5 (chốt lời từng phần), 26.5-27.0 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VND**: **Dấu Hiệu Sức Mạnh** với điểm vào hấp dẫn hơn
+  * **MBS**: **Dấu Hiệu Sức Mạnh** với hồ sơ rủi ro cân bằng hơn
+  * **VCI**: **Dấu Hiệu Sức Mạnh** với tích lũy ổn định +26.33%
 
 ### **VND (Chứng Khoán)**
-![Biểu đồ Tuần](./reports_week/VND/VND_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/VND/VND_candlestick_chart.png)
+![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png)
+![Daily Chart](./reports/VND/VND_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 18.680
-*   **Số Lượng Nắm Giữ:** 2400
-*   **Giá Hiện Tại:** 19.80
-*   **Lãi/Lỗ Chưa Thực Hiện:** +6.00% (+2.688.000)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với VND xếp hạng #2 ngành chứng khoán (+51.92% YTD), khối lượng tăng 22% cho thấy sự tích lũy của tổ chức.
-    *   **Bối Cảnh Ngày:** **Nỗ lực Tăng giá (Effort to Rise)** ngày 2025-07-24 với đà tăng mới, mô hình mua của tổ chức tiếp diễn với sự hỗ trợ tốt từ khối lượng.
-*   **Hành Động Đề Xuất:** Mua Thêm
-    *   **Giá Đề Xuất:** Mua thêm ở mức 19.7 - 20.1
-    *   **Số Lượng Đề Xuất:** 200 cổ phiếu
-    *   **Lý Do:** **Nỗ lực Tăng giá (Effort to Rise)** ngày 2025-07-24 xác nhận sức mạnh trên khung tuần, sự tích lũy của tổ chức tiếp diễn, đáp ứng điều kiện #1A.
-*   **Điểm Dừng Lỗ:** 18.8 (bảo vệ dưới mức giá vào lệnh)
-*   **Điểm Chốt Lời:** 21.0 - 21.5 (chốt lời từng phần), 22.5 - 23.0 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **VIX**: **Tín hiệu Sức mạnh (SOS)** trên khung ngày với hiệu suất +99% YTD, đà tăng cao hơn mặc dù đã kéo dài.
-    *   **MBS**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần, **Nỗ lực Tăng giá (Effort to Rise)** trên khung ngày, hồ sơ rủi ro/lợi nhuận cân bằng.
-    *   **VCI**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần với hiệu suất +26.33% YTD, sự tích lũy ổn định của các tổ chức.
+* **Giá Mua Trung Bình:** 18.806
+* **Số Lượng Nắm Giữ:** 2600
+* **Giá Hiện Tại:** 21.15
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +12.46% (+6.094.4)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** với tăng +13.4% và khối lượng bùng phát 29.7%
+  * **Bối Cảnh Ngày:** **Đột Phá** mạnh mẽ với khối lượng tăng +88.7% phá vỡ ngưỡng 20.0
+* **Hành Động Đề Xuất:** Mua Thêm
+  * **Giá Đề Xuất:** Mua thêm tại vùng 21.0-21.3
+  * **Số Lượng Đề Xuất:** 400 cổ phiếu
+  * **Lý Do Hành Động:** Phá vỡ mạnh mẽ với khối lượng bùng nổ xác nhận động lực tiếp diễn
+* **Điểm Dừng Lỗ:** 19.8 (bảo vệ dưới vùng phá vỡ)
+* **Điểm Chốt Lời:** 22.5-23.0 (chốt lời từng phần), 24.0-24.5 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **VCI**: **Dấu Hiệu Sức Mạnh** với tích lũy tổ chức nhất quán
+  * **MBS**: **Dấu Hiệu Sức Mạnh** với động lực phục hồi mạnh
+  * **BSI**: **Dấu Hiệu Sức Mạnh** với đặc tính đột phá tươi mới
 
 ### **VPB (Ngân Hàng)**
-![Biểu đồ Tuần](./reports_week/VPB/VPB_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/VPB/VPB_candlestick_chart.png)
+![Weekly Chart](./reports_week/VPB/VPB_candlestick_chart.png)
+![Daily Chart](./reports/VPB/VPB_candlestick_chart.png)
 
-*   **Giá Mua Trung Bình:** 22.370
-*   **Số Lượng Nắm Giữ:** 1000
-*   **Giá Hiện Tại:** 23.50
-*   **Lãi/Lỗ Chưa Thực Hiện:** +5.05% (+1.130.000)
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với VPB xếp hạng #2 ngành ngân hàng (+15% YTD), sự hỗ trợ từ các tổ chức mạnh mẽ và nhất quán.
-    *   **Bối Cảnh Ngày:** **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 tiếp diễn dòng tiền của tổ chức, vai trò dẫn dắt ngành ngân hàng với đà tăng mạnh được duy trì.
-*   **Hành Động Đề Xuất:** Nắm Giữ
-    *   **Vùng Giá Mục Tiêu:** Bảo toàn vị thế tại vùng 23.3 - 23.8
-    *   **Số Lượng:** Giữ nguyên 1000 cổ phiếu
-    *   **Lý Do:** Vị thế đang có lợi nhuận tốt (+5.05%), tín hiệu SOS tiếp diễn nhưng đã có thành công từ lần Mua Thêm trước đó, duy trì vị thế mạnh.
-*   **Điểm Dừng Lỗ:** 22.5 (bảo vệ lợi nhuận trên mức giá vào lệnh)
-*   **Điểm Chốt Lời:** 24.5 - 25.0 (chốt lời từng phần), 26.0 - 26.5 (chốt lời toàn bộ)
-*   **Top 3 Cổ Phiếu Thay Thế:**
-    *   **TCB**: **Nỗ lực Tăng giá (Effort to Rise)** trên khung tuần với tiềm năng phục hồi cao hơn, cơ hội tích lũy tốt.
-    *   **MBB**: **Nỗ lực Tăng giá (Effort to Rise)** trên cả khung tuần và ngày, xếp hạng #1 ngành ngân hàng với hiệu suất nhất quán.
-    *   **ACB**: Tích lũy trong pha **Không có Nguồn cung (No Supply)** sau đợt tăng giá bùng nổ, mô hình lành mạnh cho sự tiếp diễn.
+* **Giá Mua Trung Bình:** 22.642
+* **Số Lượng Nắm Giữ:** 1200
+* **Giá Hiện Tại:** 24.05
+* **Lãi/Lỗ (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +6.22% (+1.689.6)
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** với tăng +11.3% và khối lượng tăng 20.3%
+  * **Bối Cảnh Ngày:** **Nỗ Lực Tăng Giá** tiếp tục với động lực mạnh, xác nhận xu hướng tăng
+* **Hành Động Đề Xuất:** Mua Thêm
+  * **Giá Đề Xuất:** Mua thêm tại vùng 23.9-24.2
+  * **Số Lượng Đề Xuất:** 200 cổ phiếu
+  * **Lý Do Hành Động:** Nỗ lực tăng giá xác nhận sức mạnh, VPB dẫn dắt ngành ngân hàng
+* **Điểm Dừng Lỗ:** 22.8 (bảo vệ lợi nhuận trên mức vào lệnh)
+* **Điểm Chốt Lời:** 25.5-26.0 (chốt lời từng phần), 27.0-27.5 (chốt lời toàn bộ)
+* **Top 3 Cổ Phiếu Thay Thế:**
+  * **MBB**: **Dấu Hiệu Sức Mạnh** với xếp hạng #1 ngành ngân hàng
+  * **ACB**: **Dấu Hiệu Sức Mạnh** với giai đoạn tích lũy Không Có Nguồn Cung tốt
+  * **TCB**: **Nỗ Lực Tăng Giá** với tiềm năng phục hồi, điểm vào (entry) ít mở rộng quá mức
 
-**3. Kế Hoạch Mở Rộng Danh Mục**
+**3. Kế Hoạch Gia Tăng Chi Tiết**
 
-*Top 3 cổ phiếu tiềm năng để đa dạng hóa danh mục*
+*Top 3 cổ phiếu đa dạng ngành để mở rộng danh mục - giảm rủi ro, tăng lợi nhuận*
 
-| Mã Cổ Phiếu | Ngành | Tín hiệu VPA chính | Lý do lựa chọn |
+| Mã Cổ Phiếu | Ngành | Tín Hiệu VPA Chính | Lý Do Lựa Chọn |
 | :---------- | :---- | :----------------- | :-------------- |
-| HPG         | Thép | **Kiểm tra Nguồn cung (Test for Supply)** tuần 2025-07-14 | Dẫn đầu ngành thép, tích lũy lành mạnh sau cao trào, hưởng lợi từ sự phục hồi của ngành xây dựng hạ tầng. |
-| MSN         | Thực Phẩm | **Tín hiệu Sức mạnh (SOS)** tuần 2025-07-14 | Dẫn đầu ngành thực phẩm, chủ đề phục hồi tiêu dùng, đặc tính phòng thủ. |
-| REE         | Năng Lượng | **Tín hiệu Sức mạnh (SOS)** tuần 2025-07-14 | Dẫn đầu ngành năng lượng, hưởng lợi từ chuyển đổi năng lượng tái tạo và hiện đại hóa cơ sở hạ tầng. |
+| HPG         | Thép | **Test for Supply** tuần 2025-07-14 | Điểm vào xuất sắc sau climax, ngành thép hưởng lợi từ đầu tư hạ tầng |
+| MSN         | Thực Phẩm | **Sign of Strength** tuần 2025-07-14 | Dẫn dắt ngành với đặc tính phòng thủ, phục hồi tiêu dùng |
+| REE         | Năng Lượng | **Effort to Rise** tuần 2025-07-14 | Chuyển đổi năng lượng tái tạo, chưa overextended |
 
 ### **HPG (Thép)**
-![Biểu đồ Tuần](./reports_week/HPG/HPG_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/HPG/HPG_candlestick_chart.png)
+![Weekly Chart](./reports_week/HPG/HPG_candlestick_chart.png)
+![Daily Chart](./reports/HPG/HPG_candlestick_chart.png)
 
-*   **Giá Mua Đề Xuất:** 25.5 - 26.0
-*   **Số Lượng Đề Xuất:** 300 cổ phiếu
-*   **Giá Hiện Tại:** 25.9
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Kiểm tra Nguồn cung (Test for Supply)** trên khung tuần kết thúc ngày 2025-07-14 sau đỉnh cao trào với khối lượng giảm dần, mô hình hấp thụ lành mạnh cho thấy sự tích lũy của tổ chức.
-    *   **Bối Cảnh Ngày:** Tích lũy ở các mức giá cao với sự hỗ trợ từ khối lượng, vị thế dẫn đầu ngành thép với 95% độ tin cậy từ chất xúc tác chi tiêu cho cơ sở hạ tầng.
-*   **Hành Động Đề Xuất:** Mua
-    *   **Giá Đề Xuất:** 25.5 - 26.0
-    *   **Số Lượng Đề Xuất:** 300 cổ phiếu
-    *   **Lý Do:** Phiên **Kiểm tra Nguồn cung (Test for Supply)** trên khung tuần cho thấy sự tích lũy lành mạnh sau đợt tăng giá bùng nổ, dẫn đầu ngành thép với chủ đề phục hồi cơ sở hạ tầng.
-*   **Điểm Dừng Lỗ:** 24.5 (bảo vệ dưới vùng hỗ trợ của giai đoạn tích lũy)
-*   **Điểm Chốt Lời:** 27.5 - 28.0 (chốt lời từng phần), 29.5 - 30.0 (chốt lời toàn bộ)
+* **Giá Mua Đề Xuất:** 25.5-26.0
+* **Số Lượng Đề Xuất:** 300 cổ phiếu
+* **Giá Hiện Tại:** 25.9
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Kiểm Tra Nguồn Cung** sau đợt tăng cao trào - điểm vào xuất sắc với sự điều chỉnh tối thiểu
+  * **Bối Cảnh Ngày:** Củng cố (consolidation) lành mạnh với khối lượng giảm, không có áp lực bán lớn
+* **Hành Động Đề Xuất:** Mua
+  * **Giá Đề Xuất:** 25.5-26.0
+  * **Số Lượng Đề Xuất:** 300 cổ phiếu
+  * **Lý Do Hành Động:** Kiểm tra nguồn cung với điểm vào tuyệt vời, ngành thép hưởng lợi từ chi tiêu hạ tầng
+* **Điểm Dừng Lỗ:** 24.8 (bảo vệ dưới vùng kiểm tra)
+* **Điểm Chốt Lời:** 27.5-28.0 (chốt lời từng phần), 29.5-30.0 (chốt lời toàn bộ)
 
 ### **MSN (Thực Phẩm)**
-![Biểu đồ Tuần](./reports_week/MSN/MSN_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/MSN/MSN_candlestick_chart.png)
+![Weekly Chart](./reports_week/MSN/MSN_candlestick_chart.png)
+![Daily Chart](./reports/MSN/MSN_candlestick_chart.png)
 
-*   **Giá Mua Đề Xuất:** 78.5 - 79.5
-*   **Số Lượng Đề Xuất:** 100 cổ phiếu
-*   **Giá Hiện Tại:** 79.1
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với đà tăng tiếp diễn, khối lượng từ các tổ chức tăng 13%, vị thế dẫn đầu ngành thực phẩm.
-    *   **Bối Cảnh Ngày:** Đà tăng từ **Nỗ lực Tăng giá (Effort to Rise)** tiếp tục với việc phá vỡ lên các đỉnh cao mới, chủ đề phục hồi chi tiêu tiêu dùng với đặc tính phòng thủ.
-*   **Hành Động Đề Xuất:** Mua
-    *   **Giá Đề Xuất:** 78.5 - 79.5
-    *   **Số Lượng Đề Xuất:** 100 cổ phiếu
-    *   **Lý Do:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần với độ tin cậy 100% về vị thế dẫn đầu ngành thực phẩm, chủ đề phục hồi tiêu dùng và đặc tính phòng thủ.
-*   **Điểm Dừng Lỗ:** 76.5 (bảo vệ dưới ngưỡng phá vỡ)
-*   **Điểm Chốt Lời:** 82.0 - 83.0 (chốt lời từng phần), 86.0 - 88.0 (chốt lời toàn bộ)
+* **Giá Mua Đề Xuất:** 78.5-79.5
+* **Số Lượng Đề Xuất:** 100 cổ phiếu
+* **Giá Hiện Tại:** 79.1
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Dấu Hiệu Sức Mạnh** với vai trò dẫn dắt ngành +18.48% và khối lượng tăng 13%
+  * **Bối Cảnh Ngày:** Đà tăng ổn định với đặc tính phòng thủ, phục hồi tiêu dùng
+* **Hành Động Đề Xuất:** Mua
+  * **Giá Đề Xuất:** 78.5-79.5
+  * **Số Lượng Đề Xuất:** 100 cổ phiếu
+  * **Lý Do Hành Động:** Dẫn dắt ngành thực phẩm với đặc tính phòng thủ, cân bằng danh mục
+* **Điểm Dừng Lỗ:** 76.5 (bảo vệ dưới ngưỡng hỗ trợ)
+* **Điểm Chốt Lời:** 82.0-83.0 (chốt lời từng phần), 85.5-86.0 (chốt lời toàn bộ)
 
 ### **REE (Năng Lượng)**
-![Biểu đồ Tuần](./reports_week/REE/REE_candlestick_chart.png)
-![Biểu đồ Ngày](./reports/REE/REE_candlestick_chart.png)
+![Weekly Chart](./reports_week/REE/REE_candlestick_chart.png)
+![Daily Chart](./reports/REE/REE_candlestick_chart.png)
 
-*   **Giá Mua Đề Xuất:** 68.0 - 69.0
-*   **Số Lượng Đề Xuất:** 100 cổ phiếu
-*   **Giá Hiện Tại:** 68.5
-*   **Phân Tích VPA Hiện Tại:**
-    *   **Bối Cảnh Tuần:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần kết thúc ngày 2025-07-14 với sự phục hồi từ giai đoạn tích lũy, hỗ trợ từ khối lượng và chủ đề năng lượng tái tạo.
-    *   **Bối Cảnh Ngày:** Đà tăng từ **Nỗ lực Tăng giá (Effort to Rise)** sau một phiên kiểm tra thành công, vị thế dẫn đầu ngành năng lượng với 90% độ tin cậy, chất xúc tác từ việc hiện đại hóa cơ sở hạ tầng.
-*   **Hành Động Đề Xuất:** Mua
-    *   **Giá Đề Xuất:** 68.0 - 69.0
-    *   **Số Lượng Đề Xuất:** 100 cổ phiếu
-    *   **Lý Do:** **Tín hiệu Sức mạnh (SOS)** trên khung tuần với vị thế dẫn đầu ngành năng lượng, hưởng lợi từ chủ đề chuyển đổi năng lượng tái tạo và chi tiêu cho cơ sở hạ tầng.
-*   **Điểm Dừng Lỗ:** 65.0 (bảo vệ dưới ngưỡng hỗ trợ)
-*   **Điểm Chốt Lời:** 72.0 - 73.0 (chốt lời từng phần), 75.0 - 76.0 (chốt lời toàn bộ)
+* **Giá Mua Đề Xuất:** 68.0-69.0
+* **Số Lượng Đề Xuất:** 100 cổ phiếu
+* **Giá Hiện Tại:** 68.5
+* **Phân Tích VPA Hiện Tại:**
+  * **Bối Cảnh Tuần:** **Nỗ Lực Tăng Giá** với chủ đề chuyển đổi năng lượng tái tạo
+  * **Bối Cảnh Ngày:** Phục hồi giai đoạn đầu (Early-stage recovery) từ nền tích lũy, chưa mở rộng quá mức
+* **Hành Động Đề Xuất:** Mua
+  * **Giá Đề Xuất:** 68.0-69.0
+  * **Số Lượng Đề Xuất:** 100 cổ phiếu
+  * **Lý Do Hành Động:** Cơ hội xoay vòng ngành (sector rotation opportunity), hưởng lợi từ hiện đại hóa cơ sở hạ tầng
+* **Điểm Dừng Lỗ:** 65.5 (bảo vệ dưới vùng tích lũy)
+* **Điểm Chốt Lời:** 71.5-72.0 (chốt lời từng phần), 74.5-75.0 (chốt lời toàn bộ)
 
-**4. Nhật Ký Điều Chỉnh Kế Hoạch**
+**4. Nhật Ký Thay Đổi Kế Hoạch**
 
-*   **Chuyển từ 'Nắm Giữ' sang 'Mua Thêm':**
-    *   **BID**: **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 với khối lượng tăng vọt 57%, xác nhận lực mua từ các tổ chức, đáp ứng điều kiện #1A.
-    *   **HDB**: **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 phá vỡ khỏi vùng tích lũy, chủ đề phục hồi ngành ngân hàng với sự hỗ trợ của tổ chức, đáp ứng điều kiện #1A.
-    *   **HDC**: **Tín hiệu Sức mạnh (SOS)** ngày 2025-07-24 trong bối cảnh đà tăng của ngành bất động sản, được hỗ trợ từ chính sách xúc tác, đáp ứng điều kiện #1A.
-    *   **VND**: **Nỗ lực Tăng giá (Effort to Rise)** ngày 2025-07-24 xác nhận sức mạnh trên khung tuần, sự tích lũy của tổ chức tiếp diễn, đáp ứng điều kiện #1A.
+* **Chuyển Từ Nắm Giữ (Hold) sang Mua Thêm (Buy More):**
+  * **SSI**: Dấu Hiệu Sức Mạnh tiếp diễn với vai trò dẫn dắt ngành, ngành chứng khoán 100% tích cực
+  * **VHM**: Nỗ Lực Tăng Giá sau Kiểm Tra Cầu thành công, xác nhận sức mạnh trong ngành dẫn dắt
+  * **VND**: Đột Phá mạnh mẽ với khối lượng bùng nổ +88.7%, động lực rất mạnh
+  * **VPB**: Nỗ Lực Tăng Giá xác nhận xu hướng tăng, dẫn dắt ngành ngân hàng
 
-*   **Chuyển từ 'Mua Thêm' sang 'Nắm Giữ':**
-    *   **VIX**: Vị thế đã có lợi nhuận lớn (+18.82%), tín hiệu SOS tiếp diễn nhưng cần bảo toàn lợi nhuận khi giá ở gần mức cao nhất mọi thời đại.
-    *   **VPB**: Vị thế đang có lợi nhuận tốt (+5.05%), tín hiệu SOS tiếp diễn nhưng đã có thành công từ lần 'Mua Thêm' trước đó, duy trì vị thế mạnh.
+* **Chuyển Từ Nắm Giữ (Hold) sang Bán (Sell):**
+  * **SHB**: Yếu tương đối so với ngành trong ngành mạnh, không tham gia được đà tăng chung của ngành ngân hàng
 
-*   **Tiếp tục 'Nắm Giữ':**
-    *   **SSI**: **Kiểm tra Nguồn cung (Test for Supply)** ngày 2025-07-24 cho thấy sự tích lũy lành mạnh sau đợt tăng giá mạnh, vai trò dẫn dắt ngành được giữ vững.
-    *   **VHM**: Tích lũy đi ngang sau khi thể hiện sức mạnh trên khung tuần, cần theo dõi phản ứng tại các ngưỡng quan trọng.
-    *   **CTS**: Tích lũy sau cao trào, cần các tín hiệu xác nhận.
+* **Tiếp Tục Nắm Giữ (Hold):**
+  * **CTS**: Cao Trào Mua cần thận trọng, duy trì vị thế trong ngành dẫn dắt
+  * **HDB**: Đã mua thêm trước đó thành công, Đỉnh điểm mua cần giai đoạn củng cố
+  * **HDC**: Đã mua thêm trước đó, ngành bất động sản duy trì sức mạnh
+  * **MWG**: Kiểm Tra Nguồn Cung lành mạnh, chờ xác nhận
+  * **TCH**: Kiểm Tra Nguồn Cung tích cực, chờ xác nhận để nâng cấp
+  * **VIX**: Bảo toàn lợi nhuận lớn (+18.11%) dù động lực vẫn mạnh
 
-*   **Chuyển từ 'Nắm Giữ' sang 'Bán':**
-    *   **STB**: **Tín hiệu Suy yếu (SOW)** ngày 2025-07-24 xác nhận mô hình phá vỡ xuống, sức mạnh trên khung tuần không còn hiệu lực, đáp ứng điều kiện #1C.
+* **Bổ Sung Đa Dạng Hóa:**
+  * **HPG**: Kiểm Tra Nguồn Cung tạo điểm vào xuất sắc, đa dạng sang ngành thép
+  * **MSN**: Dấu Hiệu Sức Mạnh với đặc tính phòng thủ, cân bằng danh mục
+  * **REE**: Cơ hội xoay vòng ngành (Sector rotation opportunity) sang năng lượng, chưa mở rộng quá mức
 
-*   **Bổ sung các lựa chọn đa dạng hóa:**
-    *   **HPG**: **Kiểm tra Nguồn cung (Test for Supply)** trên khung tuần 2025-07-14 với vị thế dẫn đầu ngành thép, đa dạng hóa với chủ đề phục hồi cơ sở hạ tầng.
-    *   **MSN**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần 2025-07-14 với vị thế dẫn đầu ngành thực phẩm, đa dạng hóa với cổ phiếu tiêu dùng phòng thủ.
-    *   **REE**: **Tín hiệu Sức mạnh (SOS)** trên khung tuần 2025-07-14 với vị thế dẫn đầu ngành năng lượng, đa dạng hóa với chủ đề chuyển đổi năng lượng tái tạo.
-
-*   **Tổng kết các thay đổi:**
-    *   **Hiệu suất danh mục**: Tổng Lãi/Lỗ chưa thực hiện là +5.235.200 VND với 9/10 vị thế có lãi (tỷ lệ thắng 90%).
-    *   **Thay đổi hành động**: 4 mã được nâng cấp lên 'Mua Thêm' (BID, HDB, HDC, VND), 2 mã được duy trì 'Nắm Giữ' (VIX, VPB từ lần 'Mua Thêm' trước đó), 1 mã bị hạ cấp xuống 'Bán' (STB).
-    *   **Đa dạng hóa**: Bổ sung 3 ngành mới (Thép, Thực phẩm, Năng lượng) để giảm rủi ro tập trung vào Ngân hàng/Chứng khoán.
-    *   **Quản trị rủi ro**: Tất cả các vị thế đều có các mức dừng lỗ rõ ràng và phương pháp chốt lời từng phần với chiến lược bảo vệ lợi nhuận.
+* **Tổng Kết Thay Đổi:**
+  * **Hiệu Suất Danh Mục**: Tổng Lãi/Lỗ chưa thực hiện (Lãi/Lỗ) +14.795.800 VND với 10/11 vị thế sinh lời (90.9%)
+  * **Thay Đổi Hành Động (Thay Đổi Hành Động)**: 4 mã nâng cấp lên Mua Thêm, 1 mã hạ xuống Bán, 6 mã duy trì Nắm Giữ
+  * **Đa Dạng Hóa Ngành (Đa Dạng Hóa Ngành)**: Bổ sung 3 ngành mới (Thép, Thực phẩm, Năng lượng)
+  * **Quản Lý Rủi Ro (Quản Lý Rủi Ro)**: Tất cả vị thế có cắt lỗ rõ ràng và kế hoạch chốt lời theo giai đoạn (kế hoạch chốt lời theo giai đoạn)

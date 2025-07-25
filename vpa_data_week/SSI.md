@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc quá nhanh trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
 - **Ngày 2025-07-14:** Tiếp nối đà tăng mạnh của tuần trước, SSI có một tuần tăng giá tiếp tục với nến tăng thân dài, đóng cửa (31.8) ở mức cao nhất tuần. Khối lượng giao dịch duy trì ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, nhưng với rủi ro **Climax** cao. Sự tăng tốc liên tục trên khối lượng cực lớn trong hai tuần liền tạo điều kiện cho một đợt điều chỉnh kỹ thuật trong thời gian tới.
+- **Ngày 2025-07-21:** Tiếp nối rủi ro Climax của tuần trước, SSI có một tuần tăng giá tiếp tục với nến tăng thân dài, đóng cửa (34.0) ở mức cao nhất tuần và tạo đỉnh mới. Khối lượng giao dịch vẫn duy trì ở mức cực cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Climactic Action**. Ba tuần tăng liên tiếp trên khối lượng cực lớn với sự tăng tốc không ngừng là dấu hiệu của climax điển hình. Mặc dù vẫn là dấu hiệu sức mạnh, nhưng rủi ro đảo chiều đã tăng cao, cần thận trọng với khả năng điều chỉnh mạnh trong các tuần tới.
 
 

@@ -16,3 +16,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau đợt tăng mạnh. Việc giá chỉ điều chỉnh nhẹ trên nền khối lượng thấp cho thấy áp lực bán không lớn, tín hiệu No Supply và xu hướng tăng vẫn được duy trì.
 
 
+- **Ngày 2025-07-21:** Xác nhận tín hiệu Test for Supply của tuần trước, BMP có một tuần tăng giá thuyết phục với nến tăng biên độ rộng từ 143.0 đến 151.0, đóng cửa (145.3) cao hơn tuần trước và thiết lập đỉnh mới. Khối lượng giao dịch tăng nhẹ lên 776k cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, xác nhận rằng giai đoạn kiểm tra cung của tuần trước đã thành công. Việc bứt phá mức cao mới kết hợp với khối lượng gia tăng cho thấy xu hướng tăng đang được tái khẳng định mạnh mẽ.

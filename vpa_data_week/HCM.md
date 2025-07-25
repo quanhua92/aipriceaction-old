@@ -14,3 +14,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá giữ vững ở mức cao trên nền khối lượng khổng lồ cho thấy sự giằng co mạnh mẽ giữa lực mua và lực bán. Đây có thể là dấu hiệu của một giai đoạn phân phối (Distribution).
 
 
+- **Ngày 2025-07-21:** Tiếp nối Test for Supply của tuần trước, HCM có một tuần tăng giá với nến tăng biên độ vừa phải, tăng từ 24.95 lên 25.75 (+3.2%) và đạt mức cao 26.4. Biên độ giao dịch từ 24.3 đến 26.4 cho thấy sự bứt phá. Khối lượng giao dịch giảm xuống 90.869.088 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** nhẹ. Việc giá có thể vượt qua kháng cự và đạt đỉnh mới cho thấy lực cầu vẫn còn kiểm soát, tuy nhiên khối lượng giảm cho thấy sự nhiệt tình không bằng những tuần trước.

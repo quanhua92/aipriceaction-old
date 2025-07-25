@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá có thể phục hồi trên nền khối lượng thấp cho thấy áp lực bán đã tạm thời cạn kiệt. Tuy nhiên, cần một nến tăng mạnh hơn để xác nhận sự quay trở lại của phe mua.
 - **Ngày 2025-07-14:** GAS tiếp tục xu hướng phục hồi nhẹ, tăng từ 67.9 lên 68.1 (+0.3%) với biên độ hẹp. Khối lượng giao dịch duy trì ở mức thấp tương đương tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá có thể tăng nhẹ trên nền khối lượng thấp tiếp tục xác nhận tín hiệu No Supply, cho thấy áp lực bán đã yếu đi đáng kể sau cú Upthrust trước đó.
+- **Ngày 2025-07-21:** GAS tiếp tục xu hướng phục hồi, tăng từ 68.1 lên 68.7 (+0.9%) với biên độ giao dịch từ 67.1 đến 70.2. Khối lượng giao dịch tăng lên 5.424.434 cp, cao hơn tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau các test for supply thành công. Việc giá tăng với khối lượng tăng cho thấy lực cầu đang dần quay trở lại. Tuy nhiên, biên độ tăng vẫn còn khiêm tốn, cho thấy xu hướng đang trong giai đoạn phục hồi tích lũy sau cú Upthrust trước đó.
 
 

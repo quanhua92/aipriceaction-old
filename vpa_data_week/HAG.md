@@ -12,4 +12,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, xác nhận sự kết thúc của đợt điều chỉnh.
 - **Ngày 2025-07-14:** HAG có một tuần bùng nổ mạnh mẽ, tăng từ 13.4 lên 14.85 (+10.8%) với biên độ rộng. Khối lượng giao dịch tăng vụt gấp đôi so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax**. Sau Sign of Strength tuần trước, HAG đã có một cuộc bùng nổ để đạt đỉnh mới trên khối lượng khổng lồ. Tín hiệu mạnh mẽ nhưng cần thận trọng với khả năng điều chỉnh sau cao trào mua này.
+- **Ngày 2025-07-21:** Sau Buying Climax của tuần trước, HAG có một tuần điều chỉnh với nến giảm biên độ rộng, giảm từ 14.85 xuống 14.05 (-5.4%) và có mức thấp 13.95. Biên độ giao dịch từ 13.95 đến 15.2 cho thấy sự dao động mạnh. Khối lượng giao dịch tăng vọt lên 99.650.216 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Automatic Reaction** sau Buying Climax tuần trước. Việc giá giảm mạnh trên nền khối lượng khổng lồ là phản ứng tự nhiên sau một đợt cao trào mua, xác nhận rằng đỉnh tạm thời đã được hình thành và giai đoạn điều chỉnh đã bắt đầu.
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
 - **Ngày 2025-07-14:** IDC có một tuần giao dịch đi ngang với nến giảm biên độ hẹp, đóng cửa (46.1) gần với tuần trước (46.2). Giá dao động từ 45.8 đến 47.2. Khối lượng giao dịch giảm nhẹ xuống 8.3 triệu so với 9.3 triệu tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công. Việc giá giữ vững với khối lượng thấp sau tín hiệu No Supply của tuần trước cho thấy áp lực bán đã được hấp thụ hoàn toàn, là tín hiệu No Supply mạnh mẽ.
+- **Ngày 2025-07-21:** IDC có một tuần tăng giá với nến tăng biên độ rộng, đóng cửa 46.6 (+1.1%) từ 46.1 tuần trước. Giá dao động từ 44.8 đến 47.4 và khối lượng giao dịch tăng nhẹ lên 8.5 triệu.
+    - **Phân tích VPA/Wyckoff:** Đây là **Effort to Rise** sau test for supply thành công tuần trước. Việc giá phục hồi và test lại resistance 47.4 với khối lượng tăng nhẹ cho thấy lực cầu đang dần quay trở lại. Đây là tín hiệu tích cực cho khả năng breakout tiếp theo.
 
 

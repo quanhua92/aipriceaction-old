@@ -62,5 +62,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực hơn. Sau tín hiệu **Effort to Rise** yếu của phiên trước, việc giá tiếp tục tăng với khối lượng gia tăng và có thể test cao lên 37.5 cho thấy lực cầu đang dần cải thiện. Mặc dù biên độ vẫn hẹp nhưng việc khối lượng tăng liên tục là dấu hiệu tích cực cho thấy có thể thoát khỏi trạng thái đi ngang.
 - **Ngày 2025-07-24:** PLX tăng mạnh từ 37.25 lên 38.1. Cây nến tăng có biên độ rộng (spread 0.9) với mức cao nhất 38.2 và đóng cửa gần mức cao nhất. Khối lượng giao dịch BÙNG NỔ tăng gấp đôi (4.38 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** rõ ràng. Sau tín hiệu **Effort to Rise** tích cực của phiên trước, việc giá tăng mạnh với khối lượng bùng nổ cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc đóng cửa gần mức cao nhất và phá vỡ vùng đi ngang trước đó với sự hỗ trợ của khối lượng khổng lồ xác nhận xu hướng tăng mạnh mẽ.
-
+- **Ngày 2025-07-25:** PLX gap tăng từ 38.1 lên 38.2 và tiếp tục test cao lên 38.6 nhưng đóng cửa tại 38.1. Cây nến có biên độ hẹp hơn (spread 0.6) so với phiên trước. Khối lượng giao dịch giảm xuống 2.92 triệu đơn vị.
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, phiên hôm nay thể hiện **Test for Supply**. Việc giá gap tăng và test cao lên 38.6 nhưng đóng cửa lại mức 38.1 với khối lượng giảm cho thấy có áp lực chốt lời xuất hiện. Đây là một nhịp điều chỉnh bình thường sau đợt tăng mạnh, không phải tín hiệu xấu nếu lực cầu quay trở lại trong các phiên tới.
 

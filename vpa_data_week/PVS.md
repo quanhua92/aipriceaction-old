@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Việc giá có thể phục hồi trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán đã suy yếu, là một tín hiệu No Supply cho xu hướng tăng.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, PVS có một tuần tăng giá tiếp tục với nến tăng biên độ vea, đóng cửa (34.2) cao hơn. Khối lượng giao dịch tăng nhẹ so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, cho thấy lực cầu đang quay trở lại và cố gắng đẩy giá lên. Việc khối lượng tăng cùng với giá là tín hiệu tích cực.
+- **Ngày 2025-07-21:** PVS đi ngang với biến động nhỏ, đóng cửa (34.3) gần như không đổi so với tuần trước (+0.29%). Cây nến có biên độ rộng với đỉnh cao tại 35.3 và bóng dưới. Khối lượng giao dịch tăng 12.22% lên 37.96 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply**. Mặc dù khối lượng tăng nhưng giá không thể duy trì ở mức cao, cho thấy vẫn còn một số áp lực bán. Tuy nhiên, việc giá không giảm mạnh cho thấy lực cầu vẫn có mặt để hỗ trợ.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Sau nhiều tuần tăng giá, một nến tăng mạnh trên khối lượng giảm có thể là dấu hiệu của một **No Supply**, nhưng cũng cần cẩn trọng với khả năng **"buying exhaustion" (suy kiệt lực mua)**. Xu hướng vẫn rất mạnh.
 - **Ngày 2025-07-14:** VIC tiếp tục tăng mạnh với nến tăng thân dài, mở cửa (115.0) gap up đáng kể từ tuần trước và đóng cửa (119.0) ở mức cao. Khối lượng giao dịch tăng mạnh lên 24.8 triệu cổ phiếu, cao hơn 33.0% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Một **Sign of Strength** rõ ràng, xóa tan mọi lo ngại về suy kiệt lực mua từ tuần trước. Việc giá gap up kết hợp với khối lượng tăng mạnh cho thấy lực cầu đang rất mạnh và xu hướng tăng được củng cố thêm.
+- **Ngày 2025-07-21:** Sau tuần Sign of Strength, VIC có tuần điều chỉnh từ 119.0 xuống 114.1 (-4.1%). Nến giảm với biên độ rộng từ 109.7 đến 122.5, mở cửa gap up nhưng đóng cửa thấp hơn tuần trước. Khối lượng giao dịch giảm xuống 20.510.498 (-17.4%).
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau giai đoạn tăng mạnh kéo dài. Việc giá điều chỉnh (-4.1%) trên nền khối lượng giảm đáng kể (-17.4%) sau Sign of Strength cho thấy áp lực chốt lời không quá lớn. Biên độ giao dịch rộng cho thấy có sự kiểm tra, nhưng việc đóng cửa trong phạm vi trung bình thể hiện sự hấp thụ tốt ở vùng giá cao.
 
 

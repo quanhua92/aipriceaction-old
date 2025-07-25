@@ -12,3 +12,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại sau một thời gian đi ngang, phá vỡ sự thiếu quan tâm trước đó.
 - **Ngày 2025-07-14:** PC1 tiếp tục xu hướng tăng với nến tăng có biên độ vừa phải, đóng cửa (22.8) cao hơn tuần trước. Giá tạo đỉnh tuần tại 23.4. Khối lượng giao dịch tăng 34% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, cho thấy momentum tăng đang được duy trì. Việc tăng giá với khối lượng tăng mạnh cho thấy lực cầu institutional đang tham gia tích cực, củng cố xu hướng tăng sau giai đoạn đi ngang.
+- **Ngày 2025-07-21:** PC1 bùng nổ mạnh mẽ với nến tăng biên độ rất rộng, mở cửa tại 23.0 và đóng cửa tại 25.15. Giá đạt đỉnh tuần tại 25.6, tăng vọt 10.3% so với tuần trước. Khối lượng giao dịch tăng 64% lên 37.8 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** cực mạnh, cho thấy PC1 đang trong giai đoạn breakout với sự tham gia mạnh mẽ của Smart Money. Việc phá vỡ vùng kháng cự với khối lượng khổng lồ xác nhận lực cầu institutional đang rất tích cực, mở ra giai đoạn markup mới sau thời gian tích lũy dài.

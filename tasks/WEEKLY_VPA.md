@@ -1,7 +1,7 @@
 # Weekly VPA Analysis Task - AI Agent Protocol
 
 ## Overview
-This document outlines the complete protocol for AI agents to perform weekly VPA (Volume Price Analysis) using the Wyckoff methodology. The agent must follow these steps sequentially to ensure accurate, contextual analysis.
+This document outlines the complete protocol for AI agents to perform weekly VPA (Volume Price Analysis) using the Wyckoff methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
 ## Important Weekly Date Logic
 **CRITICAL**: Weekly data dates are always from Monday of each week. If today is Sunday 2025-07-13, the latest complete weekly data will be dated Monday 2025-07-07 (representing the week of July 7-11, 2025). Always analyze the most recent Monday-dated weekly data available.
@@ -11,60 +11,85 @@ This document outlines the complete protocol for AI agents to perform weekly VPA
 ### Step 1: Dividend Adjustment Check
 **Objective**: Ensure all VPA price references are accurate before analysis
 
-Use LS tool to check for dividend-adjusted tickers:
+**Use LS tool to check for dividend-adjusted tickers:**
 - Path: market_data_check_dividends_week/
 - If directory doesn't exist or is empty: proceed to Step 2
 
-**Actions**:
+**Manual Dividend Processing Actions**:
 - If `market_data_check_dividends_week/` directory exists and contains files:
-  - Follow the dividend processing protocol in `tasks/dividends_plan.md`
-  - Update all price references in affected VPA files using dividend ratios
+  - **MANUAL PROCESSING ONLY** - Follow the dividend processing protocol in `tasks/dividends_plan.md`
+  - **Use reliable Python only for CSV operations** to read dividend ratios
+  - **Manual price adjustment** using Read/Edit tools for affected VPA files
   - Delete processed files from `market_data_check_dividends_week/` after completion
 - If directory is empty or doesn't exist: proceed to Step 2
 
-**Success Criteria**: All dividend adjustments completed, `market_data_check_dividends_week/` directory is empty
+**Success Criteria**: All dividend adjustments completed manually, `market_data_check_dividends_week/` directory is empty
 
 ### Step 2: Individual Ticker VPA Analysis
-**Objective**: Analyze each ticker using automated preparation and efficient generation
+**Objective**: Analyze each ticker using manual natural language analysis with reliable Python support only
 
-#### 2.1 Ticker Batch Preparation
+#### 2.1 Ticker Batch Preparation ✅ RELIABLE
 **Split tickers into 8 batches for parallel processing**:
 
 ```bash
 uv run utilities/split_tickers.py
 ```
 
-This script automatically:
-- Reads TICKERS.csv and splits into 8 batch files
+This script is reliable (pure CSV operations):
+- Reads TICKERS.csv and splits into 8 batch files using standard csv module
 - Creates utilities/data/batch_1.csv through batch_8.csv
 - Each batch contains 14-15 tickers for optimal parallel processing
+- **NO text parsing** - only CSV reading/writing
 
-#### 2.2 Context Gathering (Automated)
-**Use Python utility for data preparation**:
+#### 2.2 Manual Context Gathering - NO AUTOMATED UTILITIES
+**MANUAL APPROACH ONLY - NO AUTOMATED TEXT PARSING**:
 
+**❌ REMOVED**: `vpa_analysis_prep_week.py` - unreliable text parsing utility
+
+**For each ticker, manually gather context using**:
+1. **Read latest weekly market data CSV** using reliable Python:
 ```bash
-uv run utilities/vpa_analysis_prep_week.py
+# Example reliable Python for weekly price data
+uv run -c "
+import pandas as pd
+ticker = 'VHM'
+try:
+    df = pd.read_csv(f'market_data_week/{ticker}_*.csv')
+    latest = df.iloc[-1]
+    previous = df.iloc[-2] if len(df) > 1 else df.iloc[-1]
+    print(f'{ticker}: Latest Week Close={latest["Close"]}, Volume={latest["Volume"]}')
+    print(f'Previous Week Close={previous["Close"]}, Volume={previous["Volume"]}')
+    print(f'Weekly data available: {len(df)} weeks')
+except Exception as e:
+    print(f'Could not read CSV for {ticker}: {e}')
+"
 ```
 
-This script automatically:
-- Scans all market_data_week CSV files for latest weekly data
-- Reads existing VPA analysis from vpa_data_week/ directory
-- Identifies tickers needing new analysis
-- Extracts context data (current week OHLCV, last 4 weeks OHLCV, latest VPA signal)
-- Provides summary of analysis requirements
+2. **Read existing VPA analysis manually** using Read tool:
+   - Read `vpa_data_week/{TICKER}.md` to understand previous weekly analysis context
+   - Manually identify latest VPA signal from previous entries
+   - Understand historical weekly pattern progression
 
-**Reference**: See `tasks/task_vpa_prep_python_week.md` for detailed usage
+3. **Manual assessment of new analysis needs**:
+   - Compare latest market data date with last VPA analysis date
+   - Determine if new analysis is required based on weekly data availability
+   - NO automated text parsing or signal extraction
 
-#### 2.3 Context Gathering (Internal Processing)
-**CRITICAL**: Use LS tool to check market_data_week/ directory and Read tool to examine CSV files directly.
-**MANDATORY**: Always read both market_data_week CSV files AND existing vpa_data_week/*.md files to ensure accurate context.
+**Context Sources (Manual Reading Only)**:
+- **Market data**: Use reliable Python CSV operations only
+- **Previous VPA**: Manual reading with Read tool
+- **Signal identification**: Human intelligence, no automation
 
-For each ticker with new weekly data, create this internal context structure:
+#### 2.3 Manual Context Gathering (Internal Processing)
+**MANUAL APPROACH**: Use LS tool to check market_data_week/ directory and Read tool to examine CSV files directly.
+**MANDATORY**: Always manually read both market_data_week CSV files AND existing vpa_data_week/*.md files to ensure accurate context.
+
+For each ticker with new weekly data, manually create this internal context structure:
 
 ```json
 {
   "ticker": "TICKER_SYMBOL",
-  "new_data_date": "2025-07-07",
+  "new_data_date": "2025-07-07 - manually verified",
   "new_data_ohlcv": {
     "open": 64.4,
     "high": 64.9, 
@@ -81,39 +106,48 @@ For each ticker with new weekly data, create this internal context structure:
   },
   "previous_vpa_analysis": {
     "date": "2025-07-06",
-    "signal": "No Demand",
-    "context": "Previous analysis summary"
+    "signal": "No Demand - manually identified",
+    "context": "Previous analysis summary - manually extracted"
   },
-  "analysis_mode": "NEW_ENTRY" // or "UPDATE_LAST" if current week exists in last 10 VPA entries
+  "analysis_mode": "NEW_ENTRY or UPDATE_LAST - manually determined"
 }
 ```
 
-#### 2.4 Analysis Generation
-**Use multiple Task tools for parallel processing**:
+**Manual Data Sources**:
+- **Weekly OHLCV data**: Using reliable Python CSV operations
+- **Previous VPA analysis**: Manual reading using Read tool
+- **Signal identification**: Human intelligence only
+- **Analysis mode determination**: Manual assessment of existing entries
 
-Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to process each batch concurrently.
+#### 2.4 Manual VPA Analysis Generation
+**Use multiple Task tools for parallel processing with manual guidance**:
+
+Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to process each batch concurrently using **manual natural language analysis**.
 
 **PARALLEL PROCESSING RULE**: 
 - **ALWAYS launch exactly 8 Task tools concurrently** using a single message with multiple tool calls
-- **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv)
+- **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv) using reliable CSV operations
 - **Each batch contains 14-15 tickers** for optimal parallel processing
-- **All Task tool calls are non-interactive** and run automatically without confirmation
+- **All Task tool calls use MANUAL ANALYSIS ONLY** - no automated text parsing
+- **Each Task tool applies Wyckoff methodology manually** with human intelligence
 
 **Key steps**:
 1. Read the task template: `tasks/task_generate_vpa_analysis_week.md`
 2. Create exactly 8 Task tool calls simultaneously, each with:
-   - Customized prompt with current date and batch file assignment
-   - Template from `tasks/task_generate_vpa_analysis_week.md`
+   - **Manual analysis instructions** emphasizing natural language understanding
+   - **Vietnamese VPA terminology requirements** (no English terms)
+   - **Reliable Python guidance** for CSV operations only
    - Instruction to read from utilities/data/batch_X.csv (where X = 1-8)
-3. Execute all 8 Task tools concurrently to maximize parallel processing
-4. Each task tool will handle format requirements and Vietnamese VPA analysis for its assigned batch
+   - **Manual context gathering** from existing vpa_data_week files
+3. Execute all 8 Task tools concurrently with manual analysis approach
+4. Each task tool applies Wyckoff methodology manually without automated signal detection
 
 **Reference**: See `tasks/task_generate_vpa_analysis_week.md` for:
-- Complete task prompt template
-- Vietnamese VPA format requirements
-- Wyckoff methodology guidelines
-- Number formatting rules (DOT separator)
-- Common VPA signals reference
+- **Manual analysis methodology** (updated to remove automation)
+- **Vietnamese VPA format requirements** (proper financial terminology)
+- **Wyckoff methodology guidelines** (manual application)
+- **Number formatting rules** (DOT separator)
+- **Common VPA signals reference** (for manual identification)
 
 #### 2.5 Analysis Generation (Manual Mode)
 **CRITICAL**: Only append new date entries - NEVER overwrite existing VPA analysis unless dividends require price adjustments
@@ -169,47 +203,70 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 - Maintain analysis logic but adjust numerical values
 - Preserve analysis structure and dates
 
-### Step 3: VPA Verification
-**Objective**: Validate analysis accuracy and consistency
+### Step 3: Manual VPA Verification
+**Objective**: Validate analysis accuracy and consistency through manual review
 
+**❌ NO AUTOMATED VERIFICATION UTILITIES** - Manual verification only
+
+**Manual Verification Process**:
+1. **Sample-based manual review** of generated weekly VPA analysis
+2. **Use Read tool** to check key tickers from each batch
+3. **Manual validation checklist** applied to each reviewed ticker
+4. **Human intelligence** to assess logical progression
+
+**Manual Verification Checklist**:
+- **Logical VPA signal progression** (e.g., "Kiểm tra nguồn cung" after "Nỗ lực tăng giá") - weekly timeframe appropriate
+- **Price data consistency** - manually compare with market_data_week CSV using reliable Python
+- **Vietnamese language** grammar and proper financial terminology
+- **Proper markdown formatting** and structure
+- **Date continuity** and chronological order
+- **Weekly timeframe appropriateness** - focus on weekly trends, not daily noise
+- **Wyckoff methodology** correctly applied manually
+
+**Manual Price Verification Example**:
 ```bash
-uv run utilities/verify_vpa_week.py
+# Use reliable Python to verify weekly price consistency
+uv run -c "
+import pandas as pd
+ticker = 'VHM'
+df = pd.read_csv(f'market_data_week/{ticker}_*.csv')
+latest = df.iloc[-1]
+print(f'Weekly data for {ticker}: {latest["Date"]} Close={latest["Close"]}')
+print('Now manually compare with VPA analysis using Read tool')
+"
 ```
-**Note**: Use Bash tool to run this command
 
-**What verify_vpa_week.py should check**:
-- Logical VPA signal progression (e.g., "Test for Supply" after "Effort to Rise")
-- Price data consistency with market_data_week CSV files
-- Vietnamese language grammar and financial terminology
-- Proper markdown formatting and structure
-- Date continuity and chronological order
-- Weekly timeframe appropriateness
+**Expected Output**: Manual assessment notes of problematic tickers with specific issues identified
 
-**Expected Output**: List of problematic tickers with specific issues identified
+### Step 4: Manual Fix of Problematic Analysis
+**Objective**: Address all issues identified in manual verification
 
-### Step 4: Fix Problematic Analysis
-**Objective**: Address all issues identified in verification
+**Manual Fix Process**:
+1. **Review each flagged ticker** from manual verification notes
+2. **Re-analyze manually** using corrected context and logic with human intelligence
+3. **Use Edit tool** to update the corresponding `vpa_data_week/{TICKER}.md` file
+4. **Re-verify manually** until all issues resolved through human assessment
 
-**Process**:
-1. Review each flagged ticker from verify_vpa_week.py output
-2. Re-analyze using corrected context and logic
-3. Update the corresponding `vpa_data_week/{TICKER}.md` file
-4. Re-run verification until all issues resolved
+**Common Issues to Fix Manually**:
+- **Illogical VPA signal transitions** - apply weekly Wyckoff methodology correctly by hand
+- **Price mismatches with CSV data** - verify using reliable Python and correct manually
+- **Vietnamese grammar or terminology errors** - fix language manually
+- **Missing contextual references** to previous analysis - read historical context and add manually
+- **Inappropriate daily vs weekly perspective** - ensure weekly timeframe focus manually
+- **Format inconsistencies** - ensure proper Vietnamese VPA format manually
 
-**Common Issues to Fix**:
-- Illogical VPA signal transitions
-- Price mismatches with CSV data
-- Vietnamese grammar or terminology errors
-- Missing contextual references to previous analysis
-- Inappropriate daily vs weekly perspective
-
-### Step 5: Merge Individual Files
+### Step 5: Manual Merge of Individual Files ✅ RELIABLE UTILITY AVAILABLE
 **Objective**: Append new week entries from vpa_data_week/ to existing VPA_week.md structure
 
 ```bash
 uv run merge_vpa.py --week
 ```
-**Note**: Use Bash tool to run this command
+
+**This utility is reliable** because:
+- **Merge operation** is structural file manipulation, not text parsing
+- **File concatenation** using standard file operations
+- **No complex text analysis** or signal interpretation required
+- **Simple append logic** that doesn't require understanding VPA content
 
 **Process**:
 - Reads all files from `vpa_data_week/` directory (contains only new week entries)
@@ -220,13 +277,23 @@ uv run merge_vpa.py --week
 - Preserves all existing historical analysis
 - Backs up market_data_week to market_data_week_processed
 
-### Step 6: Generate Final Report
+**Alternative Manual Approach** (if merge_vpa.py unavailable):
+- **Use Read/Edit tools** to manually append new analysis to VPA_week.md
+- **Read vpa_data_week files** individually and manually copy to VPA_week.md
+- **Preserve formatting** and structure manually
+
+### Step 6: Generate Final Report ✅ RELIABLE UTILITY AVAILABLE
 **Objective**: Create comprehensive weekly market report with integrated VPA
 
 ```bash
 uv run main.py --week
 ```
-**Note**: Use Bash tool to run this command
+
+**This utility is reliable** because:
+- **Chart generation** using standard plotting libraries
+- **Report generation** using template-based approach
+- **VPA integration** through file reading, not text parsing
+- **Standard data processing** without complex text analysis
 
 **Process**:
 - Integrates VPA analysis from `VPA_week.md` into weekly market report
@@ -234,78 +301,92 @@ uv run main.py --week
 - Creates `REPORT_week.md` with comprehensive weekly market analysis
 - Links VPA signals to weekly technical chart patterns
 
-### Step 7: Summary Documentation
-**Objective**: Document the analysis session for review
+### Step 7: Manual Summary Documentation
+**Objective**: Document the analysis session for review using manual assessment
 
-**Use Write tool to create** `tasks/report_vpa_week.md` with:
+**Use Write tool to create** `tasks/report_vpa_week.md` with manual analysis summary:
 
 ```markdown
 # Weekly VPA Analysis Report - [DATE]
 
-## Summary
-- **Tickers Analyzed**: [NUMBER]
-- **New Entries**: [NUMBER] 
-- **Updated Entries**: [NUMBER]
-- **Dividend Adjustments**: [NUMBER]
+## Summary (Manual Count)
+- **Tickers Analyzed**: [NUMBER - counted manually]
+- **New Entries**: [NUMBER - manually verified] 
+- **Updated Entries**: [NUMBER - manually tracked]
+- **Dividend Adjustments**: [NUMBER - manually processed]
 
-## VPA Signal Distribution
-- **Sign of Strength**: [LIST OF TICKERS]
-- **Sign of Weakness**: [LIST OF TICKERS] 
-- **No Demand**: [LIST OF TICKERS]
-- **Effort to Rise**: [LIST OF TICKERS]
-- **Test for Supply**: [LIST OF TICKERS]
+## VPA Signal Distribution (Manual Classification)
+- **Tín hiệu Sức mạnh (Sign of Strength)**: [LIST OF TICKERS - manually identified]
+- **Tín hiệu Yếu (Sign of Weakness)**: [LIST OF TICKERS - manually identified] 
+- **Không có nhu cầu (No Demand)**: [LIST OF TICKERS - manually identified]
+- **Nỗ lực tăng giá (Effort to Rise)**: [LIST OF TICKERS - manually identified]
+- **Kiểm tra nguồn cung (Test for Supply)**: [LIST OF TICKERS - manually identified]
 
-## Key Market Observations
-- [Notable weekly pattern changes]
-- [Sector rotation observations]
-- [Weekly volume anomalies]
+## Key Market Observations (Manual Analysis)
+- [Notable weekly pattern changes - manually observed]
+- [Sector rotation observations - manually analyzed]
+- [Weekly volume anomalies - manually detected]
 
-## Issues Resolved
-- [Description of verification issues and fixes]
-- [Dividend adjustments made]
+## Issues Resolved (Manual Fixes)
+- [Description of manual verification issues and fixes]
+- [Manual dividend adjustments made]
+- [Manual corrections applied]
 
-## Recommendations for Next Session
-- [Tickers requiring close monitoring]
-- [Potential weekly setup developments]
+## Recommendations for Next Session (Manual Assessment)
+- [Tickers requiring close monitoring - manually identified]
+- [Potential weekly setup developments - manually assessed]
+- [Areas requiring manual attention]
 ```
 
-## Quality Control Checklist
+**Vietnamese Terminology Requirements**:
+- Use proper Vietnamese financial terms throughout
+- NO English VPA terminology in the report
+- Manual verification of all Vietnamese language accuracy
 
-Before completing the weekly VPA analysis, verify:
+## Manual Quality Control Checklist
 
-- [ ] All dividend adjustments processed and `market_data_check_dividends_week/` is empty
-- [ ] Each ticker has logical VPA signal progression from previous weekly analysis
-- [ ] Vietnamese text is grammatically correct and uses proper financial terminology
-- [ ] All price references match market_data_week CSV files exactly
-- [ ] VPA_week.md file is properly formatted with headers and separators
-- [ ] REPORT_week.md successfully generated with integrated VPA analysis
-- [ ] Summary report documents all analysis activities
+Before completing the weekly VPA analysis, manually verify:
 
-## Error Handling
+- [ ] All dividend adjustments processed manually and `market_data_check_dividends_week/` is empty
+- [ ] Each ticker has logical VPA signal progression from previous weekly analysis (manually verified)
+- [ ] Vietnamese text is grammatically correct and uses proper financial terminology (manually checked)
+- [ ] All price references match market_data_week CSV files exactly (verified using reliable Python)
+- [ ] VPA_week.md file is properly formatted with headers and separators (manually inspected)
+- [ ] REPORT_week.md successfully generated with integrated VPA analysis (manually confirmed)
+- [ ] Summary report documents all analysis activities (manually compiled)
+- [ ] NO English VPA terminology used anywhere (manually verified)
+- [ ] All Vietnamese VPA terms are accurate (manually validated)
+- [ ] Weekly timeframe focus maintained throughout analysis (manually checked)
+
+## Error Handling (Manual Approach)
 
 **If dividend processing fails**:
-- Document the issue in summary report
+- Document the issue in manual summary report
 - Continue with analysis using existing price data
 - Flag affected tickers for manual review
+- **NO automated recovery** - handle manually
 
-**If verification fails**:
-- Re-analyze problematic tickers with enhanced context
-- Check for data inconsistencies in market_data_week
-- Ensure proper Wyckoff methodology application
+**If manual verification fails**:
+- Re-analyze problematic tickers manually with enhanced context
+- Check for data inconsistencies in market_data_week using reliable Python
+- Ensure proper Wyckoff methodology application through human intelligence
+- **NO automated re-verification** - assess manually
 
 **If merge fails**:
-- Check vpa_data_week directory permissions and file formats
-- Verify all ticker files have proper UTF-8 encoding
+- Check vpa_data_week directory permissions and file formats manually
+- Verify all ticker files have proper UTF-8 encoding manually
 - Ensure merge process is appending, not overwriting existing VPA_week.md content
-- Manually append new entries if automated merge fails
+- **Manual fallback**: Use Read/Edit tools to manually append new entries
 
-## Success Metrics
+## Success Metrics (Manual Assessment)
 
-- **Accuracy**: All VPA signals follow logical Wyckoff progression
-- **Completeness**: Every ticker with new weekly data has updated analysis
-- **Consistency**: Vietnamese terminology and formatting maintained
-- **Integration**: Final report successfully incorporates all VPA analysis
-- **Documentation**: Complete summary report generated
+- **Accuracy**: All VPA signals follow logical Wyckoff progression (manually verified)
+- **Completeness**: Every ticker with new weekly data has updated analysis (manually counted)
+- **Consistency**: Vietnamese terminology and formatting maintained (manually checked)
+- **Integration**: Final report successfully incorporates all VPA analysis (manually confirmed)
+- **Documentation**: Complete manual summary report generated
+- **Language Quality**: Proper Vietnamese financial terminology throughout (manually validated)
+- **No Automation Dependencies**: All analysis done through manual natural language understanding
 
 ## Weekly Analysis Specific Notes
 

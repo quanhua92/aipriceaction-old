@@ -1,7 +1,7 @@
 # Weekly Leader Analysis Task - AI Agent Protocol
 
 ## Overview
-This document outlines the complete protocol for AI agents to generate a high-quality `LEADER.md` file using the VPA-SectorLead methodology. The agent must follow the multi-stage protocol to identify sector-leading tickers and assess overall sector health based on weekly data.
+This document outlines the complete protocol for AI agents to generate a high-quality `LEADER.md` file using the VPA-SectorLead methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
 ## Execution Protocol
 
@@ -12,147 +12,166 @@ This document outlines the complete protocol for AI agents to generate a high-qu
 - Verify paths: `GROUP.md`, `REPORT_week.md`
 - Verify directories: `vpa_data_week/`, `market_data_week/`
 
-**Actions**:
-- Verify `GROUP.md` exists with sector-to-ticker mappings
-- Verify `vpa_data_week/` directory exists with individual ticker weekly VPA files
-- Verify `REPORT_week.md` exists with weekly analysis and signals
-- Verify `market_data_week/` directory exists with individual ticker weekly CSV files (last 6 months)
+**Manual Verification Actions**:
+- **Use Read tool** to verify `GROUP.md` exists with sector-to-ticker mappings
+- **Use LS tool** to verify `vpa_data_week/` directory exists with individual ticker weekly VPA files
+- **Use Read tool** to verify `REPORT_week.md` exists with weekly analysis and signals
+- **Use LS tool** to verify `market_data_week/` directory exists with individual ticker weekly CSV files (last 6 months)
 
-**Success Criteria**: All core input files are present and accessible
+**Success Criteria**: All core input files are present and accessible through manual verification
 
-### Step 2: STAGE 0 - Ticker Profile Creation
-**Objective**: Create verified internal ticker profiles for ALL tickers to prevent data contamination
+### Step 2: STAGE 0 - Manual Ticker Profile Creation
+**Objective**: Create verified internal ticker profiles for ALL tickers using manual natural language analysis
 
-**Parallel Processing Approach**: Use Task tool to process sectors concurrently, with each sector processing its tickers in parallel. All Task tool calls are non-interactive and run automatically.
+**Manual Processing Approach**: Use Task tools to process sectors with **manual natural language analysis guidance**, with each sector processing its tickers through human intelligence.
 
-**Critical Process**: For EVERY ticker from GROUP.md, create this internal data structure:
+**Critical Manual Process**: For EVERY ticker from GROUP.md, manually create this internal data structure:
 
 ```json
 {
   "ticker": "TICKER_SYMBOL",
-  "sector": "Sector name from GROUP.md",
-  "full_vpa_story_summary": "Concise summary from vpa_data_week/{TICKER}.md",
+  "sector": "Sector name from GROUP.md - manually verified",
+  "full_vpa_story_summary": "Concise summary from vpa_data_week/{TICKER}.md - manually analyzed",
   "recent_vpa_signals": [
-    {"signal": "SOS Bar", "date": "2025-07-07"},
-    {"signal": "Test for Supply", "date": "2025-06-30"}
+    {"signal": "SOS Bar - manually identified", "date": "2025-07-07"},
+    {"signal": "Test for Supply - manually identified", "date": "2025-06-30"}
   ],
-  "price_history_data": "Raw weekly OHLCV from market_data_week/{TICKER}_*.csv",
-  "base_period_start": "Sector base period start date",
-  "base_period_end": "Sector base period end date"
+  "price_history_data": "Raw weekly OHLCV from market_data_week/{TICKER}_*.csv using reliable Python",
+  "base_period_start": "Sector base period start date - manually determined",
+  "base_period_end": "Sector base period end date - manually determined"
 }
 ```
 
-**File Reading Strategy for Each Ticker**:
-1. Read `vpa_data_week/{TICKER}.md` for complete weekly VPA story
-2. Read `market_data_week/{TICKER}_*.csv` for price history and calculations
-3. Extract recent VPA signals from ticker file (last 2-3 significant signals)
-4. Calculate performance from sector base period to latest close
-
-**Data Extraction Rules**:
-- Extract sector mappings ONLY from `GROUP.md`
-- Extract VPA story summaries from individual `vpa_data_week/{TICKER}.md` files
-- Extract recent signals from both individual VPA files and `REPORT_week.md`
-- Extract price data from individual `market_data_week/{TICKER}_*.csv` files
-
-**Parallel Processing Strategy**:
-- Use Task tool to process multiple tickers concurrently for each sector
-- Read ticker-specific files (vpa_data_week/{TICKER}.md, market_data_week/{TICKER}_*.csv)
-- Avoid reading large consolidated files (VPA_week.md, market_data_week.txt)
-- Enable sector-level parallel analysis
-
-**Quality Control**: These ticker profiles become the SOLE source of truth for all subsequent stages
-
-**Example Task Tool Usage by Sector**:
+**Manual File Reading Strategy for Each Ticker**:
+1. **Use Read tool** to manually read `vpa_data_week/{TICKER}.md` for complete weekly VPA story - manual analysis
+2. **Use reliable Python** to read `market_data_week/{TICKER}_*.csv` for price history and calculations:
+```bash
+# Example reliable Python for weekly price data
+uv run -c "
+import pandas as pd
+ticker = 'VHM'
+try:
+    df = pd.read_csv(f'market_data_week/{ticker}_*.csv')
+    print(f'{ticker}: Latest Close={df.iloc[-1]["Close"]}, Start={df.iloc[0]["Close"]}')
+    print(f'Performance: {((df.iloc[-1]["Close"] / df.iloc[0]["Close"]) - 1) * 100:.2f}%')
+except Exception as e:
+    print(f'Could not read CSV for {ticker}: {e}')
+"
 ```
-Task 1: "Process NGÂN HÀNG sector tickers (TCB,VCB,MBB,STB,CTG,VPB,LPB,ACB,HDB,TPB,SHB,VIB,BID) for weekly leader analysis. For each: 1) Read vpa_data_week/{TICKER}.md full story 2) Read market_data_week/{TICKER}_*.csv for price history 3) Return ticker profile JSON with VPA summary and recent signals"
+3. **Manual extraction** of recent VPA signals from ticker file (last 2-3 significant signals) using human intelligence
+4. **Manual calculation** of performance from sector base period to latest close
 
-Task 2: "Process BẤT ĐỘNG SẢN sector tickers (VHM,VIC,NVL,KDH,HDG,VRE) for weekly leader analysis. Same process as Task 1."
+**Manual Data Extraction Rules**:
+- **Manual extraction** of sector mappings from `GROUP.md` using Read tool
+- **Manual extraction** of VPA story summaries from individual `vpa_data_week/{TICKER}.md` files using Read tool
+- **Manual extraction** of recent signals from both individual VPA files and `REPORT_week.md` using Read tool
+- **Reliable Python only** for price data from individual `market_data_week/{TICKER}_*.csv` files
+
+**Manual Processing Strategy**:
+- Use Task tools to process multiple tickers with **manual analysis instructions**
+- **NO automated text parsing** - all VPA signal identification through human intelligence
+- Read ticker-specific files using Read tool for VPA data and reliable Python for CSV data
+- **Manual verification** of all extracted information
+
+**Quality Control**: These manually created ticker profiles become the SOLE source of truth for all subsequent stages
+
+**Example Manual Task Tool Usage by Sector**:
+```
+Task 1: "MANUAL ANALYSIS ONLY - Process NGÂN HÀNG sector tickers (TCB,VCB,MBB,STB,CTG,VPB,LPB,ACB,HDB,TPB,SHB,VIB,BID) for weekly leader analysis. For each: 1) Use Read tool to manually read vpa_data_week/{TICKER}.md full story and manually analyze VPA narrative 2) Use reliable Python to read market_data_week/{TICKER}_*.csv for price history 3) Manually identify recent VPA signals using human intelligence 4) Return manually-created ticker profile JSON with VPA summary and recent signals. NO automated text parsing."
+
+Task 2: "MANUAL ANALYSIS ONLY - Process BẤT ĐỘNG SẢN sector tickers (VHM,VIC,NVL,KDH,HDG,VRE) for weekly leader analysis. Same manual process as Task 1. Use Read tool for VPA analysis, reliable Python for CSV data, manual signal identification."
 ```
 
-**Sector-Level Parallel Processing**:
-- Process 3-5 sectors concurrently using Task tool
-- Each sector processes its tickers in parallel
-- Individual weekly VPA files: ~100-300 lines vs VPA_week.md: ~20,000+ lines
-- Individual weekly CSV files: ~30 rows vs market_data_week.txt: ~4,000+ rows
+**Manual Sector-Level Processing**:
+- Process 3-5 sectors concurrently using Task tools with **manual analysis guidance**
+- Each sector processes its tickers through **human intelligence analysis**
+- **Individual weekly VPA files**: Read using Read tool - ~100-300 lines focused analysis
+- **Individual weekly CSV files**: Process using reliable Python - ~30 rows clean data
+- **Manual verification** of all extracted information before proceeding
 
-### Step 3: STAGE 1 - Sector Aggregation & Universe Definition
-**Objective**: Define eligible sectors for analysis
+### Step 3: STAGE 1 - Manual Sector Aggregation & Universe Definition
+**Objective**: Define eligible sectors for analysis using manual counting and verification
 
-**Process**:
-1. **Load Sector Universe**: Read `GROUP.md` to get all sector definitions
-2. **Define Eligible Sectors**: Process ONLY sectors with at least 3 tickers
-3. **Filter Rule**: Sectors with fewer than 3 tickers are omitted from analysis
+**Manual Process**:
+1. **Manual Sector Universe Loading**: **Use Read tool** to manually read `GROUP.md` to get all sector definitions
+2. **Manual Eligible Sectors Definition**: **Manual counting** to process ONLY sectors with at least 3 tickers
+3. **Manual Filter Rule**: **Human verification** - sectors with fewer than 3 tickers are omitted from analysis through manual counting
 
-**Output**: List of eligible sectors for comprehensive analysis
+**Output**: Manually verified list of eligible sectors for comprehensive analysis
 
-### Step 4: STAGE 2 - Sector Base Period Identification
-**Objective**: Identify common base periods for each eligible sector
+### Step 4: STAGE 2 - Manual Sector Base Period Identification
+**Objective**: Identify common base periods for each eligible sector using manual analysis
 
-**Methodology**:
-1. **Analyze 6-Month History**: Review weekly OHLCV data from `market_data_week.txt`
-2. **Identify Stability Phases**: Find periods where majority of sector tickers showed:
-   - Low volatility or sideways price action
-   - Clear VPA signs of accumulation (No Supply bars, low volume tests)
-   - Common consolidation patterns
-3. **Define Base Period**: Establish date range representing sector-wide accumulation/stability phase
-4. **Sector Exclusion**: Omit sectors without clear common base periods
+**Manual Methodology**:
+1. **Manual 6-Month History Analysis**: **Use reliable Python** to review weekly OHLCV data from individual `market_data_week/{TICKER}_*.csv` files
+2. **Manual Stability Phases Identification**: **Human intelligence** to find periods where majority of sector tickers showed:
+   - Low volatility or sideways price action - manually identified from price data
+   - Clear VPA signs of accumulation (No Supply bars, low volume tests) - manually identified from VPA files
+   - Common consolidation patterns - manually recognized through chart analysis
+3. **Manual Base Period Definition**: **Human judgment** to establish date range representing sector-wide accumulation/stability phase
+4. **Manual Sector Exclusion**: **Human decision** to omit sectors without clear common base periods
 
-**Output**: Base period date ranges for each eligible sector
+**Manual Data Sources**:
+- **Reliable Python** for historical price analysis from individual CSV files
+- **Read tool** for VPA pattern analysis from individual weekly VPA files
+- **Human intelligence** for pattern recognition and period identification
 
-### Step 5: STAGE 3 - Individual Ticker Analysis & Scoring
-**Objective**: Calculate leadership scores for all tickers within eligible sectors
+**Output**: Manually determined base period date ranges for each eligible sector
 
-**Scoring Framework** (using ticker profiles and base periods):
+### Step 5: STAGE 3 - Manual Individual Ticker Analysis & Scoring
+**Objective**: Calculate leadership scores for all tickers within eligible sectors using manual analysis
 
-#### 5.1 VPA Story Score (Weight: 60%)
+**Manual Scoring Framework** (using manually created ticker profiles and manually determined base periods):
+
+#### 5.1 Manual VPA Story Score (Weight: 60%)
 **Scale**: 0-100 points
-**Assessment Criteria**:
-- **90-100**: Perfect multi-stage Wyckoff story (Accumulation → Shakeout → SOS → successful Backing Up/Test)
-- **70-89**: Strong story with minor imperfections or still developing
-- **<70**: Weak, unclear, or broken VPA narrative
+**Manual Assessment Criteria**:
+- **90-100**: Perfect multi-stage Wyckoff story (Accumulation → Shakeout → SOS → successful Backing Up/Test) - manually identified
+- **70-89**: Strong story with minor imperfections or still developing - manually assessed
+- **<70**: Weak, unclear, or broken VPA narrative - manually determined
 
-**Data Source**: `full_vpa_story_summary` from ticker profiles
+**Data Source**: `full_vpa_story_summary` from manually created ticker profiles through human intelligence
 
-#### 5.2 Relative Performance Score (Weight: 40%)
-**Calculation**: Percentage price change from sector base period start to most recent weekly close
+#### 5.2 Manual Relative Performance Score (Weight: 40%)
+**Manual Calculation**: Percentage price change from sector base period start to most recent weekly close
 **Scale**: Direct percentage (25% gain = 25 points)
-**Data Source**: `price_history_lookup` from ticker profiles
+**Data Source**: `price_history_lookup` from manually created ticker profiles using reliable Python calculations
 
-#### 5.3 Confidence Score (Reporting Only)
+#### 5.3 Manual Confidence Score (Reporting Only)
 **Scale**: 0-100%
-**Assessment Criteria**:
-- **90-100%**: Textbook VPA setup, clear recent signals, low risk
-- **75-89%**: Strong setup with some ambiguity, needs confirmation
-- **<75%**: Conflicting signals, high risk, broken narrative
+**Manual Assessment Criteria**:
+- **90-100%**: Textbook VPA setup, clear recent signals, low risk - manually assessed
+- **75-89%**: Strong setup with some ambiguity, needs confirmation - manually evaluated
+- **<75%**: Conflicting signals, high risk, broken narrative - manually identified
 
-**Data Source**: `recent_vpa_signals` from ticker profiles
+**Data Source**: `recent_vpa_signals` from manually created ticker profiles through human intelligence
 
-#### 5.4 Final Leadership Score Calculation
-**Formula**: `Leadership Score = (VPA Story Score × 0.6) + (Relative Performance Score × 0.4)`
-**Ranking**: Top 3 tickers per sector become "Sector Leaders"
+#### 5.4 Manual Final Leadership Score Calculation
+**Manual Formula**: `Leadership Score = (VPA Story Score × 0.6) + (Relative Performance Score × 0.4)`
+**Manual Ranking**: **Human judgment** to select top 3 tickers per sector as "Sector Leaders"
 
-### Step 6: STAGE 4 - Sector Health & Context Analysis
-**Objective**: Evaluate overall sector character and health
+### Step 6: STAGE 4 - Manual Sector Health & Context Analysis
+**Objective**: Evaluate overall sector character and health using manual analysis
 
-**Analysis Framework**:
+**Manual Analysis Framework**:
 
-#### 6.1 Trend Breadth Calculation
-- Calculate percentage of sector tickers with positive relative performance
-- High breadth (>70%) vs. Low breadth (<70%)
+#### 6.1 Manual Trend Breadth Calculation
+- **Manual calculation** of percentage of sector tickers with positive relative performance
+- **Manual assessment**: High breadth (>70%) vs. Low breadth (<70%) using human counting
 
-#### 6.2 VPA Signal Cohesion Assessment
-- Scan `recent_vpa_signals` across all sector tickers
-- Identify dominant theme: Bullish (SOS, Test, No Supply) vs. Bearish (SOW, Upthrust)
+#### 6.2 Manual VPA Signal Cohesion Assessment
+- **Manual scan** of `recent_vpa_signals` across all sector tickers from manually created profiles
+- **Human intelligence** to identify dominant theme: Bullish (SOS, Test, No Supply) vs. Bearish (SOW, Upthrust)
 
-#### 6.3 Sector Classification (Mandatory)
-**Categories**:
-- **Dẫn Dắt Đồng Thuận**: High breadth (>70%), cohesive bullish signals, strong broad-based rally
-- **Dẫn Dắt Phân Hóa**: Low breadth (<70%), mixed signals, narrow leadership
-- **Đang Tích Lũy**: Sideways movement, flat performance, No Supply signals common
-- **Yếu/Phân Phối**: Low breadth, negative performance, SOW/Upthrust prevalent
+#### 6.3 Manual Sector Classification (Mandatory)
+**Manual Categories** (determined through human analysis):
+- **Dẫn Dắt Đồng Thuận**: High breadth (>70%), cohesive bullish signals, strong broad-based rally - manually verified
+- **Dẫn Dắt Phân Hóa**: Low breadth (<70%), mixed signals, narrow leadership - manually assessed
+- **Đang Tích Lũy**: Sideways movement, flat performance, No Supply signals common - manually identified
+- **Yếu/Phân Phối**: Low breadth, negative performance, SOW/Upthrust prevalent - manually determined
 
-### Step 7: STAGE 5 - LEADER.md Generation
-**Objective**: Generate complete LEADER.md using verified profiles and analysis
+### Step 7: STAGE 5 - Manual LEADER.md Generation
+**Objective**: Generate complete LEADER.md using manually verified profiles and manual analysis
 
 #### 7.1 File Header Generation
 ```markdown
@@ -217,85 +236,88 @@ For EACH eligible sector, generate using this template:
 [Same format as above]
 ```
 
-### Step 8: Quality Verification
-**Objective**: Ensure LEADER.md accuracy and completeness
+### Step 8: Manual Quality Verification
+**Objective**: Ensure LEADER.md accuracy and completeness through manual verification
 
-**Verification Checklist**:
-- [ ] All sectors have at least 3 tickers
-- [ ] Base periods are clearly identified for each sector
-- [ ] Leadership scores calculated correctly using 60/40 weighting
-- [ ] Sector classifications match actual trend breadth and signal cohesion
-- [ ] All Top 3 analyses include specific VPA story and performance data
-- [ ] Chart links use correct file paths (reports_week/)
-- [ ] Vietnamese text is grammatically correct
-- [ ] All scores are based on verified ticker profiles
+**Manual Verification Checklist**:
+- [ ] All sectors have at least 3 tickers - manually counted and verified
+- [ ] Base periods are clearly identified for each sector - manually determined and verified
+- [ ] Leadership scores calculated correctly using 60/40 weighting - manually computed and checked
+- [ ] Sector classifications match actual trend breadth and signal cohesion - manually verified through human analysis
+- [ ] All Top 3 analyses include specific VPA story and performance data - manually verified from profiles
+- [ ] Chart links use correct file paths (reports_week/) - manually checked
+- [ ] Vietnamese text is grammatically correct - manually reviewed
+- [ ] All scores are based on manually verified ticker profiles - human verification
 
-### Step 9: File Output
-**Objective**: Generate final LEADER.md file
+### Step 9: Manual File Output
+**Objective**: Generate final LEADER.md file using manual compilation
 
-**Use Write tool to create** the complete LEADER.md file with all verified analysis and data. Git will handle version control automatically.
+**Manual Output Process**:
+- **Use Write tool** to create the complete LEADER.md file with all manually verified analysis and data
+- **Manual compilation** of all sections based on human analysis
+- **Manual formatting** verification for Vietnamese content
 
-## Quality Control Standards
+## Manual Quality Control Standards
 
-### Data Accuracy Requirements
-- **Verified Sources**: All data must trace back to ticker profiles
-- **Calculation Accuracy**: Leadership scores must use exact 60/40 weighting
-- **Date Precision**: Base periods must have clear start and end dates
-- **Signal Verification**: Recent VPA signals must match source files
+### Manual Data Accuracy Requirements
+- **Manually Verified Sources**: All data must trace back to manually created ticker profiles
+- **Manual Calculation Accuracy**: Leadership scores must use exact 60/40 weighting - manually verified
+- **Manual Date Precision**: Base periods must have clear start and end dates - manually determined
+- **Manual Signal Verification**: Recent VPA signals must match source files - manually cross-checked
 
-### Sector Analysis Standards
-- **Breadth Calculation**: Must include all sector tickers in percentage
-- **Signal Cohesion**: Must reflect actual distribution of recent signals
-- **Classification Logic**: Must follow strict criteria for sector health categories
-- **Comparative Context**: Leaders must be compared within sector health context
+### Manual Sector Analysis Standards
+- **Manual Breadth Calculation**: Must include all sector tickers in percentage - manually counted
+- **Manual Signal Cohesion**: Must reflect actual distribution of recent signals - manually analyzed
+- **Manual Classification Logic**: Must follow strict criteria for sector health categories - human judgment
+- **Manual Comparative Context**: Leaders must be compared within sector health context - human analysis
 
 ### Vietnamese Language Standards
-- Use proper financial terminology
-- Maintain professional tone and grammar
-- Ensure decimal formatting uses dots (.), not commas (,)
-- Use consistent sector naming from GROUP.md
+- Use proper Vietnamese financial terminology - manually verified
+- Maintain professional tone and grammar - manually checked
+- Ensure decimal formatting uses dots (.), not commas (,) - manually enforced
+- Use consistent sector naming from GROUP.md - manually cross-checked
 
 ### Technical Requirements
-- **Chart Links**: Verify all image paths use reports_week/ directory
-- **Report Links**: Ensure all links point to REPORT_week.md with correct anchors
-- **Markdown Formatting**: Proper headers, tables, and structure
-- **Score Precision**: Display leadership scores to one decimal place
+- **Chart Links**: Verify all image paths use reports_week/ directory - manually checked
+- **Report Links**: Ensure all links point to REPORT_week.md with correct anchors - manually verified
+- **Markdown Formatting**: Proper headers, tables, and structure - manually inspected
+- **Score Precision**: Display leadership scores to one decimal place - manually formatted
 
-## Error Handling
+## Manual Error Handling
 
-### Missing Input Files
-- Document missing files in summary
-- Use available data and note limitations
-- Skip sectors with insufficient data
+### Manual Missing Input Files
+- Document missing files in manual summary
+- Use available data and manually note limitations
+- Manually skip sectors with insufficient data
 
-### Data Inconsistencies
-- Cross-reference multiple sources for verification
-- Prioritize most recent and reliable weekly data
-- Document conflicts and resolution approach
+### Manual Data Inconsistencies
+- **Manual cross-reference** multiple sources for verification
+- **Human judgment** to prioritize most recent and reliable weekly data
+- Document conflicts and manual resolution approach
 
-### Sector Exclusions
-- Log sectors excluded due to insufficient tickers (<3)
-- Log sectors excluded due to unclear base periods
-- Provide reasoning for all exclusions
+### Manual Sector Exclusions
+- **Manual log** sectors excluded due to insufficient tickers (<3) through human counting
+- **Manual log** sectors excluded due to unclear base periods through human analysis
+- **Manual reasoning** for all exclusions with human justification
 
-## Success Metrics
+## Manual Success Metrics
 
-- **Accuracy**: All ticker profiles match source data exactly
-- **Completeness**: Every eligible sector analyzed and classified
-- **Traceability**: All leadership scores can be verified from calculations
-- **Sector Health**: Classifications accurately reflect trend breadth and signal cohesion
-- **Actionability**: Top leaders provide clear investment insights
+- **Accuracy**: All manually created ticker profiles match source data exactly - human verification
+- **Completeness**: Every eligible sector analyzed and classified manually - human coverage
+- **Traceability**: All leadership scores can be verified from manual calculations - human math verification
+- **Sector Health**: Classifications accurately reflect trend breadth and signal cohesion - manual analysis
+- **Actionability**: Top leaders provide clear investment insights based on manual assessment
 
-## Templates
+## Manual Templates
 
-### Ticker Profile Template
+### Manual Ticker Profile Template
 ```json
 {
   "ticker": "",
-  "sector": "",
-  "full_vpa_story_summary": "",
-  "recent_vpa_signals": [{"signal": "", "date": ""}],
-  "price_history_lookup": ""
+  "sector": "manually verified from GROUP.md",
+  "full_vpa_story_summary": "manually analyzed from vpa_data_week files",
+  "recent_vpa_signals": [{"signal": "manually identified", "date": "manually verified"}],
+  "price_history_lookup": "manually calculated using reliable Python"
 }
 ```
 

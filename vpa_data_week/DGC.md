@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu vẫn đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-14:** Sau chuỗi Dấu hiệu Sức mạnh liên tiếp, DGC quay đầu điều chỉnh với nến giảm có biên độ hẹp, đóng cửa (102.6) thấp hơn tuần trước. Biên độ giao dịch từ 101.5 đến 106.2 cho thấy sự biến động. Khối lượng giao dịch giảm xuống 11.532.183 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá điều chỉnh nhẹ với khối lượng giảm là một tín hiệu tích cực, cho thấy áp lực bán không mạnh và thị trường đang hấp thụ tốt sau giai đoạn tăng trước đó.
+- **Ngày 2025-07-21:** Sau phiên Test for Supply thành công, DGC phục hồi với nến tăng biên độ rộng, đóng cửa (105.2) cao hơn tuần trước và tạo mức cao mới. Khối lượng giao dịch tăng trở lại mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau phiên kiểm tra thành công. Việc giá vượt qua mức đỉnh cũ trên nền khối lượng tăng cho thấy lực cầu đã khẳng định sức mạnh và xu hướng tăng được tái lập.
 
 

@@ -58,5 +58,5 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tín hiệu No Supply tích cực của phiên trước, việc giá mở cửa cao nhưng bị bán mạnh và đóng cửa ở đáy phiên với khối lượng tăng vọt cho thấy áp lực bán đã quay trở lại mạnh mẽ. Smart money có thể đang phân phối tại vùng giá cao, phá vỡ nền tảng hình thành tại 49.5.
 - **Ngày 2025-07-24:** STB tăng nhẹ từ 48.7 lên 49.0. Nến tăng có biên độ hẹp với mức cao nhất 49.5. Khối lượng giao dịch giảm mạnh (10.15 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW mạnh mẽ của phiên trước, hành động giá hôm nay cho thấy thử nghiệm vùng hỗ trợ tại 48.5-48.7. Việc giá phục hồi nhẹ lên 49.0 với khối lượng giảm mạnh cho thấy lực cầu có can thiệp nhưng chưa đủ mạnh. Đây là test ban đầu sau SOW, cần quan sát thêm để xác định liệu đây có phải là điểm đáy hay chỉ là nhịp hồi kỹ thuật.
-
-
+- **Ngày 2025-07-25:** STB giảm từ 49.45 xuống 48.8. Cây nến giảm có biên độ hẹp với mức thấp nhất 48.8. Khối lượng giao dịch giảm tiếp (7.83 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Demand** yếu kém của phiên trước, hành động giá hôm nay xác nhận **Secondary Test** không thành công. Việc giá test xuống vùng 48.8 với khối lượng giảm mạnh cho thấy lực cầu vẫn chưa xuất hiện đủ mạnh để hỗ trợ giá. Đây là tín hiệu tiêu cực sau chuỗi SOW - Test for Demand, thị trường có thể tiếp tục test sâu hơn các vùng hỗ trợ thấp hơn.

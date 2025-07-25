@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán yếu, là một tín hiệu No Supply cho xu hướng tăng.
 - **Ngày 2025-07-14:** STB bùng nổ với một tuần tăng giá mạnh, từ 47.75 lên 50.2 (+5.1%). Nến tăng thân dài với đỉnh tuần tại 50.5, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng đáng kể lên 63.157.337 so với tuần trước (43.220.623).
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Việc giá tăng mạnh (+5.1%) kèm theo khối lượng tăng đáng kể (+46%) cho thấy có sự tham gia mạnh mẽ của dòng tiền mua. Nến đóng cửa gần đỉnh tuần thể hiện áp lực mua áp đảo, tiếp nối xu hướng tăng từ tín hiệu No Supply tuần trước.
+- **Ngày 2025-07-21:** Sau tín hiệu Sign of Strength mạnh mẽ của tuần trước, STB có một tuần điều chỉnh với nến giảm từ 50.7 xuống 48.8 (-3.8%). Biên độ giao dịch từ 48.5 đến 50.8, đóng cửa gần mức thấp. Khối lượng giao dịch giảm xuống 53.305.162.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply**. Sau đợt tăng mạnh tuần trước, thị trường đang kiểm tra mức độ áp lực bán tại vùng đỉnh mới. Việc khối lượng giảm (-15.6%) trong phiên điều chỉnh là tín hiệu tích cực, cho thấy áp lực chốt lời không quá lớn. Nếu giá có thể giữ vững trên 48.5 trong tuần tới, đây sẽ là test thành công.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng cho thấy lực cầu vẫn đang kiểm soát, tuy nhiên biên độ hẹp cho thấy đà tăng đang chững lại.
 - **Ngày 2025-07-14:** LPB có một tuần tăng giá mạnh mẽ với nến tăng thân dài, đóng cửa (34.6) tăng từ 33.0 tuần trước. Giá dao động từ 32.65 đến 34.85 với biên độ rộng. Khối lượng giao dịch tăng lên 18.8 triệu so với 16.8 triệu tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Việc giá tăng đáng kể kèm theo khối lượng tăng cho thấy lực cầu đang áp đảo và xu hướng tăng được củng cố sau giai đoạn tích lũy.
+- **Ngày 2025-07-21:** Tiếp nối Sign of Strength tuần trước, LPB tiếp tục tăng giá với nến tăng thân dài, đóng cửa (35.25) tăng từ 34.6 tuần trước. Giá dao động từ 34.7 đến 36.0 với biên độ tốt. Khối lượng giao dịch giảm nhẹ xuống 16.8 triệu so với 18.8 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply**. Việc giá tiếp tục tăng sau Sign of Strength tuần trước trên nền khối lượng giảm cho thấy áp lực bán rất yếu. Đây là tín hiệu No Supply mạnh mẽ, xác nhận xu hướng tăng sẽ tiếp tục.
 
 

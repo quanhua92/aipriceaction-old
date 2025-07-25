@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại sau một thời gian đi ngang, phá vỡ sự thiếu quan tâm trước đó.
 - **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, POW có một tuần tăng giá mạnh mẽ với nến tăng thân dài, đóng cửa (14.0) ở mức cao nhất tuần. Khối lượng giao dịch tăng vọt lên mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận sức mạnh của xu hướng tăng. Việc giá phá vỡ lên trên với khối lượng lớn cho thấy lực cầu đang chiếm ưu thế hoàn toàn.
+- **Ngày 2025-07-21:** POW tiếp tục xu hướng tăng với nến tăng có biên độ vừa phải, đóng cửa (14.25) cao hơn 1.79% so với tuần trước. Cây nến có đỉnh mới tại 14.5. Khối lượng giao dịch giảm nhẹ 8.21% nhưng vẫn duy trì ở mức cao 75.02 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng trên nền khối lượng cao duy trì cho thấy động lực còn mạnh, xác nhận xu hướng tăng vẫn đang tiếp diễn một cách lành mạnh.
 
 

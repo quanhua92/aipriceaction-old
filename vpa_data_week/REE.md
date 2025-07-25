@@ -14,3 +14,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận sự quay trở lại của lực cầu. Việc giá tăng với khối lượng tăng cho thấy đà tăng được củng cố sau giai đoạn hấp thụ.
 
 
+- **Ngày 2025-07-21:** REE tiếp tục xu hướng tăng với nến tăng có biên độ rộng, đóng cửa (69.7) cao hơn 1.75% so với tuần trước. Cây nến tạo đỉnh mới tại 71.2 và có bóng dưới nhỏ. Khối lượng giao dịch duy trì ổn định với 5.95 triệu cổ phiếu (+1.13%).
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng trên nền khối lượng ổn định cho thấy đà tăng vẫn được duy trì, xác nhận sức mạnh của xu hướng tăng từ tuần trước.

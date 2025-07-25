@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt, phá vỡ sự do dự trước đó.
 - **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, CSC tiếp tục đà tăng mạnh mẽ. Nến tăng có thân dài, đóng cửa (22.4) gần mức cao nhất tuần, với biên độ từ 21.0 đến 23.0. Khối lượng giao dịch tăng mạnh lên 369.008 cp, cao hơn hẳn tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** liên tiếp, cho thấy lực cầu đang rất mạnh mẽ và quyết liệt. Việc giá và khối lượng cùng tăng xác nhận xu hướng tăng đang được củng cố vững chắc.
+- **Ngày 2025-07-21:** Sau hai tuần liên tiếp của Dấu hiệu Sức mạnh, CSC có một tuần điều chỉnh mạnh. Nến giảm mở cửa ở mức cao (23.0) nhưng đóng cửa thấp hơn (21.8), tạo thành bóng trên dài với biên độ từ 21.5 đến 23.4. Khối lượng giao dịch giảm xuống 318.148 cp so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, thể hiện áp lực chốt lời sau giai đoạn tăng mạnh. Việc khối lượng giảm trong bối cảnh giá giảm cho thấy lực bán chưa thực sự quyết liệt, có thể là điều chỉnh kỹ thuật tạm thời sau đợt tăng trước đó.
 
 

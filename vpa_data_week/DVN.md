@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giảm nhẹ trên khối lượng tăng cho thấy áp lực bán vẫn còn hiện hữu, làm suy yếu tín hiệu No Supply trước đó.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu Test for Supply của tuần trước, DVN tiếp tục đi ngang với nến doji có biên độ hẹp, đóng cửa (23.2) không đổi so với tuần trước. Biên độ giao dịch từ 22.8 đến 23.6 cho thấy sự giằng co. Khối lượng giao dịch tăng lên 371.753 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand**. Việc giá đi ngang với khối lượng tăng cho thấy thị trường đang thiếu hướng đi rõ ràng. Cần một xúc tác mạnh để phá vỡ trạng thái cân bằng này.
+- **Ngày 2025-07-21:** Tiếp nối No Demand của tuần trước, DVN có một tuần giảm giá nhẹ với nến giảm biên độ hẹp, giảm từ 23.3 xuống 23.0 (-1.3%). Biên độ giao dịch từ 22.7 đến 23.5 cho thấy sự dao động nhẹ. Khối lượng giao dịch tăng lên 512.489 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau giai đoạn đi ngang. Việc giá giảm nhẹ trên nền khối lượng tăng cho thấy vẫn còn một số áp lực bán, nhưng không quá mạnh. Cần quan sát thêm để xác định hướng đi tiếp theo của cổ phiếu.
 
 

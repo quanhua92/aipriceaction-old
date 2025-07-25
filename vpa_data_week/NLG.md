@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá giữ vững trên nền khối lượng thấp sau một đợt tăng là một tín hiệu rất No Supply, cho thấy thị trường đang hấp thụ tốt và có thể sớm tăng trở lại.
 - **Ngày 2025-07-14:** NLG bùng nổ với nến tăng có biên độ rộng, đóng cửa (40.7) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 43.0, phá vỡ mức kháng cự. Khối lượng giao dịch tăng vọt gấp đôi so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, xác nhận dự đoán từ tín hiệu No Supply tuần trước. Việc phá vỡ kháng cự với khối lượng tăng vọt cho thấy lực cầu institutional đang tham gia mạnh mẽ, mở ra giai đoạn tăng giá mới.
+- **Ngày 2025-07-21:** Tiếp nối Sign of Strength mạnh mẽ tuần trước, NLG có một tuần tăng giá ổn định với nến tăng biên độ vừa phải, đóng cửa (41.65) tăng từ 40.7 tuần trước. Giá dao động từ 38.9 đến 41.75. Khối lượng giao dịch giảm xuống 16.1 triệu so với 26.1 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** mạnh mẽ. Việc giá tiếp tục tăng sau Sign of Strength tuần trước trên nền khối lượng giảm đáng kể cho thấy áp lực bán hoàn toàn kiệt sức. Đây là tín hiệu No Supply cực kỳ tích cực, xác nhận xu hướng tăng mạnh mẽ sẽ tiếp tục.
 
 

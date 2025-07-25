@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú **Upthrust** và là một **Sign of Weakness**. Sự xuất hiện của áp lực bán mạnh ở vùng đỉnh xác nhận khả năng bắt đầu một giai đoạn phân phối hoặc điều chỉnh.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu Upthrust yếu kém của tuần trước, DBC tiếp tục đi ngang với nến doji có biên độ hẹp, đóng cửa (33.7) không đổi so với tuần trước. Biên độ giao dịch từ 33.3 đến 34.85 cho thấy sự do dự. Khối lượng giao dịch giảm xuống 48.581.456 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau tín hiệu yếu. Việc giá đi ngang với khối lượng giảm cho thấy cả phe mua và phe bán đều đang do dự. Thị trường cần một xúc tác rõ ràng để xác định hướng đi tiếp theo sau giai đoạn điều chỉnh.
+- **Ngày 2025-07-21:** DBC phá vỡ khỏi giai đoạn đi ngang với nến tăng mạnh, đóng cửa (35.85) cao hơn đáng kể so với tuần trước và tạo mức cao mới. Khối lượng giao dịch bùng nổ lên 75.9 triệu cổ phiếu, cao nhất từ trước đến nay.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ sau giai đoạn No Demand. Việc giá phá vỡ ngưỡng kháng cự trên nền khối lượng đột biến cho thấy lực cầu đã quay trở lại một cách quyết liệt và xu hướng tăng được tái lập.
 
 

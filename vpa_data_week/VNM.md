@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-14:** VNM tiếp tục tăng giá với nến tăng thân ngắn, đóng cửa (60.2) cao hơn tuần trước. Khối lượng giao dịch giảm nhẹ xuống 29.8 triệu cổ phiếu, giảm 7.1% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Một **Effort to Rise** với khối lượng giảm. Mặc dù giá vẫn tăng nhưng việc khối lượng giảm có thể cho thấy lực mua đang chậm lại, cần theo dõi để xác nhận xu hướng tiếp theo.
+- **Ngày 2025-07-21:** VNM có một tuần tăng giá mạnh mẽ với nến tăng thân dài, từ 60.3 lên 63.2 (+4.8%). Tạo ra đỉnh tuần tại 64.0 và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt lên 38.0 triệu cổ phiếu, tăng 27.6% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Một **Sign of Strength** rõ ràng. Sau phiên Effort to Rise có dấu hiệu chậm lại của tuần trước, lực cầu đã quay trở lại mạnh mẽ với mức tăng gần 5% kèm khối lượng tăng vọt. Điều này xác nhận xu hướng tăng vẫn còn nguyên vẹn và cổ phiếu đang tiếp tục hành trình phục hồi.
 
 

@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một nỗ lực phục hồi yếu ớt trên nền khối lượng thấp, một tín hiệu **No Demand**. Việc giá không thể phục hồi mạnh mẽ sau đợt giảm cho thấy phe mua vẫn còn yếu thế.
 - **Ngày 2025-07-14:** Sau phiên No Demand của tuần trước, DGW bứt phá mạnh mẽ với nến tăng thân dài, đóng cửa (46.6) gần mức cao nhất tuần. Biên độ giao dịch từ 43.2 đến 47.0 cho thấy sự bùng nổ. Khối lượng giao dịch tăng vọt lên 18.701.350 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu trước đó. Lực cầu đã quay trở lại một cách quyết liệt, có thể báo hiệu sự khởi đầu của một đợt tăng giá mới.
+- **Ngày 2025-07-21:** Tiếp nối Sign of Strength của tuần trước, DGW có một tuần dao động mạnh với biên độ rộng từ 45.2 đến 48.5, tuy nhiên đóng cửa (46.45) thấp hơn một chút so với tuần trước. Nến tuần có bóng trên dài và thân ngắn. Khối lượng giao dịch giảm xuống 14.930.140 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá dao động mạnh nhưng không thể duy trì ở mức cao với khối lượng giảm cho thấy có áp lực bán tại vùng giá cao. Tuy nhiên, việc giá vẫn giữ được gần mức đóng cửa tuần trước cho thấy đây vẫn là tín hiệu tích cực trong xu hướng tăng.
 
 

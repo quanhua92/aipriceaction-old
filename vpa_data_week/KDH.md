@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại sau một thời gian đi ngang, phá vỡ sự thiếu quan tâm trước đó.
 - **Ngày 2025-07-14:** KDH có một tuần tăng giá mạnh mẽ với nến tăng thân dài, đóng cửa (29.0) tăng từ 27.55 tuần trước. Giá dao động từ 27.09 đến 29.7 với biên độ rộng. Khối lượng giao dịch tăng vọt lên 32.6 triệu so với 24.2 triệu tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Việc giá tăng đáng kể kèm theo khối lượng bùng nổ cho thấy lực cầu đang áp đảo và xu hướng tăng được củng cố mạnh mẽ.
+- **Ngày 2025-07-21:** Sau Sign of Strength tuần trước, KDH có một tuần điều chỉnh nhẹ với nến giảm biên độ hẹp, đóng cửa (28.7) từ 29.0 tuần trước. Giá dao động từ 28.05 đến 29.2. Khối lượng giao dịch giảm xuống 22.3 triệu so với 32.6 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá chỉ giảm nhẹ trên nền khối lượng giảm mạnh cho thấy áp lực bán không lớn sau đợt tăng mạnh. Đây là tín hiệu No Supply tốt, cho thấy thị trường đang củng cố và có thể sớm tăng trở lại.
 
 

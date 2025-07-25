@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá không thể tăng sau tín hiệu No Supply trước đó cho thấy áp lực bán vẫn còn hiện hữu. Tín hiệu No Supply, cần quan sát thêm.
 - **Ngày 2025-07-14:** Tiếp nối phiên kiểm tra cung của tuần trước, BIC tiếp tục giảm giá với nến giảm biên độ rộng, đóng cửa (38.4) thấp hơn tuần trước. Khối lượng giao dịch tăng mạnh lên 415k cp, cao nhất trong nhiều tuần.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**, cho thấy áp lực bán đã gia tăng đáng kể. Khối lượng tăng kết hợp với giá giảm xác nhận rằng phe bán đang chiếm ưu thế và xu hướng tăng trước đó có thể đã kết thúc.
+- **Ngày 2025-07-21:** Phủ nhận hoàn toàn tín hiệu yếu của tuần trước, BIC có một tuần bùng nổ với nến tăng thân dài và biên độ rộng từ 38.5 đến 41.5, đóng cửa (41.2) ở mức cao nhất tuần. Khối lượng giao dịch giảm xuống 323k cp nhưng vẫn ở mức trung bình.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, cho thấy lực cầu đã quay trở lại một cách quyết liệt và phủ nhận hoàn toàn tín hiệu yếu của tuần trước. Việc thiết lập đỉnh mới cho thấy xu hướng tăng đã được tái lập.
 
 

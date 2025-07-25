@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, phá vỡ sự do dự trước đó.
 - **Ngày 2025-07-14:** HUT tiếp tục xu hướng tăng mạnh mẽ với một nến tăng thân dài, đóng cửa (14.6) tăng từ 13.6 tuần trước. Giá dao động từ 13.4 đến 15.1 với biên độ rộng. Khối lượng giao dịch tăng mạnh lên 14.9 triệu so với 10.2 triệu tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, tiếp nối momentum tăng trưởng mạnh mẽ của tuần trước. Khối lượng tăng kèm theo giá tăng cho thấy lực cầu đang chiếm ưu thế hoàn toàn và xu hướng tăng được củng cố.
+- **Ngày 2025-07-21:** HUT có một tuần giao dịch giăng co với nến doji, mở cửa 14.6, đạt cao 14.8, thấp 13.9 và đóng cửa 14.5 (-0.7%). Khối lượng giao dịch giảm xuống 12.0 triệu so với 14.9 triệu tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là **Test for Supply** sau sign of strength tuần trước. Việc giá dao động trong biên độ hẹp và khối lượng giảm cho thấy không có áp lực bán mạnh tại các mức giá hiện tại. Đây là tín hiệu No Supply, hỗ trợ cho xu hướng tăng tiếp tục.
 
 

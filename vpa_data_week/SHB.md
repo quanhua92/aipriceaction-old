@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
 - **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, SHB có một tuần giữ vững với nến doji, đóng cửa (14.2) không đổi. Khối lượng giao dịch giảm mạnh so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** mạnh mẽ. Việc giá giữ vững ở mức cao trên nền khối lượng giảm mạnh sau một đợt tăng mạnh là dấu hiệu rất No Supply, cho thấy thị trường đang hấp thụ tốt.
+- **Ngày 2025-07-21:** SHB tiếp tục tăng giá mạnh mẽ với nến tăng có biên độ rộng, mở cửa tại 14.3 và đóng cửa tại 15.05. Giá đạt đỉnh tuần tại 15.45, tăng 6.0% so với tuần trước. Khối lượng giao dịch tăng 24% lên 398.2 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** xuất sắc, xác nhận các tín hiệu No Supply từ tuần trước. Việc tăng giá phá vỡ mức kháng cự với khối lượng tăng mạnh cho thấy lực cầu institutional đang rất tích cực. SHB đang trong giai đoạn markup mạnh mẽ với sự hỗ trợ đầy đủ của Smart Money.
 
 

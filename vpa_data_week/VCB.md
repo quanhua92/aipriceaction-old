@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước.
 - **Ngày 2025-07-14:** VCB có một tuần điều chỉnh sau đà tăng mạnh, từ 62.9 xuống 61.9 (-1.6%). Nến giảm với thân dài, đỉnh tuần tại 62.9, đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm xuống 37.269.171 so với tuần trước (55.830.364).
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau tín hiệu sức mạnh. Việc giá điều chỉnh (-1.6%) trên nền khối lượng giảm mạnh (-33%) cho thấy áp lực bán không lớn. Đây là sự điều chỉnh tự nhiên sau Sign of Strength tuần trước, thể hiện sự hấp thụ tốt và khả năng tiếp tục xu hướng tăng.
+- **Ngày 2025-07-21:** Sau tín hiệu No Supply của tuần trước, VCB có một tuần phục hồi nhẹ với nến tăng từ 62.2 lên 62.0 (-0.3% so với open, nhưng đóng cửa ổn định). Biên độ giao dịch 60.9-63.5, đóng cửa giữa khoảng. Khối lượng giao dịch giảm xuống 29.850.803.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá giữ ổn định trên nền khối lượng giảm tiếp (-20%) cho thấy áp lực bán rất yếu. Điều này tiếp tục khẳng định tín hiệu No Supply, cho thấy thị trường đang trong giai đoạn hấp thụ và chuẩn bị cho đợt tăng tiếp theo.
 
 

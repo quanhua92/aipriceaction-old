@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, phá vỡ sự do dự trước đó.
 - **Ngày 2025-07-14:** TPB tiếp tục xu hướng tăng với một tuần tăng giá tốt, từ 14.85 lên 15.1 (+1.7%). Nến tăng với thân dài, đỉnh tuần tại 15.35, đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm xuống 102.201.230 so với tuần trước (164.313.765).
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau tín hiệu sức mạnh. Việc giá tiếp tục tăng (+1.7%) trên nền khối lượng giảm (-38%) cho thấy áp lực bán rất yếu. Điều này khẳng định xu hướng tăng mạnh mẽ sau Sign of Strength tuần trước, thể hiện sức mạnh nội tại và khả năng duy trì đà tăng.
+- **Ngày 2025-07-21:** Tiếp nối tín hiệu No Supply của tuần trước, TPB có một tuần tăng giá mạnh mẽ với nến tăng từ 15.25 lên 15.6 (+2.3%). Biên độ giao dịch 14.85-15.9, đóng cửa gần mức cao. Khối lượng giao dịch tăng lên 129.662.093.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Việc giá tăng mạnh (+2.3%) kèm theo khối lượng tăng (+27%) sau giai đoạn No Supply cho thấy sự quan tâm mạnh mẽ từ nhà đầu tư. Điều này xác nhận xu hướng tăng đang được củng cố và có thể tiếp tục trong các tuần tới.
 
 

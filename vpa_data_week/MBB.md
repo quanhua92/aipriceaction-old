@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại mạnh mẽ và xu hướng tăng đang tiếp diễn.
 - **Ngày 2025-07-14:** MBB tiếp tục xu hướng tăng với nến tăng thân dài, đóng cửa (27.2) tăng từ 26.7 tuần trước. Giá dao động từ 26.4 đến 27.25. Khối lượng giao dịch giảm nhẹ xuống 94.6 triệu so với 95.9 triệu tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng sau Sign of Strength tuần trước cho thấy momentum tăng trưởng được duy trì, mặc dù khối lượng giảm nhẹ nhưng vẫn ở mức rất cao.
+- **Ngày 2025-07-21:** MBB có một tuần tăng giá mạnh mẽ với nến tăng thân dài, đóng cửa (28.45) tăng từ 27.2 tuần trước. Giá dao động từ 26.65 đến 28.85 với biên độ rộng. Khối lượng giao dịch tăng vọt lên 118.8 triệu so với 94.6 triệu tuần trước (+26%).
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Việc giá tăng mạnh kèm theo khối lượng bùng nổ cho thấy lực cầu institutional đang tham gia tích cực, mở ra giai đoạn tăng giá mới sau chuỗi Effort to Rise liên tiếp.
 
 

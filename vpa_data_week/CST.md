@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã quay trở lại một cách bất ngờ và mạnh mẽ, có khả năng kết thúc giai đoạn tích lũy dài.
 - **Ngày 2025-07-14:** Sau tuần bùng nổ trước đó, CST quay đầu điều chỉnh với nến giảm có biên độ hẹp, đóng cửa (15.9) thấp hơn tuần trước. Khối lượng giao dịch giảm xuống 260.852 cp nhưng vẫn ở mức cao so với giai đoạn tích lũy trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá điều chỉnh nhẹ với khối lượng giảm là một tín hiệu tích cực, cho thấy áp lực bán không mạnh và thị trường đang hấp thụ tốt sau đợt tăng giá.
+- **Ngày 2025-07-21:** Tiếp nối quá trình Test for Supply của tuần trước, CST có một tuần giao dịch giằng co với nến giảm biên độ hẹp, đóng cửa (15.7) thấp hơn nhẹ. Khối lượng giao dịch tăng mạnh lên 474.373 cp, cao hơn đáng kể so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply**. Việc giá giảm rất nhẹ trên nền khối lượng tăng cao cho thấy lực bán đã được hấp thụ tốt và thị trường đang tích cực kiểm tra khả năng cung ứng. Tín hiệu tích cực sau giai đoạn test, cho thấy nền tảng vững chắc cho xu hướng tăng tiếp theo.
 
 

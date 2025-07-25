@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng cho thấy lực cầu vẫn đang kiểm soát, tuy nhiên biên độ hẹp cho thấy đà tăng đang chững lại.
 - **Ngày 2025-07-14:** FOX có một tuần bùng nổ mạnh mẽ, tăng từ 63.5 lên 76.0 (+19.7%). Nến có biên độ rộng với giá đóng cửa gần mức cao nhất tuần. Khối lượng giao dịch tăng vọt gấp 4 lần tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Upthrust After Distribution** hoặc **Buying Climax**. Sau giai đoạn tích lũy và các test No Supply thành công, FOX đã có breakout mạnh mẽ với khối lượng khổng lồ, cho thấy sự quan tâm mạnh mẽ từ các nhà đầu tư tổ chức.
+- **Ngày 2025-07-21:** Sau tuần bùng nổ, FOX có phiên điều chỉnh với nến giảm từ 76.0 xuống 73.0 (-3.9%). Biên độ giao dịch từ 71.6 đến 80.5 cho thấy sự biến động mạnh. Khối lượng giao dịch giảm xuống 1.248.632 cp, thấp hơn đáng kể so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Buying Climax của tuần trước. Việc giá điều chỉnh trên nền khối lượng giảm là dấu hiệu tích cực, cho thấy áp lực bán không quá lớn. Đây có thể là đợt lấy lại hơi thở tự nhiên sau đợt tăng mạnh, tạo tiền đề cho xu hướng tăng tiếp theo.
 
 

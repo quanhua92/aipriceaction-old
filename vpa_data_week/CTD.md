@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán vẫn còn hiện hữu. Tín hiệu No Supply đến Sign of Weakness.
 - **Ngày 2025-07-14:** Sau tuần kiểm tra cung có tín hiệu yếu, CTD phục hồi mạnh mẽ với nến tăng thân dài, đóng cửa (86.1) gần mức cao nhất tuần. Biên độ giao dịch từ 82.5 đến 88.5 cho thấy sự biến động tích cực. Khối lượng giao dịch tăng lên 7.779.438 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau đợt kiểm tra. Việc giá bứt phá mạnh mẽ với khối lượng tăng cho thấy lực cầu đã vượt qua áp lực bán và đang kiểm soát thị trường. Tín hiệu tích cực cho xu hướng tăng trở lại.
+- **Ngày 2025-07-21:** Sau tuần bứt phá mạnh mẽ, CTD có một tuần điều chỉnh với nến giảm, đóng cửa (84.2) thấp hơn tuần trước. Biên độ giao dịch từ 84.0 đến 88.0 cho thấy áp lực chốt lời. Khối lượng giao dịch giảm xuống 7.044.029 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá điều chỉnh với khối lượng giảm là một tín hiệu tích cực, cho thấy áp lực bán không quá mạnh và thị trường đang kiểm tra vùng support mới. Tín hiệu No Supply sau giai đoạn tăng giá.
 
 

@@ -14,3 +14,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá giữ vững gần đỉnh trên nền khối lượng cao cho thấy không có áp lực bán đáng kể, đây là tín hiệu tích cực cho xu hướng tăng tiếp tục.
 
 
+- **Ngày 2025-07-21:** Tiếp nối Test for Supply của tuần trước, HDB có một tuần bùng nổ mạnh mẽ với nến tăng thân dài, tăng vọt từ 24.4 lên 28.25 (+15.8%) và đạt mức cao 28.4. Biên độ giao dịch từ 24.3 đến 28.4 cho thấy sự tăng tốc. Khối lượng giao dịch tăng vụt lên 150.275.720 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax** rõ ràng. Sau Test for Supply tuần trước, HDB đã có một cuộc bùng nổ với mức tăng +15.8% trên khối lượng khổng lồ. Đây là dấu hiệu của sự kiệt quệ cầu và rủi ro điều chỉnh đang gia tăng sau cao trào mua này.

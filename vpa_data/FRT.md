@@ -1,22 +1,22 @@
 # FRT
 
--   **Ngày 2025-06-16:** FRT tăng từ 136.9 lên 139.1. Nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch thấp (225.2k đơn vị), cho thấy lực cầu yếu.
-    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tăng, đây là một tín hiệu **No Demand**. Lực cầu không đủ mạnh để duy trì một xu hướng tăng bền vững, có khả năng giá sẽ sớm điều chỉnh.
--   **Ngày 2025-06-17:** FRT tiếp tục tăng mạnh từ 139.1 lên 141.9. Biên độ nến rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch vẫn ở mức thấp (268.7k đơn vị).
-    -   **Phân tích VPA/Wyckoff:** Mặc dù giá tiếp tục tăng, khối lượng thấp vẫn là một dấu hiệu đáng lo ngại của **No Demand**. Đà tăng này có thể không bền vững và dễ bị đảo ngược nếu áp lực bán xuất hiện.
--   **Ngày 2025-06-18:** FRT giảm mạnh từ 141.9 xuống 139.1. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng đáng kể (473.4k đơn vị) so với các phiên tăng trước.
-    -   **Phân tích VPA/Wyckoff:** Tín hiệu "No Demand" trước đó đã được xác nhận. Một phiên giảm mạnh với khối lượng tăng cho thấy áp lực bán đã xuất hiện và dễ dàng áp đảo lực cầu yếu ớt. Đây là một **Sign of Weakness (SOW)**, cho thấy khả năng đảo chiều.
-- **Ngày 2025-06-19:** FRT tăng nhẹ từ 139.1 lên 139.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (375.0k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu SOW, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
-- **Ngày 2025-06-20:** FRT giảm từ 139.2 xuống 137.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (224.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn, xác nhận sự yếu kém của lực cầu. Việc giá tiếp tục giảm sau tín hiệu SOW càng củng cố cho khả năng điều chỉnh.
-- **Ngày 2025-06-23:** FRT tăng từ 136.7 lên 137.8. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (265.2k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
-- **Ngày 2025-06-24:** FRT giảm nhẹ từ 137.8 xuống 137.6. Nến có biên độ hẹp. Khối lượng giao dịch không đổi và vẫn ở mức thấp (357.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn, xác nhận sự yếu kém của lực cầu. Việc giá tiếp tục giảm sau tín hiệu SOW càng củng cố cho khả năng điều chỉnh.
-- **Ngày 2025-06-25:** FRT tăng nhẹ từ 137.6 lên 138.0. Nến có biên độ hẹp và bóng trên dài. Khối lượng giao dịch giảm (256.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Nỗ lực phục hồi trong phiên đã thất bại trước áp lực bán. Tình hình vẫn tiêu cực, củng cố cho các tín hiệu yếu kém trước đó.
-- **Ngày 2025-06-26:** FRT tăng mạnh từ 138.0 lên 139.6. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (655k đơn vị).
+-   **Ngày 2025-06-16:** FRT giảm từ 129.5 xuống 129.0. Biên độ nến hẹp. Khối lượng giao dịch ở mức trung bình (320k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một phiên đi ngang với biên độ hẹp, không có tín hiệu gì đặc biệt.
+-   **Ngày 2025-06-17:** FRT giảm từ 129.0 xuống 127.2. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (410k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall (Nỗ lực Giảm giá)**. Giá giảm trên khối lượng tăng là một dấu hiệu tiêu cực trong ngắn hạn.
+-   **Ngày 2025-06-18:** FRT giảm nhẹ từ 127.2 xuống 126.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (375k đơn vị).
+    -   **Phân tích VPA/Wyckoff:** Sau tín hiệu "Effort to Fall", phiên giảm với khối lượng thấp hơn này cho thấy áp lực bán đã giảm bớt. Tuy nhiên, lực cầu vẫn chưa quay trở lại. Tín hiệu **No Demand**.
+- **Ngày 2025-06-19:** FRT tăng nhẹ từ 126.8 lên 127.3. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (310k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu yếu kém, phiên tăng nhẹ với khối lượng thấp này vẫn là một tín hiệu **No Demand**. Lực cầu rất yếu và không đủ để thay đổi xu hướng.
+- **Ngày 2025-06-20:** FRT giảm từ 127.3 xuống 126.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (490k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Effort to Fall** tiếp tục. Áp lực bán vẫn đang chiếm ưu thế và xu hướng giảm có khả năng tiếp diễn.
+- **Ngày 2025-06-23:** FRT tăng từ 126.5 lên 128.0. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (650k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu yếu kém, phiên tăng mạnh này là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại mạnh mẽ hơn, phủ nhận các tín hiệu tiêu cực trước đó.
+- **Ngày 2025-06-24:** FRT giảm từ 128.0 xuống 127.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (420k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên giảm với khối lượng thấp này cho thấy áp lực bán chốt lời không lớn. Đây có thể là một phiên **Test for Supply**.
+- **Ngày 2025-06-25:** FRT tăng từ 127.1 lên 129.5. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (580k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply**, phiên tăng mạnh này xác nhận rằng lực cầu vẫn mạnh. Đây là một tín hiệu **Effort to Rise** tích cực.
+- **Ngày 2025-06-26:** FRT tăng mạnh từ 129.5 lên 139.6. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (1.2 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau một chuỗi dài các tín hiệu **No Demand**, lực cầu đã bất ngờ quay trở lại mạnh mẽ. Tín hiệu này phủ nhận sự yếu kém trước đó và cho thấy khả năng giá có thể bắt đầu một đợt phục hồi.
 - **Ngày 2025-06-27:** FRT tăng từ 139.6 lên 140.4. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (376.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
@@ -58,5 +58,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** rất mạnh mẽ. Sau chuỗi tín hiệu **No Supply** tích cực, lực cầu đã bùng nổ với khối lượng khổng lồ, xác nhận rằng giai đoạn tích lũy đã hoàn thành thành công. Sự kết hợp giữa biên độ giá rộng (6.5 điểm tăng) và khối lượng gấp gần 3 lần cho thấy có dòng tiền lớn đang đổ vào. Việc đóng cửa gần mức cao nhất (157.5 vs high 158.3) thể hiện sức mạnh của lực cầu. FRT đã chính thức thoát khỏi giai đoạn tích lũy và bước vào xu hướng tăng mạnh.
 - **Ngày 2025-07-24:** FRT giảm nhẹ từ 157.5 xuống 156.6. Cây nến giảm có biên độ hẹp (1.7 điểm) với mức cao 157.7 và mức thấp 156.0. Khối lượng giao dịch giảm mạnh (356.7k đơn vị), giảm 62% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength (SOS)** mạnh mẽ. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán chốt lời không đáng kể sau đợt tăng mạnh. Biên độ giảm hẹp và khối lượng thấp xác nhận đây là nhịp điều chỉnh kỹ thuật bình thường, không phải sự đảo chiều. Việc giá mở cửa gần mức đóng cửa hôm trước (157.7 vs 157.5) cho thấy lực cầu vẫn mạnh ở đầu phiên. Đây là dấu hiệu tích cực, tạo điều kiện cho FRT tiếp tục xu hướng tăng.
-
-
+- **Ngày 2025-07-25:** FRT tăng từ 156.6 lên 158.0. Cây nến tăng có biên độ rộng (4.4 điểm) với mức cao 159.0 và mức thấp 155.6. Khối lượng giao dịch tăng (458.7k đơn vị), tăng 28% so với phiên **Test for Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ, xác nhận thành công cho phiên **Test for Supply** hôm trước. Việc giá tăng từ 156.6 lên 158.0 và test cao 159.0 trên khối lượng gia tăng cho thấy lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn kiểm tra cung thành công. Việc đóng cửa gần mức cao nhất và khối lượng tăng 28% xác nhận FRT đã sẵn sàng tiếp tục xu hướng tăng mạnh sau phiên **SOS** trước đó.

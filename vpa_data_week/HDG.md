@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Demand** sau khi nguồn cung xuất hiện. Việc giá không thể phục hồi trên khối lượng cao cho thấy phe mua yếu, củng cố cho tín hiệu yếu của tuần trước.
 - **Ngày 2025-07-14:** HDG có một tuần bùng nổ mạnh mẽ, tăng từ 25.2 lên 27.75 (+10.1%) với biên độ rộng. Khối lượng giao dịch tăng gầp đôi so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** bất ngờ. Sau giai đoạn yếu kém, HDG đã có một cuộc phục hồi mạnh mẽ trên khối lượng cao, cho thấy lực cầu đã quay trở lại một cách quyết liệt.
+- **Ngày 2025-07-21:** Tiếp nối Sign of Strength của tuần trước, HDG có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (28.0) từ 27.75 tuần trước. Giá dao động từ 26.15 đến 28.8. Khối lượng giao dịch giảm nhẹ xuống 42.6 triệu so với 44.3 triệu tuần trước nhưng vẫn ở mức rất cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng sau Sign of Strength tuần trước cho thấy momentum tăng trưởng được duy trì, tuy nhiên biên độ thu hẹp với khối lượng giảm cho thấy đà tăng đang chững lại và có thể cần thời gian củng cố.
 
 

@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một cú **Upthrust** và là một **Sign of Weakness**. Sự xuất hiện của áp lực bán mạnh ở vùng đỉnh xác nhận khả năng bắt đầu một giai đoạn phân phối hoặc điều chỉnh.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu Upthrust yếu của tuần trước, CMG có một tuần điều chỉnh với nến giảm biên độ hẹp, đóng cửa (41.8) thấp hơn tuần trước. Khối lượng giao dịch giảm đáng kể.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau cú Upthrust. Việc giá chỉ điều chỉnh nhẹ trên nền khối lượng giảm cho thấy áp lực bán đã giảm bớt, nhưng vẫn cần thêm tín hiệu xác nhận để kết luận về hướng đi tiếp theo.
+- **Ngày 2025-07-21:** CMG phục hồi mạnh mẽ với nến tăng biên độ rộng, đóng cửa (42.75) cao hơn tuần trước và vượt lại mức đỉnh cũ. Khối lượng giao dịch tăng trở lại mức cao.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau phiên Test for Supply thành công. Việc giá vượt lại được mức đỉnh cũ trên nền khối lượng tăng cho thấy lực cầu đã vượt qua được áp lực bán và xu hướng tăng được khôi phục.
 
 

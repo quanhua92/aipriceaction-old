@@ -12,4 +12,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-14:** VTP có một tuần giao dịch biến động với nến giảm thân ngắn, đóng cửa (121.6) thấp hơn nhẹ so với tuần trước. Khối lượng giao dịch duy trì ở mức cao với 5.6 triệu cổ phiếu, tương đương tuần trước.
     - **Phân tích VPA/Wyckoff:** Sau phiên Sign of Strength của tuần trước, đây là một **Test for Supply**. Việc giá giảm nhẹ trên nền khối lượng duy trì cao cho thấy có một số áp lực bán nhưng không mạnh, cổ phiếu đang trong giai đoạn tích lũy.
+- **Ngày 2025-07-21:** VTP có một tuần giao dịch đi ngang với nến giảm thân ngắn, từ 121.6 xuống 121.5 chỉ giảm nhẹ (-0.08%). Dao động trong phạm vi hẹp với đỉnh tuần tại 123.6. Khối lượng giao dịch giảm mạnh xuống 3.6 triệu cổ phiếu, giảm 35.7% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Sau phiên Test for Supply của tuần trước, đây tiếp tục là một **Test for Supply** thành công. Việc giá đi ngang trên nền khối lượng giảm mạnh cho thấy áp lực bán rất yếu và cổ phiếu đang được hấp thụ tốt. Đây là tín hiệu tích cực cho xu hướng tăng tiếp theo.
 

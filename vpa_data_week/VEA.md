@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng cho thấy lực cầu vẫn đang kiểm soát, tuy nhiên biên độ hẹp cho thấy đà tăng đang chững lại.
 - **Ngày 2025-07-14:** VEA có một tuần giảm giá mạnh, từ 39.5 xuống 38.0 (-4.0%). Nến giảm với thân dài, đỉnh tuần tại 39.5, đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng mạnh lên 8.350.696 so với tuần trước (2.960.043).
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness** rõ ràng. Việc giá giảm mạnh (-4.0%) kèm theo khối lượng tăng vọt (+182%) cho thấy áp lực bán lớn đã xuất hiện. Điều này phủ nhận Effort to Rise tuần trước, báo hiệu rủi ro điều chỉnh sâu hơn trong ngắn hạn.
+- **Ngày 2025-07-21:** Sau tín hiệu Sign of Weakness của tuần trước, VEA có một tuần ổn định với nến tăng nhẹ từ 38.0 lên 38.1 (+0.3%). Biên độ giao dịch 37.9-38.3, đóng cửa giữa khoảng. Khối lượng giao dịch giảm mạnh xuống 3.963.928.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá ổn định trên nền khối lượng giảm mạnh (-53%) cho thấy áp lực bán đã giảm bớt đáng kể. Điều này là tín hiệu tích cực sau Sign of Weakness tuần trước, cho thấy khả năng đã tìm được sàn tạm thời.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
 - **Ngày 2025-07-14:** PHR phục hồi với nến tăng có biên độ vừa phải, đóng cửa (62.2) cao hơn tuần trước. Giá tạo đỉnh tuần tại 63.0. Khối lượng giao dịch tăng 19% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận tín hiệu No Supply từ tuần trước. Việc tăng giá với khối lượng tăng cho thấy lực cầu đã trở lại sau giai đoạn điều chỉnh, hỗ trợ xu hướng tăng tiếp tục.
+- **Ngày 2025-07-21:** PHR có một tuần dao động với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 nhưng chốt phiên giảm nhẹ. Khối lượng giao dịch tăng 22% lên 3.4 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với một số đặc điểm hỗn hợp. Việc giá có thể đạt mức cao mới (65.8) nhưng không thể duy trì và đóng cửa thấp hơn với khối lượng tăng cho thấy có sự chống đỡ ở vùng cao. Tuy nhiên, việc giá vẫn giữ được trên mức hỗ trợ quan trọng cho thấy tình trạng tương đối No Supply, cần theo dõi tuần tới để xác định xu hướng.
 
 

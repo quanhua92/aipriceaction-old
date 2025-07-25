@@ -12,4 +12,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một nỗ lực phục hồi yếu ớt trên nền khối lượng cao, một tín hiệu **No Demand**. Việc giá không thể phục hồi mạnh mẽ sau đợt giảm cho thấy phe mua vẫn còn yếu thế.
 - **Ngày 2025-07-14:** HAH có một tuần phục hồi nhẹ, tăng từ 69.3 lên 70.0 (+1.0%) với biên độ hẹp. Khối lượng giao dịch tăng mạnh so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau giai đoạn yếu. Việc giá phục hồi nhẹ trên nền khối lượng tăng cao cho thấy vẫn còn sự giằng co giữa lực mua và lực bán, nhưng sự phục hồi vẫn còn yếu ớt.
+- **Ngày 2025-07-21:** Tiếp nối Test for Supply của tuần trước, HAH có một tuần tăng giá mạnh với nến tăng biên độ rộng, tăng từ 70.0 lên 74.3 (+6.1%) và đạt mức cao 76.7. Biên độ giao dịch từ 69.0 đến 76.7 cho thấy sự phục hồi mạnh mẽ. Khối lượng giao dịch tăng lên 27.881.584 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau giai đoạn Test for Supply. Việc giá có thể bứt phá mạnh mẽ với khối lượng tăng cho thấy lực cầu đã quay trở lại và có khả năng đảo chiều xu hướng giảm trước đó.
 

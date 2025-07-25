@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc liên tục trên khối lượng cực lớn tiếp tục củng cố khả năng đây là một **Climax**, báo hiệu rủi ro điều chỉnh rất lớn đang gia tăng.
 - **Ngày 2025-07-14:** GEX tiếp tục xu hướng tăng với một nến tăng mạnh, tăng từ 40.0 lên 42.4 (+6.0%) với biên độ rộng. Khối lượng giao dịch duy trì ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax** rõ ràng. Việc cổ phiếu tiếp tục bùng nổ với khối lượng khổng lồ sau nhiều tuần tăng liên tục là dấu hiệu của sự kiệt quệ cầu. Rủi ro điều chỉnh rất lớn.
+- **Ngày 2025-07-21:** Tiếp nối Buying Climax của tuần trước, GEX có một tuần bùng nổ kinh hoàng với nến tăng thân cực dài, tăng vọt từ 42.4 lên 53.5 (+26.2%) và đóng cửa ở mức cao nhất. Biên độ giao dịch từ 42.45 đến 53.5 cho thấy sự tăng tốc điên cuồng. Khối lượng giao dịch 74.226.523 cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax** cực đoan. Sau nhiều tuần Climax liên tiếp, GEX đã có một cuộc bùng nổ hoàn toàn mất kiểm soát với mức tăng +26% trong một tuần. Đây là dấu hiệu rõ ràng của sự kiệt quệ hoàn toàn của lực cầu và một đợt điều chỉnh mạnh có thể sắp xảy ra.
 
 

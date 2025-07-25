@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, phủ nhận tín hiệu yếu của các tuần trước.
 - **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, DCM có một tuần đi ngang với nến doji có biên độ hẹp, đóng cửa (33.8) không đổi so với tuần trước. Biên độ giao dịch từ 33.5 đến 34.8 cho thấy sự ổn định. Khối lượng giao dịch giảm xuống 21.948.488 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply** sau Dấu hiệu Sức mạnh. Việc giá giữ vững ở mức cao với khối lượng giảm là một tín hiệu tích cực, cho thấy áp lực bán yếu và thị trường đang hấp thụ tốt, chuẩn bị cho đợt tăng tiếp theo.
+- **Ngày 2025-07-21:** Sau phiên No Supply thành công, DCM có một tuần tăng giá mạnh với nến tăng thân dài, đóng cửa (35.6) cao hơn đáng kể so với tuần trước và tạo mức cao mới. Khối lượng giao dịch bùng nổ lên 35.6 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ sau phiên No Supply. Việc giá phá vỡ và tạo đỉnh mới trên nền khối lượng tăng vọt cho thấy lực cầu đã trở lại quyết liệt và xu hướng tăng được củng cố mạnh mẽ.
 
 

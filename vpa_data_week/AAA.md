@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã quay trở lại một cách áp đảo, phủ nhận hoàn toàn tín hiệu yếu của tuần trước và báo hiệu khả năng bắt đầu một xu hướng tăng mới.
 - **Ngày 2025-07-14:** Tiếp tục xu hướng tăng với nến tăng biên độ rộng, đóng cửa (7.76) cao hơn tuần trước và tạo mức cao mới. Khối lượng giao dịch giảm xuống 16.4 triệu cp, thấp hơn so với tuần trước nhưng vẫn duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xây dựng trên đà tăng mạnh từ tuần trước. Việc giá tiếp tục tăng trên nền khối lượng giảm nhẹ cho thấy áp lực bán đã cạn kiệt và xu hướng tăng đang được củng cố.
+- **Ngày 2025-07-21:** AAA có một tuần tăng giá mạnh mẽ với biên độ giao động từ 7.62 đến 8.4, đóng cửa (8.14) cao hơn đáng kể so với tuần trước và thiết lập mức cao mới. Khối lượng giao dịch tăng vọt lên 21.7 triệu cp, cao nhất trong 3 tuần gần đây.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, tiếp nối chuỗi tín hiệu tích cực từ hai tuần trước. Việc bứt phá mức cao mới kết hợp với khối lượng gia tăng mạnh cho thấy sự quan tâm mạnh mẽ từ dòng tiền tổ chức và xu hướng tăng đang được tăng tốc.
 
 

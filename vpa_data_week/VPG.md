@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại sau một thời gian đi ngang, phá vỡ sự thiếu quan tâm trước đó.
 - **Ngày 2025-07-14:** VPG có một tuần giao dịch biến động với nến giảm thân ngắn, mở cửa (8.31) cao hơn nhưng đóng cửa (8.07) thấp hơn tuần trước. Khối lượng giao dịch tăng nhẹ lên 5.0 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Sau phên Sign of Strength của tuần trước, đây là một **Test for Supply**. Việc giá được kiểm tra và giảm nhẹ trên khối lượng tăng cho thấy có áp lực bán nhưng không mạnh, cổ phiếu cần thời gian để tích lũy thêm.
+- **Ngày 2025-07-21:** Sau phiên kiểm tra của tuần trước, VPG có một tuần tăng giá mạnh với nến tăng thân dài, từ 8.1 lên 9.11 (+12.5%). Tạo ra đỉnh tuần tại 9.2 và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh lên 7.0 triệu cổ phiếu, tăng 40.1% so với tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Sau phiên Test for Supply thành công của tuần trước, lực cầu đã quay trở lại mạnh mẽ với mức tăng hơn 12% kèm khối lượng tăng vọt. Điều này cho thấy cổ phiếu đã vượt qua giai đoạn tích lũy và bắt đầu xu hướng tăng mới.
 
 

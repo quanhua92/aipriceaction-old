@@ -12,3 +12,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đã quay trở lại một cách quyết liệt, báo hiệu khả năng kết thúc đợt điều chỉnh.
 - **Ngày 2025-07-14:** HSG tiếp tục xu hướng tăng với một nến tăng thân dài, đóng cửa (17.95) gần mức cao nhất tuần. Giá tăng từ 17.65 lên 17.95 với biên độ dao động từ 17.45 đến 18.5. Khối lượng giao dịch giảm xuống 53.7 triệu so với tuần trước 66.7 triệu.
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**, tiếp nối tín hiệu mạnh mẽ của tuần trước. Mặc dù khối lượng giảm nhưng vẫn ở mức cao, cho thấy lực cầu vẫn đang kiểm soát và xu hướng tăng có khả năng tiếp diễn.
+- **Ngày 2025-07-21:** HSG tiếp tục đà tăng mạnh với gap lên mở cửa 18.15, đạt đỉnh 19.1 và đóng cửa 18.65 (+3.9%). Nến tăng với thân nến dài và khối lượng giao dịch tăng vọt lên 67.2 triệu.
+    - **Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** rõ ràng. Việc giá breakout mạnh mẽ trên nền khối lượng tăng cao cho thấy lực cầu đang rất mạnh và HSG đã bước vào giai đoạn markup sau đợt tích lũy. Đỉnh 19.1 có thể là test resistance tiếp theo.

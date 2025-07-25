@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Tuy nhiên, sự tăng tốc quá nhanh trên khối lượng cực lớn có thể là dấu hiệu của một **Climax**, báo hiệu rủi ro điều chỉnh đang gia tăng.
 - **Ngày 2025-07-14:** HPG có một tuần điều chỉnh nhẹ, giảm từ 26.0 xuống 25.9 (-0.4%) với biên độ hẹp. Khối lượng giao dịch giảm nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Climax tuần trước. Việc giá chỉ điều chỉnh nhẹ trên nền khối lượng giảm cho thấy áp lực bán không quá mạnh, đây là tín hiệu tích cực cho thấy xu hướng tăng vẫn có thể tiếp tục.
+- **Ngày 2025-07-21:** HPG phục hồi với gap lên mở cửa 26.4, đạt đỉnh 27.0 và đóng cửa 26.05 (+0.6%). Nến tăng với bóng trên dài và khối lượng giao dịch duy trì ở mức cao 233.5 triệu.
+    - **Phân tích VPA/Wyckoff:** Đây là **Effort to Rise** tiếp theo sau test for supply tuần trước. Việc giá phục hồi và vượt qua đỉnh 26.0 của tuần trước nhưng gặp kháng cự tại 27.0 với bóng trên dài cho thấy vẫn còn áp lực bán tại các mức giá cao. Khối lượng duy trì cao cho thấy sự quan tâm tiếp tục từ cả hai bên.
 
 

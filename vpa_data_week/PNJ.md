@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá giữ vững trên nền khối lượng thấp là một tín hiệu No Supply, cho thấy thị trường đang hấp thụ và có thể chuẩn bị cho đợt tăng tiếp theo.
 - **Ngày 2025-07-14:** PNJ phục hồi mạnh mẽ với nến tăng có biên độ rộng, đóng cửa (86.2) cao hơn đáng kể so với tuần trước. Giá tạo đỉnh tuần mới tại 88.5. Khối lượng giao dịch tăng 72% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, xác nhận dự đoán từ tín hiệu No Supply tuần trước. Việc tăng giá với khối lượng tăng vọt cho thấy lực cầu institutional đã trở lại mạnh mẽ, mở ra giai đoạn tăng giá mới.
+- **Ngày 2025-07-21:** PNJ đi ngang với biến động nhỏ, đóng cửa (86.4) gần như không đổi so với tuần trước (+0.23%). Cây nến có biên độ hẹp với bóng dưới nhỏ. Khối lượng giao dịch giảm mạnh 49.78% xuống 2.38 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply**. Sau đợt tăng mạnh tuần trước, việc giá giữ vững ở mức cao trên nền khối lượng thấp cho thấy áp lực bán đã cạn kiệt, thị trường đang hấp thụ tại vùng giá này.
 
 

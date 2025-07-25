@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận lực cầu đã quay trở lại một cách quyết liệt, phủ nhận tín hiệu yếu trước đó.
 - **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, BSR tiếp tục tăng giá với nến tăng biên độ rộng, đóng cửa (19.0) cao hơn tuần trước và tạo mức cao mới. Khối lượng giao dịch tiếp tục tăng mạnh.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xây dựng trên đà tăng mạnh từ tuần trước. Khối lượng gia tăng kết hợp với giá đóng cửa cao cho thấy lực cầu vẫn rất quyết liệt và xu hướng tăng được củng cố.
+- **Ngày 2025-07-21:** BSR ghi nhận một tuần tăng giá mạnh mẽ với nến tăng có bóng dưới, đóng cửa (19.8) cao hơn tuần trước và thiết lập mức cao mới trong năm. Khối lượng giao dịch bùng nổ lên 45.06 triệu cổ phiếu, cao nhất trong nhiều tháng qua.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** được củng cố mạnh mẽ. Xây dựng trên chuỗi các tuần tăng giá liên tiếp, việc giá phá vỡ ngưỡng kháng cự và tạo đỉnh mới trên nền khối lượng bùng nổ cho thấy lực cầu rất mạnh mẽ và xu hướng tăng đang được duy trì với đà tăng tốc.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán yếu, là một tín hiệu No Supply cho xu hướng tăng.
 - **Ngày 2025-07-14:** VGC tiếp tục phục hồi với một tuần tăng giá tốt, từ 46.4 lên 47.2 (+3.6%). Nến tăng với thân dài, đỉnh tuần tại 48.75, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng lên 7.140.349 so với tuần trước (5.364.700).
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo. Việc giá tăng mạnh (+3.6%) kèm theo khối lượng tăng (+33%) cho thấy dòng tiền mua đang mạnh mẽ trở lại. Điều này khẳng định xu hướng tăng từ tín hiệu No Supply tuần trước, thể hiện sự tiếp tục của đà phục hồi.
+- **Ngày 2025-07-21:** VGC bùng nổ mạnh mẽ với nến tăng có biên độ rất rộng, mở cửa tại 47.95 và đóng cửa tại 52.4. Giá đạt đỉnh tuần tại 52.4, tăng vọt 11.0% so với tuần trước. Khối lượng giao dịch tăng 23% lên 8.8 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** cực mạnh, hoàn thành chuỗi tín hiệu tích cực từ No Supply đến Sign of Strength liên tiếp. Việc bùng nổ giá với khối lượng khổng lồ cho thấy VGC đang trong giai đoạn breakout mạnh mẽ, với sự tham gia tích cực của Smart Money. Đây là cổ phiếu đáng chú ý trong giai đoạn markup.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Việc giá có thể tăng trên nền khối lượng thấp là một tín hiệu **No Supply**. Điều này cho thấy áp lực bán yếu, là một tín hiệu No Supply cho xu hướng tăng.
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu No Supply của tuần trước, QNS có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa (48.7) cao hơn. Khối lượng giao dịch tăng nhẹ.
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp tục với sự quan tâm tăng nhẹ. Việc giá tiếp tục tăng trên nền khối lượng vừa phải cho thấy áp lực bán yếu và đà tăng có thể tiếp tục.
+- **Ngày 2025-07-21:** QNS tiếp tục xu hướng tăng với nến tăng có biên độ vừa phải, đóng cửa (49.3) cao hơn 1.23% so với tuần trước. Cây nến tạo đỉnh mới tại 49.4. Khối lượng giao dịch giảm 27.96% xuống 832 ngàn cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** rõ ràng. Việk giá tiếp tục tăng trên nền khối lượng thấp cho thấy áp lực bán rất yếu, xác nhận sự hấp thụ tốt của thị trường và khả năng tiếp tục tăng giá.
 
 

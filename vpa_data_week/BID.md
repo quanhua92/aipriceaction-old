@@ -14,5 +14,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được củng cố.
 - **Ngày 2025-07-14:** Tiếp nối đà tăng mạnh, BID có một tuần đi ngang với nến doji biên độ hẹp, đóng cửa (38.35) gần như không đổi so với tuần trước. Khối lượng giao dịch giảm nhưng vẫn duy trì ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau đợt tăng mạnh. Việc giá giữ vững trên nền khối lượng giảm cho thấy áp lực bán đã cạn kiệt, xác nhận tín hiệu No Supply và xu hướng tăng vẫn được duy trì.
+- **Ngày 2025-07-21:** Xác nhận tín hiệu Test for Supply của tuần trước, BID có một tuần tăng giá nhẹ với nến tăng biên độ vừa phải từ 38.0 đến 39.65, đóng cửa (38.85) gần mức trung bình tuần. Khối lượng giao dịch tăng trở lại mức cao 41.3 triệu cp.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xác nhận rằng việc tích lũy của tuần trước đã thành công. Khối lượng gia tăng kết hợp với giá tăng cho thấy lực cầu vẫn đang duy trì và xu hướng tăng được củng cố.
 
 

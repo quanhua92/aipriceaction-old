@@ -1,48 +1,48 @@
 # Daily Portfolio Management Task - AI Agent Protocol
 
 ## Overview
-This document outlines the complete protocol for AI agents to generate a high-quality `hold.md` file using the Portfolio-Strategist methodology. The agent must follow these steps sequentially to provide actionable portfolio management recommendations based on VPA analysis.
+This document outlines the complete protocol for AI agents to generate a high-quality `hold.md` file using the Portfolio-Strategist methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
 ## Execution Protocol
 
 ### Step 1: Input File Verification
 **Objective**: Ensure all required source files are available and current
 
-```bash
-# Check for required input files
-ls hold.md REPORT.md REPORT_week.md LEADER.md GROUP.md PLAN.md
-ls vpa_data/ market_data/
-```
+**Use LS tool to check for required input files:**
+- Verify paths: `hold.md`, `REPORT.md`, `REPORT_week.md`, `LEADER.md`, `GROUP.md`, `PLAN.md`
+- Verify directories: `vpa_data/`, `market_data/`
 
-**Actions**:
-- Verify existing `hold.md` contains portfolio data table ("Dữ Liệu Danh Mục")
-- Verify `REPORT.md` exists with recent daily signals and prices
-- Verify `vpa_data/` directory exists with individual ticker daily VPA files
-- Verify `market_data/` directory exists with individual ticker CSV files
-- Verify `REPORT_week.md` exists with weekly analysis
-- Verify `LEADER.md` exists with industry context analysis
-- **MANDATORY**: Verify `GROUP.md` exists with accurate ticker-to-industry mappings - cross-check all portfolio holdings
-- Verify `PLAN.md` exists with overall market context (VNINDEX analysis)
+**Manual Verification Actions**:
+- **Use Read tool** to verify existing `hold.md` contains portfolio data table ("Dữ Liệu Danh Mục")
+- **Use Read tool** to verify `REPORT.md` exists with recent daily signals and prices
+- **Use LS tool** to verify `vpa_data/` directory exists with individual ticker daily VPA files
+- **Use LS tool** to verify `market_data/` directory exists with individual ticker CSV files
+- **Use Read tool** to verify `REPORT_week.md` exists with weekly analysis
+- **Use Read tool** to verify `LEADER.md` exists with industry context analysis
+- **MANDATORY**: **Use Read tool** to verify `GROUP.md` exists with accurate ticker-to-industry mappings - manually cross-check all portfolio holdings
+- **Use Read tool** to verify `PLAN.md` exists with overall market context (VNINDEX analysis)
 
-**Success Criteria**: All core input files are present and accessible
+**Success Criteria**: All core input files are present and accessible through manual verification
 
-### Step 2: Previous Portfolio State Analysis
-**Objective**: Extract current holdings and previous recommendations
+### Step 2: Manual Portfolio State Analysis
+**Objective**: Extract current holdings and previous recommendations using manual natural language analysis
 
-**Actions**:
-- Read existing `hold.md` "Dữ Liệu Danh Mục" table to identify:
+**Manual Analysis Actions**:
+- **Use Read tool** to read existing `hold.md` "Dữ Liệu Danh Mục" table and manually identify:
   - All held tickers with average buy prices
   - Quantity of shares held for each ticker
   - Previous recommendation for each ticker from "Hành Động Đề Xuất" sections
+- **Manual data extraction** using human intelligence to parse table data
+- **NO automated text parsing** - read and understand using natural language
 
-**Output**: Portfolio state mapping for Stage 0 processing
+**Output**: Manual portfolio state mapping for next stage processing
 
-### Step 3: STAGE 0 - Data Verification & Fact Sheet Creation
-**Objective**: Create verified internal fact sheets for ALL portfolio tickers
+### Step 3: STAGE 0 - Manual Data Analysis & Fact Sheet Creation
+**Objective**: Create verified internal fact sheets for ALL portfolio tickers using manual analysis
 
-**Parallel Processing Approach**: Use Task tool to process portfolio tickers concurrently since portfolio is typically smaller (5-20 tickers).
+**Manual Processing Approach**: Use Task tools to process portfolio tickers with **manual natural language analysis guidance** since portfolio is typically smaller (5-20 tickers).
 
-**Critical Process**: For EVERY ticker in the portfolio holdings table, create this internal data structure:
+**Critical Manual Process**: For EVERY ticker in the portfolio holdings table, manually create this internal data structure:
 
 ```json
 {
@@ -52,67 +52,81 @@ ls vpa_data/ market_data/
     "quantity": 1000
   },
   "previous_recommendation": "Hold/Buy More/Sell/etc.",
-  "current_price": "Latest close from market_data/{TICKER}_*.csv",
+  "current_price": "Latest close from market_data/{TICKER}_*.csv using reliable Python",
   "most_recent_daily_signal": {
-    "signal": "Effort to Rise/No Demand/SOS/etc.",
+    "signal": "Effort to Rise/No Demand/SOS/etc. - manually identified",
     "date": "YYYY-MM-DD"
   },
-  "daily_narrative_context": "1-sentence summary from vpa_data/{TICKER}.md last 3-5 days",
+  "daily_narrative_context": "1-sentence summary from vpa_data/{TICKER}.md last 3-5 days - manual analysis",
   "weekly_context": {
-    "signal": "SOS Bar/Upthrust/etc.",
+    "signal": "SOS Bar/Upthrust/etc. - manually identified",
     "week_ending_date": "YYYY-MM-DD",
-    "weekly_narrative": "Brief summary of weekly trend and context"
+    "weekly_narrative": "Brief summary of weekly trend and context - manual analysis"
   },
-  "industry_group": "Industry name from GROUP.md",
-  "industry_status": "Dẫn dắt Đồng Thuận/Yếu/Phân Phối from LEADER.md",
-  "overall_market_context": "1-sentence VNINDEX summary from PLAN.md"
+  "industry_group": "Industry name from GROUP.md - manually verified",
+  "industry_status": "Dẫn dắt Đồng Thuận/Yếu/Phân Phối from LEADER.md - manually identified",
+  "overall_market_context": "1-sentence VNINDEX summary from PLAN.md - manually extracted"
 }
 ```
 
-**File Reading Strategy for Each Portfolio Ticker**:
-1. Read `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries)
-2. Read `market_data/{TICKER}_*.csv` for current price (last row)
-3. Cross-reference with `REPORT.md` and `REPORT_week.md` for signals
-4. **CRITICAL**: Map industry using `GROUP.md` and cross-check accuracy - verify each ticker's industry classification
-5. Get industry status from `LEADER.md`
-6. Extract VNINDEX context from `PLAN.md`
-
-**Data Extraction Rules**:
-- Extract holding data ONLY from existing `hold.md` portfolio table
-- Extract current prices from individual `market_data/{TICKER}_*.csv` files (most recent closing price)
-- Extract daily signals ONLY from `REPORT.md` with exact dates
-- Extract weekly signals ONLY from `REPORT_week.md` with week ending dates and weekly trend context
-- Extract VPA narrative context from individual `vpa_data/{TICKER}.md` files
-- **MANDATORY**: Map industries using exact matches from `GROUP.md` - ALWAYS cross-check ticker industry classification accuracy
-- Get industry status from `LEADER.md` analysis
-- Extract market context from `PLAN.md` VNINDEX analysis
-
-**Parallel Processing Strategy**:
-- Use Task tool to process multiple portfolio tickers concurrently
-- Read only relevant ticker files for each holding (vpa_data/{TICKER}.md, market_data/{TICKER}_*.csv)
-- Avoid reading large consolidated files for better performance and context focus
-
-**Quality Control**: These fact sheets become the SOLE source of truth for all subsequent stages
-
-**Example Task Tool Usage for Portfolio**:
+**Manual File Reading Strategy for Each Portfolio Ticker**:
+1. **Use Read tool** to read `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries) - manual analysis
+2. **Use reliable Python** to read `market_data/{TICKER}_*.csv` for current price (last row):
+```bash
+# Example reliable Python for portfolio ticker price
+uv run -c "
+import pandas as pd
+ticker = 'VHM'
+try:
+    df = pd.read_csv(f'market_data/{ticker}_*.csv')
+    latest = df.iloc[-1]
+    print(f'{ticker}: Close={latest["Close"]}, Date={latest["Date"]}')
+except Exception as e:
+    print(f'Could not read CSV for {ticker}: {e}')
+"
 ```
-Task 1: "Process portfolio tickers TCB,VND from hold.md holdings table. For each: 1) Read vpa_data/{TICKER}.md last 10 entries 2) Read market_data/{TICKER}_*.csv current price 3) Extract signals from REPORT.md/REPORT_week.md 4) Map industry from GROUP.md 5) Get status from LEADER.md 6) Return complete fact sheet JSON"
+3. **Manual cross-reference** with `REPORT.md` and `REPORT_week.md` for signals using Read tool
+4. **CRITICAL**: **Manual industry mapping** using `GROUP.md` and cross-check accuracy - manually verify each ticker's industry classification
+5. **Manual extraction** of industry status from `LEADER.md` using Read tool
+6. **Manual extraction** of VNINDEX context from `PLAN.md` using Read tool
 
-Task 2: "For each holding ticker, identify top 3 alternative investments. Prioritize weekly signals from REPORT_week.md, then use GROUP.md for same-industry options, confirm with daily signals from REPORT.md, and consider LEADER.md industry status. Return ranked alternatives with specific VPA reasoning."
+**Manual Data Extraction Rules**:
+- **Manual extraction** of holding data from existing `hold.md` portfolio table using Read tool
+- **Reliable Python only** for current prices from individual `market_data/{TICKER}_*.csv` files
+- **Manual signal identification** from `REPORT.md` with exact dates using Read tool
+- **Manual weekly signal extraction** from `REPORT_week.md` using Read tool  
+- **Manual VPA narrative analysis** from individual `vpa_data/{TICKER}.md` files using Read tool
+- **MANDATORY**: **Manual industry mapping** using exact matches from `GROUP.md` - ALWAYS manually cross-check ticker industry classification accuracy
+- **Manual status extraction** from `LEADER.md` analysis using Read tool
+- **Manual market context extraction** from `PLAN.md` VNINDEX analysis using Read tool
 
-Task 3: "Select top 3 diversified portfolio expansion picks from different industry sectors. PRIMARY: Read REPORT_week.md for weekly bullish signals. CRITICAL: Assess entry point value - avoid overextended tickers from leading sectors unless at pullback levels. Look for 'Test for Supply', 'No Supply', early breakouts. Balance sector leadership with attractive entry points. Consider sector rotation opportunities. Ensure 3 different industries."
+**Manual Processing Strategy**:
+- Use Task tools to process multiple portfolio tickers with **manual analysis instructions**
+- **NO automated text parsing** - all signal identification through human intelligence
+- Each Task tool reads only relevant ticker files for each holding using Read tool
+- **Manual verification** of all extracted data
+
+**Quality Control**: These manually created fact sheets become the SOLE source of truth for all subsequent stages
+
+**Example Manual Task Tool Usage for Portfolio**:
+```
+Task 1: "MANUAL ANALYSIS ONLY - Process portfolio tickers TCB,VND from hold.md holdings table. For each: 1) Use Read tool to manually read vpa_data/{TICKER}.md last 10 entries 2) Use reliable Python to read market_data/{TICKER}_*.csv current price 3) Manually extract signals from REPORT.md/REPORT_week.md using Read tool 4) Manually map industry from GROUP.md using Read tool 5) Manually get status from LEADER.md using Read tool 6) Return complete manually-created fact sheet JSON. NO automated text parsing."
+
+Task 2: "MANUAL ANALYSIS ONLY - For each holding ticker, manually identify top 3 alternative investments. Use Read tool to prioritize weekly signals from REPORT_week.md, then manually use GROUP.md for same-industry options, manually confirm with daily signals from REPORT.md, and manually consider LEADER.md industry status. Return ranked alternatives with specific VPA reasoning. NO automated signal detection."
+
+Task 3: "MANUAL ANALYSIS ONLY - Select top 3 diversified portfolio expansion picks from different industry sectors. PRIMARY: Use Read tool to manually read REPORT_week.md for weekly bullish signals. CRITICAL: Manually assess entry point value - avoid overextended tickers from leading sectors unless at pullback levels. Manually look for 'Test for Supply', 'No Supply', early breakouts through human intelligence. Balance sector leadership with attractive entry points. Consider sector rotation opportunities. Ensure 3 different industries. NO automated analysis."
 ```
 
-**Portfolio Processing Benefits**:
-- Focused analysis on only held tickers (typically 5-20 vs 100+ total tickers)
-- Individual files provide precise context without noise from non-held tickers
-- Faster P&L calculations with direct price access
-- Better risk assessment with focused VPA context
+**Manual Portfolio Processing Benefits**:
+- **Manual focus** on only held tickers (typically 5-20 vs 100+ total tickers)
+- **Individual file reading** provides precise context without noise from non-held tickers
+- **Manual P&L calculations** with direct price access using reliable Python
+- **Better manual risk assessment** with focused VPA context through human intelligence
 
-### Step 4: STAGE 1 - Ticker Action Assessment
-**Objective**: Determine new recommended actions using state transition rules
+### Step 4: STAGE 1 - Manual Ticker Action Assessment
+**Objective**: Determine new recommended actions using manual analysis and state transition rules
 
-**Process**: Apply action recommendation rules in exact order using ONLY fact sheet data:
+**Manual Process**: Apply action recommendation rules in exact order using ONLY manually created fact sheet data and human intelligence:
 
 #### For Previous "Hold" Recommendations:
 - **Check Strong Bullish Continuation**:
@@ -149,8 +163,13 @@ Task 3: "Select top 3 diversified portfolio expansion picks from different indus
 - **Re-evaluate**: Previous bearish thesis invalidated
 - **Avoid**: Stay away due to bearish signals
 
-### Step 5: P&L Calculation
-**Objective**: Calculate current profit/loss for each holding
+### Step 5: Manual P&L Calculation
+**Objective**: Calculate current profit/loss for each holding using manual calculation
+
+**Manual Calculation Process**:
+- **Current prices**: Obtained using reliable Python CSV operations from fact sheets
+- **Holdings data**: Manually extracted from hold.md portfolio table
+- **Manual computation** using standard mathematical formulas
 
 **Formula**: 
 - P&L % = ((Current Price - Average Buy Price) / Average Buy Price) × 100
@@ -158,80 +177,117 @@ Task 3: "Select top 3 diversified portfolio expansion picks from different indus
 
 **Format**: Display as both percentage and monetary value (e.g., "+4.92% (+327.6)")
 
-### Step 5.5: Alternative Ticker Selection
-**Objective**: For each holding ticker, identify 3 best alternative investment options
+**Reliable Calculation Tools**: Use basic mathematical operations, no complex financial libraries
 
-**Selection Criteria** (in priority order):
-1. **Weekly VPA Analysis Priority**: Prioritize tickers with strong weekly signals from `REPORT_week.md`
-2. **Same Industry Group**: First consider tickers from same industry group (from `GROUP.md`)
-3. **Daily VPA Confirmation**: Use daily signals from `REPORT.md` to confirm weekly analysis
-4. **Industry Leadership**: Prefer tickers from "Dẫn dắt" or "Đồng Thuận" industries (from `LEADER.md`)
+### Step 5.1: Manual Sector Allocation Calculation
+**Objective**: Calculate portfolio allocation by sector for the "Phân Bổ Danh Mục Theo Ngành" table
 
-**Data Sources for Alternative Analysis**:
-- Read `REPORT_week.md` for weekly VPA signals of all available tickers
-- Read `REPORT.md` for daily VPA confirmation signals
-- Use `GROUP.md` to identify same-industry alternatives
-- Use `LEADER.md` to prioritize strong industry groups
-- Cross-reference with `vpa_data/{TICKER}.md` files for detailed analysis
+**Manual Calculation Process**:
+1. **Sector Classification**: **Use Read tool** to manually read `GROUP.md` and classify each portfolio ticker by industry sector
+2. **Market Value Calculation**: For each ticker, calculate market value = Current Price × Quantity
+3. **Sector Aggregation**: Sum market values for all tickers within each sector
+4. **Percentage Calculation**: (Sector Total Value / Portfolio Total Value) × 100
+5. **Ticker Listing**: Group tickers by sector for display
 
-**Selection Process**:
-1. **Industry Matching**: Find all tickers in same industry group as holding ticker - **MANDATORY**: Use `GROUP.md` to verify exact industry classification
-2. **Weekly Signal Filtering**: From available tickers, prioritize those with strong weekly bullish signals (SOS Bar, Effort to Rise, etc.)
-3. **Daily Confirmation**: Confirm weekly signals with supportive daily VPA analysis
-4. **Cross-Industry Options**: If insufficient same-industry options, expand to strong tickers from leading industry groups
-5. **Ranking Logic**: Rank by weekly signal strength first, then daily confirmation, then industry leadership status
-6. **CRITICAL VERIFICATION**: Always cross-check alternatives are from the SAME industry group in `GROUP.md` - never mix industries in same-sector alternatives
+**Manual Calculation Formula**:
+- Sector Value = Σ(Current Price × Quantity) for all tickers in sector
+- Sector Percentage = (Sector Value / Total Portfolio Value) × 100
+- Round percentages to 1 decimal place (e.g., 45.6%)
 
-**Output Format**: For each alternative, provide specific reasoning citing:
-- Weekly VPA signal and date (PRIORITY)
-- Daily VPA confirmation (if available)
-- Industry group and leadership status
-- Comparative advantage over current holding
+**Manual Table Format**:
+```markdown
+| Ngành | Các Mã Cổ Phiếu | Tỷ Trọng Danh Mục |
+| :---- | :-------------- | :---------------- |
+| Chứng Khoán | CTS, SSI, VIX, VND | 45.6% |
+| Ngân Hàng | HDB, SHB, VPB | 25.5% |
+| Bất Động Sản | HDC, TCH, VHM | 23.4% |
+| Bán Lẻ | MWG | 5.5% |
+```
 
-### Step 5.6: Diversified Portfolio Expansion Selection
-**Objective**: Select top 3 tickers from different industry sectors for portfolio diversification
+**Manual Data Sources**:
+- **Current prices**: From manually created fact sheets (using reliable Python CSV operations)
+- **Holdings quantities**: From existing hold.md "Dữ Liệu Danh Mục" table
+- **Sector classifications**: **Use Read tool** to manually verify against `GROUP.md`
 
-**Priority Data Sources** (in order):
-1. **Weekly VPA Analysis (PRIMARY)**: `REPORT_week.md` - prioritize strong weekly signals
-2. **Daily VPA Confirmation (SECONDARY)**: `REPORT.md` - confirm weekly signals only
-3. **Market Context**: `PLAN.md` top recommendations and market analysis
-4. **Industry Leadership**: `LEADER.md` for sector rotation strategy
+**CRITICAL MANUAL VERIFICATION**: 
+- **Always manually cross-check** sector classifications against `GROUP.md`
+- **Manually verify** percentage calculations sum to 100%
+- **Display percentages only** - no VND amounts in the table
 
-**Selection Criteria** (in priority order):
-1. **Cross-Sector Diversification**: Must select from 3 different industry groups
-2. **Weekly Signal Strength**: Prioritize "Sign of Strength" and "Effort to Rise" from weekly analysis
-3. **Entry Point Valuation**: Avoid overextended tickers - prefer pullbacks, consolidations, or early breakouts
-4. **PLAN.md Integration**: Consider tickers from "Top 1x Cơ Hội Giao Dịch" section but evaluate entry points
-5. **Industry Balance**: Mix leading sectors with emerging/recovering sectors for better value
-6. **Risk-Reward Ratio**: Prioritize favorable entry points over pure sector leadership
+### Step 5.5: Manual Alternative Ticker Selection
+**Objective**: For each holding ticker, manually identify 3 best alternative investment options
 
-**Selection Process**:
-1. **Industry Mapping**: Read `PLAN.md` to identify sectors and picks, noting current price levels
-2. **Weekly Signal Analysis**: From `REPORT_week.md`, filter tickers with strongest weekly bullish signals
-3. **Entry Point Assessment**: Identify tickers with:
-   - Recent pullbacks to support levels ("Test for Supply" or "No Supply")
-   - Early-stage breakouts with room for growth
-   - Consolidation patterns near key support levels
-   - Avoid extended moves without healthy corrections
-4. **Value vs. Leadership Balance**: 
-   - Don't exclusively pick from "Dẫn dắt" sectors if overextended
-   - Consider "Đồng Thuận" or recovering sectors with better entry points
-   - Look for rotation opportunities from expensive to undervalued sectors
-5. **Sector Diversification**: Ensure 3 picks from different major industry groups
-6. **Daily Confirmation**: Use `REPORT.md` to confirm weekly signals and assess short-term entry timing
-7. **Risk-Reward Evaluation**: Calculate potential upside vs. current extension from key levels
+**Manual Selection Criteria** (in priority order):
+1. **Manual Weekly VPA Analysis Priority**: **Use Read tool** to manually prioritize tickers with strong weekly signals from `REPORT_week.md`
+2. **Manual Same Industry Group**: **Use Read tool** to manually consider tickers from same industry group (from `GROUP.md`)
+3. **Manual Daily VPA Confirmation**: **Use Read tool** to manually confirm weekly analysis with daily signals from `REPORT.md`
+4. **Manual Industry Leadership**: **Use Read tool** to manually prefer tickers from "Dẫn dắt" or "Đồng Thuận" industries (from `LEADER.md`)
 
-**Output Requirements**:
-- 3 tickers from 3 different industry sectors
-- Each selection must cite weekly VPA signal and date as primary justification
-- **Entry Point Analysis**: Specific reasoning why current levels offer good value
-- **Risk-Reward Assessment**: Compare current price to key support/resistance levels
-- Include reasoning for diversification benefit beyond just sector leadership
-- Avoid overextended picks from leading sectors unless at attractive re-entry points
-- Consider sector rotation opportunities and value plays in emerging sectors
+**Manual Data Sources for Alternative Analysis**:
+- **Use Read tool** to manually read `REPORT_week.md` for weekly VPA signals of all available tickers
+- **Use Read tool** to manually read `REPORT.md` for daily VPA confirmation signals
+- **Use Read tool** to manually use `GROUP.md` to identify same-industry alternatives
+- **Use Read tool** to manually use `LEADER.md` to prioritize strong industry groups
+- **Use Read tool** to manually cross-reference with `vpa_data/{TICKER}.md` files for detailed analysis
 
-### Step 6: hold.md Generation
-**Objective**: Generate complete hold.md using verified fact sheets and final actions
+**Manual Selection Process**:
+1. **Manual Industry Matching**: **Use Read tool** to manually find all tickers in same industry group as holding ticker - **MANDATORY**: Manually use `GROUP.md` to verify exact industry classification
+2. **Manual Weekly Signal Filtering**: **Manual analysis** to prioritize those with strong weekly bullish signals (SOS Bar, Effort to Rise, etc.)
+3. **Manual Daily Confirmation**: **Manual verification** to confirm weekly signals with supportive daily VPA analysis
+4. **Manual Cross-Industry Options**: If insufficient same-industry options, manually expand to strong tickers from leading industry groups
+5. **Manual Ranking Logic**: **Human intelligence** to rank by weekly signal strength first, then daily confirmation, then industry leadership status
+6. **CRITICAL MANUAL VERIFICATION**: **Always manually cross-check** alternatives are from the SAME industry group in `GROUP.md` - never mix industries in same-sector alternatives
+
+**Manual Output Format**: For each alternative, provide specific reasoning citing:
+- Weekly VPA signal and date (PRIORITY) - manually identified
+- Daily VPA confirmation (if available) - manually verified
+- Industry group and leadership status - manually checked
+- Comparative advantage over current holding - manually assessed
+
+### Step 5.6: Manual Diversified Portfolio Expansion Selection
+**Objective**: Manually select top 3 tickers from different industry sectors for portfolio diversification
+
+**Manual Priority Data Sources** (in order):
+1. **Manual Weekly VPA Analysis (PRIMARY)**: **Use Read tool** to manually read `REPORT_week.md` - prioritize strong weekly signals
+2. **Manual Daily VPA Confirmation (SECONDARY)**: **Use Read tool** to manually read `REPORT.md` - confirm weekly signals only
+3. **Manual Market Context**: **Use Read tool** to manually read `PLAN.md` top recommendations and market analysis
+4. **Manual Industry Leadership**: **Use Read tool** to manually read `LEADER.md` for sector rotation strategy
+
+**Manual Selection Criteria** (in priority order):
+1. **Manual Cross-Sector Diversification**: Must manually select from 3 different industry groups
+2. **Manual Weekly Signal Strength**: **Human intelligence** to prioritize "Sign of Strength" and "Effort to Rise" from weekly analysis
+3. **Manual Entry Point Valuation**: **Manual assessment** to avoid overextended tickers - prefer pullbacks, consolidations, or early breakouts
+4. **Manual PLAN.md Integration**: **Manual analysis** to consider tickers from "Top 1x Cơ Hội Giao Dịch" section but evaluate entry points
+5. **Manual Industry Balance**: **Human judgment** to mix leading sectors with emerging/recovering sectors for better value
+6. **Manual Risk-Reward Ratio**: **Manual evaluation** to prioritize favorable entry points over pure sector leadership
+
+**Manual Selection Process**:
+1. **Manual Industry Mapping**: **Use Read tool** to manually read `PLAN.md` to identify sectors and picks, noting current price levels
+2. **Manual Weekly Signal Analysis**: **Use Read tool** to manually analyze `REPORT_week.md`, filter tickers with strongest weekly bullish signals through human intelligence
+3. **Manual Entry Point Assessment**: **Manual identification** of tickers with:
+   - Recent pullbacks to support levels ("Test for Supply" or "No Supply") - manually identified
+   - Early-stage breakouts with room for growth - manually assessed
+   - Consolidation patterns near key support levels - manually analyzed
+   - Avoid extended moves without healthy corrections - manual judgment
+4. **Manual Value vs. Leadership Balance**: **Human decision-making** to:
+   - Don't exclusively pick from "Dẫn dắt" sectors if overextended - manual assessment
+   - Consider "Đồng Thuận" or recovering sectors with better entry points - manual evaluation
+   - Look for rotation opportunities from expensive to undervalued sectors - manual analysis
+5. **Manual Sector Diversification**: **Manual verification** to ensure 3 picks from different major industry groups
+6. **Manual Daily Confirmation**: **Use Read tool** to manually confirm weekly signals and assess short-term entry timing
+7. **Manual Risk-Reward Evaluation**: **Manual calculation** of potential upside vs. current extension from key levels
+
+**Manual Output Requirements**:
+- 3 tickers from 3 different industry sectors - manually verified
+- Each selection must cite weekly VPA signal and date as primary justification - manually identified
+- **Manual Entry Point Analysis**: Specific reasoning why current levels offer good value - manual assessment
+- **Manual Risk-Reward Assessment**: Compare current price to key support/resistance levels - manual analysis
+- Include reasoning for diversification benefit beyond just sector leadership - manual evaluation
+- Avoid overextended picks from leading sectors unless at attractive re-entry points - manual judgment
+- Consider sector rotation opportunities and value plays in emerging sectors - manual strategy
+
+### Step 6: Manual hold.md Generation
+**Objective**: Generate complete hold.md using manually verified fact sheets and manually determined final actions
 
 #### 6.1 File Header
 ```markdown
@@ -253,6 +309,11 @@ Task 3: "Select top 3 diversified portfolio expansion picks from different indus
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
 [Concise overview based on collective actions and market context]
+
+* **Phân Bổ Danh Mục Theo Ngành:**
+  | Ngành | Các Mã Cổ Phiếu | Tỷ Trọng Danh Mục |
+  | :---- | :-------------- | :---------------- |
+  [Sector allocation table showing sector name, ticker list, and percentage allocation calculated from price × quantity for each sector]
 
 * **Tóm Tắt Hành Động Đề Xuất:**
   | Mã Cổ Phiếu | Trạng Thái Hiện Tại | Hành Động Đề Xuất Ngắn Gọn |
@@ -314,48 +375,49 @@ For EVERY ticker, provide detailed breakdown:
   * [Document additions or removals from portfolio]
 ```
 
-### Step 7: Quality Verification
-**Objective**: Ensure hold.md accuracy and completeness
+### Step 7: Manual Quality Verification
+**Objective**: Ensure hold.md accuracy and completeness through manual verification
 
-**CRITICAL BUG PREVENTION**: Verify correct section structure to avoid heading misalignment:
-- [ ] **Section 1**: Tóm Tắt Danh Mục Hiện Tại (summary and action table)
-- [ ] **Section 2**: Kế Hoạch Giao Dịch Chi Tiết (detailed analysis of CURRENT holdings with charts, P&L, VPA analysis, recommendations, stop-loss, take-profit, alternatives)
-- [ ] **Section 3**: Kế Hoạch Gia Tăng Chi Tiết (detailed analysis of NEW diversification picks with same format as Section 2: charts, buy prices, quantities, VPA analysis, stop-loss, take-profit)
-- [ ] **Section 4**: Nhật Ký Thay Đổi Kế Hoạch (change log)
+**CRITICAL MANUAL BUG PREVENTION**: Manually verify correct section structure to avoid heading misalignment:
+- [ ] **Section 1**: Tóm Tắt Danh Mục Hiện Tại (summary and action table) - manually verified
+- [ ] **Section 2**: Kế Hoạch Giao Dịch Chi Tiết (detailed analysis of CURRENT holdings with charts, P&L, VPA analysis, recommendations, stop-loss, take-profit, alternatives) - manually verified
+- [ ] **Section 3**: Kế Hoạch Gia Tăng Chi Tiết (detailed analysis of NEW diversification picks with same format as Section 2: charts, buy prices, quantities, VPA analysis, stop-loss, take-profit) - manually verified
+- [ ] **Section 4**: Nhật Ký Thay Đổi Kế Hoạch (change log) - manually verified
 
-**STRUCTURAL VERIFICATION**:
-- [ ] Section 2 contains individual ### ticker analyses for ALL current holdings
-- [ ] Section 3 contains individual ### ticker analyses for ALL diversification picks with full detail (not just summary table)
-- [ ] Section 3 uses identical format to Section 2: charts, prices, quantities, VPA analysis (including separate Bối Cảnh Tuần and Bối Cảnh Ngày), stop-loss, take-profit
-- [ ] No content appears between section headers without proper subsection organization
+**MANUAL STRUCTURAL VERIFICATION**:
+- [ ] Section 2 contains individual ### ticker analyses for ALL current holdings - manually counted and verified
+- [ ] Section 3 contains individual ### ticker analyses for ALL diversification picks with full detail (not just summary table) - manually verified
+- [ ] Section 3 uses identical format to Section 2: charts, prices, quantities, VPA analysis (including separate Bối Cảnh Tuần and Bối Cảnh Ngày), stop-loss, take-profit - manually checked
+- [ ] No content appears between section headers without proper subsection organization - manually inspected
 
-**Verification Checklist**:
-- [ ] All portfolio holdings from previous hold.md are processed
-- [ ] P&L calculations are mathematically correct
-- [ ] All assertions cite specific signals and dates from fact sheets
-- [ ] Action recommendations follow state transition rules correctly
-- [ ] Change log documents every recommendation change with justification
-- [ ] Chart links use correct file paths
-- [ ] Vietnamese text is grammatically correct
-- [ ] Industry classifications match GROUP.md exactly
-- [ ] **CRITICAL**: All "Top 3 Cổ Phiếu Thay Thế" alternatives are from the SAME industry group as the holding ticker per GROUP.md
+**Manual Verification Checklist**:
+- [ ] All portfolio holdings from previous hold.md are processed - manually cross-checked
+- [ ] P&L calculations are mathematically correct - manually verified
+- [ ] All assertions cite specific signals and dates from manually created fact sheets
+- [ ] Action recommendations follow state transition rules correctly - manually verified
+- [ ] Change log documents every recommendation change with manual justification
+- [ ] Chart links use correct file paths - manually checked
+- [ ] Vietnamese text is grammatically correct - manually reviewed
+- [ ] Industry classifications match GROUP.md exactly - manually cross-verified
+- [ ] **CRITICAL**: All "Top 3 Cổ Phiếu Thay Thế" alternatives are from the SAME industry group as the holding ticker per GROUP.md - manually verified
 
-### Step 8: File Output
-**Objective**: Generate final hold.md file
+### Step 8: Manual File Output
+**Objective**: Generate final hold.md file using manual compilation
 
-```bash
-# Generate new hold.md (git handles version control)
-# [Output complete hold.md content]
-```
+**Manual Output Process**:
+- **Use Write tool** to create complete hold.md content based on manual analysis
+- **Manual compilation** of all sections using manually verified data
+- **Manual formatting** to ensure proper Vietnamese structure
+- **Manual verification** of all content before writing
 
-## Quality Control Standards
+## Manual Quality Control Standards
 
-### Data Accuracy Requirements
-- **Zero Tolerance**: No assertions without fact sheet verification
-- **Price Accuracy**: Current prices must match market_data.txt exactly
-- **Date Precision**: All signals must include exact dates
-- **P&L Accuracy**: Mathematical calculations must be precise
-- **State Tracking**: Previous recommendations must be accurately captured
+### Manual Data Accuracy Requirements
+- **Zero Tolerance**: No assertions without manual fact sheet verification
+- **Price Accuracy**: Current prices must match market_data CSV files exactly - verified using reliable Python
+- **Date Precision**: All signals must include exact dates - manually verified
+- **P&L Accuracy**: Mathematical calculations must be manually verified as precise
+- **State Tracking**: Previous recommendations must be accurately captured through manual analysis
 
 ### Action Logic Standards
 - **Protocol Adherence**: All decisions must follow state transition rules

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
 - **Ngày 2025-07-14:** HHV có một tuần tăng giá mạnh mẽ, tăng từ 12.05 lên 12.9 (+7.1%) với biên độ rộng. Khối lượng giao dịch tăng vụt gần gấp đôi so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax**. Sau nhiều tuần tăng liên tục, HHV đã có một cuộc bùng nổ mạnh mẽ trên khối lượng khổng lồ, cho thấy sự quan tâm lớn từ các nhà đầu tư. Tuy nhiên, đây cũng có thể là dấu hiệu của cao trào mua.
+- **Ngày 2025-07-21:** HHV tiếp tục xu hướng tăng giá với gap lên mở cửa 13.05, đạt đỉnh 13.6 và đóng cửa 13.15 (+1.9%). Nến tăng với thân nến dài và khối lượng giao dịch giảm xuống 72.2 triệu so với 99.9 triệu của tuần trước.
+    - **Phân tích VPA/Wyckoff:** Đây là **Test for Supply** sau buying climax tuần trước. Mặc dù giá tiếp tục tăng và tạo đỉnh mới nhưng khối lượng giao dịch giảm đáng kể cho thấy động lực mua đang suy yếu. Đây có thể là dấu hiệu cần quan sát thêm để xác định xem liệu HHV có thể tiếp tục xu hướng tăng hay sẽ chuyển sang giai đoạn phân phối.
 
 

@@ -12,5 +12,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một nỗ lực phục hồi yếu ớt trên nền khối lượng thấp, một tín hiệu **No Demand**. Việc giá không thể phục hồi mạnh mẽ sau đợt giảm cho thấy phe mua vẫn còn yếu thế.
 - **Ngày 2025-07-14:** PLX tiếp tục yếu với nến giảm nhẹ có biên độ hẹp, đóng cửa (37.3) thấp hơn tuần trước. Khối lượng giao dịch tăng 32% so với tuần trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Demand** tiếp tục. Việc giá không thể tăng trên nền khối lượng tăng cho thấy lực cầu vẫn yếu, tiếp tục xác nhận tín hiệu tiêu cực từ các tuần trước.
+- **Ngày 2025-07-21:** PLX phục hồi với nến tăng có biên độ rộng, đóng cửa (38.1) cao hơn 2.14% so với tuần trước. Cây nến có bóng dưới cho thấy có sự hỗ trợ. Khối lượng giao dịch tăng mạnh 40.67% lên 12.07 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Sau chuỗi các tín hiệu No Demand, việc giá tăng mạnh với khối lượng lớn cho thấy lực cầu institutional đã trở lại, có thể báo hiệu sự kết thúc của giai đoạn yếu kém trước đó.
 
 
