@@ -8,10 +8,9 @@ This document outlines the complete protocol for AI agents to perform daily VPA 
 ### Step 1: Dividend Adjustment Check
 **Objective**: Ensure all VPA price references are accurate before analysis
 
-```bash
-# Check for dividend-adjusted tickers
-ls market_data_check_dividends/
-```
+**Use LS tool to check for dividend-adjusted tickers:**
+- Path: `market_data_check_dividends/`
+- If directory doesn't exist or is empty: proceed to Step 2
 
 **Actions**:
 - If `market_data_check_dividends/` directory exists and contains files:
@@ -63,6 +62,7 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 - **ALWAYS launch exactly 8 Task tools concurrently** using a single message with multiple tool calls
 - **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv)
 - **Each batch contains 14-15 tickers** for optimal parallel processing
+- **All Task tool calls are non-interactive** and run automatically without confirmation
 
 **Key steps**:
 1. Read the task template: `tasks/task_generate_vpa_analysis.md`
@@ -142,7 +142,7 @@ uv run merge_vpa.py
 ### Step 6: Summary Documentation
 **Objective**: Document the analysis session for review
 
-Create `tasks/report_vpa.md` with:
+**Use Write tool to create** `tasks/report_vpa.md` with:
 
 ```markdown
 # Daily VPA Analysis Report - [DATE]

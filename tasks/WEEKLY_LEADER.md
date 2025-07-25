@@ -8,11 +8,9 @@ This document outlines the complete protocol for AI agents to generate a high-qu
 ### Step 1: Input File Verification
 **Objective**: Ensure all required source files are available and current
 
-```bash
-# Check for required input files
-ls GROUP.md REPORT_week.md
-ls vpa_data_week/ market_data_week/
-```
+**Use LS tool to check for required input files:**
+- Verify paths: `GROUP.md`, `REPORT_week.md`
+- Verify directories: `vpa_data_week/`, `market_data_week/`
 
 **Actions**:
 - Verify `GROUP.md` exists with sector-to-ticker mappings
@@ -25,7 +23,7 @@ ls vpa_data_week/ market_data_week/
 ### Step 2: STAGE 0 - Ticker Profile Creation
 **Objective**: Create verified internal ticker profiles for ALL tickers to prevent data contamination
 
-**Parallel Processing Approach**: Use Task tool to process sectors concurrently, with each sector processing its tickers in parallel.
+**Parallel Processing Approach**: Use Task tool to process sectors concurrently, with each sector processing its tickers in parallel. All Task tool calls are non-interactive and run automatically.
 
 **Critical Process**: For EVERY ticker from GROUP.md, create this internal data structure:
 
@@ -235,10 +233,7 @@ For EACH eligible sector, generate using this template:
 ### Step 9: File Output
 **Objective**: Generate final LEADER.md file
 
-```bash
-# Generate new LEADER.md (git handles version control)
-# [Output complete LEADER.md content]
-```
+**Use Write tool to create** the complete LEADER.md file with all verified analysis and data. Git will handle version control automatically.
 
 ## Quality Control Standards
 

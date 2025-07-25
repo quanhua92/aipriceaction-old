@@ -8,11 +8,9 @@ This document outlines the complete protocol for AI agents to generate a high-qu
 ### Step 1: Input File Verification
 **Objective**: Ensure all required source files are available and current
 
-```bash
-# Check for required input files
-ls REPORT.md REPORT_week.md LEADER.md GROUP.md
-ls vpa_data/ market_data/
-```
+**Use LS tool to check for required input files:**
+- Verify paths: `REPORT.md`, `REPORT_week.md`, `LEADER.md`, `GROUP.md`
+- Verify directories: `vpa_data/`, `market_data/`
 
 **Actions**:
 - Verify `REPORT.md` exists and contains recent daily signals
@@ -315,24 +313,19 @@ For EACH analyzed ticker, provide:
 ### Step 7: Complete Automation Summary
 **Objective**: Execute the complete daily planning protocol with full automation
 
-**Complete Execution Sequence**:
-```bash
-# Step 1: Verify input files (manual check)
-ls REPORT.md REPORT_week.md LEADER.md GROUP.md vpa_data/ market_data/
+**Complete Execution Sequence** (all commands are non-interactive):
+1. **Step 1**: Use LS tool to verify input files: `REPORT.md`, `REPORT_week.md`, `LEADER.md`, `GROUP.md`, `vpa_data/`, `market_data/`
 
-# Step 2: Previous PLAN.md analysis (automated within utilities)
+2. **Step 2**: Previous PLAN.md analysis (automated within utilities)
 
-# Step 3: Generate fact sheets for all tickers
-uv run utilities/generate_fact_sheets.py
+3. **Step 3**: Run fact sheet generation: `uv run utilities/generate_fact_sheets.py`
 
-# Step 4: Assess ticker states using VPA methodology  
-uv run utilities/assess_ticker_states.py
+4. **Step 4**: Run ticker state assessment: `uv run utilities/assess_ticker_states.py`
 
-# Step 5: Manually enhance PLAN.md using JSON data
-# - Review utilities/ticker_states.json and utilities/fact_sheets.json
-# - Update existing PLAN.md with new signals and confidence scores
-# - Add new opportunities while preserving existing structure
-```
+5. **Step 5**: Manually enhance PLAN.md using JSON data:
+   - Use Read tool to review `utilities/ticker_states.json` and `utilities/fact_sheets.json`
+   - Use Edit tool to update existing PLAN.md with new signals and confidence scores
+   - Add new opportunities while preserving existing structure
 
 **Final Output**: Enhanced `PLAN.md` file with:
 - Updated analysis of all 115+ tickers from TICKERS.csv

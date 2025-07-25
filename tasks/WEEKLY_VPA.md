@@ -97,6 +97,7 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 - **ALWAYS launch exactly 8 Task tools concurrently** using a single message with multiple tool calls
 - **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv)
 - **Each batch contains 14-15 tickers** for optimal parallel processing
+- **All Task tool calls are non-interactive** and run automatically without confirmation
 
 **Key steps**:
 1. Read the task template: `tasks/task_generate_vpa_analysis_week.md`
@@ -158,9 +159,10 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 - **MANDATORY**: Use LS tool to check if vpa_data_week/ directory exists, create it if needed
 - Check if target week already exists in analysis
 - If week exists: Skip ticker (no action needed)
-- If week missing: Append new week entry to existing content
+- If week missing: **Use Write tool to append** new week entry to existing content
 - Preserve all existing historical analysis
 - Ensure proper UTF-8 encoding for Vietnamese text
+- **NEVER use echo or bash append commands** - always use Write tool
 
 **DIVIDEND ADJUSTMENT MODE** (Only when dividend files processed):
 - Update all historical price references using dividend ratios
@@ -235,7 +237,7 @@ uv run main.py --week
 ### Step 7: Summary Documentation
 **Objective**: Document the analysis session for review
 
-Create `tasks/report_vpa_week.md` with:
+**Use Write tool to create** `tasks/report_vpa_week.md` with:
 
 ```markdown
 # Weekly VPA Analysis Report - [DATE]

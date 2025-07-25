@@ -6,8 +6,8 @@ Generate weekly VPA analysis for all tickers that need updates
 ## Task Prompt
 I need to generate weekly VPA analysis for [NUMBER] Vietnamese stock tickers for [MONDAY_DATE] using the Wyckoff methodology. For each ticker, I need you to:
 
-1. Read the market_data_week/{TICKER}_2025-01-02_to_[MONDAY_DATE].csv file to get current week's and previous weeks' OHLCV data
-2. Read the existing vpa_data_week/{TICKER}.md file to get the latest VPA analysis context
+1. Use Read tool to examine market_data_week/{TICKER}_2025-01-02_to_[MONDAY_DATE].csv file to get current week's and previous weeks' OHLCV data
+2. Use Read tool to examine the existing vpa_data_week/{TICKER}.md file to get the latest VPA analysis context
 3. Generate a new weekly VPA analysis entry for [MONDAY_DATE] following this EXACT format:
 
 ```markdown
@@ -35,7 +35,7 @@ CRITICAL REQUIREMENTS:
 
 For each ticker, use the Write tool to append the new weekly analysis entry to the existing content in vpa_data_week/{TICKER}.md files. NEVER use echo or bash commands to update markdown files. Always use the Write tool to preserve proper file encoding and avoid formatting issues. Preserve all existing historical analysis.
 
-Process all [NUMBER] tickers systematically, ensuring each gets proper weekly VPA analysis based on their individual context and recent weekly signals.
+Process all [NUMBER] tickers systematically and sequentially, ensuring each gets proper weekly VPA analysis based on their individual context and recent weekly signals. Complete each ticker before moving to the next one.
 
 ## Usage Instructions
 1. Replace [NUMBER] with the actual number of tickers to process

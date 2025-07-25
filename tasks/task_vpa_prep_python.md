@@ -4,6 +4,7 @@
 Use the Python utility to analyze which tickers need VPA updates
 
 ## Usage
+**Non-interactive command - runs automatically without confirmation:**
 ```bash
 uv run utilities/vpa_analysis_prep.py
 ```
