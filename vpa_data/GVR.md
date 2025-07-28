@@ -60,5 +60,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** kết hợp **No Demand**. Sau tín hiệu **No Demand** hôm trước, việc giá giảm nhẹ trên khối lượng giảm mạnh 31% cho thấy cả lực mua và lực bán đều rất yếu. Mặc dù giá có test thấp 30.1, nhưng sự thiếu vắng khối lượng cho thấy không có áp lực bán mạnh. GVR đang trong giai đoạn consolidation điển hình, chờ đợi xúc tác mới để tạo xu hướng rõ ràng. Sau chuỗi Test for Demand và Effort to Rise trước đó, đây là giai đoạn nghỉ ngơi bình thường.
 - **Ngày 2025-07-23:** GVR bứt phá từ 30.45 lên 31.05. Cây nến tăng có biên độ rộng (0.75 điểm) với mức cao 31.2 và mức thấp 30.6. Khối lượng giao dịch tăng vọt (6.91 triệu đơn vị), tăng 88% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau giai đoạn consolidation với tín hiệu **No Supply** và **No Demand**, lực cầu đã bùng nổ với khối lượng tăng gần gấp đôi, phá vỡ hoàn toàn sự trầm lắng trước đó. Việc giá tăng mạnh và test lên mức cao 31.2 cho thấy có dòng tiền lớn đang đổ vào. GVR đã chính thức kết thúc giai đoạn consolidation và bước vào xu hướng tăng mạnh, tiếp nối chuỗi tín hiệu tích cực trước đó.
+- **Ngày 2025-07-24:** GVR tăng từ 31.05 lên 31.65. Khối lượng giao dịch 6.63 triệu đơn vị.
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **SOS** tiếp diễn với giá test cao 32.15.
+- **Ngày 2025-07-25:** GVR giảm từ 31.65 xuống 31.2. Khối lượng giảm xuống 5.45 triệu đơn vị.  
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Test for Supply** sau SOS, áp lực bán không mạnh.
+- **Ngày 2025-07-28:** GVR tăng từ 31.2 lên 31.4. Cây nến tăng có biên độ rộng với mức dao động 31.05-31.95. Khối lượng giao dịch tăng mạnh lên 9.79 triệu đơn vị, tăng 80% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ sau phiên **Test for Supply**. Việc khối lượng tăng vọt 80% kèm theo việc giá phục hồi và test cao 31.95 cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn test. Xác nhận thành công cho phiên test và GVR tiếp tục xu hướng tăng sau tín hiệu SOS trước đó.
 
 

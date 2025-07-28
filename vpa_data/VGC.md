@@ -62,3 +62,5 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Demand** tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Effort to Rise** mạnh mẽ. Việc giá tăng lên mức cao 49.35 với khối lượng bùng nổ tăng gần 50% so với phiên trước cho thấy lực cầu đã quay trở lại một cách quyết đoán. Mặc dù không thể duy trì được mức cao nhất và chốt lại ở 48.3, nhưng đây vẫn là tín hiệu rất tích cực cho thấy phe mua đã hoàn toàn áp đảo. Tín hiệu này phủ nhận hoàn toàn SOW trước đó và tạo nền tảng vững chắc cho xu hướng tăng mạnh tiếp theo.
 
 
+- **Ngày 2025-07-28:** VGC tăng mạnh từ 52.4 lên 56.0 (+6.9%). Giá mở cửa, cao nhất, thấp nhất và đóng cửa đều ở mức 56.0. Khối lượng giao dịch giảm mạnh (576.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá hôm nay thể hiện **No Supply** cực kỳ mạnh mẽ. Việc giá gap up 6.9% và không có bất kỳ biến động nào trong phiên (tất cả giá đều ở 56.0) với khối lượng giảm mạnh cho thấy áp lực bán hoàn toàn biến mất. Đây là tín hiệu rất tích cực, thể hiện sự kiểm soát tuyệt đối của lực cầu và có thể báo hiệu một giai đoạn tăng giá mạnh mẽ tiếp theo.

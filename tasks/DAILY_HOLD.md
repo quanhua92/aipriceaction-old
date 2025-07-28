@@ -71,19 +71,14 @@ This document outlines the complete protocol for AI agents to generate a high-qu
 
 **Manual File Reading Strategy for Each Portfolio Ticker**:
 1. **Use Read tool** to read `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries) - manual analysis
-2. **Use reliable Python** to read `market_data/{TICKER}_*.csv` for current price (last row):
-```bash
-# Example reliable Python for portfolio ticker price
-uv run -c "
-import pandas as pd
-ticker = 'VHM'
-try:
-    df = pd.read_csv(f'market_data/{ticker}_*.csv')
-    latest = df.iloc[-1]
-    print(f'{ticker}: Close={latest["Close"]}, Date={latest["Date"]}')
-except Exception as e:
-    print(f'Could not read CSV for {ticker}: {e}')
-"
+2. **Use reliable Python script** to read `market_data/{TICKER}_2025-01-02_to_2025-07-28.csv` for current price (last row):
+```python
+# CRITICAL: Use calculate_pnl_correct.py script for accurate P&L calculations
+# This script:
+# 1. Reads portfolio from hold.md table automatically 
+# 2. Gets current prices from last row of each ticker's CSV in market_data/
+# 3. Calculates accurate P&L with proper formulas
+python3 calculate_pnl_correct.py
 ```
 3. **Manual cross-reference** with `REPORT.md` and `REPORT_week.md` for signals using Read tool
 4. **CRITICAL**: **Manual industry mapping** using `GROUP.md` and cross-check accuracy - manually verify each ticker's industry classification
@@ -92,7 +87,7 @@ except Exception as e:
 
 **Manual Data Extraction Rules**:
 - **Manual extraction** of holding data from existing `hold.md` portfolio table using Read tool
-- **Reliable Python only** for current prices from individual `market_data/{TICKER}_*.csv` files
+- **Use calculate_pnl_correct.py script** for current prices from individual `market_data/{TICKER}_2025-01-02_to_2025-07-28.csv` files
 - **Manual signal identification** from `REPORT.md` with exact dates using Read tool
 - **Manual weekly signal extraction** from `REPORT_week.md` using Read tool  
 - **Manual VPA narrative analysis** from individual `vpa_data/{TICKER}.md` files using Read tool
@@ -163,21 +158,39 @@ Task 3: "MANUAL ANALYSIS ONLY - Select top 3 diversified portfolio expansion pic
 - **Re-evaluate**: Previous bearish thesis invalidated
 - **Avoid**: Stay away due to bearish signals
 
-### Step 5: Manual P&L Calculation
-**Objective**: Calculate current profit/loss for each holding using manual calculation
+### Step 5: Accurate P&L Calculation Using calculate_pnl_correct.py
+**Objective**: Calculate current profit/loss for each holding using the verified calculation script
 
-**Manual Calculation Process**:
-- **Current prices**: Obtained using reliable Python CSV operations from fact sheets
-- **Holdings data**: Manually extracted from hold.md portfolio table
-- **Manual computation** using standard mathematical formulas
+**CRITICAL CALCULATION PROCESS**:
+1. **ALWAYS use calculate_pnl_correct.py script** - this script automatically:
+   - Reads portfolio from hold.md table 
+   - Gets current prices from last row of each ticker's CSV in market_data/
+   - Calculates accurate P&L with verified formulas
+   - **Formats all numbers using Vietnamese dot separators** (28.085.600)
+   - Provides formatted output for hold.md updates
 
-**Formula**: 
+**Never use hardcoded prices or manual calculations** - always run:
+```bash
+python3 calculate_pnl_correct.py
+```
+
+**Script Output Provides**:
+- Current prices from actual market data CSV files
+- Accurate P&L calculations for each position using Vietnamese dot formatting (e.g., 28.085.600)
+- Total portfolio P&L summary with consistent Vietnamese number formatting
+- Formatted P&L lines ready for hold.md insertion with proper dot separators
+
+**Formula Verification**: 
 - P&L % = ((Current Price - Average Buy Price) / Average Buy Price) × 100
 - P&L Amount = (Current Price - Average Buy Price) × Quantity
+- All calculations verified by the script
 
-**Format**: Display as both percentage and monetary value (e.g., "+4.92% (+327.6)")
+**CRITICAL VIETNAMESE NUMBER FORMATTING**: Display as both percentage and monetary value using Vietnamese dot separators (e.g., "+4.92% (+2.885.000)")
 
-**Reliable Calculation Tools**: Use basic mathematical operations, no complex financial libraries
+**Data Sources**: 
+- Portfolio holdings: From hold.md "Dữ Liệu Danh Mục" table
+- Current prices: From market_data/{TICKER}_2025-01-02_to_2025-07-28.csv last row
+- All processed automatically by calculate_pnl_correct.py
 
 ### Step 5.1: Manual Sector Allocation Calculation
 **Objective**: Calculate portfolio allocation by sector for the "Phân Bổ Danh Mục Theo Ngành" table
@@ -205,7 +218,7 @@ Task 3: "MANUAL ANALYSIS ONLY - Select top 3 diversified portfolio expansion pic
 ```
 
 **Manual Data Sources**:
-- **Current prices**: From manually created fact sheets (using reliable Python CSV operations)
+- **Current prices**: From calculate_pnl_correct.py script output (reads actual CSV files)
 - **Holdings quantities**: From existing hold.md "Dữ Liệu Danh Mục" table
 - **Sector classifications**: **Use Read tool** to manually verify against `GROUP.md`
 
@@ -342,7 +355,7 @@ For EVERY ticker, provide detailed breakdown:
 * **Giá Mua Trung Bình:** [From fact sheet]
 * **Số Lượng Nắm Giữ:** [From fact sheet]
 * **Giá Hiện Tại:** [From fact sheet]
-* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** [Calculated P&L]
+* **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** [Calculated P&L using Vietnamese dot format - e.g., +9.27% (+2.885.000)]
 * **VPA Phân Tích Hiện Tại:** 
   * **Bối Cảnh Tuần:** [Weekly context from fact sheet - weekly signals, week ending date, and weekly narrative]
   * **Bối Cảnh Ngày:** [Daily context from fact sheet - daily signals, recent narrative, and short-term trend analysis]
@@ -414,9 +427,10 @@ For EVERY ticker, provide detailed breakdown:
 
 ### Manual Data Accuracy Requirements
 - **Zero Tolerance**: No assertions without manual fact sheet verification
-- **Price Accuracy**: Current prices must match market_data CSV files exactly - verified using reliable Python
+- **Price Accuracy**: Current prices must match market_data CSV files exactly - verified using calculate_pnl_correct.py
 - **Date Precision**: All signals must include exact dates - manually verified
-- **P&L Accuracy**: Mathematical calculations must be manually verified as precise
+- **P&L Accuracy**: Mathematical calculations must be manually verified as precise using Vietnamese dot formatting for ALL individual ticker P&L amounts
+- **Number Formatting**: ALL monetary amounts must use Vietnamese dot separators (28.085.600 VND)
 - **State Tracking**: Previous recommendations must be accurately captured through manual analysis
 
 ### Action Logic Standards
@@ -430,13 +444,17 @@ For EVERY ticker, provide detailed breakdown:
 - **NO MIXED LANGUAGE**: Never mix English and Vietnamese in same sentence (e.g. avoid "Banking sector leads recovery, momentum breakout", "Excellent entry point sau healthy pullback")
 - Use proper Vietnamese financial terminology for all descriptions
 - Maintain professional tone and grammar in Vietnamese
-- Ensure decimal formatting uses dots (.), not commas (,)
+- **CRITICAL NUMBER FORMATTING**: Use Vietnamese dot separators for thousands (e.g., 28.085.600 VND, not 28,085,600 VND). Decimal points still use dots (e.g., 42.5 price)
 - Use consistent industry naming from GROUP.md
 - **EXAMPLES OF CORRECT USAGE**:
   - Good: "Điểm vào tốt sau điều chỉnh lành mạnh, tỷ lệ rủi ro-lợi nhuận 3:1 thuận lợi"
   - Bad: "Excellent entry point sau healthy pullback, favorable 3:1 risk-reward ratio"
   - Good: "Ngành ngân hàng dẫn dắt chu kỳ phục hồi kinh tế"
   - Bad: "Banking sector leads recovery, momentum breakout"
+  - Good (Numbers): "Tổng P&L: +28.085.600 VND (+8.35%)"
+  - Bad (Numbers): "Tổng P&L: +28,085,600 VND (+8.35%)"
+  - Good (Individual P&L): "+9.27% (+2.885.000)"
+  - Bad (Individual P&L): "+9.27% (+2,885)"
 
 ### Technical Requirements
 - **Chart Links**: Verify all image paths exist (reports/ and reports_week/)

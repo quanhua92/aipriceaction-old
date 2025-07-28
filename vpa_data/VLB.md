@@ -42,3 +42,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Sau chuỗi **Test for Supply**, việc giá phục hồi với khối lượng tăng gấp đôi (từ 81.1k lên 165.8k) cho thấy lực cầu đã quay trở lại để hấp thụ nguồn cung. Việc giá có thể test lên 48.5 thể hiện tiềm năng phục hồi. Tín hiệu tích cực, cho thấy giai đoạn điều chỉnh có thể đã kết thúc.
 
 
+- **Ngày 2025-07-28:** VLB tăng nhẹ từ 47.8 lên 47.9 (+0.2%). Cây nến tăng có biên độ hẹp với mức cao nhất 48.0 và mức thấp nhất 47.5. Khối lượng giao dịch tăng (76.9k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá hôm nay thể hiện **No Supply** nhẹ. Việc giá dao động trong biên độ hẹp từ 47.5 đến 48.0 với khối lượng tăng cho thấy không có áp lực bán đáng kể và lực cầu đang dần ổn định. Mặc dù mức tăng rất nhỏ, sự thiếu áp lực bán là dấu hiệu tích cực, thị trường có thể đang chuẩn bị cho giai đoạn tích lũy.

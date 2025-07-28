@@ -56,5 +56,11 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp diễn mạnh mẽ. Sau phiên **Test for Supply** tích cực hôm trước, việc giá tăng mạnh với khối lượng bùng nổ trở lại xác nhận lực cầu rất mạnh. Việc giá vượt qua mức cao trước đó (15.1) và đóng cửa tại 15.0 cho thấy xu hướng tăng được củng cố. Khối lượng tăng 57% cho thấy dòng tiền tiếp tục đổ vào mạnh mẽ. HAG đang trong giai đoạn markup mạnh mẽ, tiếp tục xác nhận breakout thành công sau giai đoạn tích lũy.
 - **Ngày 2025-07-23:** HAG giảm mạnh từ 15.0 xuống 14.5. Cây nến giảm có biên độ rộng (0.85 điểm) với mức cao 15.2 và mức thấp 14.35. Khối lượng giao dịch tăng (23.70 triệu đơn vị), tăng 8% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **Sign of Strength (SOS)** mạnh mẽ, đây là tín hiệu **Test for Supply (Kiểm tra Nguồn cung)**. Việc giá giảm trên khối lượng vẫn cao cho thấy áp lực bán chốt lời đã xuất hiện sau đợt tăng mạnh. Mặc dù giá có test xuống thấp 14.35, nhưng việc có test lên cao 15.2 trước khi giảm cho thấy vẫn có lực cầu ở đầu phiên. Đây là nhịp điều chỉnh bình thường sau giai đoạn markup mạnh mẽ, HAG vẫn duy trì xu hướng tăng tổng thể và có thể tích lũy trước đợt tăng tiếp theo.
+- **Ngày 2025-07-24:** HAG giảm từ 14.5 xuống 14.0. Khối lượng giao dịch 23.9 triệu đơn vị.
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **Test for Supply** tiếp diễn.
+- **Ngày 2025-07-25:** HAG tăng nhẹ từ 14.0 lên 14.05. Khối lượng giảm xuống 16.0 triệu đơn vị.
+    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Supply** sau test, áp lực bán giảm.
+- **Ngày 2025-07-28:** HAG tăng từ 14.05 lên 14.2. Cây nến tăng có biên độ vừa phải với mức dao động 14.05-14.45. Khối lượng giao dịch giảm xuống 14.12 triệu đơn vị, giảm 12% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** nhẹ sau giai đoạn **Test for Supply**. Việc giá tăng và test cao 14.45 cho thấy lực cầu đang quay trở lại sau giai đoạn test. Mặc dù khối lượng giảm, nhưng hành động giá tích cực sau chuỗi SOS trước đó cho thấy HAG đang chuẩn bị tiếp tục xu hướng tăng.
 
 

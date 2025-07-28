@@ -58,3 +58,5 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối chuỗi tín hiệu **Test for Demand** của các phiên trước, phiên hôm nay tiếp tục xác nhận tín hiệu **Test for Demand**. Việc giá duy trì ổn định tại vùng 38.0 với khối lượng giảm cho thấy vùng hỗ trợ này đang được củng cố. Mặc dù lực cầu chưa bùng nổ mạnh mẽ, nhưng sự ổn định của giá trong bối cảnh khối lượng giảm cho thấy áp lực bán đã cạn kiệt tại mức này. Đây là tín hiệu tích cực, có thể tạo nền tảng cho một đợt phục hồi trong tương lai gần.
 
 
+- **Ngày 2025-07-28:** VEA tăng từ 38.1 lên 38.5 (+1.0%). Cây nến tăng có biên độ vừa phải với mức cao nhất 38.5 và không có test xuống. Khối lượng giao dịch tăng (844.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Hành động giá hôm nay thể hiện **Effort to Rise** nhẹ. Việc giá tăng từ mức mở cửa 38.1 lên đóng cửa 38.5 với khối lượng tăng so với phiên trước cho thấy lực cầu bắt đầu xuất hiện. Mặc dù biên độ tăng nhỏ, sự ổn định của giá và khối lượng cải thiện là dấu hiệu tích cực cho thấy thị trường đang thoát khỏi giai đoạn đi ngang.

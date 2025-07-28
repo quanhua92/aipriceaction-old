@@ -42,3 +42,5 @@
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Effort to Rise** mạnh mẽ. Việc giá bứt phá lên mức cao mới với khối lượng tăng gấp đôi so với phiên trước cho thấy lực cầu đã quay trở lại một cách quyết đoán sau giai đoạn tích lũy. Phe mua đã hoàn toàn chiếm ưu thế và sẵn sàng đẩy giá lên cao hơn nữa. Tín hiệu cực kỳ tích cực cho xu hướng tăng mạnh.
 
 
+- **Ngày 2025-07-28:** VCS tăng từ 50.5 lên 51.2 (+1.6%). Cây nến tăng có biên độ rộng với mức cao nhất 51.8 và mức thấp nhất 50.2. Khối lượng giao dịch tăng (317.2k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Dựa trên hành động giá hôm nay, đây là tín hiệu **Effort to Rise** nhẹ. Việc giá test cao lên 51.8 và đóng cửa tích cực ở 51.2 với khối lượng tăng cho thấy lực cầu đang cố gắng kiểm soát. Mặc dù có test xuống 50.2, khả năng phục hồi mạnh thể hiện sự ổn định của vùng hỗ trợ 50.0. Triển vọng tích cực cho xu hướng tăng.

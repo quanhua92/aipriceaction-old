@@ -62,3 +62,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Test for Demand** của phiên trước, việc giá mở cửa ở mức cao 42.1 và có thể test lên 43.2 nhưng đóng cửa thấp hơn cho thấy áp lực bán đã xuất hiện ở vùng giá cao. Khối lượng tăng nhẹ thể hiện có sự giằng co giữa cung cầu. Tình huống vẫn trong trạng thái thử nghiệm.
 
 
+- **Ngày 2025-07-24:** VCI giảm từ 41.75 xuống 41.5. Cây nến giảm có biên độ hẹp với mức thấp nhất 40.95. Khối lượng giao dịch giảm mạnh (9.86 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, hành động giá hôm nay cho thấy **No Demand** nhẹ. Việc giá test xuống vùng 40.95 với khối lượng giảm mạnh cho thấy áp lực bán đã giảm nhưng lực cầu cũng chưa mạnh. Thị trường đang trong giai đoạn cân bằng.
+- **Ngày 2025-07-25:** VCI tăng mạnh từ 41.55 lên 43.05 (+3.6%). Cây nến tăng có biên độ rộng với mức cao nhất 43.15. Khối lượng giao dịch tăng vọt (26.12 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau giai đoạn cân bằng và **No Demand** của phiên trước, hành động giá hôm nay xác nhận **Sign of Strength** mạnh mẽ. Việc giá bứt phá lên mức cao mới với khối lượng bùng nổ cho thấy lực cầu đã quay trở lại quyết đoán. Xu hướng tăng được xác nhận.
+- **Ngày 2025-07-28:** VCI tiếp tục tăng mạnh từ 44.3 lên 44.95 (+4.4%). Cây nến tăng có biên độ rộng với mức cao nhất 46.0. Khối lượng giao dịch giảm (19.91 triệu đơn vị) nhưng vẫn rất cao.
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Sign of Strength** của phiên trước, hành động giá hôm nay xác nhận **No Supply** mạnh mẽ. Việc giá gap up và test cao lên 46.0 với khối lượng vẫn rất lớn cho thấy áp lực bán hoàn toàn biến mất và lực cầu đang kiểm soát tuyệt đối. Xu hướng tăng rất mạnh mẽ và có tiềm năng tiếp tục.
