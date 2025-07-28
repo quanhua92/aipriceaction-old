@@ -1,13 +1,5 @@
 # BVH
 
-- **Ngày 2025-07-16:** BVH tăng từ 53.8 lên 54.4. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (291.9k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tích cực. Việc giá tăng nhẹ trên khối lượng thấp cho thấy áp lực bán không đáng kể và có dấu hiệu **No Supply**. Tín hiệu này cho thấy BVH đang trong giai đoạn tích lũy hoặc chuẩn bị cho đợt tăng giá.
-
-- **Ngày 2025-07-17:** BVH giảm từ 54.4 xuống 53.5. Cây nến giảm có biên độ hẹp với mức thấp 53.4. Khối lượng giao dịch tăng mạnh (541.8k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau test for supply. Việc giá giảm nhẹ trên khối lượng tăng có thể là dấu hiệu kiểm tra lực cầu ở vùng thấp hơn. Cần quan sát phản ứng của thị trường để xác định liệu đây có phải là giai đoạn tích lũy hay điều chỉnh.
-
-- **Ngày 2025-07-17:** BVH tăng từ 53.5 lên 54.1. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 385.5k đơn vị so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên test for demand, việc giá phục hồi trên khối lượng giảm cho thấy lực cầu đã xuất hiện và hấp thụ tốt áp lực bán. Tín hiệu này cho thấy BVH có khả năng đã tìm được vùng hỗ trợ và có tiềm năng ổn định hoặc phục hồi trong các phiên tới.
 
 -   **Ngày 2025-06-13:** BVH giảm nhẹ, đóng cửa ở 49.3. Biên độ nến hẹp và khối lượng giao dịch rất thấp (287,429 đơn vị).
 
@@ -59,10 +51,10 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** quan trọng. Việc giá có test lên cao nhưng bị đẩy xuống trên khối lượng tăng mạnh cho thấy áp lực bán xuất hiện. Tiếp nối chuỗi tín hiệu yếu trước đó, đây có thể là dấu hiệu tiếp tục của xu hướng điều chỉnh.
 
 - **Ngày 2025-07-16:** BVH tăng từ 53.8 lên 54.4. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (291.6k đơn vị) so với phiên **Test for Supply** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh test supply. Sau phiên test for supply của ngày hôm trước, việc giá tăng trên khối lượng giảm mạnh cho thấy lực cầu rất yếu. Tín hiệu này xác nhận rằng test for supply đã thất bại và xu hướng điều chỉnh có khả năng sẽ tiếp diễn.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực. Sau phiên test for supply của ngày hôm trước, việc giá tăng trên khối lượng giảm mạnh cho thấy áp lực bán không đáng kể và có dấu hiệu cung đã cạn kiệt. Tín hiệu này cho thấy BVH đang trong giai đoạn tích lũy hoặc chuẩn bị cho đợt tăng giá.
 
-- **Ngày 2025-07-17:** BVH giảm từ 54.4 xuống 53.5. Cây nến giảm có biên độ rộng với mức cao 54.5 và mức thấp 53.4. Khối lượng giao dịch tăng mạnh lên 543.3k đơn vị, cao hơn đáng kể so với phiên **No Demand** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** xác nhận cho tín hiệu **No Demand** của phiên trước. Việc giá giảm mạnh trên khối lượng tăng cho thấy áp lực bán đã xuất hiện và lực cầu vẫn yếu. Tín hiệu này xác nhận rằng xu hướng điều chỉnh đang tiếp diễn.
+- **Ngày 2025-07-17:** BVH giảm từ 54.4 xuống 53.5. Cây nến giảm có biên độ rộng với mức cao 54.5 và mức thấp 53.4. Khối lượng giao dịch tăng mạnh lên 543.3k đơn vị, cao hơn đáng kể so với phiên **No Supply** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** sau tín hiệu **No Supply** của phiên trước. Việc giá giảm mạnh trên khối lượng tăng cho thấy áp lực bán đã xuất hiện và test lại vùng support. Tín hiệu này cho thấy thị trường đang trong giai đoạn kiểm tra sức mạnh của support sau khi supply đã giảm.
 
 - **Ngày 2025-07-18:** BVH tiếp tục giảm từ 53.3 xuống 52.5. Cây nến giảm có biên độ rộng với mức cao 53.4 và mức thấp 52.4. Khối lượng giao dịch tăng tiếp lên 586.0k đơn vị, cao hơn so với phiên **Effort to Fall** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn trên khối lượng tăng. Việc giá tiếp tục giảm mạnh trên khối lượng tăng cho thấy áp lực bán vẫn mạnh và lực cầu chưa thể hấp thụ được. Tín hiệu này xác nhận rằng xu hướng điều chỉnh vẫn đang tiếp diễn và BVH có thể sẽ tiếp tục tìm kiếm mức hỗ trợ thấp hơn.

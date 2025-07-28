@@ -22,19 +22,20 @@
 5. [**ACB**](#ACB) (Ngân Hàng) - **90%** - Dấu Hiệu Sức Mạnh xác nhận mạnh - [View Report](REPORT.md#ACB)
 
 ### Nhóm Tin Cậy Tốt (85-89%)
-6. [**HDC**](#HDC) (Bất Động Sản) - **85%** - Dấu Hiệu Sức Mạnh trong ngành dẫn dắt - [View Report](REPORT.md#HDC)
-7. [**HDB**](#HDB) (Ngân Hàng) - **85%** - Dấu Hiệu Sức Mạnh ngành mạnh - [View Report](REPORT.md#HDB)
-8. [**TCH**](#TCH) (Bất Động Sản) - **85%** - Dấu Hiệu Sức Mạnh bất động sản - [View Report](REPORT.md#TCH)
-9. [**VCI**](#VCI) (Chứng Khoán) - **85%** - Dấu Hiệu Sức Mạnh ổn định - [View Report](REPORT.md#VCI)
-10. [**VIX**](#VIX) (Chứng Khoán) - **85%** - Dấu Hiệu Sức Mạnh, thận trọng đỉnh cao - [View Report](REPORT.md#VIX)
+6. [**CTS**](#CTS) (Chứng Khoán) - **85%** - Không Có Nguồn Cung sau SOS mạnh - [View Report](REPORT.md#CTS)
+7. [**HDC**](#HDC) (Bất Động Sản) - **85%** - Dấu Hiệu Sức Mạnh trong ngành dẫn dắt - [View Report](REPORT.md#HDC)
+8. [**HDB**](#HDB) (Ngân Hàng) - **85%** - Dấu Hiệu Sức Mạnh ngành mạnh - [View Report](REPORT.md#HDB)
+9. [**TCH**](#TCH) (Bất Động Sản) - **85%** - Dấu Hiệu Sức Mạnh bất động sản - [View Report](REPORT.md#TCH)
+10. [**VCI**](#VCI) (Chứng Khoán) - **85%** - Dấu Hiệu Sức Mạnh ổn định - [View Report](REPORT.md#VCI)
+11. [**VIX**](#VIX) (Chứng Khoán) - **85%** - Dấu Hiệu Sức Mạnh, thận trọng đỉnh cao - [View Report](REPORT.md#VIX)
 
 ### Nhóm Tin Cậy Trung Bình (75-84%)
-11. [**MWG**](#MWG) (Bán Lẻ) - **80%** - Kiểm Tra Nguồn Cung lành mạnh - [View Report](REPORT.md#MWG)
-12. [**MSN**](#MSN) (Thực Phẩm) - **80%** - Nỗ Lực Tăng Giá phòng thủ tốt - [View Report](REPORT.md#MSN)
-13. [**REE**](#REE) (Năng Lượng) - **80%** - Nỗ Lực Tăng Giá chuyển đổi năng lượng - [View Report](REPORT.md#REE)
-14. [**MBS**](#MBS) (Chứng Khoán) - **80%** - Nỗ Lực Tăng Giá trong ngành mạnh - [View Report](REPORT.md#MBS)
-15. [**BSI**](#BSI) (Chứng Khoán) - **75%** - Dấu Hiệu Sức Mạnh mới nổi - [View Report](REPORT.md#BSI)
-16. [**MBB**](#MBB) (Ngân Hàng) - **75%** - Dấu Hiệu Sức Mạnh ngân hàng mạnh - [View Report](REPORT.md#MBB)
+12. [**MWG**](#MWG) (Bán Lẻ) - **80%** - Kiểm Tra Nguồn Cung lành mạnh - [View Report](REPORT.md#MWG)
+13. [**MSN**](#MSN) (Thực Phẩm) - **80%** - Nỗ Lực Tăng Giá phòng thủ tốt - [View Report](REPORT.md#MSN)
+14. [**REE**](#REE) (Năng Lượng) - **80%** - Nỗ Lực Tăng Giá chuyển đổi năng lượng - [View Report](REPORT.md#REE)
+15. [**MBS**](#MBS) (Chứng Khoán) - **80%** - Nỗ Lực Tăng Giá trong ngành mạnh - [View Report](REPORT.md#MBS)
+16. [**BSI**](#BSI) (Chứng Khoán) - **75%** - Dấu Hiệu Sức Mạnh mới nổi - [View Report](REPORT.md#BSI)
+17. [**MBB**](#MBB) (Ngân Hàng) - **75%** - Dấu Hiệu Sức Mạnh ngân hàng mạnh - [View Report](REPORT.md#MBB)
 
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
@@ -54,9 +55,18 @@
 
 ## 4. Danh Sách Hạ Ưu Tiên
 
-- [**CTS**](#CTS) (Chứng Khoán) - Cao Trào Mua cần thận trọng, rủi ro điều chỉnh cao - [View Report](REPORT.md#CTS)
+*Hiện tại không có cổ phiếu nào trong danh sách hạ ưu tiên.*
 
 ## 5. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
+
+### **CTS (Chứng Khoán)**
+![Weekly Chart](reports_week/CTS/CTS_candlestick_chart.png) ![Daily Chart](reports/CTS/CTS_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Sign of Strength trong xu hướng tăng mạnh, ngành chứng khoán dẫn dắt thị trường
+* **Tín Hiệu VPA Ngày:** Không Có Nguồn Cung ngày 2025-07-28, sau chuỗi SOS mạnh mẽ
+* **Bối Cảnh Ngành:** Chứng khoán với 100% cổ phiếu tích cực, CTS phục hồi sau điều chỉnh kỹ thuật
+* **Phân Tích Thiết Lập:** Sau Buying Climax → Test for Supply → SOS → No Supply, chuỗi tín hiệu lành mạnh
+* **Vùng Vào Tốt Nhất:** Mua tích cực trên momentum No Supply, supply đã cạn kiệt
 
 ### **VHM (Bất Động Sản)**
 ![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
@@ -160,8 +170,8 @@
 - **PDR**: Từ `Previous Potential`. Lý do: **'Kiểm Tra Nguồn Cung'** ngày 2025-07-28 tích cực trong ngành bất động sản.
 - **DGW**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 nổi bật trong ngành bán lẻ.
 
-### Cổ Phiếu Bị Giáng Xuống "Hạ Ưu Tiên":
-- **CTS**: Từ `Top List`. Lý do: **'Cao Trào Mua'** ngày 2025-07-28 sau chuỗi tăng mạnh, rủi ro điều chỉnh cao cần thận trọng.
+### Cổ Phiếu Được Phục Hồi Lên "Top List":
+- **CTS**: Từ `Hạ Ưu Tiên` trở lại `Top List`. Lý do: Điều chỉnh VPA - tín hiệu **'Không Có Nguồn Cung'** ngày 2025-07-28 (không phải Buying Climax), supply đã cạn kiệt sau chuỗi SOS mạnh mẽ.
 
 ### Cổ Phiếu Được Duy Trì "Top List":
 - **VHM**: Duy trì #1. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 tiếp tục, lãnh đạo ngành bất động sản.
@@ -180,9 +190,9 @@
 
 **Ưu Tiên Giao Dịch:**
 1. **Mua mạnh**: VHM, SSI, VND, VPB, ACB - core holdings với confidence cao
-2. **Mua có chọn lọc**: HDC, HDB, TCH, VCI - quality picks trong sectors mạnh
+2. **Mua có chọn lọc**: CTS, HDC, HDB, TCH, VCI - quality picks trong sectors mạnh, CTS có No Supply signal
 3. **Theo dõi**: VIX cần thận trọng do mức giá cao, chờ pullback
-4. **Tránh**: CTS và các tín hiệu climax, risk điều chỉnh cao
+4. **Danh sách tránh hiện tại trống** - không có tín hiệu climax đáng lo ngại
 
 **Quản Lý Rủi Ro:**
 - Duy trì cắt lỗ 3-5% dưới hỗ trợ key levels
