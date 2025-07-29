@@ -68,3 +68,5 @@
     - **Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Supply của phiên trước, việc giá tăng nhẹ và test lại vùng 118.0 với khối lượng tiếp tục giảm từ 3.39M xuống 3.26M cho thấy áp lực bán đã giảm đáng kể. Việc giá có thể test lại vùng kháng cự mà không cần khối lượng lớn xác nhận lực cầu vẫn đang kiểm soát. Tín hiệu No Supply này tích cực, cho thấy VIC đang tạo nền tảng vững chắc sau giai đoạn test và chuẩn bị cho đợt phục hồi tiếp theo.
 
 
+- **Ngày 2025-07-29:** VIC giảm mạnh từ 115.6 xuống 113.2 với mở cửa tại 115.0 và dao động từ 113.0 đến 117.2. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tăng (4.56 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau tín hiệu No Supply tích cực của phiên trước, việc giá giảm mạnh từ 115.6 xuống 113.2 với khối lượng tăng từ 3.26M lên 4.56M cho thấy áp lực bán đã quay trở lại mạnh mẽ. Mặc dù có test lên 117.2 nhưng không thể duy trì và bị đẩy xuống vùng thấp 113.0. Đây là tín hiệu tiêu cực cho thấy lực cầu chưa đủ mạnh để vượt qua vùng kháng cự 117.0-118.0, thị trường có thể tiếp tục điều chỉnh trong ngắn hạn.

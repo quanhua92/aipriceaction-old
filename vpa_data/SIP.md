@@ -57,4 +57,14 @@
 - **Ngày 2025-07-23:** SIP tăng mạnh từ 62.8 lên 64.0. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (854.200 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá bứt phá lên mức cao mới với khối lượng tăng vọt cho thấy lực cầu đã quay trở lại một cách quyết đoán. Phe mua đã chiếm ưu thế hoàn toàn và có khả năng duy trì xu hướng tăng trong thời gian tới. Tín hiệu cực kỳ tích cực.
 
+- **Ngày 2025-07-24:** SIP tăng từ 64.0 lên 65.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (980.5k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **SOS** mạnh mẽ của phiên trước, đây là tín hiệu **Effort to Rise** tiếp tục. Việc giá tiếp tục tăng mạnh với khối lượng cao cho thấy lực cầu vẫn duy trì mạnh mẽ. Xu hướng tăng được xác nhận tiếp tục.
 
+- **Ngày 2025-07-25:** SIP giảm từ 65.3 xuống 67.7. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (687.0k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau các phiên tăng mạnh, đây là phiên **Test for Supply**. Áp lực bán chốt lời xuất hiện nhưng không mạnh do khối lượng giảm. Đây là nhịp điều chỉnh bình thường sau đợt tăng mạnh.
+
+- **Ngày 2025-07-28:** SIP giảm từ 67.7 xuống 67.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (884.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** trước đó, việc giá giảm tiếp với khối lượng tăng cho thấy áp lực bán vẫn còn hiện hữu. Đây là tín hiệu **Effort to Fall** nhẹ, thị trường cần thời gian để hấp thụ nguồn cung trước khi tiếp tục xu hướng tăng.
+
+- **Ngày 2025-07-29:** SIP giảm mạnh từ 67.0 xuống 65.9. Cây nến giảm có biên độ rộng với mức thấp nhất 63.4. Khối lượng giao dịch tăng vọt (1.41 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** mạnh mẽ. Sau tín hiệu **Effort to Fall** nhẹ của ngày 28/7 (giảm từ 67.7 xuống 67.0), việc giá tiếp tục giảm mạnh với biên độ rộng và test xuống 63.4 trên khối lượng tăng 60% cho thấy áp lực bán đã gia tăng đáng kể. Việc phá vỡ xuống dưới support 66.0 và đóng cửa ở 65.9 thể hiện sự suy yếu trong ngắn hạn. Tín hiệu này phủ nhận phần nào các tín hiệu tích cực trước đó và cảnh báo về giai đoạn điều chỉnh sâu hơn.

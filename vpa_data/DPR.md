@@ -59,3 +59,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** thành công sau phiên **Test for Supply**. Việc giá test xuống vùng thấp hơn (41.5) nhưng sau đó phục hồi mạnh và đóng cửa tại đỉnh phiên trên khối lượng tăng mạnh cho thấy lực cầu đã xuất hiện quyết đoán ở vùng giá thấp hơn. Tín hiệu này xác nhận rằng giai đoạn test cung đã hoàn thành thành công và DPR sẵn sáng tiếp tục xu hướng tăng mạnh.
 
 
+- **Ngày 2025-07-29:** DPR sụt giảm mạnh từ 41.8 xuống 39.1. Cây nến giảm có biên độ rộng với mức mở cửa 41.9 và dao động trong khoảng 38.9-42.2. Khối lượng giao dịch tăng lên 2.52 triệu đơn vị, tăng 64% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** xuất hiện. Việc giá test lên mức cao 42.2 nhưng bị đẩy xuống mạnh với khối lượng tăng đáng kể cho thấy áp lực bán đã chiếm ưu thế ở vùng cao. Việc đóng cửa gần mức thấp của phiên (39.1) với khối lượng gia tăng xác nhận lực bán đang mạnh. Đây là tín hiệu tiêu cực, cảnh báo về áp lực điều chỉnh trong ngắn hạn.

@@ -41,3 +41,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau phiên **Effort to Rise**. Việc giá test lên 23.5 nhưng duy trì ở mức đóng cửa ổn định trên khối lượng giảm cho thấy áp lực bán đã cạn kiệt và thị trường đang trong giai đoạn consolidation lành mạnh. Tín hiệu này xác nhận rằng xu hướng tăng vẫn được duy trì và DVN đang chuẩn bị cho các bước tăng tiếp theo.
 
 
+- **Ngày 2025-07-29:** DVN giảm nhẹ từ 23.0 xuống 22.8. Cây nến giảm có biên độ hẹp với mức mở cửa 23.0 và dao động trong khoảng 22.7-23.3. Khối lượng giao dịch tăng mạnh lên 158.3k đơn vị, tăng gấp 2.4 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Việc giá test lên mức cao 23.3 nhưng đóng cửa thấp hơn với khối lượng tăng mạnh cho thấy có áp lực bán ở vùng cao. Tuy nhiên, việc giá chỉ giảm nhẹ (0.2 điểm) cho thấy áp lực bán không quá mạnh. Thị trường đang test khả năng cung cấp và cần theo dõi để xác định xu hướng tiếp theo.

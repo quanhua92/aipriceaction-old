@@ -71,6 +71,9 @@
 - **Ngày 2025-07-24:** BVH mở cửa tại 52.7 và dao động trong biên độ hẹp từ 52.0 đến 52.9, cuối cùng đóng cửa tại 52.2. Cây nến có biên độ hẹp với bóng trên và bóng dưới ngắn, thể hiện sự equilibrium. Khối lượng giao dịch giảm xuống 298.6k đơn vị, thấp hơn 18% so với phiên **Secondary Test** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp nối phiên **Secondary Test** trước đó. Việc giá dao động trong biên độ hẹp và giảm nhẹ 0.2 điểm trên khối lượng giảm mạnh cho thấy cả phe mua và phe bán đều thiếu quan tâm sau giai đoạn test. Tín hiệu **No Demand** này cho thấy thị trường đang trong giai đoạn cân bằng sau các phiên test for demand thành công trước đó. Việc giá duy trì trong vùng 52.0-52.9 mà không có sự sụp đổ mạnh là dấu hiệu tích cực, cho thấy support tại vùng này đang được duy trì. Tuy nhiên, cần có sự xuất hiện của lực cầu mạnh hơn trong các phiên tới để xác nhận việc kết thúc chu kỳ giảm giá và bắt đầu giai đoạn phục hồi.
 
+- **Ngày 2025-07-29:** BVH mở cửa tại 52.3 và dao động trong một biên độ rộng từ mức thấp 49.6 đến mức cao 52.6, cuối cùng đóng cửa tại 49.6. Cây nến có biên độ rộng với bóng dưới ngắn, thể hiện sự giảm mạnh từ vùng cao. Khối lượng giao dịch tăng lên 940.3k đơn vị, cao hơn gấp 3 lần so với phiên **No Demand** trước đó.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** mạnh mẽ xuất hiện sau giai đoạn **No Demand**. Việc giá test lên 52.6 nhưng sau đó bị bán mạnh xuống đóng cửa tại mức thấp nhất phiên (49.6) trên khối lượng tăng vọt cho thấy áp lực bán đã xuất hiện quyết liệt. Khối lượng tăng gấp 3 lần kết hợp với việc giảm 2.6 điểm từ mức cao đến mức thấp cho thấy đây là một đợt bán tháo có quy mô. Tín hiệu này phủ nhận các dấu hiệu ổn định trước đó và báo hiệu BVH đang quay trở lại xu hướng giảm, có khả năng kiểm tra các mức support thấp hơn trong các phiên tới.
+
 
 
 

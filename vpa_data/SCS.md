@@ -57,4 +57,14 @@
 - **Ngày 2025-07-23:** SCS tăng từ 67.4 lên 67.4. Cây nến có biên độ rộng với mức cao nhất 68.0. Khối lượng giao dịch tăng mạnh (412.200 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, đây là tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại với khối lượng tăng gần gấp đôi, xác nhận việc hấp thụ nguồn cung đã hoàn tất. Việc giá test vùng 68.0 cho thấy động lực tăng mạnh và khả năng bứt phá tiếp theo. Tín hiệu tích cực cho xu hướng tăng.
 
+- **Ngày 2025-07-24:** SCS tăng mạnh từ 67.4 lên 69.3. Cây nến tăng có biên độ cực rộng với mức cao nhất 69.3. Khối lượng giao dịch tăng vọt (884.180 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, lực cầu đã bùng nổ với khối lượng tăng gấp đôi và giá bứt phá mạnh 2.8%. Việc đóng cửa tại mức cao nhất thể hiện sự kiểm soát hoàn toàn của phe mua. Tín hiệu cực kỳ tích cực cho xu hướng tăng mạnh mẽ.
 
+- **Ngày 2025-07-25:** SCS giảm từ 69.5 xuống 68.8. Cây nến giảm có biên độ hẹp với mức thấp nhất 68.6. Khối lượng giao dịch giảm mạnh (426.006 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **SOS** cực mạnh của phiên trước, đây là phiên **Test for Supply** tích cực. Việc giá điều chỉnh nhẹ trên khối lượng giảm gần 50% cho thấy áp lực bán chốt lời không mạnh. Đây là nhịp điều chỉnh lành mạnh sau đợt bứt phá, tín hiệu vẫn tích cực cho xu hướng tăng.
+
+- **Ngày 2025-07-28:** SCS giảm từ 68.8 xuống 68.4. Cây nến giảm có biên độ rộng với mức mở cửa 68.6, cao nhất 69.0 và thấp nhất 68.0. Khối lượng giao dịch tăng (572.370 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Supply** tích cực của ngày trước, phiên hôm nay tiếp tục **Test for Supply** với khối lượng tăng. Việc giá có test cao 69.0 nhưng bị bán xuống cho thấy áp lực chốt lời vẫn còn hiện diện. Tuy nhiên, việc đóng cửa giữ được vùng trên 68.0 và khối lượng chưa quá cao là dấu hiệu tích cực. Thị trường đang tích lũy sau đợt bứt phá.
+
+- **Ngày 2025-07-29:** SCS mở cửa ở 68.1 và có test nhẹ lên 68.2 nhưng sau đó bị bán tháo mạnh xuống thấp nhất 65.0 và đóng cửa tại mức thấp này. Cây nến giảm có biên độ cực rộng 3.4 điểm. Khối lượng giao dịch tăng vọt (1.388.700 đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** cực kỳ mạnh mẽ, hoàn toàn phủ nhận các tín hiệu tích cực trước đó. Sau giai đoạn test supply, áp lực bán đã nổ ra dữ dội với khối lượng tăng gấp 2.4 lần và giá giảm 5.0%. Việc giá phá vỡ xuống dưới tất cả support quan trọng (68.0, 67.0, 66.0) và đóng cửa tại mức thấp nhất cho thấy sự đảo chiều hoàn toàn. Biên độ cực rộng và khối lượng khủng thể hiện panic selling, cảnh báo về giai đoạn điều chỉnh sâu và dài hạn.

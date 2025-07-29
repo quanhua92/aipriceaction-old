@@ -58,3 +58,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ sau **No Supply** của phiên trước. Việc giá tăng tốt với khối lượng tăng gấp hơn 3.000 lần cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn thiếu thanh khoản. Việc giá test được vùng 69.5 và đóng cửa gần mức cao xác nhận **Test for Supply** của phiên 21/07 đã thành công và xu hướng tăng có thể được phục hồi.
 
 
+- **Ngày 2025-07-29:** NTP mở cửa ở 69.0 nhưng giảm mạnh xuống 65.2. Cây nến giảm có biên độ rộng với mức thấp nhất 65.0 và đóng cửa gần mức thấp. Khối lượng giao dịch tăng vọt (1.0 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** cực kỳ mạnh mẽ, hoàn toàn phủ nhận tín hiệu **Effort to Rise** của phiên trước. Việc giá giảm mạnh 4.6% từ mức mở cửa và đóng cửa gần mức thấp nhất phiên (65.2 vs low 65.0) trên khối lượng tăng 47% cho thấy áp lực bán áp đảo đã tràn vào thị trường. Sự vắng mặt gần như hoàn toàn của bóng dưới thể hiện không có lực cầu nào xuất hiện để đỡ giá trong suốt phiên. Tín hiệu này phủ nhận hoàn toàn nỗ lực phục hồi trước đó và cảnh báo mạnh mẽ rằng xu hướng giảm sẽ tiếp diễn với độ mạnh cao trong ngắn hạn.

@@ -60,3 +60,5 @@
 
 - **Ngày 2025-07-28:** VEA tăng từ 38.1 lên 38.5 (+1.0%). Cây nến tăng có biên độ vừa phải với mức cao nhất 38.5 và không có test xuống. Khối lượng giao dịch tăng (844.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá hôm nay thể hiện **Effort to Rise** nhẹ. Việc giá tăng từ mức mở cửa 38.1 lên đóng cửa 38.5 với khối lượng tăng so với phiên trước cho thấy lực cầu bắt đầu xuất hiện. Mặc dù biên độ tăng nhỏ, sự ổn định của giá và khối lượng cải thiện là dấu hiệu tích cực cho thấy thị trường đang thoát khỏi giai đoạn đi ngang.
+- **Ngày 2025-07-29:** VEA giảm từ 38.6 xuống 38.2 (-0.78%), giảm 0.3 điểm so với ngày trước. Thanh nến đỏ có spread rộng 0.6 điểm (từ 38.1 đến 38.7) với đóng cửa ở mức trung bình. Khối lượng giao dịch tăng 9.2% lên 923.0k cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu **Effort to Rise** của phiên trước, hành động giá hôm nay cho thấy áp lực bán nhẹ đã xuất hiện. Việc giá mở cửa cao hơn ở 38.6 nhưng test xuống 38.1 và đóng cửa ở 38.2 với khối lượng tăng cho thấy có sự giằng co giữa cung cầu. Đây là nhịp kiểm tra bình thường sau giai đoạn tích lũy, chưa phải tín hiệu tiêu cực nghiêm trọng.

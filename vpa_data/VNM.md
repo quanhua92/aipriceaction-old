@@ -68,3 +68,5 @@
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Test for Supply tích cực của phiên trước, việc giá ổn định quanh vùng 63.0-63.9 với khối lượng tăng từ 5.13M lên 8.44M cho thấy lực cầu đã bắt đầu quay trở lại để hỗ trợ tại vùng này. Việc giá có thể test lên 63.9 và duy trì trên 63.0 với khối lượng cải thiện xác nhận sự quan tâm tiếp tục của smart money. Tín hiệu Test for Demand này tích cực, cho thấy VNM đang tạo nền tảng vững chắc sau giai đoạn bùng nổ để chuẩn bị cho đợt tăng tiếp theo.
 
 
+- **Ngày 2025-07-29:** VNM giảm nhẹ từ 63.3 xuống 63.2 với biên độ dao động từ 62.8 đến 64.2. Nến giảm có biên độ hẹp và đóng cửa gần mức trung bình. Khối lượng giao dịch tăng (10.71 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Việc giá dao động trong biên độ hẹp quanh vùng 63.0-64.2 với khối lượng tăng từ 8.47M lên 10.71M cho thấy có sự cân bằng giữa cung và cầu tại vùng giá này. Đây là một phiên kiểm tra nguồn cung bình thường, thị trường đang tìm kiếm hướng đi rõ ràng. Việc khối lượng tăng nhưng giá ít biến động cho thấy đang có sự tích lũy.

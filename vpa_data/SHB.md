@@ -41,4 +41,15 @@
 - **Ngày 2025-07-23:** SHB tăng nhẹ từ 14.6 lên 14.65. Cây nến tăng có biên độ hẹp với giá cao nhất 14.9. Khối lượng giao dịch tăng (80.13 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tích cực. Sau tín hiệu **No Supply** của phiên trước, việc giá tăng nhẹ với khối lượng tăng đáng kể và có thể test cao lên 14.9 cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc khối lượng tăng từ 63.43M lên 80.13M xác nhận sự quan tâm của nhà đầu tư. Tín hiệu tích cực cho xu hướng tăng tiếp tục.
 
+- **Ngày 2025-07-24:** SHB tăng từ 14.65 lên 15.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (91.07 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá bứt phá lên mức 15.0 với khối lượng tăng 14% cho thấy lực cầu đã kiểm soát hoàn toàn. Đây là xác nhận mạnh mẽ cho xu hướng tăng và có tiềm năng tiếp tục phát triển.
+
+- **Ngày 2025-07-25:** SHB tăng nhẹ từ 15.0 lên 15.05. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (59.23 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **SOS** mạnh mẽ của phiên trước, đây là phiên **No Supply** tích cực. Việc giá duy trì tăng nhẹ trên khối lượng giảm 35% cho thấy áp lực bán đã yếu đi đáng kể. Đây là dấu hiệu tích cực cho giai đoạn tích lũy ở vùng cao.
+
+- **Ngày 2025-07-28:** SHB tăng mạnh từ 15.05 lên 16.1. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (137.80 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **No Supply** tích cực, đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ. Việc giá bứt phá mạnh 7.0% với khối lượng tăng gấp 2.3 lần cho thấy lực cầu đã bùng nổ. Đây là xác nhận rất mạnh cho xu hướng tăng và có tiềm năng tiếp tục.
+
+- **Ngày 2025-07-29:** SHB mở cửa gap up ở 16.5 nhưng sau đó bị bán tháo mạnh xuống thấp nhất 15.05 và đóng cửa tại mức thấp này. Cây nến giảm có biên độ cực rộng 1.6 điểm. Khối lượng giao dịch khủng (152.87 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** cực kỳ mạnh mẽ với đặc điểm panic selling. Sau tín hiệu tích cực của ngày 28/7 (tăng từ 15.15 lên 16.1), việc gap up nhưng bị bán tháo dữ dội với khối lượng tăng 11% cho thấy có sự phân phối lớn. Việc giá đóng cửa tại mức thấp và phá vỡ xuống dưới support 15.2 thể hiện sự đảo chiều hoàn toàn. Biên độ cực rộng và khối lượng khủng cảnh báo về giai đoạn điều chỉnh sâu.
 

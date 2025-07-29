@@ -46,3 +46,5 @@
 
 
 
+- **Ngày 2025-07-29:** PAN mở cửa ở 33.5 và test cao lên 34.2 trước khi giảm xuống 33.0. Cây nến giảm có biên độ rộng với mức thấp nhất 32.0. Khối lượng giao dịch tăng (2.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** không thành công sau các tín hiệu tích cực trước đó. Việc giá mở cửa thấp hơn phiên trước (33.5 vs 33.6) và mặc dù có test lên 34.2 nhưng không thể duy trì và giảm mạnh xuống 33.0, thậm chí test sâu xuống 32.0 với khối lượng tăng 18% cho thấy áp lực bán đã gia tăng đáng kể. Biên độ rộng 2.2 và bóng dưới dài thể hiện sự giằng co quyết liệt, nhưng việc đóng cửa ở mức thấp hơn (33.0) cho thấy lực bán đã chiếm ưu thế cuối phiên. Tín hiệu này cảnh báo rằng momentum tăng trước đó có thể đã suy yếu và thị trường cần thời gian nghỉ ngơi hoặc điều chỉnh.

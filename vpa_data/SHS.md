@@ -61,4 +61,14 @@
 - **Ngày 2025-07-23:** SHS tiếp tục tăng từ 17.4 lên 17.8. Cây nến tăng có biên độ rộng với mức cao nhất 18.5. Khối lượng giao dịch cạn kiệt hoàn toàn (1.100 đơn vị).
     - **Phán tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay tiếp tục xác nhận tín hiệu **No Supply** với cường độ phi thường. Việc giá tăng mạnh và chạm mức cao nhất 18.5 trên khối lượng cạn kiệt hoàn toàn cho thấy áp lực bán đã biến mất tuyệt đối. Lực cầu có thể dễ dàng đẩy giá lên mức cao mới mà không gặp bất kỳ kháng cự nào. Tín hiệu cực kỳ tích cực, xu hướng tăng mạnh vẫn tiếp tục với đà bứt phá ấn tượng.
 
+- **Ngày 2025-07-24:** SHS tăng từ 17.8 lên 18.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch bùng nổ (51.99 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** phi thường của phiên trước, đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tiếp tục tăng với khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách áp đảo. Tín hiệu này xác nhận mạnh mẽ cho xu hướng tăng và có khả năng tiếp tục đà bứt phá.
 
+- **Ngày 2025-07-25:** SHS tăng từ 18.2 lên 18.6. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (45.77 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **SOS** mạnh mẽ của phiên trước, đây là phiên **No Supply** tích cực. Việc giá tiếp tục tăng trên khối lượng giảm cho thấy áp lực bán đã yếu đi và xu hướng tăng được duy trì tốt.
+
+- **Ngày 2025-07-28:** SHS tăng mạnh từ 18.6 lên 20.4. Cây nến tăng có biên độ rất rộng. Khối lượng giao dịch giảm nhẹ (43.66 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Sau phiên **No Supply** tích cực, đây là tín hiệu **Effort to Rise** mạnh mẽ trên nền **No Supply**. Việc giá bứt phá 9.7% với khối lượng vẫn ở mức cao cho thấy lực cầu vẫn mạnh mẽ và áp lực bán tối thiểu. Tín hiệu rất tích cực cho xu hướng tăng tiếp tục.
+
+- **Ngày 2025-07-29:** SHS mở cửa gap up ở 20.4 và test lên cao nhất 22.1 nhưng sau đó giảm mạnh và đóng cửa tại 19.8. Cây nến có biên độ cực rộng với phần thân giảm giá. Khối lượng giao dịch cạn kiệt hoàn toàn (66.7k đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** với đặc điểm khối lượng cực thấp. Sau chuỗi tín hiệu tích cực và đà tăng mạnh từ 18.6 lên 20.4 của ngày 28/7, việc test lên 22.1 nhưng bị từ chối và đóng cửa thấp hơn trên khối lượng cạn kiệt cho thấy đây có thể là rejection ở vùng giá cao. Mặc dù biên độ rộng nhưng khối lượng cực thấp thể hiện không có lực bán mạnh, đây có thể là một nhịp test và điều chỉnh kỹ thuật sau đợt tăng mạnh. Tín hiệu cần theo dõi thêm để xác định liệu đây có phải là dấu hiệu kết thúc đợt tăng hay chỉ là nhịp nghỉ tạm thời.

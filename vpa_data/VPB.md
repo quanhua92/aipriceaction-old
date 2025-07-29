@@ -64,3 +64,5 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Tiếp nối tín hiệu SOS mạnh mẽ của phiên trước, việc gap up và đột phá lên mức cao mới 25.15 với khối lượng tiếp tục tăng lên 57.16M là tín hiệu SOS cực kỳ mạnh mẽ. Việc giá phá vỡ ngưỡng tâm lý 25.0 và đóng cửa ở 25.1 (gần đỉnh) cho thấy lực cầu đang áp đảo hoàn toàn. Đây là xác nhận mạnh mẽ rằng VPB đang trong giai đoạn mark-up mạnh mẽ với momentum tăng không ngừng và tiềm năng tiếp tục phá vỡ các ngưỡng cao hơn.
 
 
+- **Ngày 2025-07-29:** VPB giảm mạnh từ 25.1 xuống 23.6 với biên độ dao động từ 23.55 đến 25.8. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (83.05 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau những phiên tăng giá trước đó, việc giá giảm mạnh từ 25.1 xuống 23.6 với khối lượng tăng từ 57.18M lên 83.05M cho thấy áp lực bán đã quay trở lại mạnh mẽ. Mặc dù có test lên 25.8 nhưng không thể duy trì và bị đẩy xuống vùng thấp. Đây là tín hiệu tiêu cực cho thấy xu hướng tăng đang bị thách thức, thị trường có thể tiếp tục điều chỉnh.

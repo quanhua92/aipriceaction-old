@@ -59,3 +59,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp theo xác nhận thành công cho tín hiệu **No Supply** của phiên trước. Việc giá bùng nổ tăng mạnh và test lên đỉnh 42.4 trên khối lượng tăng cho thấy lực cầu tiếp tục thống trị thị trường một cách áp đảo. Tín hiệu này xác nhận rằng xu hướng tăng mạnh đang được duy trì vững chắc và DPM có tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn nữa.
 
 
+- **Ngày 2025-07-29:** DPM sụt giảm mạnh từ 41.55 xuống 39.6. Cây nến giảm có biên độ rộng với mức mở cửa 41.6 và dao động trong khoảng 39.6-42.45. Khối lượng giao dịch bùng nổ lên 9.72 triệu đơn vị, tăng gấp 1.9 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** mạnh mẽ xuất hiện. Việc giá test lên mức cao 42.45 nhưng bị đẩy xuống thảm hại với khối lượng bùng nổ cho thấy áp lực bán áp đảo đã xuất hiện ở vùng cao. Việc đóng cửa ở mức thấp nhất phiên (39.6) với khối lượng khổng lồ xác nhận panic selling. Đây là tín hiệu cực kỳ tiêu cực, cảnh báo về xu hướng giảm mạnh trong ngắn hạn.

@@ -1,201 +1,218 @@
 # PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Cập nhật: 2025-07-28 | Phân tích theo phương pháp VPA-Strategist*
+*Cập nhật: 2025-07-29 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
 ![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-**Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tích cực mạnh mẽ với hành động tăng giá được hỗ trợ bởi khối lượng tổ chức. Biểu đồ tuần cho thấy chuỗi tín hiệu Dấu Hiệu Sức Mạnh liên tục, xác nhận xu hướng tăng đang trong giai đoạn bền vững.
+**Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tăng mạnh mẽ với chuỗi tín hiệu Dấu Hiệu Sức Mạnh liên tiếp từ đầu tháng 7. Biểu đồ tuần cho thấy đây là xu hướng tăng trưởng trưởng thành với sự tham gia của tổ chức mạnh mẽ, đạt mức tăng +20.66% từ đầu năm. Khối lượng tuần ủng hộ menunjukkan accumulation pattern lành mạnh của smart money.
 
-**Hành Động Gần Đây**: Ngày 2025-07-28 ghi nhận tín hiệu "Dấu Hiệu Sức Mạnh" tiếp tục với sự tham gia rộng rãi của thị trường. 73 cổ phiếu trong danh sách phân tích có tín hiệu SOS, cho thấy sức mạnh lan tỏa rộng khắp các ngành. Khối lượng giao dịch duy trì ở mức cao thể hiện dòng tiền tổ chức vẫn tích cực.
+**Hành Động Gần Đây**: Ngày 2025-07-29 ghi nhận **Buying Climax** cực mạnh - gap lên 1562.6, chạm đỉnh 1564.92 nhưng đóng cửa 1531.76 với khối lượng kỷ lục 2.15 tỷ đơn vị. Đây là climactic action điển hình sau chuỗi tăng mạnh, có thể đánh dấu điểm chuyển ngắn hạn quan trọng. Tuy nhiên, với nền tảng tuần vững chắc, đây có khả năng là healthy shakeout.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Mọi nhịp rút lui về vùng hỗ trợ gần nhất đều là cơ hội mua vào tốt. Duy trì chiến lược tích cực với tỷ trọng cổ phiếu cao trong bối cảnh thị trường mạnh.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Chờ đợi phản ứng thị trường trong 1-2 phiên tới. Nếu được hấp thụ tốt, mọi nhịp rút lui về vùng 1500-1520 đều là cơ hội mua vào xuất sắc. Duy trì thận trọng trong ngắn hạn nhưng optimistic về xu hướng trung hạn dựa trên nền tảng tuần mạnh.
 
-## 2. Top 16 Cơ Hội Giao Dịch Chất Lượng
+## 2. Top 12 Cơ Hội Giao Dịch Chất Lượng
 
-### Nhóm Tin Cậy Cao (90-95%)
-1. [**VHM**](#VHM) (Bất Động Sản) - **95%** - Dấu Hiệu Sức Mạnh bền vững - [View Report](REPORT.md#VHM)
-2. [**SSI**](#SSI) (Chứng Khoán) - **95%** - Dẫn dắt ngành với SOS liên tục - [View Report](REPORT.md#SSI)
-3. [**VND**](#VND) (Chứng Khoán) - **95%** - Nỗ Lực Tăng Giá với động lực mạnh - [View Report](REPORT.md#VND)
-4. [**VPB**](#VPB) (Ngân Hàng) - **95%** - Dấu Hiệu Sức Mạnh dẫn dắt ngành - [View Report](REPORT.md#VPB)
-5. [**ACB**](#ACB) (Ngân Hàng) - **90%** - Dấu Hiệu Sức Mạnh xác nhận mạnh - [View Report](REPORT.md#ACB)
+### Nhóm Tin Cậy Cao (85-95%)
+1. [**VHM**](#VHM) (Bất Động Sản) - **90%** - Test for Supply với nền tuần vững - [View Report](REPORT.md#VHM)
+2. [**VND**](#VND) (Chứng Khoán) - **85%** - Test for Supply sau chuỗi SOS tuần - [View Report](REPORT.md#VND)
+3. [**VPB**](#VPB) (Ngân Hàng) - **85%** - Test for Supply với nền ngành mạnh - [View Report](REPORT.md#VPB)
 
-### Nhóm Tin Cậy Tốt (85-89%)
-6. [**CTS**](#CTS) (Chứng Khoán) - **85%** - Không Có Nguồn Cung sau SOS mạnh - [View Report](REPORT.md#CTS)
-7. [**HDC**](#HDC) (Bất Động Sản) - **85%** - Dấu Hiệu Sức Mạnh trong ngành dẫn dắt - [View Report](REPORT.md#HDC)
-8. [**HDB**](#HDB) (Ngân Hàng) - **85%** - Dấu Hiệu Sức Mạnh ngành mạnh - [View Report](REPORT.md#HDB)
-9. [**TCH**](#TCH) (Bất Động Sản) - **85%** - Dấu Hiệu Sức Mạnh bất động sản - [View Report](REPORT.md#TCH)
-10. [**VCI**](#VCI) (Chứng Khoán) - **85%** - Dấu Hiệu Sức Mạnh ổn định - [View Report](REPORT.md#VCI)
-11. [**VIX**](#VIX) (Chứng Khoán) - **85%** - Dấu Hiệu Sức Mạnh, thận trọng đỉnh cao - [View Report](REPORT.md#VIX)
+### Nhóm Tin Cậy Tốt (75-84%)
+4. [**VIX**](#VIX) (Chứng Khoán) - **80%** - Selling Climax có thể exhaustion - [View Report](REPORT.md#VIX)
+5. [**MWG**](#MWG) (Bán Lẻ) - **75%** - Effort to Fall nhưng nền tuần tốt - [View Report](REPORT.md#MWG)
+6. [**REE**](#REE) (Năng Lượng) - **75%** - Effort to Fall với potential recovery - [View Report](REPORT.md#REE)
 
-### Nhóm Tin Cậy Trung Bình (75-84%)
-12. [**MWG**](#MWG) (Bán Lẻ) - **80%** - Kiểm Tra Nguồn Cung lành mạnh - [View Report](REPORT.md#MWG)
-13. [**MSN**](#MSN) (Thực Phẩm) - **80%** - Nỗ Lực Tăng Giá phòng thủ tốt - [View Report](REPORT.md#MSN)
-14. [**REE**](#REE) (Năng Lượng) - **80%** - Nỗ Lực Tăng Giá chuyển đổi năng lượng - [View Report](REPORT.md#REE)
-15. [**MBS**](#MBS) (Chứng Khoán) - **80%** - Nỗ Lực Tăng Giá trong ngành mạnh - [View Report](REPORT.md#MBS)
-16. [**BSI**](#BSI) (Chứng Khoán) - **75%** - Dấu Hiệu Sức Mạnh mới nổi - [View Report](REPORT.md#BSI)
-17. [**MBB**](#MBB) (Ngân Hàng) - **75%** - Dấu Hiệu Sức Mạnh ngân hàng mạnh - [View Report](REPORT.md#MBB)
+### Nhóm Quan Sát Cẩn Thận (65-74%)
+7. [**SSI**](#SSI) (Chứng Khoán) - **70%** - Effort to Fall nghiêm trọng cần quan sát - [View Report](REPORT.md#SSI)
+8. [**ACB**](#ACB) (Ngân Hàng) - **70%** - Selling Climax sau chuỗi SOS - [View Report](REPORT.md#ACB)
+9. [**MSN**](#MSN) (Thực Phẩm) - **70%** - Selling Climax cần recovery signals - [View Report](REPORT.md#MSN)
+10. [**HDB**](#HDB) (Ngân Hàng) - **65%** - Selling Climax trong ngành mạnh - [View Report](REPORT.md#HDB)
+11. [**HDC**](#HDC) (Bất Động Sản) - **65%** - Selling Climax cần confirmation - [View Report](REPORT.md#HDC)
+12. [**VCI**](#VCI) (Chứng Khoán) - **65%** - Selling Climax cần theo dõi - [View Report](REPORT.md#VCI)
 
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
 ### Cơ Hội Tăng Trưởng Mạnh
-- [**TCB**](#TCB) (Ngân Hàng) - Dấu Hiệu Sức Mạnh phục hồi mạnh - [View Report](REPORT.md#TCB)
-- [**PDR**](#PDR) (Bất Động Sản) - Kiểm Tra Nguồn Cung với động lực tích cực - [View Report](REPORT.md#PDR)
-- [**DGW**](#DGW) (Bán Lẻ) - Dấu Hiệu Sức Mạnh bán lẻ nổi bật - [View Report](REPORT.md#DGW)
+- [**BSR**](#BSR) (Dầu Khí) - Dấu Hiệu Sức Mạnh cực thuyết phục, volume 11M - [View Report](REPORT.md#BSR)
+- [**TCB**](#TCB) (Ngân Hàng) - Dấu Hiệu Sức Mạnh trong ngành banking - [View Report](REPORT.md#TCB)
+- [**GAS**](#GAS) (Dầu Khí) - Dấu Hiệu Sức Mạnh với Effort to Rise - [View Report](REPORT.md#GAS)
+- [**C4G**](#C4G) (Đầu Tư Công) - Dấu Hiệu Sức Mạnh với volume tăng vọt - [View Report](REPORT.md#C4G)
 
 ### Cơ Hội Theo Dõi Đặc Biệt
-- [**FRT**](#FRT) (Bán Lẻ) - Không Có Nguồn Cung xuất sắc - [View Report](REPORT.md#FRT)
-- [**PNJ**](#PNJ) (Bán Lẻ) - Không Có Nguồn Cung bán lẻ trang sức - [View Report](REPORT.md#PNJ)
-- [**VRE**](#VRE) (Bất Động Sản) - Kiểm Tra Nguồn Cung bất động sản - [View Report](REPORT.md#VRE)
+- [**BID**](#BID) (Ngân Hàng) - Dấu Hiệu Sức Mạnh trong accumulation - [View Report](REPORT.md#BID)
+- [**TNG**](#TNG) (Dệt May) - No Supply sau điều chỉnh - [View Report](REPORT.md#TNG)
+- [**VGC**](#VGC) (Bất Động Sản KCN) - No Supply mạnh mẽ - [View Report](REPORT.md#VGC)
+- [**BCM**](#BCM) (Bất Động Sản KCN) - Effort to Rise tích cực - [View Report](REPORT.md#BCM)
 
 ### Cơ Hội Cần Xác Nhận
-- [**HPG**](#HPG) (Thép) - Tín hiệu "Others" cần theo dõi - [View Report](REPORT.md#HPG)
-- [**GVR**](#GVR) (Cao Su) - Nỗ Lực Tăng Giá ngành cao su - [View Report](REPORT.md#GVR)
+- [**FIT**](#FIT) (Penny) - Effort to Rise cần xác nhận - [View Report](REPORT.md#FIT)
+- [**GMD**](#GMD) (Vận Tải) - Effort to Rise potential - [View Report](REPORT.md#GMD)
+- [**HDG**](#HDG) (Năng Lượng) - Effort to Rise trong sector - [View Report](REPORT.md#HDG)
 
 ## 4. Danh Sách Hạ Ưu Tiên
 
-*Hiện tại không có cổ phiếu nào trong danh sách hạ ưu tiên.*
+### Bị Giáng Cấp Từ Top List (Cần Theo Dõi Recovery)
+- [**CTS**](#CTS) (Chứng Khoán) - Sign of Weakness mạnh cần recovery signals
+- [**TCH**](#TCH) (Bất Động Sản) - Selling Climax nghiêm trọng cần confirmation
+- [**MBS**](#MBS) (Chứng Khoán) - Effort to Fall bất thường cần làm rõ
+- [**BSI**](#BSI) (Chứng Khoán) - Buying Climax cần consolidation
+- [**MBB**](#MBB) (Ngân Hàng) - Sign of Weakness cực mạnh cần recovery
 
 ## 5. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
-
-### **CTS (Chứng Khoán)**
-![Weekly Chart](reports_week/CTS/CTS_candlestick_chart.png) ![Daily Chart](reports/CTS/CTS_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Sign of Strength trong xu hướng tăng mạnh, ngành chứng khoán dẫn dắt thị trường
-* **Tín Hiệu VPA Ngày:** Không Có Nguồn Cung ngày 2025-07-28, sau chuỗi SOS mạnh mẽ
-* **Bối Cảnh Ngành:** Chứng khoán với 100% cổ phiếu tích cực, CTS phục hồi sau điều chỉnh kỹ thuật
-* **Phân Tích Thiết Lập:** Sau Buying Climax → Test for Supply → SOS → No Supply, chuỗi tín hiệu lành mạnh
-* **Vùng Vào Tốt Nhất:** Mua tích cực trên momentum No Supply, supply đã cạn kiệt
 
 ### **VHM (Bất Động Sản)**
 ![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
 
-* **Tín Hiệu VPA Tuần:** Dấu Hiệu Sức Mạnh trong xu hướng tăng bền vững, ngành bất động sản dẫn dắt thị trường
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, xác nhận vai trò lãnh đạo trong ngành
-* **Bối Cảnh Ngành:** Bất động sản với 70% cổ phiếu tích cực, VHM xếp hạng #1 ngành với độ tin cậy cao
-* **Phân Tích Thiết Lập:** Lãnh đạo ngành bất động sản với tín hiệu mạnh, vị thế thống trị được xác nhận
-* **Vùng Vào Tốt Nhất:** Mua tích cực trên mọi rút lui về vùng hỗ trợ gần nhất
-
-### **SSI (Chứng Khoán)**
-![Weekly Chart](reports_week/SSI/SSI_candlestick_chart.png) ![Daily Chart](reports/SSI/SSI_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Dẫn dắt ngành chứng khoán với chuỗi SOS liên tiếp, ngành 100% tích cực
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, duy trì vai trò thống lĩnh ngành
-* **Bối Cảnh Ngành:** Chứng khoán là ngành mạnh nhất thị trường với độ bao phủ tín hiệu tích cực cao nhất
-* **Phân Tích Thiết Lập:** Người dẫn dắt không thể tranh cãi của ngành chứng khoán, xu hướng rất mạnh
-* **Vùng Vào Tốt Nhất:** Mua mạnh trên mọi điều chỉnh ngắn hạn
+* **Tín Hiệu VPA Tuần:** Duy trì xu hướng tăng mạnh với chuỗi Dấu Hiệu Sức Mạnh, ngành bất động sản dẫn dắt thị trường
+* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 95.6 xuống 92.1 với volume giảm từ 7.21M xuống 3.99M
+* **Bối Cảnh Ngành:** Bất động sản Dẫn Dắt Đồng Thuận với 80% cổ phiếu tích cực, VHM xếp hạng #3 ngành
+* **Phân Tích Thiết Lập:** Test for Supply với volume giảm là tín hiệu tích cực, cho thấy áp lực bán không mạnh ở vùng cao
+* **Vùng Vào Tốt Nhất:** Mua mạnh nếu giữ được support 92.0, potential target quay lại vùng 96-98
 
 ### **VND (Chứng Khoán)**
 ![Weekly Chart](reports_week/VND/VND_candlestick_chart.png) ![Daily Chart](reports/VND/VND_candlestick_chart.png)
 
-* **Tín Hiệu VPA Tuần:** Tăng trưởng mạnh mẽ với khối lượng bùng nổ, breakout pattern rõ ràng
-* **Tín Hiệu VPA Ngày:** Nỗ Lực Tăng Giá ngày 2025-07-28, động lực tăng trưởng tiếp tục
-* **Bối Cảnh Ngành:** Trong ngành chứng khoán dẫn dắt, VND thể hiện đà tăng vượt trội
-* **Phân Tích Thiết Lập:** Breakout mạnh mẽ với khối lượng xác nhận, xu hướng tăng dài hạn
-* **Vùng Vào Tốt Nhất:** Tham gia trên mọi pullback về vùng hỗ trợ
+* **Tín Hiệu VPA Tuần:** Exceptional performance +13.4% với volume explosion, chuỗi SOS mạnh mẽ
+* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 33.05 xuống 30.95 với volume giảm từ 46.9M xuống 32.3M
+* **Bối Cảnh Ngành:** Chứng khoán là ngành mạnh nhất với sự tham gia tổ chức cao
+* **Phân Tích Thiết Lập:** Volume giảm trong Test for Supply là dấu hiệu tích cực, nền tảng tuần rất mạnh
+* **Vùng Vào Tốt Nhất:** Accumulate trên mọi pullback về vùng 30-31, target 35-38
 
 ### **VPB (Ngân Hàng)**
 ![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
 
-* **Tín Hiệu VPA Tuần:** Dẫn dắt ngành ngân hàng với tín hiệu SOS bền vững
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, vị thế lãnh đạo ngành
-* **Bối Cảnh Ngành:** Ngân hàng 85% cổ phiếu tích cực, VPB dẫn đầu với margin rõ ràng
-* **Phân Tích Thiết Lập:** Top ngân hàng với fundamentals mạnh và technical xuất sắc
-* **Vùng Vào Tốt Nhất:** Core holding, tích lũy trên mọi weakness
-
-### **ACB (Ngân Hàng)**
-![Weekly Chart](reports_week/ACB/ACB_candlestick_chart.png) ![Daily Chart](reports/ACB/ACB_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Xu hướng tích cực trong ngành ngân hàng mạnh
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, nâng cấp lên Top List
-* **Bối Cảnh Ngành:** Ngân hàng dẫn dắt với 85% tích cực, ACB bắt kịp wave
-* **Phân Tích Thiết Lập:** Breakout từ Potential List lên Top List với tín hiệu mạnh
-* **Vùng Vào Tốt Nhất:** Tham gia tích cực trên breakout confirmation
-
-### **HDC (Bất Động Sản)**
-![Weekly Chart](reports_week/HDC/HDC_candlestick_chart.png) ![Daily Chart](reports/HDC/HDC_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Đột phá mạnh với hỗ trợ từ chính sách ngành
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, tiếp tục xu hướng tích cực
-* **Bối Cảnh Ngành:** Bất động sản 70% tích cực, HDC vai trò quan trọng
-* **Phân Tích Thiết Lập:** Hưởng lợi từ chính sách kích thích ngành, technical pattern mạnh
-* **Vùng Vào Tốt Nhất:** Mua trên strength, tận dụng momentum chính sách
-
-### **HDB (Ngân Hàng)**
-![Weekly Chart](reports_week/HDB/HDB_candlestick_chart.png) ![Daily Chart](reports/HDB/HDB_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Mạnh mẽ trong ngành ngân hàng dẫn dắt
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, duy trì momentum
-* **Bối Cảnh Ngành:** Top ngân hàng trong sector mạnh nhất thị trường
-* **Phân Tích Thiết Lập:** Quality bank với strong technical setup và fundamental support
-* **Vùng Vào Tốt Nhất:** Long-term holding, tích lũy trên dips
-
-### **TCH (Bất Động Sản)**
-![Weekly Chart](reports_week/TCH/TCH_candlestick_chart.png) ![Daily Chart](reports/TCH/TCH_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Trong ngành bất động sản dẫn dắt với xu hướng tích cực
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, bắt kịp sector strength
-* **Bối Cảnh Ngành:** Bất động sản momentum mạnh, TCH participate tốt
-* **Phân Tích Thiết Lập:** Sector play với good risk/reward trong real estate boom
-* **Vùng Vào Tốt Nhất:** Mua trên sector strength confirmation
-
-### **VCI (Chứng Khoán)**
-![Weekly Chart](reports_week/VCI/VCI_candlestick_chart.png) ![Daily Chart](reports/VCI/VCI_candlestick_chart.png)
-
-* **Tín Hiệu VPA Tuần:** Ổn định trong ngành chứng khoán 100% tích cực
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, steady performer
-* **Bối Cảnh Ngành:** Chứng khoán dẫn dắt toàn diện, VCI reliable choice
-* **Phân Tích Thiết Lập:** Conservative chứng khoán pick với lower volatility
-* **Vùng Vào Tốt Nhất:** Steady accumulation cho phần defensive của portfolio
+* **Tín Hiệu VPA Tuần:** Strong weekly recovery +11.3% với volume tăng +20.3%, institutional accumulation rõ ràng
+* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 31.25 xuống 29.8 với volume tăng nhẹ 33.0M
+* **Bối Cảnh Ngành:** Ngân hàng 85% tích cực, VPB leader với fundamentals mạnh
+* **Phân Tích Thiết Lập:** Test phase bình thường sau strong weekly advance, cần quan sát volume reaction
+* **Vùng Vào Tốt Nhất:** Core holding position, buy dips about 29-30 range
 
 ### **VIX (Chứng Khoán)**
 ![Weekly Chart](reports_week/VIX/VIX_candlestick_chart.png) ![Daily Chart](reports/VIX/VIX_candlestick_chart.png)
 
-* **Tín Hiệu VPA Tuần:** Mạnh mẽ nhưng cần cảnh giác với mức giá cao
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh ngày 2025-07-28, momentum mạnh nhưng cần thận trọng
-* **Bối Cảnh Ngành:** Chứng khoán leader nhưng đã có gains substantial
-* **Phân Tích Thiết Lập:** Strong momentum nhưng risk/reward less attractive ở mức cao
-* **Vùng Vào Tốt Nhất:** Chờ pullback substantial trước khi re-entry
+* **Tín Hiệu VPA Tuần:** Extraordinary +27.6% weekly gain, multiple SOS signals - strongest weekly performer
+* **Tín Hiệu VPA Ngày:** Climatic Action/Selling Climax ngày 2025-07-29 - gap up 27.35 nhưng sụt xuống 23.95, volume bùng nổ 118.78M
+* **Bối Cảnh Ngành:** Chứng khoán sector leader nhưng có gains substantial, cần thận trọng
+* **Phân Tích Thiết Lập:** Selling climax có thể là exhaustion sau strong run, volume explosion suggests capitulation
+* **Vùng Vào Tốt Nhất:** Chờ confirmation recovery, nếu hold above 23, có thể là buying opportunity
+
+### **MWG (Bán Lẻ)**
+![Weekly Chart](reports_week/MWG/MWG_candlestick_chart.png) ![Daily Chart](reports/MWG/MWG_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Consistent SOS signals, xếp hạng #2 trong ngành bán lẻ dẫn dắt
+* **Tín Hiệu VPA Ngày:** Effort to Fall ngày 2025-07-29, giảm từ 70.2 xuống 66.6 với volume tăng gấp đôi 18.35M
+* **Bối Cảnh Ngành:** Bán lẻ Dẫn Dắt Phân Hóa với 75% tích cực, MWG steady performer
+* **Phân Tích Thiết Lập:** Weekly foundation vẫn mạnh mặc dù daily pressure, có thể là healthy correction
+* **Vùng Vào Tốt Nhất:** Buy weakness về vùng 65-67, strong weekly trend intact
+
+### **REE (Năng Lượng)**
+![Weekly Chart](reports_week/REE/REE_candlestick_chart.png) ![Daily Chart](reports/REE/REE_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Progressive strength trong energy transformation story
+* **Tín Hiệu VPA Ngày:** Effort to Fall ngày 2025-07-29, từ 69.7 xuống 66.8 với volume tăng 60%
+* **Bối Cảnh Ngành:** Năng lượng có potential rotation story, REE dẫn dắt chuyển đổi xanh
+* **Phân Tích Thiết Lập:** Support key level 68.0 bị phá vỡ, cần recovery signals để confirm bottom
+* **Vùng Vào Tốt Nhất:** Wait for demand signals về vùng 65-67 trước khi re-entry
+
+### **SSI (Chứng Khoán)**
+![Weekly Chart](reports_week/SSI/SSI_candlestick_chart.png) ![Daily Chart](reports/SSI/SSI_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Previous leader với strong recovery patterns, nhưng recent weakness concerning
+* **Tín Hiệu VPA Ngày:** Effort to Fall ngày 2025-07-29 - gap up 36.1 nhưng sụt xuống 33.3, volume gấp đôi 104.97M
+* **Bối Cảnh Ngành:** Chứng khoán 100% tích cực nhưng SSI đang underperform recent leaders
+* **Phân Tích Thiết Lập:** Concerning gap failure, cần demand signals để confirm này không phải distribution
+* **Vùng Vào Tốt Nhất:** Chờ recovery signals trước khi re-entry, critical support 32-33
+
+### **ACB (Ngân Hàng)**
+![Weekly Chart](reports_week/ACB/ACB_candlestick_chart.png) ![Daily Chart](reports/ACB/ACB_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Strong weekly SOS after accumulation periods, breakout potential
+* **Tín Hiệu VPA Ngày:** Selling Climax ngày 2025-07-29 - gap lên 23.90 nhưng sập xuống 22.75, volume bùng nổ 34.03M
+* **Bối Cảnh Ngành:** Ngân hàng sector mạnh 85% tích cực, ACB có potential từ breakout wave
+* **Phân Tích Thiết Lập:** Climax selling có thể là exhaustion sau 6 tín hiệu tích cực liên tiếp, monitor recovery
+* **Vùng Vào Tốt Nhất:** If hold above 22.5, có thể là exceptional entry opportunity
+
+### **MSN (Thực Phẩm)**
+![Weekly Chart](reports_week/MSN/MSN_candlestick_chart.png) ![Daily Chart](reports/MSN/MSN_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Defensive strength với multiple SOS, thực phẩm có stability appeal
+* **Tín Hiệu VPA Ngày:** Selling Climax ngày 2025-07-29 - từ 78.5 sụp xuống 72.2, mất 5.4 điểm với volume bùng nổ 16.02M
+* **Bối Cảnh Ngành:** Thực phẩm có defensive characteristics, MSN thường stable performer
+* **Phân Tích Thiết Lập:** Panic selling cực mạnh có thể tạo opportunity nếu có recovery signals
+* **Vùng Vào Tốt Nhất:** Monitor demand emergence về vùng 70-72 range
+
+### **HDB (Ngân Hàng)**
+![Weekly Chart](reports_week/HDB/HDB_candlestick_chart.png) ![Daily Chart](reports/HDB/HDB_candlestick_chart.png)
+
+* **Tín Hiệu VPA Tuần:** Top ngân hàng với strong institutional support, consistent weekly strength
+* **Tín Hiệu VPA Ngày:** Selling Climax ngày 2025-07-29, giảm từ 28.45 xuống 26.5 với volume tăng 36%
+* **Bối Cảnh Ngành:** Quality bank trong sector mạnh nhất, fundamental support vững
+* **Phân Tích Thiết Lập:** Quality name với selling pressure, nếu weekly support holds có thể là opportunity
+* **Vùng Vào Tốt Nhất:** Long-term holding mindset, accumulate if support about 26.0 holds
 
 ## 6. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
 
-### Cổ Phiếu Được Nâng Lên "Top List":
-- **ACB**: Từ `Potential List`. Lý do: REPORT.md ghi nhận **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28, xác nhận breakout trong ngành ngân hàng 85% tích cực. LEADER.md xác nhận ngành 'Dẫn dắt Đồng Thuận'.
-- **MBB**: Từ `Potential List`. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 với ngành ngân hàng strength, performance xếp top ngành.
-- **BSI**: Từ `Potential List`. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 trong ngành chứng khoán 100% tích cực, đột phá technical pattern.
+### Cổ Phiếu Được Duy Trì "Top List" (Mặc Dù Daily Weakness):
+- **VHM**: Duy trì #1. Lý do: **'Test for Supply'** ngày 2025-07-29 với volume giảm (tích cực), nền tuần vững với multiple SOS. Weekly foundation justifies maintaining position.
+- **VND**: Duy trì #2. Lý do: **'Test for Supply'** ngày 2025-07-29 với volume giảm, exceptional weekly +13.4% performance with volume explosion confirms institutional accumulation.
+- **VPB**: Duy trì #3. Lý do: **'Test for Supply'** ngày 2025-07-29, strong weekly +11.3% recovery pattern, leader position trong ngành ngân hàng.
 
-### Cổ Phiếu Được Thêm Vào "Potential List":
-- **TCB**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 với recovery potential trong ngành ngân hàng mạnh.
-- **PDR**: Từ `Previous Potential`. Lý do: **'Kiểm Tra Nguồn Cung'** ngày 2025-07-28 tích cực trong ngành bất động sản.
-- **DGW**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 nổi bật trong ngành bán lẻ.
+### Cổ Phiếu Được Giảm Confidence Score (High Threshold Apply):
+- **VIX**: Từ 85% xuống 80%. Lý do: **'Climatic Action/Selling Climax'** ngày 2025-07-29, mặc dù weekly +27.6% exceptional nhưng daily climactic pattern concerning.
+- **MWG**: Từ 80% xuống 75%. Lý do: **'Effort to Fall'** ngày 2025-07-29 nghiêm trọng, mặc dù weekly SOS foundation vẫn intact.
+- **REE**: Từ 80% xuống 75%. Lý do: **'Effort to Fall'** ngày 2025-07-29 với phá vỡ support 68.0, cần recovery confirmation.
 
-### Cổ Phiếu Được Phục Hồi Lên "Top List":
-- **CTS**: Từ `Hạ Ưu Tiên` trở lại `Top List`. Lý do: Điều chỉnh VPA - tín hiệu **'Không Có Nguồn Cung'** ngày 2025-07-28 (không phải Buying Climax), supply đã cạn kiệt sau chuỗi SOS mạnh mẽ.
+### Cổ Phiếu Bị Giáng Xuống "Quan Sát Cẩn Thận":
+- **SSI**: Từ 95% xuống 70%. Lý do: **'Effort to Fall'** ngày 2025-07-29 nghiêm trọng với gap failure, concern về potential distribution mặc dù weekly foundation.
+- **ACB**: Từ 90% xuống 70%. Lý do: **'Selling Climax'** ngày 2025-07-29 cực mạnh, mặc dù weekly breakout potential cần monitor recovery.
+- **MSN**: Từ 80% xuống 70%. Lý do: **'Selling Climax'** ngày 2025-07-29 panic selling, defensive characteristics cần confirmation.
 
-### Cổ Phiếu Được Duy Trì "Top List":
-- **VHM**: Duy trì #1. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28 tiếp tục, lãnh đạo ngành bất động sản.
-- **SSI**: Duy trì #2. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28, dẫn dắt ngành chứng khoán 100% tích cực.
-- **VND**: Duy trì #3. Lý do: **'Nỗ Lực Tăng Giá'** ngày 2025-07-28, breakout pattern tiếp tục.
-- **VPB**: Duy trì #4. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-28, leader ngành ngân hàng.
+### Cổ Phiếu Bị Giáng Xuống "Hạ Ưu Tiên":
+- **CTS**: Từ `Top List` xuống `Hạ Ưu Tiên`. Lý do: **'Sign of Weakness (SOW)'** ngày 2025-07-29 cực mạnh, phủ nhận tín hiệu No Supply trước đó.
+- **TCH**: Từ `Top List` xuống `Hạ Ưu Tiên`. Lý do: **'Selling Climax'** ngày 2025-07-29 với volume bùng nổ 103%, cần recovery signals.
+- **MBS**: Từ `Top List` xuống `Hạ Ưu Tiên`. Lý do: **'Effort to Fall'** ngày 2025-07-29 bất thường với volume cạn kiệt, potential distribution.
+- **BSI**: Từ `Top List` xuống `Hạ Ưu Tiên`. Lý do: **'Buying Climax'** ngày 2025-07-29 với bóng trên cực dài, cảnh báo kết thúc giai đoạn tăng.
+- **MBB**: Từ `Top List` xuống `Hạ Ưu Tiên`. Lý do: **'Sign of Weakness (SOW)'** ngày 2025-07-29 cực mạnh với gap failure và volume bùng nổ.
+
+### Cổ Phiếu Được Thêm Vào "Danh Sách Tiềm Năng":
+- **BSR**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** cực thuyết phục với volume khổng lồ 11M, ngành dầu khí potential.
+- **TCB**: Từ `Potential List` được nâng cao. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-29 với volume bùng nổ 38.2M trong ngành ngân hàng mạnh.
+- **GAS**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** với Effort to Rise pattern, volume tăng đột biến 3.7M.
+- **C4G**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** với volume tăng vọt từ 1.33M lên 4.20M, đầu tư công có potential.
+- **BID**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** trong giai đoạn accumulation, ngành ngân hàng backdrop.
+
+### Cổ Phiếu Được Loại Bỏ Khỏi All Lists:
+- **HDC**: Từ `Top List` to removed. Lý do: **'Selling Climax'** ngày 2025-07-29 nghiêm trọng với volume bùng nổ 156%, cần thời gian extensive recovery.
+- **VCI**: Từ `Top List` to removed. Lý do: **'Selling Climax'** ngày 2025-07-29 với panic selling -6.89%, phủ nhận No Supply pattern trước đó.
 
 ## 7. Chiến Lược Giao Dịch Tuần Tới
 
-**Phân Bổ Danh Mục Đề Xuất:**
-- **35%** Chứng khoán (SSI, VND, VCI, MBS, BSI)
-- **25%** Ngân Hàng (VPB, ACB, HDB, MBB)  
-- **25%** Bất Động Sản (VHM, HDC, TCH)
-- **10%** Bán Lẻ (MWG, FRT, DGW, PNJ)
-- **5%** Đa dạng hóa (MSN, REE)
+**Phân Bổ Danh Mục Đề Xuất (Conservative Approach):**
+- **25%** Top Tiers (VHM, VND, VPB) - Core holdings với nền tuần vững
+- **20%** Bất Động Sản (VHM supplemented) - Ngành dẫn dắt được maintain
+- **20%** Chứng Khoán (VND, VIX selective) - Sector strength nhưng selective
+- **15%** Tiềm Năng Mạnh (BSR, TCB, GAS, C4G) - Rotation opportunities
+- **10%** Phòng Thủ (REE, MWG) - Stability factors
+- **10%** Cash Position - Flexibility cho market uncertainty
 
 **Ưu Tiên Giao Dịch:**
-1. **Mua mạnh**: VHM, SSI, VND, VPB, ACB - core holdings với confidence cao
-2. **Mua có chọn lọc**: CTS, HDC, HDB, TCH, VCI - quality picks trong sectors mạnh, CTS có No Supply signal
-3. **Theo dõi**: VIX cần thận trọng do mức giá cao, chờ pullback
-4. **Danh sách tránh hiện tại trống** - không có tín hiệu climax đáng lo ngại
+1. **Hold & Monitor**: VHM, VND, VPB - core positions với weekly strength intact
+2. **Selective Entry**: BSR, TCB, GAS - strong SOS candidates trên market weakness
+3. **Recovery Plays**: VIX if confirmation, ACB if support holds
+4. **Avoid**: Previously strong tickers với severe climax patterns (CTS, MBS, MBB, BSI, TCH)
 
-**Quản Lý Rủi Ro:**
-- Duy trì cắt lỗ 3-5% dưới hỗ trợ key levels
-- Chốt lời từng phần tại resistance gần nhất cho positions có gains lớn
-- Tăng tỷ trọng cash nếu thấy nhiều tín hiệu climax xuất hiện
-- Monitor sector rotation và strength distribution changes
+**Quản Lý Rủi Ro Tăng Cường:**
+- Tightened stop losses tại 2-3% dưới entry thay vì 3-5%
+- Reduce position sizes do increased market volatility
+- Prepare for potential further consolidation given widespread climactic action
+- Monitor volume patterns carefully for institutional behavior confirmation
+- Ready to increase cash position nếu thấy thêm distribution signals
+
+**Key Levels To Monitor:**
+- **VNINDEX**: Support 1500-1520, resistance 1560-1580
+- **VHM**: Critical support 92.0, target recovery 96-98
+- **VND**: Support 30-31, upside target 35-38  
+- **VPB**: Support 29-30, banking sector barometer
+- **Sector Rotation**: Watch for oil & gas (BSR, GAS) và banking (TCB, BID) strength

@@ -62,5 +62,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** sau Test for Supply. Việc giá tăng và test cao 59.0 trên khối lượng tăng cho thấy lực cầu quay trở lại.
 - **Ngày 2025-07-28:** GMD tăng từ 58.4 lên 58.5. Cây nến tăng có biên độ hẹp với mức dao động 57.9-58.9. Khối lượng giao dịch tăng mạnh lên 4.58 triệu đơn vị, tăng 61% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Việc khối lượng tăng đột biến 61% kèm theo sự tăng giá cho thấy lực cầu đã quay trở lại quyết đoán. Mức cao 58.9 trong phiên cho thấy sự quan tâm tích cực. Sau chuỗi Test for Demand và Effort to Rise trước đó, GMD đang cho thấy dấu hiệu rõ ràng của sự bứt phá khỏi giai đoạn tích lũy.
+- **Ngày 2025-07-29:** GMD giảm mạnh từ 58.5 xuống 56.3. Cây nến giảm có biên độ rộng với mức cao 58.9 và mức thấp 56.1. Khối lượng giao dịch giảm xuống 3.54 triệu đơn vị, giảm 23% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Effort to Rise** mạnh mẽ. Việc giá có test lên mức cao 58.9 (xác nhận vùng kháng cự) nhưng sau đó giảm mạnh với khối lượng giảm 23% cho thấy áp lực bán chốt lời đã xuất hiện nhưng không áp đảo. Mặc dù giá có test xuống thấp 56.1, nhưng sự giảm khối lượng là dấu hiệu tích cực cho thấy đây có thể là nhịp điều chỉnh kỹ thuật bình thường sau đợt **Effort to Rise**. GMD vẫn trong xu hướng phục hồi tích cực và đây có thể là cơ hội tích lũy tốt.
 
 

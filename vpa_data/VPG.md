@@ -44,3 +44,5 @@
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise mạnh mẽ của phiên trước, phiên bùng nổ này là một tín hiệu SOS cực kỳ mạnh mẽ. Việc gap up và tăng vọt 7% từ 8.2 lên 8.77 với khối lượng gấp đôi (từ 1.08M lên 2.05M) cho thấy lực cầu đã hoàn toàn bùng nổ. Việc đóng cửa tại đỉnh ngày 8.77 mà không có bất kỳ đuôi nào cho thấy không có áp lực bán chốt lời đáng kể. Đây là tín hiệu SOS xuất sắc, xác nhận VPG đã chính thức bước vào giai đoạn mark-up mạnh mẽ với momentum tăng cực kỳ ấn tượng và tiềm năng tiếp tục phá vỡ các kháng cự cao hơn.
 
 
+- **Ngày 2025-07-29:** VPG giảm từ 8.93 xuống 8.31 với đỉnh ngày chỉ đạt 8.93 và mức thấp 8.31. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất. Khối lượng giao dịch tăng (2.25 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Việc giá không thể test lên cao hơn mức đóng cửa phiên trước và giảm xuống 8.31 với khối lượng tăng từ 1.72M lên 2.25M cho thấy áp lực bán đang gia tăng. Đây là tín hiệu tiêu cực cho thấy lực cầu yếu kém và xu hướng giảm có thể tiếp diễn trong ngắn hạn.

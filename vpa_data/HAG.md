@@ -62,5 +62,7 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Supply** sau test, áp lực bán giảm.
 - **Ngày 2025-07-28:** HAG tăng từ 14.05 lên 14.2. Cây nến tăng có biên độ vừa phải với mức dao động 14.05-14.45. Khối lượng giao dịch giảm xuống 14.12 triệu đơn vị, giảm 12% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** nhẹ sau giai đoạn **Test for Supply**. Việc giá tăng và test cao 14.45 cho thấy lực cầu đang quay trở lại sau giai đoạn test. Mặc dù khối lượng giảm, nhưng hành động giá tích cực sau chuỗi SOS trước đó cho thấy HAG đang chuẩn bị tiếp tục xu hướng tăng.
+- **Ngày 2025-07-29:** HAG giảm mạnh từ 14.2 xuống 13.3. Cây nến giảm có biên độ rất rộng với mức cao 14.25 và mức thấp 13.3. Khối lượng giao dịch tăng vọt lên 24.38 triệu đơn vị, tăng 73% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** sau chuỗi tín hiệu tích cực trước đó. Việc giá có test lên mức cao 14.25 nhưng sau đó giảm sập xuống 13.3 với biên độ 0.95 điểm và khối lượng bùng nổ tăng 73% cho thấy áp lực bán chốt lời khổng lồ đã xuất hiện. Mặc dù đây là tín hiệu tiêu cực trong ngắn hạn, nhưng sau chuỗi Sign of Strength mạnh mẽ trước đó, đây có thể là nhịp shakeout cần thiết để loại bỏ những tay yếu trước khi tiếp tục xu hướng tăng dài hạn.
 
 

@@ -59,3 +59,5 @@
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục xác nhẫn. Sau tín hiệu **No Supply** của phiên trước, việc giá giữ vững hoàn toàn trên nền khối lượng tăng mạnh cho thấy áp lực bán đã cạn kiệt hoàn toàn. Khối lượng tăng mà giá không giảm là dấu hiệu cực kỳ tích cực, cho thấy sự hấp thụ mạnh mẽ và chuẩn bị cho xu hướng tăng.
 
 
+- **Ngày 2025-07-29:** DRC giảm từ 17.8 xuống 17.0. Cây nến giảm có biên độ hẹp với mức mở cửa 17.8 và dao động trong khoảng 17.0-17.9. Khối lượng giao dịch tăng lên 1.61 triệu đơn vị, tăng 29% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** nhẹ xuất hiện. Việc giá giảm với khối lượng tăng cho thấy có áp lực bán nhưng không quá mạnh. Mặc dù giá test lên gần mức cao của phiên trước (17.9) nhưng không thể duy trì và đóng cửa ở mức thấp của phiên. Đây là tín hiệu tiêu cực nhẹ, cho thấy thiếu lực cầu để hỗ trợ giá ở vùng cao.

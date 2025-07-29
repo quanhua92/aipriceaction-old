@@ -66,5 +66,7 @@
     - **Phân tích VPA/Wyckoff:** Tín hiệu **Test for Supply** sau SOS, áp lực bán không mạnh.
 - **Ngày 2025-07-28:** GVR tăng từ 31.2 lên 31.4. Cây nến tăng có biên độ rộng với mức dao động 31.05-31.95. Khối lượng giao dịch tăng mạnh lên 9.79 triệu đơn vị, tăng 80% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ sau phiên **Test for Supply**. Việc khối lượng tăng vọt 80% kèm theo việc giá phục hồi và test cao 31.95 cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn test. Xác nhận thành công cho phiên test và GVR tiếp tục xu hướng tăng sau tín hiệu SOS trước đó.
+- **Ngày 2025-07-29:** GVR giảm mạnh từ 31.4 xuống 29.5. Cây nến giảm có biên độ rất rộng với mức cao 32.0 và mức thấp 29.5. Khối lượng giao dịch tăng nhẹ lên 9.99 triệu đơn vị, tăng 2% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** mạnh mẽ sau phiên **Effort to Rise**. Việc giá có test lên mức cao 32.0 (cao nhất từ trước đến nay) nhưng sau đó giảm sập xuống 29.5 với biên độ 2.5 điểm cho thấy áp lực bán chốt lời rất lớn đã xuất hiện ở vùng kháng cự quan trọng. Khối lượng duy trì ở mức cao cho thấy sự giằng co quyết liệt giữa cung và cầu. Sau chuỗi tín hiệu SOS và Effort to Rise mạnh mẽ trước đó, đây có thể là nhịp test cần thiết để thị trường hấp thụ nguồn cung trước khi tiếp tục xu hướng tăng dài hạn.
 
 

@@ -58,4 +58,15 @@
 - **Ngày 2025-07-23:** MBS duy trì ở mức 30.2. Cây nến có biên độ rộng với mức cao 31.4 và mức thấp 30.0, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 10.38 triệu đơn vị, cao hơn 35% so với phiên **Effort to Rise** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Effort to Rise**. Việc giá test lên đỉnh 31.4 nhưng quay về đóng cửa không đổi trên khối lượng tăng vọt cho thấy có áp lực bán mạnh ở vùng cao hơn. Tuy nhiên, việc giá duy trì được mức 30.2 mặc dù có áp lực test xuống 30.0 là dấu hiệu tích cực, cho thấy support đang được duy trì. MBS cần thêm thời gian để tiêu hóa nguồn cung ở vùng 31.4.
 
+- **Ngày 2025-07-24:** MBS giảm nhẹ từ 30.2 xuống 30.0. Cây nến có biên độ hẹp với mức cao 30.4 và mức thấp 29.6. Khối lượng giao dịch giảm mạnh xuống 5.77 triệu đơn vị, giảm 44% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp tục sau phiên trước. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã giảm đáng kể. Việc giá có thể test lên 30.4 ở đầu phiên và chỉ giảm nhẹ xuống 30.0 trên khối lượng thấp là dấu hiệu tích cực, cho thấy nguồn cung ở vùng cao đang được tiêu hóa dần.
+
+- **Ngày 2025-07-25:** MBS tăng mạnh từ 30.0 lên 32.0. Cây nến tăng có biên độ rộng với mức cao 32.0 và mức thấp 29.9. Khối lượng giao dịch tăng vọt lên 13.83 triệu đơn vị, tăng gấp 2.4 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ sau giai đoạn **Test for Supply** thành công. Việc giá bứt phá mạnh với khối lượng tăng vọt cho thấy lực cầu đã áp đảo hoàn toàn, vượt qua được nguồn cung ở vùng 31.4. Sự tăng giá từ test thấp 29.9 lên đóng cửa ở đỉnh 32.0 thể hiện sức mạnh rất ấn tượng của lực mua.
+
+- **Ngày 2025-07-28:** MBS tiếp tục tăng mạnh từ 32.0 lên 35.2. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm xuống 10.94 triệu đơn vị, giảm 21% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** rất mạnh mẽ. Sau phiên **Effort to Rise** cực mạnh trước đó, việc giá tiếp tục tăng với biên độ lớn nhưng trên khối lượng giảm cho thấy áp lực bán đã hoàn toàn biến mất. Lực mua dễ dàng đẩy giá lên từ 32.0 đến 35.2 mà không gặp kháng cự đáng kể.
+
+- **Ngày 2025-07-29:** MBS gap up mạnh mở cửa ở 36.6 nhưng sau đó giảm mạnh về 33.8. Cây nến có biên độ cực rộng với mức cao 37.6 và mức thấp 33.5. Khối lượng giao dịch cạn kiệt chỉ còn 5.6 nghìn đơn vị, giảm 99.9% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** với đặc điểm bất thường. Sau tín hiệu **No Supply** mạnh mẽ của phiên trước, sự gap up nhưng sau đó giảm mạnh trên khối lượng cực thấp cho thấy đã có sự phân phối cổ phiếu ở vùng giá cao 36.6-37.6. Việc khối lượng cạn kiệt có thể là do gap up tạo cú sốc tâm lý khiến nhiều nhà đầu tư chờ đợi, tuy nhiên cần theo dõi thêm để xác định liệu đây có phải là sự đảo chiều hay chỉ là điều chỉnh kỹ thuật sau đợt tăng mạnh.
 

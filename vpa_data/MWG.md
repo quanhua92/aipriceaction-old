@@ -66,3 +66,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công. Sau phiên **Test for Supply** thất bại của ngày trước, giá test xuống vùng 69.2 nhưng có thể phục hồi mạnh mẽ và đóng cửa trên mức hỗ trợ 70.0. Việc test cao lên 71.1 cho thấy lực cầu đã quay trở lại tích cực. Khối lượng duy trì ổn định xác nhận có sự quan tâm thực sự từ lực cầu. Tín hiệu này cho thấy vùng 69.2-69.5 có thể đã tìm thấy sự hỗ trợ và xu hướng tăng có thể được phục hồi.
 
 
+- **Ngày 2025-07-29:** MWG giảm mạnh từ 70.2 xuống 66.6. Cây nến giảm có biên độ rộng với mức thấp nhất 66.4 và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng vọt (18.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** cực kỳ mạnh mẽ, hoàn toàn phủ nhận tín hiệu **Test for Demand** thành công trước đó. Việc giá giảm mạnh gần 5.3% trên khối lượng tăng gấp đôi (tăng 183% so với phiên trước) cho thấy áp lực bán cực kỳ lớn đã tràn vào thị trường. Sự đóng cửa gần mức thấp nhất phiên (66.6 so với low 66.4) thể hiện sự thống trị hoàn toàn của lực bán. Đây là một tín hiệu cảnh báo mạnh về khả năng xu hướng giảm sẽ tiếp diễn trong ngắn hạn.
