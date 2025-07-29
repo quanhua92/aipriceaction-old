@@ -1,20 +1,22 @@
-# Kế Hoạch Dịch Thuật - TRANSLATE_HOLD.md
+# Kế Hoạch Dịch Thuật - TRANSLATE_PLAN.md
 
 ## Mục Tiêu
-Dịch các đoạn văn bản hỗn hợp Tiếng Anh - Tiếng Việt trong file `hold.md` thành Tiếng Việt chuyên nghiệp, đảm bảo không làm mất format hoặc markdown heading.
+Dịch các đoạn văn bản hỗn hợp Tiếng Anh - Tiếng Việt trong file `PLAN.md` thành Tiếng Việt chuyên nghiệp, đảm bảo không làm mất format hoặc markdown heading.
 
 ## Phạm Vi Dịch Thuật
 Chỉ dịch nội dung trong các phần con sau:
 
-### 1. VPA Phân Tích Hiện Tại
-- Các bullet point dưới "**Bối Cảnh Tuần:**" 
-- Các bullet point dưới "**Bối Cảnh Ngày:**"
-
-### 2. Hành Động Đề Xuất  
-- Các bullet point dưới "**Lý Do Hành Động:**"
-
-### 3. Top 3 Cổ Phiếu Thay Thế
-- Nội dung mô tả trong các bullet point của từng cổ phiếu thay thế
+- Các mục bắt đầu bằng "**Bối Cảnh Tuần:**" 
+- Các mục bắt đầu bằng "**Bối Cảnh Ngày:**"
+- Các mục bắt đầu bằng "**Bối Cảnh Ngành**"
+- Các mục bắt đầu bằng "**Tín Hiệu VPA Tuần**"
+- Các mục bắt đầu bằng "**Tín Hiệu VPA Ngày**"
+- Các mục bắt đầu bằng "**Hành Động Gần Đây**"
+- Các mục bắt đầu bằng "**Phân Tích Thiết Lập**"
+- Các mục bắt đầu bằng "**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**"
+- Các mục bắt đầu bằng "**Vùng Vào Tốt Nhất**"
+- Các mục bắt đầu bằng "**Quản Lý Rủi Ro Tăng Cường**"
+- Các mục bắt đầu bằng "**Phân Bổ Danh Mục Đề Xuất**"
 
 ## Nguyên Tắc Dịch Thuật
 

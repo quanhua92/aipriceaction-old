@@ -236,11 +236,25 @@ print('Sample tickers:', tickers.head(10).to_list())
 - **Add exceptional new candidates**: Based on manual signal analysis from broader universe
 - **Confidence Score Strategy**: Manual assessment (95% → 85% → 75%) based on signal strength
 - **Vietnamese terminology**: Use proper financial terms throughout
-- Format: `[**TCB**](#TCB) (Ngân Hàng) - **95%** - Tín hiệu mạnh mẽ - [View Report](REPORT.md#TCB)`
+- **REQUIRED FORMAT**: `[**TCB**](#TCB) (Ngân Hàng) - **95%** - Tín hiệu mạnh mẽ - [View Report](REPORT.md#TCB)`
 - **Score Guidelines**: 
   - 95%: Perfect weekly/daily alignment with strong industry
   - 85%: Minor daily weakness but weekly trend intact
   - 75%: Temporary consolidation but fundamentally sound
+- **MANDATORY ORGANIZED STRUCTURE**:
+  ```markdown
+  ## 2. Top [X] Cơ Hội Giao Dịch Chất Lượng
+  
+  ### Nhóm Tin Cậy Cao (85-95%) - Portfolio Core
+  1. [**VHM**](#VHM) (Bất Động Sản) - **90%** - Description - [View Report](REPORT.md#VHM)
+  2. [**VND**](#VND) (Chứng Khoán) - **90%** - Description - [View Report](REPORT.md#VND)
+  
+  ### Nhóm Tin Cậy Tốt (75-84%) - Strategic Holdings
+  6. [**HDB**](#HDB) (Ngân Hàng) - **80%** - Description - [View Report](REPORT.md#HDB)
+  
+  ### Nhóm Quan Sát Cẩn Thận (65-74%) - Tactical Positions
+  10. [**CTS**](#CTS) (Chứng Khoán) - **70%** - Description - [View Report](REPORT.md#CTS)
+  ```
 
 #### 5.3 Potential List Generation (Manual Signal Scanning)
 **MANUAL GENERATION RULES**:
@@ -259,17 +273,29 @@ print('Sample tickers:', tickers.head(10).to_list())
 - **Monitor for recovery**: Track potential reversal signals
 
 #### 5.5 Detailed Analysis for Top Tickers
-**MINIMUM REQUIREMENT**: Provide detailed analysis for AT LEAST 10 top tickers from Top List
+**MINIMUM REQUIREMENT**: Provide detailed analysis for **ALL TOP LIST TICKERS** (not just 10)
 
-For EACH analyzed ticker, provide:
-- Chart links (daily and weekly)
-- Weekly VPA narrative with exact dates
-- Daily VPA narrative with exact dates  
-- Industry context from LEADER.md
-- Synthesis explaining high-conviction setup
-- Best entry zones with technical justification
+**MANDATORY FORMAT** for EACH ticker analysis section:
+```markdown
+### **[TICKER] ([SECTOR])**
+![Weekly Chart](reports_week/[TICKER]/[TICKER]_candlestick_chart.png) ![Daily Chart](reports/[TICKER]/[TICKER]_candlestick_chart.png)
 
-**Selection Priority**: Choose top 10 tickers with highest confidence scores and strongest technical setups
+* **Giá Hiện Tại:** [PRICE].000 VNĐ
+* **Tín Hiệu VPA Tuần:** [Weekly VPA narrative with exact dates]
+* **Tín Hiệu VPA Ngày:** [Daily VPA narrative with exact dates]
+* **Bối Cảnh Ngành:** [Industry context from LEADER.md]
+* **Phân Tích Thiết Lập:** [Synthesis explaining high-conviction setup]
+* **Vùng Vào Tốt Nhất:** [Best entry zones with technical justification]
+```
+
+**CRITICAL REQUIREMENTS**:
+- **Current Price Format**: MUST use thousand dot format (e.g., 72.200 VNĐ, 23.550 VNĐ)
+- **Price Source**: Extract from latest CSV market data file: `market_data/{TICKER}_2025-01-02_to_2025-07-29.csv`
+- **All Top List Tickers**: Every ticker in Top List must have detailed section
+- **Vietnamese Terms**: All analysis in professional Vietnamese financial terminology
+- **Chart Links**: Verify paths exist for both weekly and daily charts
+
+**Selection Priority**: **ALL TOP LIST TICKERS** must have detailed analysis sections
 
 #### 5.6 Audit Log Creation
 **Mandatory documentation** of ALL state changes with precise justifications:
@@ -303,7 +329,22 @@ Read: /Volumes/data/workspace/aipriceaction/market_data/{TICKER}_2025-01-02_to_2
 # Focus on last 5-10 lines for most recent data
 ```
 
+**MANDATORY CURRENT PRICE EXTRACTION PROCESS**:
+```bash
+# For each Top List ticker, extract current price:
+for ticker in VHM VND VPB VIX SSI HDB MWG REE SHS CTS MBB SHB ACB MSN HDC VCI TCB BSR; do
+  file="/Volumes/data/workspace/aipriceaction/market_data/${ticker}_2025-01-02_to_2025-07-29.csv"
+  if [ -f "$file" ]; then
+    price=$(tail -1 "$file" | cut -d',' -f5)
+    # Format with thousand dot: 72.2 becomes 72.200
+    formatted_price=$(printf "%.3f" "$price")
+    echo "* **Giá Hiện Tại:** $formatted_price VNĐ"
+  fi
+done
+```
+
 **Critical Checks**:
+- [ ] **Current Prices**: MUST be in thousand dot format (XXX.XXX VNĐ) for ALL Top List tickers
 - [ ] **Daily Prices**: Open, High, Low, Close match CSV data exactly
 - [ ] **Gap Claims**: "gap up X" must match actual Open vs Previous Close
 - [ ] **Price Movements**: "từ X xuống Y" must match actual data
@@ -380,7 +421,9 @@ Read: /Volumes/data/workspace/aipriceaction/vpa_data/{TICKER}.md
 - [ ] **⚠️ All VPA signals** match actual volume patterns
 - [ ] **⚠️ Weekly percentages** calculated and verified
 - [ ] No ticker appears in multiple categories
-- [ ] **MANDATORY**: At least 10 top tickers have detailed analysis sections
+- [ ] **MANDATORY**: ALL TOP LIST TICKERS have detailed analysis sections
+- [ ] **MANDATORY**: Current prices in thousand dot format (XXX.XXX VNĐ) for all detailed sections
+- [ ] **MANDATORY**: Top List organized with numbered tiers and group headers
 - [ ] Complete audit log documents every state change with manual justification
 - [ ] VNINDEX analysis synthesizes both daily and weekly timeframes from reports
 - [ ] Chart links use correct file paths
