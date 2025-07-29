@@ -30,7 +30,7 @@ MASTER_REPORT_FILENAME = "REPORT.md"
 VPA_ANALYSIS_FILENAME = "VPA.md"
 
 # Instantiate the vnstock object once
-stock_reader = Vnstock().stock(symbol="SSI", source="TCBS")
+stock_reader = Vnstock().stock(symbol="SSI", source="VCI")
 
 # --- Core Functions ---
 
