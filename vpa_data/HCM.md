@@ -66,7 +66,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Việc khối lượng bùng nổ và giá test cao 26.2 cho thấy lực cầu quay trở lại mạnh mẽ.
 - **Ngày 2025-07-28:** HCM tăng mạnh từ 25.75 lên 27.15. Cây nến tăng có biên độ rộng với mức dao động 26.05-27.35. Khối lượng giao dịch tăng (27.61 triệu đơn vị), tăng 24% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Việc giá tăng vọt 1.4 điểm và test cao 27.35 với khối lượng cao cho thấy HCM đang trong giai đoạn markup mạnh mẽ.
-- **Ngày 2025-07-29:** HCM giảm mạnh từ 27.15 xuống 25.25. Cây nến giảm có biên độ rất rộng với mức cao 27.6 và mức thấp 25.25. Khối lượng giao dịch tăng mạnh lên 35.77 triệu đơn vị, tăng 30% so với phiên trước.
+- **Ngày 2025-07-29:** HCM giảm mạnh từ 27.55 xuống 25.25. Cây nến giảm có biên độ rất rộng với mức cao 27.6 và mức thấp 25.25. Khối lượng giao dịch tăng mạnh lên 35.77 triệu đơn vị, tăng 30% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** sau chuỗi **Sign of Strength (SOS)** mạnh mẽ. Việc giá có test lên mức cao 27.6 nhưng sau đó giảm sập xuống 25.25 với biên độ 2.35 điểm và khối lượng tăng 30% cho thấy áp lực chốt lời khổng lồ đã xuất hiện ở vùng đỉnh. Mặc dù đây là tín hiệu tiêu cực trong ngắn hạn, nhưng sau chuỗi SOS và Effort to Rise mạnh mẽ trước đó, đây có thể là nhịp shakeout cần thiết để loại bỏ tay yếu trước khi tiếp tục xu hướng tăng dài hạn.
 
 

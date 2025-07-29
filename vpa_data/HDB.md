@@ -62,7 +62,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau SOS cực mạnh. Việc giá vẫn tăng nhưng khối lượng giảm mạnh cho thấy consolidation sau đợt tăng vọt.
 - **Ngày 2025-07-28:** HDB tăng nhẹ từ 28.25 lên 28.45. Cây nến tăng có biên độ rộng với mức dao động 27.9-29.25. Khối lượng giao dịch tăng (24.57 triệu đơn vị), tăng 19% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** sau Test for Supply. Việc giá test cao 29.25 và khối lượng tăng trở lại cho thấy lực cầu quay trở lại.
-- **Ngày 2025-07-29:** HDB giảm mạnh từ 28.45 xuống 26.5. Cây nến giảm có biên độ rất rộng với mức cao 28.4 và mức thấp 26.5. Khối lượng giao dịch tăng mạnh lên 33.54 triệu đơn vị, tăng 36% so với phiên trước.
+- **Ngày 2025-07-29:** HDB giảm mạnh từ 28.4 xuống 26.5. Cây nến giảm có biên độ rất rộng với mức cao 28.4 và mức thấp 26.5. Khối lượng giao dịch tăng mạnh lên 33.54 triệu đơn vị, tăng 36% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** sau chuỗi **Sign of Strength (SOS)** cực mạnh. Việc giá có test ở mức cao 28.4 nhưng sau đó giảm sập xuống 26.5 với biên độ 1.95 điểm và khối lượng tăng 36% cho thấy áp lực chốt lời khổng lồ đã xuất hiện. Mặc dù đây là tín hiệu tiêu cực trong ngắn hạn, nhưng sau chuỗi SOS cực mạnh trước đó, đây có thể là nhịp shakeout cần thiết để loại bỏ tay yếu trước khi tiếp tục xu hướng tăng dài hạn.
 
 

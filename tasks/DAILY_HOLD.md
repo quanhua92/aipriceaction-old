@@ -249,7 +249,10 @@ python3 calculate_pnl_correct.py
 3. **Manual Daily Confirmation**: **Manual verification** to confirm weekly signals with supportive daily VPA analysis
 4. **Manual Cross-Industry Options**: If insufficient same-industry options, manually expand to strong tickers from leading industry groups
 5. **Manual Ranking Logic**: **Human intelligence** to rank by weekly signal strength first, then daily confirmation, then industry leadership status
-6. **CRITICAL MANUAL VERIFICATION**: **Always manually cross-check** alternatives are from the SAME industry group in `GROUP.md` - never mix industries in same-sector alternatives
+6. **⚠️ CRITICAL INDUSTRY VERIFICATION**: **MANDATORY manual cross-check** - alternatives MUST be from the SAME industry group in `GROUP.md`
+   - **Zero tolerance**: Never mix industries in same-ticker alternatives  
+   - **Manual verification required**: Read GROUP.md for every alternative ticker
+   - **Error prevention**: Cross-industry mixing is a critical bug that leads to poor portfolio advice
 
 **Manual Output Format**: For each alternative, provide specific reasoning citing:
 - Weekly VPA signal and date (PRIORITY) - manually identified
@@ -414,7 +417,52 @@ For EVERY ticker, provide detailed breakdown:
 - [ ] Industry classifications match GROUP.md exactly - manually cross-verified
 - [ ] **CRITICAL**: All "Top 3 Cổ Phiếu Thay Thế" alternatives are from the SAME industry group as the holding ticker per GROUP.md - manually verified
 
-### Step 8: Manual File Output
+### Step 8: 5-Day Market Forecast Generation
+**Objective**: Create detailed 5-day forward-looking analysis with scenario-based action plans
+
+**Manual Forecast Process**:
+- **Use Read tool** to analyze current market conditions from PLAN.md VNINDEX analysis
+- **Manual assessment** of post-climax market behavior patterns using VPA methodology  
+- **Scenario-based planning** for Up/Sideway/Down outcomes with specific probabilities
+- **Dynamic action plans** for each scenario based on portfolio holdings and market context
+
+**5-Day Forecast Structure**:
+```markdown
+## 5. Dự Đoán 5 Ngày Kế Tiếp
+
+### **Ngày [X] ([DATE])**
+
+**Tình Huống UP ([PROBABILITY]%)**
+- **Mô tả**: [Market scenario description]
+- **Điều kiện**: [Technical conditions required]
+- **Hành động**: [Specific portfolio actions]
+
+**Tình Huống SIDEWAY ([PROBABILITY]%)**
+- **Mô tả**: [Market scenario description]  
+- **Điều kiện**: [Technical conditions required]
+- **Hành động**: [Specific portfolio actions]
+
+**Tình Huống DOWN ([PROBABILITY]%)**
+- **Mô tả**: [Market scenario description]
+- **Điều kiện**: [Technical conditions required]
+- **Hành động**: [Specific portfolio actions]
+```
+
+**Manual Forecast Guidelines**:
+- **Day 1**: Focus on immediate post-climax reaction (conservative probabilities)
+- **Day 2-3**: Consider trend development and institutional response
+- **Day 4-5**: Account for weekly close and monthly patterns
+- **Probabilities**: Must sum to 100%, reflect VPA-based market structure analysis
+- **Actions**: Specific to current portfolio holdings with exact price levels and quantities
+
+**Key Forecast Elements**:
+- **VNINDEX levels**: Specific support/resistance levels for each scenario
+- **Portfolio actions**: Exact share quantities and price triggers for holdings
+- **Cash management**: Dynamic cash allocation based on market conditions
+- **Risk management**: Clear stop-loss and emergency procedures
+- **Strategic summary**: 5-day overview with core principles and key levels
+
+### Step 9: Manual File Output
 **Objective**: Generate final hold.md file using manual compilation
 
 **Manual Output Process**:

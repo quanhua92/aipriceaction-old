@@ -79,23 +79,28 @@ except Exception as e:
 
 Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to process each batch concurrently using **manual natural language analysis**.
 
-**PARALLEL PROCESSING RULE**: 
+**⚠️ CRITICAL PARALLEL PROCESSING RULES**: 
 - **ALWAYS launch exactly 8 Task tools concurrently** using a single message with multiple tool calls
 - **Each Task tool reads from its assigned batch file** (utilities/data/batch_X.csv) using reliable CSV operations
 - **Each batch contains 14-15 tickers** for optimal parallel processing
+- **⚠️ MANDATORY: Each Task tool MUST use Write tools ONLY** - no bash/echo commands
+- **⚠️ EXPLICIT INSTRUCTION: Tell each subagent to use Read/Write tools** for file operations
 - **All Task tool calls use MANUAL ANALYSIS ONLY** - no automated text parsing
 - **Each Task tool applies Wyckoff methodology manually** with human intelligence
 
-**Key steps**:
+**⚠️ CRITICAL Task Tool Instructions**:
 1. Read the task template: `tasks/task_generate_vpa_analysis.md`
 2. Create exactly 8 Task tool calls simultaneously, each with:
+   - **⚠️ MANDATORY Write Tool Usage**: "Use ONLY Read/Write tools for file operations. NEVER use bash, echo, or shell commands."
+   - **⚠️ File Operation Instruction**: "Use Read tool first to get existing file content, then use Write tool to save updated content."
    - **Manual analysis instructions** emphasizing natural language understanding
    - **Vietnamese VPA terminology requirements** (no English terms)
    - **Reliable Python guidance** for CSV operations only
    - Instruction to read from utilities/data/batch_X.csv (where X = 1-8)
    - **Manual context gathering** from existing vpa_data files
 3. Execute all 8 Task tools concurrently with manual analysis approach
-4. Each task tool applies Wyckoff methodology manually without automated signal detection
+4. **⚠️ Each task tool EXPLICITLY instructed** to avoid command line file operations
+5. Each task tool applies Wyckoff methodology manually without automated signal detection
 
 **Reference**: See `tasks/task_generate_vpa_analysis.md` for:
 - **Manual analysis methodology** (updated to remove automation)
@@ -104,13 +109,31 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 - **Number formatting rules** (DOT separator)
 - **Common VPA signals reference** (for manual identification)
 
-#### 2.4 Manual File Output Processing
-**Manual handling approach**:
-- Task tools use Edit/Write tools to manually append new date entries to existing `vpa_data/{TICKER}.md` files
-- **Manual preservation** of all existing historical analysis using Read tool first
+#### 2.4 **⚠️ CRITICAL File Output Processing** - USE WRITE TOOLS ONLY
+**MANDATORY Write Tool Usage**:
+- **⚠️ NEVER use bash, echo, or shell commands** for file operations
+- **⚠️ ALWAYS use Write tool** to create/update `vpa_data/{TICKER}.md` files
+- **⚠️ ALWAYS use Read tool first** to preserve existing historical analysis
+- **⚠️ NO command line file operations** - they require approval prompts
+
+**Correct File Processing Approach**:
+```
+# CORRECT METHOD:
+1. Read: /Volumes/data/workspace/aipriceaction/vpa_data/{TICKER}.md
+2. Analyze existing content
+3. Write: /Volumes/data/workspace/aipriceaction/vpa_data/{TICKER}.md (with new content appended)
+
+# WRONG METHOD (NEVER DO THIS):
+# echo "new content" >> vpa_data/{TICKER}.md  # CREATES APPROVAL PROMPTS
+# for file in ...; do echo ...; done          # CREATES APPROVAL PROMPTS
+```
+
+**Manual File Update Process**:
+- Use **Read tool** to get existing file content
+- **Manually append** new VPA analysis to existing content
+- Use **Write tool** to save complete updated content
 - Ensures proper UTF-8 encoding for Vietnamese text
 - **Manual checking** to skip tickers that already have today's analysis
-- **Human verification** of all updates before writing
 
 **DIVIDEND ADJUSTMENT MODE** (Only when dividend files processed):
 - **Manual update** of historical price references using dividend ratios
@@ -154,11 +177,12 @@ print('Now manually compare with VPA analysis using Read tool')
 ### Step 4: Manual Fix of Problematic Analysis
 **Objective**: Address all issues identified in manual verification
 
-**Manual Fix Process**:
+**⚠️ CRITICAL Manual Fix Process**:
 1. **Review each flagged ticker** from manual verification notes
 2. **Re-analyze manually** using corrected context and logic with human intelligence
-3. **Use Edit tool** to update the corresponding `vpa_data/{TICKER}.md` file
-4. **Re-verify manually** until all issues resolved through human assessment
+3. **⚠️ Use Read tool first** to get existing content from `vpa_data/{TICKER}.md`
+4. **⚠️ Use Write tool** to save updated content (NEVER use bash/echo)
+5. **Re-verify manually** until all issues resolved through human assessment
 
 **Common Issues to Fix Manually**:
 - **Illogical VPA signal transitions** - apply Wyckoff methodology correctly by hand
@@ -189,9 +213,10 @@ uv run merge_vpa.py
 - Preserves all existing historical analysis
 - Backs up market_data to market_data_processed
 
-**Alternative Manual Approach** (if merge_vpa.py unavailable):
-- **Use Read/Edit tools** to manually append new analysis to VPA.md
-- **Read vpa_data files** individually and manually copy to VPA.md
+**⚠️ Alternative Manual Approach** (if merge_vpa.py unavailable):
+- **⚠️ Use Read tool** to read existing VPA.md content
+- **⚠️ Use Read tool** to read individual vpa_data files
+- **⚠️ Use Write tool** to save updated VPA.md (NEVER use bash append operations)
 - **Preserve formatting** and structure manually
 
 ### Step 6: Manual Summary Documentation
@@ -250,7 +275,7 @@ Before completing the daily VPA analysis, manually verify:
 - [ ] NO English VPA terminology used anywhere (manually verified)
 - [ ] All Vietnamese VPA terms are accurate (manually validated)
 
-## Error Handling (Manual Approach)
+## **⚠️ Error Handling** (Manual Approach - Write Tools Only)
 
 **If dividend processing fails**:
 - Document the issue in manual summary report
@@ -268,7 +293,7 @@ Before completing the daily VPA analysis, manually verify:
 - Check vpa_data directory permissions and file formats manually
 - Verify all ticker files have proper UTF-8 encoding manually
 - Ensure merge process is appending, not overwriting existing VPA.md content
-- **Manual fallback**: Use Read/Edit tools to manually append new entries
+- **⚠️ Manual fallback**: Use Read tool to get existing content, then Write tool to save updated content (NEVER use bash operations)
 
 ## Success Metrics (Manual Assessment)
 

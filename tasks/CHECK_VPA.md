@@ -139,8 +139,53 @@ When processing multiple tickers:
 ## Success Criteria
 
 A successful fix should result in:
+
+### **⚠️ CRITICAL Data Accuracy Criteria (Must Pass)**
+- ✅ **ALL price claims verified** against CSV data
+- ✅ **ALL volume claims verified** against CSV data
+- ✅ **ALL percentage calculations verified** as mathematically correct
+- ✅ **ALL price movements verified** against actual OHLC data
+- ✅ **ALL volume directions verified** against actual volume trends
+- ✅ **NO data accuracy errors** remaining in any analysis
+
+### **Traditional VPA Criteria (After Data Accuracy)**
 - ✅ Single VPA analysis per date
-- ✅ Analysis matches price/volume behavior
-- ✅ Logical signal sequence maintained
+- ✅ Analysis matches price/volume behavior **EXACTLY**
+- ✅ Logical signal sequence maintained **WITH VERIFIED DATA**
 - ✅ No broken cross-references
+- ✅ Consistent narrative flow
+- ✅ **ALL VPA signals based on VERIFIED conditions**
+
+## **⚠️ Tools Required**
+- Read tool for VPA and CSV files
+- MultiEdit tool for batch corrections
+- TodoWrite tool for progress tracking
+- Basic calculator for percentage verification
+- **Task tool for comprehensive verification** when checking multiple tickers
+
+## **⚠️ Error Prevention Guidelines**
+
+### **Critical Data Accuracy Standards**
+- **⚠️ ZERO TOLERANCE**: No price/volume claims without CSV verification
+- **⚠️ MANDATORY CALCULATION CHECK**: All percentages must be mathematically verified
+- **⚠️ VOLUME UNIT CONSISTENCY**: Always convert CSV units to millions correctly
+- **⚠️ PRICE MOVEMENT ACCURACY**: All "từ X lên Y" claims must match CSV exactly
+
+### **Emergency Procedures**
+
+If **ANY of these critical issues found**:
+- **>3 price movement errors** in any ticker
+- **>2 volume direction errors** in any ticker  
+- **>5 percentage calculation errors** across all tickers
+- **Systematic data pipeline issues**
+
+**EMERGENCY ACTIONS:**
+1. **STOP all trading** based on current VPA analysis
+2. **Run comprehensive verification** using Task tool for all portfolio tickers
+3. **Fix all data errors** before any duplicate resolution
+4. **Document systematic patterns** for pipeline improvement
+5. **Regenerate analysis** if errors are widespread
+
+---
+*This enhanced template ensures systematic verification of VPA analysis accuracy against actual market data, preventing costly trading errors while also resolving duplicate analysis issues.*
 - ✅ Consistent narrative flow

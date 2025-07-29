@@ -290,11 +290,95 @@ For EACH analyzed ticker, provide:
 - **GEX**: Từ `Downgraded`. Lý do: **'No Demand' ngày YYYY-MM-DD** xác nhận xu hướng giảm.
 ```
 
-### Step 6: Quality Verification (Manual Review)
-**Objective**: Ensure PLAN.md accuracy and completeness through manual verification
+### Step 6: **CRITICAL DATA VERIFICATION** (Prevent Trading Errors)
+**Objective**: Ensure PLAN.md accuracy and completeness through systematic data verification
 
-**Manual Verification Checklist**:
+**⚠️ MANDATORY DATA ACCURACY VERIFICATION** (Based on Real Error Patterns):
+
+#### 6.1 **Price Data Verification** (Zero Tolerance for Errors)
+```bash
+# For EVERY ticker mentioned in PLAN.md, verify:
+# Read actual market data CSV file
+Read: /Volumes/data/workspace/aipriceaction/market_data/{TICKER}_2025-01-02_to_2025-07-29.csv
+# Focus on last 5-10 lines for most recent data
+```
+
+**Critical Checks**:
+- [ ] **Daily Prices**: Open, High, Low, Close match CSV data exactly
+- [ ] **Gap Claims**: "gap up X" must match actual Open vs Previous Close
+- [ ] **Price Movements**: "từ X xuống Y" must match actual data
+- [ ] **Price Ranges**: All claimed price ranges verified against CSV
+
+#### 6.2 **Volume Data Verification** (⚠️ HIGHEST ERROR AREA)
+```bash
+# Volume verification process:
+# 1. Read CSV volume column (actual units)
+# 2. Convert to millions: actual_volume ÷ 1,000,000
+# 3. Verify PLAN.md claims match calculated millions
+```
+
+**Critical Volume Checks**:
+- [ ] **Volume Figures**: All "XM" claims verified against CSV (÷1M conversion)
+- [ ] **Volume Comparisons**: "doubled", "increased 60%" calculated and verified
+- [ ] **Volume Direction**: "volume tăng/giảm" matches actual direction
+- [ ] **Volume Patterns**: VPA interpretations match actual volume behavior
+
+#### 6.3 **Weekly Data Verification** (⚠️ COMMON ERROR AREA)
+```bash
+# For weekly claims, use weekly data files:
+Read: /Volumes/data/workspace/aipriceaction/market_data_week/{TICKER}_2025-01-02_to_2025-07-25.csv
+# Calculate actual weekly percentage changes
+```
+
+**Weekly Verification Checks**:
+- [ ] **Weekly Percentages**: Calculate (Current-Previous)/Previous × 100
+- [ ] **Weekly Performance Claims**: "+X%" verified against actual weekly data
+- [ ] **Weekly Volume Claims**: Weekly volume patterns verified
+
+#### 6.4 **VPA Signal Verification** (Critical for Trading Decisions)
+```bash
+# Cross-reference VPA claims with actual data:
+# 1. Check volume direction matches claimed VPA signal
+# 2. Verify "Test for Supply" has decreasing volume
+# 3. Verify "SOS" has increasing volume
+```
+
+**VPA Consistency Checks**:
+- [ ] **Test for Supply**: Must have decreasing volume, not increasing
+- [ ] **Sign of Strength**: Must have increasing volume
+- [ ] **Effort to Rise**: Volume pattern matches price action
+- [ ] **No Supply**: Volume decreases as price rises
+
+#### 6.5 **Mathematical Consistency Verification**
+**Calculation Verification**:
+- [ ] **Percentage Changes**: All % claims calculated and verified
+- [ ] **Price Logic**: Open ≤ High, Low ≤ Close relationships maintained
+- [ ] **Volume Units**: Consistent M (millions) usage throughout
+- [ ] **Support/Resistance Logic**: Support < Current Price < Resistance
+
+#### 6.6 **Cross-Reference Verification**
+```bash
+# Verify claims against VPA data files:
+Read: /Volumes/data/workspace/aipriceaction/vpa_data/{TICKER}.md
+# Check latest entries match PLAN.md claims
+```
+
+**Cross-Reference Checks**:
+- [ ] **VPA Data Consistency**: Claims match latest vpa_data entries
+- [ ] **Signal Dates**: All dates referenced exist and are accurate
+- [ ] **Historical Context**: Previous signals correctly referenced
+
+**⚠️ ERROR PREVENTION PRIORITIES** (Based on Actual Findings):
+1. **Volume Errors** (BSR 100% error, GAS 43% error) - HIGHEST PRIORITY
+2. **Weekly Percentage Errors** (VND +13.4% vs +14.0%) - HIGH PRIORITY
+3. **VPA Signal Misinterpretation** (volume direction wrong) - CRITICAL
+4. **New Opportunities Section** (higher error rate) - SPECIAL ATTENTION
+
+**Manual Verification Checklist** (Enhanced):
 - [ ] All assertions cite specific signals and dates from manual analysis
+- [ ] **⚠️ ZERO price/volume errors** - every figure verified against CSV
+- [ ] **⚠️ All VPA signals** match actual volume patterns
+- [ ] **⚠️ Weekly percentages** calculated and verified
 - [ ] No ticker appears in multiple categories
 - [ ] **MANDATORY**: At least 10 top tickers have detailed analysis sections
 - [ ] Complete audit log documents every state change with manual justification
@@ -342,11 +426,15 @@ For EACH analyzed ticker, provide:
 
 ## Quality Control Standards
 
-### Data Accuracy Requirements (Manual Analysis)
-- **Zero Tolerance**: No signal assertions without manual verification from source files
+### Data Accuracy Requirements (⚠️ ENHANCED - PREVENT TRADING ERRORS)
+- **ZERO TOLERANCE**: No price/volume assertions without CSV verification
+- **ZERO TOLERANCE**: No VPA signals without volume pattern verification
 - **Date Precision**: All signals must include exact dates from manual reading
 - **Source Attribution**: Every claim must trace back to manually read input files
 - **Cross-Verification**: Weekly and daily signals must align logically through manual analysis
+- **Mathematical Verification**: All percentages and calculations verified
+- **Volume Unit Consistency**: All volume figures in millions (M) with CSV verification
+- **VPA Pattern Matching**: Volume behavior must match claimed VPA signals
 
 ### Vietnamese Language Standards
 - Use proper Vietnamese financial terminology throughout
@@ -374,15 +462,47 @@ For EACH analyzed ticker, provide:
 - Cross-reference multiple sources manually
 - Prioritize most recent and reliable data through manual verification
 - Document conflicts in audit log with manual reasoning
+- **⚠️ When price/volume conflicts found**: Always verify against CSV files (authoritative source)
 
 ### Signal Interpretation Disputes
 - Apply conservative Wyckoff methodology manually
 - Err on side of caution for state changes
 - Provide detailed manual reasoning for controversial decisions
 - Prioritize portfolio holdings as market leaders
+- **⚠️ Volume Pattern Disputes**: Always check actual CSV volume data
 
-## Success Metrics
+### **⚠️ CRITICAL ERROR PREVENTION** (New Section)
 
+#### Volume Error Prevention
+```bash
+# MANDATORY process for all volume claims:
+# 1. Read CSV file: market_data/{TICKER}_*.csv
+# 2. Get actual volume from last row
+# 3. Convert to millions: volume ÷ 1,000,000
+# 4. Round to 2 decimal places
+# 5. Use this exact figure in PLAN.md
+```
+
+#### Weekly Percentage Error Prevention
+```bash
+# MANDATORY process for weekly % claims:
+# 1. Read weekly CSV: market_data_week/{TICKER}_*.csv
+# 2. Get last two closes: current_close, previous_close
+# 3. Calculate: (current - previous) / previous × 100
+# 4. Round to 1 decimal place
+# 5. Use this exact percentage in PLAN.md
+```
+
+#### VPA Signal Error Prevention
+- **Test for Supply**: Volume MUST decrease (verify in CSV)
+- **Sign of Strength**: Volume MUST increase (verify in CSV)
+- **No Supply**: Price rises, volume decreases (verify both)
+- **If volume pattern doesn't match signal name**: Change the signal name, not the data
+
+## Success Metrics (⚠️ ENHANCED - PREVENT TRADING ERRORS)
+
+- **⚠️ ZERO DATA ERRORS**: No price/volume/percentage errors (verified against CSV)
+- **⚠️ ZERO VPA ERRORS**: All VPA signals match actual volume patterns
 - **Accuracy**: All manual analysis matches source data exactly
 - **Completeness**: All relevant tickers assessed and categorized manually
 - **Traceability**: All decisions can be verified from manual audit log
@@ -390,6 +510,8 @@ For EACH analyzed ticker, provide:
 - **Consistency**: Analysis follows Wyckoff methodology strictly through manual application
 - **Vietnamese Quality**: Professional financial terminology throughout
 - **Portfolio Integration**: hold.md holdings properly incorporated as market leader foundation
+- **Mathematical Precision**: All calculations verified and accurate
+- **Volume Unit Consistency**: All volumes properly converted to millions with CSV verification
 
 ## Templates for Manual Analysis
 
@@ -458,7 +580,7 @@ For each proven leader:
 [Portfolio allocation based on manual analysis]
 ```
 
-## Key Principles for Manual Protocol
+## Key Principles for Manual Protocol (⚠️ ENHANCED)
 
 1. **NO AUTOMATED TEXT PARSING** - Human intelligence only
 2. **Market Leaders Foundation First** - PLAN.md Top 15 are proven leaders
@@ -467,3 +589,7 @@ For each proven leader:
 5. **Reliable Python Only** - CSV, JSON, basic file operations only
 6. **Complete Audit Trail** - Document all manual reasoning
 7. **Professional Quality** - Maintain high Vietnamese financial writing standards
+8. **⚠️ MANDATORY CSV VERIFICATION** - Every price/volume claim verified against CSV
+9. **⚠️ VPA PATTERN VERIFICATION** - Volume behavior must match claimed signals
+10. **⚠️ MATHEMATICAL VERIFICATION** - All percentages and calculations verified
+11. **⚠️ ZERO TOLERANCE FOR DATA ERRORS** - Trading accuracy depends on data precision

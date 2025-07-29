@@ -8,9 +8,9 @@
 
 **Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tăng mạnh mẽ với chuỗi tín hiệu Dấu Hiệu Sức Mạnh liên tiếp từ đầu tháng 7. Biểu đồ tuần cho thấy đây là xu hướng tăng trưởng trưởng thành với sự tham gia của tổ chức mạnh mẽ, đạt mức tăng +20.66% từ đầu năm. Khối lượng tuần ủng hộ menunjukkan accumulation pattern lành mạnh của smart money.
 
-**Hành Động Gần Đây**: Ngày 2025-07-29 ghi nhận **Buying Climax** cực mạnh - gap lên 1562.6, chạm đỉnh 1564.92 nhưng đóng cửa 1531.76 với khối lượng kỷ lục 2.15 tỷ đơn vị. Đây là climactic action điển hình sau chuỗi tăng mạnh, có thể đánh dấu điểm chuyển ngắn hạn quan trọng. Tuy nhiên, với nền tảng tuần vững chắc, đây có khả năng là healthy shakeout.
+**Hành Động Gần Đây**: Ngày 2025-07-29 ghi nhận **Selling Climax** cực mạnh - mở cửa 1557.42, chạm đỉnh 1564.92 nhưng sụp xuống đóng cửa 1493.41 với khối lượng kỷ lục 2.79 tỷ đơn vị. Đây là climactic action điển hình sau chuỗi tăng mạnh, có thể đánh dấu điểm chuyển ngắn hạn quan trọng. Tuy nhiên, với nền tảng tuần vững chắc, đây có khả năng là healthy shakeout.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Chờ đợi phản ứng thị trường trong 1-2 phiên tới. Nếu được hấp thụ tốt, mọi nhịp rút lui về vùng 1500-1520 đều là cơ hội mua vào xuất sắc. Duy trì thận trọng trong ngắn hạn nhưng optimistic về xu hướng trung hạn dựa trên nền tảng tuần mạnh.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Chờ đợi phản ứng thị trường trong 1-2 phiên tới. Với closing tại 1493.41, thị trường đã kiểm tra vùng support quan trọng. Nếu được hấp thụ tốt, mọi nhịp phục hồi về vùng 1500-1520 đều cần theo dõi cẩn thận. Duy trì thận trọng cao độ trong ngắn hạn sau selling climax này.
 
 ## 2. Top 12 Cơ Hội Giao Dịch Chất Lượng
 
@@ -35,7 +35,7 @@
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
 ### Cơ Hội Tăng Trưởng Mạnh
-- [**BSR**](#BSR) (Dầu Khí) - Dấu Hiệu Sức Mạnh cực thuyết phục, volume 11M - [View Report](REPORT.md#BSR)
+- [**BSR**](#BSR) (Dầu Khí) - Dấu Hiệu Sức Mạnh cực thuyết phục, volume 22M - [View Report](REPORT.md#BSR)
 - [**TCB**](#TCB) (Ngân Hàng) - Dấu Hiệu Sức Mạnh trong ngành banking - [View Report](REPORT.md#TCB)
 - [**GAS**](#GAS) (Dầu Khí) - Dấu Hiệu Sức Mạnh với Effort to Rise - [View Report](REPORT.md#GAS)
 - [**C4G**](#C4G) (Đầu Tư Công) - Dấu Hiệu Sức Mạnh với volume tăng vọt - [View Report](REPORT.md#C4G)
@@ -66,7 +66,7 @@
 ![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
 
 * **Tín Hiệu VPA Tuần:** Duy trì xu hướng tăng mạnh với chuỗi Dấu Hiệu Sức Mạnh, ngành bất động sản dẫn dắt thị trường
-* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 95.6 xuống 92.1 với volume giảm từ 7.21M xuống 3.99M
+* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, mở cửa 94.5 giảm xuống 92.1 với volume 3.99M
 * **Bối Cảnh Ngành:** Bất động sản Dẫn Dắt Đồng Thuận với 80% cổ phiếu tích cực, VHM xếp hạng #3 ngành
 * **Phân Tích Thiết Lập:** Test for Supply với volume giảm là tín hiệu tích cực, cho thấy áp lực bán không mạnh ở vùng cao
 * **Vùng Vào Tốt Nhất:** Mua mạnh nếu giữ được support 92.0, potential target quay lại vùng 96-98
@@ -74,20 +74,20 @@
 ### **VND (Chứng Khoán)**
 ![Weekly Chart](reports_week/VND/VND_candlestick_chart.png) ![Daily Chart](reports/VND/VND_candlestick_chart.png)
 
-* **Tín Hiệu VPA Tuần:** Exceptional performance +13.4% với volume explosion, chuỗi SOS mạnh mẽ
-* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 33.05 xuống 30.95 với volume giảm từ 46.9M xuống 32.3M
+* **Tín Hiệu VPA Tuần:** Exceptional performance +14.0% với volume explosion, chuỗi SOS mạnh mẽ
+* **Tín Hiệu VPA Ngày:** Climatic Action ngày 2025-07-29, gap up 24.0 nhưng sụt xuống 21.05 với volume tăng vọt lên 97.51M
 * **Bối Cảnh Ngành:** Chứng khoán là ngành mạnh nhất với sự tham gia tổ chức cao
-* **Phân Tích Thiết Lập:** Volume giảm trong Test for Supply là dấu hiệu tích cực, nền tảng tuần rất mạnh
-* **Vùng Vào Tốt Nhất:** Accumulate trên mọi pullback về vùng 30-31, target 35-38
+* **Phân Tích Thiết Lập:** Volume tăng vọt 143% trong Climatic Action cho thấy áp lực bán cực mạnh, cần thận trọng mặc dù nền tảng tuần mạnh
+* **Vùng Vào Tốt Nhất:** Accumulate trên mọi pullback về vùng 21-22, target 25-27
 
 ### **VPB (Ngân Hàng)**
 ![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
 
-* **Tín Hiệu VPA Tuần:** Strong weekly recovery +11.3% với volume tăng +20.3%, institutional accumulation rõ ràng
-* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 31.25 xuống 29.8 với volume tăng nhẹ 33.0M
+* **Tín Hiệu VPA Tuần:** Strong weekly recovery +12.6% với volume tăng +20.3%, institutional accumulation rõ ràng
+* **Tín Hiệu VPA Ngày:** Test for Supply ngày 2025-07-29, giảm từ 25.1 xuống 23.6 với volume tăng mạnh 83.05M
 * **Bối Cảnh Ngành:** Ngân hàng 85% tích cực, VPB leader với fundamentals mạnh
 * **Phân Tích Thiết Lập:** Test phase bình thường sau strong weekly advance, cần quan sát volume reaction
-* **Vùng Vào Tốt Nhất:** Core holding position, buy dips about 29-30 range
+* **Vùng Vào Tốt Nhất:** Core holding position, buy dips about 23-24 range
 
 ### **VIX (Chứng Khoán)**
 ![Weekly Chart](reports_week/VIX/VIX_candlestick_chart.png) ![Daily Chart](reports/VIX/VIX_candlestick_chart.png)
@@ -156,8 +156,8 @@
 
 ### Cổ Phiếu Được Duy Trì "Top List" (Mặc Dù Daily Weakness):
 - **VHM**: Duy trì #1. Lý do: **'Test for Supply'** ngày 2025-07-29 với volume giảm (tích cực), nền tuần vững với multiple SOS. Weekly foundation justifies maintaining position.
-- **VND**: Duy trì #2. Lý do: **'Test for Supply'** ngày 2025-07-29 với volume giảm, exceptional weekly +13.4% performance with volume explosion confirms institutional accumulation.
-- **VPB**: Duy trì #3. Lý do: **'Test for Supply'** ngày 2025-07-29, strong weekly +11.3% recovery pattern, leader position trong ngành ngân hàng.
+- **VND**: Duy trì #2. Lý do: **'Test for Supply'** ngày 2025-07-29 với volume tăng vọt, exceptional weekly +14.0% performance with volume explosion confirms institutional accumulation.
+- **VPB**: Duy trì #3. Lý do: **'Test for Supply'** ngày 2025-07-29, strong weekly +12.6% recovery pattern, leader position trong ngành ngân hàng.
 
 ### Cổ Phiếu Được Giảm Confidence Score (High Threshold Apply):
 - **VIX**: Từ 85% xuống 80%. Lý do: **'Climatic Action/Selling Climax'** ngày 2025-07-29, mặc dù weekly +27.6% exceptional nhưng daily climactic pattern concerning.
@@ -177,15 +177,15 @@
 - **MBB**: Từ `Top List` xuống `Hạ Ưu Tiên`. Lý do: **'Sign of Weakness (SOW)'** ngày 2025-07-29 cực mạnh với gap failure và volume bùng nổ.
 
 ### Cổ Phiếu Được Thêm Vào "Danh Sách Tiềm Năng":
-- **BSR**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** cực thuyết phục với volume khổng lồ 11M, ngành dầu khí potential.
-- **TCB**: Từ `Potential List` được nâng cao. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-29 với volume bùng nổ 38.2M trong ngành ngân hàng mạnh.
-- **GAS**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** với Effort to Rise pattern, volume tăng đột biến 3.7M.
-- **C4G**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** với volume tăng vọt từ 1.33M lên 4.20M, đầu tư công có potential.
+- **BSR**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** cực thuyết phục với volume khổng lồ 22M, ngành dầu khí potential.
+- **TCB**: Từ `Potential List` được nâng cao. Lý do: **'Dấu Hiệu Sức Mạnh'** ngày 2025-07-29 với volume bùng nổ 45.0M trong ngành ngân hàng mạnh.
+- **GAS**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** với Effort to Rise pattern, volume tăng đột biến 2.1M.
+- **C4G**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** với volume tăng vọt từ 1.44M lên 5.39M, đầu tư công có potential.
 - **BID**: Từ `Unlisted`. Lý do: **'Dấu Hiệu Sức Mạnh'** trong giai đoạn accumulation, ngành ngân hàng backdrop.
 
 ### Cổ Phiếu Được Loại Bỏ Khỏi All Lists:
 - **HDC**: Từ `Top List` to removed. Lý do: **'Selling Climax'** ngày 2025-07-29 nghiêm trọng với volume bùng nổ 156%, cần thời gian extensive recovery.
-- **VCI**: Từ `Top List` to removed. Lý do: **'Selling Climax'** ngày 2025-07-29 với panic selling -6.89%, phủ nhận No Supply pattern trước đó.
+- **VCI**: Từ `Top List` to removed. Lý do: **'Selling Climax'** ngày 2025-07-29 với panic selling -8.62%, phủ nhận No Supply pattern trước đó.
 
 ## 7. Chiến Lược Giao Dịch Tuần Tới
 
@@ -213,6 +213,6 @@
 **Key Levels To Monitor:**
 - **VNINDEX**: Support 1500-1520, resistance 1560-1580
 - **VHM**: Critical support 92.0, target recovery 96-98
-- **VND**: Support 30-31, upside target 35-38  
-- **VPB**: Support 29-30, banking sector barometer
+- **VND**: Support 21-22, upside target 25-27  
+- **VPB**: Support 23-24, banking sector barometer
 - **Sector Rotation**: Watch for oil & gas (BSR, GAS) và banking (TCB, BID) strength

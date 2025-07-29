@@ -20,7 +20,7 @@
 
 **1. Tóm Tắt Danh Mục Hiện Tại**
 
-VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng cửa 1531.76, khối lượng kỷ lục 2.15 tỷ đơn vị tạo áp lực điều chỉnh toàn thị trường. Danh mục hiện tại chịu tác động nặng nề với tổng **Lãi/Lỗ chưa thực hiện** là +2.389.000 VND (+0.74%). Tất cả các cổ phiếu đều gặp áp lực bán tháo mạnh từ climactic action, với chỉ 3/9 vị thế còn sinh lời (VND +6.68%, VPB +0.99%, SSI +0.93%). Ngành Chứng khoán dù dẫn dắt nhưng gặp áp lực chốt lời, Ngân hàng và Bất động sản cũng bị bán tháo theo xu hướng chung.
+VNINDEX có Selling Climax ngày 2025-07-29 với mở cửa 1557.42, chạm đỉnh 1564.92 nhưng sụp xuống đóng cửa 1493.41, khối lượng kỷ lục 2.79 tỷ đơn vị tạo áp lực điều chỉnh toàn thị trường. Danh mục hiện tại chịu tác động nặng nề với tổng **Lãi/Lỗ chưa thực hiện** là +2.389.000 VND (+0.74%). Tất cả các cổ phiếu đều gặp áp lực bán tháo mạnh từ climactic action, với chỉ 3/9 vị thế còn sinh lời (VND +6.68%, VPB +0.99%, SSI +0.93%). Ngành Chứng khoán dù dẫn dắt nhưng gặp áp lực chốt lời, Ngân hàng và Bất động sản cũng bị bán tháo theo xu hướng chung.
 
 * **Phân Bổ Danh Mục Theo Ngành:**
   | Ngành | Các Mã Cổ Phiếu | Tỷ Trọng Danh Mục |
@@ -54,7 +54,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +0.82% (+289.000)
 * **VPA Phân Tích Hiện Tại:** 
   * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-21 với chuỗi tăng mạnh và khối lượng bùng nổ kỷ lục 26.8 triệu cổ phiếu
-  * **Bối Cảnh Ngày:** Sign of Weakness ngày 2025-07-29, sụt giảm mạnh từ 42.5 xuống 39.55 với khối lượng panic selling bùng nổ 8.72 triệu (+100%)
+  * **Bối Cảnh Ngày:** Sign of Weakness ngày 2025-07-29, sụt giảm mạnh từ 43.35 xuống 39.55 với khối lượng panic selling bùng nổ 8.72 triệu (+104%)
 * **Hành Động Đề Xuất:** Bán
   * **Giá Đề Xuất:** Thị trường (39.0-39.5)
   * **Số Lượng Đề Xuất:** 900 cổ phiếu (toàn bộ vị thế)
@@ -97,7 +97,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 * **Giá Hiện Tại:** 32.35
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** -2.91% (-485.000)
 * **VPA Phân Tích Hiện Tại:**
-  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-21, bùng nổ +27% với khối lượng tăng 24.5% cho thấy sự tham gia của tổ chức mạnh mẽ
+  * **Bối Cảnh Tuần:** Sign of Strength tuần kết thúc 2025-07-21, tăng +10.0% với khối lượng giảm -18.9% cho thấy sự cải thiện cân bằng cung cầu
   * **Bối Cảnh Ngày:** Selling Climax ngày 2025-07-29, giảm mạnh từ 34.75 xuống 32.35 với khối lượng bùng nổ 16.74 triệu (+156%)
 * **Hành Động Đề Xuất:** Bán
   * **Giá Đề Xuất:** Thị trường (32.0-32.5)
@@ -138,7 +138,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 
 * **Giá Mua Trung Bình:** 32.994
 * **Số Lượng Nắm Giữ:** 1700
-* **Giá Hiện Tại:** 33.30
+* **Giá Hiện Tại:** 33.3
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +0.93% (+520.000)
 * **VPA Phân Tích Hiện Tại:**
   * **Bối Cảnh Tuần:** Climax Action ba tuần liên tiếp với ngành chứng khoán 100% tích cực, đạt đỉnh với rủi ro cao
@@ -229,7 +229,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 * **Giá Hiện Tại:** 23.60
 * **P&L (Lợi Nhuận/Thua Lỗ Chưa Thực Hiện):** +0.99% (+464.000)
 * **VPA Phân Tích Hiện Tại:**
-  * **Bối Cảnh Tuần:** Sign of Strength với ba tuần tích lũy của tổ chức, mức tăng vọt +11.3% với khối lượng bùng nổ +20.3%
+  * **Bối Cảnh Tuần:** Sign of Strength với ba tuần tích lũy của tổ chức, mức tăng vọt +12.6% với khối lượng bùng nổ +20.3%
   * **Bối Cảnh Ngày:** Effort to Fall ngày 2025-07-29, từ 25.1 xuống 23.6 nhưng vẫn duy trì vai trò dẫn dắt trong ngành
 * **Hành Động Đề Xuất:** Nắm Giữ
   * **Giá Đề Xuất:** Chờ ổn định
@@ -256,7 +256,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 ![Weekly Chart](./reports_week/FRT/FRT_candlestick_chart.png)
 ![Daily Chart](./reports/FRT/FRT_candlestick_chart.png)
 
-* **Giá Đề Xuất:** 157.0-160.0
+* **Giá Đề Xuất:** 152.0-155.0
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
 * **VPA Phân Tích Hiện Tại:**
   * **Bối Cảnh Tuần:** Weekly No Supply 2025-07-21, tăng +3.7% trên khối lượng giảm thể hiện sự hấp thụ của tổ chức
@@ -269,7 +269,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 ![Weekly Chart](./reports_week/REE/REE_candlestick_chart.png)
 ![Daily Chart](./reports/REE/REE_candlestick_chart.png)
 
-* **Giá Đề Xuất:** 69.0-71.0
+* **Giá Đề Xuất:** 66.5-68.0
 * **Số Lượng Đề Xuất:** 200 cổ phiếu
 * **VPA Phân Tích Hiện Tại:**
   * **Bối Cảnh Tuần:** Weekly Effort to Rise 2025-07-21, tăng +1.75% trên khối lượng ổn định cho thấy mua bền vững
@@ -282,7 +282,7 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
 ![Weekly Chart](./reports_week/HPG/HPG_candlestick_chart.png)
 ![Daily Chart](./reports/HPG/HPG_candlestick_chart.png)
 
-* **Giá Đề Xuất:** 22.0-23.0
+* **Giá Đề Xuất:** 25.0-26.0
 * **Số Lượng Đề Xuất:** 200 cổ phiếu
 * **VPA Phân Tích Hiện Tại:**
   * **Bối Cảnh Tuần:** Weekly Sign of Strength với sự hỗ trợ bền vững khối lượng cao của tổ chức
@@ -312,3 +312,149 @@ VNINDEX có Buying Climax ngày 2025-07-29 với gap lên 1562.6 nhưng đóng c
   * **FRT**: Thêm vào danh mục với Weekly No Supply và excellent entry point tại sector mạnh.
   * **REE**: Thêm vào danh mục với Weekly Effort to Rise và energy transition opportunity.
   * **HPG**: Thêm vào danh mục với Weekly Sign of Strength và industrial sector leadership.
+
+## 5. Dự Đoán 5 Ngày Kế Tiếp
+
+Dựa trên phân tích VPA hiện tại và bối cảnh thị trường sau Selling Climax ngày 2025-07-29, dưới đây là dự đoán cho 5 phiên giao dịch tiếp theo:
+
+### **Ngày 1 (2025-07-30)**
+
+**Tình Huống UP (25%)**
+- **Mô tả**: VNINDEX phục hồi mạnh về vùng 1520-1540 với volume giảm
+- **Điều kiện**: Gap up từ 1500, các cổ phiếu blue-chip như VHM, VPB dẫn dắt phục hồi
+- **Hành động**: 
+  - VND, VPB: Giữ nguyên position, chờ xác nhận xu hướng
+  - Cổ phiếu đang bán: Hoãn lệnh bán, quan sát thêm 1 phiên
+
+**Tình Huống SIDEWAY (45%)**
+- **Mô tả**: VNINDEX dao động 1480-1510, thị trường tiêu hóa selling climax
+- **Điều kiện**: Volume thấp, không có catalyst mạnh, cổ phiếu đi ngang
+- **Hành động**:
+  - VND, VPB: Duy trì Hold, không thay đổi
+  - Thực hiện bán các vị thế yếu (CTS, HDB, HDC) theo kế hoạch
+  - Chưa mua cổ phiếu mới
+
+**Tình Huống DOWN (30%)**
+- **Mô tả**: VNINDEX tiếp tục giảm xuống 1460-1480, panic selling lan rộng
+- **Điều kiện**: Volume cao, áp lực bán tiếp tục từ margin call và chốt lời
+- **Hành động**:
+  - VND: Cân nhắc bán partial (30%) nếu phá vỡ 20.5
+  - VPB: Giảm position nếu phá vỡ 22.5
+  - Tăng tốc bán các cổ phiếu yếu
+
+### **Ngày 2 (2025-07-31)**
+
+**Tình Huống UP (35%)**
+- **Mô tả**: Thị trường xác nhận đáy, VNINDEX vượt 1520 với volume tăng
+- **Điều kiện**: Institutional buying xuất hiện, weekly closing mạnh
+- **Hành động**:
+  - Bắt đầu mua các cổ phiếu trong "Kế Hoạch Gia Tăng": FRT 152-155, REE 66.5-68
+  - VND, VPB: Giữ full position, chuẩn bị tăng thêm
+
+**Tình Huống SIDEWAY (40%)**
+- **Mô tả**: VNINDEX consolidate 1490-1520, thiếu direction rõ ràng
+- **Điều kiện**: Volume trung bình, chờ đợi catalyst mới
+- **Hành động**:
+  - Tiếp tục thực hiện plan bán các vị thế yếu
+  - Chờ đợi signal rõ ràng hơn cho diversification picks
+  - Cash position tăng lên 15-20%
+
+**Tình Huống DOWN (25%)**
+- **Mô tả**: VNINDEX test xuống 1450-1470, selling pressure tiếp tục
+- **Điều kiện**: Technical breakdown, foreign selling, economic concerns
+- **Hành động**:
+  - VND: Bán 50% position nếu phá 20.0
+  - VPB: Cắt lỗ nếu phá 22.0
+  - Hoãn tất cả kế hoạch mua mới
+
+### **Ngày 3 (2025-08-01)**
+
+**Tình Huống UP (40%)**
+- **Mô tả**: Tháng mới với dòng tiền fresh, VNINDEX recovery về 1530-1550
+- **Điều kiện**: Fund rebalancing, positive sentiment, volume healthy
+- **Hành động**:
+  - Mua mạnh HPG 25-26 (200 cổ phiếu) 
+  - Tăng position FRT, REE nếu đã mua ngày 2
+  - VND, VPB: Maintain core position
+
+**Tình Huống SIDEWAY (35%)**
+- **Mô tả**: VNINDEX range-bound 1500-1530, consolidation tiếp tục
+- **Điều kiện**: Balanced supply/demand, waiting for direction
+- **Hành động**:
+  - Selective entry vào diversification picks ở mức support
+  - Duy trì 20% cash position
+  - Monitor weekly signals cho trend confirmation
+
+**Tình Huống DOWN (25%)**
+- **Mô tả**: VNINDEX phá support 1480, test xuống 1430-1450
+- **Điều kiện**: Macro headwinds, margin selling continues
+- **Hành động**:
+  - Emergency selling: Bán tất cả positions trừ VND (nếu > 21.0)
+  - Cash lên 80%, chờ stabilization
+  - Prepare shopping list cho oversold bounce
+
+### **Ngày 4 (2025-08-04)**
+
+**Tình Huống UP (45%)**
+- **Mô tả**: VNINDEX breakout khỏi consolidation, vượt 1550 confirm uptrend
+- **Điều kiện**: Volume explosion, sector rotation rõ ràng
+- **Hành động**:
+  - Complete diversification plan: Mua full allocation FRT, REE, HPG
+  - VND: Tăng thêm 500 cổ phiếu nếu > 22.0
+  - VPB: Core holding, monitor cho add-on opportunity
+
+**Tình Huống SIDEWAY (30%)**
+- **Mô tả**: VNINDEX 1520-1540, chưa có breakout confirmation
+- **Điều kiện**: Mixed signals, sector rotation nhưng chưa sustainable
+- **Hành động**:
+  - Partial entry vào diversification picks (50% allocation)
+  - VND, VPB: Hold steady
+  - Maintain 15% cash cho flexibility
+
+**Tình Huống DOWN (25%)**
+- **Mô tả**: Failed recovery, VNINDEX back to 1460-1480 range
+- **Điều kiện**: Institutional selling resumes, technical damage
+- **Hành động**:
+  - Defensive mode: Cash position 70%+
+  - Only hold VND if above 20.5
+  - Wait for genuine oversold conditions
+
+### **Ngày 5 (2025-08-05)**
+
+**Tình Huống UP (50%)**
+- **Mô tả**: Trend confirmation, VNINDEX 1560-1580, healthy advance
+- **Điều kiện**: Broad-based recovery, international funds returning
+- **Hành động**:
+  - Full investment: Complete all planned positions
+  - VND: Maximum comfort level (4000 shares total)
+  - Add quality names from recovery: TCB, BSR từ Potential List
+  - Cash chỉ còn 5-10%
+
+**Tình Huống SIDEWAY (30%)**
+- **Mô tả**: VNINDEX 1530-1560, choppy but constructive action
+- **Điều kiện**: Gradual improvement, selective strength
+- **Hành động**:
+  - 70% invested, focus on highest conviction picks
+  - VND, VPB core, add HPG industrial diversification
+  - Monitor weekly close cho trend determination
+
+**Tình Huống DOWN (20%)**
+- **Mô tả**: Bear market confirmation, VNINDEX < 1450
+- **Điều kiện**: Sustained selling pressure, macro deterioration
+- **Hành động**:
+  - Maximum defensive: 90% cash
+  - Only hold VND nếu weekly support intact
+  - Prepare cho potential 6-12 month accumulation phase
+
+### **Tổng Kết Chiến Lược 5 Ngày**
+
+**Nguyên Tắc Chính:**
+1. **Cash Management**: Tăng cash từ 10% lên 15-20% trong trường hợp sideway, lên 70-90% nếu breakdown
+2. **Core Holdings**: VND và VPB là trụ cột, chỉ bán nếu phá vỡ support nghiêm trọng
+3. **Diversification Timing**: Chỉ complete plan mua FRT, REE, HPG khi uptrend confirmed
+4. **Risk Management**: Stop-loss nghiêm ngặt cho tất cả new positions
+
+**Key Levels Quan Trọng:**
+- **VNINDEX**: 1480 (critical support), 1520 (neutral), 1550+ (bullish confirmation)
+- **VND**: 20.0 (emergency exit), 21.5 (comfort), 22.5+ (add more)
+- **VPB**: 22.0 (stop loss), 23.5 (current), 24.5+ (add more)

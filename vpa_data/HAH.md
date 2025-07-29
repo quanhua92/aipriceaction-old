@@ -46,7 +46,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ tiếp diễn. Việc giá tăng vọt và test cao 76.7 với khối lượng bùng nổ cho thấy HAH đang trong giai đoạn markup mạnh mẽ.
 - **Ngày 2025-07-28:** HAH tăng từ 74.3 lên 76.0. Cây nến tăng có biên độ vừa phải với mức dao động 74.5-76.5. Khối lượng giao dịch giảm (6.19 triệu đơn vị), giảm 22% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** nhẹ sau SOS. Việc giá tiếp tục tăng nhưng khối lượng giảm cho thấy consolidation sau đợt tăng mạnh.
-- **Ngày 2025-07-29:** HAH giảm mạnh từ 76.0 xuống 71.0. Cây nến giảm có biên độ rất rộng với mức cao 77.1 và mức thấp 70.7. Khối lượng giao dịch tăng mạnh lên 8.64 triệu đơn vị, tăng 39% so với phiên trước.
+- **Ngày 2025-07-29:** HAH giảm mạnh từ 77.1 xuống 71.0. Cây nến giảm có biên độ rất rộng với mức cao 77.1 và mức thấp 70.7. Khối lượng giao dịch tăng mạnh lên 8.64 triệu đơn vị, tăng 39% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** sau chuỗi **Sign of Strength (SOS)** mạnh mẽ. Việc giá có test lên mức cao 77.1 (cao nhất từ trước đến nay) nhưng sau đó giảm sập xuống 71.0 với biên độ 6.1 điểm và khối lượng tăng 39% cho thấy áp lực chốt lời lớn đã xuất hiện ở vùng đỉnh. Mặc dù đây là tín hiệu tiêu cực trong ngắn hạn, nhưng sau chuỗi SOS mạnh mẽ trước đó, đây có thể là nhịp test cần thiết trước khi consolidation và tiếp tục xu hướng tăng dài hạn.
 
 

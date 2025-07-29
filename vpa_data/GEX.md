@@ -62,7 +62,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ. Sự bùng nổ về giá và khối lượng cho thấy GEX đã bước vào giai đoạn markup mạnh mẽ với dòng tiền khổng lồ.
 - **Ngày 2025-07-28:** GEX tiếp tục gap up từ 53.5 lên 57.2. Cây nến tăng có biên độ rộng với mức dao động 55.5-57.2. Khối lượng giao dịch cao ở mức 11.74 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp diễn, xác nhận xu hướng tăng mạnh tiếp tục. Việc gap up và đóng cửa ở mức cao nhất cho thấy lực cầu áp đảo hoàn toàn. GEX đã chính thức trong giai đoạn mark-up mạnh mẽ.
-- **Ngày 2025-07-29:** GEX giảm mạnh từ 57.2 xuống 53.2. Cây nến giảm có biên độ rất rộng với mức cao 61.2 và mức thấp 53.2. Khối lượng giao dịch bùng nổ lên 30.69 triệu đơn vị, tăng 157% so với phiên trước.
+- **Ngày 2025-07-29:** GEX giảm mạnh từ 58.3 xuống 53.2. Cây nến giảm có biên độ rất rộng với mức cao 61.2 và mức thấp 53.2. Khối lượng giao dịch bùng nổ lên 30.72 triệu đơn vị, tăng 157% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** sau chuỗi **Sign of Strength (SOS)** mạnh mẽ. Việc giá có gap up và test lên mức cao 61.2 (cao nhất từ trước đến nay) nhưng sau đó giảm sập với biên độ 8 điểm và khối lượng bùng nổ gấp 2.6 lần cho thấy áp lực chốt lời khổng lồ đã xuất hiện ở vùng đỉnh. Mặc dù đây là tín hiệu tiêu cực trong ngắn hạn, nhưng sau chuỗi SOS mạnh mẽ trước đó, đây có thể là nhịp test cần thiết trước khi consolidation và tiếp tục xu hướng tăng dài hạn.
 
 
