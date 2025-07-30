@@ -62,9 +62,9 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Điểm Dừng Lỗ:** 38.5 (dưới vùng test)
 * **Điểm Chốt Lời:** 43.0 (kháng cự đầu tiên), 45.0 (mục tiêu)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **FTS**: Weekly Sign of Strength với surge từ 37.25→39.85 và khối lượng bùng nổ 11.67M, mô hình institutional buying sạch nhất trong ngành
-  * **BSI**: Weekly Sign of Strength từ 40.6→42.75 với 2.65M volume, recovery từ up-thrust failure với institutional commitment rõ ràng
-  * **MBS**: Weekly Effort to Rise từ 26.7→27.3 với 6.46M volume, quá trình tích lũy clean chuyển sang markup không có climax warning
+  * **FTS**: Weekly Sign of Strength với tăng vọt từ 37.25→39.85 và khối lượng bùng nổ 11.67M, mô hình mua tổ chức sạch nhất trong ngành
+  * **BSI**: Weekly Sign of Strength từ 40.6→42.75 với khối lượng 2.65M, phục hồi từ thất bại đẩy lên với cam kết tổ chức rõ ràng
+  * **MBS**: Weekly Effort to Rise từ 26.7→27.3 với khối lượng 6.46M, quá trình tích lũy sạch chuyển sang đánh dấu giá không có cảnh báo đỉnh điểm
 
 ### **HDB (Ngân Hàng)**
 ![Weekly Chart](./reports_week/HDB/HDB_candlestick_chart.png)
@@ -80,13 +80,13 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Hành Động Đề Xuất:** Bán
   * **Giá Đề Xuất:** Thị trường (26.5-27.0)
   * **Số Lượng Đề Xuất:** 1500 cổ phiếu (toàn bộ vị thế)
-  * **Lý Do Hành Động:** Buying Climax warning đã được xác nhận bằng Selling Climax, automatic rally thiếu sức mạnh
+  * **Lý Do Hành Động:** Cảnh báo Buying Climax đã được xác nhẫn bằng Selling Climax, phục hồi tự động thiếu sức mạnh
 * **Điểm Dừng Lỗ:** N/A (đang bán)
 * **Điểm Chốt Lời:** N/A (đang bán)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **LPB**: Weekly No Supply với volume chỉ 0.95M, tiếp theo SOS surge lên 32.35 với 4M volume, mô hình No Supply→SOS→Effort to Rise hoàn hảo với risk thấp nhất
-  * **BID**: Weekly Sign of Strength multiple confirmations (June 13 & 20) với 6.33M và 5.98M volume, institutional support nhất quán và bền vững
-  * **VCB**: Weekly No Supply classification cho thấy institutional control, blue-chip stability với banking sector leadership
+  * **LPB**: Weekly No Supply với khối lượng chỉ 0.95M, tiếp theo SOS tăng vọt lên 32.35 với khối lượng 4M, mô hình No Supply→SOS→Effort to Rise hoàn hảo với rủi ro thấp nhất
+  * **BID**: Weekly Sign of Strength nhiều xác nhận (13 & 20 tháng 6) với khối lượng 6.33M và 5.98M, sự hỗ trợ tổ chức nhất quán và bền vững
+  * **VCB**: Phân loại Weekly No Supply cho thấy kiểm soát tổ chức, ổn định cổ phiếu ưu đãi với sự dẫn dắt ngành ngân hàng
 
 ### **HDC (Bất Động Sản)**
 ![Weekly Chart](./reports_week/HDC/HDC_candlestick_chart.png)
@@ -106,9 +106,9 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Điểm Dừng Lỗ:** N/A (đang bán)
 * **Điểm Chốt Lời:** N/A (đang bán)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **NLG**: Weekly Sign of Strength từ 37.2→39.1 với 6.21M volume, tiếp theo Effort to Rise với No Supply characteristics - mô hình institutional hoàn hảo
-  * **PDR**: Multi-phase institutional campaign với Effort to Rise (June 30) 11.04M volume, continuation (July 4) 21.52M volume, final phase No Supply - accumulation hệ thống nhất sector
-  * **KDH**: Weekly Sign of Strength lên 29.0 với 32.6M volume, Test for Supply thành công với No Supply confirmation, institutional resolve được chứng minh
+  * **NLG**: Weekly Sign of Strength từ 37.2→39.1 với khối lượng 6.21M, tiếp theo Effort to Rise với đặc trưng No Supply - mô hình tổ chức hoàn hảo
+  * **PDR**: Chiến dịch tổ chức nhiều giai đoạn với Effort to Rise (30 tháng 6) khối lượng 11.04M, tiếp tục (4 tháng 7) khối lượng 21.52M, giai đoạn cuối No Supply - tích lũy hệ thống nhất ngành
+  * **KDH**: Weekly Sign of Strength lên 29.0 với khối lượng 32.6M, Test for Supply thành công với xác nhận No Supply, quyết tâm tổ chức được chứng minh
 
 ### **SHB (Ngân Hàng)**
 ![Weekly Chart](./reports_week/SHB/SHB_candlestick_chart.png)
@@ -124,13 +124,13 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Hành Động Đề Xuất:** Panic Sell
   * **Giá Đề Xuất:** Thị trường ngay lập tức
   * **Số Lượng Đề Xuất:** 1800 cổ phiếu (toàn bộ vị thế)
-  * **Lý Do Hành Động:** Effort to Fall với gap up failure và panic selling, yếu nhất trong ngành dù ngành đang mạnh
+  * **Lý Do Hành Động:** Effort to Fall với thất bại mở cửa và bán hoảng loạn, yếu nhất trong ngành dù ngành đang mạnh
 * **Điểm Dừng Lỗ:** N/A (đang bán)
 * **Điểm Chốt Lời:** N/A (đang bán)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **LPB**: Thay thế vượt trội với No Supply→SOS→Effort to Rise sequence hoàn hảo, risk profile thấp nhất ngành
-  * **BID**: Thay thế ổn định với multiple SOS confirmations và institutional support nhất quán
-  * **VCB**: Thay thế blue-chip với institutional control và banking leadership
+  * **LPB**: Thay thế vượt trội với chuỗi No Supply→SOS→Effort to Rise hoàn hảo, hồ sơ rủi ro thấp nhất ngành
+  * **BID**: Thay thế ổn định với nhiều xác nhận SOS và sự hỗ trợ tổ chức nhất quán
+  * **VCB**: Thay thế cổ phiếu ưu đãi với kiểm soát tổ chức và sự dẫn dắt ngành ngân hàng
 
 ### **SSI (Chứng Khoán)**
 ![Weekly Chart](./reports_week/SSI/SSI_candlestick_chart.png)
@@ -146,13 +146,13 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Hành Động Đề Xuất:** Bán
   * **Giá Đề Xuất:** Thị trường (33.5-34.0)
   * **Số Lượng Đề Xuất:** 1700 cổ phiếu (toàn bộ vị thế)
-  * **Lý Do Hành Động:** Climactic action với gap up failure và massive distribution volume, cần bảo vệ lợi nhuận
+  * **Lý Do Hành Động:** Hành động đỉnh điểm với thất bại mở cửa và khối lượng phân phối khủng, cần bảo vệ lợi nhuận
 * **Điểm Dừng Lỗ:** N/A (đang bán)
 * **Điểm Chốt Lời:** N/A (đang bán)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **FTS**: Thay thế với institutional buying pattern sạch nhất, superior volume/price relationship
-  * **BSI**: Thay thế với LEADER.md ranking 3rd (92.4 points), institutional resolve mạnh hơn
-  * **MBS**: Thay thế với classic accumulation to markup transition không có climax warnings
+  * **FTS**: Thay thế với mẫu mua tổ chức sạch nhất, mối quan hệ khối lượng/giá vượt trội
+  * **BSI**: Thay thế với xếp hạng LEADER.md thứ 3 (92.4 điểm), quyết tâm tổ chức mạnh hơn
+  * **MBS**: Thay thế với chuyển đổi từ tích lũy sang đánh dấu giá cổ điển không có cảnh báo đỉnh điểm
 
 ### **TCH (Bất Động Sản)**
 ![Weekly Chart](./reports_week/TCH/TCH_candlestick_chart.png)
@@ -168,13 +168,13 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Hành Động Đề Xuất:** Bán
   * **Giá Đề Xuất:** Thị trường (23.5-24.0)
   * **Số Lượng Đề Xuất:** 400 cổ phiếu (toàn bộ vị thế)
-  * **Lý Do Hành Động:** Mixed signals và xu hướng giảm tiếp tục, không có hướng rõ ràng
+  * **Lý Do Hành Động:** Tín hiệu hỗn hợp và xu hướng giảm tiếp tục, không có hướng rõ ràng
 * **Điểm Dừng Lỗ:** N/A (đang bán)
 * **Điểm Chốt Lời:** N/A (đang bán)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **NLG**: Thay thế với best combination của SOS và No Supply trong real estate sector
-  * **PDR**: Thay thế với systematic institutional accumulation pattern nhất sector
-  * **KDH**: Thay thế với classic SOS followed by successful supply absorption
+  * **NLG**: Thay thế với sự kết hợp tốt nhất của SOS và No Supply trong ngành bất động sản
+  * **PDR**: Thay thế với mẫu tích lũy tổ chức hệ thống nhất ngành
+  * **KDH**: Thay thế với SOS cổ điển tiếp theo là hấp thụ nguồn cung thành công
 
 ### **VIX (Chứng Khoán)**
 ![Weekly Chart](./reports_week/VIX/VIX_candlestick_chart.png)
@@ -190,13 +190,13 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Hành Động Đề Xuất:** Nắm Giữ
   * **Giá Đề Xuất:** Quan sát vùng 25.0-26.0
   * **Số Lượng Đề Xuất:** Duy trì vị thế hiện tại
-  * **Lý Do Hành Động:** Dù có selling climax nhưng là leader ngành với nền tảng mạnh, có khả năng phục hồi nhanh nhất
+  * **Lý Do Hành Động:** Dù có Selling Climax nhưng là nhà lãnh đạo ngành với nền tảng mạnh, có khả năng phục hồi nhanh nhất
 * **Điểm Dừng Lỗ:** 24.0 (dưới mức mua trung bình)
 * **Điểm Chốt Lời:** 27.0 (kháng cự đầu tiên), 29.0 (mục tiêu)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **FTS**: Thay thế với cleanest institutional buying pattern và superior volume/price relationship
-  * **BSI**: Thay thế với strong institutional resolve và ranking cao trong LEADER.md
-  * **MBS**: Thay thế với clean accumulation to markup transition
+  * **FTS**: Thay thế với mẫu mua tổ chức sạch nhất và mối quan hệ khối lượng/giá vượt trội
+  * **BSI**: Thay thế với quyết tâm tổ chức mạnh mẽ và xếp hạng cao trong LEADER.md
+  * **MBS**: Thay thế với chuyển đổi từ tích lũy sang đánh dấu giá sạch
 
 ### **VND (Chứng Khoán)**
 ![Weekly Chart](./reports_week/VND/VND_candlestick_chart.png)
@@ -216,9 +216,9 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Điểm Dừng Lỗ:** 20.5 (bảo vệ lợi nhuận chính)
 * **Điểm Chốt Lời:** 24.0 (partial), 26.0 (target)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **FTS**: Thay thế với institutional buying pattern sạch nhất và superior technical setup
-  * **BSI**: Thay thế với strong institutional resolve và recovery characteristics tốt
-  * **MBS**: Thay thế với clean transition pattern không có climax risks
+  * **FTS**: Thay thế với mẫu mua tổ chức sạch nhất và thiết lập kỹ thuật vượt trội
+  * **BSI**: Thay thế với quyết tâm tổ chức mạnh mẽ và đặc điểm phục hồi tốt
+  * **MBS**: Thay thế với mẫu chuyển đổi sạch không có rủi ro đỉnh điểm
 
 ### **VPB (Ngân Hàng)**
 ![Weekly Chart](./reports_week/VPB/VPB_candlestick_chart.png)
@@ -234,13 +234,13 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Hành Động Đề Xuất:** Nắm Giữ
   * **Giá Đề Xuất:** Duy trì vị thế
   * **Số Lượng Đề Xuất:** Giữ nguyên 2000 cổ phiếu
-  * **Lý Do Hành Động:** Nhà lãnh đạo ngành ngân hàng với institutional backing mạnh nhất, khả năng phục hồi nhanh nhất
+  * **Lý Do Hành Động:** Nhà lãnh đạo ngành ngân hàng với sự ủng hộ của tổ chức mạnh nhất, khả năng phục hồi nhanh nhất
 * **Điểm Dừng Lỗ:** 22.8 (bảo vệ mức hỗ trợ)
 * **Điểm Chốt Lời:** 26.5 (kháng cự đầu tiên), 28.0 (mục tiêu)
 * **Top 3 Cổ Phiếu Thay Thế:**
-  * **LPB**: Thay thế với excellent risk/reward profile từ No Supply→SOS sequence
-  * **BID**: Thay thế với most reliable sustained institutional interest
-  * **VCB**: Thay thế với blue-chip stability và institutional control
+  * **LPB**: Thay thế với hồ sơ rủi ro/lợi nhuận xuất sắc từ chuỗi No Supply→SOS
+  * **BID**: Thay thế với sự quan tâm tổ chức bền vững đáng tin cậy nhất
+  * **VCB**: Thay thế với sự ổn định cổ phiếu ưu đãi và kiểm soát tổ chức
 
 **3. Kế Hoạch Gia Tăng Chi Tiết**
 
@@ -259,8 +259,8 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Giá Đề Xuất:** 19.0-19.5
 * **Số Lượng Đề Xuất:** 300 cổ phiếu
 * **VPA Phân Tích Hiện Tái:**
-  * **Bối Cảnh Tuần:** Weekly Sign of Strength với consecutive weekly gains và volume explosion trong sector rotation
-  * **Bối Cảnh Ngày:** Pullback opportunity từ đỉnh 22.8, hiện ở 19.65 với support tại 19.0
+  * **Bối Cảnh Tuần:** Weekly Sign of Strength với các tuần tăng liên tiếp và khối lượng bùng nổ trong xoay vòng ngành
+  * **Bối Cảnh Ngày:** Cơ hội điều chỉnh từ đỉnh 22.8, hiện ở 19.65 với hỗ trợ tại 19.0
 * **Hành Động Đề Xuất:** Buy
 * **Điểm Dừng Lỗ:** 18.5 (dưới support chính)
 * **Điểm Chốt Lời:** 21.5 (kháng cự đầu tiên), 23.0 (mục tiêu)
@@ -272,8 +272,8 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Giá Đề Xuất:** 19.5-20.0
 * **Số Lượng Đề Xuất:** 400 cổ phiếu
 * **VPA Phân Tích Hiện Tại:**
-  * **Bối Cảnh Tuần:** Weekly Sign of Strength với volume explosion +68% và consecutive strength signals
-  * **Bối Cảnh Ngày:** Breaking above 20.0 resistance với momentum acceleration
+  * **Bối Cảnh Tuần:** Weekly Sign of Strength với khối lượng bùng nổ +68% và các tín hiệu mạnh liên tiếp
+  * **Bối Cảnh Ngày:** Vượt qua kháng cự 20.0 với động lực tăng tốc
 * **Hành Động Đề Xuất:** Buy
 * **Điểm Dừng Lỗ:** 18.8 (support level)
 * **Điểm Chốt Lời:** 22.0 (target đầu tiên), 24.0 (extended target)
@@ -285,8 +285,8 @@ VNINDEX có Selling Climax ngày 2025-07-29 với đóng cửa 1493.41, khối l
 * **Giá Đề Xuất:** 62.0-63.5
 * **Số Lượng Đề Xuất:** 100 cổ phiếu
 * **VPA Phân Tích Hiện Tại:**
-  * **Bối Cảnh Tuần:** Weekly Sign of Strength với +4.8% gain và +27% volume increase
-  * **Bối Cảnh Ngày:** Test for Supply signal cho thấy healthy consolidation
+  * **Bối Cảnh Tuần:** Weekly Sign of Strength với mức tăng +4.8% và khối lượng tăng +27%
+  * **Bối Cảnh Ngày:** Test for Supply signal cho thấy củng cố lành mạnh
 * **Hành Động Đề Xuất:** Buy
 * **Điểm Dừng Lỗ:** 60.5 (support level)
 * **Điểm Chốt Lời:** 66.0 (resistance), 68.0 (target)
