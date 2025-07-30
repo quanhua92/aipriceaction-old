@@ -43,9 +43,26 @@ For each ticker mentioned in PLAN.md:
 
 #### B. Cross-Reference Market Data
 ```bash
-# Read latest market data
-Read: /Volumes/data/workspace/aipriceaction/market_data/{TICKER}_2025-01-02_to_2025-07-29.csv
-# Focus on last 5-10 lines for most recent data
+# Read latest market data using most recent CSV file
+uv run -c "
+import pandas as pd
+import glob
+ticker = 'TICKER_NAME'
+try:
+    # Find the most recent CSV file for this ticker
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    if csv_files:
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        print(f'Using file: {latest_file}')
+        print(f'Data range: {df.iloc[0][\"Date\"]} to {df.iloc[-1][\"Date\"]}')
+        print('Last 5 rows:')
+        print(df.tail(5)[['Date', 'Open', 'High', 'Low', 'Close', 'Volume']])
+    else:
+        print(f'No CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error reading {ticker}: {e}')
+"
 ```
 
 #### C. Cross-Reference VPA Analysis

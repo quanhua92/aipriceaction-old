@@ -49,7 +49,18 @@ For each problematic ticker identified in step 1, create a specialized sub-agent
 ```
 Fix VPA analysis for ticker [TICKER] by:
 
-1. Read the market data CSV file: market_data/[TICKER]_2025-01-02_to_2025-07-13.csv
+1. Use reliable Python with glob.glob() to find and read the most recent market data CSV file: market_data/[TICKER]_*.csv
+```python
+import pandas as pd
+import glob
+ticker = '[TICKER]'
+csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+latest_file = max(csv_files) if csv_files else None
+if latest_file:
+    df = pd.read_csv(latest_file)
+    print(f'Using file: {latest_file}')
+    print(f'Data range: {df.iloc[0]["Date"]} to {df.iloc[-1]["Date"]}')
+```
 2. Read the current VPA analysis file: vpa_data/[TICKER].md
 3. Compare the VPA analysis statements with actual market data
 4. Fix any incorrect price directions (tăng/giảm/đi ngang)

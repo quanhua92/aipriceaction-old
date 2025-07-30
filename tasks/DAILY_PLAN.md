@@ -3,6 +3,12 @@
 ## Overview
 This document outlines the complete protocol for AI agents to generate a high-quality `PLAN.md` file using the VPA-Strategist methodology. The agent must follow these steps sequentially to ensure accurate, verifiable analysis using natural language processing and reliable Python operations only.
 
+**⚠️ CRITICAL: ALWAYS USE ACTUAL DATA DATES**
+- Never assume "today's date" for analysis
+- Always get the actual last available date from CSV files using `df.iloc[-1]["Date"]`
+- Use `glob.glob()` to find the most recent CSV file for each ticker
+- Compare actual data dates with existing analysis dates to determine if new analysis is needed
+
 ## Execution Protocol
 
 ### Step 1: Input File Verification
@@ -97,15 +103,26 @@ with open('GROUP.md', 'r', encoding='utf-8') as f:
 3. **For each leader, read individual vpa_data/{TICKER}.md** using Read tool - extract recent VPA context
 4. **Use reliable Python ONLY for CSV operations**:
 ```bash
-# Example reliable Python for price data
+# Example reliable Python for price data - gets the most recent CSV file
 uv run -c "
 import pandas as pd
+import glob
 ticker = 'VHM'
 try:
-    df = pd.read_csv(f'market_data/{ticker}_*.csv')
-    print(f'Latest price for {ticker}: {df.iloc[-1]["Close"]}')
-except:
-    print(f'Could not read CSV for {ticker}')
+    # Find the most recent CSV file for this ticker
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    if not csv_files:
+        print(f'No CSV files found for {ticker}')
+    else:
+        # Get the most recent file by modification time or filename
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent data
+        print(f'{ticker}: Latest date={latest["Date"]}, Close={latest["Close"]}')
+        print(f'CSV file: {latest_file}')
+        print(f'Data date range: {df.iloc[0]["Date"]} to {df.iloc[-1]["Date"]}')
+except Exception as e:
+    print(f'Could not read CSV for {ticker}: {e}')
 "
 ```
 
@@ -290,7 +307,7 @@ print('Sample tickers:', tickers.head(10).to_list())
 
 **CRITICAL REQUIREMENTS**:
 - **Current Price Format**: MUST use thousand dot format (e.g., 72.200 VNĐ, 23.550 VNĐ)
-- **Price Source**: Extract from latest CSV market data file: `market_data/{TICKER}_2025-01-02_to_2025-07-29.csv`
+- **Price Source**: Extract from latest CSV market data file using glob.glob(f'market_data/{TICKER}_*.csv') to find most recent file
 - **All Top List Tickers**: Every ticker in Top List must have detailed section
 - **Vietnamese Terms**: All analysis in professional Vietnamese financial terminology
 - **Chart Links**: Verify paths exist for both weekly and daily charts
@@ -323,24 +340,55 @@ print('Sample tickers:', tickers.head(10).to_list())
 
 #### 6.1 **Price Data Verification** (Zero Tolerance for Errors)
 ```bash
-# For EVERY ticker mentioned in PLAN.md, verify:
-# Read actual market data CSV file
-Read: /Volumes/data/workspace/aipriceaction/market_data/{TICKER}_2025-01-02_to_2025-07-29.csv
-# Focus on last 5-10 lines for most recent data
+# For EVERY ticker mentioned in PLAN.md, verify using most recent CSV file:
+uv run -c "
+import pandas as pd
+import glob
+ticker = 'TICKER_NAME'
+try:
+    # Find the most recent CSV file for this ticker
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    if csv_files:
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        print(f'Using file: {latest_file}')
+        print(f'Data range: {df.iloc[0][\"Date\"]} to {df.iloc[-1][\"Date\"]}')
+        print('Last 5 rows for verification:')
+        print(df.tail(5)[['Date', 'Open', 'High', 'Low', 'Close', 'Volume']])
+    else:
+        print(f'No CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error reading {ticker}: {e}')
+"
 ```
 
 **MANDATORY CURRENT PRICE EXTRACTION PROCESS**:
 ```bash
-# For each Top List ticker, extract current price:
-for ticker in VHM VND VPB VIX SSI HDB MWG REE SHS CTS MBB SHB ACB MSN HDC VCI TCB BSR; do
-  file="/Volumes/data/workspace/aipriceaction/market_data/${ticker}_2025-01-02_to_2025-07-29.csv"
-  if [ -f "$file" ]; then
-    price=$(tail -1 "$file" | cut -d',' -f5)
-    # Format with thousand dot: 72.2 becomes 72.200
-    formatted_price=$(printf "%.3f" "$price")
-    echo "* **Giá Hiện Tại:** $formatted_price VNĐ"
-  fi
-done
+# For each Top List ticker, extract current price from most recent CSV:
+uv run -c "
+import pandas as pd
+import glob
+
+tickers = ['VHM', 'VND', 'VPB', 'VIX', 'SSI', 'HDB', 'MWG', 'REE', 'SHS', 'CTS', 'MBB', 'SHB', 'ACB', 'MSN', 'HDC', 'VCI', 'TCB', 'BSR']
+
+for ticker in tickers:
+    try:
+        # Find the most recent CSV file for this ticker
+        csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+        if csv_files:
+            latest_file = max(csv_files)
+            df = pd.read_csv(latest_file)
+            latest = df.iloc[-1]  # Last row = most recent data
+            price = float(latest['Close'])
+            # Format with thousand dot: 72.2 becomes 72.200
+            formatted_price = f'{price:.3f}'
+            print(f'* **Giá Hiện Tại:** {formatted_price} VNĐ')
+            print(f'  (Date: {latest[\"Date\"]}, File: {latest_file})')
+        else:
+            print(f'No CSV files found for {ticker}')
+    except Exception as e:
+        print(f'Error reading {ticker}: {e}')
+"
 ```
 
 **Critical Checks**:
@@ -366,9 +414,29 @@ done
 
 #### 6.3 **Weekly Data Verification** (⚠️ COMMON ERROR AREA)
 ```bash
-# For weekly claims, use weekly data files:
-Read: /Volumes/data/workspace/aipriceaction/market_data_week/{TICKER}_2025-01-02_to_2025-07-25.csv
-# Calculate actual weekly percentage changes
+# For weekly claims, use most recent weekly data files:
+uv run -c "
+import pandas as pd
+import glob
+ticker = 'VHM'
+try:
+    # Find the most recent weekly CSV file
+    csv_files = glob.glob(f'market_data_week/{ticker}_*.csv')
+    if csv_files:
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        print(f'Using weekly file: {latest_file}')
+        print(f'Weekly data range: {df.iloc[0][\"Date\"]} to {df.iloc[-1][\"Date\"]}')
+        # Calculate actual weekly percentage changes
+        latest = df.iloc[-1]
+        previous = df.iloc[-2] if len(df) > 1 else df.iloc[-1]
+        change_pct = ((latest[\"Close\"] - previous[\"Close\"]) / previous[\"Close\"]) * 100
+        print(f'Weekly change: {change_pct:.1f}%')
+    else:
+        print(f'No weekly CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error: {e}')
+"
 ```
 
 **Weekly Verification Checks**:
@@ -519,21 +587,62 @@ Read: /Volumes/data/workspace/aipriceaction/vpa_data/{TICKER}.md
 #### Volume Error Prevention
 ```bash
 # MANDATORY process for all volume claims:
-# 1. Read CSV file: market_data/{TICKER}_*.csv
-# 2. Get actual volume from last row
-# 3. Convert to millions: volume ÷ 1,000,000
-# 4. Round to 2 decimal places
-# 5. Use this exact figure in PLAN.md
+uv run -c "
+import pandas as pd
+import glob
+ticker = 'VHM'
+try:
+    # 1. Find and read the most recent CSV file
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    latest_file = max(csv_files) if csv_files else None
+    if latest_file:
+        df = pd.read_csv(latest_file)
+        # 2. Get actual volume from last row
+        latest_volume = df.iloc[-1]['Volume']
+        # 3. Convert to millions: volume ÷ 1,000,000
+        volume_millions = latest_volume / 1_000_000
+        # 4. Round to 2 decimal places
+        volume_formatted = round(volume_millions, 2)
+        # 5. Use this exact figure in PLAN.md
+        print(f'{ticker} volume: {volume_formatted}M')
+        print(f'Date: {df.iloc[-1][\"Date\"]}')
+        print(f'Source: {latest_file}')
+    else:
+        print(f'No CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error: {e}')
+"
 ```
 
 #### Weekly Percentage Error Prevention
 ```bash
-# MANDATORY process for weekly % claims:
-# 1. Read weekly CSV: market_data_week/{TICKER}_*.csv
-# 2. Get last two closes: current_close, previous_close
-# 3. Calculate: (current - previous) / previous × 100
-# 4. Round to 1 decimal place
-# 5. Use this exact percentage in PLAN.md
+# MANDATORY process for weekly % claims:  
+uv run -c "
+import pandas as pd
+import glob
+ticker = 'VHM'
+try:
+    # 1. Find and read the most recent weekly CSV file
+    csv_files = glob.glob(f'market_data_week/{ticker}_*.csv')
+    latest_file = max(csv_files) if csv_files else None
+    if latest_file:
+        df = pd.read_csv(latest_file)
+        # 2. Get last two closes: current_close, previous_close
+        current_close = df.iloc[-1]['Close']
+        previous_close = df.iloc[-2]['Close'] if len(df) > 1 else current_close
+        # 3. Calculate: (current - previous) / previous × 100
+        change_pct = ((current_close - previous_close) / previous_close) * 100
+        # 4. Round to 1 decimal place
+        change_formatted = round(change_pct, 1)
+        # 5. Use this exact percentage in PLAN.md
+        print(f'{ticker} weekly change: {change_formatted:+.1f}%')
+        print(f'Current week: {df.iloc[-1][\"Date\"]}')
+        print(f'Source: {latest_file}')
+    else:
+        print(f'No weekly CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error: {e}')
+"
 ```
 
 #### VPA Signal Error Prevention

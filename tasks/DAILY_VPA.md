@@ -3,6 +3,12 @@
 ## Overview
 This document outlines the complete protocol for AI agents to perform daily VPA (Volume Price Analysis) using the Wyckoff methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
+**⚠️ CRITICAL: ALWAYS USE ACTUAL DATA DATES**
+- Never assume "today's date" for analysis
+- Always get the actual last available date from CSV files using `df.iloc[-1]["Date"]`
+- Use `glob.glob()` to find the most recent CSV file for each ticker
+- Compare actual data dates with existing VPA analysis dates to determine if new analysis is needed
+
 ## Execution Protocol
 
 ### Step 1: Dividend Adjustment Check
@@ -45,15 +51,26 @@ This script is reliable (pure CSV operations):
 **For each ticker, manually gather context using**:
 1. **Read latest market data CSV** using reliable Python:
 ```bash
-# Example reliable Python for price data
+# Example reliable Python for price data - gets the most recent CSV file
 uv run -c "
 import pandas as pd
+import glob
+from datetime import datetime
 ticker = 'VHM'
 try:
-    df = pd.read_csv(f'market_data/{ticker}_*.csv')
-    latest = df.iloc[-1]
-    print(f'{ticker}: Close={latest["Close"]}, Volume={latest["Volume"]}')
-    print(f'Last 7 days OHLCV data available: {len(df.tail(7))} rows')
+    # Find the most recent CSV file for this ticker
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    if not csv_files:
+        print(f'No CSV files found for {ticker}')
+    else:
+        # Get the most recent file by modification time or filename
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent data
+        print(f'{ticker}: Latest date={latest[\"Date\"]}, Close={latest[\"Close\"]}, Volume={latest[\"Volume\"]}')
+        print(f'CSV file: {latest_file}')
+        print(f'Total data rows available: {len(df)}')
+        print(f'Data date range: {df.iloc[0][\"Date\"]} to {df.iloc[-1][\"Date\"]}')
 except Exception as e:
     print(f'Could not read CSV for {ticker}: {e}')
 "
@@ -65,8 +82,8 @@ except Exception as e:
    - Understand historical pattern progression
 
 3. **Manual assessment of new analysis needs**:
-   - Compare latest market data date with last VPA analysis date
-   - Determine if new analysis is required based on data availability
+   - Compare the actual last available date from CSV (df.iloc[-1]["Date"]) with last VPA analysis date
+   - Determine if new analysis is required based on actual data availability (not assumed dates)
    - NO automated text parsing or signal extraction
 
 **Context Sources (Manual Reading Only)**:
@@ -133,7 +150,7 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 - **Manually append** new VPA analysis to existing content
 - Use **Write tool** to save complete updated content
 - Ensures proper UTF-8 encoding for Vietnamese text
-- **Manual checking** to skip tickers that already have today's analysis
+- **Manual checking** to skip tickers that already have analysis for the latest available data date (not assumed "today")
 
 **DIVIDEND ADJUSTMENT MODE** (Only when dividend files processed):
 - **Manual update** of historical price references using dividend ratios
@@ -161,14 +178,25 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 
 **Manual Price Verification Example**:
 ```bash
-# Use reliable Python to verify price consistency
+# Use reliable Python to verify price consistency with actual latest data
 uv run -c "
 import pandas as pd
+import glob
 ticker = 'VHM'
-df = pd.read_csv(f'market_data/{ticker}_*.csv')
-latest = df.iloc[-1]
-print(f'Market data for {ticker}: {latest["Date"]} Close={latest["Close"]}')
-print('Now manually compare with VPA analysis using Read tool')
+try:
+    # Get the most recent CSV file for this ticker
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    latest_file = max(csv_files) if csv_files else None
+    if latest_file:
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent data point
+        print(f'Market data for {ticker}: {latest[\"Date\"]} Close={latest[\"Close\"]}')
+        print(f'Using file: {latest_file}')
+        print('Now manually compare with VPA analysis using Read tool')
+    else:
+        print(f'No CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error reading data for {ticker}: {e}')
 "
 ```
 

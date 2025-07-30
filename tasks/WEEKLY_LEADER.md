@@ -3,6 +3,12 @@
 ## Overview
 This document outlines the complete protocol for AI agents to generate a high-quality `LEADER.md` file using the VPA-SectorLead methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
+**⚠️ CRITICAL: ALWAYS USE ACTUAL DATA DATES**
+- Never assume "today's date" or "this week" for analysis
+- Always get the actual last available date from CSV files using `df.iloc[-1]["Date"]`
+- Use `glob.glob()` to find the most recent CSV file for each ticker
+- Compare actual data dates with existing analysis dates to determine if new analysis is needed
+
 ## Execution Protocol
 
 ### Step 1: Input File Verification
@@ -36,7 +42,7 @@ This document outlines the complete protocol for AI agents to generate a high-qu
     {"signal": "SOS Bar - manually identified", "date": "2025-07-07"},
     {"signal": "Test for Supply - manually identified", "date": "2025-06-30"}
   ],
-  "price_history_data": "Raw weekly OHLCV from market_data_week/{TICKER}_*.csv using reliable Python",
+  "price_history_data": "Raw weekly OHLCV from most recent market_data_week/{TICKER}_*.csv using reliable Python with glob.glob()",
   "base_period_start": "Sector base period start date - manually determined",
   "base_period_end": "Sector base period end date - manually determined"
 }
@@ -44,16 +50,27 @@ This document outlines the complete protocol for AI agents to generate a high-qu
 
 **Manual File Reading Strategy for Each Ticker**:
 1. **Use Read tool** to manually read `vpa_data_week/{TICKER}.md` for complete weekly VPA story - manual analysis
-2. **Use reliable Python** to read `market_data_week/{TICKER}_*.csv` for price history and calculations:
+2. **Use reliable Python** to read the most recent `market_data_week/{TICKER}_*.csv` file for price history and calculations:
 ```bash
-# Example reliable Python for weekly price data
+# Example reliable Python for weekly price data - gets most recent CSV file
 uv run -c "
 import pandas as pd
+import glob
 ticker = 'VHM'
 try:
-    df = pd.read_csv(f'market_data_week/{ticker}_*.csv')
-    print(f'{ticker}: Latest Close={df.iloc[-1]["Close"]}, Start={df.iloc[0]["Close"]}')
-    print(f'Performance: {((df.iloc[-1]["Close"] / df.iloc[0]["Close"]) - 1) * 100:.2f}%')
+    # Find the most recent weekly CSV file for this ticker
+    csv_files = glob.glob(f'market_data_week/{ticker}_*.csv')
+    if not csv_files:
+        print(f'No weekly CSV files found for {ticker}')
+    else:
+        # Get the most recent file by modification time or filename
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent week
+        print(f'{ticker}: Latest week ending {latest[\"Date\"]}, Close={latest[\"Close\"]}')
+        print(f'CSV file: {latest_file}')
+        print(f'Weekly data range: {df.iloc[0][\"Date\"]} to {df.iloc[-1][\"Date\"]}')
+        print(f'Performance: {((df.iloc[-1][\"Close\"] / df.iloc[0][\"Close\"]) - 1) * 100:.2f}%')
 except Exception as e:
     print(f'Could not read CSV for {ticker}: {e}')
 "

@@ -6,9 +6,22 @@ Generate VPA analysis for all tickers that need updates
 ## Task Prompt
 I need to generate VPA analysis for [NUMBER] Vietnamese stock tickers for [DATE] using the Wyckoff methodology. For each ticker, I need you to:
 
-1. Use Read tool to examine market_data/{TICKER}_2025-01-02_to_2025-07-14.csv file to get today's and previous day's OHLCV data
+1. Use reliable Python with glob.glob() to find and examine the most recent market_data/{TICKER}_*.csv file to get the latest available data and previous day's OHLCV data:
+```python
+import pandas as pd
+import glob
+ticker = 'TICKER_NAME'
+csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+latest_file = max(csv_files) if csv_files else None
+if latest_file:
+    df = pd.read_csv(latest_file)
+    latest_data = df.iloc[-1]  # Most recent data
+    previous_data = df.iloc[-2] if len(df) > 1 else latest_data
+    print(f'Latest date: {latest_data["Date"]}')
+    print(f'File: {latest_file}')
+```
 2. Use Read tool to examine the existing vpa_data/{TICKER}.md file to get the latest VPA analysis context
-3. Generate a new VPA analysis entry for [DATE] following this EXACT format:
+3. Generate a new VPA analysis entry for the actual latest available date (not assumed date) following this EXACT format:
 
 ```markdown
 - **Ngày [DATE]:** [Analysis of price movement from previous to current day]. [Description of candle characteristics]. [Volume analysis compared to previous day].

@@ -35,9 +35,25 @@ LS: /Volumes/data/workspace/aipriceaction/market_data/
 
 #### 3.1 **Current Price Verification** (⚠️ HIGH ERROR AREA)
 ```bash
-# For EVERY ticker in portfolio, verify current price
-Read: /Volumes/data/workspace/aipriceaction/market_data/{TICKER}_2025-01-02_to_2025-07-29.csv
-# Focus on last line for most recent close price
+# For EVERY ticker in portfolio, verify current price using most recent CSV file
+uv run -c "
+import pandas as pd
+import glob
+ticker = 'TICKER_NAME'
+try:
+    # Find the most recent CSV file for this ticker
+    csv_files = glob.glob(f'market_data/{ticker}_*.csv')
+    if csv_files:
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent data
+        print(f'{ticker}: Latest date={latest[\"Date\"]}, Close={latest[\"Close\"]}')
+        print(f'Using file: {latest_file}')
+    else:
+        print(f'No CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error reading {ticker}: {e}')
+"
 ```
 
 **Critical Checks:**

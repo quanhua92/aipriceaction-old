@@ -3,8 +3,14 @@
 ## Overview
 This document outlines the complete protocol for AI agents to perform weekly VPA (Volume Price Analysis) using the Wyckoff methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
+**⚠️ CRITICAL: ALWAYS USE ACTUAL DATA DATES**
+- Never assume "today's date" or "this week" for analysis
+- Always get the actual last available date from CSV files using `df.iloc[-1]["Date"]`
+- Use `glob.glob()` to find the most recent CSV file for each ticker
+- Compare actual data dates with existing analysis dates to determine if new analysis is needed
+
 ## Important Weekly Date Logic
-**CRITICAL**: Weekly data dates are always from Monday of each week. If today is Sunday 2025-07-13, the latest complete weekly data will be dated Monday 2025-07-07 (representing the week of July 7-11, 2025). Always analyze the most recent Monday-dated weekly data available.
+**CRITICAL**: Weekly data dates are always from Monday of each week. Always analyze the most recent Monday-dated weekly data available by checking the actual last row of the CSV file, not assumed dates.
 
 ## Execution Protocol
 
@@ -49,17 +55,27 @@ This script is reliable (pure CSV operations):
 **For each ticker, manually gather context using**:
 1. **Read latest weekly market data CSV** using reliable Python:
 ```bash
-# Example reliable Python for weekly price data
+# Example reliable Python for weekly price data - gets most recent CSV file
 uv run -c "
 import pandas as pd
+import glob
 ticker = 'VHM'
 try:
-    df = pd.read_csv(f'market_data_week/{ticker}_*.csv')
-    latest = df.iloc[-1]
-    previous = df.iloc[-2] if len(df) > 1 else df.iloc[-1]
-    print(f'{ticker}: Latest Week Close={latest["Close"]}, Volume={latest["Volume"]}')
-    print(f'Previous Week Close={previous["Close"]}, Volume={previous["Volume"]}')
-    print(f'Weekly data available: {len(df)} weeks')
+    # Find the most recent weekly CSV file for this ticker
+    csv_files = glob.glob(f'market_data_week/{ticker}_*.csv')
+    if not csv_files:
+        print(f'No weekly CSV files found for {ticker}')
+    else:
+        # Get the most recent file by modification time or filename
+        latest_file = max(csv_files)
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent week
+        previous = df.iloc[-2] if len(df) > 1 else df.iloc[-1]
+        print(f'{ticker}: Latest week ending {latest[\"Date\"]}, Close={latest[\"Close\"]}, Volume={latest[\"Volume\"]}')
+        print(f'Previous week ending {previous[\"Date\"]}, Close={previous[\"Close\"]}, Volume={previous[\"Volume\"]}')
+        print(f'CSV file: {latest_file}')
+        print(f'Weekly data available: {len(df)} weeks')
+        print(f'Weekly data range: {df.iloc[0][\"Date\"]} to {df.iloc[-1][\"Date\"]}')
 except Exception as e:
     print(f'Could not read CSV for {ticker}: {e}')
 "
@@ -71,8 +87,8 @@ except Exception as e:
    - Understand historical weekly pattern progression
 
 3. **Manual assessment of new analysis needs**:
-   - Compare latest market data date with last VPA analysis date
-   - Determine if new analysis is required based on weekly data availability
+   - Compare the actual last available week ending date from CSV (df.iloc[-1]["Date"]) with last VPA analysis date
+   - Determine if new analysis is required based on actual weekly data availability (not assumed dates)
    - NO automated text parsing or signal extraction
 
 **Context Sources (Manual Reading Only)**:
@@ -225,14 +241,25 @@ Based on the batch files created in Step 2.1, spawn exactly 8 sub-agents to proc
 
 **Manual Price Verification Example**:
 ```bash
-# Use reliable Python to verify weekly price consistency
+# Use reliable Python to verify weekly price consistency with actual latest data
 uv run -c "
 import pandas as pd
+import glob
 ticker = 'VHM'
-df = pd.read_csv(f'market_data_week/{ticker}_*.csv')
-latest = df.iloc[-1]
-print(f'Weekly data for {ticker}: {latest["Date"]} Close={latest["Close"]}')
-print('Now manually compare with VPA analysis using Read tool')
+try:
+    # Get the most recent weekly CSV file for this ticker
+    csv_files = glob.glob(f'market_data_week/{ticker}_*.csv')
+    latest_file = max(csv_files) if csv_files else None
+    if latest_file:
+        df = pd.read_csv(latest_file)
+        latest = df.iloc[-1]  # Last row = most recent week
+        print(f'Weekly data for {ticker}: Week ending {latest[\"Date\"]} Close={latest[\"Close\"]}')
+        print(f'Using file: {latest_file}')
+        print('Now manually compare with VPA analysis using Read tool')
+    else:
+        print(f'No weekly CSV files found for {ticker}')
+except Exception as e:
+    print(f'Error reading weekly data for {ticker}: {e}')
 "
 ```
 

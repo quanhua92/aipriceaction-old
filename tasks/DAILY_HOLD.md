@@ -3,6 +3,12 @@
 ## Overview
 This document outlines the complete protocol for AI agents to generate a high-quality `hold.md` file using the Portfolio-Strategist methodology with **manual natural language analysis only**. No unreliable Python text parsing utilities.
 
+**⚠️ CRITICAL: ALWAYS USE ACTUAL DATA DATES**
+- Never assume "today's date" for analysis
+- Always get the actual last available date from CSV files using `df.iloc[-1]["Date"]`
+- Use `glob.glob()` to find the most recent CSV file for each ticker
+- Compare actual data dates with existing analysis dates to determine if new analysis is needed
+
 ## Execution Protocol
 
 ### Step 1: Input File Verification
@@ -52,7 +58,7 @@ This document outlines the complete protocol for AI agents to generate a high-qu
     "quantity": 1000
   },
   "previous_recommendation": "Hold/Buy More/Sell/etc.",
-  "current_price": "Latest close from market_data/{TICKER}_*.csv using reliable Python",
+  "current_price": "Latest close from most recent market_data/{TICKER}_*.csv using reliable Python with glob.glob()",
   "most_recent_daily_signal": {
     "signal": "Effort to Rise/No Demand/SOS/etc. - manually identified",
     "date": "YYYY-MM-DD"
@@ -71,12 +77,12 @@ This document outlines the complete protocol for AI agents to generate a high-qu
 
 **Manual File Reading Strategy for Each Portfolio Ticker**:
 1. **Use Read tool** to read `vpa_data/{TICKER}.md` for daily VPA narrative (last 10 entries) - manual analysis
-2. **Use reliable Python script** to read `market_data/{TICKER}_2025-01-02_to_2025-07-28.csv` for current price (last row):
+2. **Use reliable Python script** to read the most recent `market_data/{TICKER}_*.csv` file for current price (last row):
 ```python
 # CRITICAL: Use calculate_pnl_correct.py script for accurate P&L calculations
 # This script:
 # 1. Reads portfolio from hold.md table automatically 
-# 2. Gets current prices from last row of each ticker's CSV in market_data/
+# 2. Gets current prices from last row of the most recent CSV file for each ticker using glob.glob()
 # 3. Calculates accurate P&L with proper formulas
 python3 calculate_pnl_correct.py
 ```
@@ -87,7 +93,7 @@ python3 calculate_pnl_correct.py
 
 **Manual Data Extraction Rules**:
 - **Manual extraction** of holding data from existing `hold.md` portfolio table using Read tool
-- **Use calculate_pnl_correct.py script** for current prices from individual `market_data/{TICKER}_2025-01-02_to_2025-07-28.csv` files
+- **Use calculate_pnl_correct.py script** for current prices from individual `market_data/{TICKER}_*.csv` files (script automatically finds most recent file using glob.glob())
 - **Manual signal identification** from `REPORT.md` with exact dates using Read tool
 - **Manual weekly signal extraction** from `REPORT_week.md` using Read tool  
 - **Manual VPA narrative analysis** from individual `vpa_data/{TICKER}.md` files using Read tool
@@ -164,7 +170,7 @@ Task 3: "MANUAL ANALYSIS ONLY - Select top 3 diversified portfolio expansion pic
 **CRITICAL CALCULATION PROCESS**:
 1. **ALWAYS use calculate_pnl_correct.py script** - this script automatically:
    - Reads portfolio from hold.md table 
-   - Gets current prices from last row of each ticker's CSV in market_data/
+   - Gets current prices from last row of the most recent CSV file for each ticker using glob.glob() pattern matching
    - Calculates accurate P&L with verified formulas
    - **Formats all numbers using Vietnamese dot separators** (28.085.600)
    - Provides formatted output for hold.md updates
@@ -189,7 +195,7 @@ python3 calculate_pnl_correct.py
 
 **Data Sources**: 
 - Portfolio holdings: From hold.md "Dữ Liệu Danh Mục" table
-- Current prices: From market_data/{TICKER}_2025-01-02_to_2025-07-28.csv last row
+- Current prices: From most recent market_data/{TICKER}_*.csv last row (automatically detected using glob.glob())
 - All processed automatically by calculate_pnl_correct.py
 
 ### Step 5.1: Manual Sector Allocation Calculation
