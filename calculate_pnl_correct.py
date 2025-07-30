@@ -65,7 +65,7 @@ def read_portfolio_from_hold_md():
 
 def get_current_price_from_csv(ticker):
     """Get current price from last row of ticker's CSV file"""
-    csv_path = Path(f'market_data/{ticker}_2025-01-02_to_2025-07-29.csv')
+    csv_path = Path(f'market_data/{ticker}_2025-01-02_to_2025-07-30.csv')
     
     if not csv_path.exists():
         print(f"Warning: CSV file not found for {ticker}")
