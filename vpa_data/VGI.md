@@ -6,61 +6,93 @@
     -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
 -   **Ngày 2025-06-18:** VGI giảm từ 73.6 xuống 72.7. Nến giảm có biên độ rộng hơn. Khối lượng giao dịch tăng nhẹ (647.9k đơn vị).
     -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Áp lực bán đã xuất hiện và dễ dàng đẩy giá xuống, cho thấy đà tăng trước đó không bền vững.
+
 - **Ngày 2025-06-19:** VGI giảm từ 72.6 xuống 72.5. Nến có biên độ hẹp. Khối lượng giao dịch giảm (339.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-20:** VGI giảm từ 72.5 xuống 72.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (352.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-23:** VGI giảm từ 71.9 lên 71.2. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (517.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** được xác nhận. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-24:** VGI tăng từ 71.0 lên 72.0. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (281.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-25:** VGI giảm nhẹ từ 72.0 xuống 71.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (369.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
+
 - **Ngày 2025-06-26:** VGI tăng nhẹ từ 71.9 lên 72.1. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (277k đơn vị) và ở mức thấp.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp, xác nhận sự yếu kém của lực cầu.
+
 - **Ngày 2025-06-27:** VGI tăng mạnh từ 72.1 lên 73.6. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (880.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+
 - **Ngày 2025-06-30:** VGI tăng từ 73.6 lên 74.3. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (585.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng giá với khối lượng giảm này cho thấy lực cầu đã yếu đi. Đây là một tín hiệu **No Demand**, cho thấy thị trường cần tích lũy thêm trước khi có thể tiếp tục tăng.
+
 - **Ngày 2025-07-01:** VGI giảm từ 74.3 xuống 73.2. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (616.1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+
 - **Ngày 2025-07-02:** VGI tăng từ 73.2 lên 73.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (429k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-03:** VGI tăng từ 73.5 lên 73.9. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (638.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VGI tăng mạnh từ 74.0 lên 75.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (990.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VGI giảm từ 75.2 xuống 75.3. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (804.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-08:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay VGI giảm từ 75.3 xuống 74.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (714.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường sau chuỗi tăng mạnh.
+
 - **Ngày 2025-07-09:** Tiếp nối các phiên **Test for Supply (Kiểm tra Nguồn cung)**, phiên hôm nay VGI tăng nhẹ từ 74.8 lên 74.9. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (624k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình giằng co vẫn tiếp diễn. Thị trường thiếu động lực rõ ràng từ cả hai phía, tiếp tục đi ngang trong biên độ hẹp.
+
 - **Ngày 2025-07-10:** Tiếp nối các phiên **Test for Supply**, hôm nay VGI tăng từ 74.9 lên 75.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (917.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng các phiên kiểm tra cung đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, củng cố cho xu hướng phục hồi.
+
 - **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay VGI giảm từ 75.9 xuống 75.5. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (663.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-15:** VGI giảm mạnh từ 75.5 xuống 74.4 với đỉnh ngày đạt 76.9 và đáy 64.2. Nến có biên độ rất rộng với đuôi dài cả hai phía. Khối lượng giao dịch tăng vọt (1.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Phiên có biến động cực mạnh với test xuống 64.2 trước khi phục hồi. Việc khối lượng bùng nổ kèm theo biến động mạnh cho thấy sự bất ổn và áp lực bán đáng kể, tín hiệu cảnh báo về sự yếu kém trong ngắn hạn.
+
 - **Ngày 2025-07-16:** VGI tăng nhẹ từ 74.4 lên 74.8 với đỉnh ngày đạt 75.2. Nến tăng có biên độ hẹp và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm mạnh (441.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu SOW của phiên trước, việc giá phục hồi nhẹ với khối lượng giảm mạnh cho thấy lực cầu vẫn yếu. Sự ổn định tương đối sau phiên động mạnh là tín hiệu tích cực nhưng cần thêm xác nhận.
+
 - **Ngày 2025-07-17:** VGI tăng từ 75.3 lên 75.2 với đỉnh ngày đạt 76.0. Nến giảm có biên độ hẹp với đuôi dài phía trên. Khối lượng giao dịch tăng (743.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau phiên Test for Demand, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 76.0. Việc giá không thể duy trì ở mức cao với khối lượng tăng cho thấy vẫn còn áp lực bán, nhưng không quá mạnh.
+
 - **Ngày 2025-07-17:** VGI tăng từ 75.2 lên 76.8 với đỉnh ngày đạt 77.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (850.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Supply, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 77.5. Việc giá tăng mạnh với khối lượng cải thiện cho thấy smart money đang tích cực mua vào, tạo tiền đề cho việc phục hồi hoàn toàn sau tín hiệu SOW trước đó.
+
 - **Ngày 2025-07-18:** VGI giảm từ 75.2 xuống 74.7 với đỉnh ngày đạt 75.8. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (726.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Rise của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp kiểm tra bình thường. Áp lực bán không mạnh và được hấp thụ tốt, là tín hiệu tích cực cho thấy xu hướng tăng có thể tiếp tục sau khi giai đoạn tích lũy hoàn tất.
+
 - **Ngày 2025-07-21:** Sau tín hiệu Test for Supply, VGI giảm từ 74.7 xuống 73.7 với đỉnh ngày đạt 74.7. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất. Khối lượng giao dịch giảm (649.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau phiên Test for Supply, áp lực bán đã gia tăng khiến giá giảm xuống mức thấp nhất phiên. Tuy nhiên, việc khối lượng giảm cho thấy áp lực bán chưa thật sự mạnh mẽ. Đây có thể là nhịp điều chỉnh sâu hơn trước khi hồi phục.
+
 - **Ngày 2025-07-22:** VGI tăng từ 73.7 lên 74.1 với đỉnh ngày đạt 74.5 và mức thấp 72.7. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm (559.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Effort to Fall, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 72.7. Việc giá test xuống 72.7 rồi phục hồi về 74.1 với khối lượng giảm cho thấy lực cầu bắt đầu xuất hiện. Đây là tín hiệu tích cực sau giai đoạn biến động mạnh, cho thấy khả năng ổn định và phục hồi dần.
+
 - **Ngày 2025-07-23:** VGI tăng từ 74.1 lên 75.0. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng nhẹ (596.200 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Demand** tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Effort to Rise** mạnh mẽ. Việc giá tăng từ 74.1 lên 75.0 và đóng cửa ở mức cao nhất với khối lượng tăng cho thấy lực cầu đã hoàn toàn quay trở lại sau giai đoạn kiểm tra. Phe mua đã chiếm ưu thế và thành công đẩy giá lên vùng cao hơn, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Tín hiệu cực kỳ tích cực cho xu hướng phục hồi mạnh mẽ.
+
 - **Ngày 2025-07-24:** VGI giảm từ 75.0 xuống 74.2 với đỉnh ngày đạt 75.5 và mức thấp 74.0. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tăng (717.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Rise mạnh mẽ của phiên trước, việc giá giảm về 74.2 với khối lượng tăng cho thấy thị trường đang kiểm tra áp lực bán tại vùng kháng cự 75.5. Việc khối lượng tăng kèm theo sự suy yếu giá cho thấy smart money đang test khả năng chịu áp lực của vùng giá này. Đây là một giai đoạn kiểm tra bình thường sau khi có tín hiệu tích cực, cần theo dõi phản ứng của thị trường tại vùng hỗ trợ 74.0.
+
 - **Ngày 2025-07-25:** VGI tăng mạnh từ 74.2 lên 77.2 với đỉnh ngày đạt 77.5 và mức thấp 74.2. Nến tăng có biên độ rất rộng và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch bùng nổ (1.908.700 đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau phiên Test for Supply của hôm trước, việc lực cầu quay trở lại một cách mạnh mẽ với khối lượng bùng nổ và giá tăng vượt qua ngưỡng kháng cự 77.0 là một tín hiệu SOS cực kỳ tích cực. Smart money đã hoàn tất giai đoạn tích lũy và bắt đầu markup phase. Việc đóng cửa gần mức cao nhất với khối lượng gấp đôi phiên trước cho thấy lực cầu thực sự mạnh mẽ, phủ nhận hoàn toàn tín hiệu SOW từ ngày 15/7. Xu hướng tăng đã được xác lập vững chắc.
+
 - **Ngày 2025-07-28:** VGI tiếp tục tăng từ 77.2 lên 78.0 với đỉnh ngày đạt 79.4 và mức thấp 76.7. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch giảm xuống 943.600 đơn vị.
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Tiếp nối tín hiệu SOS mạnh mẽ của phiên trước, VGI tiếp tục thể hiện nỗ lực tăng giá khi test lên mức cao mới 79.4. Tuy khối lượng giảm so với phiên bùng nổ trước đó nhưng vẫn duy trì ở mức tốt. Việc giá đóng cửa ở 78.0 (mức trung bình) sau khi test 79.4 cho thấy sự cân bằng tạm thời. Đây là dấu hiệu của giai đoạn markup tiếp tục, smart money vẫn đang kiểm soát và đẩy giá lên từng bước một cách có kiểm soát.
+
 - **Ngày 2025-07-29:** VGI sụt giảm mạnh từ 78.0 xuống 73.2 với đỉnh ngày đạt 79.0 và mức thấp 73.1. Nến giảm có biên độ cực rộng với đuôi dài phía dưới. Khối lượng giao dịch tăng vọt lên 1.668.800 đơn vị.
     - **Phân tích VPA/Wyckoff:** **Shakeout/Spring** - Sau chuỗi tín hiệu tích cực và giai đoạn markup, việc giá test xuống 73.1 (thấp hơn cả vùng tích lũy trước đó) với khối lượng bùng nổ là một động thái shakeout/spring điển hình. Smart money đang thực hiện test cuối cùng để loại bỏ weak hands trước khi tiếp tục xu hướng tăng mạnh mẽ. Việc giá đóng cửa ở 73.2 (gần đáy) sau khi test 79.0 cho thấy áp lực bán dữ dội, nhưng đây có thể là bẫy giá để tạo ra cơ hội mua tốt cho các nhà đầu tư thông minh.
+
+- **Ngày 2025-07-30:** VGI phục hồi từ 73.2 lên 74.2 với đỉnh ngày đạt 75.2 và mức thấp 73.1. Nến tăng có biên độ hẹp và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch giảm mạnh xuống 768.900 đơn vị.
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Shakeout/Spring của phiên trước, việc giá phục hồi từ 73.2 lên 74.2 với khối lượng giảm mạnh cho thấy lực cầu đang từ từ quay trở lại. Việc test lại vùng 73.1 (mức thấp của phiên trước) mà không phá vỡ và có sự phục hồi với khối lượng thấp cho thấy áp lực bán đã giảm đáng kể. Đây là tín hiệu tích cực xác nhận rằng động thái shakeout đã hoàn tất và thị trường sẵn sàng cho giai đoạn markup tiếp theo.

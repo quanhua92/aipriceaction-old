@@ -10,63 +10,94 @@
     -   **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise (Nỗ lực Tăng giá)**, cho thấy lực cầu đã quay trở lại sau các phiên đi ngang. Tuy nhiên, việc giá không giữ được mức cao nhất cho thấy vẫn còn áp lực cung ở phía trên. Đây là một tín hiệu tích cực nhưng vẫn cần xác nhận thêm.
 -   **Ngày 2025-06-18:** VIC tăng nhẹ từ 87.7 lên 88.0. Cây nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Sau nỗ lực tăng giá, phiên tăng chậm lại với khối lượng thấp cho thấy một sự tạm nghỉ. Đây là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+
 - **Ngày 2025-06-19:** VIC tăng mạnh từ 88.0 lên 89.4. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (3.24 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" đã thành công.
+
 - **Ngày 2025-06-20:** VIC giảm mạnh từ 89.4 xuống 86.8. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch tăng vọt (13.29 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Sau chuỗi nỗ lực tăng giá, áp lực bán đã quay trở lại một cách mạnh mẽ, cho thấy sự yếu kém và khả năng điều chỉnh.
+
 - **Ngày 2025-06-23:** VIC tăng vọt từ 86.1 lên 92.8. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (3.86 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
 - **Ngày 2025-06-24:** VIC tăng từ 92.8 lên 95.8. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (3.95 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
 - **Ngày 2025-06-25:** VIC giảm từ 95.8 xuống 95.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.65 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau hai phiên hồi phục trên nền **No Demand**, phiên giảm điểm này cho thấy sự do dự và thiếu động lực. Tình hình vẫn còn rất không chắc chắn.
+
 - **Ngày 2025-06-26:** VIC đi ngang từ 95.0 và đóng cửa tại 95.0. Nến doji có biên độ vừa phải và có bóng trên. Khối lượng giao dịch giảm (1.62 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Nỗ lực tăng trong phiên đã thất bại, và giá đi ngang trên khối lượng thấp cho thấy cả hai phe đều không quyết liệt. Tín hiệu **No Demand** vẫn hiện hữu sau các cú hồi kỹ thuật.
+
 - **Ngày 2025-06-27:** VIC tăng nhẹ từ 95.0 lên 95.5. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (3.02 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Nỗ lực tăng giá trên khối lượng có cải thiện nhưng chưa tạo ra sự bứt phá mạnh mẽ, cho thấy lực cầu vẫn còn dè dặt. Tín hiệu **No Demand** vẫn hiện hữu.
+
 - **Ngày 2025-06-30:** VIC tăng nhẹ từ 95.5 lên 95.6. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.26 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Phiên tăng nhẹ với khối lượng thấp tiếp tục xác nhận sự thiếu vắng động lực. Tín hiệu **No Demand** vẫn hiện hữu.
+
 - **Ngày 2025-07-01:** VIC giảm nhẹ từ 95.7 xuống 95.6. Nến giảm có biên độ rộng và có bóng dưới. Khối lượng giao dịch tăng (2.34 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình hình vẫn không chắc chắn. Phiên giảm nhẹ trên khối lượng tăng cho thấy sự giằng co và áp lực bán nhẹ. Tín hiệu **No Demand** vẫn hiện hữu.
+
 - **Ngày 2025-07-02:** VIC tăng từ 94.3 lên 95.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.09 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các tín hiệu giằng co, phiên tăng nhẹ trên khối lượng thấp này là một **Test for Supply**. Áp lực bán không lớn nhưng lực cầu cũng chưa thực sự mạnh mẽ. Thị trường vẫn trong giai đoạn tích lũy.
+
 - **Ngày 2025-07-03:** VIC giảm từ 95.4 xuống 94.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (1.89 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận phiên "Test for Supply" hôm trước đã thất bại. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VIC giảm từ 94.5 xuống 91.9. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3.98 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Sau các phiên giằng co, áp lực bán đã quay trở lại và chiếm ưu thế, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, phiên hôm nay VIC tăng nhẹ từ 91.9 lên 93.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.96 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VIC tăng nhẹ từ 93.0 lên 93.3. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Effort to Fall** trước đó.
+
 - **Ngày 2025-07-09:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VIC tăng mạnh từ 93.3 lên 95.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (3.28 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VIC tăng vọt từ 95.0 lên 101.6. Cây nến tăng có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (7.09 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận cho sức mạnh của phiên trước và cho thấy phe mua đang kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+
 - **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay VIC tiếp tục tăng vọt từ 101.6 lên 108.0. Cây nến tăng có biên độ rất rộng. Khối lượng giao dịch giảm (4.67 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực.
+
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, VIC tăng từ 108.0 lên 113.0. Cây nến tăng có biên độ rộng với mức cao nhất 115.5. Khối lượng giao dịch tăng (5.56 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ tiếp tục. Việc giá tăng mạnh trên khối lượng tăng cho thấy lực cầu vẫn rất mạnh mẽ và có khả năng tiếp tục xu hướng tăng. Tín hiệu tích cực.
+
 - **Ngày 2025-07-15:** Sau phiên **Effort to Rise** mạnh mẽ, VIC giảm từ 113.0 xuống 111.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.25 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tích cực. Sau chuỗi tăng mạnh, việc giá điều chỉnh nhẹ trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể. Đây là một **Test for Supply** tự nhiên, củng cố cho xu hướng tăng khi lực cầu vẫn kiểm soát được tình hình.
+
 - **Ngày 2025-07-16:** Tiếp nối tín hiệu **No Supply** tích cực, VIC tăng vọt từ 111.0 lên 117.4. Cây nến tăng có biên độ rất rộng với mức cao nhất 118.2. Khối lượng giao dịch tăng nhẹ (3.30 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận rằng phiên test trước đó đã thành công. Lực cầu đã quay trở lại một cách quyết đoán và áp đảo, cho thấy xu hướng tăng được khẳng định mạnh mẽ. Việc giá tăng mạnh trên khối lượng tăng nhẹ cho thấy áp lực bán đã yếu đi đáng kể và phe mua đang kiểm soát hoàn toàn.
+
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, VIC tiếp tục tăng vọt từ 117.4 lên 122.0. Cây nến tăng có biên độ rộng (4.6 điểm) với mức cao nhất 123.3. Khối lượng giao dịch tăng mạnh (6.60 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận sự tiếp tục của xu hướng tăng sau phiên SOS. Lực cầu đã được củng cố với khối lượng giao dịch tăng gấp đôi, cho thấy sự quan tâm mạnh mẽ của nhà đầu tư. Việc giá phá vỡ mức 120.0 và đóng cửa ở vùng cao cho thấy động lực tăng rất mạnh và xu hướng tăng bền vững.
+
 - **Ngày 2025-07-18:** Sau phiên **Effort to Rise** mạnh mẽ, VIC mở cửa cao tại 124.7 nhưng gặp áp lực bán mạnh, giảm xuống 119.0. Cây nến có biên độ rộng (7.2 điểm) với shadow dài cả trên và dưới. Khối lượng giao dịch giảm (6.04 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** sau chuỗi tăng mạnh. Việc mở cửa gap up nhưng gặp áp lực bán chốt lời mạnh cho thấy có sự phân phối (distribution) ở vùng giá cao. Mặc dù đóng cửa vẫn cao hơn mức thấp 117.5, tín hiệu này cảnh báo về khả năng điều chỉnh ngắn hạn sau đợt tăng mạnh. Cần theo dõi các phiên tiếp theo để xác định độ mạnh của áp lực bán.
+
 - **Ngày 2025-07-21:** VIC tiếp tục giảm từ 119.0 xuống 112.0. Cây nến có biên độ rộng (11.8 điểm) với bóng dưới dài (thấp nhất 110.7) và mở cửa tăng gap (120.5). Khối lượng giao dịch giảm (4.31 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Effort to Fall**, phiên giảm mạnh này xác nhận áp lực bán chốt lời đang kiểm soát thị trường. Việc mở cửa gap up nhưng sau đó bị đẩy xuống mạnh cho thấy lực bán đã áp đảo hoàn toàn. Tuy nhiên, bóng dưới dài và khối lượng giảm so với phiên trước cho thấy có lực cầu hỗ trợ ở vùng 110.7. Đây là một tín hiệu **Secondary Test (ST)** sau đợt tăng mạnh, thị trường đang kiểm tra lại độ vững chắc của trend tăng trước đó.
+
 - **Ngày 2025-07-22:** VIC phục hồi mạnh từ 112.0 lên 117.5. Cây nến tăng có biên độ rộng (5.5 điểm) và đóng cửa ở mức cao nhất ngày. Khối lượng giao dịch giảm nhẹ (3.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Secondary Test (ST)** của phiên trước, cú phục hồi mạnh mẽ này là một **Automatic Rally (AR)** rất tích cực. Việc giá mở cửa ngay tại mức đóng cửa phiên trước và tăng thẳng lên 117.5 cho thấy lực cầu đã xuất hiện mạnh mẽ để hỗ trợ sau quá trình test. Mặc dù khối lượng giảm nhẹ, nhưng việc đóng cửa tại đỉnh ngày và phục hồi gần một nửa đà giảm trước đó cho thấy xu hướng tăng chính vẫn được duy trì. Tín hiệu tích cực sau giai đoạn consolidation.
+
 - **Ngày 2025-07-23:** VIC mở cửa gap up tại 119.5 nhưng gặp áp lực bán mạnh, giảm xuống 115.0. Cây nến có biên độ giảm rộng (4.5 điểm) với shadow dài ở phía trên và đóng cửa ở mức thấp nhất ngày. Khối lượng giao dịch giảm xuống 2.8 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Automatic Rally (AR)** tích cực của phiên trước, việc gap up nhưng sau đó bị bán mạnh xuống thấp nhất ngày là một tín hiệu **Test for Supply** có kết quả tiêu cực. Mặc dù khối lượng giảm cho thấy áp lực bán không quá mạnh như các phiên trước, nhưng việc không thể duy trì được mức gap up và đóng cửa ở đáy ngày cho thấy lực cầu đang yếu đi. Đây có thể là một **Secondary Test** khác, cần theo dõi phản ứng của thị trường ở vùng support 115.0 để đánh giá khả năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-24:** VIC tăng từ 115.0 lên 116.0 với biên độ dao động rộng từ 109.7 đến 117.0. Nến có đuôi dài phía dưới cho thấy đã test sâu trước khi phục hồi. Khối lượng giao dịch tăng mạnh (6.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Secondary Test tiêu cực của phiên trước, việc giá test sâu xuống 109.7 (thấp hơn cả vùng 110.7 của ngày 21/7) và phục hồi mạnh về 116.0 với khối lượng gấp đôi cho thấy lực cầu đã xuất hiện mạnh mẽ tại vùng support quan trọng. Đuôi dài phía dưới là dấu hiệu rất tích cực, thể hiện smart money đang tích cực mua vào khi giá test xuống vùng giá trị. Việc đóng cửa trên mức phiên trước và khối lượng bùng nổ xác nhận khả năng VIC đã hoàn tất giai đoạn test và sẵn sàng cho đợt phục hồi mạnh mẽ.
+
 - **Ngày 2025-07-25:** VIC giảm từ 116.0 xuống 114.1 với biên độ dao động từ 113.1 đến 118.0. Nến giảm có biên độ hẹp và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch giảm (3.39 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Test for Demand mạnh mẽ của phiên trước, việc giá test lên vùng 118.0 nhưng đóng cửa thấp hơn với khối lượng giảm từ 6.03M xuống 3.39M cho thấy có áp lực chốt lời nhẹ tại vùng kháng cự. Tuy nhiên, việc giá không giảm sâu dưới 113.1 và khối lượng giảm đáng kể là tín hiệu tích cực, cho thấy áp lực bán không mạnh. Đây là giai đoạn kiểm tra nguồn cung bình thường sau Test for Demand thành công.
+
 - **Ngày 2025-07-28:** VIC tăng từ 114.1 lên 115.6 với biên độ dao động từ 114.1 đến 118.0. Nến tăng có biên độ hẹp và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch giảm nhẹ (3.26 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Supply của phiên trước, việc giá tăng nhẹ và test lại vùng 118.0 với khối lượng tiếp tục giảm từ 3.39M xuống 3.26M cho thấy áp lực bán đã giảm đáng kể. Việc giá có thể test lại vùng kháng cự mà không cần khối lượng lớn xác nhận lực cầu vẫn đang kiểm soát. Tín hiệu No Supply này tích cực, cho thấy VIC đang tạo nền tảng vững chắc sau giai đoạn test và chuẩn bị cho đợt phục hồi tiếp theo.
 
 
 - **Ngày 2025-07-29:** VIC giảm mạnh từ 115.6 xuống 113.2 với mở cửa tại 115.0 và dao động từ 113.0 đến 117.2. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tăng (4.56 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau tín hiệu No Supply tích cực của phiên trước, việc giá giảm mạnh từ 115.6 xuống 113.2 với khối lượng tăng từ 3.26M lên 4.56M cho thấy áp lực bán đã quay trở lại mạnh mẽ. Mặc dù có test lên 117.2 nhưng không thể duy trì và bị đẩy xuống vùng thấp 113.0. Đây là tín hiệu tiêu cực cho thấy lực cầu chưa đủ mạnh để vượt qua vùng kháng cự 117.0-118.0, thị trường có thể tiếp tục điều chỉnh trong ngắn hạn.
+
+- **Ngày 2025-07-30:** VIC tăng từ 113.2 lên 109.5 với biên độ dao động từ 108.1 đến 114.0. Nến giảm có biên độ rộng và mở cửa ở mức cao. Khối lượng giao dịch giảm (4.35 triệu đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Fall của phiên trước, việc giá mở cửa cao ở vùng 113.2 nhưng gặp áp lực bán mạnh và đóng cửa thấp ở 109.5 với khối lượng giảm từ 4.56M xuống 4.35M cho thấy có áp lực bán chốt lời ở vùng cao. Tuy nhiên, việc có thể test lên 114.0 trong phiên và khối lượng giảm cho thấy áp lực bán không quá áp đảo. Đây có thể là giai đoạn kiểm tra nguồn cung sau các phiên điều chỉnh trước đó, cần theo dõi phản ứng ở vùng support 108.1-109.5.

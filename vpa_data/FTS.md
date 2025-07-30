@@ -2,50 +2,75 @@
 
 - **Ngày 2025-06-26:** FTS giảm nhẹ từ 37.6 xuống 37.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.78 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các phiên chốt lời và đi ngang, phiên giảm điểm này cho thấy phe bán vẫn đang kiểm soát. Tín hiệu tiêu cực trong ngắn hạn.
+
 - **Ngày 2025-06-27:** FTS giảm nhẹ từ 37.25 xuống 37.2. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3.02 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giảm điểm, phiên giảm tiếp với khối lượng thấp này là một tín hiệu **No Demand**. Áp lực bán vẫn duy trì và lực cầu yếu. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-06-30:** FTS giảm từ 37.85 xuống 37.7. Tuy nhiên, giá đã cố gắng tăng lên 38.5 nhưng bị bán ngược trở lại, tạo bóng trên rất dài. Khối lượng giao dịch tăng (3.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Up-thrust** hoặc một **Test for Supply** không thành công. Nỗ lực đẩy giá lên đã gặp phải nguồn cung chốt lời mạnh. Việc giá không giữ được mức cao nhất trên khối lượng gia tăng là một dấu hiệu yếu kém, xác nhận tín hiệu **No Demand** của phiên trước.
+
 - **Ngày 2025-07-01:** FTS giảm từ 37.7 xuống 37.25. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.71 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Up-thrust** không thành công, phiên giảm điểm này xác nhận phe bán đang quay trở lại. Đây là một tín hiệu yếu, củng cố khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-02:** FTS tăng vọt từ 37.25 lên 39.85. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (11.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+
 - **Ngày 2025-07-03:** FTS giảm nhẹ từ 39.85 xuống 39.8. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (8.37 triệu đơn vị) so với phiên SOS trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+
 - **Ngày 2025-07-04:** Tiếp nối phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay FTS giảm từ 39.8 xuống 39.4. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (5.1 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** tích cực, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall**, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+
 - **Ngày 2025-07-07:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FTS tăng từ 39.4 lên 39.9. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (5.12 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay FTS giảm từ 39.9 xuống 40.0. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (6.61 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một cú hồi yếu ớt cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-09:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay FTS tăng từ 40.0 lên 40.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (8.44 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay FTS giảm từ 40.5 xuống 40.05. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (5.7 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply** thành công, hôm nay FTS tăng mạnh trở lại từ 40.05 lên 40.9. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (10.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận rằng lực cầu đã hấp thụ hết lực bán chốt lời và sẵn sàng tiếp tục xu hướng tăng. Tín hiệu rất tích cực.
+
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, hôm nay FTS tiếp tục tăng từ 41.05 lên 41.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (6.49 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn, xác nhận rằng lực cầu vẫn đang duy trì mạnh mẽ và tiếp tục xu hướng tăng. Tín hiệu rất tích cực cho thấy khả năng tiếp tục phục hồi.
+
 - **Ngày 2025-07-15:** Sau chuỗi tín hiệu **Effort to Rise** mạnh mẽ, hôm nay FTS giảm từ 42.0 xuống 41.15. Cây nến giảm có biên độ rộng với mức cao 43.25 và thấp 41.1. Khối lượng giao dịch tăng (9.18 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** sau đợt tăng mạnh. Việc giá giảm trên khối lượng tăng cho thấy áp lực bán chốt lời đã xuất hiện mạnh mẽ. Tuy nhiên, việc giá có test lên mức cao 43.25 trước khi giảm cho thấy còn lực cầu, nên đây có thể là nhịp điều chỉnh bình thường.
+
 - **Ngày 2025-07-16:** Sau tín hiệu **Effort to Fall**, FTS phục hồi từ 41.15 lên 41.55. Cây nến tăng có biên độ vừa phải với mức cao 42.05 và thấp 40.75. Khối lượng giao dịch giảm (8.08 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau áp lực bán của phiên trước, việc giá phục hồi trên khối lượng giảm cho thấy lực cầu đã hấp thụ được lực bán và bắt đầu ổn định. Mặc dù khối lượng giảm nhưng khả năng phục hồi cho thấy FTS vẫn có cơ sở vững chắc, đây có thể là dấu hiệu tích cực cho xu hướng tiếp theo.
+
 - **Ngày 2025-07-17:** Sau tín hiệu **Test for Demand**, FTS giảm từ 41.8 xuống 41.15. Cây nến giảm có biên độ rộng với mức cao 42.3 và thấp 41.0. Khối lượng giao dịch giảm tiếp (5.59 triệu đơn vị), giảm 31% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Test for Demand**, việc giá giảm trên khối lượng giảm mạnh cho thấy áp lực bán rất hạn chế. Mặc dù giá có test cao 42.3 trước khi giảm về đóng cửa, nhưng sự thiếu vắng khối lượng bán cho thấy FTS đang trong giai đoạn tích lũy. Sau chuỗi tín hiệu **Effort to Rise** trước đó, đây có thể là dấu hiệu tích cực cho thấy nguồn cung đang cạn kiệt.
+
 - **Ngày 2025-07-18:** Sau tín hiệu **No Supply**, FTS giảm nhẹ từ 41.15 xuống 41.1. Cây nến giảm có biên độ rộng với mức cao 42.15 và mức thấp 40.9. Khối lượng giao dịch tăng mạnh (7.4 triệu đơn vị), tăng 31% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau tín hiệu **No Supply** cho thấy áp lực bán cạn kiệt, việc giá test xuống thấp 40.9 trên khối lượng tăng mạnh cho thấy đây là một cuộc kiểm tra lực cầu. Việc giá có thể phục hồi từ mức thấp và khối lượng tăng cho thấy có lực cầu ở vùng thấp. Sau chuỗi tín hiệu tích cực trước đó, đây có thể là cơ hội tích lũy tốt trước khi FTS tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-21:** FTS giảm mạnh từ 41.1 xuống 40.0. Cây nến giảm có biên độ hẹp với mức cao 41.4 và mức thấp 40.0. Khối lượng giao dịch tăng (8.26 triệu đơn vị), tăng 12% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Demand** của phiên trước, phiên giảm mạnh này trên khối lượng tăng là một tín hiệu **Effort to Fall**. Việc giá không thể giữ được mức cao và bị đẩy xuống mức thấp 40.0 cho thấy áp lực bán đã quay trở lại mạnh mẽ. Cuộc test for demand có vẻ không thành công, lực cầu không đủ mạnh để chống lại áp lực bán. FTS có thể cần thêm thời gian tích lũy ở vùng thấp hơn.
+
 - **Ngày 2025-07-22:** FTS phục hồi từ 40.0 lên 40.7. Cây nến tăng có biên độ vừa phải (1.35 điểm) với mức cao 41.0 và mức thấp 39.65. Khối lượng giao dịch giảm mạnh (5.18 triệu đơn vị), giảm 37% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** mạnh mẽ hôm trước, phiên phục hồi này trên khối lượng giảm đáng kể là tín hiệu **Test for Supply**. Việc giá test cao 41.0 và đóng cửa tại 40.7 cho thấy có sự quan tâm từ lực cầu ở vùng thấp. Khối lượng giảm mạnh 37% cho thấy áp lực bán đã giảm bớt sau đợt bán tháo hôm trước. Đây có thể là dấu hiệu tích cực cho thấy FTS đang bắt đầu hấp thụ lực bán và chuẩn bị cho giai đoạn ổn định.
+
 - **Ngày 2025-07-23:** FTS tiếp tục phục hồi từ 40.7 lên 41.05. Cây nến tăng có biên độ vừa phải (1.3 điểm) với mức cao 41.95 và mức thấp 40.65. Khối lượng giao dịch tăng mạnh (7.99 triệu đơn vị), tăng 54% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** tích cực hôm trước, đây là tín hiệu **Effort to Rise**. Việc giá tiếp tục phục hồi trên khối lượng tăng mạnh 54% cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn test. Mức cao 41.95 trong phiên cao hơn đáng kể so với mức đóng cửa, thể hiện sự quan tâm tích cực từ nhà đầu tư. Sự kết hợp giữa hành động giá tích cực và khối lượng gia tăng xác nhận rằng FTS đang thoát khỏi giai đoạn điều chỉnh và có thể tiếp tục xu hướng phục hồi.
+
 - **Ngày 2025-07-24:** FTS giảm từ 41.05 xuống 40.5. Cây nến giảm có biên độ vừa phải (1.15 điểm) với mức cao 41.35 và mức thấp 40.2. Khối lượng giao dịch giảm (5.56 triệu đơn vị), giảm 30% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, đây là tín hiệu **Test for Supply**. Việc giá giảm nhẹ trên khối lượng giảm đáng kể cho thấy áp lực bán chốt lời không mạnh sau đợt phục hồi. Mức cao 41.35 vẫn cao hơn mức đóng cửa hôm trước (41.05), thể hiện lực cầu còn hiện hữu ở đầu phiên. Khối lượng giảm 30% xác nhận đây là nhịp điều chỉnh kỹ thuật bình thường sau tín hiệu tăng trưởng, tạo điều kiện cho FTS tiếp tục xu hướng phục hồi.
+
 - **Ngày 2025-07-25:** FTS tăng mạnh từ 40.5 lên 41.8. Cây nến tăng có biên độ rộng với mức dao động 40.6-42.4. Khối lượng giao dịch tăng vọt lên 10.13 triệu đơn vị, tăng 82% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ sau phiên **Test for Supply** thành công. Việc giá tăng mạnh và test cao 42.4 trên khối lượng bùng nổ (tăng 82%) cho thấy lực cầu đã quay trở lại một cách quyết đoán. Sự kết hợp giữa gap tăng và khối lượng khổng lồ xác nhận có dòng tiền lớn đang chảy vào FTS, báo hiệu xu hướng tăng mạnh sắp tới.
+
 - **Ngày 2025-07-28:** FTS tăng vọt với gap lên từ 41.8 lên 44.1. Cây nến tăng có biên độ rộng với mức dao động 42.8-44.5. Khối lượng giao dịch cao ở mức 9.58 triệu đơn vị, duy trì gần mức của phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp diễn, xác nhận hoàn hảo cho tín hiệu của phiên trước. Việc gap lên mạnh mẽ và duy trì khối lượng cao cho thấy lực cầu đã chiếm ưu thế tuyệt đối. Mức cao 44.5 trong phiên thể hiện sự quan tâm mạnh mẽ liên tục từ nhà đầu tư. FTS đã chính thức bước vào giai đoạn mark-up sau khi thoát khỏi vùng tích lũy, xu hướng tăng mạnh được xác nhận tiếp tục.
+
 - **Ngày 2025-07-29:** FTS giảm mạnh từ 45.1 xuống 41.05. Cây nến giảm có biên độ rất rộng với mức mở cửa 45.1 và dao động trong khoảng 41.05-45.1. Khối lượng giao dịch tăng vọt lên 12.86 triệu đơn vị, tăng 34% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** cực kỳ mạnh mẽ, hoàn toàn phủ nhận chuỗi tín hiệu **SOS** trước đó. Việc giá giảm mạnh 9% và đóng cửa tại mức thấp nhất phiên (41.05) trên khối lượng tăng vọt cho thấy áp lực bán áp đảo đã xuất hiện. Sự vắng mặt hoàn toàn của bóng dưới thể hiện không có lực cầu nào xuất hiện để đỡ giá trong suốt phiên. Tín hiệu này phủ nhận hoàn toàn giai đoạn mark-up và chuỗi **SOS** mạnh mẽ trước đó, cảnh báo mạnh mẽ rằng FTS đang quay trở lại xu hướng giảm với độ mạnh cực cao trong ngắn hạn.
 
+- **Ngày 2025-07-30:** Giá giảm từ 41.0 xuống 40.9. Nến giảm với thân nến 0.5%. Khối lượng 7.5 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. 

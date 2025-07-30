@@ -14,11 +14,18 @@
 
 - **Ngày 2025-07-23:** TCH mở cửa tại 24.95 (gap up) và đóng cửa tại 24.95 (+1.42%), tăng 0.35 điểm so với ngày trước. Thanh nến xanh có spread rộng 1.6 điểm (từ 24.5 đến 26.1), spread tăng đáng kể. Khối lượng bùng nổ lên 11.053.318 cổ phiếu, tăng 45.7% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Nến xanh mạnh với spread rộng kết hợp volume bùng nổ cho thấy có dòng tiền lớn đổ vào. Gap up kèm theo khối lượng cao và giá duy trì gần mức đóng cửa khẳng định xu hướng tăng mạnh, có thể bước vào giai đoạn markup.
+
 - **Ngày 2025-07-24:** TCH tăng từ 24.95 lên 25.25 (+1.20%). Nến xanh có spread hẹp 0.75 điểm (từ 24.55 đến 25.3). Khối lượng giảm mạnh xuống 6.577.300 cổ phiếu, giảm 40.5% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá tiếp tục tăng nhưng với khối lượng giảm cho thấy áp lực bán chốt lời đã xuất hiện. Tuy nhiên, việc giá vẫn đóng cửa gần mức cao nhất phiên là dấu hiệu tích cực, cho thấy nguồn cung vẫn hạn chế.
+
 - **Ngày 2025-07-25:** TCH tăng từ 25.4 lên 25.6 (+1.39%). Nến xanh có spread hẹp 0.75 điểm (từ 24.95 đến 25.7). Khối lượng tăng lên 7.876.800 cổ phiếu, tăng 19.8% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, hành động giá hôm nay cho thấy **No Supply** nhẹ. Việc giá tiếp tục tăng với khối lượng cải thiện cho thấy áp lực bán đã giảm bớt và lực cầu bắt đầu quay trở lại. Triển vọng tích cực cho xu hướng tăng tiếp theo.
+
 - **Ngày 2025-07-28:** TCH tăng mạnh từ 26.0 lên 26.4 (+3.13%). Nến xanh có spread rộng 1.3 điểm (từ 25.75 đến 27.05) và đóng cửa mạnh. Khối lượng tăng lên 10.436.100 cổ phiếu, tăng 32.4% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** của phiên trước, hành động giá hôm nay xác nhận **Sign of Strength** mạnh mẽ. Việc giá gap up và test cao lên 27.05 với khối lượng tăng đáng kể cho thấy smart money đã can thiệp quyết đoán. Sự kết hợp giữa spread rộng, đóng cửa mạnh và volume tăng khẳng định xu hướng tăng mạnh mẽ đã được kích hoạt sau giai đoạn SOS trước đó.
+
 - **Ngày 2025-07-29:** TCH giảm mạnh từ 26.5 xuống 24.6 (-6.82%), giảm 1.8 điểm so với ngày trước. Thanh nến đỏ có spread rộng 1.9 điểm (từ 24.6 đến 26.5) với đóng cửa ở mức thấp nhất ngày. Khối lượng bùng nổ lên 21.247.200 cổ phiếu, tăng 103% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** **Selling Climax** - Sau tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, hành động giá hôm nay cho thấy áp lực bán panic đã xuất hiện. Nến đỏ rộng kết hợp volume bùng nổ gấp đôi cho thấy có sự xả hàng mạnh từ weak hands, tuy nhién việc volume tăng đột biến trong một ngày giảm mạnh như vậy có thể báo hiệu giai đoạn selling climax trước khi có sự phục hồi.
+
+- **Ngày 2025-07-30:** TCH giảm mạnh -3.25% lên 23.80. nến đỏ với bóng trên/dưới, phạm vi dao động 1.60 (6.72%). Giao dịch với khối lượng giảm xuống 0.8 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tín hiệu hỗn hợp. Tín hiệu chưa rõ ràng, cần theo dõi thêm các phiên tiếp theo.

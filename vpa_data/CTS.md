@@ -14,11 +14,18 @@
 
 - **Ngày 2025-07-23:** CTS mở cửa tại 35.95 (gap up tiếp) và đóng cửa tại 36.8 (+6.98%), tăng tiếp 2.4 điểm. Thanh nến xanh có spread nhỏ 1.0 điểm (từ 35.8 đến 36.8), spread thu hẹp mạnh. Khối lượng tăng lên 6.619.340 cổ phiếu (+72.5%).
     - **Phân tích VPA/Wyckoff:** **Buying Climax** - Gap up liên tiếp với giá tăng mạnh nhưng spread thu hẹp và volume tăng đột biến có thể là dấu hiệu của buying climax. Cần cẩn trọng với khả năng có profit-taking mạnh trong các phiên tới, CTS có thể cần điều chỉnh sau đợt tăng mạnh 3 ngày liên tiếp.
+
 - **Ngày 2025-07-24:** CTS mở cửa tại 38.35 (gap up mạnh tiếp) và đóng cửa tại 38.15 (+3.67%), tăng 1.35 điểm. Thanh nến đỏ có spread 1.35 điểm (từ 37.0 đến 38.35), spread tương đối rộng. Khối lượng giảm về 3.628.200 cổ phiếu (-45.2%).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau dấu hiệu buying climax, giá mở cao nhưng đóng cửa thấp hơn với volume giảm mạnh. Đây là phiên test cung sau đợt tăng mạnh, việc volume giảm trong phiên điều chỉnh là tín hiệu tích cực cho thấy áp lực bán không lớn.
+
 - **Ngày 2025-07-25:** CTS tăng mạnh từ 38.15 lên 40.7. Cây nến tăng có biên độ rộng với mức mở cửa 37.5 và dao động trong khoảng 37.5-40.8. Khối lượng giao dịch bùng nổ lên 7.87 triệu đơn vị, tăng gấp 2.2 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Tín hiệu Sức mạnh** xuất hiện. Sau phiên **Test for Supply** tích cực, khối lượng bùng nổ kèm theo giá tăng mạnh cho thấy lực cầu đã quay trở lại mạnh mẽ. Việc giá đóng cửa gần mức high của phiên thể hiện áp lực mua áp đảo. Đây là tín hiệu rất tích cực cho xu hướng tăng tiếp tục.
+
 - **Ngày 2025-07-28:** CTS tăng từ 40.7 lên 42.5. Cây nến tăng có biên độ rộng với mức mở cửa 41.9 và dao động trong khoảng 41.5-43.5. Khối lượng giao dịch giảm về 4.27 triệu đơn vị, giảm 46% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá tiếp tục tăng với khối lượng giảm cho thấy áp lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận xu hướng tăng được củng cố mạnh mẽ và có tiềm năng tiếp tục tăng trong các phiên tới khi không còn áp lực cung ở vùng giá cao này.
+
 - **Ngày 2025-07-29:** CTS sụt giảm mạnh từ 42.5 xuống 39.55. Cây nến giảm có biên độ cực rộng với mức mở cửa 43.35 và low 39.55, đóng cửa ở mức thấp nhất phiên. Khối lượng giao dịch bùng nổ lên 8.72 triệu đơn vị, tăng gấp 2.0 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Weakness (SOW)** mạnh mẽ xuất hiện. Sau tín hiệu **No Supply** tích cực của phiên trước, việc giá mở cửa cao hơn (43.35) nhưng bị đẩy xuống thảm hại với khối lượng bùng nổ cho thấy áp lực bán đã trở nên áp đảo. Việc đóng cửa ở mức thấp nhất phiên (39.55) với khối lượng khổng lồ xác nhận panic selling đã xảy ra. Đây là tín hiệu cực kỳ tiêu cực, phủ nhận hoàn toàn xu hướng tăng trước đó và cảnh báo về xu hướng giảm mạnh trong ngắn hạn.
+
+- **Ngày 2025-07-30:** CTS phục hồi từ 39.55 lên 40.5. Cây nến tăng có biên độ rộng với mức high 41.0 và low 37.05. Khối lượng giao dịch giảm về 6.52 triệu đơn vị, giảm 25% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Sau tình trạng **Sign of Weakness** cực mạnh của phiên trước, hôm nay là tín hiệu **Test for Demand** với việc giá phục hồi nhưng khối lượng giảm đáng kể. Việc giá test xuống vùng thấp 37.05 nhưng đóng cửa cao hơn cho thấy có lực cầu xuất hiện ở vùng thấp. Tuy nhiên, khối lượng giảm so với đợt panic selling trước đó cho thấy lực cầu chưa đủ mạnh để đảo ngược hoàn toàn xu hướng.

@@ -6,63 +6,94 @@
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, phủ nhận tín hiệu "No Demand" trước đó và cho thấy tiềm năng phục hồi.
 -   **Ngày 2025-06-18:** HDG giảm từ 25.1 xuống 24.85. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (2.16 triệu đơn vị) so với phiên tăng mạnh trước.
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau nỗ lực tăng giá. Áp lực bán chốt lời đã xuất hiện nhưng không quá mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh lành mạnh.
+
 - **Ngày 2025-06-19:** HDG tăng từ 24.85 lên 24.85. Nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (3.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại mạnh mẽ.
+
 - **Ngày 2025-06-20:** HDG tăng vọt từ 24.85 lên 25.95. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng vọt (8.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau các phiên kiểm tra cung thành công, lực mua đã quay trở lại một cách áp đảo, xác nhận xu hướng tăng.
+
 - **Ngày 2025-06-23:** HDG tăng từ 25.5 lên 25.7. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.79 triệu đơn vị) so với phiên SOS.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt.
+
 - **Ngày 2025-06-24:** HDG tăng mạnh từ 25.7 lên 26.2. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (8.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "Test for Supply" đã thành công.
+
 - **Ngày 2025-06-25:** HDG giảm từ 26.2 xuống 25.85. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (2.92 triệu đơn vị) so với phiên tăng mạnh trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise" mạnh. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo.
+
 - **Ngày 2025-06-26:** HDG giảm từ 25.85 xuống 25.55. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (3.87 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall** nhẹ, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+
 - **Ngày 2025-06-27:** HDG giảm từ 25.55 xuống 25.15. Nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (3.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ, phiên giảm điểm tiếp theo trên khối lượng không đổi xác nhận áp lực bán vẫn còn. Tình hình vẫn tiêu cực, thị trường cần thêm thời gian để hấp thụ cung.
+
 - **Ngày 2025-06-30:** HDG tăng từ 25.15 lên 25.35. Nến tăng có biên độ vừa phải. Khối lượng giao dịch không đổi (3.9 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên điều chỉnh, lực cầu đã quay trở lại, cho thấy khả năng xu hướng tăng sẽ tiếp diễn.
+
 - **Ngày 2025-07-01:** HDG giảm từ 25.35 xuống 25.05. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (4.46 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho các tín hiệu yếu kém của các phiên trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+
 - **Ngày 2025-07-02:** HDG tăng từ 25.05 lên 25.5. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (4.16 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-03:** HDG giảm từ 25.5 xuống 25.3. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.44 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Áp lực bán dù nhỏ vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Demand** của phiên trước, phiên hôm nay HDG tăng nhẹ từ 25.3 lên 25.35. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch không đổi (3.37 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
+
 - **Ngày 2025-07-07:** Sau phiên đi ngang xác nhận sự yếu kém của lực cầu, phiên hôm nay HDG tăng từ 25.55 lên 25.6. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (3.01 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay HDG tăng nhẹ từ 25.6 lên 25.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (3.75 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+
 - **Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay HDG giảm từ 25.8 xuống 25.7. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (5.44 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay HDG giảm từ 25.7 lên 25.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (4.33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay HDG giảm tiếp từ 25.6 xuống 25.2. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (6.01 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
+
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay HDG tăng từ 25.1 lên 25.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (7.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy khả năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise**, hôm nay HDG tăng nhẹ từ 25.7 lên 25.75. Cây nến tăng có biên độ hẹp với mức cao 26.35. Khối lượng giao dịch giảm (6.26 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Việc giá có test lên mức cao 26.35 nhưng đóng cửa gần mức mở với khối lượng giảm cho thấy áp lực bán chốt lời không mạnh. Sau tín hiệu **Effort to Rise** trước đó, đây là nhịp điều chỉnh bình thường và tín hiệu vẫn tích cực.
+
 - **Ngày 2025-07-16:** Sau tín hiệu **Test for Supply** tích cực, HDG tăng mạnh từ 25.95 lên 26.45. Cây nến tăng có biên độ rộng với mức cao 27.4 và thấp 25.8. Khối lượng giao dịch tăng (7.53 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau **Test for Supply** thành công, lực cầu đã quay trở lại quyết đoán với khối lượng tăng. Việc giá có test lên mức cao 27.4 cho thấy sức mạnh của breakout. Tiếp nối chuỗi tín hiệu tích cực trước đó, đây là xác nhận mạnh mẽ cho xu hướng tăng của HDG.
+
 - **Ngày 2025-07-17:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ, HDG tăng vọt từ 26.8 lên 28.2. Cây nến tăng có biên độ rất rộng với mức cao 28.3 và thấp 26.5. Khối lượng giao dịch tăng vọt (16.76 triệu đơn vị), tăng 123% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau **Effort to Rise** hôm trước, việc giá tăng vọt với khối lượng bùng nổ cho thấy HDG đã chính thức breakout và bước vào xu hướng tăng mạnh. Việc giá có thể duy trì gần mức cao nhất (28.3) cho thấy lực cầu rất mạnh. Tiếp nối chuỗi tín hiệu tích cực trước đó, đây là xác nhận mạnh mẽ nhất cho xu hướng tăng dài hạn của HDG.
+
 - **Ngày 2025-07-18:** Sau tín hiệu **Sign of Strength (SOS)** mạnh mẽ, HDG giảm từ 28.2 xuống 27.75. Cây nến giảm có biên độ rộng với mức cao 29.1 và mức thấp 27.5. Khối lượng giao dịch giảm mạnh (6.34 triệu đơn vị), giảm 62% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Sign of Strength (SOS)** mạnh mẽ, việc giá có test lên mức cao 29.1 nhưng giảm về 27.75 trên khối lượng giảm mạnh cho thấy áp lực bán chốt lời đã xuất hiện. Tuy nhiên, việc khối lượng giảm đáng kể là dấu hiệu tích cực, cho thấy áp lực bán không quá mạnh. Sau chuỗi **SOS** trước đó, đây là nhịp điều chỉnh bình thường và HDG vẫn duy trì ở mức giá cao.
+
 - **Ngày 2025-07-21:** HDG giảm mạnh từ 27.75 xuống 26.65. Cây nến giảm có biên độ rộng với mức cao 28.15 và mức thấp 26.65. Khối lượng giao dịch tăng mạnh (12.01 triệu đơn vị), tăng 89% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall**. Sau tín hiệu **Test for Supply** trước đó, việc giá giảm mạnh trên khối lượng tăng gấp đôi cho thấy áp lực bán đã quay trở lại mạnh mẽ. Mặc dù giá có test lên mức cao 28.15 trước khi giảm, nhưng việc giá bị đẩy xuống mức thấp 26.65 cho thấy lực bán đang chiếm ưu thế. Sau chuỗi **Sign of Strength (SOS)** trước đó, HDG có thể cần thêm thời gian consolidation ở vùng giá thấp hơn.
+
 - **Ngày 2025-07-22:** HDG phục hồi từ 26.65 lên 27.3. Cây nến tăng có biên độ rộng (1.2 điểm) với mức cao 27.35 và mức thấp 26.15. Khối lượng giao dịch giảm mạnh (6.77 triệu đơn vị), giảm 44% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand**. Sau tín hiệu **Effort to Fall** mạnh mẽ hôm trước, việc giá phục hồi trên khối lượng giảm đáng kể cho thấy lực cầu đang cố gắng hấp thụ lực bán. Việc giá có test xuống thấp 26.15 trước khi phục hồi lên 27.3 và khối lượng giảm 44% cho thấy áp lực bán đã giảm bớt. Sau chuỗi **Sign of Strength (SOS)** trước đó, HDG có thể đang trong giai đoạn test và tìm kiếm vùng cân bằng mới.
+
 - **Ngày 2025-07-23:** HDG tăng từ 27.3 lên 28.1. Cây nến tăng có biên độ rộng (1.3 điểm) với mức cao 28.4 và mức thấp 27.1. Khối lượng giao dịch tăng mạnh (10.42 triệu đơn vị), tăng 54% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau tín hiệu **Test for Demand** tích cực hôm trước, việc giá tăng mạnh với khối lượng bùng nổ tăng 54% cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá test lên mức cao 28.4 và đóng cửa tại 28.1 thể hiện sức mạnh của đà phục hồi. Sau giai đoạn test thành công, HDG đã xác nhận rằng lực cầu đã vượt trội và sẵn sàng tiếp tục xu hướng tăng, phủ nhận hoàn toàn tín hiệu **Effort to Fall** trước đó.
+
 - **Ngày 2025-07-24:** HDG giảm nhẹ từ 28.1 xuống 28.05. Cây nến giảm có biên độ hẹp với mức dao động 27.75-28.4. Khối lượng giao dịch giảm mạnh (5.67 triệu đơn vị), giảm 46% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau Effort to Rise. Việc giá giảm nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán không lớn.
+
 - **Ngày 2025-07-25:** HDG giảm nhẹ từ 28.05 xuống 28.0. Cây nến giảm có biên độ vừa phải với mức dao động 27.65-28.8. Khối lượng giao dịch tăng (7.77 triệu đơn vị), tăng 37% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp diễn. Việc giá có test cao 28.8 cho thấy vẫn có lực cầu ở vùng cao.
+
 - **Ngày 2025-07-28:** HDG tăng từ 28.0 lên 29.0. Cây nến tăng có biên độ rộng với mức dao động 28.25-29.5. Khối lượng giao dịch tăng (8.86 triệu đơn vị), tăng 14% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ sau giai đoạn Test for Supply. Việc giá tăng 1 điểm và test cao 29.5 cho thấy lực cầu đã thắng thế.
+
 - **Ngày 2025-07-29:** HDG giảm mạnh từ 29.25 xuống 27.0. Cây nến giảm có biên độ rất rộng với mức cao 29.25 và mức thấp 27.0. Khối lượng giao dịch tăng nhẹ lên 9.66 triệu đơn vị, tăng 9% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** mạnh mẽ sau phiên **Effort to Rise**. Việc giá có test lên mức cao 29.25 (gần mức cao của phiên trước) nhưng sau đó giảm mạnh xuống 27.0 với biên độ 2.25 điểm cho thấy áp lực bán chốt lời đã xuất hiện mạnh mẽ ở vùng kháng cự. Khối lượng tăng nhẹ 9% cho thấy sự giằng co giữa cung và cầu. Sau chuỗi Effort to Rise trước đó, đây có thể là nhịp test cần thiết để thị trường hấp thụ nguồn cung trước khi tiếp tục xu hướng tăng.
 
 
+- **Ngày 2025-07-30:** Giá giảm từ 27.0 xuống 26.9. Nến giảm với thân nến 0.6%. Khối lượng 6.7 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. 

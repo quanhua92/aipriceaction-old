@@ -14,12 +14,17 @@
 
 - **Ngày 2025-07-23:** HDC mở cửa tại 31.25 (gap up) và đóng cửa tại 32.2 (+4.21%), tăng mạnh 1.3 điểm. Thanh nến xanh có spread 1.6 điểm (từ 30.6 đến 32.2), cho thấy xu hướng tăng mạnh. Khối lượng bùng nổ lên 11.413.817 cổ phiếu, tăng 49.1% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Gap up kết hợp với volume bùng nổ tăng 49% và giá tăng mạnh 4.21% cho thấy smart money đang tích cực markup. Đây là breakout mạnh mẽ khỏi vùng tích lũy.
+
 - **Ngày 2025-07-24:** HDC tăng từ 32.2 lên 32.95. Cây nến tăng có biên độ rộng với mức cao 33.4 và mức thấp 32.0. Khối lượng giao dịch giảm (7.48 triệu đơn vị), giảm 34% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau SOS. Việc giá vẫn tăng nhưng khối lượng giảm cho thấy consolidation bình thường sau breakout.
+
 - **Ngày 2025-07-25:** HDC tăng nhẹ từ 32.95 lên 33.0. Cây nến tăng có biên độ vừa phải với mức cao 33.45 và mức thấp 32.4. Khối lượng giao dịch tăng nhẹ (7.91 triệu đơn vị), tăng 6% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** nhẹ. Việc giá test cao 33.45 và khối lượng tăng trở lại cho thấy lực cầu quay trở lại sau giai đoạn test.
+
 - **Ngày 2025-07-28:** HDC tăng mạnh từ 33.0 lên 34.75. Cây nến tăng có biên độ rộng với mức cao 35.0 và mức thấp 33.1. Khối lượng giao dịch giảm (6.53 triệu đơn vị), giảm 17% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp diễn. Việc giá tăng mạnh 1.75 điểm và test cao 35.0 cho thấy HDC đang trong giai đoạn markup mạnh mẽ.
+
 - **Ngày 2025-07-29:** HDC giảm mạnh từ 34.9 xuống 32.35. Cây nến giảm có biên độ rất rộng với mức cao 34.9 và mức thấp 32.35. Khối lượng giao dịch tăng vọt lên 16.74 triệu đơn vị, tăng 156% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** sau chuỗi **Sign of Strength (SOS)** mạnh mẽ. Việc giá có test gần mức cao 34.9 nhưng sau đó giảm sập xuống 32.35 với biên độ 2.55 điểm và khối lượng bùng nổ tăng 156% cho thấy áp lực chốt lời khổng lồ đã xuất hiện ở vùng đỉnh. Mặc dù đây là tín hiệu tiêu cực trong ngắn hạn, nhưng sau chuỗi SOS mạnh mẽ trước đó, đây có thể là nhịp shakeout cần thiết để loại bỏ tay yếu trước khi tiếp tục xu hướng tăng dài hạn.
-    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Gap up kết hợp với nến xanh mạnh và volume bùng nổ cho thấy có dòng tiền lớn đổ vào. Giá vượt qua vùng kháng cự 31.0-32.0 một cách thuyết phục, HDC có thể đã bước vào giai đoạn markup với potential target cao hơn.
+    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Gap up kết hợp với nến xanh mạnh và volume bùng nổ cho thấy có dòng tiền lớn đổ vào. Giá vượt qua vùng kháng cự 31.0-32.0 một cách thuyết phục, HDC có thể đã bước vào giai đoạn markup với potential target cao hơn.- **Ngày 2025-07-30:** Giá tăng từ 32.4 lên 32.7. Nến tăng với thân nến 1.1%. Khối lượng 8.8 triệu cổ phiếu.
+    - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.

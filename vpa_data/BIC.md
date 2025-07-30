@@ -2,28 +2,40 @@
 
 - **Ngày 2025-06-27:** BIC tăng vọt từ 37.6 lên 38.7. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (142.6k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá.
+
 - **Ngày 2025-06-30:** BIC tăng nhẹ từ 38.7 lên 38.9. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch giảm mạnh (27.1k đơn vị) so với phiên bùng nổ trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise" mạnh. Áp lực bán đã xuất hiện nhưng không lớn (thể hiện qua khối lượng giảm). Đây là một nhịp điều chỉnh bình thường và chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-01:** BIC tăng mạnh từ 38.9 lên 39.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng nhẹ (36.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên "Test for Supply" hôm trước đã thành công. Lực cầu đã quay trở lại, củng cố cho xu hướng tăng.
+
 - **Ngày 2025-07-02:** BIC tăng từ 39.5 lên 39.8. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (72.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận cho các nỗ lực tăng giá trước đó. Lực cầu vẫn duy trì tốt.
+
 - **Ngày 2025-07-03:** BIC giảm từ 39.8 xuống 39.7. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (56.9k đơn vị) so với phiên tăng trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên giảm điểm với khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, cho thấy xu hướng tăng có thể tiếp diễn.
+
 - **Ngày 2025-07-04:** Sau phiên **Test for Supply** tích cực của ngày hôm trước, phiên hôm nay BIC giảm nhẹ từ 39.7 xuống 39.6. Cây nến có biên độ hẹp. Khối lượng giao dịch cạn kiệt (11.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)**. Việc giá chỉ giảm nhẹ trên khối lượng cực thấp cho thấy áp lực bán gần như không còn, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+
 - **Ngày 2025-07-07:** Tiếp nối tín hiệu **No Supply (Không có Nguồn cung)** của phiên trước, phiên hôm nay BIC tăng nhẹ từ 39.6 lên 39.65. Cây nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (18.3k đơn vị) nhưng vẫn ở mức cạn kiệt.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** trên nền **No Supply**. Sau khi áp lực bán cạn kiệt, phe mua đã dễ dàng đẩy giá lên. Đây là một tín hiệu rất tích cực, củng cố cho khả năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-08:** Sau tín hiệu **Effort to Rise** trên nền **No Supply**, phiên hôm nay BIC giảm từ 39.65 xuống 39.45. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (55.5k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, cho thấy áp lực bán đã quay trở lại sau chuỗi ngày tăng giá. Tín hiệu này cảnh báo về một đợt điều chỉnh có thể xảy ra.
+
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay BIC tiếp tục giảm từ 39.45 xuống 39.1. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (44.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này cho thấy áp lực bán đã suy yếu. Đây có thể là một phiên **Test for Supply**. Mặc dù chưa phải là tín hiệu đảo chiều, nhưng nó cho thấy đà giảm đang chững lại.
+
 - **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay BIC tiếp tục giảm từ 39.1 xuống 38.75. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (45.4k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** nhẹ. Áp lực bán vẫn còn hiện hữu, tuy nhiên không quá mạnh, cho thấy thị trường vẫn đang trong giai đoạn điều chỉnh.
+
 - **Ngày 2025-07-11:** Sau các phiên điều chỉnh, hôm nay BIC tăng từ 38.75 lên 38.9. Cây nến tăng có biên độ tốt và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (59.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Lực cầu đã quay trở lại sau các phiên kiểm tra cung, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-14:** Sau phiên **Effort to Rise**, hôm nay BIC giảm từ 38.9 xuống 38.45. Cây nến giảm có biên độ rộng với low thấp 38.0. Khối lượng giao dịch tăng (68.0k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test xuống thấp nhưng khối lượng tăng cho thấy có sự quan tâm tại các mức giá thấp. Tiếp nối tín hiệu Effort to Rise trước đó, đây có thể là test cuối cùng trước khi phục hồi.
+
 - **Ngày 2025-07-15:** Sau tín hiệu **Test for Supply**, hôm nay BIC giảm nhẹ từ 38.25 xuống 38.25. Cây nến có biên độ hẹp với mức thấp 37.9. Khối lượng giao dịch tăng (88.6k đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Việc giá test xuống thấp nhưng có thể duy trì và khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện tại vùng giá thấp. Tiếp nối các tín hiệu test trước đó, đây có thể là dấu hiệu của một đáy ngắn hạn.
 
@@ -54,4 +66,5 @@
 - **Ngày 2025-07-29:** BIC mở cửa gap lên mạnh từ 41.3 lên 42.6 và đạt mức cao nhất phiên tại 43.0, tuy nhiên sau đó giảm mạnh và đóng cửa tại 40.9. Cây nến có biên độ rất rộng với bóng trên cực dài, thể hiện sự đảo chiều mạnh mẽ từ vùng cao. Khối lượng giao dịch bùng nổ lên 277.6k đơn vị, tăng gấp 2.7 lần so với phiên **Effort to Rise** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Buying Climax (Cao trào Mua)** điển hình xuất hiện sau chuỗi tín hiệu tăng mạnh liên tiếp. Việc giá gap lên cao và chạm đỉnh mới tại 43.0 trên khối lượng kỷ lục nhưng bị bán tháo mạnh ngay trong phiên, đóng cửa thấp hơn đáng kể so với mức cao (40.9 vs 43.0), cho thấy đã xuất hiện một lượng cung khổng lồ từ "dòng tiền thông minh" đang chốt lời. Khối lượng 277.6k là mức cao nhất trong nhiều tháng, kết hợp với việc tạo bóng trên cực dài là dấu hiệu cảnh báo mạnh mẽ về khả năng kết thúc giai đoạn tăng giá ngắn hạn. Tín hiệu này có thể đánh dấu một điểm chuyển hướng quan trọng, báo hiệu BIC cần thời gian để consolidate hoặc có thể bước vào giai đoạn điều chỉnh sau chuỗi tăng mạnh từ đầu tháng 7.
 
-
+- **Ngày 2025-07-30:** Giá tăng 1.8 điểm (4.3%). nến xanh với spread trung bình. khối lượng thấp giảm 68.0%.
+    - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.

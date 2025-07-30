@@ -6,52 +6,76 @@
     -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Giá tăng dứt khoát với khối lượng lớn cho thấy lực mua áp đảo, báo hiệu một xu hướng tăng mạnh có thể đang bắt đầu.
 -   **Ngày 2025-06-18:** DPM giảm nhẹ từ 38.55 xuống 38.3. Nến có biên độ hẹp và có bóng trên. Khối lượng giao dịch giảm mạnh (7,109,034 đơn vị) so với phiên bùng nổ SOS.
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên SOS. Áp lực bán đã xuất hiện nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một tín hiệu tích cực, cho thấy có thể chỉ là một nhịp nghỉ trong một xu hướng tăng mạnh.
+
 - **Ngày 2025-06-19:** DPM tăng nhẹ từ 38.5 lên 38.7. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (6,385,989 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" hôm trước, phiên tăng nhẹ này cho thấy lực cầu đang quay trở lại nhưng chưa thực sự mạnh mẽ. Tình hình vẫn đang giằng co.
+
 - **Ngày 2025-06-20:** DPM giảm từ 38.7 xuống 38.35. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3,110,747 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh, phiên giảm điểm trên khối lượng thấp này là một **Test for Supply** tích cực. Áp lực bán không lớn, xu hướng tăng có khả năng tiếp diễn.
+
 - **Ngày 2025-06-23:** DPM giảm từ 38.7 xuống 38.1. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng vọut (8,395,231 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**. Áp lực bán đã xuất hiện và áp đảo, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-06-24:** DPM tăng từ 37.7 lên 38.1. Nến tăng có biên độ vừa phải, có bóng trên và dưới. Khối lượng giao dịch giảm (5,138,463 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên giảm mạnh, phiên phục hồi yếu ớt này là tín hiệu **No Demand**. Lực cầu chưa đủ mạnh để đảo ngược tình thế.
+
 - **Ngày 2025-06-25:** DPM giảm từ 37.9 xuống 37.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm nhẹ (4,742,296 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **SOW** và **No Demand**, phiên giảm điểm này xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-06-26:** DPM tăng mạnh từ 37.55 lên 38.0. Nến tăng có biên độ rộng. Khối lượng giao dịch giảm (3,503,028 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày tiêu cực, phiên tăng giá này có thể là một cú hồi kỹ thuật. Tuy nhiên, khối lượng thấp cho thấy đây là một tín hiệu **No Demand**, lực cầu chưa quay trở lại một cách thuyết phục.
+
 - **Ngày 2025-06-27:** DPM giảm từ 38.3 xuống 37.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2,586,875 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau cú hồi kỹ thuật **No Demand**, phiên giảm điểm này xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực và thị trường có khả năng điều chỉnh tiếp.
+
 - **Ngày 2025-06-30:** DPM tăng mạnh từ 37.9 lên 38.5. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (3,894,791 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu tiêu cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán.
+
 - **Ngày 2025-07-01:** DPM giảm từ 38.7 xuống 38.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3,710,974 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise". Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+
 - **Ngày 2025-07-02:** DPM tăng từ 38.3 lên 38.8. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (4,454,691 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, xác nhận phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại mạnh mẽ.
+
 - **Ngày 2025-07-03:** DPM giảm từ 38.8 xuống 38.5. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (5,407,406 đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm điểm với khối lượng gia tăng này cho thấy áp lực bán đang quay trở lại. Đây là một tín hiệu **Effort to Fall**, cho thấy sự do dự và thị trường cần thêm thời gian để hấp thụ cung.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay DPM giảm nhẹ từ 38.6 xuống 38.45. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (3,449,917 đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận sự yếu kém của lực cầu, phiên hôm nay DPM giảm từ 39.1 xuống 38.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (5,382,119 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật. Lực cầu đã quay trở lại để kiểm tra lực bán, tuy nhiên chưa đủ mạnh để phủ nhận tín hiệu yếu kém trước đó. Tình hình vẫn còn giằng co và tiêu cực.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay DPM giảm nhẹ từ 39.05 xuống 38.9. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2,550,405 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
 - **Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DPM giảm từ 39.2 xuống 38.7. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (4,154,275 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Fall**, phiên hôm nay DPM giảm từ 38.95 xuống 38.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2,735,985 đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Thị trường thiếu động lực và giá tiếp tục điều chỉnh trong biên độ hẹp, củng cố cho kịch bản điều chỉnh.
+
 - **Ngày 2025-07-11:** Sau phiên giảm, hôm nay DPM giảm từ 38.95 xuống 38.65. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (5,593,935 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** mạnh mẽ, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Effort to Fall**, hôm nay DPM tăng từ 38.95 lên 39.0. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng mạnh (6,603,400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu yếu kém của các phiên trước. Lực cầu đã quay trở lại mạnh mẽ với khối lượng lớn, cho thấy khả năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-15:** DPM tăng mạnh từ 37.5 lên 38.05. Cây nến tăng có biên độ rộng. Khối lượng giao dịch giảm (5.94 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** tiếp diễn. Tiếp nối tín hiệu tích cực phiên trước, lực cầu vẫn đang kiểm soát và đẩy giá tăng. Việc khối lượng giảm nhưng giá vẫn tăng cho thấy nhu cầu một chiều. Xu hướng phục hồi có thể tiếp tục.
+
 - **Ngày 2025-07-16:** DPM tăng từ 38.05 lên 38.3. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (4.62 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau các phiên **Effort to Rise**. Việc giá tăng nhẹ trên khối lượng giảm cho thấy áp lực bán đang cạn kiệt. Đây là dấu hiệu tích cực, xác nhận xu hướng tăng và cho thấy khả năng tiếp tục phục hồi.
+
 - **Ngày 2025-07-17:** DPM tăng từ 38.3 lên 38.6. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng nhẹ (4.77 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** xác nhận. Sau tín hiệu **Test for Supply** tích cực của phiên trước, lực cầu đã quay trở lại với khối lượng gia tăng. Tín hiệu này xác nhận xu hướng tăng và tiềm năng tiếp tục đà phục hồi giá.
+
 - **Ngày 2025-07-18:** DPM giảm từ 38.6 xuống 38.35. Cây nến giảm có biên độ vừa phải với mức low 38.25. Khối lượng giao dịch giảm (3.8 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Effort to Rise**. Việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán không lớn và chỉ là phiên test tự nhiên. Đây là dấu hiệu tích cực vì lực bán tỏ ra yếu ớt, tiếp tục hỗ trợ cho xu hướng tăng.
+
 - **Ngày 2025-07-21:** DPM tăng mạnh từ 38.35 lên 39.75. Cây nến tăng có biên độ rộng với mức high 40.1. Khối lượng giao dịch bùng nổ (9.82 triệu đơn vị), tăng gấp 2.5 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Sau phiên **Test for Supply** thành công, lực cầu đã quay trở lại một cách quyết đoán với khối lượng bùng nổ kèm theo giá tăng mạnh. Tín hiệu này xác nhận xu hướng phục hồi mạnh mẽ và tiềm năng tiếp tục đà tăng giá tích cực trong ngắn hạn.
+
 - **Ngày 2025-07-22:** DPM tiếp tục tăng mạnh từ 39.75 lên 40.4. Cây nến tăng có biên độ hẹp với mức high 40.5. Khối lượng giao dịch giảm về 5.50 triệu đơn vị, giảm 44% so với phiên trước nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Tiếp nối tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, việc giá tiếp tục tăng ổn định với khối lượng giảm cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận xu hướng tăng bền vững và tiềm năng tiếp tục mở rộng đà tăng.
 
@@ -61,3 +85,6 @@
 
 - **Ngày 2025-07-29:** DPM sụt giảm mạnh từ 41.55 xuống 39.6. Cây nến giảm có biên độ rộng với mức mở cửa 41.6 và dao động trong khoảng 39.6-42.45. Khối lượng giao dịch bùng nổ lên 9.72 triệu đơn vị, tăng gấp 1.9 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** mạnh mẽ xuất hiện. Việc giá test lên mức cao 42.45 nhưng bị đẩy xuống thảm hại với khối lượng bùng nổ cho thấy áp lực bán áp đảo đã xuất hiện ở vùng cao. Việc đóng cửa ở mức thấp nhất phiên (39.6) với khối lượng khổng lồ xác nhận panic selling. Đây là tín hiệu cực kỳ tiêu cực, cảnh báo về xu hướng giảm mạnh trong ngắn hạn.
+
+- **Ngày 2025-07-30:** DPM tăng mạnh từ 39.6 lên 41.5. Cây nến tăng có biên độ rộng với mức high 41.5 và low 40.0, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm về 6.86 triệu đơn vị, giảm 29% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Việc giá tăng mạnh và đóng cửa ở mức cao nhất phiên với khối lượng giảm cho thấy áp lực bán đã cạn kiệt hoàn toàn. Đây là tín hiệu rất tích cực khi thị trường không còn gặp kháng cự, mở ra tiềm năng tiếp tục xu hướng tăng trong các phiên tới.

@@ -197,3 +197,11 @@ cython_debug/
 
 combined.txt
 combined-*.txt
+
+# Task files - generated reports and deprecated utilities
+tasks/task_vpa_prep_python.md
+tasks/task_vpa_prep_python_week.md
+tasks/DAILY_HOLD_gialang.md
+tasks/daily_plan_summary.md
+tasks/report_vpa.md
+tasks/report_vpa_week.md

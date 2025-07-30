@@ -2,17 +2,27 @@
 
 - **Ngày 2025-07-18:** VCB giảm từ 62.3 xuống 61.9 với đỉnh ngày đạt 62.6. Nến giảm có biên độ vừa phải và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm (6.83 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá điều chỉnh với khối lượng giảm cho thấy đây là một nhịp chốt lời bình thường. Áp lực bán không mạnh, là tín hiệu tích cực cho thấy xu hướng tăng vẫn còn nguyên vẹn và sẽ tiếp tục sau khi giai đoạn tích lũy hoàn tất.
+
 - **Ngày 2025-07-21:** Tiếp nối tín hiệu Test for Supply, VCB giảm từ 62.2 xuống 61.3 với đỉnh ngày đạt 62.7. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm tiếp (6.13 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Sau hai phiên Test for Supply liên tiếp, việc giá tiếp tục giảm nhưng khối lượng duy trì thấp cho thấy áp lực bán chốt lời không mạnh. Việc thử nghiệm vùng kháng cự 62.7 không thành công nhưng đây vẫn là nhịp điều chỉnh lành mạnh trong xu hướng tăng dài hạn.
+
 - **Ngày 2025-07-22:** VCB tăng mạnh từ 61.3 lên 62.2 với đỉnh ngày đạt 62.2. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm tiếp (4.90 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi Test for Supply, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 60.9. Việc giá phục hồi mạnh về mức 62.2 với khối lượng giảm cho thấy lực cầu đã quay trở lại để hấp thụ nguồn cung. Đây là tín hiệu tích cực, cho thấy giai đoạn điều chỉnh có thể đã kết thúc và xu hướng tăng sẵn sàng tiếp tục.
+
 - **Ngày 2025-07-23:** VCB giảm nhẹ từ 62.2 xuống 62.1. Cây nến giảm có biên độ hẹp (spread 0.8) với giá cao nhất 62.6. Khối lượng giao dịch tăng nhẹ (5.06 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Test for Demand** mạnh mẽ của phiên trước, việc giá có thể test cao lên 62.6 nhưng đóng cửa thấp hơn với khối lượng tăng nhẹ cho thấy áp lực bán chốt lời đã xuất hiện ở vùng giá cao. Tuy nhiên, việc giá chỉ giảm rất nhẹ và khối lượng không tăng quá mạnh thể hiện áp lực bán không lớn, đây là nhịp nghỉ lành mạnh trong xu hướng tăng.
+
 - **Ngày 2025-07-24:** VCB đi ngang từ 62.2 về 62.1. Cây nến có biên độ rộng (spread 1.6) với giá cao nhất 63.5 và thấp nhất 61.9. Khối lượng giao dịch tăng mạnh (8.68 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Test for Supply** của phiên trước, hành động giá hôm nay cho thấy **Secondary Test** mạnh mẽ. Việc giá test cao lên 63.5 nhưng bị từ chối và đóng cửa gần mức thấp với khối lượng tăng vọt cho thấy có áp lực bán lớn xuất hiện tại vùng kháng cự 63.0-63.5. Đây là tín hiệu cần theo dõi, thị trường đang trong giai đoạn giằng co mạnh.
+
 - **Ngày 2025-07-25:** VCB giảm nhẹ từ 62.1 xuống 62.0. Cây nến giảm có biên độ hẹp (spread 0.6) với giá cao nhất 62.5. Khối lượng giao dịch giảm mạnh (4.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Secondary Test** mạnh mẽ của phiên trước, hành động giá hôm nay cho thấy **No Supply** nhẹ. Việc giá chỉ giảm rất nhẹ với khối lượng cạn kiệt cho thấy áp lực bán đã giảm đáng kể sau giai đoạn test kháng cự. Đây là dấu hiệu tích cực, thị trường đang ổn định sau giai đoạn giằng co.
+
 - **Ngày 2025-07-28:** VCB tăng từ 62.2 lên 62.8 (+1.3%). Cây nến tăng có biên độ rộng với mức cao nhất 63.0. Khối lượng giao dịch tăng mạnh (10.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** của phiên trước, hành động giá hôm nay xác nhận **Effort to Rise** mạnh mẽ. Việc giá test cao lên 63.0 với khối lượng tăng gấp đôi cho thấy lực cầu đã quay trở lại quyết đoán sau giai đoạn tích lũy. Đây là tín hiệu tích cực, có thể báo hiệu sự tiếp tục của xu hướng tăng sau giai đoạn giằng co trước đó.
+
 - **Ngày 2025-07-29:** VCB giảm mạnh từ 63.2 xuống 61.0 (-3.48%), giảm 2.2 điểm so với ngày trước. Thanh nến đỏ có spread rộng 2.2 điểm (từ 61.0 đến 63.2) với đóng cửa ở mức thấp nhất ngày. Khối lượng giao dịch duy trì tương đương 10.59 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tín hiệu **Effort to Rise** của phiên trước, hành động giá hôm nay cho thấy áp lực bán mạnh đã xuất hiện tại vùng kháng cự 63.0-63.2. Nến đỏ rộng với đóng cửa ở mức thấp nhất kết hợp khối lượng duy trì cao cho thấy có sự can thiệp mạnh từ smart money để phân phối. Tín hiệu này đảo ngược momentum tích cực và báo hiệu giai đoạn điều chỉnh sâu hơn.
+
+- **Ngày 2025-07-30:** VCB biến động nhẹ -0.16% lên 60.90. nến đỏ với bóng trên/dưới, phạm vi dao động 1.50 (2.46%). Giao dịch với khối lượng giảm xuống 0.7 lần so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá ít biến động với khối lượng thấp cho thấy thiếu sự quan tâm.

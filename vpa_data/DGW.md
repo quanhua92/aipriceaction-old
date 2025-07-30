@@ -2,47 +2,70 @@
 
 - **Ngày 2025-06-26:** DGW tăng mạnh từ 43.9 lên 46.0. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (3.69 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau các phiên giằng co, phiên tăng giá mạnh mẽ với khối lượng lớn này là một tín hiệu **Effort to Rise** rõ ràng, cho thấy lực cầu đã quay trở lại và có khả năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-06-27:** DGW giảm từ 46.0 xuống 44.8. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (2.09 triệu đơn vị) so với phiên tăng mạnh trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise". Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt, cho thấy lực bán không áp đảo và xu hướng tăng có thể tiếp diễn.
+
 - **Ngày 2025-06-30:** DGW giảm từ 44.8 xuống 44.0. Nến giảm có biên độ rộng và có bóng dưới dài. Khối lượng giao dịch tăng (3.65 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** mạnh. Lực bán đã đẩy giá xuống sâu nhưng lực cầu đã hấp thụ và đẩy giá ngược trở lại. Việc khối lượng tăng cho thấy sự giằng co quyết liệt. Tín hiệu trung tính, cần theo dõi thêm.
+
 - **Ngày 2025-07-01:** DGW giảm từ 44.0 xuống 43.8. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.65 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** mạnh, phiên giảm điểm trên khối lượng thấp hơn này cho thấy áp lực bán đã giảm bớt, nhưng lực cầu vẫn chưa quay trở lại. Tình hình vẫn giằng co.
+
 - **Ngày 2025-07-02:** DGW tăng mạnh từ 43.8 lên 44.7. Cây nến có biên độ rộng. Khối lượng giao dịch tăng (2.78 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**. Sau các phiên điều chỉnh, lực cầu đã quay trở lại mạnh mẽ hơn, cho thấy khả năng xu hướng tăng sẽ tiếp diễn.
+
 - **Ngày 2025-07-03:** DGW giảm mạnh từ 44.7 xuống 43.75. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch tăng (3.92 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay DGW tăng nhẹ từ 43.75 lên 43.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (3.31 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay DGW tăng nhẹ từ 43.8 lên 44.05. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (2.35 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay DGW giảm nhẹ từ 44.2 xuống 44.15. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (2.14 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
+
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** trước đó, phiên hôm nay DGW giảm nhẹ từ 44.3 xuống 44.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch không đổi (2.33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Weakness** tiếp diễn. Việc giá tiếp tục giảm với khối lượng không đổi tiếp tục xác nhận sự yếu kém của lực cầu và củng cố cho kịch bản điều chỉnh.
+
 - **Ngày 2025-07-10:** Tiếp nối chuỗi hồi kỹ thuật trên nền **No Demand**, phiên hôm nay DGW tăng từ 44.2 lên 44.7. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (4.7 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-11:** Sau phiên tăng mạnh, hôm nay DGW giảm từ 44.7 xuống 44.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch giảm (2.58 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-14:** Tiếp nối phiên **Test for Supply**, hôm nay DGW tăng từ 43.6 lên 44.6. Cây nến tăng có biên độ rộng với thân nến to. Khối lượng giao dịch ổn định (2.63 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Effort to Rise** tích cực. Sau nhịp điều chỉnh, lực cầu đã quay trở lại mạnh mẽ, đẩy giá tăng qua vùng kháng cự. Việc khối lượng duy trì ổn định cho thấy nhu cầu mua vẫn đang tiếp tục.
+
 - **Ngày 2025-07-15:** DGW giảm từ 44.6 xuống 44.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (3.95 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau tín hiệu **Effort to Rise**. Khối lượng tăng kèm giá giảm cho thấy áp lực bán chốt lời đã xuất hiện. Cần theo dõi để xác định liệu đây là một phiên Test for Supply bình thường hay bắt đầu cuộc điều chỉnh sâu hơn.
+
 - **Ngày 2025-07-16:** DGW tăng nhẹ từ 44.0 lên 44.2. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.56 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** sau phiên **Test for Supply**. Việc giá phục hồi nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt. Đây là dấu hiệu tích cực, xác nhận phiên **Test for Supply** thành công và tạo điều kiện cho xu hướng tăng tiếp diễn.
+
 - **Ngày 2025-07-17:** DGW tăng từ 44.2 lên 44.5. Cây nến tăng có biên độ rộng với mức high 45.75. Khối lượng giao dịch tăng mạnh (3.65 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau tín hiệu **No Supply** tích cực của phiên trước, lực cầu đã quay trở lại với khối lượng gia tăng đáng kể. Tín hiệu này xác nhận xu hướng tăng và tiềm năng tiếp tục đà tăng giá.
+
 - **Ngày 2025-07-18:** DGW tăng mạnh từ 44.5 lên 46.6. Cây nến tăng có biên độ rộng với mức high 47.0. Khối lượng giao dịch tăng vọt (6.75 triệu đơn vị), tăng gấp đôi so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Tiếp nối tín hiệu **Effort to Rise** của phiên trước, việc giá tăng mạnh với khối lượng bùng nổ cho thấy lực cầu đang cực kỳ mạnh mẽ. Tín hiệu này xác nhận xu hướng tăng mạnh và tiềm năng phá vỡ vùng kháng cự, mở ra cơ hội tăng giá đáng kể.
+
 - **Ngày 2025-07-21:** DGW giảm từ 46.6 xuống 46.0. Cây nến giảm có biên độ rộng với mức high 47.5 và low 45.5. Khối lượng giao dịch giảm mạnh (2.53 triệu đơn vị), giảm 63% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau tín hiệu **Sign of Strength** mạnh mẽ. Giá test lên mức cao 47.5 nhưng bị đẩy xuống, khối lượng giảm mạnh cho thấy áp lực bán chốt lời không lớn. Đây là dấu hiệu tích cực vì thị trường đang test khả năng cung cấp sau đợt tăng mạnh và lực bán tỏ ra yếu ớt.
+
 - **Ngày 2025-07-22:** DGW tăng từ 46.0 lên 46.45. Cây nến tăng có biên độ hẹp với mức dao động 45.2-46.55. Khối lượng giao dịch tăng nhẹ về 2.75 triệu đơn vị, tăng 8% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau **Test for Supply** thành công của phiên trước, việc giá phục hồi vững chắc với khối lượng tăng nhẹ cho thấy lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận rằng test cung cấp đã thành công và xu hướng tăng được tiếp tục củng cố, mở ra tiềm năng tăng giá tiếp theo.
 
 
 - **Ngày 2025-07-23:** DGW tăng mạnh từ 46.45 lên 48.0. Cây nến tăng có biên độ rộng với mức mở cửa 46.65 và dao động trong khoảng 46.35-48.5. Khối lượng giao dịch tăng mạnh lên 4.51 triệu đơn vị, tăng 64% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện mạnh mẽ. Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, việc khối lượng tăng mạnh kèm theo giá tăng vững chắc và test lên mức cao 48.5 cho thấy lực cầu đã được củng cố và mở rộng. Đây là xác nhận rõ ràng cho xu hướng tăng mạnh và tiềm năng phá vỡ các mức kháng cự tiếp theo. Tín hiệu này rất tích cực cho triển vọng tăng giá tiếp tục.
+
 - **Ngày 2025-07-24:** DGW giảm từ 48.0 xuống 47.0. Cây nến giảm có biên độ rộng với mức mở cửa 48.1 và dao động trong khoảng 46.7-48.5. Khối lượng giao dịch giảm mạnh về 2.09 triệu đơn vị, giảm 54% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, giá mở cửa cao hơn (48.1) và test lại vùng kháng cự 48.5 nhưng bị đẩy xuống với khối lượng giảm mạnh. Việc giá giảm 1.0 điểm nhưng khối lượng giảm đáng kể cho thấy áp lực bán chốt lời không mạnh, chỉ là phản ứng tự nhiên sau đợt tăng mạnh. Đây là phiên test bình thường, thể hiện thị trường đang kiểm tra khả năng cung cấp ở vùng kháng cự và xu hướng tăng chính vẫn được duy trì.
+
 - **Ngày 2025-07-29:** DGW sụt giảm mạnh từ 46.5 xuống 43.25. Cây nến giảm có biên độ cực rộng với mức mở cửa 47.0 và low 43.25, đóng cửa ở mức thấp nhất phiên. Khối lượng giao dịch tăng lên 6.57 triệu đơn vị, tăng 30% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Fall** mạnh mẽ xuất hiện. Việc giá mở cửa cao hơn (47.0) nhưng bị đẩy xuống thảm hại với khối lượng tăng cho thấy áp lực bán đã trở nên áp đảo. Việc đóng cửa ở mức thấp nhất phiên (43.25) với khối lượng gia tăng xác nhận panic selling đã xảy ra. Đây là tín hiệu cực kỳ tiêu cực, cảnh báo về xu hướng giảm mạnh trong ngắn hạn.
+
+- **Ngày 2025-07-30:** DGW giảm nhẹ từ 43.25 xuống 43.0. Cây nến giảm có biên độ rộng với mức high 44.0 và low 42.0. Khối lượng giao dịch giảm mạnh về 3.17 triệu đơn vị, giảm 52% so với phiên trước.
+    - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, việc giá giảm nhẹ với biên độ dao động rộng nhưng khối lượng giảm mạnh cho thấy áp lực bán không mạnh. Mặc dù có test lên mức 44.0, việc đóng cửa chỉ giảm nhẹ trên nền khối lượng thấp thể hiện sự cân bằng giữa cung và cầu. Đây là dấu hiệu tích cực cho sự ổn định giá sau đợt panic selling.

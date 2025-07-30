@@ -6,61 +6,93 @@
     -   **Phân tích VPA/Wyckoff:** Sau phiên tăng mạnh, phiên đi ngang này cho thấy sự do dự và kiểm tra lại cung cầu. Khối lượng tăng nhẹ cho thấy áp lực bán vẫn còn, cần thêm tín hiệu xác nhận.
 -   **Ngày 2025-06-18:** VGT giảm từ 11.6 xuống 11.4. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (522.2k đơn vị).
     -   **Phân tích VPA/Wyckoff:** Sau giai đoạn giằng co, phiên giảm điểm trên khối lượng thấp này là một **Test for Supply**. Áp lực bán không quá mạnh, nhưng phe mua cũng chưa thể hiện sức mạnh. Cần theo dõi thêm.
+
 - **Ngày 2025-06-19:** VGT giảm từ 11.5 xuống 11.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (930.0k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng giằng co và thiếu động lực vẫn tiếp diễn.
+
 - **Ngày 2025-06-20:** VGT tăng mạnh từ 11.5 lên 12.0. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (2.23 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại một cách quyết đoán, phủ nhận các tín hiệu yếu kém trước đó.
+
 - **Ngày 2025-06-23:** VGT tăng từ 11.9 lên 12.2. Nến tăng có biên độ rộng. Khối lượng giao dịch không đổi (2.61 triệu đơn vị) và vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise**, phiên tăng giá này cho thấy lực cầu vẫn đang duy trì nhưng chưa mạnh mẽ. Tín hiệu trung tính.
+
 - **Ngày 2025-06-24:** VGT tăng từ 12.1 lên 12.4. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (3.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó.
+
 - **Ngày 2025-06-25:** VGT giảm từ 12.5 xuống 12.5. Nến có biên độ hẹp. Khối lượng giao dịch giảm (2.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh, phiên đi ngang này cho thấy sự do dự và kiểm tra lại cung cầu. Tín hiệu trung tính.
+
 - **Ngày 2025-06-26:** VGT đi ngang, đóng cửa ở mức 12.5. Nến có biên độ vừa phải và bóng dưới. Khối lượng giao dịch giảm (1.07 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Sau chuỗi tăng mạnh, áp lực bán đã xuất hiện nhưng lực cầu đã hấp thụ và đẩy giá lên từ mức thấp. Việc khối lượng giảm là một tín hiệu tốt, cho thấy áp lực bán đang suy yếu.
+
 - **Ngày 2025-06-27:** VGT đi ngang, đóng cửa ở mức 12.5. Nến có biên độ rộng và có bóng trên. Khối lượng giao dịch tăng (2.61 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **Test for Supply** hôm trước, phiên đi ngang trên khối lượng lớn này cho thấy một cuộc chiến giữa cung và cầu. Nỗ lực tăng giá không thành công (bóng trên) trên khối lượng lớn là một tín hiệu bất thường, cần thận trọng.
+
 - **Ngày 2025-06-30:** VGT giảm từ 12.5 lên 12.4. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (1.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên giảm điểm này cho thấy sự do dự và kiểm tra lại cung cầu. Tín hiệu trung tính, cần theo dõi thêm.
+
 - **Ngày 2025-07-01:** VGT tăng nhẹ từ 12.4 lên 12.6. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (1.42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu bất thường, phiên tăng nhẹ với khối lượng giảm này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để duy trì đà tăng.
+
 - **Ngày 2025-07-02:** VGT tăng từ 12.6 lên 13.0. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (4.14 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand**, phiên tăng giá mạnh mẽ này là một tín hiệu **Effort to Rise**, cho thấy lực cầu đã quay trở lại.
+
 - **Ngày 2025-07-03:** VGT giảm mạnh từ 13.0 xuống 12.3. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch tăng (5.29 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay VGT giảm từ 12.3 xuống 12.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (2.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm sau tín hiệu SOW xác nhận phe bán vẫn đang kiểm soát. Tình hình vẫn tiêu cực, khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-07:** Sau phiên giảm điểm xác nhận phe bán vẫn đang kiểm soát, phiên hôm nay VGT giảm từ 12.5 xuống 12.2. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.24 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Việc giá tiếp tục giảm với khối lượng thấp xác nhận tình trạng **No Demand**. Phe bán vẫn đang kiểm soát và lực cầu yếu, dự báo giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VGT tăng mạnh từ 12.2 lên 12.5. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (2.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực mua đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VGT giảm từ 12.5 xuống 12.4. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (952.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply**, hôm nay VGT giảm từ 12.4 xuống 12.0. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng vọt (2.54 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận các nỗ lực phục hồi trước đó.
+
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay VGT tăng nhẹ từ 12.0 lên 12.1. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau các tín hiệu yếu kém, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy.
+
 - **Ngày 2025-07-15:** VGT giảm từ 12.2 xuống 12.0 với đỉnh ngày đạt 12.3. Nến có biên độ rộng. Khối lượng giao dịch giảm (1.19 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Demand** - Sau cú hồi kứ thuật yếu ớt, việc giá giảm trên khối lượng giảm cho thấy thiếu sự quan tâm từ cả hai phía. Lực cầu vẫn yếu và chưa có dấu hiệu phục hồi thực sự.
+
 - **Ngày 2025-07-16:** VGT tăng nhẹ từ 12.3 lên 12.1 với đỉnh ngày đạt 12.3. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (694.8k đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Demand** - Tiếp nối tín hiệu No Demand trước đó, việc giá giảm nhẹ với khối lượng giảm tiếp tục xác nhận sự thiếu quan tâm của nhà đầu tư. Lực cầu vẫn yếu và chưa có dấu hiệu phục hồi.
+
 - **Ngày 2025-07-17:** VGT đi ngang từ 12.0 lên 12.1 với đỉnh ngày đạt 12.2. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng (1.4 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi tín hiệu No Demand, việc khối lượng tăng gấp đôi kèm theo giá ổn định cho thấy lực cầu bắt đầu xuất hiện. Đây là tín hiệu tích cực đầu tiên sau thời gian dài thiếu quan tâm.
+
 - **Ngày 2025-07-17:** VGT tăng từ 12.1 lên 12.4 với đỉnh ngày đạt 12.5. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch duy trì cao (1.5 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand thành công, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 12.5. Việc giá tăng mạnh với khối lượng duy trì cao cho thấy khả năng đảo chiều hoàn toàn xu hướng thiếu quan tâm trước đó.
+
 - **Ngày 2025-07-18:** VGT tăng từ 12.0 lên 12.2 với đỉnh ngày đạt 12.4. Nến tăng có biên độ rộng và đóng cửa ở mức cao. Khối lượng giao dịch tăng (1.87 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhẫn lực cầu đã củng cố mạnh mẽ. Việc giá tiếp tục tăng với khối lượng tăng cho thấy smart money đang tích cực tích lũy, tạo nền tảng vững chắc cho xu hướng tăng giá sau thời gian dài thiếu quan tâm.
+
 - **Ngày 2025-07-21:** Sau tín hiệu SOS tích cực, VGT tăng từ 12.4 lên 12.4 với đỉnh ngày đạt 12.6. Nến doji có biên độ vừa phải với đuôi dài phía trên. Khối lượng giao dịch giảm (1.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng kháng cự 12.6. Việc giá không thể duy trì ở mức cao với khối lượng giảm nhẹ cho thấy vẫn còn áp lực bán chốt lời. Tuy nhiên, đây là nhịp kiểm tra bình thường sau SOS.
+
 - **Ngày 2025-07-22:** VGT giữ nguyên giá đóng cửa 12.4 với biên độ hẹp dao động từ 12.2 đến 12.5. Nến dựng có biên độ hẹp. Khối lượng giao dịch giảm (1.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Supply** - Tiếp nối Test for Supply của phiên trước, việc giá duy trì ổn định với khối lượng tiếp tục giảm cho thấy áp lực bán đã cạn kiệt. Đây là tín hiệu tích cực sau giai đoạn SOS, thị trường đang tạo nền tảng vững chắc tại vùng 12.4 để chuẩn bị cho đợt tăng tiếp theo.
+
 - **Ngày 2025-07-23:** VGT giữ nguyên giá đóng cửa 12.4. Cây nến có biên độ hẹp dao động từ 12.2 đến 12.5. Khối lượng giao dịch tăng (1.819.400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của phiên trước, phiên hôm nay thể hiện tín hiệu **Test for Demand**. Việc giá duy trì ổn định tại vùng 12.4 nhưng khối lượng tăng từ 1.41M lên 1.82M cho thấy lực cầu đã bắt đầu tích cực hơn trong việc hấp thụ nguồn cung còn lại. Mặc dù giá chưa bứt phá lên cao hơn, nhưng sự ổn định trong bối cảnh khối lượng tăng là dấu hiệu tích cực cho thấy thị trường đang được củng cố vững chắc. Đây là tín hiệu chuẩn bị cho đợt tăng mạnh tiếp theo.
+
 - **Ngày 2025-07-24:** VGT tăng từ 12.4 lên 12.6 với đỉnh ngày đạt 12.7 và mức thấp duy trì tại 12.4. Nến tăng có biên độ rộng và đóng cửa ở mức cao. Khối lượng giao dịch tăng mạnh (2.31 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Test for Demand tích cực của phiên trước, phiên hôm nay xác nhận sự đột phá mạnh mẽ. Việc giá tăng từ 12.4 lên 12.6 và test thành công vùng 12.7 với khối lượng bùng nổ từ 1.82M lên 2.31M cho thấy lực cầu đã hoàn toàn chiếm ưu thế. Việc giá không test lại vùng thấp mà duy trì ở 12.4 làm support cho thấy smart money đang tích cực mua vào. Tín hiệu SOS này xác nhận xu hướng tăng mạnh sắp tới.
+
 - **Ngày 2025-07-25:** VGT tăng từ 12.6 lên 12.7 với đỉnh ngày đạt 12.8 và mức thấp duy trì tại 12.5. Nến tăng có biên độ vừa phải và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm nhẹ (2.008.200 đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá tiếp tục tăng từ 12.6 lên 12.7 và test thành công vùng kháng cự 12.8 với khối lượng giảm nhẹ từ 2.31M xuống 2.01M cho thấy áp lực bán đã cạn kiệt tại các vùng giá cao hơn. Việc giá duy trì vững chắc trên 12.5 mà không cần khối lượng lớn xác nhận smart money đã hoàn tất việc tích lũy và thị trường đang trong giai đoạn markup. Tín hiệu No Supply này rất tích cực, cho thấy đà tăng sẽ tiếp tục mạnh mẽ.
+
 - **Ngày 2025-07-28:** VGT tăng từ 12.7 lên 12.8 với đỉnh ngày đạt 12.9 và mức thấp duy trì tại 12.7. Nến tăng có biên độ hẹp và đóng cửa ở mức cao. Khối lượng giao dịch tăng (2.281.500 đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Tiếp nối tín hiệu No Supply tích cực của phiên trước, VGT đã có bước đột phá quan trọng khi test thành công mức cao mới 12.9 với khối lượng tăng từ 2.01M lên 2.28M. Việc giá không test lại vùng thấp mà duy trì vững chắc tại 12.7 làm support mới cho thấy lực cầu cực kỳ mạnh mẽ. Đây là tín hiệu SOS rõ ràng xác nhận giai đoạn markup đã bắt đầu sau chuỗi tín hiệu tích cực liên tiếp. Smart money đang kiểm soát hoàn toàn và đẩy giá lên các mức cao mới một cách bền vững.
+
 - **Ngày 2025-07-29:** VGT sụt giảm mạnh từ 12.8 xuống 12.2 với đỉnh ngày đạt 13.0 và mức thấp 12.0. Nến giảm có biên độ cực rộng với đuôi dài phía dưới. Khối lượng giao dịch tăng vọt lên 2.934.200 đơn vị.
     - **Phân tích VPA/Wyckoff:** **Spring Action** - Sau chuỗi tín hiệu SOS liên tiếp và test thành công mức cao mới 13.0, việc giá sụt xuống test 12.0 (thấp hơn vùng support 12.2-12.4) với khối lượng bùng nổ là một động thái spring điển hình. Smart money đang thực hiện test cuối cùng để loại bỏ weak hands và tạo thanh khoản trước khi markup mạnh mẽ. Việc giá đóng cửa ở 12.2 (recovery từ đáy 12.0) cho thấy lực cầu vẫn mạnh mẽ ngay cả trong bối cảnh test sâu. Đây là tín hiệu spring rất tích cực, báo hiệu giai đoạn tăng giá mạnh mẽ sắp tới.
+
+- **Ngày 2025-07-30:** VGT phục hồi từ 12.2 lên 12.3 với đỉnh ngày đạt 12.3 và mức thấp 11.9. Nến tăng có biên độ hẹp và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 1.554.200 đơn vị.
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Spring Action mạnh mẽ của phiên trước, việc giá phục hồi từ 12.2 lên 12.3 và test xuống 11.9 (thậm chí thấp hơn cả mức 12.0 của phiên trước) với khối lượng giảm mạnh xuống 1.55M cho thấy áp lực bán đã cạn kiệt hoàn toàn. Việc giá đóng cửa ở mức cao nhất phiên 12.3 sau khi test sâu xuống 11.9 xác nhận lực cầu đã bắt đầu hấp thụ mạnh mẽ tại vùng giá thấp. Đây là tín hiệu Test for Demand cực kỳ tích cực sau spring action, báo hiệu giai đoạn markup sắp bắt đầu với lực cầu đã hoàn toàn kiểm soát thị trường.

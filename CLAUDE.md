@@ -137,3 +137,7 @@ pip install -r requirements.txt
 3. Add manual analysis to `VPA.md` following the format
 4. Use `python merge_vpa.py` to integrate new VPA analysis
 5. Generated reports are found in `REPORT.md` and chart images in `reports/`
+
+## Best Practices
+
+- ONE TIME USE PYTHON SHOULD SAVE TO /tmp or not save at all. do not save to root folder

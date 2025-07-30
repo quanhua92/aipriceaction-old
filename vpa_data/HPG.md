@@ -22,49 +22,73 @@
     -   **Phân tích VPA/Wyckoff:** Sau một thời gian dài đi ngang, phiên tăng giá trên khối lượng lớn này là một tín hiệu **Effort to Rise** tích cực. Lực cầu đang quay trở lại và cố gắng đẩy giá ra khỏi vùng tích lũy.
 -   **Ngày 2025-06-26:** HPG tăng nhẹ từ 22.67 lên 22.8. Tuy nhiên, cây nến là nến giảm (mở cửa 23.05, đóng cửa 22.8) với bóng trên, cho thấy nỗ lực tăng giá trong phiên đã gặp áp lực bán mạnh và bị đẩy xuống. Khối lượng giao dịch vẫn duy trì ở mức RẤT CAO (38,44 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** của ngày 25/06, phiên này cho thấy một **Up-thrust** hoặc một **Test for Supply** không thành công. Nỗ lực đẩy giá lên cao hơn đã thất bại trước áp lực bán mạnh, thể hiện qua việc giá không giữ được mức cao và đóng cửa giảm so với giá mở cửa trên nền khối lượng lớn. Đây là một **Sign of Weakness (SOW - Dấu hiệu Yếu kém)**, cảnh báo rằng phe bán đang quay trở lại và có thể chiếm ưu thế.
+
 - **Ngày 2025-06-27:** HPG giảm nhẹ từ 22.95 xuống 22.85. Nến có biên độ hẹp. Khối lượng giao dịch giảm mạnh (16,50 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)**, phiên giảm nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
+
 - **Ngày 2025-06-30:** HPG giảm từ 22.9 xuống 22.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (19,93 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho tín hiệu **No Demand** của ngày hôm trước. Áp lực bán đã quay trở lại và chiếm ưu thế, là một tín hiệu tiêu cực trong ngắn hạn.
+
 - **Ngày 2025-07-01:** HPG giảm từ 22.75 xuống 22.65. Nến giảm có biên độ hẹp. Khối lượng giao dịch không đổi (19,80 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên giảm điểm này tiếp tục xác nhận sự yếu kém của lực cầu. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-02:** HPG tăng từ 22.65 lên 22.9. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (18,92 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall**, phiên tăng giá trên khối lượng thấp này là một tín hiệu **No Demand**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-03:** HPG tăng từ 22.9 lên 23.1. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng vọt (42,56 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận hoàn toàn tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay HPG tăng nhẹ từ 23.1 lên 23.25. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (19,42 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá mạnh, phiên tăng chậm lại với khối lượng giảm này là một **Test for Supply (Kiểm tra Nguồn cung)** ở vùng giá cao. Áp lực bán đã xuất hiện, nhưng khối lượng thấp cho thấy nó không quá mạnh. Đây là một nhịp nghỉ tích cực trong xu hướng tăng.
+
 - **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** tích cực của ngày hôm trước, phiên hôm nay HPG giảm từ 23.7 xuống 23.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng vọt (36,03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Phiên giảm nhẹ trên khối lượng cao này cho thấy một **Test for Supply** không hoàn toàn thành công. Áp lực bán đã xuất hiện và khối lượng cao cho thấy có sự tranh chấp giữa phe mua và phe bán. Tuy nhiên, việc giá chỉ giảm nhẹ trên nền khối lượng lớn vẫn thể hiện sức mạnh tương đối của lực cầu.
+
 - **Ngày 2025-07-08:** Sau phiên **Test for Supply** có dấu hiệu tranh chấp của ngày hôm trước, phiên hôm nay HPG tăng vọt từ 23.6 lên 24.7. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (77,54 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, cho thấy phe mua đã vượt qua được sự tranh chấp của phiên trước và giành được quyền kiểm soát hoàn toàn, có khả năng tiếp tục đẩy giá lên.
+
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay HPG giảm nhẹ từ 24.8 xuống 24.75. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (43,51 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+
 - **Ngày 2025-07-10:** Tiếp nối phiên **Test for Supply** tích cực, phiên hôm nay HPG tăng mạnh từ 24.75 lên 25.15. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (85,33 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay HPG tiếp tục tăng vọt từ 25.25 lên 26.0. Cây nến tăng có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (65,35 triệu đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực.
+
 - **Ngày 2025-07-14:** Sau chuỗi tăng mạnh, hôm nay HPG giảm nhẹ từ 26.2 xuống 25.75. Cây nến giảm có biên độ rộng với low thấp 25.55. Khối lượng giao dịch giảm (49,41 triệu đơn vị) so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Việc giá có test xuống thấp nhưng khối lượng giảm cho thấy áp lực bán không lớn. Tiếp nối chuỗi tín hiệu mạnh trước đó, đây là nhịp điều chỉnh bình thường trong xu hướng tăng.
+
 - **Ngày 2025-07-15:** Sau phiên **Test for Supply**, hôm nay HPG giảm tiếp từ 25.8 xuống 25.5. Cây nến giảm có biên độ hẹp với mức cao 26.0. Khối lượng giao dịch giảm tiếp (45.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tiếp tục của tín hiệu **Test for Supply**. Việc giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán không mạnh. Sau chuỗi tín hiệu mạnh trước đó, đây vẫn là nhịp điều chỉnh bình thường và có thể là cơ hội tích lũy trước khi giá tiếp tục phục hồi.
+
 - **Ngày 2025-07-16:** Sau tín hiệu **Test for Supply**, HPG tăng mạnh từ 25.45 lên 26.1. Cây nến tăng có biên độ rộng với mức cao 26.2 và thấp 25.4. Khối lượng giao dịch duy trì (45.89 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau **Test for Supply** thành công, lực cầu đã quay trở lại quyết đoán. Mặc dù khối lượng không tăng vợt nhưng việc giá tăng mạnh cho thấy **No Supply** - áp lực bán đã yếu đi. Tiếp nối chuỗi tín hiệu tích cực trước đó, đây là xác nhận cho xu hướng tăng của HPG.
+
 - **Ngày 2025-07-17:** Sau tín hiệu **Effort to Rise**, HPG giảm nhẹ từ 26.2 xuống 26.0. Cây nến giảm có biên độ hẹp với mức cao 26.35 và thấp 25.9. Khối lượng giao dịch tăng (56.23 triệu đơn vị), tăng 22% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau **Effort to Rise** mạnh mẽ, việc giá dao động trong biên độ hẹp (25.9-26.35) với khối lượng tăng cho thấy thị trường đang có sự giằng co giữa lực cầu và lực cung. Mặc dù giá có test cao 26.35 nhưng đóng cửa thấp hơn, tuy nhiên việc khối lượng tăng và giá duy trì gần mức cao cho thấy **Test for Supply** này khá tích cực. Sau chuỗi tín hiệu mạnh trước đó, đây là nhịp consolidation lành mạnh.
+
 - **Ngày 2025-07-18:** Sau tín hiệu **Test for Supply**, HPG giảm nhẹ từ 26.0 xuống 25.9. Cây nến giảm có biên độ hẹp với mức cao 26.1 và mức thấp 25.75. Khối lượng giao dịch giảm (40.72 triệu đơn vị), giảm 28% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tiếp diễn. Sau tín hiệu **Test for Supply** trước đó, việc giá giảm nhẹ trên khối lượng giảm cho thấy áp lực bán chốt lời đang giảm bớt. Mặc dù giá có dao động trong biên độ hẹp, nhưng việc khối lượng giảm là dấu hiệu tích cực, cho thấy sau **Effort to Rise** mạnh mẽ trước đó, HPG đang trong giai đoạn consolidation lành mạnh và duy trì ở mức giá cao. Xu hướng tăng vẫn còn nguyên vẹn.
+
 - **Ngày 2025-07-21:** HPG tăng nhẹ từ 25.9 lên 26.2. Cây nến tăng có biên độ rộng với mức cao 27.0 và mức thấp 26.1. Khối lượng giao dịch tăng mạnh (55.70 triệu đơn vị), tăng 37% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau chuỗi tín hiệu **Test for Supply** trước đó, việc giá tăng và test lên mức cao 27.0 với khối lượng tăng mạnh cho thấy lực cầu đã quay trở lại quyết đoán. Việc giá có thể vượt qua vùng kháng cự trước đó và test lên mức cao mới cho thấy sức mạnh của đà phục hồi. Sau giai đoạn consolidation lành mạnh, HPG đã sẵn sàng tiếp tục xu hướng tăng mạnh mẽ.
+
 - **Ngày 2025-07-22:** HPG tăng nhẹ từ 26.2 lên 26.45. Cây nến tăng có biên độ hẹp (0.45 điểm) với mức cao 26.45 và mức thấp 26.0. Khối lượng giao dịch giảm (31.50 triệu đơn vị), giảm 44% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Effort to Rise** mạnh mẽ hôm trước, việc giá tăng nhẹ nhưng khối lượng giảm đáng kể cho thấy lực cầu đã yếu đi và áp lực bán chốt lời đã xuất hiện. Mặc dù giá vẫn đóng cửa ở mức cao nhất phiên (26.45), việc khối lượng giảm 44% cho thấy đây là nhịp điều chỉnh sau đợt tăng mạnh. Sau chuỗi **Effort to Rise** trước đó, HPG đang trong giai đoạn test supply và cần thời gian consolidation trước khi có thể tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-23:** HPG giảm nhẹ từ 26.45 xuống 26.4. Cây nến giảm có biên độ rộng (0.55 điểm) với mức cao 26.95 và mức thấp 26.4. Khối lượng giao dịch tăng mạnh (43.09 triệu đơn vị), tăng 37% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** hôm trước, đây là tín hiệu **Effort to Rise** có đặc điểm hỗn hợp. Việc giá test lên mức cao 26.95 với khối lượng tăng 37% cho thấy lực cầu đã quay trở lại mạnh mẽ và cố gắng vượt qua vùng kháng cự. Tuy nhiên, việc giá đóng cửa gần mức thấp nhất (26.4) cho thấy áp lực bán vẫn còn mạnh ở vùng cao. Sau chuỗi **Effort to Rise** mạnh mẽ trước đó, HPG vẫn đang trong xu hướng tăng nhưng cần thêm thời gian để vượt qua hoàn toàn vùng kháng cự hiện tại.
+
 - **Ngày 2025-07-24:** HPG giảm từ 26.4 xuống 26.0. Cây nến giảm có biên độ rộng (0.55 điểm) với mức cao 26.45 và mức thấp 25.9. Khối lượng giao dịch tăng (51.84 triệu đơn vị), tăng 20% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** mạnh mẽ. Sau tín hiệu **Effort to Rise** hỗn hợp hôm trước với giá đóng cửa yếu, việc giá test xuống thấp 25.9 với khối lượng tăng 20% cho thấy áp lực bán đã gia tăng và lực cầu đang bị thử thách. Việc giá không thể duy trì ở mức cao và bị đẩy xuống dưới 26.0 cho thấy áp lực cung ở vùng cao vẫn còn mạnh. Sau chuỗi **Effort to Rise** trước đó, HPG đang gặp khó khăn trong việc vượt qua vùng kháng cự 26.5-27.0 và cần thêm thời gian consolidation để tích lũy lực cầu.
+
 - **Ngày 2025-07-25:** HPG tăng nhẹ từ 26.0 lên 26.05. Cây nến tăng có biên độ hẹp (0.4 điểm) với mức cao 26.3 và mức thấp 25.9. Khối lượng giao dịch gần như không đổi (51.07 triệu đơn vị), giảm 2% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thận trọng. Sau tín hiệu **Test for Supply** mạnh mẽ hôm trước, việc giá phục hồi nhẹ với biên độ hẹp và khối lượng duy trì cho thấy lực cầu đã có phản ứng nhưng chưa đủ mạnh để tạo ra đột phá. Việc giá test cao 26.3 nhưng đóng cửa gần mức thấp cho thấy áp lực cung vẫn còn ở vùng cao. Sau chuỗi **Effort to Rise** trước đó, HPG vẫn đang trong giai đoạn consolidation và cần thêm thời gian để tích lũy lực cầu mạnh hơn trước khi có thể vượt qua vùng kháng cự 26.5-27.0.
+
 - **Ngày 2025-07-28:** HPG tăng mạnh từ 26.05 lên 26.35. Cây nến tăng có biên độ rộng (0.85 điểm) với mức cao 26.85 và mức thấp 26.0. Khối lượng giao dịch bùng nổ (99.59 triệu đơn vị), tăng 95% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Nỗ lực tăng giá** cực kỳ mạnh mẽ. Sau tín hiệu **Test for Demand** thận trọng hôm trước, việc khối lượng giao dịch bùng nổ tăng 95% kèm theo giá test lên mức cao 26.85 cho thấy lực cầu đã quay trở lại với sức mạnh áp đảo. Việc HPG vượt qua được vùng kháng cự 26.5 và test cao 26.85 với khối lượng khổng lồ cho thấy giai đoạn consolidation đã kết thúc thành công. Đây là tín hiệu đột phá mạnh mẽ, xác nhận xu hướng tăng dài hạn và HPG sẵn sàng bước vào giai đoạn markup mới.
+
 - **Ngày 2025-07-29:** HPG giảm mạnh từ 26.45 xuống 25.35. Cây nến giảm có biên độ rộng (1.25 điểm) với mức cao 26.6 và mức thấp 25.35. Khối lượng giao dịch cao (82.60 triệu đơn vị), duy trì 83% so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Tín hiệu Yếu** đáng lo ngại. Sau tín hiệu **Nỗ lực tăng giá** cực kỳ mạnh mẽ hôm trước, việc giá sụp đổ từ đỉnh 26.6 xuống thấp 25.35 với khối lượng vẫn cao (82.6 triệu) cho thấy một lượng cung lớn đã xuất hiện để chặn đà tăng. Mặc dù khối lượng giảm so với phiên trước nhưng vẫn duy trì ở mức rất cao, cho thấy có sự phân phối mạnh mẽ. Đây là sự đảo chiều nguy hiểm sau đợt breakout, báo hiệu rằng những người nắm giữ lớn có thể đang bán tháo và HPG có nguy cơ quay trở lại vùng consolidation hoặc thậm chí điều chỉnh sâu hơn.
+    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Tín hiệu Yếu** đáng lo ngại. Sau tín hiệu **Nỗ lực tăng giá** cực kỳ mạnh mẽ hôm trước, việc giá sụp đổ từ đỉnh 26.6 xuống thấp 25.35 với khối lượng vẫn cao (82.6 triệu) cho thấy một lượng cung lớn đã xuất hiện để chặn đà tăng. Mặc dù khối lượng giảm so với phiên trước nhưng vẫn duy trì ở mức rất cao, cho thấy có sự phân phối mạnh mẽ. Đây là sự đảo chiều nguy hiểm sau đợt breakout, báo hiệu rằng những người nắm giữ lớn có thể đang bán tháo và HPG có nguy cơ quay trở lại vùng consolidation hoặc thậm chí điều chỉnh sâu hơn.- **Ngày 2025-07-30:** HPG tăng từ 25.35 lên 25.40. Nến giảm với thân vừa, bóng cân đối. Biên độ biến động nhẹ. Khối lượng giao dịch 50.19 triệu đơn vị.
+    - **Phân tích VPA/Wyckoff:** **No Demand** - Thị trường thiếu động lực, đi ngang. Tín hiệu tích cực trong ngắn hạn

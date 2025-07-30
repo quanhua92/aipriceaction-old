@@ -61,40 +61,58 @@
     -   Vùng đỉnh ngắn hạn quanh 1330-1350 điểm (tạo bởi các ngày 2025-05-21, 2025-05-22, 2025-05-26, 2025-06-03, 2025-06-04) là vùng kháng cự cần theo dõi.
 -   **Ngày 2025-06-18:** VN-Index tăng từ 1347.69 điểm lên 1346.83 điểm. Mặc dù đóng cửa giảm nhẹ, nhưng trong phiên chỉ số đã nỗ lực tăng lên mức cao mới (1353.99). Cây nến có biên độ rộng với bóng trên, cho thấy có áp lực bán ở vùng giá cao. Khối lượng giao dịch tiếp tục ở mức RẤT CAO (840.36 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Đây là một phiên **Up-thrust** trong ngày, một dạng **Test for Supply (Kiểm tra nguồn cung)** không thực sự thành công sau một chuỗi tăng mạnh. Nỗ lực đẩy giá lên tiếp đã gặp phải áp lực bán chốt lời. Việc chỉ số không giữ được mức cao nhất trên nền khối lượng lớn là một tín hiệu cảnh báo sớm, cho thấy đà tăng có thể đang chững lại và cần thời gian để hấp thụ lượng cung này.
+
 - **Ngày 2025-06-19:** VN-Index tăng mạnh từ 1346.83 điểm lên 1352.04 điểm. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất phiên, cho thấy phe mua chiếm ưu thế. Khối lượng giao dịch tiếp tục duy trì ở mức RẤT CAO (790.43 triệu đơn vị) , mặc dù có giảm nhẹ so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**, nối tiếp và xác nhận cho sức mạnh của các phiên tăng trước. Sau khi kiểm tra nguồn cung ở phiên 18/06, lực cầu đã quay trở lại một cách mạnh mẽ, hấp thụ áp lực bán và đẩy chỉ số lên cao hơn. Tín hiệu này củng cố cho xu hướng tăng đang diễn ra.
+
 - **Ngày 2025-06-20:** VN-Index giảm nhẹ từ 1352.04 điểm xuống 1349.35 điểm. Biên độ nến không quá lớn, có bóng dưới cho thấy có lực đỡ ở vùng giá thấp. Khối lượng giao dịch tiếp tục ở mức RẤT CAO (847.57 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh mẽ, phiên điều chỉnh với khối lượng vẫn rất cao này tiếp tục cho thấy một cuộc chiến quyết liệt giữa cung và cầu. Đây là một phiên **Test for Supply** ở vùng đỉnh. Việc khối lượng vẫn lớn trong một phiên giảm cho thấy áp lực bán chốt lời là có thật. Tuy nhiên, việc chỉ số không giảm sâu và có lực đỡ cho thấy cầu vẫn đang hấp thụ tốt. Tình hình đang trở nên giằng co, cần theo dõi thêm để xác định liệu phe mua có thể duy trì được sức mạnh hay không.
+
 - **Ngày 2025-06-23:** VNINDEX tăng vọt từ 1345.24 lên 1358.18. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch không đổi (835.34 triệu đơn vị) và vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" đã thành công.
+
 - **Ngày 2025-06-24:** VNINDEX tăng mạnh từ 1358.18 điểm lên 1366.77 điểm. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tiếp tục ở mức RẤT CAO (969.47 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của phiên trước đó. Việc chỉ số tiếp tục tăng mạnh trên khối lượng cao cho thấy phe mua vẫn đang kiểm soát hoàn toàn thị trường, củng cố cho xu hướng tăng.
+
 - **Ngày 2025-06-25:** VNINDEX giảm nhẹ từ 1366.77 xuống 1366.75. Cây nến có biên độ hẹp và đóng cửa giảm nhẹ so với phiên trước. Khối lượng giao dịch giảm nhẹ (845.07 triệu đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Sau hai phiên **Effort to Rise** mạnh mẽ, phiên giảm nhẹ với khối lượng vẫn rất cao này là một **Test for Supply** ở vùng đỉnh. Nó cho thấy thị trường đang tạm nghỉ và hấp thụ lực bán chốt lời. Việc chỉ số chỉ giảm rất nhẹ là một tín hiệu tích cực, cho thấy lực cầu vẫn đang hấp thụ tốt.
+
 - **Ngày 2025-06-26:** VNINDEX giảm nhẹ từ 1366.75 xuống 1365.67. Nến giảm điểm có biên độ hẹp. Khối lượng giao dịch giảm nhẹ (760 triệu đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo. Áp lực bán vẫn còn và đã thắng thế trong phiên hôm nay. Việc khối lượng vẫn rất cao cho thấy sự giằng co quyết liệt. Tín hiệu trung tính, phe mua cần phải thể hiện sức mạnh để vượt qua vùng này.
+
 - **Ngày 2025-06-27:** VNINDEX tăng mạnh từ 1365.67 lên 1371.44. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (715.8 triệu đơn vị) và vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-06-30:** VNINDEX tăng từ 1371.44 lên 1376.07. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm nhẹ (637.6 triệu đơn vị) nhưng vẫn ở mức cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-01:** VNINDEX tăng nhẹ từ 1376.07 lên 1377.84. Biên độ nến khá rộng, có bóng trên và dưới, cho thấy sự giằng co. Khối lượng giao dịch tăng (814.19 triệu đơn vị) và vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng mạnh, phiên đi ngang với khối lượng vẫn rất cao này tiếp tục cho thấy một cuộc chiến quyết liệt giữa cung và cầu. Đây là một phiên **Test for Supply** ở vùng đỉnh. Tình hình đang trở nên giằng co, cần theo dõi thêm để xác định liệu phe mua có thể duy trì được sức mạnh hay không.
+
 - **Ngày 2025-07-02:** VNINDEX tăng mạnh từ 1377.84 lên 1384.59. Cây nến tăng có biên độ tốt và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng (925.73 triệu đơn vị) và vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận các phiên "Test for Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-03:** VNINDEX giảm từ 1384.59 xuống 1381.96. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng vọt lên mức rất cao (1.39 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)** mạnh mẽ. Sau phiên tăng giá hôm trước, một phiên đảo chiều giảm điểm trên khối lượng cực lớn cho thấy áp lực bán đã xuất hiện và áp đảo, cảnh báo về một đợt điều chỉnh.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** mạnh mẽ của phiên trước, phiên hôm nay VNINDEX tăng nhẹ từ 1381.96 điểm lên 1386.97 điểm. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (836 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Sau tín hiệu yếu kém trước đó, sự phục hồi với khối lượng thấp cho thấy lực cầu chưa đủ mạnh và không đáng tin cậy, làm tăng khả năng giá sẽ sớm kiểm tra lại các mức thấp hơn.
+
 - **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VNINDEX tăng vọt từ 1386.97 điểm lên 1402.06 điểm. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (1.29 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-08:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, phiên hôm nay VNINDEX tăng từ 1402.06 điểm lên 1415.46 điểm. Cây nến tăng có biên độ tốt và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm (1.21 tỷ đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)** rất tích cực. Sau phiên bùng nổ, việc giá chững lại trên khối lượng thấp hơn cho thấy áp lực bán chốt lời không đáng kể, củng cố mạnh mẽ cho xu hướng tăng.
+
 - **Ngày 2025-07-09:** Tiếp nối phiên **Test for Supply (Kiểm tra Nguồn cung)** thành công của ngày hôm trước, phiên hôm nay VNINDEX tăng vọt từ 1415.46 điểm lên 1431.32 điểm. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch bùng nổ (1.48 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận phiên 'Test for Supply' đã thành công. Lực cầu đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, phiên hôm nay VNINDEX tăng vọt từ 1431.32 điểm lên 1445.64 điểm. Cây nến có biên độ rất rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm (1.07 tỷ đơn vị) nhưng vẫn ở mức rất cao.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Việc giá tăng mạnh trên khối lượng giảm cho thấy áp lực bán đã yếu đi đáng kể (**No Supply**), giúp phe mua dễ dàng đẩy giá lên. Tín hiệu rất tích cực.
+
 - **Ngày 2025-07-11:** Tiếp nối chuỗi tăng giá mạnh mẽ, hôm nay VNINDEX tăng vọt từ 1445.64 điểm lên 1457.76 điểm. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (1.26 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho sức mạnh của xu hướng tăng. Phe mua vẫn đang hoàn toàn kiểm soát thị trường. Tín hiệu rất tích cực.
+
 - **Ngày 2025-07-15:** Sau tín hiệu **Effort to Rise** mạnh mẽ ngày 11/7, VNINDEX mở cửa cao (1473.8 điểm) và tăng lên mức cao nhất 1476.32 điểm nhưng sau đó giảm xuống đóng cửa ở 1460.65 điểm. Cây nến có biên độ rộng với bóng trên dài, thể hiện sự giằng co. Khối lượng giao dịch tăng (1.41 tỷ đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** quan trọng. Sau chuỗi tăng mạnh liên tiếp, việc giá mở cao nhưng bị đẩy xuống trên khối lượng tăng cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tín hiệu cảnh báo cần quan sát thêm để xác định liệu phe mua có thể vượt qua được áp lực cung này hay không.
 
@@ -125,3 +143,6 @@
 
 - **Ngày 2025-07-29:** VNINDEX mở cửa gap lên cao từ 1557.42 điểm lên 1562.6 điểm và đạt mức cao nhất phiên tại 1564.92 điểm, tuy nhiên sau đó giảm mạnh và đóng cửa tại 1531.76 điểm. Cây nến có biên độ rất rộng với bóng trên cực dài, thể hiện sự đảo chiều mạnh mẽ từ mức cao. Khối lượng giao dịch bùng nổ lên 2.15 tỷ đơn vị, mức cao nhất kể từ đầu năm.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Buying Climax (Cao trào Mua)** điển hình xuất hiện sau chuỗi tín hiệu **Sign of Strength** liên tiếp. Việc giá gap lên cao và đạt đỉnh mới trên khối lượng kỷ lục nhưng bị bán tháo mạnh ngay trong phiên cho thấy đã xuất hiện một lượng cung khổng lồ từ "dòng tiền thông minh" đang chốt lời. Khối lượng 2.15 tỷ đơn vị kết hợp với việc đóng cửa thấp hơn 25.66 điểm so với mức cao nhất phiên là dấu hiệu cảnh báo mạnh mẽ về khả năng kết thúc giai đoạn markup và bắt đầu giai đoạn phân phối. Tín hiệu này có thể đánh dấu một điểm chuyển hướng quan trọng sau chuỗi tăng mạnh từ đầu tháng 7.
+
+- **Ngày 2025-07-30:** VNINDEX tăng từ 1493.41 điểm lên 1507.63 điểm với biên độ dao động từ 1482.45 đến 1512.15 điểm. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch giảm mạnh xuống 1.67 tỷ đơn vị so với phiên trước (2.79 tỷ đơn vị).
+    - **Phân tích VPA/Wyckoff:** **Automatic Rally (AR)** - Sau tín hiệu Buying Climax mạnh mẽ của phiên trước, việc giá mở cửa thấp hơn (1493.41 vs 1531.76) nhưng nhanh chóng phục hồi và test lên 1512.15 rồi đóng cửa tại 1507.63 với khối lượng giảm đáng kể cho thấy đây là một phản ứng tự nhiên sau đợt bán tháo. Đuôi dài phía dưới từ 1482.45 lên 1507.63 là dấu hiệu tích cực, thể hiện lực cầu vẫn có mặt để hỗ trợ ở vùng thấp hơn. Tuy nhiên, việc không thể vượt qua mức 1512.15 và khối lượng giảm cho thấy đây chỉ là rallying tạm thời sau selling climax, cần theo dõi thêm để xác định liệu thị trường có thể tìm lại được sự cân bằng hay sẽ test lại vùng thấp hơn.

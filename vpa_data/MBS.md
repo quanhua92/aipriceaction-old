@@ -6,52 +6,76 @@
     -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
 -   **Ngày 2025-06-18:** MBS đi ngang, đóng cửa ở mức 27.0. Nến có biên độ hẹp. Khối lượng giao dịch vẫn ở mức thấp (2.27 triệu đơn vị).
     -   **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn không thay đổi. Thị trường thiếu động lực rõ rệt từ cả hai phía, khả năng cao sẽ tiếp tục đi ngang.
+
 - **Ngày 2025-06-19:** MBS giảm từ 27.0 xuống 26.9. Nến giảm có biên độ hẹp. Khối lượng giao dịch giảm mạnh (1.52 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn không thay đổi. Thị trường thiếu động lực và tiếp tục đi ngang.
+
 - **Ngày 2025-06-20:** MBS đi ngang, đóng cửa ở mức 26.9. Nến có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (1.94 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn không thay đổi. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-23:** MBS giảm từ 26.9 lên 26.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (2.39 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** vẫn không thay đổi. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-24:** MBS tăng mạnh từ 26.7 lên 27.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (6.46 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Lực cầu đã quay trở lại quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-06-25:** MBS giảm từ 27.3 xuống 27.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (3.91 triệu đơn vị) so với phiên tăng mạnh trước.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên "Effort to Rise". Áp lực bán không lớn, là một tín hiệu tích cực.
+
 - **Ngày 2025-06-26:** MBS đi ngang từ 27.0 ở mức 27.0. Nến có biên độ vừa phải. Khối lượng giao dịch giảm (3.04 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên "Test for Supply" tích cực, phiên đi ngang này cho thấy sự do dự. Áp lực bán không lớn, nhưng lực cầu cũng chưa quay trở lại mạnh mẽ (**No Demand**).
+
 - **Ngày 2025-06-27:** MBS đi ngang, đóng cửa ở mức 27.0. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (2.62 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên **No Demand** hôm trước, phiên đi ngang này tiếp tục xác nhận sự thiếu vắng động lực. Tình trạng **No Demand** không thay đổi.
+
 - **Ngày 2025-06-30:** MBS đi ngang, đóng cửa ở mức 27.0. Nến có biên độ hẹp. Khối lượng giao dịch không đổi (3.27 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** không thay đổi. Thị trường thiếu động lực và tiếp tục đi ngang.
+
 - **Ngày 2025-07-01:** MBS giảm từ 27.0 xuống 26.7. Nến giảm có biên độ hẹp. Khối lượng giao dịch CẠN KIỆT (1k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau chuỗi ngày **No Demand**, phiên giảm điểm trên khối lượng cạn kiệt là một tín hiệu **No Supply**. Nó cho thấy áp lực bán đã cạn kiệt, tạo điều kiện cho một đợt phục hồi nếu có lực cầu xuất hiện.
+
 - **Ngày 2025-07-02:** MBS tăng mạnh từ 26.7 lên 27.5. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt (7.87 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ. Sau khi áp lực bán cạn kiệt (No Supply), phe mua đã dễ dàng đẩy giá lên, cho thấy khả năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-03:** MBS giảm từ 27.5 xuống 27.3. Nến giảm có biên độ vừa phải. Khối lượng giao dịch CẠN KIỆT (1.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** cực kỳ tích cực sau phiên "Effort to Rise". Việc giá điều chỉnh nhẹ trên khối lượng cạn kiệt cho thấy áp lực bán gần như không còn. Đây là tín hiệu **No Supply**, tạo điều kiện rất thuận lợi để xu hướng tăng tiếp diễn.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **No Supply** cực kỳ tích cực của ngày hôm trước, phiên hôm nay MBS tăng từ 27.3 lên 27.4. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng vọt (3.84 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận phiên "No Supply" đã thành công. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-07:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay MBS tăng mạnh từ 27.4 lên 28.0. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng (6.74 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng tiếp tục xu hướng tăng.
+
 - **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay MBS tăng mạnh từ 28.0 lên 28.2. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch CẠN KIỆT (500 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng mạnh trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất, giúp phe mua dễ dàng đẩy giá lên mà không cần tốn nhiều sức lực. Tín hiệu rất tích cực, củng cố mạnh mẽ cho xu hướng tăng.
+
 - **Ngày 2025-07-09:** Tiếp nối tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ của phiên trước, phiên hôm nay MBS tăng mạnh từ 28.2 lên 28.8. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng nhẹ lên 1.1k đơn vị nhưng vẫn ở mức cạn kiệt.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng mạnh trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất, giúp phe mua dễ dàng đẩy giá lên mà không cần tốn nhiều sức lực. Tín hiệu rất tích cực, củng cố mạnh mẽ cho xu hướng tăng.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **No Supply** cực kỳ mạnh mẽ, phiên hôm nay MBS giảm từ 28.8 xuống 28.4. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng vọt (5.97 triệu đơn vị) so với các phiên cạn kiệt trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, phủ nhận hoàn toàn các tín hiệu **No Supply** trước đó. Áp lực bán đã bất ngờ quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+
 - **Ngày 2025-07-11:** Sau tín hiệu **Effort to Fall**, hôm nay MBS tăng mạnh từ 28.4 lên 29.3. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (12.92 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu kém của phiên trước. Lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+
 - **Ngày 2025-07-14:** Tiếp nối tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hôm nay MBS tăng từ 29.3 lên 29.5. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm mạnh (400 đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply (Không có Nguồn cung)** cực kỳ mạnh mẽ. Việc giá tăng trên khối lượng cạn kiệt cho thấy áp lực bán đã hoàn toàn biến mất. Đây là dấu hiệu tích cực rất mạnh, củng cố cho xu hướng tăng và báo hiệu tiềm năng phục hồi mạnh mẽ.
+
 - **Ngày 2025-07-15:** MBS giảm từ 29.5 xuống 29.1. Nến giảm có biên độ vừa phải với giá cao nhất đạt 30.6. Khối lượng giao dịch tăng (11.34 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tích cực. Sau tín hiệu **No Supply** trước đó, việc giá giảm nhẹ trên khối lượng tăng cho thấy có áp lực bán chốt lời, tuy nhiên mức giảm không lớn cho thấy đây là một nhịp kiểm tra bình thường trong xu hướng tăng.
+
 - **Ngày 2025-07-16:** MBS tăng từ 29.1 lên 29.2. Nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm (7.03 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** trên nền **No Supply**. Sau phiên **Test for Supply** tích cực, sự tăng giá trên khối lượng giảm cho thấy áp lực bán đã giảm bớt, giúp phe mua dễ dàng đẩy giá lên. Tín hiệu tích cực cho xu hướng tăng.
+
 - **Ngày 2025-07-17:** MBS giữ nguyên giá ở 29.2. Nến có biên độ hẹp với giá cao nhất đạt 29.8. Khối lượng giao dịch giảm mạnh (5.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** và **No Supply** cùng lúc. Sau phiên **Effort to Rise** trên nền **No Supply**, việc giá đi ngang với khối lượng cực thấp cho thấy thị trường thiếu động lực từ cả hai phía. Cần chờ đợi động lực mới.
+
 - **Ngày 2025-07-18:** MBS tăng mạnh từ 29.2 lên 30.1. Nến tăng có biên độ rộng với giá cao nhất đạt 31.2. Khối lượng giao dịch tăng mạnh (13.41 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên thiếu động lực trước đó, sự tăng giá mạnh với khối lượng tăng vọت cho thấy lực cầu đã quay trở lại rất mạnh mẽ. Việc giá chạm mức cao 31.2 trước khi đóng cửa ở 30.1 cho thấy có áp lực chốt lời ở vùng giá cao nhưng lực cầu vẫn đủ mạnh duy trì mức tăng đáng kể. Tín hiệu rất tích cực cho xu hướng tăng mạnh.
+
 - **Ngày 2025-07-21:** MBS giảm từ 30.1 xuống 29.6. Nến giảm có biên độ rộng với giá cao nhất đạt 30.8 và thấp nhất 29.5. Khối lượng giao dịch giảm mạnh (5.58 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau phiên **Effort to Rise** mạnh mẽ của ngày trước, sự giảm giá trên khối lượng giảm đáng kể cho thấy áp lực bán chốt lời đã xuất hiện nhưng không mạnh. Việc giá có test lên 30.8 trước khi điều chỉnh xuống 29.6 và khối lượng giảm mạnh là dấu hiệu tích cực. Đây là một nhịp điều chỉnh bình thường sau đợt tăng mạnh.
+
 - **Ngày 2025-07-22:** MBS phục hồi mạnh từ 29.6 lên 30.2. Nến tăng có biên độ rộng với giá cao nhất đạt 30.4 và thấp nhất 29.2. Khối lượng giao dịch tăng (7.66 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ. Sau phiên **Test for Supply** tích cực của ngày trước, sự phục hồi giá với khối lượng gia tăng cho thấy lực cầu đã quay trở lại quyết đoán. Việc có test xuống 29.2 ở đầu phiên nhưng phục hồi mạnh lên 30.2 thể hiện sức mạnh của lực đỡ và khả năng vượt qua giai đoạn kiểm tra cung. Tín hiệu tích cực cho xu hướng tăng tiếp tục.
 
@@ -70,3 +94,5 @@
 - **Ngày 2025-07-29:** MBS gap up mạnh mở cửa ở 36.2 nhưng sau đó giảm mạnh về 33.8. Cây nến có biên độ cực rộng với mức cao 37.6 và mức thấp 33.5. Khối lượng giao dịch tăng vọt (18.37 triệu đơn vị), tăng 68% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** mạnh mẽ. Sau tín hiệu **No Supply** mạnh mẽ của phiên trước, sự gap up nhưng sau đó giảm mạnh với khối lượng tăng vọt cho thấy áp lực bán đã xuất hiện áp đảo ở vùng giá cao 36.2-37.6. Việc giá sụp đổ từ mức cao 37.6 xuống 33.8 với khối lượng lớn thể hiện sự phân phối mạnh mẽ và áp lực bán áp đảo. Tín hiệu này phủ nhận hoàn toàn xu hướng tăng trước đó và báo hiệu khả năng cao sẽ có đợt điều chỉnh sâu.
 
+- **Ngày 2025-07-30:** MBS tăng từ 33.80 lên 36.50. Nến tăng với thân dài, bóng cân đối. Biên độ biến động mạnh. Khối lượng giao dịch 11.22 triệu đơn vị.
+    - **Phân tích VPA/Wyckoff:** **Weak Buying** - Tăng giá với khối lượng thấp, thiếu bền vững. Tín hiệu tích cực trong ngắn hạn

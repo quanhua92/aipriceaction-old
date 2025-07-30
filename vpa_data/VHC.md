@@ -6,61 +6,93 @@
     -   **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực và có khả năng sẽ tiếp tục đi ngang hoặc điều chỉnh.
 -   **Ngày 2025-06-18:** VHC tăng nhẹ từ 54.2 lên 54.5. Nến tăng có biên độ hẹp. Khối lượng giao dịch tăng nhẹ (885.5k đơn vị).
     -   **Phân tích VPA/Wyckoff:** Sau phiên "No Demand" được xác nhận, phiên tăng nhẹ với khối lượng cải thiện này cho thấy có một chút nỗ lực từ phe mua, nhưng chưa đủ để tạo ra một tín hiệu mạnh mẽ. Vẫn là một tín hiệu **Effort to Rise** yếu.
+
 - **Ngày 2025-06-19:** VHC giảm từ 54.5 xuống 54.0. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (539.7k đơn vị).
     - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Thị trường thiếu động lực.
+
 - **Ngày 2025-06-20:** VHC tăng vọt từ 54.0 lên 57.6. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng vọt (2.88 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength (SOS)**. Sau một giai đoạn đi ngang thiếu động lực, lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng bắt đầu một xu hướng tăng mới.
+
 - **Ngày 2025-06-23:** VHC đi ngang, đóng cửa ở mức 56.6. Nến có biên độ vừa phải. Khối lượng giao dịch giảm (1.79 triệu đơn vị) so với phiên SOS.
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau phiên bùng nổ SOS. Áp lực bán chốt lời đã xuất hiện. Việc khối lượng giảm trong phiên điều chỉnh là một tín hiệu tốt.
+
 - **Ngày 2025-06-24:** VHC giảm từ 57.6 xuống 56.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.67 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** tiếp theo sau phiên SOS. Áp lực bán chốt lời đã xuất hiện nhưng không quá mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường.
+
 - **Ngày 2025-06-25:** VHC đi ngang, đóng cửa ở mức 56.9. Cây nến có biên độ hẹp. Khối lượng giao dịch giảm (1.32 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau phiên SOS và các phiên Test for Supply, phiên đi ngang này cho thấy sự tích lũy. Thị trường đang cân bằng giữa cung và cầu, chuẩn bị cho bước tiếp theo.
+
 - **Ngày 2025-06-26:** VHC tăng vọt từ 56.9 lên 58.5. Nến tăng có biên độ rất rộng, đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.48 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS)** mạnh mẽ. Sau giai đoạn tích lũy, lực mua đã quay trở lại một cách áp đảo, cho thấy tiềm năng tiếp tục xu hướng tăng đã được thiết lập từ phiên SOS ngày 20/06.
+
 - **Ngày 2025-06-27:** VHC tăng từ 58.5 lên 59.7. Nến tăng có biên độ rộng. Khối lượng giao dịch không đổi (2.24 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là sự tiếp diễn của tín hiệu **Sign of Strength (SOS)** từ phiên trước. Lực cầu vẫn đang duy trì, củng cố cho xu hướng tăng.
+
 - **Ngày 2025-06-30:** VHC giảm từ 60.3 xuống 59.7. Nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (1.58 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau hai phiên tăng mạnh, phiên giảm với khối lượng giảm này là một **Test for Supply**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường.
+
 - **Ngày 2025-07-01:** VHC giảm từ 59.7 xuống 58.9. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (2.11 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, xác nhận cho phiên "Test for Supply" hôm trước. Áp lực bán đã quay trở lại mạnh mẽ, cho thấy sự yếu kém trong ngắn hạn.
+
 - **Ngày 2025-07-02:** VHC tăng mạnh từ 58.9 lên 60.8. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (2.72 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận tín hiệu **Effort to Fall** của phiên trước. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bứt phá khỏi giai đoạn điều chỉnh.
+
 - **Ngày 2025-07-03:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay VHC giảm mạnh từ 60.8 xuống 57.4. Cây nến có biên độ giảm rất rộng. Khối lượng giao dịch tăng (3.75 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Weakness (SOW)**, phủ nhận hoàn toàn nỗ lực tăng giá và cho thấy phe bán đã quay lại áp đảo.
+
 - **Ngày 2025-07-04:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay VHC tăng nhẹ từ 57.4 lên 57.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (1.21 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+
 - **Ngày 2025-07-07:** Sau cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VHC tăng nhẹ từ 57.8 lên 58.0. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (935.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
+
 - **Ngày 2025-07-08:** Sau cú hồi kỹ thuật, phiên hôm nay VHC giảm từ 59.5 xuống 58.5. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (1.54 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho tín hiệu **Sign of Weakness (SOW)** trước đó.
+
 - **Ngày 2025-07-09:** Sau cú hồi kỹ thuật, phiên hôm nay VHC tăng mạnh từ 58.5 lên 59.6. Cây nến tăng có biên độ rộng. Khối lượng giao dịch tăng vọt (2.91 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, phủ nhận các tín hiệu yếu kém trước đó. Lực cầu đã quay trở lại một cách quyết đoán, cho thấy tiềm năng bắt đầu một đợt phục hồi.
+
 - **Ngày 2025-07-10:** Tiếp nối tín hiệu **Effort to Rise**, phiên hôm nay VHC giảm từ 59.6 xuống 59.1. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm (955.3k đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán chốt lời đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+
 - **Ngày 2025-07-11:** Sau phiên **Test for Supply**, hôm nay VHC giảm từ 59.1 xuống 58.1. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (1.57 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, phủ nhận tín hiệu tích cực trước đó.
+
 - **Ngày 2025-07-15:** VHC đi ngang từ 57.9 lên 57.7 với đỉnh ngày đạt 58.6. Nến có biên độ rộng. Khối lượng giao dịch tăng (1.08 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Fall, việc giá test lên vùng 58.6 nhưng đóng cửa thấp hơn cho thấy áp lực bán vẫn còn tại vùng kháng cự. Khối lượng tăng cho thấy có sự quan tâm nhưng lực cầu chưa đủ mạnh để vượt qua.
+
 - **Ngày 2025-07-16:** VHC giảm từ 57.6 xuống 57.1 với đỉnh ngày đạt 57.7. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng mạnh (2.02 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau phiên Test for Supply, việc giá giảm với khối lượng tăng gấp đôi xác nhận áp lực bán vẫn đang kiểm soát. Tín hiệu tiêu cực này cho thấy xu hướng điều chỉnh có thể tiếp diễn.
+
 - **Ngày 2025-07-17:** VHC tăng từ 57.5 lên 57.6 với đỉnh ngày đạt 58.2. Nến tăng có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm (1.14 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Effort to Fall, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 57.3. Việc giá phục hồi nhẹ với khối lượng giảm cho thấy lực cầu bắt đầu xuất hiện nhưng vẫn chưa thực sự mạnh mẽ.
+
 - **Ngày 2025-07-17:** VHC tăng từ 57.6 lên 58.5 với đỉnh ngày đạt 58.9. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (1.4 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand, lực cầu đã quay trở lại mạnh mẽ hơn để thử nghiệm vùng kháng cự 58.9. Việc giá tăng mạnh với khối lượng cải thiện cho thấy khả năng đảo chiều xu hướng giảm điều chỉnh sau tín hiệu Effort to Fall trước đó.
+
 - **Ngày 2025-07-18:** VHC giảm từ 57.5 xuống 56.9 với đỉnh ngày đạt 57.9. Nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng (2.66 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Sau tín hiệu Effort to Rise của phiên trước, việc giá giảm mạnh với khối lượng tăng gấp đôi cho thấy áp lực bán đã quay trở lại mạnh mẽ. Nỗ lực tăng giá của phiên trước đã thất bại, thị trường có thể tiếp tục xu hướng giảm điều chỉnh.
+
 - **Ngày 2025-07-21:** Sau tín hiệu Effort to Fall tiêu cực, VHC tăng từ 56.9 lên 57.2 với đỉnh ngày đạt 57.6. Nến tăng có biên độ vừa phải với đuôi dài phía dưới. Khối lượng giao dịch giảm mạnh (982.9k đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Effort to Fall mạnh mẽ, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 56.9. Việc giá phục hồi nhẹ với khối lượng giảm mạnh (từ 2.66M xuống 982.9k) cho thấy lực cầu bắt đầu xuất hiện nhưng vẫn yếu. Cần theo dõi thêm để xác nhận.
+
 - **Ngày 2025-07-22:** VHC tăng từ 57.5 lên 57.6 với đỉnh ngày đạt 58.9. Nến tăng có biên độ rộng và đóng cửa ở mức thấp. Khối lượng giao dịch tăng (1.70 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau Test for Demand yếu kém của phiên trước, lực cầu đã quay trở lại mạnh mẽ để thử nghiệm vùng kháng cự 58.9. Việc khối lượng tăng từ 982.9k lên 1.70M kèm theo việc giá test thành công 58.9 cho thấy smart money đang tích cực mua vào, tuy nhiên cần quan sát thêm để xác nhận khả năng phủ nhận hoàn toàn xu hướng giảm điều chỉnh trước đó.
+
 - **Ngày 2025-07-23:** VHC giảm nhẹ từ 57.6 xuống 57.6. Cây nến giảm có biên độ hẹp với giá mở cửa 58.1. Khối lượng giao dịch giảm (1.15 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Effort to Rise** của phiên trước, việc giá mở cửa ở mức cao 58.1 nhưng đóng cửa không thay đổi với khối lượng giảm cho thấy áp lực bán chốt lợi đã xuất hiện nhưng không mạnh. Việc khối lượng giảm là dấu hiệu tích cực, cho thấy đây chỉ là nhịp nghỉ sau nỗ lực tăng giá.
+
 - **Ngày 2025-07-24:** VHC tăng từ 57.8 lên 58.2 với đỉnh ngày đạt 59.3 và mức thấp 57.6. Nến tăng có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch bùng nổ (3.37 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Test for Supply tích cực của phiên trước, phiên hôm nay xác nhận sự đột phá mạnh mẽ. Việc giá test thành công vùng 59.3 với khối lượng bùng nổ từ 1.15M lên 3.37M (tăng gần 3 lần) cho thấy lực cầu đã hoàn toàn chiếm ưu thế. Mặc dù đóng cửa không ở mức cao nhất nhưng việc test được 59.3 với khối lượng khổng lồ là dấu hiệu smart money đang tích cực tích lũy. Tín hiệu SOS mạnh mẽ này xác nhận xu hướng tăng giá đã chính thức bắt đầu.
+
 - **Ngày 2025-07-25:** VHC đi ngang từ 58.3 lên 58.1 với đỉnh ngày đạt 59.3 và mức thấp 58.0. Nến giảm có biên độ hẹp và đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tiếp tục cao (3.82 triệu đơn vị).
     - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS mạnh mẽ của phiên trước, việc giá test lại vùng 59.3 nhưng đóng cửa thấp hơn với khối lượng vẫn duy trì cao (từ 3.37M lên 3.82M) cho thấy có áp lực chốt lời tại vùng kháng cự. Tuy nhiên, việc khối lượng duy trì cao và giá không giảm sâu dưới 58.0 là tín hiệu tích cực, cho thấy lực cầu vẫn mạnh và đây chỉ là giai đoạn kiểm tra bình thường sau SOS.
+
 - **Ngày 2025-07-28:** VHC tăng từ 58.5 lên 58.4 với đỉnh ngày đạt 58.9 và mức thấp 57.9. Nến giảm có biên độ hẹp và đóng cửa gần mức trung bình phiên. Khối lượng giao dịch giảm (2.426.500 đơn vị).
     - **Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Supply của phiên trước, việc giá duy trì ổn định quanh vùng 58.4 với khối lượng giảm từ 3.82M xuống 2.43M cho thấy áp lực bán đã giảm đáng kể. Mặc dù giá có test xuống 57.9 nhưng nhanh chóng phục hồi và đóng cửa ở 58.4, điều này xác nhận lực cầu vẫn đang hỗ trợ tốt tại vùng này. Tín hiệu No Supply này rất tích cực, cho thấy thị trường đang tạo nền tảng vững chắc sau tín hiệu SOS để chuẩn bị cho đợt tăng tiếp theo.
+
 - **Ngày 2025-07-29:** VHC sụt giảm mạnh từ 58.9 xuống 54.7 với mở cửa ở mức cao nhất 58.9. Nến giảm có biên độ cực rộng và đóng cửa ở mức thấp nhất phiên. Khối lượng giao dịch tăng vọt lên 3.168.400 đơn vị.
     - **Phân tích VPA/Wyckoff:** **Climatic Action** - Sau tín hiệu No Supply tích cực của phiên trước, việc giá sụt giảm thảm khốc từ 58.9 xuống 54.7 (giảm 7.1%) với khối lượng bùng nổ là một động thái climatic điển hình. Đây có thể là selling climax được tạo ra bởi panic selling hoặc bad news. Việc giá đóng cửa ở mức thấp nhất phiên sau khi test xuống 54.7 với khối lượng khổng lồ cho thấy áp lực bán cực kỳ dữ dội. Tuy nhiên, từ góc độ Wyckoff, đây có thể là dấu hiệu của việc smart money tạo ra panic để accumulate với giá tốt hơn, đặc biệt sau chuỗi tín hiệu tích cực trước đó.
+
+- **Ngày 2025-07-30:** VHC phục hồi từ 54.7 lên 56.0 với đỉnh ngày đạt 56.1 và mức thấp 54.9. Nến tăng có biên độ hẹp và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 1.437.600 đơn vị.
+    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Climatic Action của phiên trước, việc giá phục hồi từ 54.7 lên 56.0 và test xuống 54.9 (gần mức đáy của phiên trước) với khối lượng giảm mạnh xuống 1.44M cho thấy áp lực bán đã cạn kiệt sau đợt panic. Việc giá đóng cửa ở mức cao nhất phiên 56.0 sau khi test thành công về vùng 54.9 xác nhận lực cầu đã bắt đầu hấp thụ tích cực tại vùng giá thấp. Đây là tín hiệu Test for Demand rất tích cực sau climatic action, báo hiệu khả năng phục hồi mạnh mẽ khi smart money đã hoàn tất việc accumulation tại vùng giá hấp dẫn.
