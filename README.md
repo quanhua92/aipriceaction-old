@@ -193,4 +193,103 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 🤖 VPA Processing Coordinator
+
+Dự án bao gồm một script mạnh mẽ `main_process_vpa.py` để tự động hóa toàn bộ quy trình phân tích VPA (Volume Price Analysis) sử dụng AI agent coordination.
+
+### Tính Năng Chính
+
+- **Đa AI Agent**: Hỗ trợ cả Claude và Gemini CLI
+- **Phân Tích Thông Minh**: Tự động bỏ qua dữ liệu đã được phân tích
+- **Logging Toàn Diện**: Ghi log chi tiết với timestamp, lưu tại `/tmp`
+- **Kiểm Tra Cổ Tức**: Tự động phát hiện cần điều chỉnh cổ tức
+- **Xử Lý Lỗi Mạnh Mẽ**: Tiếp tục xử lý khi gặp lỗi với ticker cụ thể
+
+### Cách Sử Dụng
+
+#### Phân Tích Hàng Ngày (Daily)
+
+```bash
+# Sử dụng Claude (mặc định)
+python main_process_vpa.py
+
+# Sử dụng Gemini
+python main_process_vpa.py --agent gemini
+
+# Bật debug logging
+python main_process_vpa.py --debug
+
+# Claude với debug
+python main_process_vpa.py --agent claude --debug
+```
+
+#### Phân Tích Hàng Tuần (Weekly)
+
+```bash
+# Phân tích tuần với Claude
+python main_process_vpa.py --week
+
+# Phân tích tuần với Gemini
+python main_process_vpa.py --week --agent gemini
+
+# Debug mode cho phân tích tuần
+python main_process_vpa.py --week --agent gemini --debug
+```
+
+### Quy Trình Hoạt Động
+
+1. **Kiểm Tra Cổ Tức**: Tự động phát hiện thư mục `market_data_check_dividends/` hoặc `market_data_check_dividends_week/`
+2. **Phân Tích Thông Minh**: 
+   - Đọc dữ liệu CSV mới nhất từ `market_data/` hoặc `market_data_week/`
+   - So sánh với phân tích VPA hiện có trong `vpa_data/` hoặc `vpa_data_week/`
+   - Chỉ xử lý ticker có dữ liệu mới chưa được phân tích
+3. **AI Coordination**: 
+   - Gọi `claude -p` hoặc `gemini -p` với context đầy đủ
+   - Mỗi ticker được xử lý với thông tin giá/khối lượng và VPA lịch sử
+4. **Merge Tự Động**: Gọi `merge_vpa.py` để tổng hợp kết quả vào `VPA.md` hoặc `VPA_week.md`
+
+### Thông Số Dòng Lệnh
+
+| Tham số | Mô tả | Mặc định |
+|---------|-------|----------|
+| `--week` | Chế độ phân tích hàng tuần | Daily |
+| `--agent` | AI agent sử dụng (`claude` hoặc `gemini`) | `claude` |
+| `--debug` | Bật debug logging chi tiết | False |
+
+### Log Files
+
+- **Vị trí**: `/tmp/vpa_processing_YYYYMMDD_HHMMSS.log`
+- **Format**: `HH:MM:SS - LEVEL - MESSAGE`
+- **Levels**: INFO (standard), DEBUG (với --debug)
+
+### Ví Dụ Output
+
+```
+15:30:22 - INFO - 🚀 Starting VPA Processing Coordinator
+15:30:22 - INFO - 📅 Mode: Daily
+15:30:22 - INFO - 🤖 AI Agent: CLAUDE
+15:30:22 - INFO - ✓ No dividend folder found
+15:30:23 - INFO - 📊 Loaded 108 tickers from TICKERS.csv
+15:30:24 - INFO - 📊 15 out of 108 tickers need analysis
+15:30:25 - INFO - 🤖 Calling CLAUDE for VHM analysis...
+15:30:45 - INFO - ✅ VHM: Analysis completed successfully
+15:31:02 - INFO - 📊 VPA Analysis Summary:
+15:31:02 - INFO -    ✓ Successful: 15
+15:31:02 - INFO -    ❌ Failed: 0
+15:31:02 - INFO -    📈 Success rate: 100.0%
+15:31:03 - INFO - ✓ VPA analysis merged successfully
+15:31:03 - INFO - 🎉 VPA Processing Complete!
+```
+
+### Tích Hợp với CLAUDE.md
+
+Script tuân theo hoàn toàn các giao thức trong `tasks/DAILY_VPA.md` và `tasks/WEEKLY_VPA.md`, bao gồm:
+
+- ✅ Kiểm tra dividends trước khi phân tích  
+- ✅ Sử dụng reliable Python cho CSV operations
+- ✅ Gọi claude/gemini -p cho complex analysis tasks
+- ✅ Chỉ append analysis mới, không ghi đè existing data
+- ✅ Sử dụng proper Vietnamese VPA terminology
+- ✅ Manual verification và error handling
+
 ---

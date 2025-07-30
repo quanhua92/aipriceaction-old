@@ -11,28 +11,49 @@ AIPriceAction is a flexible data pipeline for analyzing Vietnamese stock market 
 ### Running the Main Pipeline
 ```bash
 # Run daily analysis (default)
-python main.py
+uv run main.py
 
 # Run with custom date range
-python main.py --start-date 2025-01-01 --end-date 2025-12-31
+uv run main.py --start-date 2025-01-01 --end-date 2025-12-31
 
 # Run weekly analysis
-python main.py --week
+uv run main.py --week
+```
+
+### VPA Processing Coordinator
+```bash
+# Run daily VPA analysis with Claude (default)
+uv run main_process_vpa.py
+
+# Run daily VPA analysis with Gemini
+uv run main_process_vpa.py --agent gemini
+
+# Run weekly VPA analysis with Claude
+uv run main_process_vpa.py --week
+
+# Run weekly VPA analysis with Gemini
+uv run main_process_vpa.py --week --agent gemini
+
+# Enable debug logging
+uv run main_process_vpa.py --debug
+
+# Combined options
+uv run main_process_vpa.py --week --agent gemini --debug
 ```
 
 ### Data Management
 ```bash
 # Get market capitalization data (fresh download)
-python get_market_cap.py
+uv run get_market_cap.py
 
 # Resume market cap download using existing data as cache
-python get_market_cap.py --resume
+uv run get_market_cap.py --resume
 
 # Merge VPA analysis (daily)
-python merge_vpa.py
+uv run merge_vpa.py
 
 # Merge VPA analysis (weekly)
-python merge_vpa.py --week
+uv run merge_vpa.py --week
 ```
 
 ### Dependencies
@@ -62,6 +83,12 @@ pip install -r requirements.txt
 3. **merge_vpa.py**: Utility for merging new VPA analysis into existing files
    - Handles both daily (VPA.md) and weekly (VPA_week.md) analysis
    - Preserves ticker structure and formatting
+
+4. **main_process_vpa.py**: AI-powered VPA analysis coordinator
+   - Orchestrates the complete VPA workflow using AI agents (Claude/Gemini)
+   - Smart analysis detection - only processes new data
+   - Comprehensive logging with debug capabilities
+   - Automatic dividend adjustment checking
 
 ### Data Flow
 
@@ -97,6 +124,7 @@ pip install -r requirements.txt
 ### Directory Layout
 ```
 ├── main.py                    # Main pipeline
+├── main_process_vpa.py       # AI-powered VPA coordinator
 ├── merge_vpa.py              # VPA merge utility
 ├── get_market_cap.py         # Market cap fetcher
 ├── requirements.txt          # Dependencies
@@ -109,6 +137,8 @@ pip install -r requirements.txt
 ├── REPORT_week.md           # Weekly report output
 ├── market_data/             # Daily CSV data
 ├── market_data_week/        # Weekly CSV data
+├── vpa_data/                # Individual daily VPA files
+├── vpa_data_week/           # Individual weekly VPA files
 ├── reports/                 # Daily charts
 ├── reports_week/            # Weekly charts
 ├── funds_data/              # Fund data
@@ -132,11 +162,23 @@ pip install -r requirements.txt
 
 ## Development Workflow
 
+### Standard Market Data Pipeline
 1. Update `TICKERS.csv` with desired stock symbols
-2. Run `python main.py` to generate reports
+2. Run `uv run main.py` to generate reports
 3. Add manual analysis to `VPA.md` following the format
-4. Use `python merge_vpa.py` to integrate new VPA analysis
+4. Use `uv run merge_vpa.py` to integrate new VPA analysis
 5. Generated reports are found in `REPORT.md` and chart images in `reports/`
+
+### AI-Powered VPA Analysis Workflow
+1. Update `TICKERS.csv` with desired stock symbols
+2. Run `uv run main_process_vpa.py` to automatically generate VPA analysis using AI
+3. The script will:
+   - Check for dividend adjustments
+   - Process only tickers with new data
+   - Generate Vietnamese VPA analysis using Claude/Gemini
+   - Automatically merge results into `VPA.md`
+4. Run `uv run main.py` to generate final reports with integrated VPA analysis
+5. Check logs in `/tmp/vpa_processing_*.log` for debugging
 
 ## Best Practices
 
