@@ -22,23 +22,32 @@ uv run main.py --week
 
 ### VPA Processing Coordinator
 ```bash
-# Run daily VPA analysis with Claude (default)
+# Run daily VPA analysis with Claude (default 4 workers)
 uv run main_process_vpa.py
 
-# Run daily VPA analysis with Gemini
-uv run main_process_vpa.py --agent gemini
+# Run daily VPA analysis with Gemini and 8 workers
+uv run main_process_vpa.py --agent gemini --workers 8
 
-# Run weekly VPA analysis with Claude
-uv run main_process_vpa.py --week
+# Run weekly VPA analysis with Claude and 6 workers
+uv run main_process_vpa.py --week --workers 6
 
-# Run weekly VPA analysis with Gemini
-uv run main_process_vpa.py --week --agent gemini
+# Run weekly VPA analysis with Gemini and 2 workers
+uv run main_process_vpa.py --week --agent gemini --workers 2
 
-# Enable debug logging
+# Enable debug logging with 4 workers
 uv run main_process_vpa.py --debug
 
-# Combined options
-uv run main_process_vpa.py --week --agent gemini --debug
+# Show verbose prompts with 4 workers
+uv run main_process_vpa.py --verbose
+
+# Combined options with parallel processing
+uv run main_process_vpa.py --week --agent gemini --debug --verbose --workers 6
+
+# High-performance mode with 12 workers
+uv run main_process_vpa.py --workers 12 --agent gemini
+
+# Conservative mode with 1 worker (sequential)
+uv run main_process_vpa.py --workers 1
 ```
 
 ### Data Management
@@ -84,11 +93,13 @@ pip install -r requirements.txt
    - Handles both daily (VPA.md) and weekly (VPA_week.md) analysis
    - Preserves ticker structure and formatting
 
-4. **main_process_vpa.py**: AI-powered VPA analysis coordinator
+4. **main_process_vpa.py**: AI-powered VPA analysis coordinator with parallel processing
    - Orchestrates the complete VPA workflow using AI agents (Claude/Gemini)
+   - Parallel processing with configurable workers (default: 4)
    - Smart analysis detection - only processes new data
-   - Comprehensive logging with debug capabilities
+   - Thread-safe logging with debug capabilities
    - Automatic dividend adjustment checking
+   - Performance metrics and speedup reporting
 
 ### Data Flow
 
@@ -114,10 +125,12 @@ pip install -r requirements.txt
 
 - **Smart Caching**: Automatically caches downloaded data to avoid redundant API calls
 - **Dual Timeframes**: Supports both daily and weekly analysis modes
+- **Parallel Processing**: Multi-threaded VPA analysis with configurable workers
 - **VPA Integration**: Seamlessly integrates manual volume price analysis
 - **Industry Grouping**: Categorizes stocks by industry using ticker_group.json
 - **Fund Analysis**: Comprehensive fund performance tracking
 - **Professional Charts**: Generated candlestick charts with volume and moving averages
+- **Performance Metrics**: Real-time speedup calculation and progress tracking
 
 ## Data Structure
 
@@ -171,14 +184,21 @@ pip install -r requirements.txt
 
 ### AI-Powered VPA Analysis Workflow
 1. Update `TICKERS.csv` with desired stock symbols
-2. Run `uv run main_process_vpa.py` to automatically generate VPA analysis using AI
+2. Run `uv run main_process_vpa.py` to automatically generate VPA analysis using AI with parallel processing
 3. The script will:
    - Check for dividend adjustments
-   - Process only tickers with new data
-   - Generate Vietnamese VPA analysis using Claude/Gemini
+   - Process only tickers with new data using configurable parallel workers
+   - Generate Vietnamese VPA analysis using Claude/Gemini simultaneously
+   - Provide real-time progress and performance metrics
    - Automatically merge results into `VPA.md`
 4. Run `uv run main.py` to generate final reports with integrated VPA analysis
 5. Check logs in `/tmp/vpa_processing_*.log` for debugging
+
+### Performance Tuning
+- Use `--workers 1` for sequential processing (most conservative)
+- Use `--workers 4` for balanced performance (default)
+- Use `--workers 8-12` for high-performance systems
+- Monitor system resources and adjust workers accordingly
 
 ## Best Practices
 

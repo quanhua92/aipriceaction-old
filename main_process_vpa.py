@@ -15,6 +15,8 @@ import pandas as pd
 import subprocess
 import sys
 import tempfile
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 
@@ -46,6 +48,23 @@ def setup_logging(debug=False):
     
     logging.info(f"Logging initialized - Log file: {log_file}")
     return log_file
+
+
+# Thread-safe logging lock
+_log_lock = threading.Lock()
+
+
+def thread_safe_log(level, message):
+    """Thread-safe logging function"""
+    with _log_lock:
+        if level == 'info':
+            logging.info(message)
+        elif level == 'debug':
+            logging.debug(message)
+        elif level == 'warning':
+            logging.warning(message)
+        elif level == 'error':
+            logging.error(message)
 
 
 def get_dividend_info(dividend_folder):
@@ -955,11 +974,55 @@ def process_dividends(dividend_info, week_mode=False, agent='claude', verbose=Fa
     return len(failed) == 0
 
 
-def process_tickers(week_mode=False, agent='claude', verbose=False):
+def process_single_ticker(ticker, week_mode, agent, verbose, ticker_index, total_tickers):
     """
-    Process all tickers for VPA analysis using specified AI agent
+    Process a single ticker for VPA analysis
+    Returns (ticker, success, duration, error_msg)
     """
-    logging.info(f"📊 Starting ticker processing phase using {agent.upper()}...")
+    start_time = datetime.now()
+    
+    try:
+        thread_safe_log('info', f"[{ticker_index}/{total_tickers}] 📈 Processing {ticker}...")
+        
+        # Check if ticker needs analysis
+        if not needs_vpa_analysis(ticker, week_mode):
+            thread_safe_log('info', f"✓ {ticker}: Already up to date")
+            duration = datetime.now() - start_time
+            return ticker, True, duration.total_seconds(), None
+        
+        # Get context
+        thread_safe_log('debug', f"Gathering context for {ticker}...")
+        context = get_ticker_context(ticker, week_mode)
+        if not context:
+            error_msg = f"Could not gather context for {ticker}"
+            thread_safe_log('error', f"❌ {ticker}: {error_msg}")
+            duration = datetime.now() - start_time
+            return ticker, False, duration.total_seconds(), error_msg
+        
+        # Call AI agent for analysis
+        thread_safe_log('debug', f"Starting {agent.upper()} analysis for {ticker}...")
+        if call_ai_agent_for_vpa_analysis(ticker, context, week_mode, agent, verbose):
+            duration = datetime.now() - start_time
+            thread_safe_log('info', f"✅ {ticker}: Analysis completed in {duration.total_seconds():.1f}s")
+            return ticker, True, duration.total_seconds(), None
+        else:
+            error_msg = f"AI analysis failed for {ticker}"
+            duration = datetime.now() - start_time
+            thread_safe_log('error', f"❌ {ticker}: {error_msg} after {duration.total_seconds():.1f}s")
+            return ticker, False, duration.total_seconds(), error_msg
+            
+    except Exception as e:
+        error_msg = f"Exception processing {ticker}: {e}"
+        duration = datetime.now() - start_time
+        thread_safe_log('error', f"❌ {ticker}: {error_msg}")
+        return ticker, False, duration.total_seconds(), error_msg
+
+
+def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
+    """
+    Process all tickers for VPA analysis using specified AI agent with parallel processing
+    """
+    logging.info(f"📊 Starting ticker processing phase using {agent.upper()} with {workers} workers...")
     
     # Read tickers from CSV
     tickers = []
@@ -990,55 +1053,64 @@ def process_tickers(week_mode=False, agent='claude', verbose=False):
     for ticker in tickers_to_process:
         logging.info(f"   - {ticker}")
     
-    # Process each ticker with timing
+    # Process tickers in parallel
     successful = 0
     failed = []
     ticker_times = []
+    completed_count = 0
     
-    logging.info(f"🚀 Starting analysis of {len(tickers_to_process)} tickers...")
+    logging.info(f"🚀 Starting parallel analysis of {len(tickers_to_process)} tickers with {workers} workers...")
     process_start_time = datetime.now()
     
-    for i, ticker in enumerate(tickers_to_process, 1):
-        ticker_start = datetime.now()
-        logging.info(f"\n[{i}/{len(tickers_to_process)}] 📈 Processing {ticker}...")
+    # Use ThreadPoolExecutor for parallel processing
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        # Submit all tasks
+        future_to_ticker = {}
+        for i, ticker in enumerate(tickers_to_process, 1):
+            future = executor.submit(process_single_ticker, ticker, week_mode, agent, verbose, i, len(tickers_to_process))
+            future_to_ticker[future] = ticker
         
-        # Get context
-        logging.debug(f"Gathering context for {ticker}...")
-        context = get_ticker_context(ticker, week_mode)
-        if not context:
-            logging.error(f"❌ {ticker}: Could not gather context")
-            failed.append(ticker)
-            continue
-        
-        # Call AI agent for analysis
-        logging.debug(f"Starting {agent.upper()} analysis for {ticker}...")
-        if call_ai_agent_for_vpa_analysis(ticker, context, week_mode, agent, verbose):
-            successful += 1
-            ticker_duration = datetime.now() - ticker_start
-            ticker_times.append(ticker_duration.total_seconds())
+        # Process completed tasks as they finish
+        for future in as_completed(future_to_ticker):
+            ticker = future_to_ticker[future]
+            completed_count += 1
             
-            # Calculate and display timing information
-            avg_time = sum(ticker_times) / len(ticker_times)
-            remaining_tickers = len(tickers_to_process) - i
-            estimated_remaining = remaining_tickers * avg_time
-            
-            logging.info(f"✅ {ticker}: Analysis completed in {ticker_duration.total_seconds():.1f}s")
-            if remaining_tickers > 0:
-                logging.info(f"⏱️  Average: {avg_time:.1f}s/ticker, Est. remaining: {estimated_remaining/60:.1f}min ({remaining_tickers} left)")
-        else:
-            failed.append(ticker)
-            ticker_duration = datetime.now() - ticker_start
-            logging.error(f"❌ {ticker}: Analysis failed after {ticker_duration.total_seconds():.1f}s")
+            try:
+                result_ticker, success, duration, error_msg = future.result()
+                ticker_times.append(duration)
+                
+                if success:
+                    successful += 1
+                    # Calculate and display timing information
+                    avg_time = sum(ticker_times) / len(ticker_times)
+                    remaining_tickers = len(tickers_to_process) - completed_count
+                    estimated_remaining = remaining_tickers * avg_time
+                    
+                    if remaining_tickers > 0:
+                        thread_safe_log('info', f"⏱️  Progress: {completed_count}/{len(tickers_to_process)}, Avg: {avg_time:.1f}s/ticker, Est. remaining: {estimated_remaining/60:.1f}min")
+                else:
+                    failed.append(result_ticker)
+                    if error_msg:
+                        thread_safe_log('error', f"❌ {result_ticker}: {error_msg}")
+                        
+            except Exception as e:
+                failed.append(ticker)
+                thread_safe_log('error', f"❌ {ticker}: Exception in parallel processing: {e}")
     
     total_processing_time = datetime.now() - process_start_time
     
     # Summary
-    logging.info(f"\n📊 VPA Analysis Summary:")
+    logging.info(f"\n📊 Parallel VPA Analysis Summary:")
+    logging.info(f"   👥 Workers used: {workers}")
     logging.info(f"   ✓ Successful: {successful}")
     logging.info(f"   ❌ Failed: {len(failed)}")
     logging.info(f"   ⏱️  Total processing time: {total_processing_time}")
     if ticker_times:
         logging.info(f"   📊 Average time per ticker: {sum(ticker_times)/len(ticker_times):.1f}s")
+        # Calculate potential speedup
+        sequential_time = sum(ticker_times)
+        speedup = sequential_time / total_processing_time.total_seconds()
+        logging.info(f"   🚀 Parallel speedup: {speedup:.1f}x (vs sequential: {sequential_time/60:.1f}min)")
     logging.info(f"   📈 Success rate: {successful/(successful+len(failed))*100:.1f}%")
     
     if failed:
@@ -1059,6 +1131,8 @@ def main():
                        help='AI agent to use for analysis (default: claude)')
     parser.add_argument('--verbose', action='store_true',
                        help='Show detailed prompts and context sent to AI agents')
+    parser.add_argument('--workers', type=int, default=4,
+                       help='Number of parallel workers for VPA processing (default: 4)')
     
     args = parser.parse_args()
     
@@ -1068,6 +1142,7 @@ def main():
     logging.info("🚀 Starting VPA Processing Coordinator")
     logging.info(f"📅 Mode: {'Weekly' if args.week else 'Daily'}")
     logging.info(f"🤖 AI Agent: {args.agent.upper()}")
+    logging.info(f"👥 Parallel Workers: {args.workers}")
     logging.info(f"📁 Data folders: {'market_data_week, vpa_data_week' if args.week else 'market_data, vpa_data'}")
     logging.info(f"📄 Log file: {log_file}")
     
@@ -1103,7 +1178,7 @@ def main():
         # Step 2: Process tickers
         logging.info("\n📋 Step 2: Processing ticker VPA analysis...")
         process_start = datetime.now()
-        success = process_tickers(args.week, args.agent, args.verbose)
+        success = process_tickers(args.week, args.agent, args.verbose, args.workers)
         process_duration = datetime.now() - process_start
         
         logging.info(f"⏱️  Ticker processing took: {process_duration}")

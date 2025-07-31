@@ -195,45 +195,70 @@ python main.py
 
 ## 🤖 VPA Processing Coordinator
 
-Dự án bao gồm một script mạnh mẽ `main_process_vpa.py` để tự động hóa toàn bộ quy trình phân tích VPA (Volume Price Analysis) sử dụng AI agent coordination.
+Dự án bao gồm một script mạnh mẽ `main_process_vpa.py` để tự động hóa toàn bộ quy trình phân tích VPA (Volume Price Analysis) sử dụng AI agent coordination với khả năng xử lý song song.
 
 ### Tính Năng Chính
 
 - **Đa AI Agent**: Hỗ trợ cả Claude và Gemini CLI
+- **Xử Lý Song Song**: Phân tích nhiều ticker đồng thời với ThreadPoolExecutor
+- **Cấu Hình Workers**: Tùy chỉnh số lượng workers song song (mặc định: 4)
 - **Phân Tích Thông Minh**: Tự động bỏ qua dữ liệu đã được phân tích
-- **Logging Toàn Diện**: Ghi log chi tiết với timestamp, lưu tại `/tmp`
+- **Logging Thread-Safe**: Ghi log chi tiết với timestamp, lưu tại `/tmp`
 - **Kiểm Tra Cổ Tức**: Tự động phát hiện cần điều chỉnh cổ tức
 - **Xử Lý Lỗi Mạnh Mẽ**: Tiếp tục xử lý khi gặp lỗi với ticker cụ thể
+- **Metrics Hiệu Suất**: Báo cáo speedup và thời gian xử lý song song
 
 ### Cách Sử Dụng
 
 #### Phân Tích Hàng Ngày (Daily)
 
 ```bash
-# Sử dụng Claude (mặc định)
+# Sử dụng Claude (mặc định với 4 workers)
 python main_process_vpa.py
 
-# Sử dụng Gemini
-python main_process_vpa.py --agent gemini
+# Sử dụng Gemini với 8 workers để xử lý nhanh hơn
+python main_process_vpa.py --agent gemini --workers 8
 
-# Bật debug logging
+# Giảm xuống 2 workers cho hệ thống yếu hơn
+python main_process_vpa.py --workers 2
+
+# Bật debug logging với 4 workers
 python main_process_vpa.py --debug
 
-# Claude với debug
-python main_process_vpa.py --agent claude --debug
+# Hiển thị prompts chi tiết với 4 workers
+python main_process_vpa.py --verbose
+
+# Claude với debug logging và verbose prompts
+python main_process_vpa.py --agent claude --debug --verbose --workers 6
 ```
 
 #### Phân Tích Hàng Tuần (Weekly)
 
 ```bash
-# Phân tích tuần với Claude
+# Phân tích tuần với Claude và 4 workers
 python main_process_vpa.py --week
 
-# Phân tích tuần với Gemini
-python main_process_vpa.py --week --agent gemini
+# Phân tích tuần với Gemini và 8 workers
+python main_process_vpa.py --week --agent gemini --workers 8
 
-# Debug mode cho phân tích tuần
-python main_process_vpa.py --week --agent gemini --debug
+# Debug mode cho phân tích tuần với 2 workers
+python main_process_vpa.py --week --agent gemini --debug --workers 2
+
+# Verbose mode để xem prompts với 4 workers
+python main_process_vpa.py --week --verbose --workers 4
+```
+
+#### Tối Ưu Hiệu Suất
+
+```bash
+# Xử lý cực nhanh với 12 workers (cho máy mạnh)
+python main_process_vpa.py --workers 12
+
+# Xử lý bảo thủ với 1 worker (tuần tự)
+python main_process_vpa.py --workers 1
+
+# Cân bằng hiệu suất/tài nguyên với 6 workers
+python main_process_vpa.py --workers 6 --agent gemini
 ```
 
 ### Quy Trình Hoạt Động
@@ -243,9 +268,11 @@ python main_process_vpa.py --week --agent gemini --debug
    - Đọc dữ liệu CSV mới nhất từ `market_data/` hoặc `market_data_week/`
    - So sánh với phân tích VPA hiện có trong `vpa_data/` hoặc `vpa_data_week/`
    - Chỉ xử lý ticker có dữ liệu mới chưa được phân tích
-3. **AI Coordination**: 
-   - Gọi `claude -p` hoặc `gemini -p` với context đầy đủ
+3. **AI Coordination Song Song**: 
+   - Sử dụng ThreadPoolExecutor với số workers có thể cấu hình
+   - Gọi `claude -p` hoặc `gemini -p` đồng thời cho nhiều tickers
    - Mỗi ticker được xử lý với thông tin giá/khối lượng và VPA lịch sử
+   - Thread-safe logging đảm bảo logs không bị xung đột
 4. **Merge Tự Động**: Gọi `merge_vpa.py` để tổng hợp kết quả vào `VPA.md` hoặc `VPA_week.md`
 
 ### Thông Số Dòng Lệnh
@@ -253,8 +280,10 @@ python main_process_vpa.py --week --agent gemini --debug
 | Tham số | Mô tả | Mặc định |
 |---------|-------|----------|
 | `--week` | Chế độ phân tích hàng tuần | Daily |
-| `--agent` | AI agent sử dụng (`claude` hoặc `gemini`) | `claude` |
-| `--debug` | Bật debug logging chi tiết | False |
+| `--agent` | AI agent sử dụng (`claude`, `gemini`, `gemini-2.5-flash`) | `claude` |
+| `--workers` | Số lượng workers song song | `4` |
+| `--debug` | Bật debug logging chi tiết (ghi log mức DEBUG) | False |
+| `--verbose` | Hiển thị prompts và context gửi tới AI agents | False |
 
 ### Log Files
 
@@ -268,17 +297,27 @@ python main_process_vpa.py --week --agent gemini --debug
 15:30:22 - INFO - 🚀 Starting VPA Processing Coordinator
 15:30:22 - INFO - 📅 Mode: Daily
 15:30:22 - INFO - 🤖 AI Agent: CLAUDE
+15:30:22 - INFO - 👥 Parallel Workers: 4
 15:30:22 - INFO - ✓ No dividend folder found
 15:30:23 - INFO - 📊 Loaded 108 tickers from TICKERS.csv
 15:30:24 - INFO - 📊 15 out of 108 tickers need analysis
-15:30:25 - INFO - 🤖 Calling CLAUDE for VHM analysis...
-15:30:45 - INFO - ✅ VHM: Analysis completed successfully
-15:31:02 - INFO - 📊 VPA Analysis Summary:
-15:31:02 - INFO -    ✓ Successful: 15
-15:31:02 - INFO -    ❌ Failed: 0
-15:31:02 - INFO -    📈 Success rate: 100.0%
-15:31:03 - INFO - ✓ VPA analysis merged successfully
-15:31:03 - INFO - 🎉 VPA Processing Complete!
+15:30:25 - INFO - 🚀 Starting parallel analysis of 15 tickers with 4 workers...
+15:30:26 - INFO - [1/15] 📈 Processing VHM...
+15:30:26 - INFO - [2/15] 📈 Processing TCB...
+15:30:26 - INFO - [3/15] 📈 Processing VIC...
+15:30:45 - INFO - ✅ VHM: Analysis completed in 19.2s
+15:30:47 - INFO - ✅ TCB: Analysis completed in 21.1s
+15:30:48 - INFO - ⏱️  Progress: 8/15, Avg: 20.3s/ticker, Est. remaining: 2.4min
+15:31:15 - INFO - 📊 Parallel VPA Analysis Summary:
+15:31:15 - INFO -    👥 Workers used: 4
+15:31:15 - INFO -    ✓ Successful: 15
+15:31:15 - INFO -    ❌ Failed: 0
+15:31:15 - INFO -    ⏱️  Total processing time: 0:00:50
+15:31:15 - INFO -    📊 Average time per ticker: 20.1s
+15:31:15 - INFO -    🚀 Parallel speedup: 6.0x (vs sequential: 5.0min)
+15:31:15 - INFO -    📈 Success rate: 100.0%
+15:31:16 - INFO - ✓ VPA analysis merged successfully
+15:31:16 - INFO - 🎉 VPA Processing Complete!
 ```
 
 ### Tích Hợp với CLAUDE.md
