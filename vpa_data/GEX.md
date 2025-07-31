@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 53.2 lên 56.9. Nến tăng với thân nến 7.0%. Khối lượng 14.9 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** Sau tín hiệu **Không có nhu cầu** của phiên trước, GEX tăng từ 56.9 lên 59.7. Cây nến tăng có biên độ rộng với mức cao 59.7 và mức thấp 56.7. Khối lượng giao dịch giảm xuống 11.09 triệu đơn vị, giảm 25% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn. Mặc dù giá tăng 4.9% và đạt mức cao mới 59.7, nhưng khối lượng giảm đáng kể cho thấy sự thiếu vắng sự ủng hộ từ dòng tiền mới. Việc giá mở cửa ở 58.8 (cao hơn đóng cửa hôm trước) và đóng cửa đúng ở mức cao nhất 59.7 tuy tích cực về mặt kỹ thuật, nhưng khối lượng thấp sau **Selling Climax** ngày 29/7 cho thấy đây chỉ là nhịp hồi phục kỹ thuật thiếu conviction. GEX cần có sự quay trở lại của khối lượng để xác nhận việc tiếp tục xu hướng tăng dài hạn.

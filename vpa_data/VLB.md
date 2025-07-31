@@ -69,3 +69,6 @@
 
 - **Ngày 2025-07-30:** VLB tăng +1.97% lên 46.50. nến doji thể hiện sự do dự của thị trường, phạm vi dao động 1.80 (3.87%). Giao dịch với khối lượng giảm xuống 0.8 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** VLB giảm nhẹ từ 46.6 xuống 45.9 (-1.29%) với spread hẹp 1.0 điểm (từ 45.6 đến 46.6). Cây nến giảm có thân nhỏ và đóng cửa gần mức thấp nhất ngày. Khối lượng giao dịch giảm mạnh xuống 42.6k cổ phiếu (giảm 61.6% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Test for Supply của phiên trước, việc giá giảm tiếp với khối lượng giảm mạnh từ 110.9k xuống 42.6k cho thấy lực cầu đã suy yếu đáng kể. Mặc dù mức giảm không sâu (-1.29%) nhưng sự thiếu vắng lực cầu kết hợp với xu hướng giảm từ đỉnh 49.1 cho thấy áp lực bán vẫn đang chi phối. Thị trường cần thời gian để tìm lại sự cân bằng, vùng hỗ trợ 45.6 cần được giữ vững để tránh suy yếu thêm.

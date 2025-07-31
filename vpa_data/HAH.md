@@ -75,3 +75,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 71.0 lên 73.5. Nến tăng với thân nến 3.5%. Khối lượng 4.4 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** HAH tăng từ 73.5 lên 75.0. Cây nến tăng có biên độ vừa phải với mức cao 75.9 và mức thấp 73.2. Khối lượng giao dịch tăng (5.91 triệu đơn vị), tăng 34% so với phiên trước.
+
+- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** sau phiên **No Demand** hôm trước. Việc giá tăng với khối lượng tăng 34% cho thấy lực cầu đã quay trở lại sau giai đoạn test thành công. Mặc dù biên độ tăng không quá mạnh (2.0%), nhưng việc khối lượng gia tăng đáng kể là dấu hiệu tích cực. Sau tín hiệu **Selling Climax** ngày 29/7 và phiên **No Demand** hôm qua, HAH đang cho thấy khả năng phục hồi và có thể đang hình thành đáy ngắn hạn trong vùng 71.0-73.5 trước khi tiếp tục xu hướng tăng dài hạn.

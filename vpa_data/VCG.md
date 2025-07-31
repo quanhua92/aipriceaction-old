@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** VCG tăng mạnh +3.04% lên 25.40. nến xanh với bóng trên/dưới, phạm vi dao động 1.00 (3.94%). Giao dịch với khối lượng giảm xuống 0.5 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** VCG phục hồi từ 25.7 lên 25.9 (+1.97%) sau phiên điều chỉnh trước đó. Cây nến xanh có biên độ rộng 1.25 điểm (từ 24.65 đến 25.9) với đóng cửa gần mức cao nhất ngày. Khối lượng giao dịch tăng nhẹ lên 16.84 triệu cổ phiếu, tăng 1.17% so với phiên trước.
+
+- **Phân tích VPA/Wyckoff:** **Automatic Rally** - Sau tín hiệu Selling Climax mạnh mẽ ngày 29/7 và Test for Supply ngày 30/7, hành động giá hôm nay xác nhận sự phục hồi tự nhiên của thị trường. Việc giá tăng trở lại với khối lượng cải thiện nhẹ cho thấy lực cầu đã quay trở lại sau giai đoạn xả hàng panic. Mức đóng cửa 25.9 gần với đỉnh ngày cho thấy momentum tích cực. Tín hiệu phục hồi sau selling climax đang diễn ra theo đúng chu kỳ Wyckoff.

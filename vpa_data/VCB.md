@@ -26,3 +26,6 @@
 
 - **Ngày 2025-07-30:** VCB biến động nhẹ -0.16% lên 60.90. nến đỏ với bóng trên/dưới, phạm vi dao động 1.50 (2.46%). Giao dịch với khối lượng giảm xuống 0.7 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá ít biến động với khối lượng thấp cho thấy thiếu sự quan tâm.
+**Ngày 2025-07-31:** VCB tiếp tục giảm từ 61.5 xuống 60.2 (-1.15%), giảm thêm 0.7 điểm so với phiên trước. Thanh nến đỏ có spread vừa phải 1.6 điểm với đóng cửa gần mức thấp nhất ngày (60.1). Khối lượng giao dịch giảm xuống 6.07 triệu cổ phiếu, thấp hơn phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu **Sign of Weakness (SOW)** mạnh mẽ từ ngày 29/7 và **No Demand** của ngày 30/7, hành động giá hôm nay cho thấy thị trường đang test lực cầu tại vùng hỗ trợ 60.0-60.2. Việc giá tiếp tục giảm nhưng khối lượng cạn kiệt (giảm từ 7.27 triệu xuống 6.07 triệu) là dấu hiệu tích cực, cho thấy áp lực bán đang yếu dần. Vùng 60.0 có thể trở thành điểm test quan trọng để xác định liệu lực cầu có đủ mạnh để hấp thụ nguồn cung hay không.

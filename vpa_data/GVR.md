@@ -101,3 +101,6 @@
 
 - **Ngày 2025-07-30:** Giá đi ngang tại 29.5. Nến doji không thay đổi giá. Khối lượng 4.9 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. 
+**Ngày 2025-07-31:** Sau phiên đi ngang tại 29.5, GVR phục hồi từ 29.5 lên 30.1. Cây nến tăng có biên độ rộng với mức cao 30.95 và mức thấp 29.65. Khối lượng giao dịch tăng lên 5.84 triệu đơn vị, tăng 19% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực sau giai đoạn test supply mạnh. Sau khi giá bị test xuống vùng 29.5 trong 2 phiên liên tiếp, việc xuất hiện khối lượng tăng 19% kèm theo sự phục hồi giá lên 30.1 cho thấy lực cầu đã quay trở lại ở vùng giá thấp này. Việc giá có thể test lên mức cao 30.95 trước khi đóng cửa tại 30.1 cho thấy có sự hấp thụ tốt từ nhà đầu tư. Sau chuỗi **Test for Supply** mạnh từ đỉnh 32.0 xuống 29.5, GVR đang cho thấy dấu hiệu tìm được vùng hỗ trợ quan trọng và sẵn sàng cho nhịp phục hồi tiếp theo.

@@ -69,3 +69,6 @@
 
 - **Ngày 2025-07-30:** VCS biến động nhẹ +0.00% lên 49.10. nến doji thể hiện sự do dự của thị trường, phạm vi dao động 1.20 (2.44%). Giao dịch với khối lượng giảm xuống 0.8 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá ít biến động với khối lượng thấp cho thấy thiếu sự quan tâm.
+**Ngày 2025-07-31:** VCS giảm nhẹ từ 49.1 xuống 49.0 (-0.20%) với phạm vi dao động hẹp từ 48.7 đến 49.8. Cây nến có thân nhỏ và đóng cửa gần mức mở cửa, thể hiện sự thiếu định hướng rõ ràng. Khối lượng giao dịch giảm mạnh xuống 171.0k cổ phiếu, chỉ bằng 46% so với phiên trước và thấp nhất trong 10 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu SOW mạnh mẽ ngày 29/07 và phiên doji thiếu quan tâm ngày 30/07, hành động giá hôm nay xác nhận sự thiếu vắng lực cầu. Việc giá giảm nhẹ với khối lượng sụt giảm mạnh cho thấy không có sự quan tâm từ cả phe mua lẫn phe bán tại vùng giá hiện tại. Tín hiệu này củng cố thêm cho kịch bản điều chỉnh sau giai đoạn phân phối tại vùng 51-52. Cần theo dõi xem liệu vùng hỗ trợ 48.5-49.0 có đủ mạnh để thu hút lực cầu trở lại hay không.

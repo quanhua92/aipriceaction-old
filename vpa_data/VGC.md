@@ -95,3 +95,6 @@
 
 - **Ngày 2025-07-30:** VGC tăng mạnh +6.67% lên 60.80. nến xanh mạnh với thân nến chiếm phần lớn, phạm vi dao động 1.60 (2.63%). Giao dịch với khối lượng giảm xuống 0.5 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** VGC giảm từ 64.0 xuống 59.4 (-2.3%) với phạm vi dao động rộng 5.0 điểm (7.8%). Nến đỏ có thân nến lớn, mở cửa ở mức cao nhất và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm xuống 2.395 triệu cổ phiếu, giảm 33% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu kiểm tra nguồn cung của phiên trước, hành động giá hôm nay xác nhận áp lực bán đã xuất hiện mạnh mẽ. Việc giá gap up lên 64.0 nhưng bị từ chối và đóng cửa ở 59.4 với khối lượng giảm cho thấy đây là một phiên test điển hình. Sự sụt giảm từ mức cao 64.0 xuống thấp 59.0 trong cùng một phiên thể hiện áp lực bán tại vùng giá cao. Kết hợp với Up-thrust của ngày 29/7, tín hiệu này củng cố thêm quan điểm rằng VGC đang trong giai đoạn phân phối sau đợt tăng mạnh từ 46.15 lên 64.0.

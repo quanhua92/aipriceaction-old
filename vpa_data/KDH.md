@@ -92,3 +92,6 @@
 
 - **Ngày 2025-07-30:** KDH tăng từ 27.50 lên 27.60. Nến giảm với thân ngắn, bóng dưới dài. Biên độ biến động nhẹ. Khối lượng giao dịch 3.84 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** **No Demand** - Thị trường thiếu động lực, đi ngang. Tín hiệu tích cực trong ngắn hạn
+**Ngày 2025-07-31:** KDH tiếp tục giảm từ 27.6 xuống 27.4. Cây nến giảm có biên độ hẹp (0.95 điểm) với bóng dưới khá dài, thể hiện áp lực bán tiếp tục nhưng có lực đỡ ở vùng thấp. Khối lượng giao dịch tăng lên 5.59 triệu đơn vị, cao hơn 45% so với phiên trước, cho thấy sự quan tâm gia tăng tại vùng giá thấp này.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Sign of Weakness** mạnh mẽ ngày 29/7. Việc giá giảm nhẹ nhưng khối lượng tăng đáng kể cho thấy có lực cầu bắt đầu xuất hiện tại vùng 26.8-27.4. Bóng dưới dài thể hiện việc test xuống vùng thấp nhưng được đỡ lại, đây là dấu hiệu tích cực cho thấy áp lực bán có thể đang giảm dần. Tuy nhiên, KDH vẫn cần thêm thời gian để xác nhận việc tìm được đáy và khả năng phục hồi.

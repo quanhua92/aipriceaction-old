@@ -90,3 +90,6 @@
 
 - **Ngày 2025-07-30:** LPB giảm từ 34.30 xuống 34.20. Nến giảm với thân ngắn, bóng trên dài, bóng dưới dài. Biên độ biến động nhẹ. Khối lượng giao dịch 3.59 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** **No Demand** - Thị trường thiếu động lực, đi ngang. Cần thận trọng trong ngắn hạn
+**Ngày 2025-07-31:** LPB tiếp tục đi ngang từ 34.3 xuống 34.2. Nến giảm có thân nhỏ với biên độ dao động từ 33.35 đến 34.5. Khối lượng giao dịch tăng lên 4.57 triệu đơn vị, tăng 27% so với phiên trước.
+
+- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** nhẹ. Sau phiên **No Demand** trước đó, việc giá test xuống mức thấp 33.35 (thấp hơn vùng support 34.0) nhưng đóng cửa phục hồi về 34.2 trên khối lượng tăng 27% cho thấy có lực cầu xuất hiện ở vùng thấp. Việc giá không thể duy trì ở mức thấp và phục hồi về gần mức mở cửa thể hiện áp lực bán chưa đủ mạnh để đẩy giá xuống sâu hơn. Đây là tín hiệu tích cực cho thấy LPB có thể đang tìm được vùng support tạm thời quanh 33.35-34.2, cần theo dõi thêm để xác nhận xu hướng tiếp theo.

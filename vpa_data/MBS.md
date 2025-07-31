@@ -96,3 +96,6 @@
 
 - **Ngày 2025-07-30:** MBS tăng từ 33.80 lên 36.50. Nến tăng với thân dài, bóng cân đối. Biên độ biến động mạnh. Khối lượng giao dịch 11.22 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** **Weak Buying** - Tăng giá với khối lượng thấp, thiếu bền vững. Tín hiệu tích cực trong ngắn hạn
+**Ngày 2025-07-31:** MBS giảm nhẹ từ 36.5 xuống 36.4. Cây nến có biên độ rộng với mức cao 37.4 và mức thấp 35.3. Khối lượng giao dịch giảm xuống 8.27 triệu đơn vị, giảm 26% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Weak Buying** trước đó. Việc giá có thể test lên 37.4 ở đầu phiên nhưng sau đó giảm nhẹ về 36.4 trên khối lượng giảm cho thấy áp lực bán đã giảm đáng kể so với phiên **Sign of Weakness** ngày 29/7. Việc giá duy trì được trên mức 36.0 và test thấp chỉ xuống 35.3 là dấu hiệu tích cực, cho thấy có lực đỡ ở vùng này. Tuy nhiên, cần thêm tín hiệu **Effort to Rise** với khối lượng mạnh để xác nhận sự phục hồi bền vững sau giai đoạn **Sign of Weakness**.

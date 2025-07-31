@@ -93,3 +93,6 @@
 
 - **Ngày 2025-07-30:** DCM phục hồi nhẹ từ 35.9 lên 36.35. Cây nến tăng có biên độ vừa phải với mức high 37.1 và low 36.05. Khối lượng giao dịch giảm mạnh về 6.94 triệu đơn vị, giảm 52% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Demand** xuất hiện. Sau tín hiệu **Test for Supply** với áp lực bán mạnh của phiên trước, việc giá tăng nhẹ với khối lượng giảm đáng kể cho thấy có sự quan tâm từ thị trường ở vùng thấp này. Tuy nhiên, khối lượng giảm mạnh cho thấy lực cầu vẫn chưa đủ mạnh để tạo ra động lực tăng bền vững. Cần theo dõi thêm để xác nhận tín hiệu phục hồi.
+**Ngày 2025-07-31:** DCM giảm từ 36.35 xuống 35.85. Cây nến giảm có biên độ rộng với mức mở cửa 36.95 và dao động trong khoảng 35.6-36.95. Khối lượng giao dịch giảm về 5.59 triệu đơn vị, giảm 19% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau tín hiệu **Test for Demand** yếu của phiên trước, việc giá giảm với khối lượng giảm cho thấy thiếu sự quan tâm từ người mua ở vùng giá này. Mặc dù có gap up mở cửa ở 36.95 nhưng không thể duy trì và giá đóng cửa thấp hơn phiên trước. Tín hiệu này cho thấy áp lực bán vẫn còn và lực cầu chưa đủ mạnh để hỗ trợ giá. Cần theo dõi các mức hỗ trợ quan trọng trong các phiên tới.

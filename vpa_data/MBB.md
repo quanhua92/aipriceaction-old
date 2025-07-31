@@ -92,3 +92,6 @@
 
 - **Ngày 2025-07-30:** MBB tăng từ 26.85 lên 27.40. Nến tăng với thân ngắn, bóng trên dài, bóng dưới dài. Biên độ biến động vừa phải. Khối lượng giao dịch 32.10 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** **Weak Buying** - Tăng giá với khối lượng thấp, thiếu bền vững. Tín hiệu tích cực trong ngắn hạn
+**Ngày 2025-07-31:** MBB tăng nhẹ từ 27.4 lên 27.45. Nến tăng có biên độ hẹp với giá cao nhất đạt 27.8 và thấp nhất 26.95. Mở cửa tại 27.65, test xuống 26.95 trước khi phục hồi và đóng cửa tại 27.45. Khối lượng giao dịch giảm xuống 24.97 triệu đơn vị, thấp hơn 22% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Weak Buying** trước đó. Việc giá test xuống 26.95 (gần mức thấp 26.85 của phiên SOW) nhưng phục hồi về 27.45 trên khối lượng giảm cho thấy áp lực bán đã giảm bớt ở vùng hỗ trợ quan trọng. Tuy nhiên, việc khối lượng tiếp tục giảm và giá chưa thể vượt qua vùng kháng cự 27.8-28.0 cho thấy lực cầu vẫn còn yếu. MBB đang trong giai đoạn cân bằng sau cú shock SOW, cần thêm thời gian để tích lũy lực cầu trước khi có thể khởi động xu hướng tăng bền vững.

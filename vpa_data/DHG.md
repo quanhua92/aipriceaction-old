@@ -88,3 +88,6 @@
 
 - **Ngày 2025-07-30:** DHG giảm nhẹ từ 101.6 xuống 101.0. Cây nến giảm có biên độ hẹp với mức high 101.8 và low 100.8. Khối lượng giao dịch tăng lên 20.7k đơn vị, tăng 47% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau tín hiệu **No Demand** của phiên trước, việc giá giảm nhẹ với khối lượng tăng cho thấy có sự kiểm tra của thị trường. Tuy nhiên, với biên độ dao động hẹp và giá vẫn duy trì trong vùng hẹp, đây chỉ là một phiên test cung nhẹ và chưa có tín hiệu tiêu cực rõ ràng.
+**Ngày 2025-07-31:** DHG tăng từ 101.0 lên 102.0. Cây nến tăng có biên độ hẹp với mức mở cửa 101.1 và dao động trong khoảng 101.0-102.0. Khối lượng giao dịch bùng nổ (40.0k đơn vị), tăng gần gấp đôi (93%) so với phiên trước và là khối lượng cao nhất trong 10 phiên gần đây.
+
+- **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** xuất hiện rõ ràng. Sau phiên **Test for Supply** tích cực của hôm trước, lực cầu đã xuất hiện mạnh mẽ với khối lượng bùng nổ kèm theo giá tăng. Việc khối lượng tăng gần gấp đôi trong khi giá chỉ tăng nhẹ cho thấy áp lực mua rất mạnh và thị trường đang tích lũy tích cực. Đây là tín hiệu rất tích cực, xác nhận xu hướng tăng và tiềm năng breakout mạnh trong các phiên tới.

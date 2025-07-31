@@ -99,3 +99,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm 0.8 điểm (3.2%). nến đỏ với spread hẹp. khối lượng trung bình thay đổi 19.6%.
     - **Phân tích VPA/Wyckoff:** Áp lực bán nhẹ. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** ANV phục hồi từ 22.4 lên 23.45, tăng 4.7% sau phiên giảm mạnh trước đó. Cây nến tăng có biên độ 100 xu (từ 22.45 đến 23.45) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 3.79 triệu đơn vị, thấp hơn 60% so với phiên trước.
+
+- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** sau chuỗi **Selling Climax** của hai phiên trước. Việc giá phục hồi và đóng cửa tại đỉnh phiên cho thấy lực cầu đã xuất hiện để hấp thụ hàng bán sau giai đoạn panic selling. Tuy nhiên, khối lượng thấp trong phiên phục hồi này cho thấy đây chỉ là **Automatic Rally** tự nhiên sau oversold, chưa phải sự trở lại mạnh mẽ của smart money. Việc giá phục hồi từ vùng 22.4-22.45 lên 23.45 cho thấy support tại vùng 22.0-22.5 đang hoạt động tốt. Cần theo dõi các phiên tới để xác định liệu đây có phải là bắt đầu của **Secondary Test** hay chỉ là nhịp hồi kỹ thuật ngắn hạn trước khi tiếp tục test xuống các vùng thấp hơn.

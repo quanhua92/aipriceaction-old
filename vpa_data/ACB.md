@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 0.2 điểm (1.1%). nến xanh với spread hẹp. khối lượng thấp giảm 55.9%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** ACB giao dịch đi ngang từ 23.0 xuống 23.0. Cây nến có biên độ hẹp (từ 22.7 đến 23.25) và đóng cửa tại mức mở cửa. Khối lượng giao dịch giảm mạnh xuống 10.61 triệu cổ phiếu, giảm 29.3% so với phiên phục hồi trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp theo sau **Selling Climax** của ngày 29/7 và phiên **No Demand** của ngày 30/7. Việc giá đi ngang với biên độ hẹp trên khối lượng giảm mạnh cho thấy lực cầu vẫn chưa quay trở lại sau cú sốc bán tháo. Mặc dù giá không giảm thêm, nhưng sự thiếu vắng hoạt động mua vào ở vùng 23.0 cho thấy thị trường đang trong giai đoạn chờ đợi và quan sát. Cần theo dõi các phiên tiếp theo để xác định liệu đây có phải là giai đoạn tạo đáy sau **Selling Climax** hay xu hướng giảm sẽ tiếp tục. Sự kết hợp của 3 tín hiệu liên tiếp (**Selling Climax**, **No Demand**, **No Demand**) cho thấy áp lực bán đã suy yếu nhưng lực cầu vẫn chưa đủ mạnh để tạo ra phục hồi bền vững.

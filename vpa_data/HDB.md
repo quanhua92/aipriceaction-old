@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 26.5 lên 26.6. Nến tăng với thân nến 0.6%. Khối lượng 20.5 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** HDB giảm từ 26.65 xuống 26.45. Cây nến giảm có biên độ rộng với mức cao 27.65 và mức thấp 25.95. Khối lượng giao dịch tăng mạnh (32.37 triệu đơn vị), tăng 58% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** sau **No Demand** hôm trước. Việc giá giảm với biên độ rộng (1.7 điểm dao động) và khối lượng tăng 58% cho thấy áp lực bán đã quay trở lại mạnh mẽ. Mặc dù giá mở cửa tại 27.15 và test lên mức cao 27.65, nhưng việc bị đẩy xuống mức thấp 25.95 trước khi hồi phục nhẹ lên 26.45 cho thấy lực bán áp đảo. Sau **Selling Climax** ngày 29/7 và **No Demand** ngày 30/7, HDB đang trong giai đoạn điều chỉnh với áp lực bán tiếp tục. Cần theo dõi xem liệu đây có phải là nhịp shake-out cuối cùng trước khi tiếp tục xu hướng tăng hay bắt đầu giai đoạn điều chỉnh sâu hơn.

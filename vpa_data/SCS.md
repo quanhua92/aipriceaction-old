@@ -96,3 +96,6 @@
 
 - **Ngày 2025-07-30:** SCS tăng nhẹ từ 65.0 lên 65.4. Cây nến tăng có biên độ hẹp với dao động 65.0-65.7. Khối lượng giao dịch giảm mạnh xuống 460.5k đơn vị, giảm 67% so với phiên **Effort to Fall** trước đó.
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Effort to Fall** cực kỳ mạnh mẽ. Việc giá test thử và phục hồi nhẹ với khối lượng giảm đáng kể cho thấy áp lực bán đang cạn kiệt. Tín hiệu này cho thấy thị trường đang tìm kiếm sự cân bằng sau đợt bán tháo mạnh và có khả năng hình thành nền để phục hồi kỹ thuật trong các phiên tới.
+**Ngày 2025-07-31:** SCS giảm tiếp từ 65.4 xuống 64.1. Cây nến giảm có biên độ hẹp với dao động 64.1-65.9. Khối lượng giao dịch tăng nhẹ lên 497.5k đơn vị, tăng 8% so với phiên trước.
+
+- **Phân tích VPA/Wyckoff:** Tiếp nối phiên **Test for Demand** của ngày trước, hành động giá hôm nay cho thấy tín hiệu **Weak Demand**. Việc giá tiếp tục giảm xuống mức thấp mới 64.1 với khối lượng tăng nhẹ cho thấy lực cầu vẫn chưa đủ mạnh để ngăn chặn đà giảm. Mặc dù khối lượng không tăng quá mạnh, nhưng việc giá không thể giữ được vùng 65.0 và phá xuống dưới cho thấy áp lực bán vẫn còn. Thị trường cần thêm thời gian để hình thành nền vững chắc trước khi có thể phục hồi bền vững.

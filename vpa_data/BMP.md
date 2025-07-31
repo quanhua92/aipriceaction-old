@@ -68,3 +68,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm 0.7 điểm (0.5%). nến đỏ với spread trung bình. khối lượng thấp giảm 51.3%.
     - **Phân tích VPA/Wyckoff:** Không có áp lực bán. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BMP tiếp tục giảm từ 142.6 xuống 140.7. Cây nến giảm có biên độ vừa phải với mức thấp 140.5, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch tăng lên 139.9k đơn vị, cao hơn 42% so với phiên trước đó.
+
+- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** sau giai đoạn test for supply kéo dài. Việc giá giảm mạnh và test xuống mức thấp mới 140.5 (thấp hơn support 143.0 đã được test trước đó) trên khối lượng tăng cho thấy áp lực bán đã gia tăng đáng kể. Sự phá vỡ support quan trọng 143.0 cùng với khối lượng bán tăng báo hiệu rằng giai đoạn consolidate đã kết thúc và xu hướng giảm ngắn hạn có thể sẽ tiếp diễn. Cần quan sát liệu BMP có thể tìm được support mới ở vùng 140.0-140.5 hay sẽ tiếp tục test xuống các mức thấp hơn.

@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 56.3 lên 57.5. Nến tăng với thân nến 2.1%. Khối lượng 2.2 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** GMD giảm từ 57.5 xuống 56.2. Cây nến giảm có biên độ rộng với mức cao 57.6 và mức thấp 56.0. Khối lượng giao dịch giảm (1.85 triệu đơn vị), giảm 15% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp diễn sau tín hiệu **Không có nhu cầu** hôm trước. Việc giá giảm xuống mức thấp 56.0 nhưng khối lượng giảm 15% cho thấy áp lực bán rất hạn chế. Mặc dù giá test lại vùng thấp gần với mức 56.1 của ngày 29/7, nhưng sự thiếu vắng khối lượng bán mạnh là dấu hiệu tích cực. Sau chuỗi **Test for Supply** và điều chỉnh kỹ thuật gần đây, GMD đang cho thấy nguồn cung tiếp tục cạn kiệt ở vùng giá thấp này. Đây có thể là giai đoạn cuối của quá trình điều chỉnh và tích lũy, tạo cơ hội tốt cho những nhà đầu tư dài hạn trước khi xu hướng tăng tiếp tục.

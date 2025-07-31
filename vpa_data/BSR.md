@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm 0.2 điểm (1.3%). nến đỏ với spread trung bình. khối lượng thấp giảm 41.1%.
     - **Phân tích VPA/Wyckoff:** Không có áp lực bán. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BSR tăng mạnh từ 20.0 lên 20.4 (+2.0%). Cây nến tăng có biên độ rộng với mức cao 20.4 và mức thấp 19.55, đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng 17.2% lên 15.23 triệu đơn vị so với phiên trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply thành công** sau phiên test cung hôm trước. Việc giá tăng mạnh và đóng cửa tại đỉnh phiên (20.4) trên khối lượng tăng cho thấy áp lực bán ở vùng cao đã được hấp thụ hiệu quả. Tín hiệu này xác nhận rằng test for supply của các phiên trước đã thành công và lực cầu đã quay trở lại kiểm soát thị trường. Việc BSR vượt qua vùng kháng cự 20.0 và tạo mức cao mới tại 20.4 cho thấy xu hướng tăng đang được củng cố mạnh mẽ. Tín hiệu này có tiềm năng dẫn đến một đợt tăng tiếp theo để kiểm tra các vùng kháng cự cao hơn.

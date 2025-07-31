@@ -94,3 +94,6 @@
 
 - **Ngày 2025-07-30:** TPB tăng mạnh +3.92% lên 15.90. nến xanh mạnh với thân nến chiếm phần lớn, phạm vi dao động 0.70 (4.40%). Giao dịch với khối lượng giảm xuống 0.6 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** TPB giảm từ 16.05 xuống 15.7 (-1.26%) với đỉnh ngày đạt 16.1. Cây nến đỏ có biên độ 0.65 điểm với thân nến ngắn và đuôi dài phía dưới. Khối lượng giao dịch giảm mạnh xuống 19.58 triệu cổ phiếu (giảm 30.9% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **Automatic Rally** - Sau tín hiệu Test for Supply thành công của phiên trước với khối lượng thấp, hành động giá hôm nay thể hiện sự điều chỉnh tự nhiên nhẹ. Việc giá mở cửa cao tại 16.05 nhưng đóng cửa thấp hơn với khối lượng giảm mạnh (từ 28.36M xuống 19.58M) cho thấy không có áp lực bán mạnh từ smart money. Đuôi dài phía dưới tại vùng 15.45-15.7 xác nhận có lực cầu hỗ trợ tại vùng này. Đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh, chuẩn bị cho đợt test tiếp theo.

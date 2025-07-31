@@ -29,3 +29,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 0.1 điểm (1.1%). nến xanh với spread hẹp. khối lượng thấp giảm 63.6%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** C4G giảm nhẹ từ 8.9 xuống 8.8. Cây nến giảm có biên độ hẹp với mức cao 8.9 và mức thấp 8.6, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng nhẹ lên 2.25 triệu đơn vị, tăng 14.8% so với phiên trước nhưng vẫn thấp hơn đáng kể so với phiên test supply mạnh ngày 29/7 (5.39 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tích cực tiếp diễn sau giai đoạn consolidate. Việc giá giảm nhẹ chỉ 0.1 điểm và đóng cửa gần mức cao nhất phiên trên khối lượng tăng nhẹ cho thấy áp lực bán đã được kiểm soát tốt. Khối lượng không cao chứng tỏ không có áp lực bán mạnh từ bên ngoài. Việc giá duy trì trong vùng 8.6-8.9 và đóc cửa tại 8.8 cho thấy support tại vùng này đang được duy trì. Tín hiệu này xác nhận C4G đang trong giai đoạn test cuối cùng trước khi có thể tiếp tục xu hướng tăng, đặc biệt sau chuỗi tín hiệu **SOS** và **No Supply** tích cực trong các phiên trước đó.

@@ -75,3 +75,6 @@
 
 - **Ngày 2025-07-30:** TNG biến động nhẹ +0.49% lên 20.40. nến xanh với bóng trên/dưới, phạm vi dao động 0.70 (3.43%). Giao dịch với khối lượng giảm xuống 0.5 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá ít biến động với khối lượng thấp cho thấy thiếu sự quan tâm.
+**Ngày 2025-07-31:** TNG phục hồi mạnh từ 20.9 lên 21.3 (+4.41%) sau phiên sụt giảm mạnh. Thanh nến xanh có spread rộng 1.0 điểm (từ 20.5 đến 21.5) với đóng cửa gần mức cao nhất ngày. Khối lượng giao dịch tăng lên 2.477 triệu cổ phiếu, tăng 41% so với phiên trước nhưng vẫn thấp hơn đáng kể so với phiên sụt giảm (3.708 triệu).
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu **Sign of Weakness (SOW)** mạnh của phiên 29/7, hành động giá hôm nay cho thấy lực cầu đã xuất hiện để test khả năng hấp thụ áp lực bán tại vùng 20.3-20.5. Việc giá phục hồi mạnh lên 21.3 với khối lượng tăng (từ 1.756 triệu lên 2.477 triệu) nhưng vẫn thấp hơn phiên SOW cho thấy có sự quan tâm trở lại từ nhà đầu tư. Tuy nhiên, cần theo dõi thêm để xác nhận liệu đây có phải là demand thực sự hay chỉ là short covering sau đợt giảm mạnh.

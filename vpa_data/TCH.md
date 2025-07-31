@@ -29,3 +29,6 @@
 
 - **Ngày 2025-07-30:** TCH giảm mạnh -3.25% lên 23.80. nến đỏ với bóng trên/dưới, phạm vi dao động 1.60 (6.72%). Giao dịch với khối lượng giảm xuống 0.8 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tín hiệu hỗn hợp. Tín hiệu chưa rõ ràng, cần theo dõi thêm các phiên tiếp theo.
+**Ngày 2025-07-31:** TCH giao động từ 24.4 xuống 23.95 (+0.63%), tăng nhẹ 0.15 điểm so với ngày trước. Thanh nến xanh có spread rộng 1.55 điểm (từ 22.85 đến 24.4) nhưng đóng cửa ở vùng giữa phạm vi giao dịch. Khối lượng giảm xuống 12.936.500 cổ phiếu, giảm 19.0% so với phiên trước nhưng vẫn duy trì ở mức cao.
+
+**Phân tích VPA/Wyckoff:** **Automatic Rally** - Sau tín hiệu **Selling Climax** của ngày 29/07 và phiên test tiếp theo, hành động giá hôm nay cho thấy sự phục hồi tự nhiên với nến xanh có spread rộng. Việc giá test xuống 22.85 (thấp hơn vùng 23.5-23.7 của các phiên trước) nhưng đóng cửa tăng với khối lượng vẫn cao cho thấy có sự hấp thụ từ smart money ở vùng giá thấp. Đây là dấu hiệu tích cực sau giai đoạn xả hàng, báo hiệu khả năng kết thúc đợt điều chỉnh và chuẩn bị cho giai đoạn tích lũy mới.

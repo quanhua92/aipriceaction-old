@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 13.3 lên 13.7. Nến tăng với thân nến 2.6%. Khối lượng 11.2 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** HAG phục hồi từ 13.65 lên 13.95, tăng 2.2%. Cây nến tăng có biên độ rộng (0.55 điểm) với mức cao 14.25 và mức thấp 13.7. Khối lượng giao dịch tăng lên 13.89 triệu đơn vị, tăng 25% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Selling Climax** ngày 29/7 và tín hiệu thiếu nhu cầu ngày 30/7. Việc giá phục hồi trên khối lượng tăng 25% cho thấy lực cầu đã bắt đầu quay trở lại. Mặc dù khối lượng chưa thực sự mạnh so với các phiên bùng nổ trước đó, nhưng hành động giá tích cực với việc test cao 14.25 (gần vùng kháng cự trước đó) cho thấy smart money có thể đang tích lũy sau đợt shakeout. Việc giá đóng cửa tại 13.95, giữ được phần lớn mức tăng trong ngày thể hiện sức mạnh ban đầu. Cần theo dõi các phiên tiếp theo để xác nhận liệu đây có phải là **Automatic Rally** sau Selling Climax hay chỉ là nhịp hồi kỹ thuật.

@@ -74,3 +74,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm từ 41.0 xuống 40.9. Nến giảm với thân nến 0.5%. Khối lượng 7.5 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. 
+**Ngày 2025-07-31:** FTS tăng nhẹ từ 40.85 lên 41.0. Cây nến tăng có biân độ hẹp (1.6 điểm) với mức cao 41.5 và mức thấp 39.9. Khối lượng giao dịch giảm mạnh xuống 5.62 triệu đơn vị, giảm 25% so với phiên trước. Giá test thấp 39.9 trong phiên nhưng có thể phục hồi về đóng cửa tại 41.0, cho thấy có lực cầu xuất hiện ở vùng thấp.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Selling Climax** cực mạnh ở phiên 29/7 và phiên giảm tiếp theo, đây là tín hiệu **Test for Demand**. Việc giá test xuống mức thấp 39.9 (thấp hơn cả mức đóng cửa của selling climax) nhưng có thể phục hồi về 41.0 trên khối lượng giảm 25% cho thấy áp lực bán đã bắt đầu giảm bớt. Mặc dù vẫn trong xu hướng yếu sau selling climax, nhưng khả năng test thấp và phục hồi cùng với khối lượng giảm có thể là dấu hiệu đầu tiên của việc hấp thụ lực bán. FTS cần thêm thời gian để xác nhận liệu đây có phải là đáy ngắn hạn hay chỉ là nhịp phục hồi kỹ thuật trong xu hướng giảm.

@@ -95,3 +95,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm 0.1 điểm (0.1%). nến đỏ với spread hẹp. khối lượng thấp giảm 41.7%.
     - **Phân tích VPA/Wyckoff:** Không có áp lực bán. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BVH mở cửa tại 50.2 và dao động trong biên độ hẹp từ 49.05 đến 50.3, cuối cùng đóng cửa tại 49.25. Cây nến giảm có biên độ 1.25 điểm với bóng trên ngắn và bóng dưới tương đối dài, cho thấy áp lực bán trong phiên nhưng có sự hỗ trợ ở vùng thấp. Khối lượng giao dịch tăng mạnh lên 1.132.8k đơn vị, cao hơn gấp đôi so với phiên trước đó (553.6k). Giá giảm 0.3 điểm (-0.6%) từ mức đóng cửa phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn sau phiên **No Demand** trước đó. Việc giá tiếp tục giảm xuống mức thấp mới 49.05 trên khối lượng tăng gấp đôi cho thấy áp lực bán vẫn đang hiện diện mạnh mẽ. Tuy nhiên, việc giá có thể phục hồi từ mức thấp 49.05 lên đóng cửa tại 49.25 với bóng dưới dài cho thấy có sự xuất hiện của lực cầu ở vùng thấp hơn. Khối lượng tăng mạnh kết hợp với việc test xuống mức thấp mới cho thấy BVH đang trong giai đoạn tìm kiếm support quan trọng. Cần theo dõi phản ứng của thị trường ở vùng 49.0 để xác định liệu đây có phải là vùng demand zone hay giá sẽ tiếp tục kiểm tra các mức thấp hơn.

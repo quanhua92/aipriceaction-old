@@ -96,3 +96,6 @@
 
 - **Ngày 2025-07-30:** SGT đi ngang, đóng cửa ở mức 16.9. Cây nến có biên độ hẹp và thân nến nhỏ. Khối lượng giao dịch giảm mạnh (62.2k đơn vị).
     - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** của phiên trước, phiên đi ngang với khối lượng giảm 47% này cho thấy **No Supply** tích cực. Việc giá duy trì ở mức 16.9 trên khối lượng giảm mạnh cho thấy áp lực bán đã yếu đi đáng kể sau phiên test xuống 16.5. Đây là dấu hiệu tích cực cho thấy support tại vùng 16.9 đang giữ được và có thể là nền tảng cho nhịp phục hồi tiếp theo.
+**Ngày 2025-07-31:** Sau tín hiệu **No Supply** tích cực của phiên trước, hôm nay SGT bật tăng mạnh từ 16.9 lên 17.6 (+4.1%). Cây nến tăng có biên độ rộng với đỉnh cao 17.7. Khối lượng giao dịch tăng vọt 200% lên 186.9k đơn vị - cao nhất trong 2 tuần qua.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ sau giai đoạn test và tích lũy. Việc giá phá vỡ lên trên vùng kháng cự 17.2-17.25 với khối lượng tăng vọt 200% cho thấy lực cầu đã quay trở lại một cách quyết đoán. Điểm đáng chú ý là sau phiên test xuống 16.5 ngày 29/7 và **No Supply** ngày 30/7, thị trường đã tìm thấy sự cân bằng và bây giờ có breakthrough mạnh mẽ. Tín hiệu rất tích cực cho xu hướng tăng tiếp tục.

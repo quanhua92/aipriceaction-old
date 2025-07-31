@@ -68,3 +68,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm 0.2 điểm (0.4%). nến đỏ với spread hẹp. khối lượng thấp giảm 52.5%.
     - **Phân tích VPA/Wyckoff:** Không có áp lực bán. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BSI giảm nhẹ từ 46.15 xuống 45.7, tương đương mức giảm 0.05 điểm (-0.1%). Cây nến có biên độ hẹp với mức cao 46.2 và mức thấp 44.4, tạo bóng dưới dài 1.3 điểm. Khối lượng giao dịch giảm xuống 2.14 triệu đơn vị, thấp hơn 9.8% so với phiên trước và thấp hơn đáng kể so với phiên **Buying Climax** của ngày 29/7.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Reaction** tiếp diễn sau phiên **Buying Climax** của ngày 29/7. Việc giá test xuống vùng thấp 44.4 nhưng phục hồi và đóng cửa gần mức giữa phiên (45.7) trên khối lượng giảm cho thấy áp lực bán đang được hấp thụ dần. Bóng dưới dài kết hợp với khối lượng thấp là dấu hiệu tích cực, cho thấy lực cầu vẫn hiện diện ở vùng giá thấp hơn. Tuy nhiên, BSI vẫn đang trong giai đoạn **Automatic Reaction** sau **Buying Climax**, cần theo dõi các phiên tiếp theo để xác định liệu đây có phải là đáy ngắn hạn hay chỉ là nhịp hồi kỹ thuật trong xu hướng điều chỉnh.

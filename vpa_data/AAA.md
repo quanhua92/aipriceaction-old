@@ -72,3 +72,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 0.5 điểm (6.9%). nến xanh với spread trung bình. khối lượng trung bình thay đổi 10.6%.
     - **Phân tích VPA/Wyckoff:** Nỗ lực tăng giá nhẹ. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** AAA tăng mạnh từ 8.34 lên 8.8. Cây nến xanh có biên độ rộng (từ 8.64 đến 8.92), mở cửa gap lên từ 8.34 lên 8.7 và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 12.03 triệu đơn vị, cao hơn 40.8% so với phiên trước và là mức cao nhất trong 10 phiên gần đây. Giá đã phục hồi hoàn toàn sau phiên **Selling Climax** ngày 29/7 và vượt qua vùng kháng cự 8.35.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận rằng phiên **Selling Climax** ngày 29/7 thực sự là đỉnh áp lực bán và thị trường đã hấp thụ thành công toàn bộ nguồn cung. Việc giá gap lên mạnh, tăng liên tục với biên độ rộng và đóng cửa gần đỉnh trên khối lượng kỷ lục cho thấy dòng tiền thông minh đã quay trở lại một cách quyết đoán. Sự kết hợp giữa **Selling Climax** và **SOS** trong vòng 3 phiên tạo thành một pattern bullish reversal kinh điển theo Wyckoff, báo hiệu khả năng cao sẽ có một chu kỳ tăng mạnh mẽ mới. Việc vượt qua vùng kháng cự 8.35 trên khối lượng kỷ lục càng củng cố cho tín hiệu tích cực này.

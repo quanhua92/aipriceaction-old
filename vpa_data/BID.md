@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 0.7 điểm (1.9%). nến xanh với spread hẹp. khối lượng thấp giảm 39.6%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BID giảm từ 38.5 xuống 37.85 với biên độ giao động từ 37.5 đến 38.5. Cây nến giảm có body khá dài và đóng cửa gần mức thấp nhất phiên, thể hiện áp lực bán tiếp tục. Khối lượng giao dịch giảm xuống 6.29 triệu đơn vị, thấp hơn 32.4% so với phiên trước và thấp hơn đáng kể so với mức khối lượng kỷ lục 15.39 triệu của phiên Selling Climax ngày 29/07.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** yếu sau **Selling Climax**. Sau cú sốc bán tháo mạnh từ 39.65 xuống 37.4 ngày 29/07, việc giá tiếp tục giảm nhẹ xuống 37.85 trên khối lượng giảm cho thấy áp lực bán đã giảm bớt nhưng lực cầu vẫn chưa đủ mạnh để tạo ra automatic rally đáng kể. Mức thấp 37.5 đã test gần với mức thấp 37.4 của Selling Climax, cho thấy vùng hỗ trợ quan trọng đang được hình thành quanh 37.4-37.5. Khối lượng giảm dần trong 2 phiên gần đây (từ 15.39 về 9.30 rồi 6.29 triệu) là dấu hiệu tích cực, báo hiệu giai đoạn bán panic đã qua. Tuy nhiên, cần một tín hiệu mua mạnh hơn với khối lượng tăng để xác nhận việc hình thành đáy và bắt đầu giai đoạn phục hồi.

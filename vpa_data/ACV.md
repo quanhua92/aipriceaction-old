@@ -100,3 +100,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 1.4 điểm (1.5%). nến xanh với spread hẹp. khối lượng thấp giảm 64.0%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** ACV tăng mạnh từ 97.9 lên 100.3 sau phiên bán tháo mạnh trước đó. Cây nến tăng có biên độ rộng với mức cao 101.0 và mức thấp 97.5, đóng cửa gần đỉnh phiên. Khối lượng giao dịch tăng 45.3% lên 812.9k đơn vị, cao hơn đáng kể so với phiên **No Demand** trước đó nhưng vẫn thấp hơn nhiều so với phiên **Selling Climax** ngày 29/7.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** mạnh mẽ sau phiên **Selling Climax** của ngày 29/7. Việc giá phục hồi quyết đoán từ vùng 97.9 lên 100.3 và test gần mức 101.0 trên khối lượng tăng cho thấy lực cầu đã quay trở lại sau giai đoạn bán tháo. Sự phục hồi này xác nhận rằng phiên **Selling Climax** trước đó có thể đã loại bỏ áp lực bán yếu và tạo ra cơ hội mua tốt ở vùng thấp. Việc giá đóng cửa gần đỉnh phiên (100.3 vs 101.0) cho thấy sức mạnh của phe mua. Tuy nhiên, cần quan sát liệu ACV có thể duy trì được vùng giá này hay sẽ có **Secondary Test** để kiểm tra độ vững chắc của đáy.

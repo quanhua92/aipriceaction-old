@@ -90,3 +90,6 @@
 
 - **Ngày 2025-07-30:** DGC tăng mạnh từ 101.5 lên 103.9. Cây nến tăng có biên độ rộng với mức high 103.9 và low 101.0, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm về 2.34 triệu đơn vị, giảm 49% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau tín hiệu **Effort to Fall** của phiên trước, việc giá tăng mạnh và đóng cửa ở mức cao nhất phiên với khối lượng giảm đáng kể cho thấy áp lực bán đã cạn kiệt hoàn toàn. Đây là tín hiệu rất tích cực khi thị trường không còn gặp kháng cự ở vùng cao, mở ra tiềm năng tiếp tục xu hướng tăng trong các phiên tới.
+**Ngày 2025-07-31:** DGC giảm từ 103.9 xuống 102.9. Cây nến giảm có biên độ hẹp với mức mở cửa 104.5, dao động trong khoảng 101.5-104.5 và đóng cửa ở 102.9. Khối lượng giao dịch giảm về 2.09 triệu đơn vị, giảm 11% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau tín hiệu **No Supply** tích cực của phiên trước, việc giá mở cửa cao hơn (104.5) nhưng bị đẩy xuống nhẹ với khối lượng giảm cho thấy áp lực bán vẫn còn yếu và có giới hạn. Việc giá chỉ giảm 1.0 điểm (1%) mặc dù có áp lực chốt lời nhẹ, kết hợp với khối lượng giảm tiếp tục xác nhận lực bán đang cạn kiệt. Đây là phiên test bình thường sau tín hiệu tích cực, thể hiện thị trường đang kiểm tra khả năng cung cấp và xu hướng tăng vẫn được duy trì.

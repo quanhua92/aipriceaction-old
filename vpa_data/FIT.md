@@ -74,3 +74,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 5.0 lên 5.0. Nến tăng với thân nến 1.6%. Khối lượng 2.8 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** FIT giảm nhẹ từ 5.04 xuống 5.0. Cây nến giảm có biên độ hẹp với mức dao động 4.93-5.11, đóng cửa gần mức thấp phiên. Khối lượng giao dịch ổn định ở 2.82 triệu đơn vị, tương đương với phiên trước (2.81 triệu).
+
+- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau phiên consolidation trước đó. Việc giá giảm nhẹ trên khối lượng không tăng cho thấy áp lực bán rất yếu và chỉ mang tính chất test nhẹ. Sau chuỗi các phiên **Test for Supply** mạnh từ 29/07, việc khối lượng ổn định và giá duy trì quanh vùng 5.0 cho thấy quá trình hấp thụ cung đã diễn ra hiệu quả. Tín hiệu này củng cố thêm cho khả năng FIT sẽ tiếp tục xu hướng tăng khi có xúc tác tích cực.

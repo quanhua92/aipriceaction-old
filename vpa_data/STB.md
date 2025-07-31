@@ -93,3 +93,5 @@
 
 - **Ngày 2025-07-30:** STB tăng mạnh +2.71% lên 49.30. nến xanh với bóng trên/dưới, phạm vi dao động 2.20 (4.46%). Giao dịch với khối lượng giảm xuống 0.7 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** STB tăng mạnh từ 49.3 lên 49.95 với mở cửa tại 49.9. Nến tăng có biên độ rộng với đỉnh ngày đạt 50.7 và đáy tại 49.25. Khối lượng giao dịch tăng nhẹ lên 18.16 triệu đơn vị.
+- **Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu "Kiểm tra nguồn cung" của phiên trước, hành động giá hôm nay cho thấy áp lực bán đã cạn kiệt tại vùng 49.25-50.7. Việc giá tăng từ 49.3 lên 49.95 với khối lượng tăng nhẹ (từ 17.25M lên 18.16M) nhưng không có sự bán mạnh tại vùng đỉnh cho thấy nguồn cung đã được hấp thụ hiệu quả. Đây là tín hiệu tích cực sau chuỗi test for supply và effort to fall của các phiên trước, thị trường đang hình thành nền tảng vững chắc để chuẩn bị cho xu hướng tăng mạnh hơn.

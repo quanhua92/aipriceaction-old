@@ -101,3 +101,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm từ 68.0 xuống 67.9. Nến giảm với thân nến 0.1%. Khối lượng 903,500 cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. 
+**Ngày 2025-07-31:** GAS giảm nhẹ từ 67.9 xuống 67.7. Cây nến giảm có biên độ rộng với mức cao 69.6 và mức thấp 67.6. Khối lượng giao dịch giảm xuống 839.7k đơn vị, giảm 7% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** sau chuỗi **Test for Supply** mạnh mẽ của hai phiên trước. Việc giá có test lên mức cao 69.6 trong phiên (gần với vùng kháng cự 70.0-70.5) nhưng sau đó giảm nhẹ trên khối lượng giảm cho thấy áp lực bán đã giảm đáng kể so với phiên test mạnh ngày 29/7. Mặc dù giá đóng cửa thấp hơn phiên trước, nhưng sự thiếu vắng selling pressure trên khối lượng thấp cho thấy nguồn cung đã được hấp thụ tốt. Sau chuỗi tín hiệu SOS và các phiên test, GAS đang hoàn thành giai đoạn consolidation và có thể sẵn sàng cho đợt tăng tiếp theo khi có xúc tác tích cực.

@@ -66,3 +66,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 0.5 điểm (2.7%). nến xanh với spread hẹp. khối lượng thấp giảm 53.3%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** CII giảm từ 16.9 xuống 16.35. Cây nến giảm có biên độ rộng với mức cao 16.9 và mức thấp 15.9, tạo bóng dưới dài 0.45 điểm. Đóng cửa ở giữa range, cách mức thấp nhất 0.45 điểm. Khối lượng giao dịch tăng 36.7% lên 38.47 triệu đơn vị so với phiên trước, cho thấy sự quan tâm gia tăng trong phiên điều chỉnh.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **No Demand** trước đó. Việc giá test xuống vùng thấp 15.9 (thấp hơn đáng kể so với vùng support 16.2-16.4 của các phiên trước) nhưng phục hồi và đóng cửa ở 16.35 trên khối lượng tăng mạnh cho thấy lực cầu đã xuất hiện ở vùng giá thấp hơn. Bóng dưới dài kết hợp với việc đóng cửa trên mức thấp nhất là dấu hiệu tích cực, cho thấy áp lực bán đã được hấp thụ. Tuy nhiên, cần theo dõi xem CII có thể tái test và vượt qua vùng kháng cự 16.8-17.0 trong các phiên tới hay không để xác nhận sức mạnh của lực cầu này.

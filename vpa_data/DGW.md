@@ -69,3 +69,6 @@
 
 - **Ngày 2025-07-30:** DGW giảm nhẹ từ 43.25 xuống 43.0. Cây nến giảm có biên độ rộng với mức high 44.0 và low 42.0. Khối lượng giao dịch giảm mạnh về 3.17 triệu đơn vị, giảm 52% so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau tín hiệu **Effort to Fall** mạnh mẽ của phiên trước, việc giá giảm nhẹ với biên độ dao động rộng nhưng khối lượng giảm mạnh cho thấy áp lực bán không mạnh. Mặc dù có test lên mức 44.0, việc đóng cửa chỉ giảm nhẹ trên nền khối lượng thấp thể hiện sự cân bằng giữa cung và cầu. Đây là dấu hiệu tích cực cho sự ổn định giá sau đợt panic selling.
+**Ngày 2025-07-31:** DGW tiếp tục giảm từ 43.0 xuống 42.55. Cây nến giảm có biên độ hẹp với mức mở cửa 43.8, high 43.8 và low 42.05. Khối lượng giao dịch giảm mạnh về 1.53 triệu đơn vị, giảm 52% so với phiên trước.
+
+- **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục xuất hiện. Sau tín hiệu **No Supply** tích cực của phiên trước, việc giá giảm nhẹ thêm 0.45 điểm với khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt hoàn toàn. Mặc dù giá vẫn ở vùng thấp sau đợt panic selling ngày 29/7, việc khối lượng giảm liên tiếp 2 phiên với biên độ giảm giá hẹp dần thể hiện quá trình hấp thụ cung đang diễn ra. Đây là dấu hiệu tích cực cho sự ổn định và tiềm năng phục hồi trong thời gian tới.

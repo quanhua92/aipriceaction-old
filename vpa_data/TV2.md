@@ -38,3 +38,6 @@
 
 - **Ngày 2025-07-30:** TV2 tăng mạnh +3.08% lên 40.20. nến xanh với bóng trên/dưới, phạm vi dao động 1.70 (4.23%). Giao dịch với khối lượng giảm xuống 0.5 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** TV2 giảm nhẹ từ 40.2 xuống 39.75 (-1.12%). Cây nến giảm có biên độ hẹp với spread 1.15 điểm (từ 39.35 đến 40.5) và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm 13.3% xuống 1.04 triệu cổ phiếu so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu kiểm tra nguồn cung của phiên trước, hành động giá hôm nay cho thấy thị trường đang test lực cầu tại vùng hỗ trợ 39.35-40.0. Việc giá giảm nhẹ với khối lượng giảm đáng kể (từ 1.2M xuống 1.04M) cho thấy áp lực bán đã giảm bớt sau đợt SOW ngày 29/7. Tín hiệu này tích cực hơn so với phiên trước, nhưng vẫn cần quan sát thêm để xác định liệu lực cầu có đủ mạnh để phủ nhận hoàn toàn tín hiệu phân phối trước đó hay không.

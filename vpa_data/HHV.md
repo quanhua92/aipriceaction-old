@@ -96,3 +96,6 @@
 
 - **Ngày 2025-07-30:** HHV giảm từ 12.55 xuống 12.45. Nến giảm với thân vừa, bóng cân đối. Biên độ biến động nhẹ. Khối lượng giao dịch 15.46 triệu đơn vị.
     - **Phân tích VPA/Wyckoff:** **No Demand** - Thị trường thiếu động lực, đi ngang. Cần thận trọng trong ngắn hạn
+**Ngày 2025-07-31:** HHV phục hồi từ 12.45 lên 12.8. Cây nến tăng có biên độ rộng (0.45 điểm) với mức cao 12.8 và mức thấp 12.35. Khối lượng giao dịch giảm (11.27 triệu đơn vị), giảm 27% so với phiên trước nhưng vẫn ở mức trung bình.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau chuỗi sụt giá mạnh. Sau tín hiệu **No Demand** hôm trước và sự sụp đổ mạnh ngày 29/7, việc giá phục hồi từ mức thấp 12.35 lên đóng cửa tại 12.8 cho thấy có sự xuất hiện của lực cầu ở vùng giá thấp. Mặc dù khối lượng giảm 27%, nhưng việc giá có thể phục hồi mạnh từ mức thấp và test lên gần mức cao nhất trong ngày cho thấy áp lực bán đã giảm đáng kể. Sau giai đoạn **Tín hiệu Yếu** mạnh, đây có thể là dấu hiệu đầu tiên của việc tìm được vùng hỗ trợ quanh 12.3-12.5. Tuy nhiên, cần quan sát thêm để xác nhận liệu đây có phải là đáy ngắn hạn hay chỉ là nhịp phục hồi kỹ thuật trong xu hướng giảm.

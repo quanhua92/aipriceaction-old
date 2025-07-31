@@ -98,3 +98,6 @@
 
 - **Ngày 2025-07-30:** VCI biến động nhẹ +0.12% lên 41.90. nến đỏ với bóng trên/dưới, phạm vi dao động 1.55 (3.70%). Giao dịch với khối lượng giảm xuống 0.6 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá ít biến động với khối lượng thấp cho thấy thiếu sự quan tâm.
+**Ngày 2025-07-31:** VCI tăng từ 42.0 lên 43.05 với đỉnh ngày đạt 43.15. Nến xanh có biên độ rộng 2.25 điểm với đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm xuống 15.34 triệu đơn vị, thấp hơn đáng kể so với phiên trước (17.29 triệu) và thấp hơn nhiều so với ngày selling climax 29/7 (29.34 triệu).
+
+- **Phân tích VPA/Wyckoff:** **Automatic Rally** - Sau tín hiệu "Không có nhu cầu" của phiên trước và giai đoạn selling climax ngày 29/7, hành động giá hôm nay cho thấy automatic rally tự nhiên. Việc giá phục hồi lên trên 43.0 với khối lượng giảm dần từ 29.34M → 17.29M → 15.34M cho thấy áp lực bán đã cạn kiệt và thị trường đang hồi phục một cách tự nhiên. Đây là tín hiệu tích cực sau giai đoạn xả hàng panic, báo hiệu khả năng kết thúc chu kỳ giảm ngắn hạn.

@@ -105,3 +105,5 @@
 
 - **Ngày 2025-07-30:** TCB tăng +1.77% lên 34.50. nến xanh với bóng trên/dưới, phạm vi dao động 0.90 (2.61%). Giao dịch với khối lượng giảm xuống 0.7 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-31:** TCB giảm từ 34.6 xuống 34.0 với mức thấp nhất 33.8. Cây nến giảm có biên độ vừa phải và đóng cửa gần giữa phiên. Khối lượng giao dịch giảm (26.76 triệu đơn vị) so với phiên trước (30.55 triệu).
+- **Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu "Kiểm tra nguồn cung" của phiên trước với khối lượng thấp, hành động giá hôm nay xác nhận sự yếu kém của lực cầu. Việc giá tiếp tục giảm xuống 34.0 và test sâu xuống 33.8 với khối lượng vẫn duy trì thấp (giảm từ 30.55M xuống 26.76M) cho thấy không có sức mua mạnh xuất hiện để hỗ trợ giá. Điều này xác nhận áp lực từ đợt Effort to Fall của ngày 29/7 vẫn đang chi phối thị trường, với xu hướng giảm có thể tiếp diễn cho đến khi tìm thấy vùng demand mạnh hơn.

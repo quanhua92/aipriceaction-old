@@ -68,3 +68,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 1.8 điểm (4.3%). nến xanh với spread trung bình. khối lượng thấp giảm 68.0%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BIC giảm từ 42.65 xuống 41.2. Cây nến giảm có biên độ rộng với mức cao 42.7 và mức thấp 40.8, đóng cửa gần mức thấp phiên. Khối lượng giao dịch tăng vọt lên 251.6k đơn vị, gấp 2.8 lần so với phiên trước và là mức cao thứ hai trong tháng 7 (chỉ sau phiên Buying Climax ngày 29/7).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên Buying Climax. Việc giá giảm mạnh từ vùng cao 42.7 xuống 40.8 trên khối lượng tăng vọt cho thấy áp lực bán tiếp tục xuất hiện mạnh mẽ sau buying climax của ngày 29/7. Mặc dù có sự phục hồi từ đáy phiên (40.8 lên 41.2) nhưng việc đóng cửa gần mức thấp trên khối lượng cao là dấu hiệu tiêu cực. Khối lượng 251.6k kết hợp với việc giá test xuống vùng 40.8 cho thấy thị trường đang kiểm tra lực cầu tại các vùng thấp hơn. Tín hiệu này xác nhận rằng giai đoạn euphoria đã kết thúc và BIC đang bước vào giai đoạn distribution, cần theo dõi các phiên tiếp theo để xác định liệu lực cầu có đủ mạnh để hấp thụ áp lực bán hay xu hướng điều chỉnh sẽ tiếp diễn.

@@ -97,3 +97,6 @@
 
 - **Ngày 2025-07-30:** Giá giảm từ 27.0 xuống 26.9. Nến giảm với thân nến 0.6%. Khối lượng 6.7 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có tín hiệu rõ ràng. 
+**Ngày 2025-07-31:** HDG tiếp tục giảm từ 26.85 xuống 26.15, giảm 2.6%. Cây nến giảm có biên độ rộng với mức cao 26.75 và mức thấp 25.55. Khối lượng giao dịch tăng mạnh lên 10.43 triệu đơn vị, tăng 55% so với phiên trước. Đây là phiên giảm thứ hai liên tiếp kể từ sau tín hiệu **Test for Supply** mạnh mẽ ngày 29/7.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** mạnh mẽ. Sau chuỗi test for supply và điều chỉnh từ đỉnh 29.0, việc giá giảm mạnh xuống 26.15 (thấp hơn cả mức support 27.0 của ngày 29/7) trên khối lượng bùng nổ tăng 55% cho thấy áp lực bán đã chiếm ưu thế hoàn toàn. Việc giá test xuống mức thấp 25.55 - thấp nhất trong 2 tuần qua - cho thấy HDG đang trong giai đoạn điều chỉnh sâu sau chuỗi tăng trước đó. Khối lượng cao kết hợp với việc phá vỡ support 27.0 cho thấy có thể có thêm áp lực giảm trong ngắn hạn, HDG cần tìm kiếm vùng support mới ở mức thấp hơn.

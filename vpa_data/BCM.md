@@ -95,3 +95,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng 0.9 điểm (1.3%). nến xanh với spread hẹp. khối lượng thấp giảm 47.5%.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-31:** BCM có phiên bùng nổ mạnh mẽ từ 69.0 lên 71.7, tăng 2.7 điểm (3.9%). Cây nến tăng có biên độ rộng với mức mở cửa gap lên đáng kể tại 73.0, mức cao nhất phiên cũng tại 73.0, và mức thấp nhất 69.6. Khối lượng giao dịch tăng vọt lên 1.801.500 đơn vị, cao gấp 3.6 lần so với phiên trước đó.
+
+- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận hoàn hảo rằng **Test for Supply** của các phiên trước đã thành công. Việc giá gap lên mạnh tại 73.0 và duy trì được mức cao trong suốt phiên, kết hợp với khối lượng bùng nổ cho thấy lực cầu institutional đã can thiệp quyết đoán. Mặc dù có pullback từ đỉnh 73.0 xuống 71.7 nhưng việc đóng cửa vẫn cao hơn đáng kể so với phiên trước (71.7 vs 69.0) chứng tỏ momentum tăng cực kỳ mạnh. Chuỗi tín hiệu **Test for Supply** (29/7) và **SOS** (31/7) tạo nên pattern đột phá mạnh mẽ, xác nhận BCM đã hoàn tất giai đoạn accumulation và bắt đầu giai đoạn markup. Khối lượng kỷ lục kết hợp với việc vượt qua vùng kháng cự 70-71 cho thấy tiềm năng cao để hướng tới các mức giá mới trong thời gian tới.

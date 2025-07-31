@@ -101,3 +101,6 @@
 
 - **Ngày 2025-07-30:** Giá tăng từ 25.2 lên 25.6. Nến tăng với thân nến 1.4%. Khối lượng 17.1 triệu cổ phiếu.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá tăng nhưng khối lượng thấp, thiếu sự ủng hộ từ thị trường.
+**Ngày 2025-07-31:** HCM tăng từ 25.6 lên 25.9. Cây nến tăng có biên độ vừa phải với mức cao 26.0 và mức thấp 25.05. Khối lượng giao dịch giảm (15.19 triệu đơn vị), giảm 11% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau Selling Climax. Sau cú sập mạnh từ 27.6 xuống 25.25 hôm 29/7 với khối lượng lớn, việc giá phục hồi nhẹ lên 25.9 nhưng khối lượng giảm cho thấy áp lực bán đang giảm bớt. Mặc dù giá chưa thể vượt qua mức kháng cự 26.0, nhưng việc đóng cửa gần mức cao và khối lượng giảm là dấu hiệu tích cực, cho thấy HCM đang trong giai đoạn hấp thụ sau Selling Climax. Đây có thể là bước đầu của quá trình tích lũy trở lại sau khi loại bỏ tay yếu ở vùng đỉnh 27.6.

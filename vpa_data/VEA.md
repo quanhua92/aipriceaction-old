@@ -91,3 +91,6 @@
 
 - **Ngày 2025-07-30:** VEA biến động nhẹ +0.26% lên 38.30. nến đỏ với bóng trên/dưới, phạm vi dao động 0.40 (1.04%). Giao dịch với khối lượng giảm xuống 0.6 lần so với phiên trước.
     - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Giá ít biến động với khối lượng thấp cho thấy thiếu sự quan tâm.
+**Ngày 2025-07-31:** VEA biến động nhẹ từ 38.3 lên 38.3 (giá không đổi). Cây nến doji có biên độ hẹp 0.4 điểm (từ 38.1 đến 38.5) với đóng cửa tại mức mở cửa. Khối lượng giao dịch giảm nhẹ xuống 574.1k cổ phiếu (-1.4% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **No Demand** tiếp diễn - Sau tín hiệu "Không có nhu cầu" của phiên trước, hành động giá hôm nay tiếp tục xác nhận sự thiếu vắng lực cầu. Việc giá đi ngang tại vùng 38.3 với khối lượng thấp và giảm cho thấy thị trường đang trong trạng thái thiếu động lực. Mặc dù không có áp lực bán mạnh, việc không có lực cầu nào xuất hiện để đẩy giá lên cao hơn cho thấy thị trường vẫn đang trong giai đoạn tích lũy hoặc chờ đợi catalyst mới. Vùng 38.0-38.5 đang được củng cố như một trading range hẹp.
