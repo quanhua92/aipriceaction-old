@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** mạnh mẽ. Việc giá tiếp tục tăng mạnh sau chuỗi Sign of Strength liên tiếp trên nền khối lượng giảm cho thấy áp lực bán hoàn toàn kiệt sức. Đây là tín hiệu No Supply cực kỳ tích cực, xác nhận xu hướng tăng mạnh mẽ sẽ tiếp tục.
 
 
+**Ngày 2025-07-27:** Sau ba tuần Sign of Strength và No Supply liên tiếp, MBS tiếp tục xu hướng tăng mạnh với nến tăng thân dài, đóng cửa (32.0) tăng từ 30.1 tuần trước (+6.3%). Giá dao động từ 29.2 đến 32.0 với biên độ rộng, đóng cửa đúng tại mức cao nhất tuần. Khối lượng giao dịch giảm nhẹ xuống 43.3 triệu so với 47.3 triệu tuần trước, nhưng vẫn duy trì ở mức cao.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp tục. Việc giá tăng mạnh và đóng cửa tại mức cao nhất trên nền khối lượng cao (dù giảm nhẹ) cho thấy áp lực bán tiếp tục yếu đi. Chuỗi bốn tuần liên tiếp với các tín hiệu tích cực (Sign of Strength → Sign of Strength → No Supply → No Supply) xác nhận xu hướng tăng mạnh mẽ và bền vững, với lực cầu áp đảo hoàn toàn.

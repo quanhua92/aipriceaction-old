@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Sau chuỗi các tín hiệu No Demand, việc giá tăng mạnh với khối lượng lớn cho thấy lực cầu institutional đã trở lại, có thể báo hiệu sự kết thúc của giai đoạn yếu kém trước đó.
 
 
+**Ngày 2025-07-27:** PLX có tuần tăng giá tích cực, đóng cửa (38.1) cao hơn 2.14% so với tuần trước và gần mức cao nhất tuần (38.6). Cây nến có thân tăng với bóng dưới cho thấy có sự hỗ trợ tốt ở vùng 36.9. Khối lượng giao dịch tăng mạnh 40.67% lên 12.07 triệu cổ phiếu, cao nhất trong 4 tuần qua, cho thấy sự quan tâm gia tăng của nhà đầu tư tổ chức.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Sau tuần trước đã có dấu hiệu phục hồi, tuần này xác nhận xu hướng tích cực với giá tăng trên nền khối lượng lớn. Việc giá đóng cửa gần đỉnh tuần với khối lượng tăng mạnh cho thấy lực cầu institutional mạnh mẽ, có thể báo hiệu sự kết thúc hoàn toàn của giai đoạn điều chỉnh từ đầu tháng 7.

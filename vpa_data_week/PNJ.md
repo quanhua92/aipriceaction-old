@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply**. Sau đợt tăng mạnh tuần trước, việc giá giữ vững ở mức cao trên nền khối lượng thấp cho thấy áp lực bán đã cạn kiệt, thị trường đang hấp thụ tại vùng giá này.
 
 
+**Ngày 2025-07-27:** PNJ tiếp tục xu hướng đi ngang với biến động nhỏ, đóng cửa (86.4) gần như không đổi so với tuần trước (+0.02%). Cây nến có thân nhỏ với bóng dưới dài, cho thấy có áp lực bán nhẹ nhưng được hấp thụ tốt. Khối lượng giao dịch tiếp tục giảm sâu thêm 49.77% xuống còn 2.37 triệu cổ phiếu, mức thấp nhất trong 4 tuần qua.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** mạnh mẽ. Việc giá duy trì ổn định quanh mức cao 86.4 trong 2 tuần liên tiếp trên nền khối lượng giảm dần cho thấy áp lực bán đã cạn kiệt hoàn toàn. Thị trường đang trong giai đoạn hấp thụ tại vùng giá cao, tạo nền tảng vững chắc cho đợt đột phá tiếp theo lên trên kháng cự 88.5.

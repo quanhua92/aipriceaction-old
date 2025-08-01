@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** đáng kể. Việc giá tăng mạnh (+4.1%) trên nền khối lượng tăng vọt (+52.6%) sau hai tuần No Supply liên tiếp xác nhận rằng giai đoạn tích lũy đã hoàn thành và xu hướng tăng mới đang bắt đầu. Tín hiệu này cho thấy dòng tiền mạnh đã quay trở lại VGT.
 
 
+**Ngày 2025-07-27:** VGT tiếp tục xu hướng tăng mạnh từ 12.2 lên 12.7 (+4.1%). Nến tăng thân dài với biên độ từ 12.2 đến 12.8, đóng cửa gần mức cao nhất tuần tại 12.7. Khối lượng giao dịch tăng vọt lên 9.375.400 (+52.7% so với tuần trước). Đây là tuần thứ hai liên tiếp có động thái tăng giá mạnh sau giai đoạn tích lũy, với giá đã vượt qua vùng kháng cự 12.5 và hướng tới test vùng 13.0.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo, xác nhận xu hướng tăng mạnh mẽ. Việc giá tăng +4.1% trên nền khối lượng tăng vọt +52.7% cho thấy dòng tiền lớn đang tiếp tục đổ vào VGT. Kết hợp với chuỗi tín hiệu No Supply trước đó, điều này khẳng định giai đoạn Mark Up đã bắt đầu rõ ràng, với khả năng cao sẽ tiếp tục test vùng kháng cự 13.0-13.4.

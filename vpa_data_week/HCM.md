@@ -16,3 +16,6 @@
 
 - **Ngày 2025-07-21:** Tiếp nối Test for Supply của tuần trước, HCM có một tuần tăng giá với nến tăng biên độ vừa phải, tăng từ 24.95 lên 25.75 (+3.2%) và đạt mức cao 26.4. Biên độ giao dịch từ 24.3 đến 26.4 cho thấy sự bứt phá. Khối lượng giao dịch giảm xuống 90.869.088 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** nhẹ. Việc giá có thể vượt qua kháng cự và đạt đỉnh mới cho thấy lực cầu vẫn còn kiểm soát, tuy nhiên khối lượng giảm cho thấy sự nhiệt tình không bằng những tuần trước.
+**Ngày 2025-07-27:** HCM có một tuần tăng nhẹ, đóng cửa tại mức 25.75 (+3.2%) so với tuần trước, đạt đỉnh tuần tại 26.4 - tương đương với đỉnh của tuần trước. Biên độ giao dịch từ 24.3 đến 26.4 cho thấy sự dao động mạnh. Khối lượng giao dịch giảm xuống 90.841.200 cổ phiệu, thấp hơn đáng kể so với tuần trước (115.756.900 cổ phiệu). Mặc dù giá tăng nhưng không thể vượt qua mức kháng cự 26.4, kết hợp với khối lượng suy giảm cho thấy động lực tăng đang yếu dần.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Result** với dấu hiệu **Weakness**. Việc giá không thể vượt qua mức kháng cự 26.4 trên nền khối lượng giảm mạnh cho thấy lực cầu đang suy yếu. Sau giai đoạn Test for Supply và Sign of Strength nhẹ của các tuần trước, tín hiệu này cảnh báo về khả năng kết thúc đà tăng ngắn hạn và có thể bước vào giai đoạn phân phối.

@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Việc giá tăng mạnh (+3.2%) kèm theo khối lượng tăng nhẹ (+2%) cho thấy đà tăng vẫn được duy trì mạnh mẽ. Sự kết hợp này khẳng định xu hướng tăng đang được củng cố, với dòng tiền mua duy trì ổn định sau hai tuần Sign of Strength liên tiếp.
 
 
+**Ngày 2025-07-27:** VCI có một tuần tăng giá tích cực từ 41.7 lên 43.05 (+3.2%). Nến tăng với thân dài, biên độ giao dịch 40.0-43.2, đóng cửa gần mức cao nhất tuần tại 43.05. Khối lượng giao dịch tăng nhẹ lên 90.105.800 so với tuần trước (88.158.100). Đây là tuần tăng thứ 3 liên tiếp kể từ sau tín hiệu Sign of Strength đầu tiên vào tuần 07-07.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục và mạnh mẽ. Việc giá tăng +3.2% kèm theo khối lượng tăng +2.2% cho thấy đà tăng vẫn được duy trì với sự hỗ trợ của dòng tiền mua ổn định. Cổ phiếu đã có 3 tuần Sign of Strength liên tiếp, khẳng định xu hướng tăng mạnh mẽ và bền vững. Việc đóng cửa gần mức cao nhất tuần (43.05 vs đỉnh 43.2) thể hiện sức mạnh của phe mua, cho thấy xu hướng tăng có thể tiếp tục trong các tuần tới.

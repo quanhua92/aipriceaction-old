@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** mạnh mẽ sau test for supply thành công tuần trước. Việc giá breakout quyết liệt trên khối lượng ổn định cho thấy lực cầu đã tích lũy đủ mạnh và HVN đã bước vào giai đoạn markup. Đỉnh 34.95 có thể là test resistance ngắn hạn.
 
 
+**Ngày 2025-07-27:** HVN tiếp tục xu hướng tăng mạnh với nến tăng có thân dài, đóng cửa 33.55 (+13.55% so với tuần trước). Giá mở cửa gap lên 31.6, đạt đỉnh 34.95 rồi đóng cửa gần mức cao nhất. Khối lượng giao dịch duy trì ổn định ở 10.17 triệu, tương đương tuần trước.
+
+**Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** tiếp tục sau breakout tuần trước. Việc giá duy trì momentum tăng mạnh với gap opening và test thành công vùng kháng cự 34.95 trên khối lượng ổn định cho thấy lực cầu vẫn đang kiểm soát thị trường. Xu hướng markup đang được duy trì tốt, HVN có thể tiếp tục test các vùng giá cao hơn trong các tuần tới.

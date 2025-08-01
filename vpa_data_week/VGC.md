@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** cực mạnh, hoàn thành chuỗi tín hiệu tích cực từ No Supply đến Sign of Strength liên tiếp. Việc bùng nổ giá với khối lượng khổng lồ cho thấy VGC đang trong giai đoạn breakout mạnh mẽ, với sự tham gia tích cực của Smart Money. Đây là cổ phiếu đáng chú ý trong giai đoạn markup.
 
 
+**Ngày 2025-07-27:** VGC tiếp tục duy trì đà tăng mạnh mẽ từ tuần trước, mở cửa tại 47.95 và đóng cửa tại mức đỉnh tuần 52.4 (+11.0%). Nến tăng có thân dài với biên độ dao động từ 45.65 đến 52.4, cho thấy volatility cao nhưng áp lực mua chiếm ưu thế tuyệt đối. Khối lượng giao dịch đạt 8.8 triệu cổ phiếu, tăng 23% so với tuần trước, xác nhận sự tham gia mạnh mẽ của dòng tiền. Việc đóng cửa đúng tại mức cao nhất tuần thể hiện lực cầu áp đảo hoàn toàn, không có áp lực chốt lời đáng kể.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** cực kỳ mạnh mẽ, tiếp nối chuỗi tín hiệu tích cực từ những tuần trước. VGC đang trong giai đoạn markup rõ ràng với sự breakout vượt ngưỡng kháng cự 50.0, được hỗ trợ bởi khối lượng khổng lồ. Việc giá tăng 11% kèm khối lượng tăng 23% cho thấy Smart Money đang tích cực tham gia, tạo nên một upthrust mạnh mẽ. Đây là cổ phiếu đáng theo dõi cho xu hướng tăng dài hạn.

@@ -16,3 +16,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** mạnh mẽ tiếp theo. Việc giá breakout quyết liệt trên nền khối lượng tăng cao cho thấy lực cầu đang rất mạnh và IPA đã bước vào giai đoạn markup rõ ràng. Đỉnh 16.9 có thể là test resistance tiếp theo.
 
 
+**Ngày 2025-07-27:** IPA tiếp tục xu hướng tăng mạnh với nến tăng thân dài, mở cửa 15.5 và đóng cửa 16.7 (+8.4% so với tuần trước). Giá dao động từ 14.3 đến 16.9 với biên độ rộng 2.6 điểm. Khối lượng giao dịch tăng vọt lên 4.55 triệu, cao nhất trong 10 tuần qua, cao hơn 60% so với tuần trước.
+- **Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** rất mạnh mẽ tiếp theo trong chuỗi markup. Việc giá breakout lên đỉnh mới 16.9 trên nền khối lượng tăng cao đáng kể cho thấy lực cầu institutional đang rất tích cực. Mặc dù có test xuống 14.3 nhưng đóng cửa gần đỉnh (16.7) chứng tỏ absorption tốt. IPA đang trong giai đoạn markup rõ ràng với potential target tiếp theo ở vùng 17.5-18.0.

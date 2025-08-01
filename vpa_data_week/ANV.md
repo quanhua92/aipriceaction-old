@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, phủ nhận hoàn toàn tín hiệu yếu từ hai tuần trước. Việc thiết lập đỉnh mới kết hợp với khối lượng gia tăng đáng kể cho thấy lực cầu đã quay trở lại quyết liệt và xu hướng tăng đang được tái khẳng định.
 
 
+**Ngày 2025-07-27:** Sau tuần tăng vọt thiết lập đỉnh mới, ANV tiếp tục duy trì đà tăng mạnh với một nến tăng có biên độ rộng, mở cửa (22.95) và đóng cửa (24.55) gần mức cao nhất tuần (24.9), thiết lập đỉnh mới liên tiếp lần thứ hai. Khối lượng giao dịch duy trì ở mức rất cao (33.0 triệu cp), ngang bằng tuần trước và cao nhất trong 2 tháng qua.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xác nhận xu hướng tăng mạnh mẽ được duy trì. Việc giá liên tục thiết lập đỉnh mới trên nền khối lượng cao ổn định cho thấy lực cầu vẫn đang kiểm soát hoàn toàn và chưa có dấu hiệu suy yếu. Tuy nhiên, cần theo dõi các tuần tới để xác định liệu đây có phải là giai đoạn đầu của một **Climax** hay xu hướng tăng vẫn có thể kéo dài.

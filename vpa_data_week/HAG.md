@@ -15,3 +15,6 @@
 - **Ngày 2025-07-21:** Sau Buying Climax của tuần trước, HAG có một tuần điều chỉnh với nến giảm biên độ rộng, giảm từ 14.85 xuống 14.05 (-5.4%) và có mức thấp 13.95. Biên độ giao dịch từ 13.95 đến 15.2 cho thấy sự dao động mạnh. Khối lượng giao dịch tăng vọt lên 99.650.216 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Automatic Reaction** sau Buying Climax tuần trước. Việc giá giảm mạnh trên nền khối lượng khổng lồ là phản ứng tự nhiên sau một đợt cao trào mua, xác nhận rằng đỉnh tạm thời đã được hình thành và giai đoạn điều chỉnh đã bắt đầu.
 
+**Ngày 2025-07-27:** HAG có một tuần dao động mạnh với biên độ từ 13.95 đến 15.2, mở cửa ở 14.95 và đóng cửa ở 14.05 (-5.4% so với tuần trước). Cổ phiếu đã test mức cao 15.2 nhưng không thể duy trì và bị bán tháo mạnh về cuối tuần. Khối lượng giao dịch tiếp tục duy trì ở mức cao 99.626.500 cổ phiếu, tương đương với tuần trước, cho thấy sự quan tâm lớn của thị trường.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Secondary Test** sau Automatic Reaction tuần trước. HAG đã thử nghiệm vùng cung tại đỉnh (15.2) nhưng gặp phải áp lực bán mạnh, xác nhận rằng vùng 15.0-15.2 là một kháng cự quan trọng. Việc khối lượng duy trì cao trong khi giá không thể vượt qua đỉnh cũ cho thấy sự phân phối đang diễn ra. Đây là tín hiệu cảnh báo về khả năng tiếp tục điều chỉnh sâu hơn nếu không có lực cầu mạnh xuất hiện.

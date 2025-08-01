@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** chuyển thành **Sign of Strength**. Việc giá tiếp tục tăng (+2.8%) với khối lượng tăng nhẹ (+20%) sau hai tuần No Supply liên tiếp cho thấy sự quan tâm trở lại từ nhà đầu tư. Sự kết hợp này xác nhận xu hướng tăng đang được củng cố mạnh mẽ.
 
 
+**Ngày 2025-07-27:** TNG tiếp tục xu hướng tăng với nến tăng từ 21.2 lên 21.7 (+2.4%). Biên độ giao dịch trong tuần 20.8-22.0, đóng cửa gần mức cao nhất tuần tại 21.7. Khối lượng giao dịch duy trì ở mức cao 10.298.200, tương đương tuần trước, cho thấy sự quan tâm bền vững từ nhà đầu tư. Đây là tuần thứ ba liên tiếp cổ phiếu tăng giá sau tín hiệu Sign of Strength mạnh mẽ vào cuối tháng 6, với mức tăng tích lũy từ 20.6 lên 21.7 (+5.3%) trong 3 tuần qua.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Việc giá tăng (+2.4%) với khối lượng duy trì ở mức cao, đặc biệt sau chuỗi 3 tuần tăng liên tiếp, cho thấy dòng tiền thông minh vẫn đang tích cực tham gia. Sự kết hợp giữa giá tạo đỉnh mới (22.0) và khối lượng ổn định khẳng định xu hướng tăng đang trong giai đoạn mở rộng mạnh mẽ, chưa có dấu hiệu suy yếu.

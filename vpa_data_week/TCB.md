@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là **Effort to Rise** thất bại chuyển thành **Sign of Weakness**. Việc giá không thể duy trì đà tăng mà quay đầu giảm trên khối lượng tăng cao (+11.8%) cho thấy áp lực bán đã xuất hiện mạnh mẽ. Điều này xác nhận rằng nỗ lực tăng giá tuần trước chỉ là phục hồi tạm thời, xu hướng yếu kém vẫn đang tiếp diễn.
 
 
+**Ngày 2025-07-27:** Sau tuần yếu kém trước đó, TCB tiếp tục có một tuần điều chỉnh với nến giảm từ 36.3 xuống 35.2 (-3.0%). Mặc dù mở cửa tại mức cao 36.3 nhưng bị bán tháo xuống thấp nhất 34.9 trước khi phục hồi nhẹ đóng cửa 35.2. Khối lượng giao dịch tăng mạnh lên 116.134.800 (+11.9% so với tuần trước).
+
+**Phân tích VPA/Wyckoff:** Đây là **No Demand** chuyển thành **Sign of Weakness**. Việc giá tiếp tục giảm trên khối lượng tăng cao cho thấy áp lực bán vẫn đang tiếp diễn mạnh mẽ. Mặc dù có sự phục hồi nhẹ từ đáy 34.9 lên 35.2 nhưng không đủ mạnh để phá vỡ xu hướng yếu kém. Khối lượng tăng kèm giá giảm xác nhận sự hiện diện của nguồn cung lớn, củng cố thêm cho tín hiệu yếu kém đã xuất hiện từ 2 tuần trước.

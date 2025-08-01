@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** trong xu hướng tăng. Việc giá có thể tăng nhẹ trên nền khối lượng giảm cho thấy áp lực bán rất yếu ở vùng giá cao này. Tín hiệu tích cực, cho thấy cổ phiếu đang tích lũy vững chắc và có tiềm năng bứt phá tiếp theo.
 
 
+**Ngày 2025-07-27:** CTG kết thúc tuần với một phiên consolidation trong vùng giá cao. Nến có thân nhỏ với giá mở cửa 45.6 và đóng cửa cũng tại 45.6, cho thấy sự cân bằng giữa cung và cầu. Biên độ giao dịch từ 44.7 đến 46.2 phản ánh volatility vừa phải trong phạm vi hẹp. Khối lượng giao dịch giảm nhẹ xuống 28.319.300 cổ phiếu so với tuần trước (28.337.447 cp), duy trì xu hướng khối lượng thấp trong giai đoạn tích lũy ở vùng cao.
+
+**Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** tiếp tục trong xu hướng tăng. Việc giá duy trì ổn định ở vùng cao (45.6) trên nền khối lượng thấp cho thấy áp lực bán rất yếu và nguồn cung đã cạn kiệt. Cổ phiếu đang trong giai đoạn tích lũy vững chắc sau chuỗi tăng giá mạnh mẽ từ tháng 6, tạo nền tảng cho đợt bứt phá tiếp theo khi có catalyst phù hợp.

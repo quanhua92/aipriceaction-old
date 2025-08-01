@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi tăng giá mạnh. Việc giá duy trì ổn định gần mức cao với khối lượng giảm cho thấy tình trạng No Supply, xác nhận không có áp lực bán mạnh từ Smart Money. Đây là dấu hiệu tích cực, cho thấy PDR vẫn đang trong xu hướng tăng và có thể tiếp tục markup trong các tuần tới.
 
 
+**Ngày 2025-07-27:** Sau tuần test for supply thành công, PDR tiếp tục cho thấy sức mạnh với nến tăng nhẹ, mở cửa tại 20.65 và đóng cửa tại 20.75. Giá dao động trong vùng hẹp 19.75-20.85, duy trì ổn định gần mức cao nhất. Khối lượng giao dịch giảm tiếp 26% xuống còn 92.3 triệu cổ phiếu, thấp hơn đáng kể so với tuần bùng nổ trước đó (125 triệu). Việc giá không giảm sâu mặc dù khối lượng thấp cho thấy áp lực bán rất yếu.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** rất tích cực sau giai đoạn test. Việc PDR duy trì giá ổn định gần đỉnh với khối lượng thấp chứng tỏ không có áp lực bán từ Smart Money, xác nhận xu hướng tăng vẫn còn nguyên vẹn. Đây là dấu hiệu chuẩn bị cho đợt markup tiếp theo khi dòng tiền institutional quay trở lại.

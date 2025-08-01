@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá tiếp tục giảm nhưng với khối lượng giảm cho thấy áp lực bán đang yếu đi. Tín hiệu tích cực hơn so với tuần trước, có thể báo hiệu giai đoạn điều chỉnh đang đi đến hồi kết.
 
 
+**Ngày 2025-07-27:** CTR tiếp tục xu hướng giảm nhẹ với nến giảm có thân nhỏ, đóng cửa (98.7) thấp hơn tuần trước. Biên độ giao dịch từ 97.3 đến 100.7 cho thấy áp lực bán vẫn còn nhưng đã giảm bớt so với các tuần trước. Khối lượng giao dịch giảm xuống 3.242.900 cp, thấp hơn đáng kể so với tuần trước (3.906.100 cp).
+
+**Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp tục. Việc giá giảm nhẹ với khối lượng giảm đáng kể cho thấy áp lực bán đang yếu đi rõ rệt. Tín hiệu này củng cố thêm cho nhận định rằng giai đoạn điều chỉnh đang đi đến hồi kết. Mức giá hiện tại đang kiểm tra vùng hỗ trợ quan trọng và có thể sẵn sàng cho một đợt phục hồi nếu có tín hiệu Stopping Volume xuất hiện.

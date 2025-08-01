@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng sau Sign of Strength tuần trước cho thấy momentum tăng trưởng được duy trì, tuy nhiên biên độ thu hẹp với khối lượng giảm cho thấy đà tăng đang chững lại và có thể cần thời gian củng cố.
 
 
+**Ngày 2025-07-27:** HDG có một tuần tăng giá nhẹ, từ 27.8 lên 28.0 (+0.9%) với biên độ dao động khá rộng từ 26.15 đến 28.8. Giá đóng cửa gần mức cao nhất tuần, cho thấy sức mạnh của phe mua. Khối lượng giao dịch duy trì ở mức rất cao 42.7 triệu, tương đương tuần trước (44.3 triệu). Mức giá 28.0 đã vượt qua vùng kháng cự 27.75 của tuần trước và đang tiến về vùng 28.8.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** tích cực. Việc giá tiếp tục tăng và đóng cửa gần mức cao trên khối lượng cao cho thấy không có áp lực bán đáng kể. Sau hai tuần liên tiếp có Sign of Strength và Effort to Rise, HDG đang thể hiện xu hướng tăng trưởng ổn định với sự hỗ trợ mạnh mẽ từ khối lượng giao dịch.

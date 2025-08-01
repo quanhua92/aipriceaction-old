@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với một số đặc điểm hỗn hợp. Việc giá có thể đạt mức cao mới (65.8) nhưng không thể duy trì và đóng cửa thấp hơn với khối lượng tăng cho thấy có sự chống đỡ ở vùng cao. Tuy nhiên, việc giá vẫn giữ được trên mức hỗ trợ quan trọng cho thấy tình trạng tương đối No Supply, cần theo dõi tuần tới để xác định xu hướng.
 
 
+**Ngày 2025-07-27:** PHR có một tuần dao động mạnh với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 (cao hơn đỉnh tuần trước 63.0) nhưng không thể duy trì và đóng cửa thấp hơn mức mở cửa. Khối lượng giao dịch tăng 26% lên 3.486 triệu cổ phiếu so với tuần trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với đặc điểm tiêu cực. Việc giá đạt được đỉnh mới tại 65.8 nhưng đóng cửa thấp hơn mức mở cửa với khối lượng tăng mạnh cho thấy có áp lực bán mạnh ở vùng cao và lực cầu không đủ mạnh để duy trì mức giá. Điều này báo hiệu khả năng có sự phân phối tại vùng đỉnh và xu hướng tăng có thể gặp khó khăn trong ngắn hạn.

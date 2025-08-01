@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply**. Sau đợt tăng mạnh tuần trước, thị trường đang kiểm tra mức độ áp lực bán tại vùng đỉnh mới. Việc khối lượng giảm (-15.6%) trong phiên điều chỉnh là tín hiệu tích cực, cho thấy áp lực chốt lời không quá lớn. Nếu giá có thể giữ vững trên 48.5 trong tuần tới, đây sẽ là test thành công.
 
 
+**Ngày 2025-07-27:** STB tiếp tục giai đoạn điều chỉnh với nến giảm thứ hai liên tiếp, từ 50.7 xuống 48.8 (-3.8%). Mặc dù giá mở cửa cao (50.7) gần đỉnh tuần trước, nhưng áp lực bán đã đẩy giá xuống thấp 48.5 trước khi hồi phục nhẹ để đóng cửa tại 48.8. Khối lượng giao dịch 53.391.100 duy trì ở mức tương đương tuần trước, cho thấy sự quan tâm vẫn được duy trì trong giai đoạn điều chỉnh.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** đang tiếp diễn. Sau Sign of Strength mạnh mẽ ở tuần 2025-07-14 (tăng 5.1% với khối lượng cao), STB đã trải qua hai tuần điều chỉnh liên tiếp nhưng khối lượng không tăng mạnh, cho thấy áp lực chốt lời không quá lớn. Việc giá dao động trong khoảng 48.5-50.8 và duy trì trên mức hỗ trợ 48.5 là tín hiệu tích cực. Nếu tuần tới giá có thể giữ vững trên 48.5 hoặc tạo nến tăng với khối lượng, test for supply sẽ thành công và xu hướng tăng có thể tiếp tục.

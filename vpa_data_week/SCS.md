@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength**, xác nhận các tín hiệu No Supply từ hai tuần trước. Việc tăng giá phá vỡ mức kháng cự với khối lượng tăng cho thấy lực cầu đã trở lại mạnh mẽ sau giai đoạn tích lũy. SCS đang tiếp tục xu hướng tăng với sự hỗ trợ của Smart Money.
 
 
+**Ngày 2025-07-27:** SCS tiếp tục xu hướng tăng mạnh mẽ với nến tăng biên độ rộng, mở cửa tại 67.0 và đóng cửa tại 68.8, tăng 2.7% so với tuần trước. Giá đạt đỉnh tuần tại 69.5, phá vỡ mức kháng cự và thiết lập đỉnh mới trong chu kỳ tăng giá hiện tại. Khối lượng giao dịch tăng 25% lên 2.395.400 cổ phiếu, xác nhận sự tham gia tích cực của dòng tiền lớn. Việc giá đóng cửa gần mức cao nhất tuần (68.8 so với đỉnh 69.5) cho thấy lực cầu mạnh mẽ và áp lực bán yếu.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** tiếp nối, củng cố thêm cho xu hướng tăng. Sau hai tuần No Supply tích lũy (2025-07-07 và 2025-07-14), SCS đã bùng nổ với hai tuần Sign of Strength liên tiếp, cho thấy Smart Money đang tích cực mua vào. Việc phá vỡ kháng cự với khối lượng tăng mạnh xác nhận giai đoạn Mark Up đang diễn ra, với tiềm năng tiếp tục tăng về vùng 70-72.

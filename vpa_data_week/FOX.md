@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Buying Climax của tuần trước. Việc giá điều chỉnh trên nền khối lượng giảm là dấu hiệu tích cực, cho thấy áp lực bán không quá lớn. Đây có thể là đợt lấy lại hơi thở tự nhiên sau đợt tăng mạnh, tạo tiền đề cho xu hướng tăng tiếp theo.
 
 
+**Ngày 2025-07-27:** FOX tiếp tục điều chỉnh tuần thứ hai liên tiếp, giảm từ 76.0 xuống 73.0 (-3.9%). Biên độ giao dịch rộng từ 71.6 đến 80.5, cho thấy sự phân hóa mạnh trong tuần. Khối lượng giao dịch giảm xuống 1.243.200 cổ phiếu, thấp hơn tuần trước nhưng vẫn cao hơn đáng kể so với giai đoạn trước breakout. Mức giá đóng cửa 73.0 vẫn duy trì trên vùng kháng cự cũ 63-64, cho thấy breakout vẫn còn hiệu lực.
+
+**Phân tích VPA/Wyckoff:** Đây là **Test for Supply** thành công sau Buying Climax. Việc giá điều chỉnh hai tuần liên tiếp nhưng khối lượng giảm dần cho thấy áp lực bán đang yếu dần. Mức support quan trọng tại vùng 71.6-73.0 đang được kiểm tra. Nếu giá duy trì trên 70.0 với khối lượng tiếp tục giảm, đây sẽ là dấu hiệu **No Supply** tích cực, tạo nền tảng cho đợt tăng tiếp theo hướng tới vùng 80-85.

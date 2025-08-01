@@ -1,232 +1,232 @@
 # PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Cập nhật: 2025-07-31 | Phân tích theo phương pháp VPA-Strategist*
+*Cập nhật: 2025-08-01 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
 ![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-**Bối Cảnh Tuần**: VNINDEX đã trải qua giai đoạn tăng trưởng mạnh mẽ với chuỗi tín hiệu Dấu Hiệu Sức Mạnh liên tiếp đạt đỉnh kỷ lục 1564.92 điểm ngày 29/07. Biểu đồ tuần cho thấy xu hướng tăng trưởng trưởng thành với sự tham gia mạnh mẽ của dòng tiền tổ chức.
+**Bối Cảnh Tuần**: VNINDEX đã trải qua giai đoạn climactic với đỉnh 1564.92 điểm ngày 29/07 kèm theo Buying Climax điển hình. Biểu đồ tuần cho thấy chuỗi Sign of Strength mạnh mẽ, xác nhận xu hướng tăng vẫn được duy trì sau climax.
 
-**Hành Động Gần Đây**: Ngày 2025-07-29 ghi nhận **Buying Climax** điển hình - mở cửa gap lên 1562.6, chạm đỉnh 1564.92 nhưng bị bán tháo mạnh đóng cửa 1531.76 với khối lượng kỷ lục 2.15 tỷ đơn vị. Ngày 2025-07-30 thị trường có **Automatic Rally** phục hồi lên 1542.91, ngày 31/07 đóng cửa tại 1502.52 cho thấy giai đoạn hấp thụ sau đỉnh điểm.
+**Hành Động Gần Đây**: Sau Buying Climax ngày 29/07, VNINDEX đã thực hiện Automatic Rally thành công và hiện đang trong giai đoạn Secondary Test tích cực. Ngày 01/08 đóng cửa tại 1495.21 điểm với Sign of Strength từ báo cáo hàng ngày, cho thấy dòng tiền thông minh vẫn hỗ trợ.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Theo dõi vùng 1480-1520 cho cơ hội tích lũy. Với đóng cửa hiện tại 1502.52, thị trường đang trong giai đoạn kiểm tra sau Buying Climax. Mọi nhịp yếu về vùng 1480-1500 sẽ là cơ hội tích lũy tốt nếu có sự hỗ trợ khối lượng và Test for Demand tích cực.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Theo dõi vùng 1480-1520 cho cơ hội tích lũy. Với đóng cửa hiện tại 1495.21 và Sign of Strength patterns, thị trường đang trong giai đoạn Secondary Test tích cực. Mọi nhịp yếu về vùng 1480-1500 sẽ là cơ hội tích lũy tốt.
 
-## 2. Top 14 Cơ Hội Giao Dịch Chất Lượng
+## 2. Top 15 Cơ Hội Giao Dịch Chất Lượng
 
 ### Nhóm Tin Cậy Cao (90-95%) - Danh Mục Cốt Lõi
-1. [**VHM**](#VHM) (Bất Động Sản) - **92%** - Test for Demand mạnh sau Selling Climax - [View Report](REPORT.md#VHM)
-2. [**VND**](#VND) (Chứng Khoán) - **90%** - Phục hồi mạnh với nền tảng ngành vững - [View Report](REPORT.md#VND)
-3. [**VPB**](#VPB) (Ngân Hàng) - **90%** - Nhà lãnh đạo ngân hàng với khối lượng tổ chức - [View Report](REPORT.md#VPB)
+1. [**VHM**](#VHM) (Bất Động Sản) - **92%** - Weekly SOS + Daily Selling Climax cho recovery mạnh - [View Report](REPORT.md#VHM)
+2. [**VND**](#VND) (Chứng Khoán) - **90%** - Weekly SOS + Daily Selling Climax pattern rất tích cực - [View Report](REPORT.md#VND)
+3. [**VIX**](#VIX) (Chứng Khoán) - **88%** - Weekly SOS + Daily SOS dẫn dắt thị trường - [View Report](REPORT.md#VIX)
 
-### Nhóm Tin Cậy Tốt (80-89%) - Nắm Giữ Chiến Lược
-4. [**VIX**](#VIX) (Chứng Khoán) - **88%** - Dấu Hiệu Sức Mạnh mạnh mẽ trong dẫn dắt ngành - [View Report](REPORT.md#VIX)
-5. [**BSR**](#BSR) (Dầu Khí) - **85%** - Test for Supply sau SOS, cơ hội xoay vòng ngành - [View Report](REPORT.md#BSR)
-6. [**SHB**](#SHB) (Ngân Hàng) - **82%** - Khối lượng tổ chức đột phá 181M - [View Report](REPORT.md#SHB)
+### Nhóm Tin Cậy Tốt (85-89%) - Nắm Giữ Chiến Lược  
+4. [**VPB**](#VPB) (Ngân Hàng) - **87%** - Weekly SOS mạnh mẽ, banking sector leader - [View Report](REPORT.md#VPB)
+5. [**BSR**](#BSR) (Dầu Khí) - **85%** - Weekly + Daily SOS, energy rotation leader - [View Report](REPORT.md#BSR)
+6. [**SHB**](#SHB) (Ngân Hàng) - **85%** - Weekly + Daily SOS với volume breakthrough - [View Report](REPORT.md#SHB)
 
-### Nhóm Quan Sát Cẩn Thận (70-79%) - Vị Thế Chiến Thuật
-7. [**SSI**](#SSI) (Chứng Khoán) - **78%** - Effort to Fall cần theo dõi trong sức mạnh ngành - [View Report](REPORT.md#SSI)
-8. [**TCB**](#TCB) (Ngân Hàng) - **75%** - Cơ hội ngân hàng với nền tảng vững - [View Report](REPORT.md#TCB)
-9. [**HDB**](#HDB) (Ngân Hàng) - **72%** - Chất lượng ngân hàng cần xác nhận phục hồi - [View Report](REPORT.md#HDB)
+### Nhóm Tin Cậy Tốt (75-84%) - Vị Thế Chiến Lược
+7. [**MWG**](#MWG) (Bán Lẻ) - **80%** - Weekly SOS + Daily Selling Climax recovery - [View Report](REPORT.md#MWG)
+8. [**REE**](#REE) (Năng Lượng) - **78%** - Weekly SOS trong energy rotation theme - [View Report](REPORT.md#REE)
+9. [**ACB**](#ACB) (Ngân Hàng) - **76%** - Weekly SOS sau Selling Climax, banking support - [View Report](REPORT.md#ACB)
 
-### Nhóm Theo Dõi Đặc Biệt (65-69%) - Theo Dõi Phục Hồi
-10. [**GAS**](#GAS) (Dầu Khí) - **68%** - Dấu Hiệu Sức Mạnh trong xoay vòng ngành - [View Report](REPORT.md#GAS)
-11. [**ACB**](#ACB) (Ngân Hàng) - **66%** - Selling Climax với tiềm năng phục hồi - [View Report](REPORT.md#ACB)
-12. [**MWG**](#MWG) (Bán Lẻ) - **65%** - Sector leader với pressure tạm thời - [View Report](REPORT.md#MWG)
+### Nhóm Quan Sát Cẩn Thận (65-74%) - Vị Thế Chiến Thuật
+10. [**GAS**](#GAS) (Dầu Khí) - **72%** - Daily SOS trong energy rotation theme - [View Report](REPORT.md#GAS)
+11. [**DHG**](#DHG) (Dược Phẩm) - **70%** - Weekly + Daily SOS, defensive sector - [View Report](REPORT.md#DHG)
+12. [**C4G**](#C4G) (Đầu Tư Công) - **68%** - Daily SOS cần xác nhận xu hướng - [View Report](REPORT.md#C4G)
 
-### Nhóm Cơ Hội Mới (60-64%) - Cơ Hội Mới
-13. [**C4G**](#C4G) (Đầu Tư Công) - **62%** - Sign of Strength cần xác nhận - [View Report](REPORT.md#C4G)
-14. [**REE**](#REE) (Năng Lượng) - **60%** - Effort to Fall nhưng có tiềm năng cơ hội ngành - [View Report](REPORT.md#REE)
+### Nhóm Theo Dõi Đặc Biệt (60-67%) - Cơ Hội Phục Hồi
+13. [**HDB**](#HDB) (Ngân Hàng) - **65%** - Weekly Buying Climax + Daily Selling Climax recovery - [View Report](REPORT.md#HDB)
+14. [**SSI**](#SSI) (Chứng Khoán) - **62%** - Weekly Buying Climax, cần theo dõi recovery - [View Report](REPORT.md#SSI)
+15. [**TCB**](#TCB) (Ngân Hàng) - **60%** - Weekly weakness nhưng daily patterns improving - [View Report](REPORT.md#TCB)
 
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
 ### Cơ Hội Tăng Trưởng Mạnh
-- [**BSR**](#BSR) (Dầu Khí) - Test for Supply sau SOS mạnh, tiềm năng xoay vòng ngành - [View Report](REPORT.md#BSR)
-- [**SHB**](#SHB) (Ngân Hàng) - Khối lượng tổ chức bùng nổ 181M trong banking strength - [View Report](REPORT.md#SHB)
-- [**GAS**](#GAS) (Dầu Khí) - Sign of Strength với động lực năng lượng - [View Report](REPORT.md#GAS)
+- [**HDC**](#HDC) (Bất Động Sản) - Daily SOS sau weakness, BĐS sector support - [View Report](REPORT.md#HDC)
+- [**PLX**](#PLX) (Dầu Khí) - Daily SOS trong energy rotation theme - [View Report](REPORT.md#PLX)
+- [**SSH**](#SSH) (Bất Động Sán) - Daily SOS patterns trong sector strength - [View Report](REPORT.md#SSH)
 
-### Cơ Hội Theo Dõi Đặc Biệt  
-- [**BID**](#BID) (Ngân Hàng) - Selling Climax với tiềm năng phục hồi trong ngành mạnh - [View Report](REPORT.md#BID)
-- [**VGC**](#VGC) (Bất Động Sản KCN) - Test for Supply với patterns tích cực - [View Report](REPORT.md#VGC)
-- [**HDC**](#HDC) (Bất Động Sản) - Sign of Strength sau giai đoạn yếu - [View Report](REPORT.md#HDC)
+### Cơ Hội Theo Dõi Đặc Biệt
+- [**BID**](#BID) (Ngân Hàng) - Weekly SOS với recovery potential trong banking strength - [View Report](REPORT.md#BID)
+- [**BCM**](#BCM) (Bất Động Sản KCN) - Weekly + Daily SOS trong BĐS KCN theme - [View Report](REPORT.md#BCM)
+- [**ANV**](#ANV) (Thủy Sản) - Weekly + Daily SOS với sector specific strengths - [View Report](REPORT.md#ANV)
 
-### Cơ Hội Cần Xác Nhận
-- [**BCM**](#BCM) (Bất Động Sản KCN) - Dấu Hiệu Sức Mạnh trong hỗ trợ ngành - [View Report](REPORT.md#BCM)
-- [**DHG**](#DHG) (Dược Phẩm) - Sign of Strength cần xác nhận xu hướng - [View Report](REPORT.md#DHG)
-- [**SSH**](#SSH) (Bất Động Sản) - Sign of Strength patterns tích cực - [View Report](REPORT.md#SSH)
+### Cơ Hội Cần Xác Nhận  
+- [**VRE**](#VRE) (Bất Động Sản) - Daily SOS cần confirmation trong BĐS mixed - [View Report](REPORT.md#VRE)
+- [**MBS**](#MBS) (Chứng Khoán) - Weekly SOS nhưng daily weakness cần theo dõi - [View Report](REPORT.md#MBS)
+- [**VCI**](#VCI) (Chứng Khoán) - Weekly SOS trong securities sector strength - [View Report](REPORT.md#VCI)
 
-## 4. Danh Sách Hạ Ưu Tiên
+## 4. Danh Sách Hạ Ưu Tiên  
 
 ### Cần Recovery Confirmation
-- [**CTS**](#CTS) (Chứng Khoán) - Dấu Hiệu Yếu Kém cần theo dõi phục hồi
-- [**MBS**](#MBS) (Chứng Khoán) - Sign of Weakness trong sector mạnh
-- [**MSN**](#MSN) (Thực Phẩm) - Selling Climax cần thời gian hấp thụ
+- [**CTS**](#CTS) (Chứng Khoán) - Daily Sign of Weakness trong sector mạnh, chờ recovery
+- [**VCB**](#VCB) (Ngân Hàng) - Daily Sign of Weakness mặc dù banking sector positive
 
 ### Theo Dõi Để Vào Lại
-- [**TCH**](#TCH) (Bất Động Sản) - Selling Climax trong sector mixed
-- [**VCI**](#VCI) (Chứng Khoán) - Selling Climax mặc dù hỗ trợ ngành
+- [**TCH**](#TCH) (Bất Động Sản) - Weekly Others signal, cần xác nhận direction
+- [**MSN**](#MSN) (Thực Phẩm) - Weekly SOS nhưng daily Selling Climax cần thời gian
 
 ## 5. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
 
 ### **VHM (Bất Động Sản)**
 ![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 90.000 VNĐ
-* **Tín Hiệu VPA Tuần:** Duy trì xu hướng tăng với các mô hình Dấu Hiệu Sức Mạnh, ngành bất động sản dẫn dắt thị trường
-* **Tín Hiệu VPA Ngày:** Test for Demand tích cực sau Selling Climax ngày 29/07, đuôi dài từ 88.2 lên 90.0 cho thấy sự hỗ trợ mạnh
-* **Bối Cảnh Ngành:** Bất động sản dẫn dắt với 80% cổ phiếu tích cực, VHM là cổ phiếu có hiệu suất tốt nhất
-* **Phân Tích Thiết Lập:** Test for Demand với đuôi dài là tín hiệu cực tích cực cho sự tiếp tục sau giai đoạn hấp thụ
-* **Vùng Vào Tốt Nhất:** Nắm giữ cốt lõi, tích lũy mạnh mọi điểm yếu về vùng 88-90
+* **Giá Hiện Tại:** 89.900 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength mạnh mẽ xác nhận xu hướng tăng với sự hỗ trợ từ ngành bất động sản
+* **Tín Hiệu VPA Ngày:** Selling Climax cho thấy đã hoàn thành giai đoạn test và sẵn sàng cho Automatic Rally
+* **Bối Cảnh Ngành:** Bất động sản có nhiều tín hiệu tích cực với VHM là absolute leader
+* **Phân Tích Thiết Lập:** Weekly SOS + Daily Selling Climax tạo setup recovery cực kỳ mạnh
+* **Vùng Vào Tốt Nhất:** Nắm giữ cốt lõi, thêm vào mọi điểm yếu về vùng 87-89
 
-### **VND (Chứng Khoán)**
+### **VND (Chứng Khoán)**  
 ![Weekly Chart](reports_week/VND/VND_candlestick_chart.png) ![Daily Chart](reports/VND/VND_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 22.700 VNĐ
-* **Tín Hiệu VPA Tuần:** Hiệu suất đặc biệt với nhiều tín hiệu SOS, ngành chứng khoán dẫn dắt
-* **Tín Hiệu VPA Ngày:** Phục hồi sau Selling Climax, khối lượng 52.79M cho thấy sự quan tâm tổ chức
-* **Bối Cảnh Ngành:** Chứng khoán dẫn dắt thị trường với sự tham gia tổ chức cao
-* **Phân Tích Thiết Lập:** Nền tảng tuần cực mạnh hỗ trợ cho phục hồi sau đỉnh điểm bán tháo
-* **Vùng Vào Tốt Nhất:** Tích lũy mọi lần yếu về vùng 21.5-22.5, mục tiêu 25-27
-
-### **VPB (Ngân Hàng)**
-![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 25.800 VNĐ
-* **Tín Hiệu VPA Tuần:** Nhà lãnh đạo ngành ngân hàng với sự tích lũy tổ chức ổn định
-* **Tín Hiệu VPA Ngày:** Effort to Fall nhưng trong bối cảnh sức mạnh ngành, khối lượng 55.20M
-* **Bối Cảnh Ngành:** Ngân hàng 85% tích cực, VPB dẫn đầu về chất lượng
-* **Phân Tích Thiết Lập:** Ngân hàng chất lượng cao với nền tảng mạnh nhất trong ngành
-* **Vùng Vào Tốt Nhất:** Vị thế ngân hàng cốt lõi, thêm vào khi yếu về 25-26
+* **Giá Hiện Tại:** 22.200 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength với chứng khoán sector dẫn dắt thị trường
+* **Tín Hiệu VPA Ngày:** Selling Climax hoàn thành giai đoạn test, sẵn sàng cho recovery phase
+* **Bối Cảnh Ngành:** Chứng khoán sector có nhiều SOS patterns, VND là proven leader
+* **Phân Tích Thiết Lập:** Selling Climax sau weekly SOS tạo pattern recovery rất tích cực
+* **Vùng Vào Tốt Nhất:** Tích lũy mọi lần yếu về vùng 21.5-22.0, mục tiêu 25-27
 
 ### **VIX (Chứng Khoán)**
 ![Weekly Chart](reports_week/VIX/VIX_candlestick_chart.png) ![Daily Chart](reports/VIX/VIX_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 27.300 VNĐ
-* **Tín Hiệu VPA Tuần:** Mức tăng đặc biệt trong xu hướng dẫn dắt ngành
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh mạnh mẽ, khối lượng 54.20M cho thấy sự hỗ trợ của tổ chức
-* **Bối Cảnh Ngành:** Sức mạnh ngành chứng khoán hỗ trợ động lực tăng giá
-* **Phân Tích Thiết Lập:** Cổ phiếu biến động cao với các mô hình Dấu Hiệu Sức Mạnh rõ ràng
-* **Vùng Vào Tốt Nhất:** Giao dịch theo động lực, vào trên sức mạnh ngành
+* **Giá Hiện Tại:** 26.300 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength outstanding performer trong securities sector
+* **Tín Hiệu VPA Ngày:** Sign of Strength patterns mạnh mẽ với sự hỗ trợ khối lượng tổ chức
+* **Bối Cảnh Ngành:** Chứng khoán sector leader với institutional support mạnh mẽ
+* **Phân Tích Thiết Lập:** Double SOS (weekly + daily) patterns trong sector leadership
+* **Vùng Vào Tốt Nhất:** Giao dịch theo momentum, vào trên sector strength
+
+### **VPB (Ngân Hàng)**
+![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
+
+* **Giá Hiện Tại:** 25.800 VNĐ  
+* **Tín Hiệu VPA Tuần:** Sign of Strength với absolute banking sector leadership
+* **Tín Hiệu VPA Ngày:** Effort to Fall nhưng trong bối cảnh weekly SOS mạnh mẽ
+* **Bối Cảnh Ngành:** Banking sector có nhiều SOS signals, VPB highest quality name
+* **Phân Tích Thiết Lập:** Weekly SOS foundation với temporary daily weakness tạo entry opportunity
+* **Vùng Vào Tốt Nhất:** Core banking position, thêm vào khi yếu về 25-26
 
 ### **BSR (Dầu Khí)**
 ![Weekly Chart](reports_week/BSR/BSR_candlestick_chart.png) ![Daily Chart](reports/BSR/BSR_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 20.400 VNĐ
-* **Tín Hiệu VPA Tuần:** Cơ hội xoay vòng ngành với sự tích lũy
-* **Tín Hiệu VPA Ngày:** Test for Supply sau Sign of Strength mạnh, khối lượng 15.23M
-* **Bối Cảnh Ngành:** Dầu khí xuất hiện xoay vòng với sức mạnh hàng hóa
-* **Phân Tích Thiết Lập:** Cơ hội xoay vòng ngành với tín hiệu VPA vững chắc
-* **Vùng Vào Tốt Nhất:** Vào tích cực trên chủ đề xoay vòng ngành
+* **Giá Hiện Tại:** 20.700 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength trong energy sector rotation theme mạnh mẽ
+* **Tín Hiệu VPA Ngày:** Sign of Strength xác nhận weekly patterns trong commodity strength
+* **Bối Cảnh Ngành:** Dầu khí emerging sector rotation với commodity support
+* **Phân Tích Thiết Lập:** Double SOS (weekly + daily) trong energy rotation play
+* **Vùng Vào Tốt Nhất:** Vào tích cực trên energy rotation theme
 
 ### **SHB (Ngân Hàng)**
 ![Weekly Chart](reports_week/SHB/SHB_candlestick_chart.png) ![Daily Chart](reports/SHB/SHB_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 17.200 VNĐ
-* **Tín Hiệu VPA Tuần:** Ngân hàng mới nổi với quỹ đạo tăng trưởng
-* **Tín Hiệu VPA Ngày:** Sign of Strength với khối lượng đột phá 181.31M - cao nhất trong danh sách
-* **Bối Cảnh Ngành:** Câu chuyện chuyển đổi ngân hàng với ngành thuận lợi
-* **Phân Tích Thiết Lập:** Đột phá tổ chức với khối lượng bùng nổ
-* **Vùng Vào Tốt Nhất:** Vào theo động lực trên đột phá khối lượng
+* **Giá Hiện Tại:** 17.400 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength với emerging banking growth story
+* **Tín Hiệu VPA Ngày:** Sign of Strength với institutional volume breakthrough patterns
+* **Bối Cảnh Ngành:** Banking transformation story trong sector tailwinds
+* **Phân Tích Thiết Lập:** Double SOS với institutional breakthrough volume surge
+* **Vùng Vào Tốt Nhất:** Vào theo momentum trên institutional breakthrough
 
-### **SSI (Chứng Khoán)**
-![Weekly Chart](reports_week/SSI/SSI_candlestick_chart.png) ![Daily Chart](reports/SSI/SSI_candlestick_chart.png)
+### **MWG (Bán Lẻ)**
+![Weekly Chart](reports_week/MWG/MWG_candlestick_chart.png) ![Daily Chart](reports/MWG/MWG_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 34.200 VNĐ
-* **Tín Hiệu VPA Tuần:** Nhà lãnh đạo thị trường với thành tích đã được chứng minh
-* **Tín Hiệu VPA Ngày:** Effort to Fall cần theo dõi, khối lượng 49.38M vẫn cao
-* **Bối Cảnh Ngành:** Chứng khoán 100% tích cực, SSI là nhà lãnh đạo đã khẳng định
-* **Phân Tích Thiết Lập:** Điểm yếu tạm thời trong thiết lập mạnh khác
-* **Vùng Vào Tốt Nhất:** Giữ vị thế, theo dõi vùng hỗ trợ 33-34
+* **Giá Hiện Tại:** 65.200 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength trong retail sector recovery theme
+* **Tín Hiệu VPA Ngày:** Selling Climax hoàn thành test phase, sẵn sàng recovery
+* **Bối Cảnh Ngành:** Bán lẻ sector leader với recovery potential mạnh
+* **Phân Tích Thiết Lập:** Weekly SOS + Daily Selling Climax tạo recovery setup
+* **Vùng Vào Tốt Nhất:** Accumulate trên recovery theme sau climax completion
 
-### **TCB (Ngân Hàng)**
-![Weekly Chart](reports_week/TCB/TCB_candlestick_chart.png) ![Daily Chart](reports/TCB/TCB_candlestick_chart.png)
+### **REE (Năng Lượng)**  
+![Weekly Chart](reports_week/REE/REE_candlestick_chart.png) ![Daily Chart](reports/REE/REE_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 34.000 VNĐ
-* **Tín Hiệu VPA Tuần:** Nhiều mô hình SOS trong quá trình tích lũy
-* **Tín Hiệu VPA Ngày:** Effort to Fall nhưng với khối lượng 26.76M cho thấy sự quan tâm
-* **Bối Cảnh Ngành:** Ngân hàng 85% tích cực - môi trường lý tưởng
-* **Phân Tích Thiết Lập:** Cơ hội giá trị với kỹ thuật cải thiện
-* **Vùng Vào Tốt Nhất:** Tích lũy trên sức mạnh ngành
+* **Giá Hiện Tại:** 65.500 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength trong energy sector rotation
+* **Tín Hiệu VPA Ngày:** Selling Climax trong broader energy theme strength
+* **Bối Cảnh Ngành:** Năng lượng sector rotation opportunity với infrastructure theme
+* **Phân Tích Thiết Lập:** Weekly SOS foundation với daily climax completion
+* **Vùng Vào Tốt Nhất:** Energy rotation play, vào trên sector theme
 
-### **HDB (Ngân Hàng)**
-![Weekly Chart](reports_week/HDB/HDB_candlestick_chart.png) ![Daily Chart](reports/HDB/HDB_candlestick_chart.png)
+### **ACB (Ngân Hàng)**
+![Weekly Chart](reports_week/ACB/ACB_candlestick_chart.png) ![Daily Chart](reports/ACB/ACB_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 26.450 VNĐ
-* **Tín Hiệu VPA Tuần:** Ngân hàng chất lượng với sự hỗ trợ tổ chức
-* **Tín Hiệu VPA Ngày:** Selling Climax cần xác nhận phục hồi, khối lượng 32.37M
-* **Bối Cảnh Ngành:** Ngành ngân hàng 85% tích cực thuận lợi cho phục hồi
-* **Phân Tích Thiết Lập:** Nền tảng chất lượng đối mặt với áp lực tạm thời
-* **Vùng Vào Tốt Nhất:** Chờ xác nhận phục hồi trên 27
+* **Giá Hiện Tại:** 23.000 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength trong banking sector strength
+* **Tín Hiệu VPA Ngày:** Selling Climax với potential recovery trong ngành mạnh
+* **Bối Cảnh Ngành:** Banking sector multiple SOS patterns thuận lợi cho recovery
+* **Phân Tích Thiết Lập:** Weekly SOS + Daily Selling Climax recovery opportunity
+* **Vùng Vào Tốt Nhất:** Banking quality recovery play trên sector strength
 
 ### **GAS (Dầu Khí)**
 ![Weekly Chart](reports_week/GAS/GAS_candlestick_chart.png) ![Daily Chart](reports/GAS/GAS_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 67.700 VNĐ
-* **Tín Hiệu VPA Tuần:** Effort to Rise trong xu hướng xoay vòng năng lượng  
-* **Tín Hiệu VPA Ngày:** Dấu Hiệu Sức Mạnh với động lực xoay vòng ngành
-* **Bối Cảnh Ngành:** Dầu khí nổi lên với sức mạnh hàng hóa
-* **Phân Tích Thiết Lập:** Cơ hội năng lượng với hỗ trợ VPA
-* **Vùng Vào Tốt Nhất:** Vào theo xoay vòng ngành
+* **Giá Hiện Tại:** 67.600 VNĐ  
+* **Tín Hiệu VPA Tuần:** Neutral patterns trong energy sector rotation
+* **Tín Hiệu VPA Ngày:** Sign of Strength với energy rotation momentum mạnh
+* **Bối Cảnh Ngành:** Dầu khí emerging strength với commodity support
+* **Phân Tích Thiết Lập:** Daily SOS breakthrough trong energy theme
+* **Vùng Vào Tốt Nhất:** Vào theo sector rotation theme
 
 ## 6. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
 
-### Cổ Phiếu Được Duy Trì Top List (Proven Leaders):
-- **VHM**: Maintain #1. Lý do: Test for Demand mạnh sau Selling Climax, đuôi dài từ 88.2-90.0 tích cực
-- **VND**: Maintain #2. Lý do: Phục hồi sau Selling Climax với khối lượng tổ chức 52.79M
-- **VPB**: Maintain #3. Lý do: Banking sector absolute leader với nền tảng mạnh nhất
-
 ### Cổ Phiếu Được Nâng Cấp Confidence:
-- **VIX**: Từ 82% lên 88%. Lý do: Dấu Hiệu Sức Mạnh rõ ràng với khối lượng tổ chức 54.20M
-- **SHB**: Từ 70% lên 82%. Lý do: Khối lượng bùng nổ 181.31M - cao nhất trong danh sách, đột phá tổ chức
+- **VHM**: Từ 90% lên 92%. Lý do: Weekly SOS mạnh mẽ + Daily Selling Climax tạo recovery setup cực tích cực
+- **VND**: Duy trì 90%. Lý do: Weekly SOS + Daily Selling Climax pattern rất mạnh cho recovery phase
+- **VIX**: Từ 85% lên 88%. Lý do: Double SOS (weekly + daily) trong securities sector leadership
 
-### Cổ Phiếu Mới Được Thêm Vào Top List:
-- **GAS**: Từ Danh Sách Tiềm Năng lên #10. Lý do: Dấu Hiệu Sức Mạnh trong chủ đề xoay vòng ngành năng lượng
+### Cổ Phiếu Được Duy Trì Vị Trí Cao:
+- **VPB**: Duy trì 87%. Lý do: Weekly SOS mạnh mẽ, temporary daily weakness tạo entry opportunity
+- **BSR**: Duy trì 85%. Lý do: Double SOS patterns trong energy rotation theme
+- **SHB**: Duy trì 85%. Lý do: Double SOS với institutional breakthrough patterns
 
-### Cổ Phiếu Được Hạ Xuống Confidence:
-- **SSI**: Từ 85% xuống 78%. Lý do: Effort to Fall patterns cần theo dõi mặc dù sector strong
-- **HDB**: Từ 80% xuống 72%. Lý do: Selling Climax cần thời gian xác nhận phục hồi
+### Cổ Phiếu Được Nâng Lên Top List:
+- **MWG**: Từ Potential lên #7 (80%). Lý do: Weekly SOS + Daily Selling Climax recovery setup
+- **REE**: Từ Potential lên #8 (78%). Lý do: Weekly SOS trong energy rotation theme
+- **ACB**: Từ Potential lên #9 (76%). Lý do: Weekly SOS + Daily Selling Climax banking recovery
 
-### Cổ Phiếu Bị Loại Khỏi Top List:
-- **MSN**: Từ Danh Sách Hàng Đầu xuống Hạ Cấp. Lý do: Selling Climax trong ngành phòng thủ, cần thời gian phục hồi
-- **C4G**: Giảm confidence xuống 62%. Lý do: Sign of Strength cần more confirmation
+### Cổ Phiếu Bị Hạ Confidence:
+- **SSI**: Từ 80% xuống 62%. Lý do: Weekly Buying Climax cảnh báo, cần theo dõi recovery
+- **HDB**: Từ 65% duy trì 65%. Lý do: Weekly Buying Climax + Daily Selling Climax cần confirmation
+- **TCB**: Từ 70% xuống 60%. Lý do: Weekly Sign of Weakness cần theo dõi improvement
 
 ### Cổ Phiếu Được Thêm Vào Potential List:
-- **HDC**: Từ Hạ Cấp lên Tiềm Năng. Lý do: Dấu Hiệu Sức Mạnh sau giai đoạn yếu trong hỗ trợ ngành
-- **BCM**: Từ Unlisted. Lý do: Sign of Strength trong BĐS KCN với sector tailwinds
+- **HDC**: Từ Downgraded lên Potential. Lý do: Daily SOS sau weakness period
+- **PLX**: Từ Unlisted. Lý do: Daily SOS trong energy rotation theme  
+- **SSH**: Từ Unlisted. Lý do: Daily SOS patterns trong BĐS sector support
 
 ## 7. Chiến Lược Giao Dịch Tuần Tới
 
-**Phân Bổ Danh Mục Đề Xuất (Chiến Lược Phục Hồi Sau Đỉnh Điểm):**
-- **35%** Nắm giữ cốt lõi (VHM, VND, VPB) - Proven leaders với Test for Demand patterns
-- **25%** Nhà Vô Địch Theo Động Lực (VIX, SHB) - Đột phá khối lượng và dẫn dắt ngành
-- **20%** Xoay Vòng Ngành (BSR, GAS) - Động lực năng lượng với sức mạnh hàng hóa
-- **10%** Chất Lượng Ngân Hàng (TCB, HDB) - Giá trị trong sức mạnh ngành
-- **10%** Tiền mặt - Linh hoạt cho môi trường sau đỉnh điểm
+**Phân Bổ Danh Mục Đề Xuất (Post-Climax Recovery Strategy):**
+- **45%** Core Holdings (VHM, VND, VIX) - Proven leaders với double SOS patterns
+- **25%** Banking Quality (VPB, SHB, ACB) - Sector strength với SOS support
+- **15%** Energy Rotation (BSR, GAS, REE) - Sector rotation opportunity mạnh
+- **10%** Selective Recovery (MWG, DHG) - Weekly SOS + daily recovery patterns  
+- **5%** Cash - Flexibility cho post-climax environment
 
 **Chiến Lược Phân Bổ Theo Ngành:**
-- **40%** Chứng Khoán (VND, VIX, SSI) - Dẫn dắt ngành với dòng tiền tổ chức
-- **30%** Ngân Hàng (VPB, SHB, TCB, HDB) - Các tên tuổi chất lượng trong sức mạnh ngành
-- **15%** Bất Động Sản (VHM) - Nhà lãnh đạo phòng thủ với các mô hình đã chứng minh
-- **10%** Dầu Khí (BSR, GAS) - Cơ hội xoay vòng ngành
-- **5%** Tiền Mặt - Thận trọng sau đỉnh điểm
+- **50%** Chứng Khoán (VND, VIX) - Double SOS leadership với institutional flows
+- **25%** Ngân Hàng (VPB, SHB, ACB) - Multiple SOS patterns trong sector strength
+- **15%** Năng Lượng (BSR, GAS, REE) - Energy rotation với commodity support
+- **10%** Đa Dạng (VHM, MWG, DHG) - Quality leaders với recovery patterns
 
 **Ưu Tiên Giao Dịch:**
-1. **Accumulate Core**: VHM trên Test for Demand strength
-2. **Vào Theo Động Lực**: VIX, SHB trên các đột phá khối lượng  
-3. **Xoay Vòng Ngành**: BSR, GAS trên chủ đề năng lượng
-4. **Ngân Hàng Chất Lượng**: VPB duy trì, TCB thêm lựa chọn
-5. **Tránh**: Các cổ phiếu vừa bị hạ cấp cho đến khi phục hồi được xác nhận
+1. **Accumulate Leaders**: VHM, VND, VIX trên double SOS patterns
+2. **Banking Quality**: VPB, SHB trên weekly SOS foundation
+3. **Energy Rotation**: BSR, REE trên sector rotation theme
+4. **Recovery Plays**: MWG, ACB trên selling climax completion
+5. **Selective Add**: DHG, C4G trên emerging strength
 
-**Quản Lý Rủi Ro Sau Đỉnh Điểm:**
-- Giảm quy mô vị thế 15% do biến động tăng sau đỉnh điểm
-- Cắt lỗ chặt hơn 2-3% so với bình thường 3-5%
-- Phân bổ tiền mặt cao hơn để nắm bắt cơ hội sau khi ổn định
-- Theo dõi các mức hỗ trợ VNINDEX 1480-1520 cho sức khỏe thị trường
-- Sẵn sàng tăng vị thế nếu xuất hiện các mô hình Test for Demand
+**Quản Lý Rủi Ro Post-Climax:**
+- Duy trì position size bình thường với SOS confirmation
+- Stop loss standard 3-5% với SOS support levels
+- Cash allocation 5% cho flexibility  
+- Monitor VNINDEX 1480-1520 support levels với SOS patterns
+- Ready to increase exposure trên continued SOS patterns
 
 **Các Mức Quan Trọng Cần Theo Dõi:**
-- **VNINDEX**: Hỗ trợ 1480-1500, mục tiêu phục hồi 1520-1540
-- **VHM**: Hỗ trợ 88.0, mục tiêu phục hồi 95-98 trên Test for Demand
-- **VND**: Hỗ trợ 21.5, mục tiêu tiếp tục 25-27
-- **VIX**: Hỗ trợ động lực 26.0, mục tiêu dẫn dắt 30+
-- **Xoay Vòng Năng Lượng**: Theo dõi BSR/GAS cho sự tiếp tục ngành
+- **VNINDEX**: Support 1480-1500 với SOS, resistance 1520-1540  
+- **VHM**: Support 87-89 trên recovery setup, target 95-98
+- **VND**: Support 21.5-22.0 post-climax, target 25-27  
+- **VIX**: Momentum support 26.0, leadership target 30+
+- **Energy Rotation**: Monitor BSR/GAS/REE cho sector continuation

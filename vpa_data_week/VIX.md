@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** siêu mạnh. Việc giá tăng vọt (+27.6%) và liên tục đạt đỉnh mới trên nền khối lượng vẫn rất cao cho thấy lực cầu đang trong trạng thái bùng nổ hoàn toàn. Xu hướng tăng của VIX đang ở đỉnh cao với sự tham gia mạnh mẽ của dòng tiền lớn.
 
 
+**Ngày 2025-07-27:** VIX kết thúc một tuần bùng nổ khác với nến tăng thân dài từ 19.45 lên 24.05 (+27.6%), đóng cửa đúng ở mức cao nhất tuần và tiếp tục thiết lập đỉnh mới. Biên động dao động rộng từ 18.6 đến 24.05 cho thấy biến động mạnh. Khối lượng giao dịch 277.478.600 cổ phiếu vẫn duy trì ở mức rất cao mặc dù giảm nhẹ (-11.9%) so với tuần trước. Đây là tuần thứ 4 liên tiếp VIX bùng nổ tăng giá, từ mức 12.7 hồi cuối tháng 6 lên 24.05 hiện tại (+89.4% trong 4 tuần).
+
+**Phân tích VPA/Wyckoff:** Tiếp tục là một **Sign of Strength** cực kỳ mạnh mẽ. Chuỗi 4 tuần bùng nổ liên tiếp với mỗi tuần đều thiết lập đỉnh mới trên nền khối lượng duy trì ở mức rất cao cho thấy xu hướng tăng đang trong giai đoạn climax. Việc giá liên tục gap up và đóng cửa ở đỉnh tuần thể hiện lực cầu áp đảo hoàn toàn. Tuy nhiên, cần theo dõi sát sao vì cường độ tăng quá mạnh có thể dẫn đến exhaustion trong thời gian tới.

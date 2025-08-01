@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**, thể hiện áp lực chốt lời sau giai đoạn tăng mạnh. Việc khối lượng giảm trong bối cảnh giá giảm cho thấy lực bán chưa thực sự quyết liệt, có thể là điều chỉnh kỹ thuật tạm thời sau đợt tăng trước đó.
 
 
+**Ngày 2025-07-27:** Sau tuần Effort to Fall trước đó, CSC tiếp tục xu hướng điều chỉnh với một nến giảm có thân trung bình. Mở cửa tại mức cao (23.0), cổ phiếu chịu áp lực bán xuống mức thấp 21.5 trước khi phục hồi nhẹ đóng cửa tại 21.8. Bóng dưới ngắn cho thấy lực cầu hỗ trợ ở vùng 21.5. Khối lượng giao dịch giảm nhẹ xuống 317.900 cổ phiếu so với tuần trước (369.300), nhưng vẫn duy trì ở mức tương đối cao so với giai đoạn trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** sau giai đoạn điều chỉnh. Việc giá giảm nhẹ trên nền khối lượng giảm cho thấy áp lực bán đang giảm dần. Vùng hỗ trợ 21.5 đã xuất hiện với lực cầu ở mức thấp tuần, tạo thành Test for Supply tích cực. Nếu CSC có thể duy trì trên vùng 21.5-21.8 với khối lượng thấp, đây có thể là dấu hiệu kết thúc điều chỉnh và chuẩn bị cho đợt tăng tiếp theo.

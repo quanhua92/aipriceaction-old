@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực kỳ mạnh mẽ, xác nhận xu hướng tăng được tăng tốc. Việc tăng giá mạnh với khối lượng tăng vọt cho thấy dòng tiền lớn đang tham gia tích cực, củng cố momentum tăng mạnh mẽ cho các tuần tiếp theo.
 
 
+**Ngày 2025-07-27:** NKG tiếp tục xu hướng tăng mạnh mẽ với nến tăng có thân dài, tăng từ 14.35 lên 15.05 và tạo đỉnh tuần mới tại 15.2. Giá đóng cửa gần mức cao nhất tuần, cho thấy lực cầu áp đảo. Khối lượng giao dịch tăng thêm lên 84.7 triệu, cao hơn tuần trước (70.9 triệu), xác nhận sự tham gia tích cực của dòng tiền lớn. Đây là tuần thứ 4 liên tiếp tăng giá kể từ khi phá vỡ vùng tích lũy 12.5-13.5, cho thấy xu hướng tăng đã được thiết lập vững chắc.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực kỳ mạnh mẽ tiếp tục, với việc giá tăng mạnh trên nền khối lượng cao cho thấy institutional money đang tích cực mua vào. Momentum tăng đang được tăng tốc và có khả năng tiếp tục trong ngắn hạn, với mục tiêu kỹ thuật tiếp theo có thể là vùng 16.0-16.5.

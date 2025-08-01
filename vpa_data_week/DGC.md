@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau phiên kiểm tra thành công. Việc giá vượt qua mức đỉnh cũ trên nền khối lượng tăng cho thấy lực cầu đã khẳng định sức mạnh và xu hướng tăng được tái lập.
 
 
+**Ngày 2025-07-27:** Sau phiên Sign of Strength tuần trước, DGC tiếp tục xu hướng tăng với nến tăng thân dài, đóng cửa (105.2) tạo mức cao mới và cao hơn tuần trước. Biên độ giao dịch từ 101.7 đến 106.5 cho thấy sự vượt lên mạnh mẽ. Khối lượng giao dịch tăng lên 12.942.200 cổ phiếu, cao hơn tuần trước và xác nhận cho đà tăng.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo, xác nhận xu hướng tăng đang được duy trì một cách bền vững. Việc giá phá vỡ mức đỉnh cũ và tạo mức cao mới trên nền khối lượng tăng cho thấy lực cầu vẫn đang chiếm ưu thế tuyệt đối. Cổ phiếu đang trong giai đoạn Mark Up mạnh mẽ của chu kỳ Wyckoff.

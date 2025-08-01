@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xác nhận rằng việc tích lũy của tuần trước đã thành công. Khối lượng gia tăng kết hợp với giá tăng cho thấy lực cầu vẫn đang duy trì và xu hướng tăng được củng cố.
 
 
+**Ngày 2025-07-27:** BID tiếp tục xu hướng tăng giá với nến tăng có thân dài, mở cửa tại 38.45 và đóng cửa tại 38.85, tăng 1.3% so với tuần trước. Giá dao động trong biên độ rộng từ 38.0 đến 39.65, cho thấy sự tích cực của phe mua khi có thể đẩy giá lên mức cao mới trong tuần. Khối lượng giao dịch tăng mạnh lên 41.3 triệu cổ phiếu, cao hơn 14.8% so với tuần trước, xác nhận cho sức mạnh của đà tăng. Việc giá đóng cửa gần mức trung bình tuần cho thấy có sự cân bằng giữa lực mua và lực bán, nhưng xu hướng chung vẫn tích cực.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xác nhận rằng xu hướng tăng của BID vẫn được duy trì mạnh mẽ. Việc giá tạo đỉnh mới tại 39.65 kết hợp với khối lượng gia tăng cho thấy lực cầu vẫn đang kiểm soát thị trường. Mặc dù giá đóng cửa không ở mức cao nhất tuần, nhưng việc duy trì được mức giá cao trên nền khối lượng mạnh là dấu hiệu tích cực cho xu hướng tăng trong các tuần tới.

@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau test thành công của tuần trước. Việc giá tiếp tục tăng với khối lượng ổn định cho thấy lực cầu vẫn đang kiểm soát, tuy nhiên biên độ tăng không lớn cho thấy xu hướng đang trong giai đoạn tích lũy hoặc chuẩn bị cho đợt tăng mạnh tiếp theo.
 
 
+**Ngày 2025-07-27:** FPT có một tuần giao dịch tích cực với nến tăng từ 109.57 lên 110.7 (+1.0%). Mở cửa tại 112.4 cao hơn đóng cửa tuần trước, tuy nhiên sau đó điều chỉnh và đóng cửa tại 110.7. Biên độ giao dịch từ 108.7 đến 112.8 cho thấy sự dao động vừa phải. Khối lượng giao dịch giảm nhẹ xuống 30.969.916 cp so với 31.566.353 cp của tuần trước. Điều đáng chú ý là giá vẫn duy trì được xu hướng tăng sau các test thành công trong những tuần gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau Effort to Rise của tuần trước. Việc giá tiếp tục tăng nhẹ với khối lượng giảm cho thấy áp lực bán đã giảm đáng kể và phe mua vẫn đang kiểm soát. Mặc dù biên độ tăng không lớn, tín hiệu này rất tích cực vì cho thấy cổ phiếu đang trong giai đoạn tích lũy mạnh và chuẩn bị cho đợt tăng giá tiếp theo.

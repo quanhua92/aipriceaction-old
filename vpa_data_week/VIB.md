@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rất mạnh mẽ. Việc giá tăng mạnh (+7.6%) trên nền khối lượng tăng vọt (+59.2%) sau tín hiệu Effort to Rise tuần trước xác nhận rằng lực cầu đã bùng nổ và xu hướng tăng được củng cố mạnh mẽ. Đây là tín hiệu cho thấy VIB đang bước vào giai đoạn tăng trưởng mạnh.
 
 
+**Ngày 2025-07-27:** Sau tuần bùng nổ mạnh mẽ trước đó, VIB tiếp tục duy trì đà tăng với nến tăng thân dài từ 17.2 lên 18.4 (+7.6%). Biên độ giao dịch rộng từ 17.05 đến 18.55, đóng cửa gần mức cao nhất tuần (18.4). Khối lượng giao dịch tiếp tục tăng vọt lên 97.958.821 cổ phiếu, tăng 59.2% so với tuần trước và đạt mức cao nhất trong 30 tuần qua. Điều đáng chú ý là VIB đã vượt qua vùng kháng cự 17.5-18.0 một cách thuyết phục và thiết lập vùng giá mới.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực kỳ mạnh mẽ tiếp nối từ tuần trước. Việc giá tiếp tục tăng mạnh (+7.6%) trên nền khối lượng kỷ lục cho thấy lực cầu đang trong giai đoạn bùng nổ. Sự kết hợp giữa giá tăng mạnh, khối lượng đỉnh cao và việc vượt qua kháng cự quan trọng xác nhận VIB đang trong xu hướng tăng rất mạnh. Đây là tín hiệu cho thấy cổ phiếu đã bước vào giai đoạn markup mạnh mẽ của chu kỳ Wyckoff.

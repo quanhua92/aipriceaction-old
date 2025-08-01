@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Sau hai tuần Test for Supply và No Supply thành công, lực mua đã quay trở lại mạnh mẽ, phá vỡ vùng kháng cự và báo hiệu xu hướng tăng có thể tiếp tục.
 
 
+**Ngày 2025-07-27:** MPC tiếp tục xu hướng tăng mạnh mẽ với nến tăng thân dài, đóng cửa tại 15.0 (+7.9% so với tuần trước) và gần mức cao nhất tuần (15.2). Giá mở cửa tại 14.0 và dao động trong biên độ rộng từ 13.7 đến 15.2. Khối lượng giao dịch tăng vọt lên 1.92 triệu cổ phiếu, gấp đôi so với tuần trước (969.3 nghìn), cho thấy sự quan tâm mạnh mẽ từ thị trường. Đây là tuần thứ hai liên tiếp có khối lượng cao và giá tăng mạnh sau giai đoạn Test for Supply thành công.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Sự kết hợp giữa giá tăng mạnh (+7.9%) với khối lượng cao gấp đôi tuần trước xác nhận lực mua đang áp đảo. Việc đóng cửa gần mức cao nhất tuần cho thấy không có áp lực bán đáng kể ở vùng giá này. Xu hướng tăng từ vùng 10.2-10.6 vào đầu tháng 6 đã được xác nhận mạnh mẽ với hai tuần tăng giá liên tiếp trên khối lượng cao, báo hiệu tiềm năng tiếp tục tăng trong các tuần tới.

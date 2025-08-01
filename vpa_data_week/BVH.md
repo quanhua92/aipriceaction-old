@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** tiếp tục hoặc **Sign of Weakness** nhẹ. Việc giá tiếp tục giảm trên nền khối lượng tăng cho thấy áp lực bán vẫn còn hiện hữu và cần thời gian để tìm lại sự cân bằng.
 - **Ngày 2025-07-21:** BVH tiếp tục điều chỉnh với nến giảm biên độ hẹp, đóng cửa (52.0) thấp hơn tuần trước. Khối lượng giao dịch giảm xuống mức thấp nhất trong gần 2 tháng.
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Sau 2 tuần điều chỉnh, việc giá giảm nhẹ trên nền khối lượng cạn kiệt cho thấy áp lực bán đã yếu đi đáng kể. Đây là tín hiệu tích cực cho thấy thị trường có thể sẵn sàng cho một đợt phục hồi.
+**Ngày 2025-07-27:** BVH tiếp tục tuần điều chỉnh thứ ba với nến giảm biên độ hẹp, đóng cửa (52.0) không thay đổi so với tuần trước. Khối lượng giao dịch giảm nhẹ xuống 2.134.600, tiếp tục duy trì ở mức thấp. Sau ba tuần điều chỉnh liên tiếp từ đỉnh 54.9, BVH đã tìm thấy vùng hỗ trợ quanh mức 52.0.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công và có dấu hiệu **No Supply**. Việc giá đi ngang trên nền khối lượng thấp sau ba tuần điều chỉnh cho thấy áp lực bán đã cạn kiệt. Sự ổn định giá quanh mức 52.0 với khối lượng giảm dần là tín hiệu tích cực, cho thấy thị trường đã hoàn tất quá trình hấp thụ lực bán và sẵn sàng cho đợt tăng giá tiếp theo.

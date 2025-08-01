@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là **Test for Supply** sau buying climax tuần trước. Mặc dù giá tiếp tục tăng và tạo đỉnh mới nhưng khối lượng giao dịch giảm đáng kể cho thấy động lực mua đang suy yếu. Đây có thể là dấu hiệu cần quan sát thêm để xác định xem liệu HHV có thể tiếp tục xu hướng tăng hay sẽ chuyển sang giai đoạn phân phối.
 
 
+**Ngày 2025-07-27:** HHV tiếp tục duy trì xu hướng tăng giá nhưng với động thái điều chỉnh nhẹ. Mở cửa 13.05, đạt đỉnh mới 13.6 rồi về đóng cửa 13.15 (+1.9%). Mặc dù tạo đỉnh mới nhưng khối lượng giao dịch tiếp tục giảm xuống 72.2 triệu so với 99.9 triệu của tuần trước (-27.7%). Nến có thân dương ngắn với bóng trên dài, cho thấy áp lực bán xuất hiện ở vùng đỉnh.
+
+**Phân tích VPA/Wyckoff:** Đây là **Weakness on a Test** - tín hiệu yếu kém trong giai đoạn test. Sau buying climax tuần 2025-07-20 và test for supply tuần trước, HHV tiếp tục tạo đỉnh mới nhưng trên khối lượng giảm mạnh và có dấu hiệu rejection ở vùng cao. Việc khối lượng giảm liên tục trong 2 tuần qua khi giá vẫn tăng cho thấy lực cầu đang suy yếu đáng kể. Cần quan sát phản ứng của giá trong những tuần tới để xác định liệu đây có phải là đỉnh ngắn hạn hay chỉ là điều chỉnh kỹ thuật.

@@ -16,3 +16,5 @@
 
 - **Ngày 2025-07-21:** REE tiếp tục xu hướng tăng với nến tăng có biên độ rộng, đóng cửa (69.7) cao hơn 1.75% so với tuần trước. Cây nến tạo đỉnh mới tại 71.2 và có bóng dưới nhỏ. Khối lượng giao dịch duy trì ổn định với 5.95 triệu cổ phiếu (+1.13%).
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng trên nền khối lượng ổn định cho thấy đà tăng vẫn được duy trì, xác nhận sức mạnh của xu hướng tăng từ tuần trước.
+**Ngày 2025-07-27:** REE tiếp tục duy trì xu hướng tăng với nến tăng có biên độ vừa phải, đóng cửa (69.7) tăng 1.75% so với tuần trước. Giá mở cửa gần mức đóng cửa tuần trước (68.7) và tạo đỉnh mới tại 71.2, cho thấy sức mạnh tiếp tục. Bóng dưới ngắn tại 68.1 thể hiện sự hỗ trợ tốt. Khối lượng giao dịch duy trì ổn định với 5.94 triệu cổ phiếu, tăng nhẹ 1.31% so với tuần trước.
+- **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Việc giá tăng đều đặn trên nền khối lượng ổn định cho thấy đà tăng được duy trì một cách bền vững. Sự tạo đỉnh mới kết hợp với khối lượng không tăng đột biến cho thấy không có dấu hiệu climax, xu hướng tăng vẫn có thể tiếp tục.

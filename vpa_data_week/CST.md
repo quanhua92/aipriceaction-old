@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply**. Việc giá giảm rất nhẹ trên nền khối lượng tăng cao cho thấy lực bán đã được hấp thụ tốt và thị trường đang tích cực kiểm tra khả năng cung ứng. Tín hiệu tích cực sau giai đoạn test, cho thấy nền tảng vững chắc cho xu hướng tăng tiếp theo.
 
 
+**Ngày 2025-07-27:** Sau tuần test for supply trước đó, CST tiếp tục điều chỉnh nhẹ với nến giảm biên độ hẹp từ 15.9 xuống 15.7. Khối lượng giao dịch tăng mạnh lên 474.300 cổ phiếu, cao nhất trong giai đoạn gần đây và tương đương với tuần bùng nổ trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** rất tích cực. Việc giá chỉ giảm nhẹ 0.2 điểm trên nền khối lượng tăng vọt cho thấy lực bán đã được hấp thụ hoàn toàn bởi lực cầu mạnh. Đây là bằng chứng rõ ràng về sự thiếu nguồn cung và khả năng cao sẽ có đợt tăng giá tiếp theo sau giai đoạn test thành công này.

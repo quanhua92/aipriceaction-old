@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau giai đoạn kiểm tra cung thành công. Việc bứt phá khỏi vùng tích lũy kết hợp với khối lượng gia tăng cho thấy lực cầu đã quay trở lại và xu hướng tăng được tái khẳng định.
 
 
+**Ngày 2025-07-27:** BCM tiếp tục xu hướng tăng với nến tăng có biên độ rộng từ 66.2 đến 70.9, đóng cửa (69.8) gần mức cao nhất tuần và tạo đỉnh mới. Khối lượng giao dịch tăng mạnh lên 3.08 triệu cp so với tuần trước (2.34 triệu cp), xác nhận sự quan tâm gia tăng từ nhà đầu tư khi giá bứt phá.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, với giá tạo đỉnh mới kết hợp khối lượng gia tăng đáng kể. Việc đóng cửa gần mức cao nhất tuần cho thấy lực cầu vẫn chiếm ưu thế và không có áp lực bán đáng kể ở vùng giá cao. Xu hướng tăng được củng cố mạnh mẽ.

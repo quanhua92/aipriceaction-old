@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, xác nhận rằng quá trình hồi phục của tuần trước chỉ là một sự tích lũy tạm thời. Việc bứt phá mức cao mới kết hợp với khối lượng gia tăng cho thấy xu hướng tăng đang được tái khẳng định một cách mạnh mẽ.
 
 
+**Ngày 2025-07-27:** ACB tiếp tục xu hướng tăng mạnh với một tuần giao dịch ấn tượng. Giá mở cửa 22.7 và bứt phá lên mức cao 23.7, tạo ra biên độ dao động rộng 1.1 điểm trước khi đóng cửa ở 23.6 - gần mức cao nhất tuần. Đây là tuần thứ hai liên tiếp thiết lập đỉnh mới, với mức tăng 4.2% so với tuần trước. Khối lượng giao dịch duy trì ở mức cao 77.1 triệu cổ phiếu, tương đương với tuần trước, cho thấy sự quan tâm đầu tư vẫn rất mạnh mẽ.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp diễn, xác nhận rằng xu hướng tăng của ACB đang trong giai đoạn mạnh mẽ. Việc giá liên tục thiết lập đỉnh mới kết hợp với khối lượng duy trì ở mức cao cho thấy lực cầu vẫn đang áp đảo. Tuy nhiên, cần lưu ý rằng sau hai tuần tăng liên tiếp trên nền khối lượng lớn, rủi ro điều chỉnh kỹ thuật có thể gia tăng trong các tuần tới.

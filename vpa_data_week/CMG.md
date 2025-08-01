@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau phiên Test for Supply thành công. Việc giá vượt lại được mức đỉnh cũ trên nền khối lượng tăng cho thấy lực cầu đã vượt qua được áp lực bán và xu hướng tăng được khôi phục.
 
 
+**Ngày 2025-07-27:** CMG tiếp tục xu hướng tăng mạnh mẽ với nến tăng biên độ rộng, đóng cửa ở mức 42.75 - cao hơn đáng kể so với tuần trước (41.8) và xác nhận việc vượt qua vùng kháng cự quan trọng quanh mức 42.3. Khối lượng giao dịch tăng lên 10.3 triệu cổ phiếu, cao hơn tuần trước nhưng vẫn thấp hơn so với đợt bùng nổ đầu tháng 7. Biên độ dao động từ 41.0 đến 43.7 cho thấy sự tranh chấp quyết liệt giữa phe mua và phe bán, nhưng cuối cùng phe mua đã chiếm ưu thế.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, xác nhận việc Test for Supply của tuần trước đã thành công. Việc giá vượt qua được vùng kháng cự 42.3 (mức đỉnh cũ) trên nền khối lượng tăng cho thấy lực cầu đã vượt qua áp lực bán và xu hướng tăng được tái khẳng định. Tuy nhiên, cần theo dõi khối lượng trong những tuần tới để xác nhận sự bền vững của đợt bứt phá này.

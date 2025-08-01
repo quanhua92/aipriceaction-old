@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Một **Sign of Strength** cực kỳ mạnh mẽ, tiếp nối chuỗi 3 tuần tăng giá liên tiếp. Việc giá tăng hơn 11% kết hợp với khối lượng tăng vọt cho thấy lực cầu đang ở đỉnh cao và xu hướng tăng có động lực rất mạnh để tiếp tục vươn lên những mức giá cao hơn.
 
 
+**Ngày 2025-07-27:** VPB tiếp tục đà tăng mạnh mẽ trong tuần thứ 4 liên tiếp, tạo nến tăng thân dài từ 21.6 lên 24.05 (+11.3%). Giá tạo đỉnh tuần tại 24.15 và đóng cửa gần mức cao nhất, cho thấy áp lực mua rất mạnh. Khối lượng giao dịch tăng vọt lên 289.9 triệu cổ phiếu, tăng 20.3% so với tuần trước, xác nhận sự quan tâm lớn từ thị trường. VPB đã tăng hơn 35% trong 4 tuần qua từ mức 17.8, phá vỡ mạnh mẽ vùng kháng cự 20-21 và tiến vào vùng giá mới.
+
+**Phân tích VPA/Wyckoff:** Một **Sign of Strength** cực kỳ mạnh mẽ, tiếp nối chuỗi 4 tuần tăng giá liên tiếp. Việc giá tăng hơn 11% kết hợp với khối lượng tăng vọt cho thấy lực cầu đang ở đỉnh cao và xu hướng tăng có động lực rất mạnh để tiếp tục vươn lên những mức giá cao hơn.

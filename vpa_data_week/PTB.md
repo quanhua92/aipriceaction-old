@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply**. Việc giá duy trì ổn định trên nền khối lượng thấp cho thấy thị trường đang kiểm tra cung cấp, và kết quả cho thấy áp lực bán rất yếu, tạo nền tảng tốt cho đợt tăng tiếp theo.
 
 
+**Ngày 2025-07-27:** PTB có tuần giao dịch tích cực với nến tăng có thân nhỏ, mở cửa tại đỉnh tuần (56.5) và đóng cửa ở 55.4, tăng 0.36% so với tuần trước. Biên động dao động hẹp từ 54.6 đến 56.5, cho thấy sự ổn định trong xu hướng tăng. Khối lượng giao dịch giảm nhẹ 12.78% xuống 403.2 ngàn cổ phiếu, thấp hơn so với tuần trước nhưng vẫn duy trì ở mức hợp lý. Giá đang duy trì vững chắc trên vùng kháng cự cũ 55.0 và hướng tới thử thách vùng 56.5-57.0.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp tục. Việc giá tăng nhẹ với khối lượng giảm sau giai đoạn Test for Supply của tuần trước xác nhận áp lực bán rất yếu. Mặc dù khối lượng không cao nhưng hành động giá tích cực cho thấy thị trường đang hấp thụ tốt và chuẩn bị cho đợt bứt phá tiếp theo lên vùng 57-58.

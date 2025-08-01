@@ -14,3 +14,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, cho thấy lực cầu đã tăng tốc và đang kiểm soát hoàn toàn thị trường. Việc giá và khối lượng cùng tăng mạnh xác nhận xu hướng tăng đang được củng cố vững chắc.
 
 
+**Ngày 2025-07-27:** Tiếp nối Sign of Strength của tuần trước, DRC duy trì đà tăng với nến tăng có thân vừa phải, đóng cửa (17.75) cao hơn tuần trước và gần mức cao nhất tuần (18.0). Giá mở cửa tại 17.46, cao hơn đáng kể so với mức đóng cửa tuần trước (17.42), cho thấy lực cầu mạnh ngay từ đầu phiên. Khối lượng giao dịch tiếp tục tăng lên 6.045.488 cp, cao hơn tuần trước và duy trì ở mức cao trong 3 tuần liên tiếp.
+
+- **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** được củng cố, cho thấy lực cầu vẫn đang kiểm soát và xu hướng tăng đang được duy trì vững chắc. Việc giá liên tục tạo đỉnh mới cùng với khối lượng duy trì ở mức cao xác nhận sự có mặt của tiền thông minh. Cổ phiếu đang trong giai đoạn Mark Up rõ ràng sau quá trình tích lũy thành công.

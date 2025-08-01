@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Việc giá tăng trở lại (+3.3%) trên nền khối lượng tăng đáng kể (+25.8%) sau giai đoạn No Supply tuần trước xác nhận rằng lực cầu đã trở lại kiểm soát. Tín hiệu này củng cố xu hướng tăng và cho thấy VGI đang trong giai đoạn tích lũy tích cực.
 
 
+**Ngày 2025-07-27:** VGI tiếp tục xu hướng tăng mạnh mẽ với tuần thứ hai liên tiếp tăng giá. Từ mức 74.7, cổ phiếu tăng lên 77.2 (+3.3%) và đóng cửa gần mức cao nhất tuần (77.5). Biên độ dao động từ 72.7 đến 77.5 cho thấy sự biến động tích cực. Khối lượng giao dịch duy trì ở mức cao 4.432.500, chỉ giảm nhẹ -0.1% so với tuần trước, thể hiện sự quan tâm liên tục của nhà đầu tư. Điều đáng chú ý là VGI đã vượt qua vùng kháng cự 76.9 của tuần trước và thiết lập đỉnh mới tại 77.5.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp nối. Việc giá tiếp tục tăng (+3.3%) trên nền khối lượng cao và ổn định sau tín hiệu Sign of Strength tuần trước cho thấy momentum tăng đang được duy trì. Sự vượt qua mức kháng cự 76.9 với khối lượng mạnh xác nhận lực cầu vẫn đang kiểm soát thị trường. Xu hướng tăng được củng cố và VGI đang thể hiện sức mạnh liên tục trong giai đoạn mark-up.

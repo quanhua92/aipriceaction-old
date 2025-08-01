@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục, xác nhận sự thành công của đợt phá vỡ tuần trước. Việc giá tiếp tục tăng với khối lượng cao cho thấy xu hướng tăng đang được củng cố mạnh mẽ và có thể tiếp tục trong các tuần tới.
 
 
+**Ngày 2025-07-27:** MSR tiếp tục đà tăng mạnh mẽ trong tuần thứ hai liên tiếp, nến tăng từ 21.1 lên 22.2 với đỉnh tuần đạt 22.8 - mức cao nhất trong 30 tuần dữ liệu. Khối lượng giao dịch tiếp tục tăng lên 16.1 triệu cổ phiếu, cao hơn 11.6% so với tuần trước (14.5 triệu). Giá đóng cửa gần mức cao nhất tuần (22.2 vs 22.8), cho thấy lực cầu vẫn rất mạnh. Từ mức đáy 18.4 của tuần trước, MSR đã tăng 20.7% trong chỉ 2 tuần với khối lượng liên tục gia tăng.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rất mạnh mẽ, xác nhận xu hướng tăng đang trong giai đoạn markup sau khi phá vỡ thành công ra khỏi vùng tích lũy. Việc giá liên tục tạo đỉnh mới với khối lượng tăng dần cho thấy lực cầu institutional đang tham gia tích cực và xu hướng tăng có thể tiếp tục mở rộng trong các tuần tới.

@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Demand**. Việc giá không thể duy trì mức cao sau Test for Supply tuần trước cho thấy lực cầu còn yếu. Khối lượng ổn định kèm theo giá giảm là tín hiệu thiếu sự quan tâm từ nhà đầu tư, cho thấy xu hướng đi ngang có thể kéo dài.
 
 
+**Ngày 2025-07-27:** KDC tiếp tục xu hướng giảm với một tuần giảm giá từ 56.0 xuống 55.2, tạo nến giảm thân dài. Giá mở cửa thấp hơn tuần trước (55.6 vs 56.9) và đóng cửa gần mức thấp nhất tuần (54.1). Khối lượng giao dịch tăng nhẹ lên 2.673 triệu, cao hơn so với 2.637 triệu tuần trước. Việc giá liên tục không thể duy trì được các mức cao trong 3 tuần gần đây (từ 56.5 xuống 56.0 rồi 55.2) cho thấy áp lực bán đang gia tăng dần.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness** được xác nhận. Sau hai tuần **No Demand** và **Test for Supply**, việc giá tiếp tục giảm trên khối lượng tăng cho thấy nguồn cung đang áp đảo. Mô hình giảm dần trong 3 tuần liên tiếp từ vùng 56-57 xuống 55.2 với khối lượng duy trì ở mức cao là dấu hiệu của sự phân phối, cho thấy xu hướng yếu có thể kéo dài.

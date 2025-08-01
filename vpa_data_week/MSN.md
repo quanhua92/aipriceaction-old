@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness**. Việc giá giảm mạnh trên khối lượng tăng sau chuỗi Sign of Strength cho thấy áp lực bán đã xuất hiện mạnh mẽ, có thể báo hiệu sự kết thúc của đợt tăng giá hoặc ít nhất là một đợt điều chỉnh đáng kể.
 
 
+**Ngày 2025-07-27:** MSN tiếp tục xu hướng giảm giá từ tuần trước, mở cửa tại 79.6 nhưng chỉ tăng nhẹ lên đỉnh 79.8 trước khi giảm mạnh xuống thấp nhất 75.4 và đóng cửa tại 75.8. Đây là tuần giảm thứ hai liên tiếp với biên độ giảm 4.2%. Khối lượng giao dịch tiếp tục tăng lên 48.6 triệu cổ phiếu, duy trì ở mức rất cao so với các tuần trước đó. Việc giá không thể duy trì được vùng 79-80 và bị đẩy xuống dưới 76 cho thấy áp lực bán đang gia tăng sau đợt tăng giá mạnh từ 67.5 lên 81.0.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Weakness** tiếp tục và có thể là **Selling Climax**. Việc giá giảm liên tiếp hai tuần trên khối lượng cao (46-48 triệu) sau chuỗi Sign of Strength cho thấy Smart Money đang phân phối và áp lực bán institutional đã vượt trội. Mức 75.8 có thể là vùng hỗ trợ quan trọng cần theo dõi - nếu được giữ vững có thể tạo cơ sở cho một đợt phục hồi.

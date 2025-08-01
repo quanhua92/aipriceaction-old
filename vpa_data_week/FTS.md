@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** tiếp theo sau test thành công của tuần trước. Việc giá tiếp tục tăng với khối lượng duy trì ở mức cao cho thấy lực mua vẫn đang tích cực và xu hướng tăng được củng cố. Sự ổn định của khối lượng cao trong nhiều tuần liên tiếp là dấu hiệu của sự quan tâm lớn từ các nhà đầu tư.
 
 
+**Ngày 2025-07-27:** FTS có một tuần tăng nhẹ từ 41.1 lên 41.8 (+1.7%) với biên độ dao động từ 39.65 đến 42.4. Mặc dù có lúc test xuống vùng 39.65 nhưng cổ phiếu đã phục hồi mạnh và đóng cửa gần mức cao. Khối lượng giao dịch tiếp tục duy trì ở mức cao 37.131.400 cổ phiếu, tương đương với hai tuần trước, cho thấy sự quan tâm liên tục của thị trường.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test successful** sau giai đoạn Effort to Rise của các tuần trước. Việc giá test xuống vùng 39.65 (gần mức support 40) nhưng nhanh chóng phục hồi và đóng cửa cao hơn tuần trước trên nền khối lượng cao cho thấy lực cầu vẫn đang kiểm soát. Khối lượng cao liên tục trong 4 tuần qua kết hợp với việc giá duy trì xu hướng tăng là dấu hiệu tích cực, xác nhận sự tích lũy mạnh mẽ và tiềm năng tiếp tục tăng giá.

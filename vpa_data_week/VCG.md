@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Climactic Action**. Việc giá tăng vọt (+10.0%) kèm theo khối lượng bùng nổ (+26%) sau hai tuần Sign of Strength liên tiếp cho thấy đây là một đợt climax mạnh mẽ. Mặc dù vẫn là dấu hiệu sức mạnh, nhưng sự tăng tốc quá nhanh này đã tạo ra rủi ro điều chỉnh cao trong các tuần tới.
 
 
+**Ngày 2025-07-27:** VCG có một tuần tăng giá mạnh mẽ với nến tăng từ 23.55 lên 25.7 (+9.1%). Biên độ giao dịch 23.05-25.7, đóng cửa đỉnh tuần. Khối lượng giao dịch tăng lên 87.876.900 (+26.3% so với tuần trước). Đây là tuần thứ ba liên tiếp có tín hiệu tích cực, với giá đã tăng từ 22.8 lên 25.7 trong ba tuần qua (+12.7%).
+
+- **Phân tích VPA/Wyckoff:** Đây là một **Climactic Action** tiếp theo sau tuần trước. Việc giá tiếp tục tăng mạnh (+9.1%) kèm theo khối lượng cao cho thấy momentum vẫn rất mạnh. Tuy nhiên, với việc đã có hai tuần Climactic Action liên tiếp và giá đã tăng hơn 12% trong ba tuần, rủi ro điều chỉnh kỹ thuật đang gia tăng. Mặc dù xu hướng vẫn tích cực, nhà đầu tư cần theo dõi sát sao các tín hiệu suy yếu trong những tuần tới.

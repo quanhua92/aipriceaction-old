@@ -18,3 +18,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau Sign of Strength tuần trước. Việc giá dao động mạnh nhưng không thể duy trì ở mức cao với khối lượng giảm cho thấy có áp lực bán tại vùng giá cao. Tuy nhiên, việc giá vẫn giữ được gần mức đóng cửa tuần trước cho thấy đây vẫn là tín hiệu tích cực trong xu hướng tăng.
 
 
+**Ngày 2025-07-27:** Sau tuần Test for Supply trước đó, DGW có một tuần tích cực với nến tăng có thân trung bình, mở cửa (47.5) cao hơn đóng cửa tuần trước và đóng cửa (46.45) duy trì gần mức cao. Biên độ giao dịch từ 45.2 đến 48.5 cho thấy áp lực mua vẫn có mặt. Tuy nhiên, khối lượng giao dịch giảm xuống 14.909.600 cp, thấp hơn so với tuần trước. Giá vẫn duy trì trên vùng 46, cho thấy sự ổn định sau giai đoạn kiểm tra cung.
+- **Phân tích VPA/Wyckoff:** Đây là một **No Supply** tích cực sau Test for Supply tuần trước. Việc giá duy trì được mức cao trên nền khối lượng giảm cho thấy áp lực bán đã được hấp thụ tốt và không có cung lớn xuất hiện ở vùng giá này. Tín hiệu này củng cố cho xu hướng tăng trung hạn và có thể là tiền đề cho một đợt tăng giá tiếp theo khi có xúc tác phù hợp.

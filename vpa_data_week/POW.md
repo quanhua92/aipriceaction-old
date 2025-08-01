@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng trên nền khối lượng cao duy trì cho thấy động lực còn mạnh, xác nhận xu hướng tăng vẫn đang tiếp diễn một cách lành mạnh.
 
 
+**Ngày 2025-07-27:** POW có một tuần tăng giá tiếp tục với nến tăng thân dài, đóng cửa (14.25) cao hơn 1.79% so với tuần trước. Giá mở cửa cao (14.15) và tạo đỉnh mới tại 14.5 trước khi hồi về đóng cửa gần mức cao. Khối lượng giao dịch giảm nhẹ 8.21% xuống 75.00 triệu cổ phiếu nhưng vẫn duy trì ở mức cao. Cổ phiếu đã tăng liên tiếp 3 tuần với khối lượng mạnh, cho thấy xu hướng tăng đang được duy trì tốt.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tiếp tục tăng trên nền khối lượng cao duy trì cho thấy động lực còn mạnh, xác nhận xu hướng tăng vẫn đang tiếp diễn một cách lành mạnh. Mặc dù khối lượng có giảm nhẹ so với tuần trước nhưng vẫn ở mức cao, thể hiện sự quan tâm của nhà đầu tư vẫn tích cực.

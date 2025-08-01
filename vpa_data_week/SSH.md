@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** thất bại. Việc giá mở cao nhưng không thể duy trì với khối lượng tăng mạnh cho thấy áp lực bán đã xuất hiện ở vùng đỉnh, tạo ra sự kháng cự. Cố gắng tăng giá đã gặp phải cung cấp, báo hiệu khả năng điều chỉnh trong các tuần tới.
 
 
+**Ngày 2025-07-27:** Tiếp nối tín hiệu Effort to Rise thất bại của tuần trước, SSH có một tuần dao động mạnh với biên độ rộng từ 85.0 đến 94.6, mở cửa (94.0) cao hơn tuần trước nhưng đóng cửa (92.0) thấp hơn mức cao nhất. Khối lượng giao dịch tăng nhẹ lên 200700 so với 164500 tuần trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test** sau Effort to Rise thất bại. Việc giá dao động mạnh với biên độ rộng nhưng đóng cửa gần mức cao cho thấy thị trường đang thử nghiệm vùng kháng cự. Khối lượng tăng nhẹ kết hợp với việc giá duy trì gần mức cao là dấu hiệu tích cực, cho thấy áp lực bán đã giảm và cổ phiếu có khả năng vượt qua vùng kháng cự trong các tuần tới.

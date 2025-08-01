@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ sau phiên No Supply. Việc giá phá vỡ và tạo đỉnh mới trên nền khối lượng tăng vọt cho thấy lực cầu đã trở lại quyết liệt và xu hướng tăng được củng cố mạnh mẽ.
 
 
+**Ngày 2025-07-27:** Sau phiên Sign of Strength mạnh mẽ của tuần trước, DCM tiếp tục bùng nổ với một tuần tăng giá ấn tượng. Cổ phiếu mở cửa tại 33.95 và đóng cửa tại 35.6, tăng 5.33% so với tuần trước. Đặc biệt, giá đã chạm mức cao nhất trong tuần tại 36.2, tạo ra đỉnh mới và phá vỡ hoàn toàn vùng kháng cự trước đó. Khối lượng giao dịch tiếp tục duy trì ở mức rất cao với 35.6 triệu cổ phiếu, tương đương với tuần trước, cho thấy sự tham gia tích cực của dòng tiền.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** liên tiếp thứ hai với đặc điểm nổi bật là việc tạo đỉnh mới trên nền khối lượng duy trì cao. Sự kết hợp giữa giá phá vỡ kháng cự, tạo mức cao mới và khối lượng ổn định ở mức cao cho thấy xu hướng tăng đang được củng cố mạnh mẽ. Tuy nhiên, cần theo dõi sát diễn biến tuần tới để xác định liệu đây có phải là climax hay chỉ là bước đầu của đợt tăng giá mới.

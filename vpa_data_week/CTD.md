@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** sau đợt tăng mạnh. Việc giá điều chỉnh với khối lượng giảm là một tín hiệu tích cực, cho thấy áp lực bán không quá mạnh và thị trường đang kiểm tra vùng support mới. Tín hiệu No Supply sau giai đoạn tăng giá.
 
 
+**Ngày 2025-07-27:** Sau tuần kiểm tra cung tích cực, CTD tiếp tục điều chỉnh với nến giảm biên độ hẹp, đóng cửa (84.2) thấp hơn tuần trước. Biên độ giao dịch từ 84.0 đến 88.0 cho thấy sự dao động trong phạm vi hẹp. Khối lượng giao dịch giảm nhẹ xuống 7.038.400 cp, thấp hơn tuần trước.
+
+**Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply** tích cực. Việc giá điều chỉnh nhẹ trên nền khối lượng giảm cho thấy áp lực bán đã được hấp thụ tốt và không có nguồn cung mới xuất hiện. Sự điều chỉnh này có thể được xem như một động thái lành mạnh để tích lũy lực cầu trước khi tiếp tục xu hướng tăng. Tín hiệu No Supply sau giai đoạn Test for Supply thành công của tuần trước củng cố cho triển vọng tích cực.

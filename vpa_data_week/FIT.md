@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo sau hai tuần tăng mạnh liên tiếp. Tuy nhiên, với khối lượng liên tục ở mức cực cao và giá tăng nhanh, đây có thể là dấu hiệu của **Climactic Action**. Cần theo dõi các tuần tiếp theo để xác định liệu đây có phải là đỉnh tạm thời hay không.
 
 
+**Ngày 2025-07-27:** FIT tiếp tục chuỗi tăng mạnh với tuần thứ 3 liên tiếp, đóng cửa (5.24) cao hơn đáng kể so với tuần trước (4.82). Biên độ giao dịch từ 4.76 đến 5.5 cho thấy sự mở rộng tích cực. Khối lượng giao dịch tăng tiếp lên 18.050.800 cổ phiếu, duy trì ở mức cực cao. Giá đã tăng gần 9% trong tuần và tăng hơn 14% trong 2 tuần qua.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Climactic Action** rõ rệt. Sau 3 tuần tăng mạnh liên tiếp với khối lượng cực lớn, FIT đang thể hiện dấu hiệu của một đợt tăng giá đỉnh điểm. Mức giá 5.5 có thể là vùng kháng cự quan trọng. Cần theo dõi sát tuần tiếp theo để xác định liệu đây có phải là **Buying Climax** hay chỉ là sự tạm dừng trước khi tiếp tục tăng.

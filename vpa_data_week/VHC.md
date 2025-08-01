@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** đáng kể. Việc giá phục hồi (+2.1%) trên nền khối lượng tăng mạnh (+40.4%) sau hai tuần No Supply liên tiếp cho thấy lực cầu đã trở lại kiểm soát. Mặc dù chưa phải là Sign of Strength hoàn hảo do đóng cửa không ở mức cao nhất, nhưng tín hiệu này vẫn tích cực và có thể dẫn đến xu hướng tăng mạnh hơn.
 
 
+**Ngày 2025-07-27:** VHC tiếp tục xu hướng tích cực với tuần giao dịch từ 56.9 lên 58.1 (+2.1%). Nến tăng có biên độ rộng từ 56.9 đến 59.3, mở cửa tại mức thấp nhất và đóng cửa trong phạm vi trung bình-cao của tuần. Khối lượng giao dịch duy trì ở mức cao 11.095.100, tương đương tuần trước (+40.4% so với baseline). Giá đã vượt qua vùng kháng cự 57.6-58.1 và hướng tới test vùng 59.3-61.8.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Sau chuỗi tín hiệu tích cực gồm hai tuần No Supply (tuần 07-14 và 07-21) và một Effort to Rise (tuần 07-21), VHC đã chuyển thành Sign of Strength với giá tăng (+2.1%) trên nền khối lượng cao duy trì. Việc vượt qua vùng kháng cự 57.6-58.1 một cách thuyết phục cho thấy lực cầu đã kiểm soát hoàn toàn, báo hiệu xu hướng tăng mạnh có thể tiếp tục hướng tới vùng 59.7-61.8.

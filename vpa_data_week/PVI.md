@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Sau chuỗi tín hiệu No Supply, việc giá bùng nổ với khối lượng lớn xác nhận dự đoán trước đó và cho thấy lực cầu institutional đã vào mạnh mẽ.
 
 
+**Ngày 2025-07-27:** PVI tiếp tục đà tăng mạnh với nến tăng có biên độ rộng, mở cửa tại 58.0 và đóng cửa tại 62.8 (+6.44%). Cổ phiếu tạo đỉnh mới tại 65.4 trong phiên trước khi có điều chỉnh nhẹ về cuối tuần. Khối lượng giao dịch duy trì ở mức cao 351.6 ngàn cổ phiếu, tương đương với tuần trước, cho thấy sự quan tâm của thị trường vẫn mạnh mẽ.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Sau tuần bùng nổ trước đó, PVI duy trì được động lực tăng mạnh với khối lượng cao, xác nhận xu hướng tăng bền vững. Việc tạo đỉnh mới tại 65.4 cho thấy lực cầu institutional vẫn đang tích cực, tuy nhiên cần theo dõi khả năng xuất hiện pressure bán ở vùng đỉnh mới này.

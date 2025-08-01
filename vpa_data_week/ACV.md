@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, xác nhận rằng áp lực bán đã cạn kiệt và lực cầu đang quay trở lại mạnh mẽ. Việc bứt phá khỏi vùng tích lũy kết hợp với khối lượng gia tăng đáng kể cho thấy xu hướng tăng có khả năng được tái lập.
 
 
+**Ngày 2025-07-27:** Tuần này ACV tiếp tục duy trì đà tăng tích cực với nến tăng có biên độ khá, từ 95.1 mở cửa lên 98.7 cao nhất, đóng cửa tại 97.4. Điều đáng chú ý là khối lượng giao dịch tăng mạnh lên 4.12 triệu cổ phiếu, cao nhất trong giai đoạn gần đây và tăng 53% so với tuần trước (2.69 triệu). Giá đóng cửa gần mức cao nhất tuần cho thấy sự kiểm soát của phe mua. So với tuần trước, ACV đã vượt qua được vùng kháng cự 95-96 và hướng tới thử thách vùng 98-100.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** được củng cố mạnh mẽ. Việc giá tăng kèm theo khối lượng bùng nổ cho thấy sự quan tâm nghiêm túc từ các nhà đầu tư tổ chức. Đây có thể là giai đoạn **Markup** sau khi hoàn tất quá trình tích lũy. Xu hướng tăng có khả năng cao sẽ tiếp diễn trong các tuần tới.

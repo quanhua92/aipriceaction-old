@@ -16,3 +16,9 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** trong xu hướng tăng. Việc giá tiếp tục tăng trên nền khối lượng giảm cho thấy không có áp lực bán đáng kể và con đường đi lên đang thông thoáng. Đây là tín hiệu rất tích cực cho xu hướng tăng tiếp tục.
 
 
+**Ngày 2025-07-28:** FRT tiếp tục xu hướng tăng mạnh, tăng từ 152.3 lên 158.0 (+3.7%) với biên độ giao dịch từ 150.9 đến 159.0. Khối lượng giao dịch giảm xuống 2.533.320 cp, thấp hơn tuần trước (3.038.231 cp). Giá đóng cửa gần mức cao nhất tuần, cho thấy sức mạnh tiếp tục được duy trì.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** rất mạnh trong xu hướng tăng. Việc giá tiếp tục tăng trên nền khối lượng giảm cho thấy không có áp lực bán đáng kể và lực cầu vẫn đang kiểm soát hoàn toàn. Từ mức 130.64 (cuối tháng 5) đến 158.0 hiện tại, FRT đã tăng hơn 20% với các Test for Supply thành công và liên tiếp các Sign of Strength và No Supply, xác nhận xu hướng tăng mạnh mẽ và bền vững.
+**Ngày 2025-07-27:** FRT tiếp tục xu hướng tăng mạnh, tăng từ 152.3 lên 158.0 (+3.7%) với biên độ giao dịch từ 150.9 đến 159.0. Khối lượng giao dịch giảm xuống 2.533.320 cp, thấp hơn tuần trước (3.038.231 cp). Giá đóng cửa gần mức cao nhất tuần, cho thấy sức mạnh tiếp tục được duy trì.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** rất mạnh trong xu hướng tăng. Việc giá tiếp tục tăng trên nền khối lượng giảm cho thấy không có áp lực bán đáng kể và lực cầu vẫn đang kiểm soát hoàn toàn. Từ mức 130.64 (cuối tháng 5) đến 158.0 hiện tại, FRT đã tăng hơn 20% với các Test for Supply thành công và liên tiếp các Sign of Strength và No Supply, xác nhận xu hướng tăng mạnh mẽ và bền vững.

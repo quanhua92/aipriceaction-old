@@ -18,3 +18,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Sau giai đoạn No Supply kéo dài, DHG đã bứt phá lên mức giá mới với khối lượng tăng, xác nhận lực cầu đã quay trở lại mạnh mẽ và xu hướng tăng được thiết lập.
 
 
+**Ngày 2025-07-27:** Tiếp nối Sign of Strength của tuần trước, DHG có một tuần tăng giá tiếp tục với nến tăng thân dài, tăng từ 101.3 lên 103.0 (+1.7%) và đạt mức cao 104.0. Biên độ giao dịch từ 101.0 đến 104.0 cho thấy sự bứt phá mạnh mẽ. Khối lượng giao dịch duy trì ở mức 101.6 nghìn cổ phiếu, tương đương với tuần trước.
+- **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp diễn. Việc giá tiếp tục tăng mạnh và duy trì được khối lượng tốt sau đợt bứt phá tuần trước xác nhận xu hướng tăng đã được thiết lập vững chắc. DHG đang trong giai đoạn Mark Up với lực cầu áp đảo, tạo cơ sở cho đợt tăng dài hạn.

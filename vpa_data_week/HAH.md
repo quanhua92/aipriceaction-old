@@ -15,3 +15,6 @@
 - **Ngày 2025-07-21:** Tiếp nối Test for Supply của tuần trước, HAH có một tuần tăng giá mạnh với nến tăng biên độ rộng, tăng từ 70.0 lên 74.3 (+6.1%) và đạt mức cao 76.7. Biên độ giao dịch từ 69.0 đến 76.7 cho thấy sự phục hồi mạnh mẽ. Khối lượng giao dịch tăng lên 27.881.584 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau giai đoạn Test for Supply. Việc giá có thể bứt phá mạnh mẽ với khối lượng tăng cho thấy lực cầu đã quay trở lại và có khả năng đảo chiều xu hướng giảm trước đó.
 
+**Ngày 2025-07-27:** HAH tiếp tục xu hướng tăng mạnh với một tuần tăng giá đáng kể, tăng từ 70.0 lên 74.3 (+6.1%) và đạt mức cao 76.7. Nến tăng có thân dài với biên độ giao dịch rộng từ 69.0 đến 76.7, cho thấy sự bứt phá mạnh mẽ sau giai đoạn test. Khối lượng giao dịch tăng vọt lên 27.854.700 cổ phiếu, cao nhất trong 10 tuần gần đây và tăng 30.2% so với tuần trước. Giá đóng cửa gần mức cao nhất tuần cho thấy lực cầu mạnh mẽ.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, xác nhận sự đảo chiều xu hướng. Việc giá bứt phá mạnh mẽ trên nền khối lượng cao nhất trong 10 tuần cho thấy lực cầu đã chiếm ưu thế hoàn toàn. Sự kết hợp giữa giá tăng mạnh và khối lượng tăng vọt là dấu hiệu tích cực cho xu hướng tăng tiếp theo.

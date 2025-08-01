@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau giai đoạn tăng mạnh kéo dài. Việc giá điều chỉnh (-4.1%) trên nền khối lượng giảm đáng kể (-17.4%) sau Sign of Strength cho thấy áp lực chốt lời không quá lớn. Biên độ giao dịch rộng cho thấy có sự kiểm tra, nhưng việc đóng cửa trong phạm vi trung bình thể hiện sự hấp thụ tốt ở vùng giá cao.
 
 
+**Ngày 2025-07-27:** Sau tuần No Supply trước đó, VIC tiếp tục điều chỉnh nhẹ từ 119.0 xuống 114.1 (-4.1%). Nến giảm có biên độ từ 109.7 đến 122.5, mở cửa cao (120.5) nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm xuống 20.464.000 (-17.3% so với tuần trước), tiếp tục duy trì xu hướng giảm khối lượng trong giai đoạn điều chỉnh.
+
+**Phân tích VPA/Wyckoff:** Đây tiếp tục là một **No Supply** trong giai đoạn điều chỉnh kỹ thuật sau đợt tăng mạnh. Việc giá điều chỉnh thêm 4.1% trên nền khối lượng tiếp tục giảm cho thấy áp lực bán không lớn và thị trường đang hấp thụ tốt nguồn cung ở vùng giá cao. Mặc dù có test xuống vùng 109.7, việc đóng cửa ở 114.1 cho thấy sự hỗ trợ tại vùng này. Xu hướng tăng dài hạn vẫn được duy trì và đây có thể là cơ hội tích lũy tốt trước khi tiếp tục xu hướng tăng.

@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply**. Việc giá tiếp tục tăng trên khối lượng giảm cho thấy áp lực bán rất yếu, phe bán đã kiệt sức. Đây là tín hiệu No Supply rất mạnh, ủng hộ cho việc tiếp tục xu hướng tăng.
 
 
+**Ngày 2025-07-27:** KBC duy trì xu hướng tăng tích cực với nến tăng thân dài, đóng cửa (29.2) tăng từ 28.45 tuần trước. Giá dao động từ 28.1 đến 29.25, tạo biên độ 4% ổn định. Khối lượng giao dịch giảm nhẹ xuống 23.2 triệu so với 30.0 triệu tuần trước, tiếp tục xu hướng giảm khối lượng trong bối cảnh giá tăng. Cổ phiếu đã tăng liên tiếp 4 tuần kể từ đáy 24.4, cho thấy momentum tăng trưởng mạnh mẽ và bền vững.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** rất mạnh. Việc giá tiếp tục tăng trên khối lượng giảm dần qua 3 tuần liên tiếp cho thấy áp lực bán đã cạn kiệt hoàn toàn. Phe bán không còn khả năng đẩy giá xuống, tạo điều kiện thuận lợi cho giá tiếp tục leo thang. Tín hiệu No Supply này được củng cố bởi chuỗi 4 tuần tăng liên tiếp từ vùng hỗ trợ 24.4, ủng hộ mạnh mẽ cho khả năng tiếp tục xu hướng tăng trong các tuần tới.

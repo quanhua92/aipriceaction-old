@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với các đặc điểm hỗn hợp. Mặc dù giá tiếp tục tăng mạnh và đạt đỉnh mới, nhưng khối lượng giảm so với tuần trước cho thấy lực cầu đang suy yếu. Đây có thể là dấu hiệu của **Buying Climax**, cần cảnh giác với khả năng điều chỉnh trong các tuần tới khi momentum bắt đầu chậm lại.
 
 
+**Ngày 2025-07-27:** SHS tiếp tục xu hướng tăng mạnh với nến tăng có biên độ rộng, mở cửa tại 16.8 và đóng cửa tại 18.6, tăng 10.7% so với tuần trước. Giá đạt đỉnh tuần tại 18.9, thiết lập đỉnh mới liên tiếp. Khối lượng giao dịch giảm nhẹ 6.1% xuống còn 215.6 triệu cổ phiếu, nhưng vẫn duy trì ở mức rất cao. Mức giá hiện tại đã tăng 41.9% trong vòng 2 tuần, cho thấy đà tăng trưởng bùng nổ.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** được duy trì, nhưng có dấu hiệu **Buying Climax** đang hình thành. Mặc dù giá tiếp tục leo thang và đạt đỉnh mới, khối lượng giảm dần trong 2 tuần liên tiếp cho thấy lực cầu đang suy yếu so với tốc độ tăng giá. Việc giá tăng quá nhanh (41.9% trong 2 tuần) trên nền khối lượng suy giảm là đặc tr징 của **Climactic Action**, báo hiệu rủi ro điều chỉnh cao trong ngắn hạn khi momentum bắt đầu cạn kiệt.

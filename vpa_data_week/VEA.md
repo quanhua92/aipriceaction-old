@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá ổn định trên nền khối lượng giảm mạnh (-53%) cho thấy áp lực bán đã giảm bớt đáng kể. Điều này là tín hiệu tích cực sau Sign of Weakness tuần trước, cho thấy khả năng đã tìm được sàn tạm thời.
 
 
+**Ngày 2025-07-27:** VEA tiếp tục có một tuần tăng nhẹ từ 38.0 lên 38.1 (+0.3%), giao dịch trong biên độ hẹp 37.9-38.3. Khối lượng giao dịch duy trì ở mức thấp 3.960.800, tương đương tuần trước. Giá đóng cửa gần giữa khoảng giao dịch, cho thấy sự cân bằng giữa cung cầu.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp theo sau Test for Supply thành công tuần trước. Việc giá tiếp tục ổn định trên nền khối lượng thấp và ít biến động cho thấy áp lực bán đã được hấp thụ hoàn toàn. Tín hiệu này củng cố thêm khả năng VEA đã tìm được vùng hỗ trợ quanh 38.0-38.1, tạo nền tảng cho một đợt phục hồi tiềm năng trong những tuần tới.

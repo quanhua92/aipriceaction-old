@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Climactic Action**. Ba tuần tăng liên tiếp trên khối lượng cực lớn với sự tăng tốc không ngừng là dấu hiệu của climax điển hình. Mặc dù vẫn là dấu hiệu sức mạnh, nhưng rủi ro đảo chiều đã tăng cao, cần thận trọng với khả năng điều chỉnh mạnh trong các tuần tới.
 
 
+**Ngày 2025-07-27:** Sau ba tuần tăng liên tiếp trên khối lượng cực lớn, SSI tiếp tục tăng mạnh trong tuần này với nến tăng thân dài, từ mức mở cửa 32.05 lên đóng cửa 34.0, tạo đỉnh mới tại 34.1. Tuy nhiên, điều đáng chú ý là cổ phiếu có biên độ dao động rộng (30.55-34.1) với shadow dưới dài, cho thấy có áp lực bán tại vùng thấp. Khối lượng giao dịch vẫn duy trì ở mức rất cao (265.9 triệu cổ phiếu), thậm chí cao hơn tuần trước.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Buying Climax**. Bốn tuần tăng liên tiếp trên khối lượng cực lớn với sự gia tăng giá không ngừng đã tạo ra dấu hiệu climax rõ ràng. Mặc dù vẫn đóng cửa ở mức cao, nhưng shadow dưới dài và khối lượng cực lớn cho thấy có sự phân phối từ các tay lớn. Rủi ro đảo chiều cực cao, cần chuẩn bị cho một đợt điều chỉnh mạnh hoặc sideways movement trong các tuần tới.

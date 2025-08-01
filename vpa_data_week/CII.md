@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Xây dựng trên đà bùng nổ của tuần trước, việc giá tiếp tục tạo đỉnh mới trên nền khối lượng giảm cho thấy áp lực bán đã cạn kiệt và xu hướng tăng đang được duy trì ổn định.
 
 
+**Ngày 2025-07-27:** CII có một tuần giảm giá nhẹ với nến giảm biên độ vừa phải, đóng cửa (16.45) cao hơn một chút so với tuần trước nhưng thấp hơn giá mở cửa. Khối lượng giao dịch giảm xuống 122.9 triệu cp, thấp hơn đáng kể so với tuần trước nhưng vẫn duy trì ở mức rất cao. Mặc dù có sự điều chỉnh, giá vẫn giữ được vùng 16+ và không phá vỡ support quan trọng.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau chuỗi tăng mạnh. Việc giá điều chỉnh nhẹ trên nền khối lượng giảm cho thấy áp lực bán không mạnh và thị trường đang hấp thụ tốt lực chốt lời. Tín hiệu **No Supply** xuất hiện, củng cố cho xu hướng tăng dài hạn. Cần quan sát tuần tới để xác nhận việc tiếp tục xu hướng tăng.

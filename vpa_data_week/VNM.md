@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Một **Sign of Strength** rõ ràng. Sau phiên Effort to Rise có dấu hiệu chậm lại của tuần trước, lực cầu đã quay trở lại mạnh mẽ với mức tăng gần 5% kèm khối lượng tăng vọt. Điều này xác nhận xu hướng tăng vẫn còn nguyên vẹn và cổ phiếu đang tiếp tục hành trình phục hồi.
 
 
+**Ngày 2025-07-27:** VNM có một tuần tăng giá mạnh mẽ, từ 60.3 lên 63.2 (+4.8%), tạo ra đỉnh tuần tại 64.0 và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọt lên 38.0 triệu cổ phiếu, tăng 27.6% so với tuần trước (29.8 triệu). Cổ phiếu đã vượt qua vùng kháng cự 60-61 một cách quyết liệt và thiết lập vùng giá mới trong khoảng 63-64. Đây là tuần tăng mạnh nhất trong chu kỳ phục hồi hiện tại.
+
+**Phân tích VPA/Wyckoff:** Một **Sign of Strength** rất rõ ràng. Sau giai đoạn tích lũy từ vùng 55-58, VNM đang thể hiện sức mạnh bùng nổ với mức tăng gần 5% kèm khối lượng tăng vọt 27.6%. Việc vượt qua vùng kháng cự quan trọng 60-61 với volume mạnh xác nhận lực cầu đang chiếm ưu thế tuyệt đối. Xu hướng tăng được củng cố vững chắc và cổ phiếu có thể tiếp tục hướng tới vùng 65-67 trong các tuần tới.

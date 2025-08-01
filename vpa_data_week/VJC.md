@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực mạnh. Sau phiên Test for Supply của tuần trước đã kiểm tra thành công, lực cầu quay trở lại một cách bùng nổ với mức tăng gần 30% kèm khối lượng khổng lồ. Điều này cho thấy cổ phiếu đã vượt qua giai đoạn kiểm tra và bước vào đợt tăng giá mạnh mẽ.
 
 
+**Ngày 2025-07-27:** VJC tiếp tục xu hướng tăng mạnh với tuần giao dịch bùng nổ thứ hai liên tiếp. Từ mức mở cửa 94.0, cổ phiếu tăng vọt lên 121.9 (+29.7%), tạo ra nến tăng thân rất dài và đóng cửa ở mức cao nhất tuần. Khối lượng giao dịch đạt 12.4 triệu cổ phiếu, tăng 52.4% so với tuần trước và là mức cao nhất trong 10 tuần qua. Cổ phiếu đã phá vỡ hoàn toàn vùng kháng cự 100.0 và thiết lập vùng giá mới ở trên 120.0. Momentum tăng giá rất mạnh với sự hỗ trợ của khối lượng khổng lồ cho thấy lực cầu áp đảo hoàn toàn.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực mạnh tiếp theo sau phiên trước. Việc giá tăng gần 30% kèm khối lượng tăng vọt 52% cho thấy có dòng tiền lớn đổ vào và cổ phiếu đang trong giai đoạn Mark Up mạnh mẽ. Sự kết hợp giữa giá tăng mạnh và khối lượng tăng vọt là dấu hiệu tích cực về sức mạnh của xu hướng tăng.

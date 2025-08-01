@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Sau phiên Test for Supply thành công của tuần trước, lực cầu đã quay trở lại mạnh mẽ với mức tăng hơn 12% kèm khối lượng tăng vọt. Điều này cho thấy cổ phiếu đã vượt qua giai đoạn tích lũy và bắt đầu xu hướng tăng mới.
 
 
+**Ngày 2025-07-27:** Sau tuần Sign of Strength mạnh mẽ trước đó, VPG tiếp tục có một tuần tăng giá tích cực, từ 8.1 lên 9.11 (+12.5%), tạo đỉnh tuần tại 9.2 và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng mạnh lên 7.04 triệu cổ phiếu, tăng 40.3% so với tuần trước. Đây là tuần thứ hai liên tiếp có mức tăng trên 12% kèm khối lượng cao, cho thấy momentum tăng đang được duy trì mạnh mẽ.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo, xác nhận xu hướng tăng mới đã được thiết lập. Việc giá tăng mạnh trên khối lượng cao liên tục trong 2 tuần cho thấy lực cầu rất mạnh và áp lực bán đã được hấp thụ hoàn toàn. Cổ phiếu đang trong giai đoạn Mark Up sau khi vượt qua thành công phase tích lũy từ đầu tháng 7.

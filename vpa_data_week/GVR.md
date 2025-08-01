@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau giai đoạn yếu. Việc giá có thể vượt qua kháng cự với khối lượng tăng cho thấy lực cầu đang dần phục hồi, tuy nhiên cần thêm xác nhận trong những tuần tới để khẳng định sự đảo chiều xu hướng.
 
 
+**Ngày 2025-07-27:** GVR tiếp tục xu hướng tăng giá tích cực với nến tăng có thân dài, tăng từ 30.4 lên 31.2 (+2.6%) và đạt mức cao tuần tại 32.15. Giá đóng cửa gần mức cao nhất tuần, cho thấy sức mạnh của phe mua. Khối lượng giao dịch duy trì ở mức cao 28.012.000 cổ phiếu, tương đương với tuần trước, thể hiện sự quan tâm liên tục của thị trường. Việc giá có thể vượt qua ngưỡng kháng cự 31.0-31.2 và tiến về vùng 32.0 cho thấy momentum tích cực đang được duy trì.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp theo sau Effort to Rise của tuần trước. Việc giá tiếp tục tăng trên nền khối lượng cao và ổn định cho thấy lực cầu mạnh mẽ và áp lực bán đã giảm đáng kể. Tín hiệu này củng cố cho việc xu hướng giảm ngắn hạn đã kết thúc và GVR đang trong giai đoạn phục hồi tích cực.

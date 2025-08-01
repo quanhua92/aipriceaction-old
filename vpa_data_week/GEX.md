@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax** cực đoan. Sau nhiều tuần Climax liên tiếp, GEX đã có một cuộc bùng nổ hoàn toàn mất kiểm soát với mức tăng +26% trong một tuần. Đây là dấu hiệu rõ ràng của sự kiệt quệ hoàn toàn của lực cầu và một đợt điều chỉnh mạnh có thể sắp xảy ra.
 
 
+**Ngày 2025-07-27:** Sau tuần Buying Climax cực đoan với mức tăng 26.2%, GEX tiếp tục duy trì đà tăng với nến tăng mạnh, tăng từ 42.8 lên 53.5 (+25.2%) và đóng cửa ở mức cao nhất tuần 53.5. Tuy nhiên, khối lượng giao dịch 74.2 triệu cp có dấu hiệu giảm nhẹ so với tuần trước nhưng vẫn duy trì ở mức cực cao. Biên độ giao dịch từ 42.45 đến 53.5 cho thấy sự tăng tốc vẫn rất mạnh mẽ.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Upthrust After Climax** - tín hiệu nguy hiểm cao độ. Sau Buying Climax cực đoan của tuần trước, việc GEX tiếp tục tăng mạnh nhưng với khối lượng có dấu hiệu suy yếu so với đợt bùng nổ trước đó là dấu hiệu của sự kiệt quệ hoàn toàn của lực cầu. Đây là giai đoạn cuối cùng của xu hướng tăng, nơi những nhà đầu tư cuối cùng nhảy vào thị trường ở đỉnh giá. Rủi ro đảo chiều và điều chỉnh sâu là cực kỳ cao.

@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** nhẹ. Việc giá có thể vượt qua mức kháng cự với khối lượng tăng cho thấy lực cầu đang dần kiểm soát, tuy nhiên sự bứt phá vẫn chưa thật sự mạnh mẽ và cần thêm xác nhận trong những tuần tới.
 
 
+**Ngày 2025-07-27:** Tuần này DPR tiếp tục xu hướng tăng giá mạnh mẽ, tăng từ 40.9 lên 41.6 (+1.7%) và đạt mức cao 43.4. Biên độ giao dịch từ 41.05 đến 43.4 cho thấy cổ phiếu đã có những nỗ lực bứt phá khỏi vùng tích lũy 40-41. Đáng chú ý, DPR đã tạo ra mức cao mới trong chu kỳ tăng giá hiện tại. Khối lượng giao dịch duy trì ở mức cao 6.738.700 cổ phiếu, tương đương với tuần trước, cho thấy sự quan tâm của nhà đầu tư vẫn được duy trì. Việc giá đóng cửa gần mức cao của tuần (41.6 so với mức cao 43.4) cho thấy có sự chốt lời nhẹ trong phiên, nhưng không ảnh hưởng đến xu hướng tăng tổng thể.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Việc giá liên tục tạo mức cao mới với khối lượng duy trì ở mức cao cho thấy lực cầu đang kiểm soát thị trường. Cổ phiếu đã bứt phá khỏi vùng kháng cự 41-42 và hướng tới vùng giá mới. Xu hướng tăng giá đang được xác nhận mạnh mẽ qua 3 tuần liên tiếp có tín hiệu tích cực.

@@ -18,3 +18,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax** rõ ràng. Sau Sign of Strength tuần trước, DPM đã có một cuộc bùng nổ mạnh mẽ với khối lượng khổng lồ để đạt đỉnh mới. Tuy nhiên, sự tăng tốc này trên nền khối lượng cực lớn có thể báo hiệu sự kiệt quệ cầu và rủi ro điều chỉnh đang gia tăng.
 
 
+**Ngày 2025-07-27:** Sau Buying Climax của tuần trước, DPM tiếp tục bùng nổ mạnh mẽ hơn nữa với nến tăng thân dài, tăng vọt từ 38.35 lên 41.3 (+7.7%) và chạm đỉnh 42.4. Biên độ giao dịch từ 38.75 đến 42.4 cho thảy momentum tăng tốc đang ở mức cực đại. Khối lượng giao dịch tiếp tục tăng vọt lên 30.796.485 cổ phiếu, đạt mức cao nhất trong 10 tuần gần đây.
+- **Phân tích VPA/Wyckoff:** Đây là một **Selling Climax** - sau Buying Climax tuần trước, DPM đã có thêm một tuần bùng nổ với khối lượng khủng để đạt đỉnh tuyệt đối. Tuy nhiên, sự tăng tốc liên tiếp trên nền khối lượng cực lớn này thường báo hiệu sự kiệt quệ hoàn toàn của lực cầu và khả năng cao sẽ có một đợt điều chỉnh mạnh sắp tới. Đây là dấu hiệu cảnh báo cho các nhà đầu tư cần thận trọng.

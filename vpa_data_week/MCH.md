@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply**. Giá giảm mạnh tạo bóng dưới dài trên khối lượng tăng cho thấy có lực cầu hấp thụ ở vùng giá thấp sau hai tuần No Demand và Sign of Weakness. Tín hiệu này có thể báo hiệu sự kết thúc của đợt giảm giá.
 
 
+**Ngày 2025-07-27:** MCH tiếp tục xu hướng giảm từ 118.0 xuống 116.1, tạo thành nến giảm biên độ hẹp với thân nến ngắn. Giá dao động từ 114.3 đến 118.9, tạo bóng dưới dài cho thấy có áp lực mua ở vùng thấp. Khối lượng giao dịch tăng mạnh lên 2.54 triệu so với 1.72 triệu tuần trước, đáng chú ý là mức khối lượng cao nhất trong 10 tuần gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Selling Climax**. Việc giá giảm xuống vùng thấp nhất (114.3) nhưng đóng cửa phục hồi lên 116.1 trên khối lượng tăng vọt cho thấy lực cầu mạnh đã xuất hiện để hấp thụ áp lực bán. Sau chuỗi Sign of Weakness và No Demand, tín hiệu này có thể báo hiệu điểm kết thúc của đợt giảm giá và khả năng bắt đầu giai đoạn tích lũy.

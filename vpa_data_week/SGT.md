@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau giai đoạn yếu kém. Việc giá ổn định với khối lượng thấp cho thấy áp lực bán đang suy yếu. Tuy nhiên, SGT vẫn chưa có dấu hiệu tích cực rõ ràng và cần theo dõi thêm để xác định xem có phải đây là giai đoạn tích lũy hay chỉ là sự tạm dừng trong xu hướng giảm.
 
 
+**Ngày 2025-07-27:** SGT tiếp tục có một tuần giao dịch yếu với nến giảm biên độ hẹp, mở cửa tại 17.15 và đóng cửa tại 17.0. Giá dao động trong vùng 16.85-17.45, giảm nhẹ so với tuần trước (17.05). Khối lượng giao dịch giảm 8% xuống còn 304.200 cổ phiếu, duy trì ở mức thấp. Cổ phiếu đang giao dịch quanh vùng 17.0, thấp hơn đáng kể so với đỉnh 18.5 của đầu tháng 6.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp theo sau giai đoạn Test for Supply. Việc giá giảm nhẹ với khối lượng thấp cho thấy áp lực bán đã cạn kiệt. Tuy nhiên, SGT vẫn chưa có động lực mua mạnh để đảo chiều xu hướng. Cổ phiếu đang trong giai đoạn tích lũy tiềm năng nhưng cần có sự xuất hiện của khối lượng tăng kèm theo giá tăng để xác nhận sự quay trở lại của lực mua.

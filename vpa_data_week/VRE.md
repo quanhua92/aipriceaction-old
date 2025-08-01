@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Sau phiên Effort to Rise của tuần trước, đây là một **Test for Supply**. Việc giá đi ngang trên nền khối lượng giảm mạnh cho thấy áp lực bán rất yếu, đây là tín hiệu tích cực. Cổ phiếu đang trong giai đoạn tích lũy và chuẩn bị cho đợt tăng tiếp theo.
 
 
+**Ngày 2025-07-27:** VRE có một tuần giao dịch đi ngang với nến tăng rất nhẹ, từ 29.45 lên 29.5 chỉ tăng 0.17%. Dao động trong phạm vi hẹp 28.45-30.0, đỉnh tuần chạm 30.0 tương tự tuần trước. Khối lượng giao dịch giảm tiếp xuống 21.3 triệu cổ phiếu, giảm 28.7% so với tuần trước và duy trì ở mức thấp.
+
+**Phân tích VPA/Wyckoff:** Tiếp tục **Test for Supply** thành công. Sau 2 tuần liên tiếp giao dịch đi ngang trên nền khối lượng giảm mạnh, việc giá vẫn duy trì được vùng 29.5 cho thấy áp lực bán rất yếu. Cổ phiếu đang trong giai đoạn tích lũy mạnh, chuẩn bị năng lượng cho đợt breakout tiếp theo. Vùng kháng cự quan trọng tại 30.0 đã được test nhiều lần, breakout qua mức này sẽ mở ra không gian tăng giá mới.

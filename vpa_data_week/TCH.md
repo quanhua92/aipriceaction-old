@@ -2,3 +2,6 @@
 
 - **Ngày 2025-07-21:** TCH có một tuần tăng giá tích cực với nến tăng từ 24.5 lên 25.6 (+4.5%). Biên độ giao dịch 23.7-26.1, đóng cửa gần mức cao. Khối lượng giao dịch ổn định tại 40.433.879, giảm nhẹ so với tuần trước (42.757.893).
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise**. Việc giá tăng (+4.5%) trên khối lượng giảm nhẹ (-5.4%) cho thấy có sự cải thiện trong cán cân cung cầu. Mặc dù chưa đủ mạnh để trở thành Sign of Strength, nhưng đây là một tín hiệu tích cực cho xu hướng ngắn hạn.
+**Ngày 2025-07-27:** TCH tiếp tục xu hướng tăng giá mạnh mẽ với nến tăng từ 24.5 lên 25.6 (+4.5%). Biên độ giao dịch 23.7-26.1, đóng cửa gần mức cao nhất tuần. Khối lượng giao dịch 40.498.800, giảm nhẹ so với tuần trước (42.730.300). Giá đã tăng liên tiếp 3 tuần từ mức 20.9 và đạt mức cao mới tại 26.1. Áp lực bán xuất hiện ở vùng 26.0-26.1 khi giá pullback về 25.6.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Việc giá tăng mạnh (+4.5%) và liên tục đạt đỉnh mới cho thấy lực cầu vượt trội lực cung. Mặc dù khối lượng giảm nhẹ (-5.2%), nhưng vẫn ở mức cao (trên 40 triệu) và sự tăng giá bền vững qua 3 tuần liên tiếp thể hiện sức mạnh thực sự của dòng tiền. Việc đóng cửa gần mức cao (25.6 vs high 26.1) cho thấy nhà đầu tư sẵn sàng nắm giữ ở mức giá cao.

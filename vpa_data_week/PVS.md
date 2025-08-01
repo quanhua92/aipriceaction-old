@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply**. Mặc dù khối lượng tăng nhưng giá không thể duy trì ở mức cao, cho thấy vẫn còn một số áp lực bán. Tuy nhiên, việc giá không giảm mạnh cho thấy lực cầu vẫn có mặt để hỗ trợ.
 
 
+**Ngày 2025-07-27:** PVS tiếp tục xu hướng tăng nhẹ với nến xanh có thân nhỏ, đóng cửa tại 34.3 (+0.29% so với tuần trước). Biên độ giao dịch tương đối rộng với đỉnh tại 35.3 và đáy tại 33.1. Khối lượng giao dịch tăng 12.33% lên 37.95 triệu cổ phiếu, cao hơn so với tuần trước nhưng vẫn thấp hơn các tuần có biến động mạnh trong tháng 6. Giá đang kiểm tra vùng kháng cự quanh 35.0-35.3 và chưa thể vượt qua được.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** tiếp tục. Mặc dù khối lượng tăng và giá có thể đạt mức cao 35.3, nhưng việc không thể duy trì và đóng cửa ở mức thấp hơn cho thấy vẫn còn áp lực bán tại vùng kháng cự này. Tuy nhiên, việc giá không giảm sâu và vẫn duy trì trên 34.0 cho thấy lực cầu vẫn có mặt để hỗ trợ. Cần theo dõi tuần tới để xem liệu PVS có thể vượt qua 35.3 hay sẽ có điều chỉnh về vùng hỗ trợ 32.0-33.0.

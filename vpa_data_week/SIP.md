@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** xuất sắc, xác nhận hoàn toàn các tín hiệu No Supply từ hai tuần trước. Việc bùng nổ giá với khối lượng tăng mạnh cho thấy lực cầu institutional đã tham gia tích cực sau giai đoạn tích lũy. SIP đang trong giai đoạn markup mạnh mẽ với sự hỗ trợ đầy đủ của Smart Money.
 
 
+**Ngày 2025-07-27:** SIP tiếp tục xu hướng tăng mạnh với nến tăng biên độ rộng, mở cửa tại 62.0 và đóng cửa tại 67.7, tăng 10.1% so với tuần trước. Giá đạt đỉnh tuần tại 68.9, xác lập mức cao mới trong chu kỳ. Khối lượng giao dịch tăng 34.4% lên 4.84 triệu cổ phiếu, cho thấy sự tham gia tích cực của dòng tiền lớn. Mức đóng cửa gần đỉnh tuần thể hiện sức mạnh mua áp đảo trong suốt phiên.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength** rất mạnh, tiếp nối hoàn hảo chuỗi tín hiệu từ No Supply sang markup. Việc giá bứt phá mạnh mẽ với khối lượng tăng đáng kể xác nhận sự tham gia của Smart Money trong giai đoạn phân phối lên. SIP đang trong pha tăng trưởng bền vững với momentum mạnh, dự báo xu hướng tăng sẽ tiếp tục trong các tuần tới.

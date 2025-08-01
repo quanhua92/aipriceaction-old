@@ -16,3 +16,6 @@
 
 - **Ngày 2025-07-21:** Tiếp nối Test for Supply của tuần trước, HDB có một tuần bùng nổ mạnh mẽ với nến tăng thân dài, tăng vọt từ 24.4 lên 28.25 (+15.8%) và đạt mức cao 28.4. Biên độ giao dịch từ 24.3 đến 28.4 cho thấy sự tăng tốc. Khối lượng giao dịch tăng vụt lên 150.275.720 cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Buying Climax** rõ ràng. Sau Test for Supply tuần trước, HDB đã có một cuộc bùng nổ với mức tăng +15.8% trên khối lượng khổng lồ. Đây là dấu hiệu của sự kiệt quệ cầu và rủi ro điều chỉnh đang gia tăng sau cao trào mua này.
+**Ngày 2025-07-27:** Sau Buying Climax tuần trước với mức tăng bùng nổ +15.8%, HDB tiếp tục duy trì ở vùng đỉnh với giá đóng cửa 28.25, chỉ giảm nhẹ -0.6% so với tuần trước. Biên độ giao dịch từ 24.3 đến 28.4 cho thấy volatility cao. Đáng chú ý là khối lượng giao dịch vẫn duy trì ở mức rất cao 150.239.300 cp, tương đương với tuần Buying Climax trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Automatic Reaction** sau Buying Climax. Việc giá chỉ giảm nhẹ -0.6% trên nền khối lượng vẫn rất cao cho thấy áp lực bán đang gia tăng nhưng chưa thực sự áp đảo. Đây là giai đoạn đầu của quá trình điều chỉnh sau cao trào mua. Cần theo dõi các tuần tiếp theo để xác định mức độ điều chỉnh và tìm kiếm Secondary Test ở mức thấp hơn.

@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá giữ ổn định trên nền khối lượng tăng (+17%) cho thấy áp lực bán vẫn yếu. Điều này tiếp tục khẳng định tín hiệu No Supply, thể hiện sự tích lũy tốt và tiềm năng tiếp tục xu hướng tăng sau giai đoạn consolidation.
 
 
+**Ngày 2025-07-27:** VCS có một tuần tăng giá nhẹ từ 50.0 lên 50.4 (+0.8%), tạo nến tăng với thân nhỏ. Biên độ giao dịch 49.2-53.0, đóng cửa ở mức trung bình. Khối lượng giao dịch tăng lên 1.226.200 (+16.6% so với tuần trước). Giá test được vùng kháng cự 53.0 nhưng không thể duy trì, cho thấy áp lực bán nhẹ tại vùng này.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp theo trong chuỗi tín hiệu tích cực. Việc giá tăng nhẹ (+0.8%) trên nền khối lượng tăng mạnh (+16.6%) cho thấy lực cầu vẫn hiện diện và áp lực bán yếu. Mặc dù có test kháng cự tại 53.0 không thành công, nhưng việc giá không giảm sâu và duy trì trên 50.0 thể hiện sự tích lũy tốt. Tín hiệu này tiếp nối chuỗi No Supply và Test for Supply thành công của các tuần trước, củng cố xu hướng tăng trung hạn của VCS.

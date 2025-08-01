@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là **Effort to Rise** tiếp theo sau test for supply tuần trước. Việc giá phục hồi và vượt qua đỉnh 26.0 của tuần trước nhưng gặp kháng cự tại 27.0 với bóng trên dài cho thấy vẫn còn áp lực bán tại các mức giá cao. Khối lượng duy trì cao cho thấy sự quan tâm tiếp tục từ cả hai bên.
 
 
+**Ngày 2025-07-27:** HPG có một tuần giao dịch hỗn hợp, mở cửa tại 26.4 và đạt đỉnh mới 27.0 trước khi giảm về đóng cửa 26.05 (+0.6%). Mặc dù vẫn tăng nhẹ so với tuần trước, nến có bóng trên dài cho thấy áp lực bán mạnh tại vùng 27.0. Khối lượng giao dịch 233.4 triệu cổ phiếu duy trì ở mức cao tương tự tuần trước, cho thấy sự quan tâm tiếp tục từ cả hai bên mua và bán.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** với kết quả hạn chế. Việc giá đạt đỉnh mới 27.0 nhưng không thể duy trì và tạo bóng trên dài trên nền khối lượng cao cho thấy cung tăng mạnh tại mức giá này. Đây có thể là dấu hiệu của **Supply Coming In** tại vùng kháng cự 27.0, cần theo dõi các tuần tiếp theo để xác định liệu xu hướng tăng có thể tiếp tục hay sẽ có điều chỉnh sâu hơn.

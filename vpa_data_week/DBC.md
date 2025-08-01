@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ sau giai đoạn No Demand. Việc giá phá vỡ ngưỡng kháng cự trên nền khối lượng đột biến cho thấy lực cầu đã quay trở lại một cách quyết liệt và xu hướng tăng được tái lập.
 
 
+**Ngày 2025-07-27:** DBC tiếp tục xu hướng tăng mạnh mẽ với nến tăng thân dài, đóng cửa (35.85) tạo mức cao mới và phá vỡ hoàn toàn khỏi vùng kháng cự 34.6-35.4. Biên độ giao dịch rộng từ 32.25 đến 36.45 cho thấy sự tranh chấp quyết liệt giữa hai phe, nhưng cuối cùng phe mua đã giành chiến thắng áp đảo. Khối lượng giao dịch bùng nổ lên mức kỷ lục 75.859.600 cổ phiếu, tăng 56% so với tuần trước, xác nhận sự trở lại mạnh mẽ của dòng tiền sau giai đoạn đi ngang.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** cực mạnh sau giai đoạn tích lũy ngắn hạn. Việc giá phá vỡ quyết liệt ngưỡng kháng cự trên nền khối lượng kỷ lục cho thấy một **Breakout** thành công. Tuy nhiên, cần theo dõi các phiên tiếp theo để xác nhận tính bền vững của đợt bứt phá này và đề phòng rủi ro **Climax** khi khối lượng đạt mức cực đại.

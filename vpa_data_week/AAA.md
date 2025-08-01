@@ -18,3 +18,7 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, tiếp nối chuỗi tín hiệu tích cực từ hai tuần trước. Việc bứt phá mức cao mới kết hợp với khối lượng gia tăng mạnh cho thấy sự quan tâm mạnh mẽ từ dòng tiền tổ chức và xu hướng tăng đang được tăng tốc.
 
 
+**Ngày 2025-07-27:**
+AAA tiếp tục xu hướng tăng mạnh với một tuần giao dịch ấn tượng. Cổ phiếu mở cửa tại 7.76 và tạo ra biên độ giao động rộng từ 7.62 đến 8.4, cuối cùng đóng cửa tại 8.14 - tăng 4.9% so với tuần trước và thiết lập mức cao mới cho chu kỳ. Khối lượng giao dịch duy trì ở mức cao 21.7 triệu cổ phiếu, tương đương với tuần trước và cao nhất trong 4 tuần gần đây. Điều đáng chú ý là cổ phiếu đã bứt phá quyết đoán khỏi vùng kháng cự 7.9 và thiết lập vùng giá mới trên 8.0.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục và mạnh mẽ, xác nhận xu hướng tăng đang trong giai đoạn markup. Việc duy trì khối lượng cao kết hợp với việc bứt phá mức kháng cự quan trọng 7.9 cho thấy sự tham gia tích cực của dòng tiền tổ chức. Chuỗi 4 tuần tăng liên tiếp với khối lượng cao từ 7.21 lên 8.14 (+12.9%) thể hiện một uptrend khỏe mạnh với sự hỗ trợ mạnh mẽ từ thanh khoản.

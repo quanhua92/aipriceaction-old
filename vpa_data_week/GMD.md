@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** sau test for supply của tuần trước. Việc giá phục hồi trên nền khối lượng giảm là dấu hiệu tích cực, cho thấy áp lực bán đã yếu đi và xu hướng tăng có thể được khôi phục. Tuy nhiên, cần một nến tăng mạnh hơn để xác nhận sức mạnh.
 
 
+**Ngày 2025-07-27:** GMD có một tuần giao dịch tích cực, tăng từ 57.2 lên 58.4 (+2.1%) với biên độ từ 56.1 đến 59.0. Khối lượng giao dịch giảm xuống 13.012.837 cp, thấp hơn đáng kể so với tuần trước (17.857.791 cp). Giá đóng cửa gần mức cao của tuần, cho thấy sức mạnh trong phiên cuối.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** sau test for supply của tuần trước. Việc giá tăng trên nền khối lượng giảm là dấu hiệu rất tích cực, cho thấy không còn áp lực bán và xu hướng tăng đang được khôi phục. Sự kết hợp giữa giá tăng và khối lượng giảm thể hiện lực cầu tự nhiên mạnh mẽ, báo hiệu khả năng tiếp tục tăng giá trong các tuần tới.

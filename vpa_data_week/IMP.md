@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là **Effort to Rise** sau test for supply tuần trước. Việc giá phục hồi với khối lượng tăng nhẹ cho thấy lực cầu đang dần quay trở lại, tuy nhiên biên độ hẹp và khối lượng chưa thực sự mạnh cho thấy đà tăng vẫn còn thận trọng.
 
 
+**Ngày 2025-07-27:** IMP có tuần giao dịch tăng nhẹ với nến xanh biên độ hẹp, đóng cửa 51.9 (không đổi) so với tuần trước. Giá dao động từ 51.7 đến 53.2, tương tự tuần trước. Khối lượng giao dịch tăng từ 837.3 nghìn lên 844.6 nghìn (+0.9%). Cổ phiếu đang duy trì trong vùng sideways 51.5-53.2 kể từ đầu tháng 7.
+
+**Phân tích VPA/Wyckoff:** Đây là **No Demand**. Mặc dù khối lượng tăng nhẹ nhưng giá đóng cửa không đổi và dao động trong biên độ hẹp cho thấy thị trường thiếu sự quan tâm ở vùng giá hiện tại. Tín hiệu này cho thấy đà tăng đang yếu dần và có thể chuẩn bị cho một đợt điều chỉnh.

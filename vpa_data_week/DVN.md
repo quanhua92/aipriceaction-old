@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau giai đoạn đi ngang. Việc giá giảm nhẹ trên nền khối lượng tăng cho thấy vẫn còn một số áp lực bán, nhưng không quá mạnh. Cần quan sát thêm để xác định hướng đi tiếp theo của cổ phiếu.
 
 
+**Ngày 2025-07-27:** DVN tiếp tục xu hướng giảm nhẹ từ tuần trước, giảm từ 23.3 xuống 23.0 (-1.3%). Nến giảm có biên độ hẹp với thân nến nhỏ, giao dịch trong khoảng 22.7-23.5. Khối lượng giao dịch tăng mạnh lên 512.200 cổ phiếu, cao hơn đáng kể so với tuần trước (372.500). Mức giá 23.0 đang kiểm tra lại vùng hỗ trợ quan trọng đã xuất hiện vào đầu tháng 6.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** tiếp theo sau giai đoạn Test for Supply của tuần trước. Việc giá giảm nhẹ nhưng khối lượng tăng mạnh (+37.4%) cho thấy áp lực bán vẫn còn hiện diện tại vùng giá này. Tuy nhiên, mức độ giảm giá khá hạn chế so với khối lượng tăng, điều này có thể báo hiệu việc cung cấp đang được hấp thụ. Cần quan sát phản ứng tại vùng hỗ trợ 23.0 để xác định khả năng đảo chiều hoặc tiếp tục điều chỉnh.

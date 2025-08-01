@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau chuỗi Sign of Strength. Việc giá tiếp tục tăng nhưng khối lượng giảm nhẹ cho thấy lực cầu vẫn kiểm soát nhưng có dấu hiệu chững lại. Tín hiệu vẫn tích cực nhưng cần theo dõi chặt chẽ.
 
 
+**Ngày 2025-07-27:** MWG có một tuần tăng giá nhẹ với nến tăng thân ngắn, đóng cửa (70.1) cao hơn tuần trước nhưng mức tăng chậm lại so với momentum mạnh mẽ của các tuần trước. Giá dao động trong biên độ hẹp từ 68.02-71.1, tạo đỉnh tuần mới nhưng không thể duy trì ở mức cao. Khối lượng giao dịch giảm xuống 36.2 triệu, thấp hơn đáng kể so với 39.7 triệu tuần trước và mức trung bình của chuỗi tăng giá.
+
+**Phân tích VPA/Wyckoff:** Đây là một **No Demand** sau chuỗi Sign of Strength và Effort to Rise. Việc giá vẫn tăng nhưng khối lượng giảm rõ rệt cho thấy lực cầu đang suy yếu và có dấu hiệu của việc thiếu sự quan tâm từ dòng tiền institutional. Tín hiệu cảnh báo về một sự điều chỉnh có thể sắp xảy ra sau đợt tăng mạnh từ 59.64 lên 70.1.

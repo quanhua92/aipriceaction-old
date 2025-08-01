@@ -16,3 +16,5 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Effort to Rise** sau các test for supply thành công. Việc giá tăng với khối lượng tăng cho thấy lực cầu đang dần quay trở lại. Tuy nhiên, biên độ tăng vẫn còn khiêm tốn, cho thấy xu hướng đang trong giai đoạn phục hồi tích lũy sau cú Upthrust trước đó.
 
 
+**Ngày 2025-07-27:** GAS tiếp tục xu hướng phục hồi tích cực, tăng từ 68.1 lên 68.7 (+0.9%) với biên độ giao dịch mở rộng từ 67.1 đến 70.2, chạm mức cao nhất kể từ sau cú Upthrust hồi cuối tháng 6. Khối lượng giao dịch tăng lên 5.414.400 cổ phiếu, cao hơn đáng kể so với tuần trước (4.390.900). Đáng chú ý, cổ phiếu đã test được vùng 70+ trong phiên nhưng vẫn đóng cửa dưới ngưỡng này, cho thấy vẫn còn áp lực bán tại vùng kháng cự quan trọng.
+- **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng sau chuỗi các test for supply thành công. Việc giá tăng với khối lượng tăng và biên độ giao dịch mở rộng xác nhận lực cầu đang mạnh lên. Tuy nhiên, việc không thể duy trì được mức 70+ cho thấy vẫn còn nguồn cung tại vùng kháng cự này. Xu hướng phục hồi sau cú Upthrust đang trở nên rõ ràng hơn, nhưng cần có thêm volume và momentum để vượt qua được ngưỡng 70-72.

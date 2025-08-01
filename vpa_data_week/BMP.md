@@ -18,3 +18,6 @@
 
 - **Ngày 2025-07-21:** Xác nhận tín hiệu Test for Supply của tuần trước, BMP có một tuần tăng giá thuyết phục với nến tăng biên độ rộng từ 143.0 đến 151.0, đóng cửa (145.3) cao hơn tuần trước và thiết lập đỉnh mới. Khối lượng giao dịch tăng nhẹ lên 776k cp.
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, xác nhận rằng giai đoạn kiểm tra cung của tuần trước đã thành công. Việc bứt phá mức cao mới kết hợp với khối lượng gia tăng cho thấy xu hướng tăng đang được tái khẳng định mạnh mẽ.
+**Ngày 2025-07-27:** BMP tiếp tục xu hướng tăng mạnh với một tuần giao dịch tích cực. Nến tăng có biên độ rộng từ 143.0 đến 151.0, thiết lập đỉnh cao mới trong năm. Giá đóng cửa (145.3) cao hơn tuần trước (142.6) và duy trì gần mức cao nhất tuần. Khối lượng giao dịch tăng nhẹ lên 776.2k cổ phiếu, cho thấy sự quan tâm của nhà đầu tư đang gia tăng. Đây là tuần thứ hai liên tiếp BMP tạo ra đỉnh cao mới sau giai đoạn test for supply thành công.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, xác nhận xu hướng tăng đang trong giai đoạn markup. Việc giá bứt phá liên tiếp tạo đỉnh cao mới kết hợp với khối lượng gia tăng cho thấy lực cầu chiếm ưu thế hoàn toàn. Chuỗi tín hiệu từ Test for Supply (tuần trước) đến Sign of Strength (tuần này) khẳng định rằng BMP đang trong một xu hướng tăng khỏe mạnh với tiềm năng tiếp tục đi lên.

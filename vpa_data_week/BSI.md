@@ -18,3 +18,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** được củng cố. Xây dựng trên chuỗi 3 tuần tăng liên tiếp, việc giá tạo đỉnh mới trên nền khối lượng tăng vọt cho thấy lực cầu vẫn mạnh mẽ và xu hướng tăng đang được duy trì.
 
 
+**Ngày 2025-07-27:** BSI tiếp tục chuỗi tăng trưởng ấn tượng với tuần thứ 4 liên tiếp tăng giá. Nến tuần có thân dài từ 45.55 lên 46.7, tạo đỉnh mới tại 47.8 trước khi điều chỉnh nhẹ. Mặc dù có bóng dưới tương đối dài (từ 43.75), giá vẫn đóng cửa gần vùng đỉnh tuần. Khối lượng giao dịch tiếp tục tăng vọt lên 13.16 triệu cổ phiếu, cao nhất trong 4 tuần qua và cao hơn 9.8% so với tuần trước.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục được củng cố. Việc BSI duy trì đà tăng trưởng mạnh mẽ trong 4 tuần liên tiếp trên nền khối lượng liên tục tăng cho thấy lực cầu vẫn rất quyết liệt. Mặc dù có sự điều chỉnh nhẹ trong phiên (thể hiện qua bóng dưới), việc giá đóng cửa gần đỉnh và khối lượng đạt mức cao kỷ lục cho thấy xu hướng tăng vẫn được duy trì mạnh mẽ. Tuy nhiên, cần theo dõi khả năng xuất hiện dấu hiệu Climactic Action khi khối lượng và giá cùng đạt đỉnh.

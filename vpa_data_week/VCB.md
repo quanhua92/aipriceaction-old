@@ -16,3 +16,6 @@
     - **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công. Việc giá giữ ổn định trên nền khối lượng giảm tiếp (-20%) cho thấy áp lực bán rất yếu. Điều này tiếp tục khẳng định tín hiệu No Supply, cho thấy thị trường đang trong giai đoạn hấp thụ và chuẩn bị cho đợt tăng tiếp theo.
 
 
+**Ngày 2025-07-27:** Sau tín hiệu Test for Supply thành công của tuần trước, VCB có một tuần giao dịch với biên độ rộng 60.9-63.5, mở cửa tại 62.2 và đóng cửa tại 62.0 (+0.1% so với tuần trước). Nến có thân nhỏ với bóng trên và bóng dưới dài, cho thấy sự giằng co trong phiên. Khối lượng giao dịch tăng nhẹ lên 29.816.700 (+0.1% so với tuần trước 29.850.803).
+
+**Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** tiếp tục. Việc giá test lên vùng 63.5 (gần đỉnh cũ) nhưng đóng cửa ở mức thấp hơn trên nền khối lượng không tăng đáng kể cho thấy vẫn còn một chút áp lực bán ở vùng cao. Tuy nhiên, việc giá không giảm sâu và duy trì trên mức 60.9 cho thấy nền tảng hỗ trợ vẫn mạnh. Thị trường đang trong giai đoạn kiểm tra cuối cùng trước khi có thể bứt phá hoặc cần thêm thời gian tích lũy.
