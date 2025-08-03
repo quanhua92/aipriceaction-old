@@ -170,9 +170,11 @@ def get_latest_vpa_signal(analysis_text: str) -> str | None:
     Returns:
         The normalized signal string (e.g., "Sign of Strength") or None.
     """
-    # CORRECTED: Use \s+ to match one or more spaces after the dash,
-    # matching the format in VPA.md ("-   **Ngày...")
-    entries = re.split(r'\n-\s+\*\*Ngày.*?\:\*\*', analysis_text)
+    # Robust splitting that handles multiple VPA entry formats:
+    # "- **Ngày YYYY-MM-DD:**" or "**Ngày YYYY-MM-DD:**"
+    
+    # Use a single pattern that matches both formats
+    entries = re.split(r'\n(?=(?:-\s*)?\*\*Ngày.*?\:\*\*)', analysis_text)
 
     if len(entries) <= 1:
         return None  # No valid date entries found
@@ -370,12 +372,23 @@ def generate_master_report(report_data, vpa_analyses, ticker_groups, ticker_to_g
 
                     f.write(f"#### [{vpa_link_text}](./{VPA_ANALYSIS_FILENAME}#{ticker_id})\n")
 
-                    # 2. Split the full analysis into daily entries using a positive lookahead.
-                    # This splits before "-   **Ngày" without consuming the delimiter.
-                    daily_entries = re.split(r'\n(?=-   \*\*Ngày)', full_analysis_text)
+                    # 2. Split the full analysis into daily entries using a robust pattern.
+                    # This handles both "- **Ngày" and "**Ngày" formats in one regex.
+                    
+                    # Split on pattern that matches either "- **Ngày" or "**Ngày" at line start
+                    daily_entries = re.split(r'\n(?=(?:-\s*)?\*\*Ngày)', full_analysis_text)
+                    
+                    # Filter out empty entries and entries that don't actually contain date patterns
+                    valid_entries = []
+                    for entry in daily_entries:
+                        entry = entry.strip()
+                        if entry and re.search(r'\*\*Ngày\s+\d{4}-\d{2}-\d{2}:', entry):
+                            valid_entries.append(entry)
+                    
+                    daily_entries = valid_entries
 
-                    # 3. Get the last 10 daily entries for the summary
-                    limited_entries = daily_entries[-10:]
+                    # 3. Get the last 5 daily entries for the summary
+                    limited_entries = daily_entries[-5:]
 
                     # 4. Join the limited entries back into a single text block
                     limited_analysis_text = "\n".join(limited_entries)
