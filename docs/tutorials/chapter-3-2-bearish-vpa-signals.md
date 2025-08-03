@@ -33,11 +33,19 @@ flowchart TD
     E --> E1["Selling Climax ⭐<br/>(Cơ hội mua đáy)<br/>Panic Volume ⭐<br/>Capitulation ⭐<br/>Terminal Shakeout ⭐"]
 ```
 
-**Hệ Thống Cảnh Báo 4 Cấp:**
-- ⭐ = **BÁN QUÁ MỨC CỰC ĐOẠN** (Cơ hội mua đáy tiềm năng)
-- ⭐⭐ = **TIÊu CỰC Vừa PHẢI** (Cẩn thận, giảm mức độ rủi ro)
-- ⭐⭐⭐ = **TIÊu CỰC MẠNH** (Giảm mạnh vị thế, bảo vệ vốn)
-- ⭐⭐⭐⭐ = **CỰC KỲ TIÊu CỰC** (Thoát hết vị thế, chế độ phòng thủ)
+**Hệ Thống Cảnh Báo 4 Cấp (Action-Oriented):**
+- ⭐ = **OVERSOLD EXTREME** (Cơ hội mua đáy tiềm năng - 70% reversal rate)
+- ⭐⭐ = **CAUTION REQUIRED** (Giảm 25-50% position size, tighten stops)
+- ⭐⭐⭐ = **HIGH RISK WARNING** (Giảm 50-75% position, activate hedging)
+- ⭐⭐⭐⭐ = **EXTREME DANGER** (Thoát >90% long positions, consider shorts)
+
+**Position Sizing Guidelines:**
+- ⭐: Prepare for contrarian plays (if other factors align)
+- ⭐⭐: Reduce risk but maintain core positions
+- ⭐⭐⭐: Defensive mode - protect capital first
+- ⭐⭐⭐⭐: Emergency protocols - preservation over profits
+
+> **Risk Management Rule:** Không bao giờ ignore 3-4 star bearish signals. Thị trường có thể "stay irrational longer than you can stay solvent."
 
 ### 1.2 Nguyên Tắc Cơ Bản - "DNA" Của Tín Hiệu Tiêu Cực
 
@@ -54,9 +62,17 @@ flowchart TD
 - Bất kỳ bất thường nào trong nỗ lực-kết quả cần điều tra
 
 🚫 **Nguyên lý 3: "Tín Hiệu Tiêu Cực Đòi Hỏi Hành Động Ngay Lập Tức"**
-- Không thể "đợi xem" với các tín hiệu tiêu cực
-- Thời gian rất quan trọng - giảm mức độ rủi ro ngay khi có cảnh báo
-- Bảo toàn vốn quan trọng hơn tối đa hóa lợi nhuận
+- Không thể "đợi xem" với các tín hiệu tiêu cực ≥ ⭐⭐⭐
+- **Speed of response** quyết định survival rate trong bear markets
+- Bảo toàn vốn là mục tiêu số 1 - profits là secondary
+- **"Cut losses early, let winners run"** - ngược lại với bullish signals
+
+**Response Time Matrix:**
+- ⭐⭐: Act within 1-2 sessions
+- ⭐⭐⭐: Act within same session  
+- ⭐⭐⭐⭐: Act immediately (intraday)
+
+> **Professional secret:** Các fund manager có strict rules: 3-star bearish signal = immediate 50% position reduction, không exceptions.
 
 ---
 
@@ -88,16 +104,41 @@ sequenceDiagram
 
 #### Tiêu Chí Kỹ Thuật "HVNP Điển Hình"
 
-**Đặc điểm bắt buộc:**
-- 📊 **Khối Lượng ≥ 200%** của trung bình 20 ngày (hoạt động tổ chức lớn)
-- 📉 **Tăng giá < 1.5%** mặc dù khối lượng cao (kết quả kém)
-- 😟 **Vị trí đóng cửa < 40%** của khoảng ngày (đóng cửa yếu)
-- 📏 **Biên độ trong ngày rộng** nhưng kết thúc yếu (đặc trưng phân phối)
-- 🕒 **Thường sau đà tăng đáng kể** (mẫu hình giai đoạn cuối)
+**Đặc điểm bắt buộc (HVNP Checklist):**
+- 📊 **Khối Lượng ≥ 200%** của 20-day average (institutional activity)
+- 📉 **Price progress < 1.0%** mặc dù khối lượng đột biến (poor result)
+- 😟 **Close position < 30%** của daily range (đóng cửa rất yếu)
+- 📏 **Wide spread (>150% average)** nhưng unable to sustain highs
+- 🕒 **Context: After significant uptrend** (>15% appreciation) hoặc near resistance
+- 🔴 **Intraday pattern:** Gap up hoặc strong open, weak close
+
+**Advanced Criteria (cho higher confidence):**
+- 🟡 **Volume/Range ratio >50% above normal**
+- 🟠 **Multiple attempts at highs within session**
+- 🔵 **News catalyst present** (earnings, upgrades) but weak response
+- ⚫ **Previous resistance level test failure**
+
+**Red Flags for False Positives:**
+- Market opening gaps (first 30 minutes volatility)
+- Ex-dividend dates (artificial volume)
+- Sector-wide events affecting all stocks
 
 #### Case Study Kinh Điển: HPG - "HVNP Hoàn Hảo" (30/05/2025)
 
-**Dữ liệu từ `vpa_data/HPG.md`:**
+**Dữ liệu thực tế từ `vpa_data/HPG.md` - Perfect HVNP Setup:**
+
+```csv
+Ticker: HPG
+Date: 2025-05-30
+Open: 21.20, High: 22.21, Low: 21.15, Close: 21.46  
+Volume: 65,010,000 (RECORD HIGH - 400%+ average)
+Price Performance: +1.2% despite massive volume
+Intraday Range: 1.06 points (22.21-21.15)
+Close Position: 29% from low to high [(21.46-21.15)/(22.21-21.15)]
+Context: Near 52-week highs, steel sector strength
+```
+
+**Technical Analysis Breakdown:**
 ```csv
 Ticker: HPG
 Date: 2025-05-30

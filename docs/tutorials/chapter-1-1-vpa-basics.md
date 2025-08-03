@@ -51,7 +51,7 @@ Hãy xem xét hai phiên giao dịch của **Vietcombank (VCB)**:
 Ticker: VCB
 Date: 2025-01-03
 Open: 61.47, High: 61.81, Low: 61.47, Close: 61.54
-Khối lượng: 1,403,040
+Khối lượng: 1,403,040 (thấp)
 Phân tích giá đơn thuần: Tăng nhẹ +0.07 (+0.11%) - Tín hiệu tích cực?
 ```
 
@@ -60,14 +60,16 @@ Phân tích giá đơn thuần: Tăng nhẹ +0.07 (+0.11%) - Tín hiệu tích c
 Ticker: VCB
 Date: 2025-06-13  
 Open: 56.8, High: 57.2, Low: 56.0, Close: 56.2
-Khối lượng: 5,300,000
-Phân tích giá đơn thuần: Giảm nhẹ - Tín hiệu tiêu cực?
+Khối lượng: 5,300,000 (cực cao - gấp ~4x bình thường)
+Phân tích giá đơn thuần: Có bóng dưới dài - Tín hiệu không rõ?
 ```
 
 **Với lăng kính VPA, câu chuyện hoàn toàn khác:**
 
 - **Phiên 1**: Giá tăng nhẹ nhưng khối lượng thấp (1.4M) → **"No Supply"** - Không có áp lực bán, tín hiệu tích cực trung bình
-- **Phiên 2**: Giá có bóng dưới nhưng khối lượng cực lớn (5.3M - gấp 4 lần bình thường) → **"Stopping Volume"** - Smart money hấp thụ áp lực bán, tín hiệu **cực kỳ tích cực**
+- **Phiên 2**: Giá test support có bóng dưới dài + khối lượng cực lớn (5.3M - gấp 4 lần bình thường) → **"Stopping Volume"** - Smart money hấp thụ mạnh áp lực bán tại support, tín hiệu **cực kỳ tích cực**
+
+> **Insight quan trọng:** Phiên 1 cho thấy thiếu động lực mua mặc dù giá tăng (weak hands). Phiên 2 cho thấy institutional buying power khi có selling pressure - đây là dấu hiệu accumulation mạnh mẽ.
 
 **Kết quả thực tế:** VCB có xu hướng tích cực mạnh mẽ sau phiên 2025-06-13!
 
@@ -79,10 +81,13 @@ Phân tích giá đơn thuần: Giảm nhẹ - Tín hiệu tiêu cực?
 
 **Anna Coulling** gọi khối lượng là **"máy phát hiện nói dối"** (lie detector) vì những lý do sau:
 
-1. **Giá có thể bị thao túng dễ dàng** bởi số ít nhà đầu tư lớn
-2. **Khối lượng phản ánh sự quan tâm thực tế** của toàn thị trường
-3. **Thao túng khối lượng trên quy mô lớn** tốn kém và khó thực hiện
-4. **Khối lượng tiết lộ mức độ "thuyết phục"** đằng sau mỗi biến động giá
+1. **Giá có thể bị thao túng dễ dàng** bởi số ít nhà đầu tư lớn với vốn lớn
+2. **Khối lượng phản ánh sự quan tâm thực tế** của toàn thị trường và không thể fake
+3. **Thao túng khối lượng trên quy mô lớn** tốn kém rất nhiều và gần như không khả thi
+4. **Khối lượng tiết lộ mức độ "thuyết phục"** và sự cam kết thực sự đằng sau mỗi biến động giá
+5. **Khối lượng xác nhận hoặc cảnh báo** về tính bền vững của xu hướng giá
+
+> **Ví dụ thực tế:** Một cổ phiếu có thể được đẩy giá từ 100k lên 105k với chỉ vài tỷ đồng, nhưng để duy trì khối lượng giao dịch 50-100 tỷ đồng/ngày thì cần sự tham gia thực sự của thị trường.
 
 > *"Chỉ riêng giá không kể hết câu chuyện... chỉ riêng khối lượng thì đơn thuần tiết lộ sự quan tâm... Chỉ khi khối lượng và giá kết hợp với nhau, chúng ta mới có phản ứng hóa học tạo ra sức mạnh bùng nổ của Phân tích Giá Khối lượng"* - **Anna Coulling**
 
@@ -105,8 +110,11 @@ Khối lượng: 1,048,490,000 (MỨC KỶ LỤC - cao nhất nhiều tuần)
 Biến động giá: +0.26% (CỰC THẤP cho mức khối lượng này)
 
 Phân tích VPA: NỖ LỰC CỰC LỚN (1.048 tỷ cổ phiếu) nhưng KẾT QUẢ CỰC KÉM (+3.47 điểm)
-→ Tỷ lệ nỗ lực/kết quả = 302 triệu cổ phiếu cho 1 điểm tăng (bình thường chỉ 50 triệu)
-→ Cảnh báo phân phối mạnh - Smart money đang bán ra!
+→ Tỷ lệ nỗ lực/kết quả = 302 triệu cổ phiếu cho 1 điểm tăng (bình thường 50-70 triệu)
+→ Anomaly ratio: 302 ÷ 60 = **5x bất thường**
+→ Cảnh báo phân phối mạnh - Smart money đang bán ra trong khi retail FOMO!
+
+> **Giải thích:** Cần 5 lần khối lượng bình thường để tạo ra cùng mức tăng điểm - dấu hiệu rõ ràng của sự kháng cự mạnh từ smart money.
 ```
 
 **Xác nhận:** VNINDEX giảm ngay phiên hôm sau -0.9%!

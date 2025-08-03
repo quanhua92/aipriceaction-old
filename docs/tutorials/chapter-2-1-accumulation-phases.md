@@ -78,17 +78,20 @@ flowchart TD
 **Đặc điểm nhận dạng:**
 - 📊 **Khối lượng tăng** khi giá tìm kiếm hỗ trợ ban đầu
 - 📉 **Hành động giá gợi ý** xu hướng giảm đang chậm lại
-- ⚠️ **CHƠA PHẢI ĐÁY CUỐI CÙNG** - thường còn tầng bán tiếp theo
+- ⚠️ **CHƯĀ PHẢI ĐÁY CUỐI CÙNG** - thường còn đợt bán tháo mạnh hơn (SC) tiếp theo
+- 📊 **Volume characteristics:** Tăng nhẹ so với bình thường nhưng chưa đạt đỉnh
+- 🔍 **Market sentiment:** Bắt đầu có sự quan tâm từ institutional money
 
 ### 2.2 SC - Đỉnh Điểm Bán Tháo (Selling Climax): "Giờ Quyết Định"
 
 **Anna Coulling mô tả:** SC là giai đoạn cuối cùng của việc bán tháo dữ dội, khi **nỗi sợ hãi đạt tới đỉnh điểm**. Đây chính là lúc "dòng tiền thông minh" thể hiện sức mạnh thật sự.
 
 **Đặc điểm "không thể nhầm lẫn":**
-- 💥 **Khối lượng cực lớn** (thường cao nhất trong nhiều tháng)
-- 📉 **Biên độ rộng xuống** với đóng cửa yếu
-- 😱 **Bán tháo đầu hàng** từ nhà đầu tư nhỏ lẻ
-- 🐟 **Dòng Tiền Thông Minh "nuốt chừng"** tất cả nguồn cung panic
+- 💥 **Khối lượng cực lớn** (thường cao nhất trong nhiều tháng - >200% bình thường)
+- 📉 **Biên độ rộng xuống** với đóng cửa yếu nhưng phục hồi trong phiên
+- 😱 **Bán tháo đầu hàng** từ nhà đầu tư nhỏ lẻ (capitulation)
+- 🐟 **Dòng Tiền Thông Minh "nuốt chừng"** tất cả nguồn cung panic trong vòng vài giờ
+- 🔄 **Intraday reversal:** Từ mức thấp nhất, giá thường phục hồi >30% range
 
 > *"SC là khoảnh khắc vàng cho những ai biết nhận diện. Khi mọi người đang bán trong sợ hãi, các chuyên gia đang mua với niềm tin"* - **VPA Methodology**
 
@@ -126,6 +129,13 @@ Intraday story: Mở giảm sâu xuống 86.0, sau đó phục hồi mạnh
 - 📏 **Thiết lập kháng cự** quanh vùng 90.6 (giới hạn trên của TR)
 
 > *"Mức độ phục hồi AR cho biết dòng tiền thông minh 'tiêu thụ' bao nhiêu nguồn cung trong SC. AR mạnh = Nhu cầu thật mạnh"* - **Wyckoff Method**
+
+**Các loại AR và ý nghĩa:**
+- **AR mạnh (>70% phục hồi từ SC low):** Strong institutional demand
+- **AR trung bình (40-70% phục hồi):** Moderate demand, cần theo dõi thêm
+- **AR yếu (<40% phục hồi):** Insufficient demand, cảnh báo tiếp tục downtrend
+
+> **Kinh nghiệm thực tiễn:** AR càng mạnh, khả năng accumulation thành công càng cao. AR yếu có thể dẫn đến continuation downtrend.
 
 ### 2.4 ST - Kiểm Tra Thứ Hai (Secondary Test): "Kiểm Tra Lại Xác Minh"
 

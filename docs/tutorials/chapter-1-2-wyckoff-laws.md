@@ -15,6 +15,8 @@ Sau khi hoàn thành chương này, học viên sẽ có khả năng:
 
 **Richard D. Wyckoff (1873-1934)** đã phát hiện ra rằng mọi biến động của thị trường đều tuân theo ba quy luật bất biến. Những quy luật này không chỉ áp dụng cho thị trường Mỹ thời ông mà còn có hiệu lực tuyệt đối trên thị trường chứng khoán Việt Nam ngày nay.
 
+> **Tại sao các quy luật vẫn có hiệu lực sau 100 năm?** Bởi vì chúng dựa trên tâm lý con người và hành vi cơ bản của thị trường - những yếu tố không thay đổi theo thời gian hay địa lý. Sự tham lam, sợ hãi, và logic kinh tế cơ bản vẫn giống nhau ở mọi thị trường.
+
 ```mermaid
 flowchart TD
     A[Ba Quy Luật Wyckoff] --> B[Quy Luật 1: Cung và Cầu]
@@ -43,6 +45,10 @@ Những quy luật này **không phải lý thuyết** mà là **quy luật tự
 - **Khi Cung = Cầu** → Giá đi ngang (trading range)
 
 Tuy nhiên, điều quan trọng không phải là **nhìn thấy kết quả** (giá tăng/giảm) mà là **đọc được dấu hiệu** của sự thay đổi trong cán cân cung cầu **trước khi** giá biến động mạnh.
+
+**Điểm khác biệt cơ bản:**
+- **Nhà đầu tư thông thường:** Phản ứng với giá đã thay đổi
+- **Người thành thạo VPA:** Dự đoán được thay đổi qua volume patterns
 
 ### 2.2 Case Study: TCB - Cuộc Chiến Cung Cầu Thực Tế
 
@@ -91,6 +97,8 @@ VPA Analysis:
 ```
 
 **Kết luận:** Cán cân cung-cầu đang dịch chuyển. Cung bắt đầu tăng cường.
+
+> **Lưu ý quan trọng:** High volume trên price decline thường là dấu hiệu của institutional selling hoặc smart money taking profits, khác với retail panic selling (thường có volume thấp hơn).
 
 #### Giai Đoạn 3: Cân Bằng Mới - Không Có Cung (11/06/2025)
 
@@ -141,6 +149,13 @@ VPA Analysis:
 - **Tích lũy dài và sâu** (Nguyên nhân lớn) → **Xu hướng tăng mạnh và bền** (Kết quả lớn)
 - **Phân phối rộng và kéo dài** (Nguyên nhân lớn) → **Xu hướng giảm sâu và lâu** (Kết quả lớn)
 - **Nguyên nhân nhỏ** → **Kết quả nhỏ**
+
+**Quan hệ tỷ lệ thực tế:**
+- 1 tháng accumulation → 1-2 tháng markup có thể
+- 3-6 tháng accumulation → 6-12 tháng markup mạnh
+- 12+ tháng accumulation → Multi-year bull run
+
+> **Insight:** Thời gian build cause thường tỷ lệ 1:2 đến 1:3 với thời gian effect. Cause càng lâu và sâu, effect càng mạnh và bền.
 
 ### 3.2 Case Study: VN-INDEX - Từ Nguyên Nhân Đến Kết Quả
 
@@ -296,6 +311,12 @@ Effort vs Result Analysis:
 > *"VN-Index giảm từ 1313.2 xuống 1301.39 (-0.9%). Volume: 850.78 triệu (vẫn cao)"*
 
 🎯 **Quy luật 3 đã dự báo chính xác 100%!**
+
+**Tại sao dự báo chính xác?**
+- Volume spike = effort cực lớn từ smart money
+- Price movement minimal = smart money đang absorb/distribute, không push
+- Imbalance này không thể duy trì lâu → correction là tất yếu
+- Timeframe xác nhận: thường 1-3 ngày cho daily signals
 
 ### 4.4 Case Study: HPG Topping Out Volume (30/05/2025)
 
