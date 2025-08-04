@@ -78,6 +78,9 @@
 **Ngày 2025-08-01:** AAA giảm từ 8.8 xuống 8.51. Cây nến đỏ có biên độ rộng (từ 8.45 đến 8.9), mở cửa tại mức đóng cửa phiên trước và giảm xuống vùng thấp nhất phiên. Khối lượng giao dịch giảm xuống 5.36 triệu đơn vị, giảm 55.4% so với phiên **SOS** trước đó và thấp hơn đáng kể so với mức kỷ lục 12.03 triệu đơn vị của ngày hôm trước. Giá đã thử nghiệm lại vùng kháng cự 8.9 nhưng không thể duy trì được mức cao.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tự nhiên sau phiên **SOS** cực mạnh của ngày hôm trước. Việc giá giảm trên khối lượng giảm mạnh cho thấy áp lực bán chốt lời xuất hiện nhưng không có sự tham gia tích cực của phe bán lớn. Sự sụt giảm đáng kể về khối lượng (từ 12.03 triệu xuống 5.36 triệu) khi giá giảm là dấu hiệu tích cực, cho thấy không có áp lực bán mạnh từ tay to. Việc giá vẫn duy trì trên mức 8.45 và không tạo ra mức thấp mới so với **Selling Climax** ngày 29/7 càng củng cố cho tín hiệu tích cực này. Đây có thể là giai đoạn nghỉ ngơi kỹ thuật sau nhịp tăng mạnh, chuẩn bị cho đợt tăng tiếp theo nếu **Test** này thành công.
+**Ngày 2025-08-04:** AAA tăng từ 8.51 lên 8.6. Cây nến xanh có biên độ vừa phải (từ 8.4 đến 8.69), mở cửa tại 8.55 và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 3.82 triệu đơn vị, giảm 28.7% so với phiên **Test for Supply** trước đó và tiếp tục xu hướng giảm khối lượng. Giá đã vượt qua mức đóng cửa ngày 31/7 (8.8) nhưng chưa thể kiểm tra lại vùng kháng cự 8.9.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tích cực, xác nhận thành công cho phiên **Test for Supply** của ngày hôm trước. Việc giá tăng trở lại và vượt qua mức 8.6 trên khối lượng giảm cho thấy không có áp lực bán mạnh và lực cầu vẫn đang kiểm soát. Mặc dù khối lượng tiếp tục giảm, nhưng việc giá duy trì được xu hướng tăng và đóng cửa gần đỉnh phiên cho thấy sự vắng mặt của nguồn cung là yếu tố chính. Chuỗi tín hiệu **Selling Climax** → **SOS** → **Test for Supply** → **SOS** trong 6 phiên gần đây tạo thành một pattern tích tụ bullish kinh điển theo Wyckoff. Việc giá tiếp tục duy trì trên vùng 8.4-8.6 với khối lượng giảm dần cho thấy cổ phiếu đang trong giai đoạn tích lũy mạnh, chuẩn bị cho đợt breakout tiếp theo lên vùng 8.9-9.0.
 
 ---
 
@@ -186,6 +189,9 @@
 **Ngày 2025-08-01:** ACB giao dịch đi ngang từ 23.0 xuống 23.0. Cây nến có biên độ hẹp (từ 22.8 đến 23.05) và đóng cửa tại mức mở cửa. Khối lượng giao dịch giảm mạnh xuống 7.32 triệu cổ phiếu, giảm 31% so với phiên **No Demand** trước đó và chỉ bằng 21.5% so với phiên **Selling Climax** ngày 29/7.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** thứ ba liên tiếp sau **Selling Climax** của ngày 29/7. Việc giá tiếp tục đi ngang trong vùng 23.0 với biên độ càng ngày càng thu hẹp và khối lượng sụt giảm liên tục cho thấy cả lực bán lẫn lực mua đều đang suy yếu. Khối lượng 7.32 triệu cổ phiếu là mức thấp nhất kể từ sau **Selling Climax**, báo hiệu áp lực bán đã cạn kiệt nhưng lực cầu vẫn chưa đủ mạnh để tạo ra phục hồi. Chuỗi 3 tín hiệu **No Demand** liên tiếp (**Selling Climax**, **No Demand**, **No Demand**, **No Demand**) cho thấy thị trường đang trong giai đoạn cân bằng sau cú sốc bán tháo. Việc giá duy trì được vùng 23.0 mà không bị thủng xuống dưới cho thấy có sự hỗ trợ tại mức này. Cần quan sát các phiên tiếp theo để xác định liệu đây có phải là quá trình tạo đáy trước khi bước vào giai đoạn tích lũy mới hay không.
+**Ngày 2025-08-04:** ACB tăng từ 23.0 lên 23.3. Cây nến tăng có biên độ hẹp (từ 22.8 đến 23.3) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng lên 11.14 triệu cổ phiếu, tăng 52.3% so với phiên **No Demand** trước đó nhưng vẫn ở mức thấp so với trung bình.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực đầu tiên sau chuỗi 3 phiên **No Demand** liên tiếp. Việc giá tăng và đóng cửa tại đỉnh phiên với khối lượng tăng đáng kể (mặc dù vẫn ở mức thấp) cho thấy lực cầu đã bắt đầu quay trở lại sau giai đoạn cân bằng. Sự kết hợp giữa việc giá vượt qua vùng kháng cự 23.0 và khối lượng tăng cho thấy có sự quan tâm mua vào trở lại. Đây có thể là dấu hiệu của việc kết thúc giai đoạn **No Demand** và bước đầu của quá trình phục hồi sau **Selling Climax** ngày 29/7. Tuy nhiên, cần quan sát thêm các phiên tiếp theo để xác nhận liệu đây có phải là khởi đầu của chu kỳ tăng giá mới hay chỉ là phản ứng kỹ thuật tạm thời.
 
 ---
 
@@ -297,6 +303,9 @@
 **Ngày 2025-08-01:** ACV tăng nhẹ từ 100.3 lên 100.6 với biên độ dao động từ 100.1 đến 101.8. Cây nến có thân nhỏ với bóng trên dài, cho thấy sự giằng co ở vùng cao. Khối lượng giao dịch giảm 25.4% xuống 606.3k đơn vị, thấp hơn đáng kể so với phiên **Automatic Rally** trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Automatic Rally** mạnh mẽ của ngày 31/7. Việc giá test lên mức cao 101.8 (gần với đỉnh phiên trước 101.0) nhưng chỉ tăng nhẹ 0.3 điểm trên khối lượng giảm mạnh cho thấy lực cầu đã yếu đi ở vùng cao này. Tín hiệu này cho thấy thị trường đang trong giai đoạn kiểm tra độ vững chắc của đợt phục hồi sau **Selling Climax**. Việc giá duy trì được trên mức 100.0 và không giảm sâu dưới vùng support là dấu hiệu tích cực, tuy nhiên khối lượng giảm mạnh cho thấy sự thiếu nhiệt tình của các nhà đầu tư ở vùng giá cao. Cần quan sát thêm để xác định liệu ACV có thể tái tạo momentum tăng giá hay sẽ có **Secondary Test** để kiểm tra lại vùng đáy trước khi tiếp tục xu hướng.
+**Ngày 2025-08-04:** ACV tăng mạnh từ 100.6 lên 101.8 với biên độ dao động từ 100.7 đến 102.6. Cây nến tăng có thân nến khá lớn và bóng trên ngắn, cho thấy sức mạnh tăng giá rõ rệt. Khối lượng giao dịch tăng 53.7% lên 931.8k đơn vị, cao hơn đáng kể so với phiên **Test for Demand** trước đó và đạt mức cao nhất trong 4 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ sau phiên **Test for Demand** của ngày 01/8. Việc giá vượt qua vùng kháng cự 101.8 (mức cao của phiên trước) và test lên 102.6 trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại quyết đoán. Sự kết hợp giữa **Automatic Rally** (31/7), **Test for Demand** (01/8) và **SOS** (04/8) tạo thành chuỗi tín hiệu phục hồi mạnh mẽ sau **Selling Climax** ngày 29/7. Việc giá đóng cửa gần đỉnh phiên (101.8 vs 102.6) và khối lượng tăng mạnh xác nhận ACV đã hoàn tất giai đoạn test và sẵn sàng cho đợt tăng giá tiếp theo. Tín hiệu này cho thấy tiềm năng cao để ACV thách thức lại vùng đỉnh lịch sử 102.4 trong thời gian tới.
 
 ---
 
@@ -407,6 +416,9 @@
 **Ngày 2025-08-01:** ANV giảm từ 23.45 xuống 22.9, mất 2.3% so với phiên trước. Cây nến giảm có biên độ hẹp (85 xu từ 22.7 đến 23.55) với bóng trên và bóng dưới, cho thấy sự dao động trong phiên. Khối lượng giao dịch giảm mạnh xuống 2.65 triệu đơn vị, thấp hơn 30% so với phiên **Automatic Rally** trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test** sau phiên **Automatic Rally**. Việc giá giảm nhẹ trên khối lượng thấp cho thấy áp lực bán đã giảm đáng kể so với giai đoạn **Selling Climax** của hai phiên trước (29-30/7). Khối lượng thấp trong phiên test này là dấu hiệu tích cực, cho thấy supply đã cạn kiệt sau đợt bán tháo. Việc giá duy trì trên vùng support 22.7 và không thể phá xuống dưới vùng thấp của phiên trước (22.4-22.45) xác nhận rằng lực cầu vẫn hỗ trợ tốt ở vùng này. **Secondary Test** với khối lượng thấp thường là tiền đề cho một đợt tăng giá mới, đặc biệt sau khi đã trải qua **Selling Climax** và **Automatic Rally**. ANV đang trong giai đoạn test cuối cùng trước khi có thể bắt đầu một **Sign of Strength** mới.
+**Ngày 2025-08-04:** ANV bùng nổ tăng mạnh từ 22.9 lên 24.5, tăng 7.0% sau giai đoạn **Secondary Test**. Cây nến tăng có biên độ rộng (190 xu từ 22.6 đến 24.5) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 10.86 triệu đơn vị, gấp hơn 4 lần phiên **Secondary Test** trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ sau chu kỳ **Selling Climax** → **Automatic Rally** → **Secondary Test** hoàn chỉnh. Việc giá bùng nổ từ vùng test 22.6-22.9 lên đỉnh 24.5 trên khối lượng tăng vọt xác nhận rằng smart money đã hoàn tất quá trình tích lũy ở vùng thấp và bắt đầu markup phase mới. Sự phá vỡ mạnh mẽ vùng kháng cự 23.5-24.0 với khối lượng khổng lồ cho thấy lực cầu đã quay trở lại quyết đoán. **SOS** này sau chu kỳ Wyckoff hoàn chỉnh tạo setup tăng giá rất mạnh, ANV có tiềm năng cao hướng tới vùng kháng cự tiếp theo tại 25.0-25.5 và có thể test lại vùng đỉnh lịch sử gần đây.
 
 ---
 
@@ -513,6 +525,9 @@
 **Ngày 2025-08-01:** BCM giảm từ 71.7 xuống 69.9, giảm 1.8 điểm (2.5%) sau phiên **SOS** mạnh mẽ hôm trước. Cây nến giảm có biên độ hẹp từ mức cao 71.9 xuống mức thấp 69.5, đóng cửa gần mức thấp nhất phiên tại 69.9. Khối lượng giao dịch giảm mạnh xuống 456.600 đơn vị, chỉ bằng 25% so với phiên **SOS** trước đó (1.801.500).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Reaction** điển hình sau phiên **SOS** mạnh mẽ hôm trước. Việc giá giảm từ 71.7 xuống 69.9 trên khối lượng giảm đáng kể (75% so với phiên trước) cho thấy đây là phản ứng tự nhiên sau đợt tăng mạnh, chứ không phải áp lực bán thực sự. Mức giảm 2.5% là hợp lý sau khi tăng 3.9% trong phiên trước, và việc giá vẫn duy trì trên mức 69.0 (đóng cửa phiên 30/7) chứng tỏ xu hướng tăng chưa bị phá vỡ. Khối lượng thấp trong phiên giảm là dấu hiệu tích cực, cho thấy không có áp lực bán từ institutional. Đây là giai đoạn consolidation cần thiết sau **SOS**, tạo nền tảng cho đợt tăng tiếp theo nếu lực cầu tiếp tục thể hiện ở vùng giá hiện tại.
+**Ngày 2025-08-04:** BCM phục hồi mạnh từ 69.9 lên 71.0, tăng 1.1 điểm (1.6%) sau phiên **Automatic Reaction** hôm trước. Cây nến tăng có biên độ hẹp từ mức thấp 68.9 đến mức cao 71.0, đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng lên 799.000 đơn vị, cao gấp 1.75 lần so với phiên **Automatic Reaction** trước đó (456.600).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** tích cực sau phiên **Automatic Reaction**. Việc giá test xuống mức thấp 68.9 (thấp hơn mức đóng cửa phiên trước) nhưng sau đó phục hồi mạnh mẽ và đóng cửa tại đỉnh phiên 71.0 cho thấy lực cầu đã xuất hiện quyết đoán ở vùng thấp hơn. Khối lượng tăng 75% kết hợp với việc đóng cửa tại mức cao nhất phiên chứng tỏ **Secondary Test** này thành công, xác nhận rằng **Automatic Reaction** của phiên trước chỉ là điều chỉnh kỹ thuật tạm thời. Việc giá quay trở lại gần mức cao của phiên **SOS** (71.7) trên khối lượng gia tăng cho thấy xu hướng tăng vẫn còn nguyên vẹn. Chuỗi tín hiệu **SOS** → **Automatic Reaction** → **Secondary Test** tạo nên pattern Wyckoff hoàn chỉnh, báo hiệu tiềm năng cao để BCM tiếp tục hướng lên các mức giá mới, có thể test lại vùng 73.0 hoặc cao hơn trong các phiên tới.
 
 ---
 
@@ -592,6 +607,9 @@
 **Ngày 2025-08-01:** BIC giảm từ 41.95 xuống 40.5. Cây nến giảm có biên độ rộng với mức cao 41.95 và mức thấp 39.55, đóng cửa ở mức trung bình phiên. Khối lượng giao dịch tăng lên 293.5k đơn vị, cao hơn 16.7% so với phiên **Test for Demand** trước đó và là mức cao thứ ba trong tháng 7-8 (sau các phiên Buying Climax và Test for Demand).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thất bại, tiếp tục xác nhận giai đoạn distribution sau Buying Climax. Việc giá test xuống vùng thấp mới tại 39.55 (thấp hơn cả mức test 40.8 của phiên trước) trên khối lượng tăng cho thấy áp lực bán vẫn đang chiếm ưu thế và lực cầu chưa đủ mạnh để hấp thụ. Mặc dù có sự phục hồi từ đáy phiên (39.55 lên 40.5) nhưng việc không thể duy trì mức giá cao hơn và tạo ra low thấp hơn so với phiên trước là dấu hiệu tiêu cực. Chuỗi 3 tín hiệu liên tiếp (Buying Climax → Test for Demand → Test for Demand thất bại) xác nhận rằng BIC đã chính thức bước vào giai đoạn điều chỉnh sau đợt tăng mạnh. Xu hướng ngắn hạn đã chuyển sang bearish và cần theo dõi các vùng hỗ trợ quan trọng khoảng 39.0-39.5 để xác định điểm dừng của đợt điều chỉnh này.
+**Ngày 2025-08-04:** BIC tăng nhẹ từ 40.5 lên 40.7. Cây nến tăng có biên độ hẹp với mức cao 40.9 và mức thấp 40.45, đóng cửa gần mức mở cửa. Khối lượng giao dịch giảm mạnh xuống 126.4k đơn vị, giảm 56.9% so với phiên **Test for Demand** thất bại trước đó và trở về mức bình thường sau chuỗi khối lượng cao kỷ lục.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau chuỗi Test for Demand thất bại. Việc giá chỉ tăng nhẹ 0.2 điểm trên khối lượng giảm mạnh cho thấy thiếu lực cầu mạnh để đẩy giá thoát khỏi vùng điều chỉnh. Mặc dù không có áp lực bán mạnh (thể hiện qua khối lượng thấp) nhưng việc không có lực mua tích cực xuất hiện để hỗ trợ giá tại vùng 40.0-41.0 cho thấy thị trường đang trong trạng thái cân bằng yếu ớt. Tín hiệu này xác nhận rằng giai đoạn distribution sau Buying Climax vẫn đang tiếp diễn, BIC cần thêm thời gian để tìm kiếm vùng cân bằng mới và tích lũy lực cầu trước khi có thể phục hồi xu hướng tăng. Cần theo dõi các phiên tiếp theo để xác định liệu sẽ xuất hiện buying support tại vùng 40.0 hay xu hướng điều chỉnh sẽ tiếp tục hướng về các vùng hỗ trợ thấp hơn.
 
 ---
 
@@ -700,6 +718,9 @@
 **Ngày 2025-08-01:** BID tiếp tục giảm từ 37.85 xuống 37.2 với biên độ giao động từ 37.1 đến 38.3. Cây nến giảm có body dài và đóng cửa gần mức thấp nhất phiên (37.2 vs 37.1), thể hiện áp lực bán vẫn tiếp tục sau giai đoạn Selling Climax. Khối lượng giao dịch tăng nhẹ lên 7.12 triệu đơn vị (+13.2% so với phiên trước), cao hơn so với 2 phiên gần đây nhưng vẫn thấp hơn đáng kể so với mức đỉnh 15.39 triệu của ngày 29/07.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test** của **Selling Climax** với đặc điểm tiêu cực. Sau Selling Climax ngày 29/07 (từ 39.65 xuống 37.4) và Automatic Rally yếu các phiên sau, việc giá tiếp tục test xuống vùng thấp 37.1-37.2 trên khối lượng tăng nhẹ cho thấy áp lực bán vẫn chưa cạn kiệt hoàn toàn. Mức thấp 37.1 đã thấp hơn cả mức thấp của Selling Climax (37.4), điều này cho thấy việc test đã không thành công và có thể báo hiệu thêm một đợt suy yếu nữa. Việc khối lượng tăng khi giá giảm xuống mức thấp mới là dấu hiệu cảnh báo, cho thấy vẫn còn nguồn cung áp lực. Cần theo dõi chặt chẽ để xem liệu vùng 37.0-37.2 có thể tạo thành support mạnh hay giá sẽ tiếp tục test xuống các mức thấp hơn. Chỉ khi nào xuất hiện tín hiệu mua mạnh với khối lượng cao thì mới có thể xác nhận việc hình thành đáy.
+**Ngày 2025-08-04:** BID phục hồi mạnh từ 37.2 lên 38.05 với biên độ giao động từ 37.2 đến 38.25. Cây nến tăng có body dài và đóng cửa gần mức cao nhất phiên, thể hiện sự phục hồi tích cực sau chuỗi giảm giá. Đáng chú ý, giá mở cửa đúng bằng mức đóng cửa phiên trước (37.2) và không test xuống thấp hơn, cho thấy áp lực bán đã giảm đáng kể. Khối lượng giao dịch giảm xuống 4.47 triệu đơn vị (-37.3% so với phiên trước), thấp nhất trong 5 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** sau **Secondary Test** thất bại. Sau khi test xuống mức thấp mới 37.1 ngày 01/08, việc giá phục hồi từ 37.2 lên 38.05 mà không cần test lại vùng thấp cho thấy lực cầu đã xuất hiện để hỗ trợ. Mặc dù khối lượng giảm nhưng đây là đặc điểm bình thường của Automatic Rally - khi áp lực bán giảm, giá có thể phục hồi ngay cả trên khối lượng thấp hơn. Việc giá đóng cửa gần mức cao nhất phiên (38.05 vs 38.25) và cao hơn 0.85 điểm so với phiên trước là dấu hiệu tích cực. Vùng 37.0-37.2 có vẻ đã tạo thành support tạm thời. Tuy nhiên, cần theo dõi thêm để xem liệu đây có phải là bắt đầu của giai đoạn phục hồi bền vững hay chỉ là một nhịp rally ngắn hạn trong xu hướng giảm tổng thể. Điểm quan trọng sẽ là khả năng vượt qua vùng kháng cự 38.5-39.0 trong các phiên tới.
 
 ---
 
@@ -779,6 +800,9 @@
 **Ngày 2025-08-01:** BMP giữ nguyên giá đóng cửa tại 140.7 so với phiên trước. Cây nến có biên độ hẹp với mức cao 142.2 và mức thấp 140.5, tạo thành một cây nến doji với bóng trên và bóng dưới. Khối lượng giao dịch giảm mạnh xuống 56.7k đơn vị, giảm 59.5% so với phiên **Effort to Fall** trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **Effort to Fall** của ngày hôm trước. Việc giá duy trì ở mức 140.7 mặc dù có test lên 142.2 nhưng đóng cửa không thay đổi, kết hợp với khối lượng giảm mạnh cho thấy cả áp lực bán và lực cầu đều yếu. Tín hiệu này báo hiệu rằng momentum giảm đang bắt đầu suy yếu và BMP có thể đang tiến gần đến một vùng cân bằng tạm thời. Việc giá vẫn duy trì trên support 140.5 và khối lượng bán giảm mạnh là dấu hiệu tích cực, cho thấy áp lực bán đang giảm dần. Cần quan sát các phiên tiếp theo để xác định liệu đây có phải là dấu hiệu dừng đà giảm và chuẩn bị cho sự phục hồi hay chỉ là consolidation tạm thời trước khi tiếp tục test xuống các mức thấp hơn.
+**Ngày 2025-08-04:** BMP tăng nhẹ từ 140.7 lên 141.1. Cây nến tăng có biên độ hẹp với mức cao 142.0 và mức thấp 140.7, tạo thành một cây nến nhỏ với bóng trên ngắn. Khối lượng giao dịch giảm mạnh xuống 38.0k đơn vị, giảm 33% so với phiên **No Demand** trước đó và là mức thấp nhất trong 10 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn sau chuỗi **Effort to Fall** và **No Demand** của các phiên trước. Việc giá tăng nhẹ nhưng trên khối lượng cực thấp (38k - thấp nhất trong giai đoạn) cho thấy không có lực cầu thực sự mạnh mẽ xuất hiện để hỗ trợ sự phục hồi. Mặc dù giá test lên 142.0 nhưng không thể duy trì và đóng cửa chỉ tăng nhẹ 0.4 điểm, cho thấy thiếu conviction từ phía người mua. Tín hiệu này xác nhận rằng BMP đang trong giai đoạn cân bằng với cả áp lực bán và lực cầu đều yếu. Việc giá vẫn dao động trong vùng 140.5-142.0 cho thấy thị trường đang tìm kiếm hướng đi rõ ràng và cần có catalyst mạnh hơn để thoát khỏi giai đoạn sideway hiện tại.
 
 ---
 
@@ -858,6 +882,9 @@
 **Ngày 2025-08-01:** BSI phục hồi từ 45.7 lên 46.2, tương đương mức tăng 0.5 điểm (+1.1%). Cây nến tăng có biên độ rộng với mức cao 46.9 và mức thấp 44.7, tạo bóng dưới dài 1.5 điểm và bóng trên ngắn 0.7 điểm. Khối lượng giao dịch tăng nhẹ lên 2.18 triệu đơn vị, cao hơn 2.1% so với phiên trước nhưng vẫn thấp hơn đáng kể so với phiên Buying Climax ngày 29/7.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** tích cực tiếp theo trong giai đoạn **Automatic Reaction** sau **Buying Climax**. Việc giá test xuống vùng thấp 44.7 (thấp hơn cả mức thấp của ngày 31/7 là 44.4) nhưng phục hồi mạnh mẽ và đóng cửa gần mức cao phiên trên khối lượng tăng nhẹ cho thấy áp lực bán đã được hấp thụ thành công. Bóng dưới dài 1.5 điểm kết hợp với việc tạo đáy thấp hơn nhưng đóng cửa cao hơn là dấu hiệu **No Supply** mạnh mẽ. Khối lượng tăng nhẹ so với phiên trước nhưng vẫn ở mức thấp cho thấy không có áp lực bán từ bên ngoài. Tín hiệu này báo hiệu giai đoạn **Automatic Reaction** có thể đang kết thúc và BSI sẵn sàng cho một đợt phục hồi mạnh hơn nếu có thêm lực cầu vào.
+**Ngày 2025-08-04:** BSI tăng mạnh từ 46.2 lên 46.95, tương đương mức tăng 0.75 điểm (+1.6%). Cây nến tăng có biên độ hẹp với mức cao 47.05 và mức thấp 45.9, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 1.57 triệu đơn vị, thấp hơn 28% so với phiên trước và duy trì ở mức thấp so với các phiên trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** mạnh mẽ tiếp theo sau phiên **Secondary Test** thành công của ngày 01/8. Việc giá tăng từ 46.2 lên 46.95 và test lên 47.05 trên khối lượng giảm đáng kể cho thấy không có áp lực bán từ bên ngoài và lực cầu đang chiếm ưu thế. Việc đóng cửa gần mức cao nhất phiên (46.95 vs 47.05) kết hợp với khối lượng thấp là dấu hiệu **Ease of Movement** điển hình, cho thấy BSI đang di chuyển lên một cách dễ dàng mà không gặp kháng cự đáng kể. Tín hiệu này xác nhận rằng giai đoạn **Automatic Reaction** sau **Buying Climax** đã kết thúc thành công và BSI đang bước vào giai đoạn phục hồi mới. Khả năng cao BSI sẽ tiếp tục test lên các vùng kháng cự cao hơn trong các phiên tới.
 
 ---
 
@@ -966,6 +993,9 @@
 **Ngày 2025-08-01:** BSR gap lên mạnh từ 20.4 lên 21.15 ngay phiên mở cửa và tiếp tục tăng đến mức cao 21.5 (+5.4% so với phiên trước). Cây nến tăng mạnh có biên độ rộng (1.0 điểm) với mức thấp 20.5, đóng cửa tại 20.7. Khối lượng giao dịch tăng 22.7% lên 18.69 triệu đơn vị, xác nhận sự quan tâm mạnh mẽ của nhà đầu tư.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, xác nhận hoàn hảo cho tín hiệu **Test for Supply thành công** của phiên trước. Việc giá gap lên mạnh và test đến mức cao mới 21.5 (cao nhất trong nhiều tháng) trên khối lượng tăng đáng kể cho thấy lực cầu đã quay trở lại một cách áp đảo sau giai đoạn test cung thành công. Mặc dù giá đóng cửa hơi thấp hơn mức cao nhất phiên (20.7 vs 21.5), nhưng điều này là bình thường sau một gap lên mạnh và không làm giảm tính chất tích cực của tín hiệu. Chuỗi tín hiệu **Test for Supply** → **Test for Supply thành công** → **SOS** tạo thành một mô hình Wyckoff hoàn hảo, xác nhận BSR đã chính thức bước vào giai đoạn Mark Up mới với tiềm năng tiếp tục kiểm tra các vùng kháng cự cao hơn trong các phiên tới.
+**Ngày 2025-08-04:** BSR giảm từ 20.7 xuống 20.5 (-1.0%). Cây nến giảm có biên độ trung bình với mức cao 21.05 và mức thấp 20.35, đóng cửa gần mức mở cửa (20.5). Khối lượng giao dịch giảm 29.6% xuống 13.16 triệu đơn vị so với phiên **SOS** trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Sign of Strength** mạnh mẽ trước đó. Việc giá giảm nhẹ trên khối lượng giảm đáng kể cho thấy không có áp lực bán mạnh sau đợt tăng gap lên. Mặc dù có test lên 21.05 (gần mức cao của phiên trước) nhưng không thể duy trì, điều này cho thấy có chốt lời tự nhiên ở vùng cao. Tuy nhiên, việc giá chỉ giảm nhẹ 1.0% và duy trì trên mức support 20.35 trên khối lượng thấp là dấu hiệu tích cực. Đây có thể là giai đoạn consolidation cần thiết sau chuỗi tăng mạnh, tạo nền tảng để tiếp tục xu hướng tăng trong các phiên tới.
 
 ---
 
@@ -1071,6 +1101,9 @@
 **Ngày 2025-08-01:** BVH phục hồi từ 49.5 lên 50.0. Cây nến tăng có biên độ hẹp (0.75 điểm) với mức cao 50.0 và mức thấp 49.25, đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch giảm xuống 849.3k đơn vị, thấp hơn 25% so với phiên **Effort to Fall** trước đó (1.132.8k). Giá tăng 0.75 điểm (+1.5%) từ mức đóng cửa phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Effort to Fall** của ngày hôm trước. Việc giá phục hồi từ vùng thấp 49.25 lên đóng cửa tại mức cao nhất phiên (50.0) trên khối lượng giảm 25% cho thấy lực cầu đã xuất hiện ở vùng support 49.0-49.25. Sự phục hồi quyết đoán kết hợp với khối lượng giảm cho thấy không có áp lực bán mạnh và có dấu hiệu **No Supply** tích cực. Tín hiệu này cho thấy vùng 49.0-49.25 có thể đã trở thành support quan trọng sau giai đoạn test. Việc giá có thể duy trì trên 50.0 trong các phiên tới sẽ xác nhận sự thành công của test for demand này và mở ra khả năng BVH kết thúc giai đoạn điều chỉnh để hướng tới sự phục hồi.
+**Ngày 2025-08-04:** BVH duy trì ở mức 50.0. Cây nến có biên độ hẹp (0.75 điểm) với mức cao 50.7 và mức thấp 49.95, mở cửa và đóng cửa cùng ở 50.0. Khối lượng giao dịch giảm xuống 667.4k đơn vị, thấp hơn 21% so với phiên **Test for Demand** trước đó (849.3k). Giá không thay đổi so với mức đóng cửa phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau phiên **Test for Demand** thành công của ngày hôm trước. Việc giá duy trì ổn định tại 50.0 và có thể test lên 50.7 nhưng không có áp lực bán mạnh trên khối lượng giảm cho thấy supply đã cạn kiệt ở vùng này. Sự ổn định của giá kết hợp với khối lượng giảm xác nhận rằng test for demand tại vùng 49.0-49.25 đã thành công và BVH đang consolidate trên support 50.0. Tín hiệu **No Supply** này là dấu hiệu tích cực cho thấy áp lực bán đã giảm đáng kể sau giai đoạn điều chỉnh trước đó. Việc giá có thể duy trì trên 50.0 với khối lượng thấp cho thấy BVH đang chuẩn bị cho giai đoạn phục hồi tiếp theo.
 
 ---
 
@@ -1111,6 +1144,9 @@
 **Ngày 2025-08-01:** C4G tăng nhẹ từ 8.8 lên 8.9. Cây nến tăng có biên độ tương đối với mức cao 9.1 và mức thấp 8.6, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 1.79 triệu đơn vị, giảm 20.5% so với phiên trước và duy trì ở mức thấp.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau chuỗi **Test for Supply** thành công trong các phiên trước. Việc giá tăng nhẹ và test lên 9.1 trên khối lượng giảm cho thấy áp lực bán đã cạn kiệt ở vùng này. Khối lượng thấp kết hợp với việc đóng cửa gần mức cao nhất phiên chứng tỏ phe mua vẫn duy trì kiểm soát nhưng không cần nỗ lực lớn để đẩy giá lên. Tín hiệu **No Supply** này sau chuỗi test thành công xác nhận C4G đã hoàn tất giai đoạn consolidate và sẵn sàng cho đợt breakout tiếp theo, đặc biệt khi giá đã test thành công vùng support 8.6-8.8 nhiều lần trong tuần qua.
+**Ngày 2025-08-04:** C4G tăng mạnh từ 8.9 lên 9.2. Cây nến tăng có biên độ tốt với mức cao 9.2 và mức thấp 8.8, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 3.01 triệu đơn vị, tăng 68% so với phiên trước và cao hơn đáng kể so với các phiên consolidate gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ xác nhận breakout thành công sau chuỗi **No Supply** và **Test for Supply** tích cực trong các phiên trước. Việc giá tăng 3.4% và đóng cửa ở mức cao nhất phiên (9.2) trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại quyết đoán sau giai đoạn consolidate dài. Khối lượng tăng mạnh kết hợp với việc vượt qua vùng kháng cự 9.0-9.1 xác nhận C4G đã hoàn tất chu kỳ test và sẵn sàng tiếp tục xu hướng tăng mạnh. Tín hiệu **SOS** này sau chuỗi tín hiệu tích cực trước đó báo hiệu C4G có tiềm năng kiểm tra các vùng kháng cự cao hơn trong thời gian tới.
 
 ---
 
@@ -1188,6 +1224,9 @@
 **Ngày 2025-08-01:** CII phục hồi từ 16.5 lên 16.5. Cây nến có biên độ hẹp với mức cao 17.1 và mức thấp 16.15, tạo bóng trên 0.6 điểm. Đóng cửa tại mức mở cửa, cho thấy sự cân bằng giữa lực mua và bán trong phiên. Khối lượng giao dịch giảm 35.3% xuống 24.87 triệu đơn vị so với phiên **Test for Supply** trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Result** sau phiên **Test for Supply** trước đó. Việc giá test lên mức cao 17.1 (cao hơn đáng kể so với vùng kháng cự 16.8-17.0) nhưng bị bán xuống và đóng cửa tại mức mở cửa 16.5 trên khối lượng giảm mạnh cho thấy lực cầu chưa đủ mạnh để vượt qua vùng kháng cự. Bóng trên dài kết hợp với việc đóng cửa thấp hơn mức cao nhất 0.6 điểm cho thấy áp lực bán vẫn tồn tại ở vùng cao hơn. Tuy nhiên, việc giá duy trì trên support 16.15 và khối lượng giảm đáng kể là dấu hiệu tích cực, cho thấy không có áp lực bán mạnh. CII đang trong giai đoạn consolidation, cần thêm thời gian để tích lũy lực cầu trước khi có thể vượt qua vùng kháng cự 17.0-17.1.
+**Ngày 2025-08-04:** CII tăng từ 16.5 lên 16.95. Cây nến tăng có biên độ tốt với mức cao 17.15 và mức thấp 16.4, tạo bóng trên ngắn 0.2 điểm. Đóng cửa gần mức cao nhất phiên, cách đỉnh chỉ 0.2 điểm. Khối lượng giao dịch tăng 27% lên 31.6 triệu đơn vị so với phiên **No Result** trước đó, cho thấy sự quan tâm gia tăng trong phiên phục hồi.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tích cực sau phiên **No Result** trước đó. Việc giá vượt qua vùng kháng cự 16.8-17.0 và test lên mức cao 17.15 (cao nhất kể từ sau phiên **Buying Climax** ngày 29/7) trên khối lượng tăng mạnh cho thấy lực cầu đã tích lũy đủ sức mạnh. Việc đóng cửa tại 16.95, gần mức cao nhất và cao hơn đáng kể so với phiên trước (16.5) kết hợp với bóng trên ngắn cho thấy áp lực mua đang chiếm ưu thế. Tín hiệu **SOS** này xác nhận rằng giai đoạn consolidation sau **Buying Climax** có thể đã hoàn tất và CII sẵn sàng cho đợt tăng tiếp theo, với mục tiêu test lại vùng 17.5-18.0.
 
 ---
 
@@ -1295,6 +1334,9 @@
 **Ngày 2025-08-01:** CMG giảm nhẹ từ 40.6 xuống 40.0. Cây nến giảm có biên độ hẹp với mức cao 40.7 và mức thấp 39.8, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm mạnh xuống 0.96 triệu đơn vị, thấp hơn 39.4% so với phiên **Automatic Rally** trước đó và là mức thấp nhất trong 10 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test** sau **Automatic Rally**. Việc giá giảm nhẹ và test lại vùng thấp gần 39.8 (gần với mức thấp 39.0 của phiên trước) trên khối lượng giảm mạnh cho thấy áp lực bán đã yếu đi đáng kể. Biên độ dao động hẹp chỉ 0.9 điểm và khối lượng thấp chứng tỏ không có sự quan tâm lớn từ cả phe mua và phe bán. Tín hiệu **Secondary Test** này trên khối lượng thấp sau **Automatic Rally** là dấu hiệu tích cực, cho thấy CMG đang hoàn tất giai đoạn test sau selling climax và có thể bước vào giai đoạn tích lũy mới. Cần quan sát các phiên tiếp theo để xác nhận liệu đây có phải là khởi đầu của chu kỳ tích lũy mới hay vẫn trong giai đoạn test.
+**Ngày 2025-08-04:** CMG giảm nhẹ từ 39.6 xuống 39.7. Cây nến giảm có biên độ hẹp với mức cao 40.0 và mức thấp 39.45, đóng cửa gần mức trung bình phiên. Khối lượng giao dịch tăng lên 1.41 triệu đơn vị, tăng 47.4% so với phiên **Secondary Test** trước đó nhưng vẫn thấp hơn đáng kể so với các phiên có tín hiệu mạnh trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau giai đoạn **Secondary Test**. Việc giá test lên mức cao 40.0 (gần với mức đóng cửa 40.0 của phiên trước) nhưng không thể duy trì và giảm nhẹ xuống 39.7 trên khối lượng tăng vừa phải cho thấy vẫn còn một chút áp lực bán ở vùng 40.0. Tuy nhiên, việc giá chỉ giảm nhẹ 0.3 điểm và đóng cửa ở mức trung bình phiên (39.7) thay vì mức thấp nhất (39.45) cho thấy lực cầu vẫn có mặt để hỗ trợ. Biên độ dao động hẹp 0.55 điểm và khối lượng vẫn ở mức thấp so với các phiên volatility cao trước đó thể hiện thị trường đang trong giai đoạn cân bằng. Tín hiệu **Test for Supply** này sau **Secondary Test** là bước bình thường trong quá trình hình thành nền tảng tích lũy mới sau selling climax.
 
 ---
 
@@ -1377,6 +1419,9 @@
 **Ngày 2025-08-01:** CSC bùng nổ từ 22.7 lên 24.9, tăng 9.7%. Cây nến tăng mạnh có biên độ rộng với mức mở cửa 23.0, high 24.9 và low 22.9, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tiếp tục tăng mạnh lên 390.7k đơn vị, tăng 75% so với phiên trước và đạt mức cao nhất kể từ đầu năm.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Strength (SOS)** mạnh mẽ xuất hiện. Sau tín hiệu **Sign of Strength** của phiên trước, khối lượng tiếp tục bùng nổ (390.7k vs 223.8k) kèm theo giá vượt qua mạnh mẽ vùng kháng cự 23.0-23.4 và đóng cửa ở mức cao nhất phiên (24.9). Việc giá tăng gần 10% với khối lượng gấp đôi mức bình thường cho thấy lực cầu institutional đã vào mạnh mẽ. Sự breakout vượt qua vùng consolidation 21.6-23.4 với volume confirmation cho thấy xu hướng tăng mới đang được thiết lập. Đây là tín hiệu markup phase đầu tiên sau giai đoạn accumulation/test supply kéo dài.
+**Ngày 2025-08-04:** CSC dao động từ 24.9 lên 26.9 rồi về 24.9, đi ngang tại mức đóng cửa. Cây nến doji có biên độ rộng với mức mở cửa 24.9, high 26.9 và low 24.4, đóng cửa trở lại điểm xuất phát. Khối lượng giao dịch giảm mạnh xuống 193.2k đơn vị, giảm 51% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện. Sau tín hiệu **Sign of Strength** mạnh mẽ của phiên trước, giá test lên mức cao mới 26.9 (tăng 8% từ điểm mở) nhưng bị đẩy xuống và đóng cửa trở lại mức xuất phát với khối lượng giảm đáng kể. Việc khối lượng giảm từ 390.7k xuống 193.2k kèm theo sự thất bại trong việc duy trì mức giá cao cho thấy áp lực cung đã xuất hiện ở vùng 26.9. Tuy nhiên, việc giá được hỗ trợ mạnh tại 24.9 và không phá vỡ support quan trọng này cho thấy lực cầu vẫn còn. Đây là giai đoạn kiểm tra nguồn cung sau breakout, cần quan sát phản ứng của thị trường trong các phiên tiếp theo để xác định khả năng tiếp tục xu hướng tăng.
 
 ---
 
@@ -1458,6 +1503,9 @@
 **Ngày 2025-08-01:** CST giảm nhẹ từ 15.5 xuống 15.4. Cây nến giảm có biên độ hẹp với mức high 15.5 và low 15.3, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch sụt giảm mạnh về 34.5k đơn vị, giảm 60% so với phiên trước và là mức thấp nhất trong 2 tuần qua.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau tín hiệu **Test for Demand** của phiên trước, việc giá chỉ giảm nhẹ từ 15.5 xuống 15.4 với khối lượng sụt giảm mạnh cho thấy áp lực bán đã cạn kiệt ở vùng thấp này. Mặc dù giá test xuống vùng 15.3 (thấp hơn cả mức 15.4 của ngày 29/7) nhưng việc khối lượng giảm đáng kể thể hiện không có selling pressure thực sự. Điều này cho thấy những nhà đầu tư còn muốn bán đã rút lui, tạo điều kiện thuận lợi cho sự ổn định giá trong các phiên tới. Vùng 15.3-15.4 đang được thiết lập như một support zone quan trọng.
+**Ngày 2025-08-04:** CST giảm nhẹ từ 15.4 xuống 15.3. Cây nến giảm có biên độ hẹp với mức high 15.4 và low 15.2, đóng cửa ở mức high của phiên. Khối lượng giao dịch tăng lên 64.1k đơn vị, tăng 86% so với phiên trước nhưng vẫn thấp hơn mức trung bình gần đây.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Demand** xuất hiện. Sau tín hiệu **No Supply** của phiên trước, việc giá test xuống mức thấp mới 15.2 (thấp hơn cả support 15.3 đã được thiết lập) nhưng khối lượng tăng đáng kể cho thấy có lực cầu xuất hiện để hỗ trợ ở vùng thấp. Điều đáng chú ý là giá đóng cửa ở mức high nhất phiên (15.3) sau khi test xuống 15.2, thể hiện sự hấp thụ tốt của áp lực bán. Việc khối lượng tăng 86% kèm theo việc giá phục hồi từ mức thấp cho thấy có buying interest khi giá về vùng attractive. Vùng 15.2-15.3 đang được xác nhận như một support zone mạnh và thị trường có thể chuẩn bị cho giai đoạn ổn định hoặc phục hồi tiếp theo.
 
 ---
 
@@ -1565,6 +1613,9 @@
 **Ngày 2025-08-01:** CTD tăng từ 81.0 lên 82.0. Cây nến tăng có biên độ hẹp với mức mở cửa 81.5, high 82.4 và low 80.7. Khối lượng giao dịch giảm về 946.5k đơn vị, giảm 22% so với phiên trước.
 
 - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau phiên **Test for Supply** của ngày trước, mặc dù giá tiếp tục tăng nhẹ từ 81.0 lên 82.0 nhưng khối lượng giảm đáng kể cho thấy thiếu lực cầu thực sự để duy trì đà phục hồi. Việc giá mở cửa thấp hơn mức đóng cửa phiên trước (81.5 vs 81.0) nhưng vẫn có thể đẩy lên 82.4 rồi đóng cửa ở 82.0 trên nền khối lượng giảm thể hiện sự thiếu bền vững trong xu hướng phục hồi. Sau cú sốc mạnh từ ngày 29/7, thị trường vẫn đang trong giai đoạn dao động và chưa có đủ conviction từ nhà đầu tư để xác nhận việc tìm được đáy ổn định.
+**Ngày 2025-08-04:** CTD giảm từ 82.0 xuống 81.2. Cây nến giảm có biên độ hẹp với mức mở cửa 81.0, high 82.2 và low 81.0. Khối lượng giao dịch giảm về 729.7k đơn vị, giảm 23% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Demand** tiếp tục xuất hiện. Sau hai phiên **No Demand** liên tiếp, giá tiếp tục có biến động nhẹ trong biên độ hẹp nhưng khối lượng tiếp tục suy giảm cho thấy sự thiếu quan tâm rõ rệt từ cả buyers và sellers. Việc giá mở cửa thấp hơn mức đóng cửa phiên trước (81.0 vs 82.0) và chỉ có thể test lên 82.2 trước khi quay về đóng cửa ở 81.2 trên nền khối lượng thấp nhất trong chuỗi phục hồi thể hiện động lực phục hồi đang cạn kiệt. Sau cú sốc từ ngày 29/7, thị trường đang trong giai đoạn consolidation với xu hướng sideways, cần có catalyst mới hoặc khối lượng bùng nổ để xác định hướng đi tiếp theo.
 
 ---
 
@@ -1653,6 +1704,9 @@
 **Ngày 2025-08-01:** CTG giảm từ 45.9 xuống 44.3. Cây nến giảm có biên độ rộng với mức mở cửa 46.0, high 46.0 và low 44.15, đóng cửa ở mức 44.3. Khối lượng giao dịch giảm về 16.22 triệu đơn vị, giảm 16% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **Sign of Weakness (SOW)** xuất hiện. Sau phiên **Test for Supply** của phiên trước, việc giá mở cửa thấp hơn (46.0 so với đóng cửa 45.9) và tiếp tục giảm mạnh xuống 44.3 cho thấy áp lực bán đã trở nên mạnh mẽ hơn. Việc đóng cửa gần mức thấp nhất phiên (44.15) với khối lượng vẫn cao (16.22 triệu) thể hiện lực bán đang chiếm ưu thế. Giá đã phá vỡ support quan trọng ở vùng 45.0 và đang test xuống vùng 44.0. Đây là tín hiệu tiêu cực, cho thấy đợt phục hồi mạnh mẽ từ phiên 30/7 có thể đã kết thúc và thị trường đang bước vào giai đoạn điều chỉnh sâu hơn.
+**Ngày 2025-08-04:** CTG phục hồi mạnh từ 44.3 lên 45.65. Cây nến tăng có biên độ rộng với mức mở cửa 44.0, high 45.75 và low 43.6, đóng cửa ở 45.65. Khối lượng giao dịch giảm đáng kể xuống 9.70 triệu đơn vị, giảm 40% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện. Sau tín hiệu **Sign of Weakness** của phiên trước, việc giá mở cửa thấp (44.0) nhưng phục hồi mạnh mẽ lên 45.65 với khối lượng giảm đáng kể cho thấy áp lực bán đã cạn kiệt. Việc test xuống vùng thấp 43.6 (gần support quan trọng) rồi đóng cửa cao gần mức đỉnh phiên (45.75) thể hiện lực cầu đã can thiệp mạnh mẽ tại vùng hỗ trợ. Khối lượng giảm 40% trong khi giá tăng 3.0% là dấu hiệu tích cực mạnh, xác nhận rằng lực bán đã yếu đi và xu hướng giảm ngắn hạn có thể đã kết thúc. Đây là tín hiệu phục hồi tích cực sau giai đoạn test, cho thấy tiềm năng tái lập xu hướng tăng.
 
 ---
 
@@ -1760,6 +1814,9 @@
 **Ngày 2025-08-01:** CTR giao dịch trong biên độ hẹp từ 90.5 xuống 90.0. Cây nến giảm nhẹ có biên độ rộng với mức high 92.4 và low 89.7, đóng cửa gần mức thấp phiên. Khối lượng giao dịch giảm xuống 1.19 triệu đơn vị, giảm 18% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau chuỗi **Effort to Fall** mạnh mẽ của hai phiên trước. Việc giá test lên mức 92.4 nhưng bị bán tháo về 89.7 với khối lượng giảm đáng kể so với phiên panic selling trước đó cho thấy áp lực bán đã bắt đầu cạn kiệt. Mặc dù giá vẫn đóng cửa thấp (90.0), việc low của phiên (89.7) không phá vỡ sâu hơn mức 89.9 của phiên trước và khối lượng giảm 18% là dấu hiệu tích cực. CTR có thể đang trong giai đoạn tìm kiếm sàn ở vùng 89-90, nhưng cần thêm xác nhận từ các phiên tiếp theo với volume giảm hoặc xuất hiện tín hiệu **No Supply**.
+**Ngày 2025-08-04:** CTR phục hồi mạnh từ 90.0 lên 92.3. Cây nến tăng có biên độ rộng với mức mở cửa 91.0, high 93.4 và low 90.7, đóng cửa gần mức cao của phiên. Khối lượng giao dịch giảm mạnh xuống 481.6k đơn vị, giảm 59% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện sau tín hiệu **Test for Supply** của phiên trước. Việc giá tăng mạnh 2.6% với khối lượng giảm đáng kể từ 1.19 triệu xuống 481.6k đơn vị cho thấy áp lực bán đã cạn kiệt. Giá test lên mức cao 93.4 và đóng cửa tại 92.3, gần mức high của phiên, thể hiện lực cầu đã quay trở lại mạnh mẽ khi không còn nguồn cung lớn. Sau chuỗi **Effort to Fall** và **Test for Supply** của các phiên trước, tín hiệu **No Supply** này là dấu hiệu tích cực cho thấy CTR có thể đã tìm được sàn ở vùng 89-90 và bắt đầu giai đoạn phục hồi. Cần theo dõi các phiên tiếp theo để xác nhận xu hướng tăng.
 
 ---
 
@@ -1800,6 +1857,9 @@
 **Ngày 2025-08-01:** CTS giảm từ 40.8 xuống 39.3 (-3.68%), mất 1.5 điểm so với phiên trước. Cây nến đỏ có biên độ rộng 3.1 điểm (từ 39.0 đến 42.1), spread mở rộng đáng kể so với phiên trước. Khối lượng giao dịch tăng lên 4.67 triệu cổ phiếu (+39.3% so với phiên trước), cao nhất trong 4 phiên qua nhưng vẫn thấp hơn đáng kể so với đợt panic selling ngày 29/7.
 
 - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tình trạng **Lack of Interest** của phiên trước, việc giá giảm mạnh kèm theo volume tăng đáng kể cho thấy áp lực bán đã quay trở lại. Mặc dù volume chưa bằng đợt panic selling ngày 29/7 (8.72 triệu) nhưng việc tăng 39% so với phiên trước trong bối cảnh giá giảm là tín hiệu tiêu cực. Giá test lại vùng support 39.0 (gần mức thấp 37.05 của ngày 30/7) cho thấy xu hướng giảm vẫn chưa kết thúc sau cú sốc mạnh từ đầu tuần trước.
+**Ngày 2025-08-04:** CTS phục hồi mạnh từ 39.3 lên 40.65 (+3.44%), tăng 1.35 điểm so với phiên trước. Cây nến xanh có biên độ rộng 2.7 điểm (từ 38.0 đến 40.7), spread tương đương phiên trước nhưng hướng ngược lại. Khối lượng giao dịch giảm về 3.27 triệu cổ phiếu (-29.8% so với phiên trước), thấp hơn đáng kể so với phiên SOW trước đó.
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu **Sign of Weakness** của phiên trước, việc giá phục hồi mạnh nhưng với khối lượng giảm đáng kể cho thấy đây là phiên test khả năng hấp thụ của thị trường. Giá test lại vùng support 38.0 (gần các mức thấp trước đó 37.05 và 39.0) và phục hồi tốt lên 40.65 với volume thấp hơn, điều này tích cực vì cho thấy áp lực bán đã giảm bớt. Mặc dù chưa thể khẳng định đảo chiều hoàn toàn sau chuỗi SOW từ ngày 29/7, nhưng khả năng CTS đang hình thành vùng support quanh 38.0-39.0 là khá cao. Cần theo dõi các phiên tiếp theo để xác nhận xu hướng.
 
 ---
 
@@ -1902,6 +1962,9 @@
 **Ngày 2025-08-01:** DBC phục hồi từ 33.6 lên 34.2. Cây nến tăng có biên độ vừa phải với mức mở cửa 33.95 và dao động trong khoảng 33.5-34.6. Khối lượng giao dịch giảm tiếp về 8.69 triệu đơn vị, giảm 12% so với phiên trước và tiếp tục duy trì ở mức thấp.
 
 - **Phân tích VPA/Wyckoff:** Tình trạng **Test for Demand** yếu ớt xuất hiện. Sau tín hiệu **No Demand** của phiên trước, việc giá phục hồi nhẹ từ vùng thấp 33.5 lên 34.2 nhưng với khối lượng tiếp tục giảm cho thấy lực cầu vẫn chưa trở lại mạnh mẽ. Mặc dù có sự phục hồi nhẹ nhưng khối lượng thấp (8.69 triệu) so với các phiên giảm mạnh trước đó cho thấy thiếu sự tham gia của nhà đầu tư lớn. Tín hiệu này cho thấy thị trường vẫn đang trong giai đoạn không rõ hướng và cần thêm xác nhận từ khối lượng để xác định xu hướng tiếp theo.
+**Ngày 2025-08-04:** DBC tăng nhẹ từ 34.2 lên 34.5. Cây nến tăng có biên độ hẹp với mức mở cửa 34.2 và dao động trong khoảng 34.2-34.7. Khối lượng giao dịch tiếp tục giảm về 7.06 triệu đơn vị, giảm 19% so với phiên trước và duy trì ở mức thấp nhất trong 5 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện yếu ớt. Sau tín hiệu **Test for Demand** của phiên trước, việc giá tăng nhẹ với khối lượng tiếp tục giảm cho thấy áp lực bán đã cạn kiệt ở vùng giá này nhưng lực cầu vẫn chưa đủ mạnh để tạo ra đột phá rõ ràng. Việc giá có thể duy trì xu hướng tăng nhẹ với khối lượng thấp cho thấy thị trường đang thiếu nguồn cung nhưng cũng thiếu động lực mua mạnh. Tín hiệu này mang tính trung tính với xu hướng tích cực nhẹ, cần theo dõi khối lượng trong các phiên tới để xác nhận sự trở lại của lực cầu.
 
 ---
 
@@ -2006,6 +2069,9 @@
 **Ngày 2025-08-01:** DCM giảm từ 35.85 xuống 35.75. Cây nến giảm có biên độ rộng với mức mở cửa 36.1 và dao động trong khoảng 35.05-36.1. Khối lượng giao dịch giảm nhẹ về 5.48 triệu đơn vị, giảm 2% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** tiếp tục được xác nhận. Tiếp nối tín hiệu **No Demand** của phiên trước, việc giá tiếp tục giảm với khối lượng duy trì ở mức thấp cho thấy sự thiếu vắng lực cầu rõ rệt. Mặc dù mở cửa tích cực ở 36.1 nhưng giá bị đẩy xuống mức low 35.05 - thấp nhất trong giai đoạn gần đây, sau đó phục hồi nhẹ để đóng cửa ở 35.75. Việc khối lượng không tăng khi giá test xuống vùng thấp cho thấy chưa có sự quan tâm từ người mua tại các mức giá này. Xu hướng giảm ngắn hạn có thể tiếp diễn nếu không có tín hiệu **Selling Climax** hoặc **Test for Support** tích cực xuất hiện.
+**Ngày 2025-08-04:** DCM tăng từ 35.75 lên 36.35. Cây nến tăng có biên độ rộng với mức mở cửa 36.0 và dao động trong khoảng 35.9-37.45. Khối lượng giao dịch tăng lên 7.67 triệu đơn vị, tăng 40% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Demand** tích cực xuất hiện. Sau hai phiên **No Demand** liên tiếp với giá giảm và khối lượng thấp, việc giá tăng từ 35.75 lên 36.35 kèm theo khối lượng tăng 40% cho thấy lực cầu đã bắt đầu quay trở lại. Đặc biệt, việc giá test lên mức high 37.45 - cao nhất kể từ ngày 29/7 - cho thấy có sự quan tâm mạnh mẽ từ người mua ở vùng giá này. Mặc dù không thể duy trì mức cao và đóng cửa ở 36.35, nhưng việc khối lượng tăng đáng kể so với hai phiên trước là tín hiệu tích cực cho thấy khả năng kết thúc giai đoạn **No Demand** và bắt đầu xu hướng phục hồi.
 
 ---
 
@@ -2107,6 +2173,9 @@
 **Ngày 2025-08-01:** DGC giảm từ 102.9 xuống 101.6. Cây nến giảm có biên độ hẹp với mức mở cửa 102.3, dao động trong khoảng 101.6-103.0 và đóng cửa ở mức thấp nhất phiên 101.6. Khối lượng giao dịch giảm về 1.65 triệu đơn vị, giảm 21% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** tiếp tục diễn ra. Sau phiên **Test for Supply** của ngày 31/7, việc giá tiếp tục giảm nhẹ và đóng cửa ở mức thấp nhất phiên với khối lượng giảm đáng kể cho thấy áp lực bán vẫn còn yếu và không có sự tham gia mạnh mẽ của lực bán. Việc khối lượng giảm liên tục trong 2 phiên test cho thấy lực cung đang cạn kiệt dần. Đây là dấu hiệu tích cực khi thị trường đang hấp thụ áp lực bán chốt lời một cách hiệu quả, tạo tiền đề cho khả năng phục hồi trong các phiên tới.
+**Ngày 2025-08-04:** DGC tăng mạnh từ 101.6 lên 103.2. Cây nến tăng có biên độ hẹp với mức mở cửa 101.7, dao động trong khoảng 101.6-103.2 và đóng cửa ở mức cao nhất phiên 103.2. Khối lượng giao dịch giảm về 1.39 triệu đơn vị, giảm 16% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện mạnh mẽ. Sau 2 phiên **Test for Supply** liên tiếp với khối lượng giảm dần, việc giá tăng mạnh 1.6 điểm và đóng cửa ở mức cao nhất phiên với khối lượng tiếp tục giảm cho thấy áp lực bán đã cạn kiệt hoàn toàn. Việc giá có thể tăng dễ dàng mà không gặp kháng cự đáng kể xác nhận quá trình test cung cấp đã thành công và thị trường đã sẵn sàng cho đợt tăng giá tiếp theo. Đây là tín hiệu rất tích cực cho triển vọng ngắn hạn.
 
 ---
 
@@ -2187,6 +2256,9 @@
 **Ngày 2025-08-01:** DGW phục hồi từ 42.55 lên 43.4. Cây nến tăng có biên độ hẹp với mức mở cửa 42.6 và dao động trong khoảng 42.5-43.6. Khối lượng giao dịch tăng nhẹ lên 1.65 triệu đơn vị, tăng 8% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** xuất hiện. Sau 2 phiên **No Supply** liên tiếp, việc giá phục hồi nhẹ 0.85 điểm với khối lượng tăng nhỏ cho thấy lực cầu vẫn còn yếu ớt. Mặc dù áp lực bán đã cạn kiệt như thể hiện ở các phiên trước, lực mua chưa đủ mạnh để tạo ra đà phục hồi thực sự. Việc test lên mức 43.6 nhưng chỉ đóng cửa ở 43.4 trên nền khối lượng khiêm tốn thể hiện sự do dự của nhà đầu tư. Đây là giai đoạn tích lũy và cần theo dõi thêm để xác nhận xu hướng tiếp theo.
+**Ngày 2025-08-04:** DGW tăng mạnh từ 43.4 lên 44.7. Cây nến tăng có biên độ rộng với mức mở cửa 43.5 và đóng cửa ở mức cao nhất phiên 44.7. Khối lượng giao dịch giảm nhẹ xuống 1.59 triệu đơn vị, giảm 4% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện mạnh mẽ. Sau giai đoạn **No Demand** của phiên trước, việc giá tăng vững chắc 1.3 điểm và đóng cửa ở mức cao nhất phiên trên nền khối lượng giảm nhẹ cho thấy áp lực bán đã hoàn toàn cạn kiệt. Đây là tín hiệu rất tích cực, xác nhận quá trình hấp thụ cung đã hoàn tất sau đợt panic selling ngày 29/7. Việc giá có thể tăng mạnh mà không cần khối lượng lớn thể hiện sự thiếu hụt nguồn cung nghiêm trọng, mở ra tiềm năng phục hồi mạnh mẽ trong các phiên tiếp theo.
 
 ---
 
@@ -2286,6 +2358,9 @@
 **Ngày 2025-08-01:** DHG giảm nhẹ từ 102.0 xuống 101.7. Cây nến giảm có biên độ hẹp với mức mở cửa 102.7 và dao động trong khoảng 101.1-102.7. Khối lượng giao dịch giảm mạnh xuống 12k đơn vị, giảm 70% so với phiên trước và trở về mức thấp tương tự các phiên đầu tháng 7.
 
 - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện sau tín hiệu **Sign of Strength** mạnh mẽ của phiên trước. Việc giá chỉ giảm nhẹ 0.3 điểm trên khối lượng giảm mạnh 70% cho thấy áp lực bán đã cạn kiệt hoàn toàn sau khi lực cầu đã thể hiện sức mạnh. Mặc dù có sự điều chỉnh nhẹ về giá, nhưng khối lượng thấp chứng tỏ không có áp lực bán đáng kể. Đây là dấu hiệu tích cực, củng cố cho xu hướng tăng và tạo điều kiện thuận lợi cho đợt tăng tiếp theo khi lực cầu trở lại.
+**Ngày 2025-08-04:** DHG giảm nhẹ từ 101.7 xuống 101.5. Cây nến giảm có biên độ hẹp với mức mở cửa 101.7 và dao động trong khoảng 101.2-102.4. Khối lượng giao dịch tăng lên 16.1k đơn vị, tăng 34% so với phiên trước nhưng vẫn ở mức thấp so với các phiên có động thái mạnh.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện sau chuỗi tín hiệu **No Supply** tích cực. Việc giá test lên mức 102.4 (gần vùng kháng cự 102.0-102.7) rồi đóng cửa thấp hơn với khối lượng tăng nhẹ cho thấy có sự kiểm tra áp lực bán ở vùng cao. Tuy nhiên, với biên độ dao động hẹp và khối lượng vẫn ở mức tương đối thấp, áp lực bán không quá mạnh. Đây là phiên test bình thường sau các tín hiệu tích cực trước đó, thị trường đang consolidate trước khi xác định hướng đi tiếp theo.
 
 ---
 
@@ -2384,6 +2459,9 @@
 **Ngày 2025-08-01:** DPM tăng nhẹ từ 41.0 lên 41.45. Cây nến tăng có biên độ vừa phải với mức mở cửa 41.5, test lên đỉnh 41.9 và có mức thấp 40.5 trước khi đóng cửa ở 41.45. Khối lượng giao dịch giảm mạnh về 4.49 triệu đơn vị, giảm 33% so với phiên trước và ở mức thấp nhất trong 10 phiên gần đây.
 
 - **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** tiếp tục xuất hiện. Sau phiên **Test for Supply** của ngày 31/7 khi test thất bại tại vùng kháng cự 42.4-42.5, việc giá hồi phục nhẹ trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt hoàn toàn. Mặc dù không có breakthrough mạnh mẽ, việc duy trì được mức giá trên 41.0 với khối lượng thấp là dấu hiệu tích cực. Tín hiệu này cho thấy thị trường đang trong giai đoạn tích lũy sau đợt test kháng cự, chuẩn bị cho một nỗ lực tăng giá tiếp theo khi có xúc tác phù hợp.
+**Ngày 2025-08-04:** DPM tăng từ 41.45 lên 41.9. Cây nến tăng có biên độ vừa phải với mức mở cửa 41.85, test lên đỉnh 42.45 và có mức thấp 41.8 trước khi đóng cửa ở 41.9. Khối lượng giao dịch tăng lên 5.96 triệu đơn vị, tăng 33% so với phiên trước nhưng vẫn ở mức trung bình.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** xuất hiện lần thứ hai tại vùng kháng cự quan trọng 42.4-42.5. Việc giá test lại đỉnh 42.45 (tương đương với các lần test trước vào ngày 29/7 và 31/7) nhưng không thể breakthrough với khối lượng tăng vừa phải cho thấy áp lực cung vẫn còn tồn tại tại vùng này. Tuy nhiên, việc giá đóng cửa ở 41.9 (cao hơn phiên trước) và duy trì trên support 41.0 với khối lượng chưa bùng nổ cho thấy lực bán chưa áp đảo. Đây là phiên test bình thường trong quá trình tích lũy, thị trường đang cần thêm momentum để vượt qua vùng kháng cự này. Cần theo dõi các phiên tiếp theo để xác định khả năng breakthrough hoặc pullback về vùng support 40.0-40.5.
 
 ---
 
@@ -2482,6 +2560,9 @@
 **Ngày 2025-08-01:** DPR giảm nhẹ từ 40.25 xuống 39.65. Cây nến giảm có biên độ rộng với dao động 39.4-40.25, đóng cửa gần mức thấp của phiên. Khối lượng giao dịch tăng lên 904.3k đơn vị, tăng 11% so với phiên **Effort to Rise** trước đó.
 
 - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** xuất hiện sau phiên **Effort to Rise**. Việc giá test lại vùng kháng cự 40.25 nhưng bị đẩy xuống với khối lượng tăng nhẹ cho thấy áp lực bán vẫn còn tồn tại ở vùng này. Tuy nhiên, khối lượng tăng không quá mạnh (chỉ 11%) và giá chỉ giảm nhẹ cho thấy áp lực bán chưa thực sự áp đảo. Việc đóng cửa tại 39.65 vẫn nằm trên vùng hỗ trợ quan trọng 39.4. Tín hiệu này cần được theo dõi thêm để xác định liệu đây là test cung bình thường hay bắt đầu của một đợt điều chỉnh sâu hơn.
+**Ngày 2025-08-04:** DPR tăng nhẹ từ 39.65 lên 39.9. Cây nến tăng có biên độ hẹp với dao động 39.4-39.9, mở cửa và đóng cửa cùng ở mức thấp nhất phiên (39.4) nhưng kết thúc tại 39.9. Khối lượng giao dịch giảm mạnh xuống 388.8k đơn vị, giảm 57% so với phiên **Test for Supply** trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** xuất hiện sau phiên **Test for Supply**. Việc giá test xuống vùng hỗ trợ quan trọng 39.4 (đúng bằng mức thấp của phiên trước) nhưng phục hồi và đóng cửa tại mức cao nhất phiên (39.9) với khối lượng giảm đáng kể cho thấy áp lực bán đã cạn kiệt ở vùng này. Khối lượng giảm mạnh 57% trong khi giá vẫn duy trì được sự phục hồi là dấu hiệu tích cực, cho thấy thị trường đang hấp thụ cung một cách hiệu quả. Tín hiệu này xác nhận vùng hỗ trợ 39.4-39.6 đang hoạt động tốt và tạo tiền đề cho khả năng xuất hiện lực cầu mạnh hơn trong các phiên tới.
 
 ---
 
@@ -2580,6 +2661,9 @@
 **Ngày 2025-08-01:** DRC tăng nhẹ từ 16.85 lên 16.95. Cây nến tăng có biên độ hẹp với dao động 16.8-17.0. Khối lượng giao dịch tiếp tục giảm xuống 495.4k đơn vị, giảm 21% so với phiên trước và đạt mức thấp nhất trong chuỗi 11 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp tục sau phiên **No Demand** trước đó. Mặc dù giá có phục hồi nhẹ nhưng việc khối lượng giảm liên tục xuống mức cực thấp cho thấy thị trường đang thiếu sự quan tâm nghiêm trọng. Sự phục hồi giá trên nền khối lượng yếu không đủ tin cậy và có thể chỉ là phản ứng kỹ thuật tạm thời. Tín hiệu này xác nhận thị trường DRC đang trong giai đoạn tích lũy sâu, cần có sự xuất hiện của khối lượng đáng kể để tạo nền tảng cho xu hướng tăng bền vững.
+**Ngày 2025-08-04:** DRC tăng mạnh từ 16.95 lên 17.25 với dao động 16.85-17.3. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm nhẹ xuống 466.5k đơn vị, giảm 6% so với phiên trước nhưng vẫn duy trì ở mức thấp trong chuỗi 12 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** sau chuỗi **No Demand** trước đó. Việc giá tăng mạnh 1.8% với biên độ dao động rộng (16.85-17.3) trên nền khối lượng thấp cho thấy áp lực bán đã cạn kiệt hoàn toàn. Mặc dù khối lượng vẫn ở mức thấp, nhưng khả năng giá tăng mạnh mà không gặp kháng cự đáng kể là dấu hiệu tích cực của **No Supply**. Tín hiệu này cho thấy giai đoạn tích lũy có thể đang kết thúc và thị trường bắt đầu cho thấy dấu hiệu phục hồi. Cần theo dõi các phiên tiếp theo để xác nhận liệu khối lượng có gia tăng để hỗ trợ xu hướng tăng bền vững hay không.
 
 ---
 
@@ -2653,6 +2737,9 @@
 **Ngày 2025-08-01:** DVN tăng nhẹ từ 22.8 lên 22.9. Cây nến tăng có biên độ hẹp với dao động 22.7-23.0, mở cửa ở mức cao 23.0 nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm mạnh xuống 63.7k đơn vị, giảm 68% so với phiên **Accumulation on Weakness** trước đó.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện sau phiên **Accumulation on Weakness** mạnh mẽ. Việc giá test lên mức cao 23.0 (cùng mức mở cửa) nhưng đóng cửa ổn định ở 22.9 trên khối lượng giảm mạnh cho thấy áp lực bán đã cạn kiệt hoàn toàn. Điều này xác nhận rằng hoạt động tích lũy của phiên trước đã hấp thụ thành công toàn bộ cung ở vùng 22.3-22.8. Tín hiệu **No Supply** này rất tích cực và tạo nền tảng vững chắc cho đợt phục hồi mạnh trong các phiên tới, đặc biệt khi kết hợp với khối lượng tích lũy kỷ lục của phiên trước.
+**Ngày 2025-08-04:** DVN giảm từ 22.9 xuống 22.6. Cây nến giảm có biên độ rộng với dao động 22.3-23.1, mở cửa ở 22.9 và test lên mức cao 23.1 trước khi bị đẩy xuống. Khối lượng giao dịch tăng mạnh lên 139.7k đơn vị, tăng 119% so với phiên **No Supply** trước đó.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Demand** xuất hiện sau chuỗi tín hiệu tích cực trước đó. Việc giá test lên mức cao 23.1 (cao nhất trong 5 phiên) nhưng bị đẩy xuống 22.6 với khối lượng tăng gấp đôi cho thấy thị trường đang kiểm tra lực cầu tại vùng hỗ trợ quan trọng 22.3-22.6. Mặc dù có áp lực bán ở vùng cao 23.0-23.1, việc giá chỉ giảm về 22.6 (chưa phá vỡ vùng hỗ trợ 22.3) trên khối lượng tăng cho thấy vẫn còn lực cầu đáng kể. Đây là phiên test quan trọng để xác định khả năng tiếp tục xu hướng phục hồi sau hoạt động tích lũy mạnh mẽ ở phiên 2025-07-31.
 
 ---
 
@@ -2738,6 +2825,9 @@
 **Ngày 2025-08-01:** FIT tăng mạnh từ 5.0 lên 5.2. Cây nến tăng có biên độ rộng với mức cao 5.35 và dao động trong khoảng 4.96-5.35, đóng cửa ở mức 5.2. Khối lượng giao dịch tăng vọt lên 4.17 triệu đơn vị, tăng 48% so với phiên **No Supply** trước đó.
 
 - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ xác nhận thành công cho tín hiệu **No Supply** của phiên trước. Việc giá test lên 5.35 (mức cao nhất kể từ 25/07) và đóng cửa tại 5.2 trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn consolidation. Tín hiệu này xác nhận rằng quá trình hấp thụ cung từ các phiên test trước đó đã hoàn tất thành công và FIT sẵn sàng tiếp tục xu hướng tăng, với mục tiêu test lại vùng kháng cự 5.5 của phiên 25/07.
+**Ngày 2025-08-04:** FIT tăng nhẹ từ 5.2 lên 5.28. Cây nến tăng có biên độ vừa phải với mức cao 5.39 và dao động trong khoảng 5.17-5.39, đóng cửa ở mức 5.28. Khối lượng giao dịch giảm xuống 2.71 triệu đơn vị, giảm 35% so với phiên **Effort to Rise** trước đó.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Effort to Rise** mạnh. Việc giá test lên 5.39 (gần mức kháng cự 5.5) nhưng đóng cửa thấp hơn trên khối lượng giảm cho thấy có áp lực bán nhẹ ở vùng cao. Tuy nhiên, việc giá vẫn duy trì trên 5.2 và khối lượng giảm (không có selling pressure mạnh) cho thấy đây chỉ là phiên test cung bình thường sau đợt tăng. Tín hiệu này tạo điều kiện consolidation lành mạnh, chuẩn bị cho nỗ lực test lại vùng kháng cự 5.5 trong các phiên tiếp theo.
 
 ---
 
@@ -2843,6 +2933,9 @@
 **Ngày 2025-08-01:** FOX tăng nhẹ từ 71.9 lên 72.1. Cây nến tăng có biên độ hẹp (2.2 điểm) với mức cao 72.4 và mức thấp 70.2, mở cửa tại 70.8. Khối lượng giao dịch giảm mạnh xuống 98.6k đơn vị, giảm 36% so với phiên trước và chạm mức thấp nhất trong 15 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand (Không có Nhu cầu)** tiếp diễn nghiêm trọng. Mặc dù giá tăng nhẹ 0.2 điểm, nhưng việc khối lượng giảm xuống mức cực thấp 98.6k (thấp nhất kể từ đầu tháng 7) cho thấy sự thiếu vắng hoàn toàn của lực cầu thực sự. Đặc biệt, giá mở cửa tại 70.8 - thấp hơn mức đóng cửa phiên trước, cho thấy áp lực bán vẫn hiện hữu ngay từ đầu phiên. FOX đang trong giai đoạn **No Demand** kéo dài từ 3 phiên liên tiếp, với xu hướng khối lượng giảm dần (330.9k → 180.9k → 154.5k → 98.6k), báo hiệu thị trường hoàn toàn mất quan tâm. Cần chờ tín hiệu **Selling Climax** với khối lượng đột biến hoặc **Test** thành công để xác nhận kết thúc giai đoạn yếu này.
+**Ngày 2025-08-04:** FOX giảm nhẹ từ 72.1 xuống 72.0. Cây nến giảm có biên độ hẹp (1.6 điểm) với mức cao 73.0 và mức thấp 71.4, mở cửa tại 71.9. Khối lượng giao dịch giảm tiếp xuống 95.7k đơn vị, giảm 3% so với phiên trước và duy trì ở mức cực thấp.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand (Không có Nhu cầu)** tiếp diễn nghiêm trọng, phiên thứ 4 liên tiếp. Việc khối lượng tiếp tục duy trì ở mức cực thấp 95.7k (chỉ giảm nhẹ so với 98.6k phiên trước) cho thấy thị trường hoàn toàn thiếu quan tâm đến FOX. Mặc dù giá chỉ giảm 0.1 điểm, nhưng biên độ dao động hẹp (71.4-73.0) trên khối lượng cực thấp xác nhận tình trạng stagnation (trì trệ) hoàn toàn. Xu hướng khối lượng suy giảm liên tục trong 4 phiên (330.9k → 180.9k → 154.5k → 98.6k → 95.7k) cho thấy FOX đang trong giai đoạn **No Demand** kéo dài, cần tín hiệu **Selling Climax** với khối lượng bùng nổ hoặc **Successful Test** để có thể kết thúc chu kỳ yếu này.
 
 ---
 
@@ -2950,6 +3043,9 @@
 **Ngày 2025-08-01:** FPT phục hồi mạnh từ 104.0 lên 107.0. Cây nến tăng có biên độ rộng (4.9 điểm) với mức cao 107.4 và mức thấp 101.5, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng lên 10.89 triệu đơn vị, tăng 21% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** sau chuỗi **Selling Climax** và **Effort to Fall** của các phiên trước. Việc giá phục hồi mạnh 2.9% trên khối lượng tăng đáng kể cho thấy lực cầu đã can thiệp mạnh mẽ sau khi giá test xuống vùng 101.5 (mức thấp nhất kể từ đầu năm). Biên độ dao động rộng 101.5-107.4 thể hiện cuộc chiến quyết liệt giữa cung và cầu, nhưng việc đóng cửa ở 107.0 (gần high) cho thấy bulls đã chiếm ưu thế cuối phiên. Khối lượng 10.89 triệu cao hơn đáng kể so với phiên **No Demand** ngày 30/7 (7.5 triệu), xác nhận tính chất của automatic rally. FPT có thể đã tìm được support tạm thời ở vùng 101-103 và bắt đầu giai đoạn test phục hồi sau selling climax.
+**Ngày 2025-08-04:** FPT giảm nhẹ từ 107.0 xuống 106.6. Cây nến giảm có biên độ hẹp (1.8 điểm) với mức cao 106.6 và mức thấp 104.8, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 4.62 triệu đơn vị, giảm 58% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Automatic Rally** mạnh mẽ ngày 1/8. Việc giá giảm nhẹ trên khối lượng giảm mạnh (từ 10.89 triệu xuống 4.62 triệu) cho thấy áp lực bán đã suy yếu đáng kể sau đợt phục hồi. Điểm quan trọng là giá test xuống vùng 104.8 (gần với support 104.0 của ngày 31/7) nhưng đóng cửa ở mức cao nhất phiên 106.6, thể hiện lực cầu vẫn hiện diện để hỗ trợ giá. Khối lượng thấp kết hợp với việc đóng cửa mạnh cho thấy đây là test bình thường sau automatic rally, không phải áp lực bán thực sự. FPT đang trong giai đoạn consolidation sau selling climax và có thể tiếp tục test để xác nhận vùng support 104-106 trước khi có động thái tiếp theo.
 
 ---
 
@@ -3055,6 +3151,9 @@
 **Ngày 2025-08-01:** FRT giảm nhẹ từ 154.7 xuống 154.5, tạo cây nến giảm có biên độ hẹp (2.7 điểm) với mức cao 154.5 và mức thấp 151.8. Khối lượng giao dịch tăng nhẹ lên 722.4k đơn vị, tăng 4% so với phiên trước. Mặc dù giá đóng cửa giảm nhẹ, việc mở cửa tại 153.0 (thấp hơn đóng cửa hôm trước) và dao động trong khoảng hẹp cho thấy thị trường vẫn đang trong trạng thái do dự sau phiên **Test for Supply** trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp theo sau phiên **Test for Supply** thành công hôm trước. Việc giá giảm nhẹ chỉ 0.2 điểm trên khối lượng tăng nhẹ 4% cho thấy áp lực bán rất yếu. Điều quan trọng là FRT đã không test lại vùng thấp 150.8 như hôm trước mà dao động trong khoảng hẹp hơn (151.8-154.5), thể hiện sự ổn định sau giai đoạn kiểm tra. Việc khối lượng không giảm mạnh như thường thấy trong tín hiệu **No Supply** cho thấy vẫn có sự quan tâm nhẹ từ thị trường. FRT đang hoàn thiện giai đoạn tích lũy và kiểm tra sau các tín hiệu trái chiều gần đây, chuẩn bị cho hướng đi rõ ràng hơn.
+**Ngày 2025-08-04:** FRT tiếp tục giảm nhẹ từ 154.5 xuống 154.2, tạo cây nến giảm có biên độ hẹp (2.4 điểm) với mức cao 154.2 và mức thấp 151.8. Khối lượng giao dịch giảm mạnh xuống 415.4k đơn vị, giảm 42% so với phiên trước. Mặc dù giá mở cửa cao hơn (153.9 vs đóng cửa 154.5 hôm trước), FRT vẫn không thể duy trì và đóng cửa thấp hơn. Việc test lại vùng thấp 151.8 (tương tự mức 151.8 của ngày 01/8) cho thấy mức hỗ trợ này đang được kiểm tra lại.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp theo sau chuỗi **No Supply** và **Test for Supply** của các phiên trước. Việc giá giảm nhẹ chỉ 0.3 điểm trên khối lượng giảm mạnh 42% xác nhận áp lực bán rất yếu. Quan trọng hơn, FRT đã test lại vùng hỗ trợ 151.8 lần thứ hai trong 3 phiên gần đây mà không bị phá vỡ, cho thấy vùng này đang trở thành nền tảng vững chắc. Khối lượng giảm mạnh trong khi giá chỉ giảm nhẹ là dấu hiệu tích cực của **No Supply**. FRT đang tiếp tục hoàn thiện giai đoạn tích lũy với các tín hiệu **No Supply** liên tiếp, chuẩn bị cho một đợt tăng khi lực cầu quay trở lại mạnh mẽ.
 
 ---
 
@@ -3140,6 +3239,9 @@
 **Ngày 2025-08-01:** FTS giảm nhẹ từ 41.0 xuống 40.85. Cây nến giảm có biên độ vừa phải (1.95 điểm) với mức cao 42.05 và mức thấp 40.1. Khối lượng giao dịch giảm xuống 4.07 triệu đơn vị, giảm 28% so với phiên trước. Điểm đáng chú ý là giá test cao 42.05 trong phiên, cao hơn mức đóng cửa hôm trước, cho thấy có lực cầu xuất hiện ở đầu phiên trước khi bị chốt lời.
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Demand** của phiên trước, đây là tín hiệu **No Supply**. Việc giá có thể test cao 42.05 (cao hơn mức đóng cửa 41.0) nhưng đóng cửa chỉ giảm nhẹ xuống 40.85 trên khối lượng giảm đáng kể 28% cho thấy áp lực bán không mạnh khi giá tăng. Sự kết hợp giữa test cao và khối lượng giảm xác nhận rằng không có nguồn cung lớn ở vùng giá hiện tại. Sau chuỗi selling climax và test for demand, tín hiệu **No Supply** này là dấu hiệu tích cực đầu tiên cho thấy FTS có thể đã hoàn thành giai đoạn rửa sạch và bắt đầu ổn định để chuẩn bị cho xu hướng phục hồi.
+**Ngày 2025-08-04:** FTS tăng nhẹ từ 40.85 lên 41.15. Cây nến tăng có biên độ hẹp (0.85 điểm) với mức cao 41.2 và mức thấp 40.35. Khối lượng giao dịch tiếp tục giảm xuống 3.23 triệu đơn vị, giảm 21% so với phiên trước. Giá duy trì được xu hướng tăng nhẹ và dao động trong biên độ hẹp, cho thấy thị trường đang ổn định sau giai đoạn rửa sạch.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** của phiên trước, đây là tín hiệu **Automatic Rally**. Việc giá tăng nhẹ và ổn định trên khối lượng tiếp tục giảm 21% xác nhận rằng áp lực bán đã cạn kiệt hoàn toàn sau chuỗi selling climax và test for demand. Biên độ dao động hẹp cùng với khối lượng thấp cho thấy FTS đang trong giai đoạn cân bằng sau khi hấp thụ xong lực bán. Tín hiệu **Automatic Rally** này, kết hợp với chuỗi No Supply và Test for Demand trước đó, xác nhận FTS đã hoàn thành giai đoạn điều chỉnh và bắt đầu giai đoạn phục hồi tự nhiên. Đây là dấu hiệu tích cực cho xu hướng ngắn hạn.
 
 ---
 
@@ -3252,6 +3354,9 @@
 **Ngày 2025-08-01:** GAS giảm nhẹ từ 67.7 xuống 67.6. Cây nến giảm có biên độ hẹp với mức cao 68.2 và mức thấp 67.3. Khối lượng giao dịch tăng nhẹ lên 889.4k đơn vị, tăng 6% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp diễn sau giai đoạn **Test for Supply** và consolidation. Việc giá giảm rất nhẹ chỉ 0.1 điểm trên khối lượng tăng nhẹ cho thấy áp lực bán vẫn rất yếu. Mức cao 68.2 trong phiên gần với vùng 68.0-68.9 đã được test trong các phiên trước, nhưng không đủ sức để vượt qua. Việc giá dao động trong biên độ hẹp 67.3-68.2 với khối lượng vừa phải cho thấy thị trường vẫn đang trong giai đoạn consolidation cuối cùng. Sau chuỗi tín hiệu SOS mạnh mẽ ngày 23/7, các phiên test for supply và no supply gần đây, GAS đang hoàn tất quá trình tích lũy tại vùng 67.0-69.0 và có thể sẵn sàng cho đợt breakout tiếp theo khi xuất hiện xúc tác tích cực.
+**Ngày 2025-08-04:** GAS tăng từ 67.6 lên 68.0. Cây nến tăng có biên độ rộng với mức cao 68.8 và mức thấp 67.5. Khối lượng giao dịch tăng vọt lên 2.05 triệu đơn vị, tăng 130% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ sau chuỗi **No Supply** của hai phiên trước. Việc giá tăng từ 67.6 lên 68.0 với khối lượng bùng nổ từ 889.4k lên 2.05 triệu (tăng gấp 2.3 lần) cho thấy lực cầu đã quay trở lại mạnh mẽ. Mức cao 68.8 trong phiên tiến gần tới vùng kháng cự 69.0-70.0 đã được test trong các phiên trước. Sau chuỗi tín hiệu SOS ngày 23/7, các phiên test for supply và giai đoạn consolidation với no supply, việc xuất hiện khối lượng lớn kèm giá tăng cho thấy GAS đã hoàn tất quá trình tích lũy và đang chuẩn bị cho đợt breakout vượt qua vùng kháng cự 69.0-70.5. Đây là tín hiệu tích cực mạnh mẽ cho xu hướng tăng tiếp theo.
 
 ---
 
@@ -3360,6 +3465,9 @@
 **Ngày 2025-08-01:** Sau tín hiệu **No Demand** của phiên trước, GEX giảm từ 59.7 xuống 55.9. Cây nến giảm có biên độ rộng với mức cao 59.8 và mức thấp 55.9. Khối lượng giao dịch tương đương ở mức 11.45 triệu đơn vị, tăng nhẹ 3% so với phiên trước. Việc giá mở cửa cao ở 59.8 (cao hơn đóng cửa hôm trước) nhưng sau đó giảm sập và đóng cửa đúng ở mức thấp nhất 55.9 cho thấy áp lực bán mạnh xuất hiện ngay từ đầu phiên.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Weakness** rõ ràng. Sau hai phiên **No Demand** liên tiếp cho thấy thiếu sự ủng hộ từ dòng tiền, phiên hôm nay xác nhận áp lực bán đã quay trở lại. Việc giá giảm 6.4% với biên độ rộng 3.9 điểm và đóng cửa ở mức thấp nhất cho thấy lực bán áp đảo hoàn toàn. Mặc dù khối lượng không tăng mạnh, nhưng việc giá không thể duy trì ở vùng cao sau **Selling Climax** ngày 29/7 cho thấy GEX đang trong giai đoạn điều chỉnh. Cổ phiếu cần test xuống vùng hỗ trợ mạnh hơn để tìm lại sự cân bằng cung cầu trước khi có thể tiếp tục xu hướng tăng dài hạn.
+**Ngày 2025-08-04:** Sau tín hiệu **Weakness** của phiên trước, GEX tăng nhẹ từ 55.9 lên 56.6. Cây nến tăng có biên độ rộng với mức cao 57.4 và mức thấp 53.9. Khối lượng giao dịch tăng lên 14.16 triệu đơn vị, tăng 24% so với phiên trước. Việc giá mở cửa thấp ở 55.2 (thấp hơn đóng cửa hôm trước) và test xuống mức thấp 53.9 trước khi hồi phục lên đóng cửa ở 56.6 cho thấy có lực cầu xuất hiện ở vùng thấp để hỗ trợ giá.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Support** sau giai đoạn weakness. Việc giá test xuống mức thấp 53.9 (thấp hơn đáy ngày 29/7 là 53.2) với khối lượng tăng 24% cho thấy thị trường đang test khả năng hỗ trợ ở vùng 53-54. Việc giá hồi phục từ đáy và đóng cửa cao hơn phiên trước (56.6 vs 55.9) cùng với khối lượng gia tăng là tín hiệu tích cực, cho thấy có lực cầu xuất hiện để bảo vệ vùng hỗ trợ quan trọng. Tuy nhiên, GEX vẫn đang trong giai đoạn consolidation sau Selling Climax ngày 29/7 và cần thêm các tín hiệu tích cực để xác nhận việc kết thúc giai đoạn điều chỉnh.
 
 ---
 
@@ -3468,6 +3576,9 @@
 **Ngày 2025-08-01:** GMD giảm từ 56.2 xuống 56.0. Cây nến giảm có biên độ rộng với mức cao 58.0 và mức thấp 55.7. Khối lượng giao dịch tăng mạnh (4.65 triệu đơn vị), tăng 151% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** quan trọng sau chuỗi **No Supply** trước đó. Việc khối lượng tăng đột biến 151% kèm theo sự gia tăng volatility (từ 55.7 đến 58.0) cho thấy có sự tranh chấp mạnh mẽ giữa người mua và người bán ở vùng giá thấp này. Mặc dù giá đóng cửa thấp hơn (56.0), nhưng việc giá có thể test lên mức cao 58.0 trong phiên và test xuống thấp 55.7 trên khối lượng lớn cho thấy lực cầu đã xuất hiện để hấp thụ áp lực bán. Sau giai đoạn **No Supply** kéo dài, đây là dấu hiệu tích cực cho thấy GMD đang trong giai đoạn **Test for Demand** cuối cùng và có thể sắp kết thúc quá trình tích lũy ở vùng 55.7-58.0.
+**Ngày 2025-08-04:** GMD tăng từ 56.0 lên 57.0. Cây nến tăng có biên độ hẹp với mức cao 57.6 và mức thấp 56.0. Khối lượng giao dịch giảm mạnh (1.55 triệu đơn vị), giảm 67% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **Test for Demand** mạnh mẽ hôm trước. Việc giá tăng từ 56.0 lên 57.0 nhưng khối lượng giảm mạnh 67% từ 4.65 triệu xuống 1.55 triệu cho thấy thiếu sự ủng hộ từ thị trường. Mặc dù giá có test lên mức cao 57.6 trong phiên, nhưng sự thiếu vắng khối lượng mua cho thấy lực cầu chưa đủ mạnh để duy trì xu hướng tăng. Sau phiên **Test for Demand** với khối lượng bùng nổ hôm trước, GMD đang trong giai đoạn nghỉ ngơi và chờ đợi động lực mới. Vùng 56.0-57.6 đang được consolidation và cần theo dõi thêm để xác định hướng đi tiếp theo.
 
 ---
 
@@ -3580,6 +3691,9 @@
 **Ngày 2025-08-01:** GVR giảm nhẹ từ 30.1 xuống 29.7. Cây nến giảm có biên độ hẹp (0.9 điểm) với mức cao 30.5 và mức thấp 29.6. Khối lượng giao dịch giảm xuống 3.68 triệu đơn vị, giảm 37% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** sau phiên **Test for Demand** tích cực hôm trước. Việc giá giảm nhẹ từ 30.1 xuống 29.7 trên khối lượng giảm mạnh 37% cho thấy áp lực bán rất yếu ở vùng này. Mặc dù giá có test xuống vùng thấp 29.6 (gần với vùng hỗ trợ 29.5 đã được xác nhận trong các phiên trước), nhưng sự thiếu vắng khối lượng cho thấy không có lực bán chủ động mạnh. Sau tín hiệu **Test for Demand** tích cực của phiên trước đã xác nhận vùng hỗ trợ 29.5-29.6, GVR đang trong giai đoạn consolidation bình thường, chờ đợi xúc tác mới để tiếp tục xu hướng phục hồi dài hạn.
+**Ngày 2025-08-04:** GVR tăng nhẹ từ 29.7 lên 29.9. Cây nến tăng có biên độ hẹp (0.65 điểm) với mức cao 30.25 và mức thấp 29.6. Khối lượng giao dịch giảm xuống 2.43 triệu đơn vị, giảm 34% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **No Supply** hôm trước. Việc giá tăng nhẹ từ 29.7 lên 29.9 nhưng khối lượng giảm mạnh 34% cho thấy lực cầu đang yếu dần ở vùng này. Mặc dù giá có test lên mức cao 30.25 (gần với vùng kháng cự 30.5 của phiên trước), nhưng sự thiếu vắng khối lượng cho thấy không có dòng tiền mạnh để đẩy giá vượt qua vùng kháng cự. GVR tiếp tục trong giai đoạn consolidation tại vùng 29.5-30.5 sau chuỗi test supply mạnh từ đỉnh 32.0. Việc khối lượng liên tục giảm trong 2 phiên cho thấy thị trường đang chờ đợi xúc tác mới để tạo xu hướng rõ ràng.
 
 ---
 
@@ -3688,6 +3802,9 @@
 **Ngày 2025-08-01:** HAG tiếp tục điều chỉnh từ 13.95 xuống 13.9, giảm nhẹ 0.4%. Cây nến có biên độ hẹp (0.35 điểm) với mức cao 14.15 và mức thấp 13.8. Khối lượng giao dịch giảm mạnh xuống 7.88 triệu đơn vị, giảm 43% so với phiên trước và là mức thấp nhất trong 10 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau phiên **Test for Demand** ngày 31/7. Việc giá giảm nhẹ trên khối lượng giảm mạnh 43% cho thấy áp lực bán đã cạn kiệt đáng kể. Mặc dù giá có test cao 14.15 (gần vùng kháng cự) nhưng không thể duy trì, tuy nhiên việc khối lượng thấp cho thấy không có áp lực bán mạnh từ smart money. Sau chuỗi **Selling Climax** ngày 29/7 và **Test for Demand** ngày 31/7, tín hiệu No Supply này củng cố khả năng HAG đang trong giai đoạn tích lũy sau shakeout. Vùng giá 13.8-14.15 đang trở thành vùng support/resistance quan trọng. Cần theo dõi khối lượng trong các phiên tới để xác nhận liệu đây có phải là giai đoạn tích lũy trước **Automatic Rally** hay chỉ là consolidation tạm thời.
+**Ngày 2025-08-04:** HAG tăng nhẹ từ 13.9 lên 13.95, tăng 0.4%. Cây nến có biên độ hẹp (0.40 điểm) với mức cao 14.15 và mức thấp 13.75. Khối lượng giao dịch 7.95 triệu đơn vị, tương đương với phiên trước và vẫn duy trì ở mức thấp so với trung bình.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp diễn tích cực. Việc giá tăng nhẹ với khối lượng vẫn duy trì ở mức thấp (7.95M) cho thấy áp lực bán tiếp tục cạn kiệt. Đặc biệt, giá đã test lại vùng kháng cự 14.15 lần thứ hai liên tiếp nhưng không gặp áp lực bán mạnh, điều này rất tích cực. Sau chuỗi **Selling Climax** (29/7), **Test for Demand** (31/7) và **No Supply** (01/8), HAG đang cho thấy dấu hiệu rõ ràng của giai đoạn tích lũy sau shakeout. Vùng 13.75-14.15 đang trở thành trading range quan trọng với support mạnh tại 13.75 và resistance tại 14.15. Nếu khối lượng gia tăng trong các phiên tới kèm theo việc vượt qua 14.15, đây có thể là khởi đầu của **Automatic Rally** sau Selling Climax.
 
 ---
 
@@ -3774,6 +3891,9 @@
 **Ngày 2025-08-01:** HAH bùng nổ mạnh mẽ từ 75.0 lên 80.2. Cây nến tăng có biên độ rất rộng (6.9%) với mức cao 80.2 và mức thấp 74.1. Khối lượng giao dịch tăng vọt (8.95 triệu đơn vị), tăng 51% so với phiên trước và là khối lượng cao nhất trong 10 phiên gần đây.
 
 - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** rất mạnh mẽ sau chuỗi **Automatic Rally**. Việc giá bùng nổ từ 75.0 lên đóng cửa đúng tại mức cao nhất 80.2 với khối lượng tăng 51% cho thấy lực cầu đã hoàn toàn áp đảo và breakout thành công khỏi vùng consolidation 71.0-75.9. Đây là phiên tăng mạnh nhất kể từ ngày 22/7 (tăng 4.9%) và xác nhận rằng HAH đã hoàn tất giai đoạn test sau **Selling Climax** ngày 29/7. Việc giá vượt qua đỉnh cũ 77.1 và thiết lập đỉnh mới tại 80.2 với khối lượng bùng nổ là dấu hiệu của giai đoạn markup mới. HAH đang cho thấy xu hướng tăng dài hạn rất mạnh mẽ và có thể tiếp tục test các mức cao hơn trong thời gian tới.
+**Ngày 2025-08-04:** HAH dao động từ 80.2 giữ nguyên giá đóng cửa tại 80.2. Cây nến doji có biên độ vừa phải với mức mở cửa gap lên 82.0, test cao 82.1 trước khi giảm về mức thấp 78.7 và phục hồi đóng cửa đúng tại mức đóng cửa phiên trước. Khối lượng giao dịch giảm mạnh (3.85 triệu đơn vị), giảm 57% so với phiên trước và là khối lượng thấp nhất trong 5 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength (SOS)** rất mạnh mẽ hôm trước. Việc giá gap lên 82.0 và test cao 82.1 nhưng bị đẩy xuống 78.7 trước khi phục hồi về 80.2 với khối lượng giảm 57% cho thấy áp lực chốt lời xuất hiện ở vùng cao nhưng không mạnh. Đây là phản ứng bình thường sau đợt bùng nổ SOS hôm trước khi HAH thiết lập đỉnh mới tại 80.2. Việc khối lượng giảm mạnh trong khi giá duy trì được mức đóng cửa cho thấy lực cầu vẫn có mặt để hỗ trợ. Sau tín hiệu SOS mạnh mẽ và breakout thành công, HAH đang trong giai đoạn consolidation ngắn hạn và có khả năng cao sẽ tiếp tục xu hướng tăng sau khi hoàn tất test nguồn cung tại vùng đỉnh mới.
 
 ---
 
@@ -3886,6 +4006,9 @@
 **Ngày 2025-08-01:** HCM tăng từ 25.9 lên 26.0. Cây nến tăng có biên độ rộng với mức cao 26.75 và mức thấp 25.5. Khối lượng giao dịch tăng (16.56 triệu đơn vị), tăng 9% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực sau giai đoạn **Test for Supply** hôm trước. Việc giá test lên mức cao 26.75 - vượt qua vùng kháng cự 26.0 đã xuất hiện trong các phiên trước, kết hợp với khối lượng tăng 9% cho thấy lực cầu đang dần chiếm ưu thế sau cú **Selling Climax** ngày 29/7. Mặc dù giá đóng cửa thấp hơn mức cao đáng kể (26.0 so với 26.75), nhưng việc duy trì được mức tăng và test thành công vùng kháng cự là dấu hiệu tích cực. HCM đang trong giai đoạn phục hồi sau shakeout, với khả năng tiếp tục test lại vùng 27.0-27.35 nếu lực cầu duy trì ổn định trong các phiên tới.
+**Ngày 2025-08-04:** HCM tăng từ 26.0 lên 26.4. Cây nến tăng có biên độ vừa phải với mức cao 26.4 và mức thấp 25.65. Khối lượng giao dịch giảm (12.14 triệu đơn vị), giảm 27% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** sau **Test for Demand** thành công hôm trước. Việc giá tiếp tục tăng từ 26.0 lên 26.4 và đóng cửa ở mức cao nhất phiên cho thấy lực cầu đang dần chiếm ưu thế sau chuỗi test thành công. Mặc dù khối lượng giảm 27%, nhưng hành động giá tích cực với việc đóng cửa ở đỉnh phiên là dấu hiệu mạnh mẽ của sự kiểm soát từ phía buyers. HCM đang tiếp tục quá trình phục hồi sau **Selling Climax** ngày 29/7, với xu hướng tăng dần được xác nhận qua việc vượt qua các mức kháng cự 26.0 và 26.4. Đây là bước tiến quan trọng trong việc test lại vùng 27.0-27.35, cho thấy HCM đang trong giai đoạn markup trở lại sau khi hoàn thành quá trình shakeout và tích lũy.
 
 ---
 
@@ -3994,6 +4117,9 @@
 **Ngày 2025-08-01:** HDB tăng từ 26.45 lên 27.0. Cây nến tăng có biên độ vừa phải với mức cao 27.15 và mức thấp 26.4. Khối lượng giao dịch giảm mạnh (18.63 triệu đơn vị), giảm 42% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau **Effort to Fall** hôm trước. Việc giá tăng từ 26.45 lên 27.0 (tăng 2.1%) nhưng khối lượng giảm mạnh 42% xuống chỉ còn 18.63 triệu đơn vị cho thấy sự thiếu vắng lực cầu thực sự. Mặc dù giá có hồi phục nhẹ sau áp lực bán mạnh của phiên trước, nhưng việc khối lượng thấp cho thấy đây chỉ là nhịp hồi kỹ thuật tự nhiên chứ không phải do lực mua thực sự. Sau chuỗi **Selling Climax** (29/7), **No Demand** (30/7), **Effort to Fall** (31/7), và tiếp theo là **No Demand** hôm nay, HDB đang trong giai đoạn consolidation sau đợt tăng mạnh trước đó. Cần theo dõi các phiên tiếp theo để xác định xem liệu lực cầu có quay trở lại hay thị trường sẽ tiếp tục trong giai đoạn tích lũy.
+**Ngày 2025-08-04:** HDB tăng mạnh từ 27.0 lên 28.0. Cây nến tăng có biên độ rộng với mức cao 28.0 và mức thấp 26.9. Khối lượng giao dịch tăng nhẹ (19.05 triệu đơn vị), tăng 2.3% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** có cải thiện sau **No Demand** hôm trước. Việc giá tăng mạnh 3.7% từ 27.0 lên 28.0 với khối lượng tăng nhẹ từ 18.63 triệu lên 19.05 triệu đơn vị cho thấy lực cầu đã bắt đầu quay trở lại. Mặc dù khối lượng chưa thật sự bùng nổ nhưng việc giá có thể đóng cửa đúng tại mức cao nhất phiên (28.0) thể hiện sức mạnh tích cực. Sau chuỗi điều chỉnh từ **Selling Climax** (29/7), **No Demand** (30/7), **Effort to Fall** (31/7), và **No Demand** (1/8), HDB đang có dấu hiệu kết thúc giai đoạn consolidation và chuẩn bị cho nhịp phục hồi. Việc giá quay trở lại vùng 28.0 cho thấy khả năng test lại vùng đỉnh trước đó.
 
 ---
 
@@ -4033,6 +4159,9 @@
 **Ngày 2025-08-01:** HDC mở cửa tại 36.45 (gap up mạnh) và đóng cửa tại 35.75 (+2.29%), tăng 0.8 điểm từ ngày trước. Thanh nến xanh có spread hẹp 1.2 điểm (từ 35.25 đến 36.45), thu hẹp đáng kể so với ngày trước. Khối lượng giảm xuống 8.272.400 cổ phiếu, giảm 32.5% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** **Secondary Test (ST)** - Sau Automatic Rally ngày 31/07, HDC có gap up mạnh lên 36.45 nhưng không thể duy trì được mức cao này, đóng cửa tại 35.75 với spread thu hẹp và volume giảm 32.5%. Đây là Secondary Test điển hình sau AR, kiểm tra khả năng duy trì vùng giá cao. Việc volume giảm đáng kể nhưng giá vẫn giữ được trên 35.0 cho thấy áp lực bán đã giảm. Tuy nhiên, cần quan sát thêm để xác nhận liệu đây là Last Point of Support (LPS) hay cần thêm test nữa trước khi bước vào giai đoạn markup tiếp theo.
+**Ngày 2025-08-04:** HDC mở cửa tại 35.1 và đóng cửa tại 35.9 (+0.42%), tăng nhẹ 0.15 điểm từ ngày trước. Thanh nến xanh có spread rộng 2.45 điểm (từ 35.05 đến 37.5), mở rộng đáng kể so với phiên trước. Khối lượng giảm xuống 6.524.800 cổ phiếu, giảm 21.1% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Test for Supply** - Sau Secondary Test ngày 01/08, HDC test lên mức cao 37.5 (cao nhất trong 5 phiên) nhưng đóng cửa chỉ tăng nhẹ 0.42% với volume giảm 21.1%. Việc giá có thể test cao 37.5 nhưng không duy trì được và volume giảm cho thấy có áp lực bán ở vùng 37.0-37.5. Tuy nhiên, việc giá vẫn giữ được trên 35.0 và có spread rộng cho thấy vẫn còn lực cầu. Đây là test bình thường sau giai đoạn Automatic Rally và Secondary Test, thị trường đang xác định vùng kháng cự thực sự trước khi quyết định hướng đi tiếp theo.
 
 ---
 
@@ -4141,6 +4270,9 @@
 **Ngày 2025-08-01:** HDG tiếp tục giảm nhẹ từ 26.15 xuống 26.1, giảm 0.2%. Cây nến giảm có biên độ hẹp với mức cao 26.7 và mức thấp 26.05. Khối lượng giao dịch giảm mạnh xuống 4.93 triệu đơn vị, giảm 53% so với phiên trước. Sau tín hiệu **Effort to Fall** mạnh mẽ ngày hôm trước, HDG đã có dấu hiệu ổn định tạm thời ở vùng 26.0-26.7 với khối lượng giảm đáng kể.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau Effort to Fall. Sau phiên **Effort to Fall** mạnh mẽ ngày 31/7 với khối lượng bùng nổ, việc giá chỉ giảm nhẹ 0.2% trên khối lượng sụt giảm 53% cho thấy áp lực bán đã giảm bớt đáng kể. Việc giá test lên mức cao 26.7 trong phiên và duy trì được vùng 26.0-26.1 cho thấy có lực cầu xuất hiện để hấp thụ nguồn cung. Khối lượng giảm mạnh là dấu hiệu tích cực, cho thấy HDG có thể đang tìm kiếm vùng cân bằng mới sau đợt điều chỉnh từ đỉnh 29.5. Cần theo dõi các phiên tiếp theo để xác nhận liệu đây có phải là vùng support mới hay chỉ là nghỉ ngơi tạm thời trong xu hướng giảm.
+**Ngày 2025-08-04:** HDG tăng nhẹ từ 26.1 lên 26.45, tăng 1.3%. Cây nến tăng có biên độ hẹp với mức cao 26.75 và mức thấp 26.1. Khối lượng giao dịch tăng nhẹ lên 5.08 triệu đơn vị, tăng 3% so với phiên trước. Sau tín hiệu **Test for Demand** ngày 1/8, HDG đã có dấu hiệu phục hồi nhẹ với việc test lên mức cao 26.75 - cao nhất trong 3 phiên gần đây và đóng cửa tại 26.45, cao hơn vùng support 26.0-26.15 đã được thiết lập.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tích cực sau Test for Demand. Việc giá tăng nhẹ trên khối lượng chỉ tăng 3% cho thấy không có áp lực bán mạnh, đồng thời lực cầu đang dần xuất hiện để hỗ trợ giá. So với phiên **Effort to Fall** ngày 31/7 có khối lượng 10.43 triệu, việc khối lượng duy trì ở mức thấp (5.08 triệu) cho thấy áp lực bán đã giảm đáng kể. Việc giá test lên 26.75 và đóng cửa gần mức cao cho thấy HDG đang cố gắng thoát khỏi vùng support 26.0-26.15. Tín hiệu này bước đầu tích cực, cho thấy giai đoạn điều chỉnh từ đỉnh 29.5 có thể đang đến giai đoạn cuối, tuy nhiên cần thêm các tín hiệu mạnh mẽ hơn để xác nhận sự phục hồi bền vững.
 
 ---
 
@@ -4248,6 +4380,9 @@
 **Ngày 2025-08-01:** HHV dao động từ 12.8 lên 12.8. Cây nến doji có biên độ rộng (0.5 điểm) với mức cao 13.2 và mức thấp 12.7. Khối lượng giao dịch tăng (13.25 triệu đơn vị), tăng 18% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tiếp tục sau sự phục hồi hôm trước. Sau tín hiệu **Test for Demand** ngày 31/7, việc giá test lên mức cao 13.2 nhưng đóng cửa tại mức mở cửa 12.8 với khối lượng tăng 18% cho thấy có sự cạnh tranh giữa lực mua và lực bán. Việc test lên được mức cao 13.2 cho thấy lực cầu vẫn có mặt, nhưng sự không thể duy trì ở mức cao và về lại mức mở cửa cho thấy áp lực bán vẫn còn. Mặc dù vậy, việc khối lượng tăng và giá không test xuống dưới mức thấp 12.7 (cao hơn mức thấp 12.35 hôm trước) cho thấy vùng hỗ trợ 12.3-12.5 đang được bảo vệ. Đây là dấu hiệu tích cực trong quá trình tìm đáy sau chuỗi **Tín hiệu Yếu** mạnh trước đó.
+**Ngày 2025-08-04:** HHV tăng từ 12.8 lên 13.0. Cây nến tăng có biên độ hẹp (0.25 điểm) với mức cao 13.1 và mức thấp 12.85. Khối lượng giao dịch giảm (9.69 triệu đơn vị), giảm 27% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau chuỗi **Test for Demand** trước đó. Sau hai phiên test demand tích cực, việc giá tăng nhẹ lên 13.0 nhưng khối lượng giảm đáng kể 27% cho thấy lực cầu đang yếu đi. Mặc dù giá có thể test lên mức cao 13.1, nhưng sự thiếu vắng khối lượng hỗ trợ cho thấy momentum tăng chưa đủ mạnh. Việc giá duy trì trên vùng hỗ trợ 12.8 và không test xuống dưới 12.85 vẫn là dấu hiệu tích cực, cho thấy áp lực bán không mạnh. Tuy nhiên, cần có sự xuất hiện của khối lượng mua lớn hơn để xác nhận việc hoàn thành quá trình tìm đáy và khởi đầu xu hướng tăng mới.
 
 ---
 
@@ -4351,6 +4486,9 @@
 **Ngày 2025-08-01:** HPG phục hồi từ 24.95 lên 25.15. Cây nến tăng có biên độ hẹp (0.5 điểm) với mức cao 25.3 và mức thấp 24.8. Khối lượng giao dịch giảm đáng kể (50.80 triệu đơn vị), giảm 40% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test** tích cực. Sau tín hiệu **Selling Climax** mạnh mẽ ngày 31/7 với khối lượng bùng nổ 85.33 triệu và giá test thấp 24.75, việc HPG phục hồi nhẹ với khối lượng giảm 40% cho thấy áp lực bán đã giảm bớt đáng kể. Mức thấp 24.8 cao hơn mức thấp trước đó (24.75) là dấu hiệu tích cực, cho thấy vùng hỗ trợ đang được củng cố. Việc giá đóng cửa gần mức cao nhất phiên (25.15) với khối lượng giảm mạnh xác nhận rằng giai đoạn **Selling Climax** đã kết thúc và HPG đang bắt đầu giai đoạn **Secondary Test** lành mạnh. Xu hướng ngắn hạn có thể chuyển từ giảm sang tích lũy.
+**Ngày 2025-08-04:** HPG tiếp tục phục hồi từ 25.15 lên 25.3. Cây nến tăng có biên độ hẹp (0.5 điểm) với mức cao 25.45 và mức thấp 24.95. Khối lượng giao dịch giảm tiếp (37.06 triệu đơn vị), giảm 27% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực, tiếp nối **Secondary Test** ngày 1/8. Sau giai đoạn **Selling Climax** ngày 31/7 với khối lượng bùng nổ 85.33 triệu, HPG đang thể hiện quá trình phục hồi lành mạnh với khối lượng giảm dần (từ 50.8 triệu xuống 37.06 triệu). Việc giá tăng nhẹ lên 25.3 với mức cao test 25.45 cho thấy lực cầu đang quay trở lại một cách thận trọng. Mức thấp 24.95 cao hơn đáng kể so với mức thấp climax 24.75, xác nhận vùng hỗ trợ đang được củng cố mạnh mẽ. Sự kết hợp giữa giá tăng và khối lượng giảm là dấu hiệu tích cực, cho thấy áp lực bán đã cạn kiệt và HPG đang bước vào giai đoạn tích lũy sau **Selling Climax**.
 
 ---
 
@@ -4460,6 +4598,9 @@
 **Ngày 2025-08-01:** HSG giảm từ 18.65 xuống 18.5. Cây nến giảm có biên độ rộng (0.75 điểm) với mức cao 18.95 và mức thấp 18.2. Khối lượng giao dịch giảm mạnh (7.78 triệu đơn vị), giảm 31% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** rất tích cực. Sau tín hiệu **No Supply** của ngày trước, việc giá tiếp tục giảm nhẹ từ 18.65 xuống 18.5 trên khối lượng giảm đáng kể (giảm 31%) cho thấy áp lực bán đã suy yếu nghiêm trọng. Mặc dù có test lên mức cao 18.95 gần vùng kháng cự 19.0 nhưng bị rejected, việc giá chỉ giảm nhẹ 0.15 điểm và khối lượng giảm mạnh thể hiện không có sự phân phối từ smart money. Sau chuỗi volatility cao với false breakout ở đỉnh 19.65 và giai đoạn correction, HSG đang cho thấy dấu hiệu tích tụ tại vùng 18.2-18.9. Hai phiên liên tiếp có tín hiệu **No Supply** báo hiệu quá trình hấp thụ cung đang diễn ra thành công và HSG đã sẵn sàng cho nhịp tăng tiếp theo khi lực cầu quay trở lại.
+**Ngày 2025-08-04:** HSG tăng nhẹ từ 18.5 lên 18.55. Cây nến tăng có biên độ hẹp (0.55 điểm) với mức cao 18.65 và mức thấp 18.1. Khối lượng giao dịch giảm mạnh (5.26 triệu đơn vị), giảm 32% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** rất mạnh. Sau ba phiên liên tiếp có tín hiệu **No Supply** (31/7, 1/8 và 4/8), việc giá tăng nhẹ trên khối lượng giảm mạnh 32% xác nhận rằng áp lực bán đã cạn kiệt hoàn toàn. Mặc dù biên độ dao động vẫn rộng (18.1-18.65) cho thấy còn một số volatility, việc đóng cửa tích cực ở 18.55 với khối lượng thấp thể hiện không có sự phân phối từ smart money. Ba phiên liên tiếp **No Supply** sau giai đoạn false breakout và correction mạnh từ đỉnh 19.65 cho thấy quá trình hấp thụ cung đã hoàn tất thành công tại vùng 18.1-18.9. HSG đang trong giai đoạn accumulation cuối và sẵn sàng cho nhịp markup mạnh mẽ khi catalyst xuất hiện.
 
 ---
 
@@ -4505,6 +4646,9 @@
 **Ngày 2025-08-01:** HT1 giảm nhẹ từ 14.2 xuống 13.9. Cây nến có biên độ hẹp (0.45 điểm) với mức cao 14.3 và mức thấp 13.85. Khối lượng giao dịch tiếp tục giảm xuống 495.7k đơn vị, giảm 8% so với phiên trước và duy trì ở mức thấp. Mặc dù giá giảm nhẹ nhưng vẫn consolidate trong vùng 13.8-14.3.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp theo trong chuỗi consolidation. Sau tín hiệu **Test for Supply** tích cực của phiên trước, việc giá giảm nhẹ với khối lượng tiếp tục ở mức thấp (495.7k) cho thấy áp lực bán đã cạn kiệt. Việc giá dao động trong biên độ hẹp và khối lượng duy trì thấp thể hiện thị trường đang hấp thụ hoàn toàn nguồn cung còn lại. Sau tín hiệu **Sign of Strength (SOS)** mạnh mẽ ngày 25/7 và chuỗi test nguồn cung tích cực, HT1 đang hoàn tất giai đoạn consolidation và chuẩn bị sẵn sàng cho nhịp tăng tiếp theo khi có xúc tác tích cực.
+**Ngày 2025-08-04:** HT1 tăng từ 13.9 lên 14.2. Cây nến tăng có biên độ hẹp (0.45 điểm) với mức cao 14.25 và mức thấp 13.8. Khối lượng giao dịch tăng nhẹ lên 577.1k đơn vị, tăng 16% so với phiên trước nhưng vẫn duy trì ở mức thấp. Giá mở cửa ở 14.0 và đóng cửa gần mức cao nhất phiên (14.2), thể hiện lực cầu nhẹ đã quay trở lại.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực sau chuỗi **No Supply** của các phiên trước. Việc giá tăng nhẹ 2.2% với khối lượng tăng 16% nhưng vẫn ở mức thấp (577.1k) cho thấy lực cầu bắt đầu xuất hiện trở lại một cách thận trọng. Sau giai đoạn consolidation với tín hiệu **Sign of Strength (SOS)** mạnh mẽ ngày 25/7 và chuỗi test nguồn cung tích cực, việc giá test lại vùng 13.8 và phục hồi lên 14.2 với khối lượng tăng nhẹ là dấu hiệu tích cực. HT1 đang hoàn tất giai đoạn hấp thụ và chuẩn bị cho nhịp tăng mới khi xuất hiện xúc tác mạnh hơn.
 
 ---
 
@@ -4613,6 +4757,9 @@
 **Ngày 2025-08-01:** HUT giảm nhẹ từ 18.1 xuống 18.2 (thực tế không đổi). Cây nến có thân nhỏ với mức mở cửa 18.3, mức cao 19.2, mức thấp 18.2 và đóng cửa 18.2. Khối lượng giao dịch giảm mạnh xuống 5.73 triệu đơn vị, giảm 57% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau **Sign of Strength** mạnh mẽ hôm trước. Sau phiên bùng nổ với khối lượng khổng lồ 13.27 triệu đơn vị, việc giá test lên mức cao mới 19.2 nhưng đóng cửa gần mức thấp phiên (18.2) với khối lượng giảm đáng kể cho thấy có áp lực chốt lời xuất hiện ở vùng giá cao. Tuy nhiên, việc giá vẫn duy trì được ở vùng 18.1-18.2 (không giảm sâu) và khối lượng giảm trong phiên test supply là dấu hiệu tích cực, cho thấy lực bán không áp đảo. Sau chuỗi SOS mạnh mẽ liên tiếp, đây là giai đoạn test supply tự nhiên và cần thiết để xác nhận sức mạnh của xu hướng tăng trước khi tiếp tục markup.
+**Ngày 2025-08-04:** HUT giảm từ 18.2 xuống 17.7. Cây nến giảm có biên độ rộng (1.0 điểm) với mức mở cửa 18.3, mức cao 18.3, mức thấp 17.3 và đóng cửa 17.7. Khối lượng giao dịch giảm xuống 3.51 triệu đơn vị, giảm 39% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau giai đoạn **Test for Supply** hôm trước. Sau phiên test supply ngày 2025-08-01 với việc giá test lên 19.2 và consolidate ở vùng 18.1-18.2, việc giá giảm xuống 17.7 với khối lượng tiếp tục giảm 39% cho thấy thiếu lực cầu để hỗ trợ giá ở vùng cao. Việc giá mở cửa ở 18.3 nhưng không thể duy trì và test xuống thấp 17.3 trước khi phục hồi lên 17.7 với khối lượng thấp thể hiện sự vắng mặt của lực mua mạnh. Sau chuỗi **Sign of Strength** mạnh mẽ liên tiếp, đây là giai đoạn điều chỉnh tự nhiên với khối lượng giảm dần, cho thấy áp lực bán cũng không mạnh và HUT đang trong quá trình tích lũy trở lại trước khi tiếp tục xu hướng tăng dài hạn.
 
 ---
 
@@ -4717,6 +4864,9 @@
 **Ngày 2025-08-01:** HVN giảm từ 32.8 xuống 32.5. Cây nến giảm có thân nhỏ với giá mở 32.95, cao 32.95 và thấp 32.5. Biên độ dao động hẹp chỉ 0.45 điểm. Khối lượng giao dịch giảm mạnh xuống 973.1k đơn vị, giảm 40% so với phiên trước và là mức thấp nhất trong 10 phiên gần đây. Giá đóng cửa tại mức thấp nhất của phiên, thể hiện áp lực bán nhẹ nhưng thiếu sự quan tâm từ nhà đầu tư.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** rõ rệt. Sau tín hiệu **No Supply** tích cực của ngày 31/07, việc giá tiếp tục giảm nhẹ nhưng với khối lượng sụt giảm mạnh 40% cho thấy cả lực mua và lực bán đều thiếu sự quan tâm. Đây là dấu hiệu điển hình của giai đoạn tích lũy ở vùng đáy sau chu kỳ điều chỉnh. Mặc dù giá có xu hướng giảm nhẹ, nhưng việc không có áp lực bán mạnh trên khối lượng thấp kỷ lục là tín hiệu tích cực. Sau chuỗi **Sign of Strength** mạnh mẽ từ cuối tháng 7 và các tín hiệu **No Supply**, **No Demand** gần đây, HVN đang hoàn thiện giai đoạn tích lũy ở vùng 32-33. Tín hiệu này tạo nền tảng cho đợt bứt phá tiếp theo khi lực cầu quay trở lại.
+**Ngày 2025-08-04:** HVN tăng nhẹ từ 32.5 lên 32.85. Cây nến tăng có thân nhỏ với giá mở 32.8, cao 32.9 và thấp 32.8. Biên độ dao động cực hẹp chỉ 0.1 điểm, thể hiện sự ổn định. Khối lượng giao dịch tiếp tục giảm xuống 905.4k đơn vị, giảm 7% so với phiên trước và duy trì ở mức thấp. Giá đóng cửa gần mức cao nhất của phiên, cho thấy áp lực mua nhẹ cuối phiên.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** yếu. Sau tín hiệu **No Demand** của ngày 01/08, việc giá tăng nhẹ 0.35 điểm nhưng với khối lượng tiếp tục ở mức thấp kỷ lục cho thấy lực cầu vẫn chưa quay trở lại mạnh mẽ. Tuy nhiên, việc giá có thể tăng nhẹ và đóng cửa gần mức cao nhất phiên trên khối lượng thấp là dấu hiệu tích cực, cho thấy áp lực bán đã cạn kiệt hoàn toàn. Sau chuỗi **Sign of Strength** mạnh mẽ cuối tháng 7 và các tín hiệu **No Supply**, **No Demand** gần đây, HVN đang trong giai đoạn cuối của quá trình tích lũy ở vùng 32-33. Sự ổn định giá trên khối lượng thấp tạo nền tảng vững chắc cho đợt bứt phá tiếp theo khi có lực cầu mới gia nhập.
 
 ---
 
@@ -4821,6 +4971,9 @@
 **Ngày 2025-08-01:** IDC giảm từ 45.5 xuống 44.6. Cây nến giảm có biên độ rộng với giá mở cửa 46.0, test xuống mức thấp 44.5 trước khi đóng cửa tại 44.6. Khối lượng giao dịch giảm mạnh (2.07 triệu đơn vị), giảm 67% so với phiên trước và thấp hơn đáng kể so với khối lượng bùng nổ 6.35 triệu của ngày 31/07.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau phiên **Effort to Rise** mạnh mẽ với khối lượng khủng của ngày trước, sự giảm giá trên khối lượng giảm mạnh 67% cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù giá test xuống 44.5 - gần với vùng đáy của đợt điều chỉnh trước đó - nhưng việc khối lượng thấp thể hiện không có lực bán mạnh áp đảo. Việc đóng cửa tại 44.6, chỉ cao hơn 0.1 điểm so với mức thấp, cho thấy thị trường đang trong trạng thái cân bằng tạm thời. Tín hiệu **No Supply** này sau **Effort to Rise** trước đó là dấu hiệu tích cực, báo hiệu khả năng áp lực bán đang cạn kiệt và IDC có thể sẵn sàng cho nhịp phục hồi tiếp theo nếu lực cầu quay trở lại.
+**Ngày 2025-08-04:** IDC đi ngang từ 44.6 lên 44.6. Cây nến doji có biên độ hẹp với giá mở cửa 44.5, test lên mức cao 45.1 và test xuống mức thấp 44.0 trước khi đóng cửa tại 44.6. Khối lượng giao dịch tiếp tục giảm (1.78 triệu đơn vị), giảm 14% so với phiên trước và duy trì xu hướng giảm khối lượng từ mức đỉnh 6.35 triệu của ngày 31/07.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** nhẹ. Sau tín hiệu **No Supply** với khối lượng thấp của phiên trước, việc giá test xuống mức thấp 44.0 - gần với vùng đáy quan trọng 44.3-44.7 của các phiên trước - trên khối lượng tiếp tục giảm cho thấy thị trường đang kiểm tra lực cầu ở vùng hỗ trợ. Việc giá phục hồi từ 44.0 lên đóng cửa tại 44.6 và test lên được 45.1 thể hiện vẫn có lực đỡ tại vùng này. Khối lượng thấp và ổn định cho thấy không có áp lực bán mạnh, tạo điều kiện thuận lợi cho việc tích lũy. IDC đang trong giai đoạn củng cố quanh vùng 44.0-45.5 và cần theo dõi để xác nhận khả năng hình thành nền tảng hỗ trợ vững chắc cho đợt tăng tiếp theo.
 
 ---
 
@@ -4898,6 +5051,9 @@
 **Ngày 2025-08-01:** IMP tăng mạnh từ 52.0 lên 52.7. Cây nến tăng có biên độ rộng (1.7 điểm) với giá mở cửa 52.5, đạt mức cao nhất 53.5 và test thấp 51.8 trước khi đóng cửa ở 52.7. Khối lượng giao dịch tăng vọt (233k đơn vị), tăng 51% so với phiên trước và cao nhất trong 4 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** mạnh mẽ tiếp theo. Sau tín hiệu **Effort to Rise** trên nền **No Supply** tích cực của ngày trước, sự tăng giá với khối lượng bùng nổ tăng 51% xác nhận lực cầu đang trở lại quyết đoán. Việc giá có thể test lên mức cao 53.5 (cao nhất kể từ ngày 21/7) cho thấy IMP đã vượt qua được kháng cự tại vùng 52.0-52.2 và đang hướng tới test lại vùng kháng cự quan trọng 53.0-53.5. Mặc dù có test xuống 51.8 nhưng việc đóng cửa mạnh ở 52.7 thể hiện lực cầu chiếm ưu thế rõ rệt. Tín hiệu này kết hợp với phiên trước cho thấy IMP đã hoàn tất thành công đợt test supply và đang trong giai đoạn markup. Cần theo dõi xem IMP có thể vượt qua và duy trì trên vùng 53.0 để xác nhận xu hướng tăng mạnh hơn.
+**Ngày 2025-08-04:** IMP tăng mạnh từ 52.7 lên 54.3. Cây nến tăng có biên độ rộng (2.2 điểm) với giá mở cửa 52.5, đạt mức cao nhất 54.7 và đóng cửa ở 54.3. Khối lượng giao dịch bùng nổ (458.1k đơn vị), tăng 97% so với phiên trước và đạt mức cao nhất trong 2 tháng qua.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ và **Climatic Action**. Sau 2 phiên **Effort to Rise** liên tiếp, sự tăng giá đột phá với khối lượng bùng nổ tăng gần 100% xác nhận lực cầu đã trở thành áp đảo hoàn toàn. Việc giá vượt qua thành công vùng kháng cự quan trọng 53.0-53.5 và đạt mức cao 54.7 (cao nhất kể từ đầu năm) cho thấy IMP đã hoàn tất giai đoạn re-accumulation và bước vào pha markup mạnh mẽ. Sự kết hợp giữa đột phá giá và khối lượng khổng lồ là dấu hiệu của institutional buying pressure. Tín hiệu này xác nhận rằng đợt test supply từ ngày 29/7 đã thành công và IMP đang trong xu hướng tăng mạnh. Cần theo dõi xem IMP có thể consolidate và duy trì trên vùng 54.0 để tiếp tục hành trình tăng giá.
 
 ---
 
@@ -4996,6 +5152,10 @@
 IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4 trước khi giảm mạnh và đóng cửa ở 20.7. Cây nến có biên độ cực rộng (2.0 điểm) với thân nến âm dài, cho thấy áp lực bán mạnh ở vùng giá cao. Khối lượng giao dịch giảm xuống 995.1k đơn vị, giảm 35% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Supply Test Failed**. Sau chuỗi tăng mạnh từ 14.9 lên 22.4 (+50% trong 8 phiên) và các tín hiệu **No Demand** cảnh báo trước đó, việc gap up lên mức cao mới 22.4 nhưng không thể duy trì và đóng cửa thấp hơn đáng kể (20.7) với khối lượng giảm mạnh 35% cho thấy supply đã xuất hiện mạnh mẽ ở vùng đỉnh. Mặc dù khối lượng giảm nhưng áp lực bán vẫn đủ mạnh để đẩy giá xuống dưới mức đóng cửa của phiên trước, xác nhận sự kết thúc của đợt rally. IPA có thể bước vào giai đoạn điều chỉnh về test lại support ở vùng 19.0-20.0, cần quan sát reaction ở các mức support này để đánh giá khả năng tiếp tục xu hướng tăng dài hạn.
+**Ngày 2025-08-04:**
+IPA phục hồi từ 20.7 lên 21.6, mở cửa ở 20.7 và dao động trong khoảng 19.9-21.8. Cây nến tăng có biên độ rộng (1.9 điểm) với thân nến dương mạnh mẽ. Khối lượng giao dịch tăng lên 1.13 triệu đơn vị, tăng 14% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally (AR)**. Sau phiên **Supply Test Failed** của ngày trước khi giá sụt từ 22.4 xuống 20.7, sự phục hồi mạnh mẽ lên 21.6 với khối lượng gia tăng 14% cho thấy lực cầu đã quay trở lại để chặn đà giảm. Việc test xuống 19.9 (gần support 19.0-20.0 đã dự báo) nhưng phục hồi mạnh lên 21.6 và test gần mức cao phiên 21.8 thể hiện sức mạnh của lực đỡ. Mặc dù chưa thể vượt qua vùng kháng cự 22.0-22.4, nhưng reaction tích cực này sau test supply failed cho thấy IPA vẫn duy trì được xu hướng tăng cơ bản. Cần theo dõi khả năng tái test vùng kháng cự 22.0-22.4 trong các phiên tới để xác nhận sức mạnh của trend.
 
 ---
 
@@ -5097,6 +5257,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** KBC điều chỉnh nhẹ từ 31.65 xuống 31.5, giảm 0.47%. Nến giảm có thân ngắn với biên độ giao dịch từ 31.0 đến 32.25, cho thấy sự dao động mạnh trong phiên. Mở cửa gap up ở 32.0, đạt mức cao nhất 32.25 nhưng không thể duy trì và có test xuống 31.0 trước khi hồi phục về 31.5. Khối lượng giao dịch giảm mạnh xuống 7.25 triệu đơn vị, giảm 72% so với phiên trước và trở về mức bình thường.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực. Sau phiên **Buying Climax** bùng nổ ngày 31/7, việc giá chỉ điều chỉnh nhẹ 0.47% với khối lượng giảm mạnh 72% cho thấy áp lực bán chốt lời rất hạn chế. Mặc dù có test xuống 31.0 nhưng giá nhanh chóng hồi phục về 31.5, thể hiện lực đỡ mạnh tại vùng hỗ trợ mới. Sự sụt giảm đáng kể của khối lượng trong khi giá duy trì gần mức cao cho thấy không có áp lực bán nghiêm trọng, xác nhận đợt tăng giá trước đó là bền vững. Tín hiệu này hỗ trợ cho khả năng tiếp tục xu hướng tăng sau giai đoạn consolidation ngắn hạn.
+**Ngày 2025-08-04:** KBC consolidation tiếp tục với giá tăng nhẹ từ 31.5 lên 31.55, tăng 0.16%. Nến tăng có thân rất ngắn với biên độ giao dịch từ 30.9 đến 31.85, cho thấy sự dao động trong phiên nhưng không mạnh bằng phiên trước. Mở cửa ở 31.5, test xuống 30.9 rồi phục hồi lên mức cao nhất 31.85 trước khi đóng cửa ở 31.55. Khối lượng giao dịch tiếp tục duy trì ở mức thấp 6.57 triệu đơn vị, giảm nhẹ 9% so với phiên trước và tương đương với mức giao dịch bình thường.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp diễn tích cực. Sau hai phiên **Buying Climax** (31/7) và **No Supply** (1/8), việc giá tiếp tục consolidation quanh vùng 31.5 với khối lượng thấp cho thấy áp lực bán chốt lời rất hạn chế. Mặc dù có test xuống 30.9 nhưng giá nhanh chóng hồi phục và đóng cửa cao hơn, thể hiện lực đỡ vững chắc tại vùng hỗ trợ 31.0. Việc khối lượng duy trì ở mức thấp trong khi giá dao động trong biên độ hẹp xác nhận giai đoạn tích lũy ở vùng giá cao. Chuỗi tín hiệu **No Supply** liên tiếp sau đợt tăng mạnh là dấu hiệu rất tích cực, cho thấy cơ sở vững chắc để tiếp tục xu hướng tăng khi động lực quay trở lại.
 
 ---
 
@@ -5198,6 +5361,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** KDC tăng từ 53.9 lên 54.8. Nến tăng có biên độ vừa phải với giá mở cửa 55.3, giữ được mức cao và đóng cửa tích cực ở 54.8. Khối lượng giao dịch giảm mạnh xuống 319.4k đơn vị, thấp nhất trong 10 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **No Demand** của ngày trước, sự tăng giá nhẹ trên khối lượng giảm mạnh cho thấy thiếu sự tham gia của dòng tiền thực sự. Việc giá mở cửa tại 55.3 nhưng không thể duy trì và có test xuống 53.9 trước khi phục hồi lên 54.8 thể hiện áp lực bán vẫn còn tồn tại. Khối lượng thấp kỷ lục (319.4k) trong bối cảnh giá tăng nhẹ cho thấy đây chỉ là sự điều chỉnh kỹ thuật, thiếu conviction từ phe mua. KDC vẫn đang trong giai đoạn tích lũy và cần có khối lượng gia tăng đáng kể để xác nhận sự trở lại của lực cầu thực sự.
+**Ngày 2025-08-04:** KDC giảm nhẹ từ 54.8 xuống 54.6. Cây nến giảm có biên độ hẹp với giá mở cửa 54.8, test lên 55.0 trong phiên trước khi điều chỉnh xuống mức thấp 54.3 và đóng cửa ở 54.6. Khối lượng giao dịch duy trì ở mức thấp 315.6k đơn vị, tương đương với phiên trước và vẫn trong vùng thấp kỷ lục.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp tục. Sau hai phiên **No Demand** liên tiếp, sự giảm giá nhẹ trên khối lượng duy trì thấp cho thấy thị trường vẫn thiếu sự tham gia của dòng tiền thực sự. Việc giá test lên 55.0 nhưng không thể vượt qua và quay về đóng cửa ở 54.6 với khối lượng thấp thể hiện cả lực cầu và lực cung đều yếu. KDC đang tiếp tục trong giai đoạn tích lũy/consolidation tại vùng 54.0-55.0, cần có catalyst hoặc khối lượng gia tăng đáng kể để thoát khỏi trạng thái sideway hiện tại.
 
 ---
 
@@ -5301,6 +5467,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** KDH tăng từ 27.4 lên 27.7. Cây nến tăng có biên độ vừa phải (1.0 điểm) với bóng dưới ngắn và bóng trên dài, thể hiện áp lực bán vẫn còn ở vùng cao nhưng lực cầu đã bắt đầu ổn định. Giá dao động từ 27.15 đến 28.15, cho thấy sự cải thiện so với các phiên trước. Khối lượng giao dịch giảm xuống 3.29 triệu đơn vị, thấp hơn 41% so với phiên trước, thể hiện áp lực bán đang giảm dần.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực tiếp theo sau phiên **Test for Demand** ngày 31/7. Việc giá tăng nhẹ trên khối lượng giảm cho thấy lực cầu đang dần ổn định và áp lực bán đã giảm đáng kể so với giai đoạn **Sign of Weakness** ngày 29/7. Bóng trên dài thể hiện vẫn còn kháng cự ở vùng 28.0-28.15, nhưng việc đóng cửa gần mức cao nhất trong ngày là dấu hiệu tích cực. KDH đang trong giai đoạn test demand sau đợt sell-off mạnh, và các tín hiệu cho thấy khả năng tìm được vùng support quanh 27.0-27.4. Cần theo dõi thêm để xác nhận việc hoàn thành giai đoạn test và khả năng phục hồi.
+**Ngày 2025-08-04:** KDH tiếp tục tăng từ 27.7 lên 27.9. Cây nến tăng có biên độ hẹp (0.7 điểm) với bóng dưới và bóng trên ngắn, thể hiện sự ổn định trong giao dịch. Giá dao động từ 27.65 đến 28.35, mở rộng biên độ so với phiên trước và test lại vùng kháng cự 28.3. Khối lượng giao dịch giảm xuống 2.84 triệu đơn vị, thấp hơn 14% so với phiên trước, cho thấy áp lực bán tiếp tục giảm và thị trường đang trong trạng thái cân bằng.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** tích cực sau chuỗi **Test for Demand** của các phiên trước. Việc giá tăng nhẹ và test lại vùng kháng cự 28.3 trên khối lượng giảm tiếp tục cho thấy áp lực bán đã yếu đi đáng kể và lực cầu đang dần chiếm ưu thế. Khả năng đóng cửa gần mức cao trong ngày (27.9 so với high 28.35) thể hiện lực cầu vẫn đủ mạnh để duy trì xu hướng phục hồi nhẹ. KDH đang hoàn thiện giai đoạn test demand sau đợt **Sign of Weakness** mạnh ngày 29/7, và các tín hiệu cho thấy khả năng cao đã tìm được vùng support ổn định quanh 27.0-27.7. Nếu tiếp tục duy trì được xu hướng này với khối lượng ổn định, KDH có thể sẵn sàng cho đợt phục hồi mạnh hơn.
 
 ---
 
@@ -5402,6 +5571,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** LPB tăng nhẹ từ 34.2 lên 34.5. Nến tăng có thân nhỏ với biên độ dao động từ 33.45 đến 34.5, mở cửa tại 34.25 và đóng cửa tại mức cao nhất phiên 34.5. Khối lượng giao dịch giảm mạnh xuống 2.85 triệu đơn vị, giảm 37% so với phiên trước.
 
 - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand**. Sau phiên **Test for Supply** của ngày hôm trước với khối lượng tăng 27%, sự tăng giá nhẹ trên khối lượng giảm mạnh 37% cho thấy lực cầu đang suy yếu. Mặc dù giá đóng cửa tại mức cao nhất phiên và có xu hướng tích cực nhưng việc khối lượng giảm đáng kể thể hiện sự thiếu động lực từ nhà đầu tư. Việc giá test xuống 33.45 (thấp hơn support 33.35 của phiên trước) nhưng phục hồi mạnh lên 34.5 cho thấy vẫn có lực cầu ở vùng thấp, tuy nhiên động lực chưa đủ mạnh để tạo breakthrough. LPB đang trong giai đoạn consolidation quanh vùng 33.35-34.5, cần khối lượng tăng mạnh để xác nhận hướng đi tiếp theo.
+**Ngày 2025-08-04:** LPB tăng nhẹ từ 34.5 lên 34.7. Nến tăng có thân nhỏ với biên độ dao động từ 33.8 đến 34.85, mở cửa tại 34.45 và đóng cửa gần mức cao nhất phiên 34.7. Khối lượng giao dịch tăng lên 3.12 triệu đơn vị, tăng 9% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** nhẹ. Sau phiên **No Demand** của ngày hôm trước, việc giá test lên mức cao 34.85 (cao nhất kể từ ngày 31/7) nhưng chỉ đóng cửa tại 34.7 trên khối lượng tăng nhẹ 9% cho thấy có áp lực bán xuất hiện ở vùng cao 34.8-34.9. Việc giá test xuống 33.8 (thấp hơn vùng support 33.35-33.45 đã thiết lập) nhưng phục hồi mạnh và đóng cửa gần mức cao thể hiện lực cầu vẫn có mặt ở vùng thấp. Biên độ dao động rộng (1.05 điểm) với khối lượng tăng nhẹ cho thấy thị trường đang trong giai đoạn kiểm tra khả năng cung cấp trước khi xác định hướng đi tiếp theo. LPB vẫn đang consolidation trong vùng 33.8-34.85, cần theo dõi để xác nhận breakthrough.
 
 ---
 
@@ -5505,6 +5677,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MBB giảm nhẹ từ 27.45 xuống 27.15. Nến giảm có biên độ hẹp với giá cao nhất đạt 27.65 và thấp nhất 27.05. Mở cửa tại 27.45, test lên 27.65 trước khi giảm và đóng cửa tại 27.15. Khối lượng giao dịch giảm xuống 17.89 triệu đơn vị, thấp hơn 28% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực. Sau phiên **Test for Demand** của ngày trước, việc giá giảm nhẹ trên khối lượng giảm đáng kể cho thấy áp lực bán đã yếu đi rõ rệt. Mặc dù giá test lên 27.65 nhưng không thể duy trì, tuy nhiên việc khối lượng thấp trong quá trình giảm giá thể hiện không có áp lực bán mạnh. MBB đang tiếp tục trong giai đoạn cân bằng sau cú shock SOW của ngày 29/7, với các tín hiệu **Test for Demand** và **No Supply** liên tiếp cho thấy quá trình hấp thụ cung đang diễn ra tích cực. Vùng hỗ trợ 26.85-27.0 vẫn đang được bảo vệ tốt, tạo nền tảng cho khả năng phục hồi trong các phiên tới.
+**Ngày 2025-08-04:** MBB tăng mạnh từ 27.15 lên 27.8. Nến tăng có biên độ rộng với giá cao nhất đạt 27.8 và thấp nhất 27.05. Mở cửa tại 27.1, test xuống 27.05 trước khi tăng mạnh và đóng cửa tại mức cao nhất phiên 27.8. Khối lượng giao dịch tăng lên 21.24 triệu đơn vị, cao hơn 19% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** quan trọng sau chuỗi các tín hiệu **Test for Demand** và **No Supply** tích cực. Việc giá test xuống gần vùng hỗ trợ 27.05 rồi tăng mạnh lên 27.8 với khối lượng gia tăng cho thấy lực cầu đã quay trở lại mạnh mẽ. Đặc biệt, việc đóng cửa tại mức cao nhất phiên thể hiện sự kiểm soát hoàn toàn của phe mua. Tín hiệu SOS này xác nhận rằng quá trình hấp thụ cung sau cú shock SOW ngày 29/7 đã hoàn thành thành công, MBB bắt đầu phase markup mới với vùng kháng cự tiếp theo tại 28.0-28.4. Khối lượng tăng 19% so với phiên **No Supply** trước đó cho thấy sự quan tâm gia tăng từ nhà đầu tư, tạo nền tảng cho xu hướng tăng bền vững.
 
 ---
 
@@ -5612,6 +5787,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MBS giảm từ 36.4 xuống 35.2. Cây nến giảm có biên độ rộng với mức cao 37.2 và mức thấp 35.0. Khối lượng giao dịch tăng lên 10.25 triệu đơn vị, tăng 24% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tiếp tục sau phiên trước. Việc giá giảm từ 36.4 xuống 35.2 với khối lượng tăng cho thấy áp lực bán đã tăng trở lại, tuy nhiên mức tăng khối lượng chỉ 24% không quá mạnh. Việc giá có thể test lên 37.2 ở đầu phiên nhưng sau đó sụt xuống test thấp 35.0 trước khi hồi phục nhẹ về 35.2 cho thấy có lực đỡ ở vùng 35.0. So với phiên **Sign of Weakness** ngày 29/7 khi khối lượng tăng vọt 68%, khối lượng hiện tại vẫn ở mức kiểm soát được, cho thấy áp lực bán chưa trở lại mức cực đoan. MBS đang trong giai đoạn test demand sau đợt điều chỉnh mạnh, cần quan sát thêm để xác định khả năng tìm được đáy vững chắc.
+**Ngày 2025-08-04:** MBS tăng từ 35.2 lên 35.9. Cây nến tăng có biên độ rộng với mức cao 36.1 và mức thấp 33.2. Khối lượng giao dịch giảm xuống 6.02 triệu đơn vị, giảm 41% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tiếp tục nhưng có dấu hiệu tích cực hơn. Sau phiên **Test for Demand** trước đó, việc giá tăng từ 35.2 lên 35.9 trên khối lượng giảm mạnh cho thấy áp lực bán đã giảm đáng kể. Điểm đáng chú ý là việc giá có test xuống thấp 33.2 (thấp hơn cả mức 35.0 của phiên trước) nhưng sau đó phục hồi mạnh mẽ lên đóng cửa ở 35.9, thể hiện lực cầu mạnh mẽ ở vùng thấp. Việc khối lượng giảm 41% khi giá tăng là dấu hiệu tích cực, cho thấy không có áp lực bán đáng kể. Tuy nhiên, cần thêm phiên **Effort to Rise** với khối lượng mạnh để xác nhận việc tìm được đáy vững chắc sau giai đoạn điều chỉnh từ đỉnh 37.6.
 
 ---
 
@@ -5719,6 +5897,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MCH tiếp tục giảm nhẹ từ 105.1 xuống 105.0. Nến giảm có biên độ hẹp với giá cao nhất đạt 105.3 và thấp nhất 102.8. Khối lượng giao dịch giảm mạnh (502.5k đơn vị) so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply**. Sau tín hiệu **Sign of Weakness (SOW)** của phiên trước với việc test thấp mới xuống 101.8, phiên hôm nay giá chỉ giảm nhẹ và test thấp xuống 102.8 - cao hơn đáng kể so với mức thấp trước đó - trên khối lượng giảm gần một nửa. Việc khối lượng suy giảm mạnh khi giá test thấp cho thấy áp lực bán đã suy yếu đáng kể sau chuỗi bán tháo mạnh mẽ. Mặc dù giá vẫn yếu và đóng cửa thấp hơn giá mở cửa, nhưng tín hiệu **No Supply** này có thể báo hiệu việc tìm kiếm vùng đáy đang dần hoàn thành và thị trường có thể sẽ ổn định trong thời gian tới.
+**Ngày 2025-08-04:** MCH phục hồi từ 105.0 lên 107.0. Nến tăng có biên độ rộng với giá mở cửa 105.1, test cao lên 108.4 và test thấp xuống 104.3. Khối lượng giao dịch giảm (336.4k đơn vị) so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** sau **No Supply**. Sau tín hiệu **No Supply** của phiên trước cho thấy áp lực bán đã suy yếu đáng kể, phiên hôm nay giá phục hồi mạnh mẽ từ 105.0 lên 107.0 và có thể test cao lên 108.4. Việc khối lượng giảm khi giá tăng mạnh cho thấy sự phục hồi này diễn ra một cách tự nhiên mà không cần áp lực mua lớn, điều này rất tích cực theo nguyên lý Wyckoff. Việc giá test thấp xuống 104.3 - cao hơn mức thấp của phiên trước (102.8) - xác nhận rằng vùng đáy đang được củng cố. Tín hiệu này cho thấy giai đoạn tìm đáy có thể đã hoàn thành và thị trường bắt đầu có dấu hiệu ổn định tích cực.
 
 ---
 
@@ -5803,6 +5984,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MPC giảm từ 15.5 xuống 15.2. Nến giảm có biên độ hẹp với giá cao nhất đạt 15.5 và thấp nhất 14.8. Khối lượng giao dịch giảm (286.8k đơn vị) so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply**. Sau tín hiệu **Sign of Strength (SOS)** nhẹ của phiên trước, việc giá test thấp xuống 14.8 (thấp hơn đáng kể so với đáy 14.9 của ngày 30/7) nhưng có thể phục hồi về 15.2 trên khối lượng giảm cho thấy áp lực bán ở vùng cao 15.5-15.7 vẫn còn tồn tại. Việc khối lượng giảm trong phiên test thấp là dấu hiệu tích cực, cho thấy lực bán không mạnh khi giá giảm. Tuy nhiên, việc không thể duy trì được mức cao và test sâu xuống 14.8 cho thấy lực cầu vẫn chưa đủ mạnh để vượt qua vùng kháng cự 15.6-15.7. Cần theo dõi phản ứng ở vùng hỗ trợ 14.8-15.0 trong các phiên tới để xác nhận khả năng tích lũy hay tiếp tục điều chỉnh.
+**Ngày 2025-08-04:** MPC bùng nổ mạnh mẽ từ 15.2 lên 16.5. Nến tăng có biên độ cực rộng với giá mở cửa 15.0, test cao lên đỉnh mới 17.4 trước khi đóng cửa ở 16.5. Khối lượng giao dịch bùng nổ (907.9k đơn vị), tăng gấp 3.2 lần so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Buying Climax** mạnh mẽ. Sau tín hiệu **Test for Supply** của phiên trước, việc giá bùng nổ từ 15.0 lên đỉnh mới 17.4 với khối lượng tăng vọt cho thấy lực cầu đã xuất hiện rất mạnh mẽ. Việc phá vỡ hoàn toàn vùng kháng cự 15.6-15.7 và tạo đỉnh mới 17.4 trên khối lượng khổng lồ thể hiện sự quan tâm đặc biệt từ thị trường. Tuy nhiên, việc đóng cửa ở 16.5 thấp hơn đáng kể so với đỉnh 17.4 cho thấy có áp lực chốt lời mạnh ở vùng cao mới. Đây là tín hiệu climax điển hình - cần theo dõi các phiên tiếp theo để xác định khả năng tiếp tục tăng hay bước vào giai đoạn phân phối sau đợt tăng mạnh này.
 
 ---
 
@@ -5886,6 +6070,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MSH giảm nhẹ từ 37.8 xuống 37.6. Cây nến giảm có biên độ hẹp (spread 1.15) với bóng dưới dài, mở cửa ở 38.4 nhưng test xuống thấp nhất 37.25 trước khi phục hồi về 37.6. Khối lượng giao dịch giảm mạnh xuống 382.1k đơn vị.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test** sau **Test for Demand** của phiên trước. Việc giá tiếp tục test xuống vùng thấp 37.25 (gần với mức thấp 37.1 của phiên trước) nhưng có thể phục hồi về 37.6 trên khối lượng giảm 27% là dấu hiệu tích cực. Bóng dưới dài thể hiện lực cầu tiếp tục xuất hiện mạnh mẽ ở vùng hỗ trợ 37.0-37.3. Khối lượng giảm đáng kể khi test thấp cho thấy áp lực bán đã suy yếu hơn nữa so với phiên trước, xác nhận rằng **Selling Climax** ngày 29/7 có thể đã thanh lọc xong lực bán. Việc giá không thể phá vỡ xuống dưới vùng 37.0 trong hai phiên liên tiếp với khối lượng giảm dần cho thấy vùng này đang trở thành hỗ trợ mạnh. Tín hiệu này tiếp tục củng cố khả năng kết thúc giai đoạn điều chỉnh và chuẩn bị cho xu hướng phục hồi.
+**Ngày 2025-08-04:** MSH giảm nhẹ từ 37.6 xuống 37.5. Cây nến giảm có biên độ hẹp (spread 0.4) với mức mở cửa 37.6, dao động trong khoảng 37.3-37.7 và đóng cửa ở 37.5. Khối lượng giao dịch giảm nhẹ xuống 373.3k đơn vị.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp theo sau **Secondary Test** của phiên trước. Việc giá giảm nhẹ với biên độ rất hẹp (chỉ 0.4 điểm) trên khối lượng giảm tiếp tục (từ 382.1k xuống 373.3k) cho thấy cả áp lực bán và lực cầu đều đang suy yếu. Tuy nhiên, việc giá vẫn duy trì trên vùng hỗ trợ quan trọng 37.0-37.3 và khối lượng thấp khi giảm giá là dấu hiệu tích cực, xác nhận không có lực bán lớn nào xuất hiện. Đây có thể là giai đoạn hấp thụ cuối cùng trước khi xu hướng tăng trở lại, với thị trường đang trong trạng thái cân bằng sau chuỗi test thành công các phiên trước.
 
 ---
 
@@ -5995,6 +6182,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MSN duy trì ở mức 72.5, không có biến động giá. Cây nến có biên độ hẹp (spread 1.4) với mức cao nhất 72.5 và thấp nhất 71.1. Khối lượng giao dịch giảm mạnh (5.59 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau **Secondary Test (ST)** của phiên trước. Việc giá duy trì ở mức 72.5 mà không có sự thay đổi trong bối cảnh khối lượng giảm mạnh 39% cho thấy cả lực mua và lực bán đều thiếu vắng. Biên độ giá thu hẹp đáng kể (1.4 so với 2.6 phiên trước) và việc test xuống 71.1 nhưng không tạo ra áp lực bán mới xác nhận rằng giai đoạn **Secondary Test** đã hoàn thành thành công. Tín hiệu **No Demand** này là dấu hiệu tích cực trong ngữ cảnh Wyckoff, cho thấy áp lực bán đã cạn kiệt hoàn toàn sau chuỗi test. Kết hợp với việc giá đã test thành công dưới mức **Selling Climax** (70.8 < 72.2) mà không gây ra bán tháo mới, điều này báo hiệu rằng quá trình tích lũy có thể sắp bắt đầu và xu hướng giảm có thể đã kết thúc.
+**Ngày 2025-08-04:** MSN tăng từ 72.5 lên 73.9. Cây nến tăng có biên độ vừa phải (spread 2.2) với mức cao nhất 74.0 và test xuống 71.8. Khối lượng giao dịch tăng nhẹ (5.91 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** sau **No Demand** của phiên trước. Việc giá tăng từ 72.5 lên 73.9 với khối lượng tăng nhẹ 6% cho thấy lực cầu đã bắt đầu quay trở lại sau giai đoạn **No Demand**. Quan trọng là giá test xuống 71.8 (gần mức **Secondary Test** 70.8) nhưng có thể phục hồi mạnh và đóng cửa gần mức cao nhất phiên (73.9 vs 74.0), điều này xác nhận có lực đỡ mạnh ở vùng thấp. Việc khối lượng chỉ tăng nhẹ trong khi giá cải thiện đáng kể cho thấy áp lực bán đã giảm thiểu và lực cầu đang chiếm ưu thế dần. Tín hiệu này kết hợp với chuỗi **Selling Climax → Automatic Rally → Secondary Test → No Demand** trước đó cho thấy quá trình tích lũy đã hoàn thành và xu hướng tăng mới có thể đang bắt đầu hình thành.
 
 ---
 
@@ -6102,6 +6292,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MSR phục hồi từ 20.9 lên 21.5. Cây nến tăng có biên độ rộng (spread 1.6) với mức cao nhất 22.1 và thấp nhất 20.5. Khối lượng giao dịch giảm nhẹ (3.20 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** sau chuỗi **Effort to Fall** của hai phiên trước. Việc giá phục hồi từ 20.9 lên 21.5 và test thành công vùng 22.1 với khối lượng giảm 12% cho thấy lực cầu đã mạnh lên đáng kể. Mặc dù khối lượng giảm nhẹ nhưng hành động giá rất tích cực khi phá vỡ được vùng kháng cự 21.2-21.5 và tăng 2.9% trong phiên. Việc đóng cửa gần mức cao và có thể duy trì trên 21.5 cho thấy lực đỡ tại vùng 20.5-20.8 đã hoạt động hiệu quả. Tín hiệu này xác nhận rằng đợt điều chỉnh sau **Effort to Fall** mạnh mẽ ngày 29/7 có thể đã kết thúc và xu hướng tăng có tiềm năng trở lại.
+**Ngày 2025-08-04:** MSR tiếp tục tăng mạnh từ 21.5 lên 22.2. Cây nến tăng có biên độ rộng (spread 1.3) với mức cao nhất 22.5 và thấp nhất 21.2. Khối lượng giao dịch giảm (2.74 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp tục mạnh mẽ sau **SOS** của phiên trước. Việc giá tiếp tục tăng 3.3% từ 21.5 lên 22.2 và test thành công vùng cao 22.5 cho thấy momentum tăng đang được duy trì tốt. Mặc dù khối lượng giảm 14% xuống 2.74 triệu đơn vị nhưng hành động giá rất tích cực khi phá vỡ thành công vùng kháng cự 22.0-22.1. Việc đóng cửa gần mức cao (22.2 vs cao nhất 22.5) và duy trì trên ngưỡng 22.0 cho thấy lực cầu vẫn đủ mạnh dẫn dắt giá. Tín hiệu này xác nhận rằng xu hướng tăng đã trở lại sau giai đoạn điều chỉnh và MSR có tiềm năng tiếp tục test vùng cao hơn 22.5-23.0 trong những phiên tới.
 
 ---
 
@@ -6211,6 +6404,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** MWG tiếp tục giảm từ 65.3 xuống 65.2. Cây nến giảm có biên độ hẹp (spread 1.5) với mức cao nhất 66.7 và thấp nhất 65.2. Khối lượng giao dịch giảm mạnh (8.22 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau chuỗi **Effort to Fall** mạnh mẽ của các phiên trước. Việc giá giảm rất nhẹ (chỉ 0.1) từ 65.3 xuống 65.2 với khối lượng giảm mạnh 43% (từ 14.55 triệu xuống 8.22 triệu) cho thấy áp lực bán đã suy yếu đáng kể. Mặc dù giá vẫn tạo mức thấp mới tại 65.2, nhưng việc khối lượng giảm mạnh là dấu hiệu tích cực, cho thấy lực bán đã cạn kiệt ở vùng này. Sự test cao lên 66.7 trong phiên thể hiện vẫn có lực cầu xuất hiện, nhưng chưa đủ mạnh để đảo ngược xu hướng. Tín hiệu này có thể là bước đầu của quá trình **Selling Climax** khi lực bán đã giảm đáng kể ở vùng 65.2, cần quan sát thêm để xác nhận có **Automatic Rally** hay không.
+**Ngày 2025-08-04:** MWG tăng mạnh từ 65.2 lên 67.0. Cây nến tăng có biên độ hẹp (spread 1.8) với mức mở cửa và thấp nhất cùng tại 65.2, đóng cửa ở mức cao nhất phiên 67.0. Khối lượng giao dịch duy trì ổn định (8.21 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** sau **Test for Supply** thành công của phiên trước. Việc giá tăng 2.8% từ 65.2 lên 67.0 với khối lượng duy trì ổn định (8.21 triệu so với 8.22 triệu phiên trước) cho thấy lực cầu đã quay trở lại sau khi **Test for Supply** xác nhận áp lực bán đã cạn kiệt ở vùng 65.2. Đặc biệt, việc mở cửa và thấp nhất phiên cùng tại 65.2 (không test xuống thấp hơn) và đóng cửa ở mức cao nhất 67.0 thể hiện sự thống trị hoàn toàn của lực cầu trong phiên. Tín hiệu này xác nhận rằng vùng 65.2 có thể đã tạo thành **Selling Climax** thành công và **Automatic Rally** hiện tại có thể là bước đầu của quá trình phục hồi sau đợt điều chỉnh mạnh từ mức cao 71.1.
 
 ---
 
@@ -6293,6 +6489,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** NKG giảm từ 16.15 xuống 15.5. Cây nến giảm có biên độ rộng (spread 0.85) với mức cao nhất 16.35 và thấp nhất 15.5. Khối lượng giao dịch giảm (20.37 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tích cực sau chuỗi **Test for Supply** của hai phiên trước. Việc giá giảm mạnh 4.0% từ 16.15 xuống 15.5 nhưng khối lượng giảm đáng kể 23% (từ 26.58 triệu xuống 20.37 triệu) cho thấy áp lực bán đã giảm bớt đáng kể. Mặc dù giá test xuống vùng thấp 15.5 (gần với mức hỗ trợ 15.2 của ngày 25/7), việc khối lượng giảm trong phiên điều chỉnh là dấu hiệu tích cực, cho thấy lực bán không mạnh và đây có thể là một nhịp rung lắc kỹ thuật sau giai đoạn tăng mạnh. Vùng 15.5 sẽ là mức quan trọng cần quan sát - nếu được giữ vững với khối lượng thấp, đây sẽ là cơ hội mua tốt trước khi xu hướng tăng tiếp tục.
+**Ngày 2025-08-04:** NKG tăng từ 15.5 lên 15.75. Cây nến tăng có biên độ vừa phải (spread 0.55) với mức cao nhất 15.8 và thấp nhất 15.25. Khối lượng giao dịch giảm mạnh (12.31 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công sau tín hiệu **No Supply** tích cực của phiên trước. Việc giá mở cửa ở 15.35 và tăng lên đóng cửa ở 15.75 (tăng 1.6%) với khối lượng giảm mạnh 40% (từ 20.37 triệu xuống 12.31 triệu) cho thấy lực cầu đã quay trở lại một cách tự nhiên mà không cần khối lượng lớn. Việc giá test xuống vùng thấp 15.25 (gần với mức hỗ trợ quan trọng 15.2) nhưng nhanh chóng phục hồi và đóng cửa gần mức cao nhất phiên thể hiện vùng hỗ trợ 15.2-15.5 đã được củng cố mạnh mẽ. Khối lượng thấp trong phiên tăng giá là dấu hiệu rất tích cực, cho thấy áp lực bán đã cạn kiệt và thị trường sẵn sàng cho đợt tăng giá tiếp theo. Đây là **Test for Demand** thành công, tạo nền tảng vững chắc cho xu hướng tăng trở lại.
 
 ---
 
@@ -6374,6 +6573,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** NLG giảm từ 41.5 xuống 40.2. Cây nến giảm có biên độ hẹp (spread 1.4) với mức cao nhất 41.6 và thấp nhất 40.2. Khối lượng giao dịch tăng (3.57 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** sau tín hiệu **No Supply** của phiên trước. Việc giá giảm từ 41.5 xuống 40.2 và đóng cửa tại mức thấp nhất phiên, kết hợp với khối lượng tăng 47% cho thấy áp lực bán đã quay trở lại. Sự vắng mặt của bóng dưới (close = low) thể hiện lực cầu không xuất hiện để bảo vệ giá trong suốt phiên. Mặc dù vậy, việc giá vẫn duy trì trên vùng hỗ trợ quan trọng 39.0-40.0 cho thấy xu hướng giảm chưa thật sự mạnh mẽ. Tín hiệu này cảnh báo rằng momentum phục hồi của các phiên trước có thể đang yếu đi và cần theo dõi phản ứng của thị trường tại vùng hỗ trợ 39.0-40.0 trong các phiên tới.
+**Ngày 2025-08-04:** NLG tăng mạnh từ 40.2 lên 41.75. Cây nến tăng có biên độ hẹp (spread 1.5) với mức cao nhất 41.75 và thấp nhất 40.25. Khối lượng giao dịch giảm (2.27 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công sau tín hiệu **Sign of Weakness (SOW)** của phiên trước. Việc giá mở cửa ở 40.25 và bứt phá mạnh lên đóng cửa tại mức cao nhất phiên 41.75 (tăng 3.9%) với khối lượng giảm 37% cho thấy **Test for Demand** rất hiệu quả. Sự vắng mặt hoàn toàn của bóng trên (close = high) thể hiện lực cầu đã chiến thắng hoàn toàn trong suốt phiên và không gặp áp lực bán đáng kể. Việc giá phục hồi mạnh mẽ từ vùng hỗ trợ 40.0-40.25 với khối lượng thấp cho thấy áp lực bán đã cạn kiệt và **No Supply** xuất hiện rõ ràng. Tín hiệu này xác nhận vùng hỗ trợ 40.0-40.25 vẫn vững chắc và xu hướng phục hồi có khả năng cao sẽ tiếp tục phát triển trong ngắn hạn.
 
 ---
 
@@ -6478,6 +6680,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** NT2 phục hồi từ 20.2 lên 20.5. Cây nến tăng có biên độ hẹp (spread 0.4) với mức cao nhất 20.5 và thấp nhất 20.1. Khối lượng giao dịch tăng nhẹ (1.54 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** tiếp theo sau **Secondary Test (ST)** thành công của phiên trước. Việc giá tăng 1.5% từ 20.2 lên 20.5 với khối lượng tăng 13.6% (từ 1.35 lên 1.54 triệu) cho thấy lực cầu đã gia tăng sau giai đoạn **Test for Demand** hoàn thành. Mức mở cửa 20.25 cao hơn mức đóng cửa phiên trước và việc duy trì được mức đóng cửa tại đỉnh phiên (20.5) thể hiện sự kiểm soát của lực mua. Khối lượng tăng nhẹ kết hợp với việc giá vượt qua vùng kháng cự gần nhất 20.35 là dấu hiệu tích cực, cho thấy thị trường đang bước vào giai đoạn **Mark Up** ban đầu sau khi hoàn thành chu kỳ tích lũy tại vùng 19.65-20.2. Tín hiệu này xác nhận rằng giai đoạn điều chỉnh đã kết thúc và xu hướng tăng ngắn hạn có thể được khôi phục.
+**Ngày 2025-08-04:** NT2 bứt phá mạnh từ 20.5 lên 21.9. Cây nến tăng có biên độ rộng (spread 0.85) với gap tăng từ 21.05 và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch bùng nổ (4.59 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, tiếp nối **Effort to Rise** của phiên trước. Việc giá gap tăng từ 21.05 (cao hơn 2.4% so với mức đóng cửa phiên trước) và bứt phá lên 21.9 với khối lượng bùng nổ gấp 3 lần (từ 1.54 lên 4.59 triệu) cho thấy lực cầu đã chiếm ưu thế hoàn toàn. Việc đóng cửa tại mức cao nhất phiên (21.9) và không có bóng trên thể hiện áp lực mua áp đảo xuyên suốt phiên. Tín hiệu này xác nhận mạnh mẽ rằng giai đoạn **Mark Up** đã bắt đầu sau chu kỳ tích lũy hoàn thành tại vùng 19.65-20.5. Việc vượt qua vùng kháng cự quan trọng 20.8-20.9 (nơi đã gặp khó khăn trước đây) với khối lượng khổng lồ cho thấy xu hướng tăng mạnh đã được khôi phục và có tiềm năng test cao hơn nữa trong các phiên tới.
 
 ---
 
@@ -6579,6 +6784,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** NTP tăng nhẹ từ 65.2 lên 65.4. Cây nến tăng có biên độ hẹp (spread 1.5) với mức cao nhất 66.5 và thấp nhất 65.0. Khối lượng giao dịch giảm tiếp (192.1k đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** yếu sau giai đoạn consolidation của 2 phiên trước. Việc giá tăng nhẹ chỉ 0.2 điểm với khối lượng giảm tiếp 33% xuống mức thấp nhất trong 3 phiên (192.1k) cho thấy không có lực cầu thực sự tham gia vào thị trường. Mặc dù giá test được mức 66.5 (cao nhất trong 3 phiên consolidation) nhưng việc đóng cửa chỉ ở 65.4 với khối lượng cực thấp thể hiện sự thiếu kiên quyết của phe mua. Vùng 65.0-66.5 đang trở thành trading range với thanh khoản ngày càng giảm, cho thấy thị trường đang chờ đợi catalyst mới để xác định hướng đi tiếp theo. Tình hình trung tính nhưng thiên về tiêu cực do thiếu sự quan tâm của nhà đầu tư.
+**Ngày 2025-08-04:** NTP tăng nhẹ từ 65.4 lên 65.7. Cây nến tăng có biên độ hẹp (spread 1.2) với mức cao nhất 66.2 và thấp nhất 65.0. Khối lượng giao dịch tăng trở lại (259.9k đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** yếu sau giai đoạn **No Demand** của phiên trước. Việc giá tăng nhẹ 0.3 điểm với khối lượng tăng 35% từ 192.1k lên 259.9k cho thấy có sự cải thiện nhẹ trong lực cầu nhưng vẫn chưa đủ mạnh. Mặc dù khối lượng tăng trở lại nhưng vẫn thấp hơn đáng kể so với mức trung bình của các phiên trước đó (khoảng 350-400k). Việc giá test lại vùng 66.2 (gần mức cao của trading range 65.0-66.5) và đóng cửa ở 65.7 thể hiện sự thận trọng của thị trường. Vùng consolidation 65.0-66.5 vẫn đang được duy trì với thanh khoản cải thiện nhẹ. Tín hiệu này cho thấy thị trường đang từ từ tích lũy lại lực cầu sau giai đoạn **Test for Demand** thành công của phiên 30/07, nhưng vẫn cần thêm xác nhận từ các phiên tiếp theo để xác định hướng breakout rõ ràng.
 
 ---
 
@@ -6682,6 +6890,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** NVL tăng mạnh từ 16.65 lên 17.25. Cây nến tăng có biên độ rộng (spread 0.7) với mức cao nhất 17.35 và thấp nhất 16.65. Khối lượng giao dịch tăng mạnh (33.83 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** sau chuỗi **Test for Demand** và **No Demand** của các phiên trước. Việc giá tăng 3.6% từ 16.65 lên 17.25 trên khối lượng tăng 32% lên 33.83 triệu đơn vị cho thấy lực cầu đã quay trở lại mạnh mẽ sau giai đoạn tích lũy. Mức cao nhất phiên 17.35 gần với vùng kháng cự trước đó (17.5 ngày 28/07) cho thấy thị trường đang test lại vùng giá cao. Việc giá mở cửa tại 16.95 (cao hơn đóng cửa phiên trước) và duy trì đà tăng trong suốt phiên với đóng cửa gần mức cao thể hiện sự tin tưởng mạnh mẽ của nhà đầu tư. Tín hiệu **SOS** này rất tích cực, xác nhận vùng 15.95-16.0 là vùng hỗ trợ vững chắc và xu hướng tăng có khả năng cao sẽ tiếp diễn với mục tiêu test lại vùng 17.5-18.0.
+**Ngày 2025-08-04:** NVL bùng nổ từ 17.25 lên 18.45. Cây nến tăng mạnh với biên độ rộng (spread 1.15) và mở cửa tại 17.3 - đóng cửa ở mức cao nhất phiên 18.45. Khối lượng giao dịch tăng vọt (56.7 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Climax** cực kỳ mạnh mẽ sau **Sign of Strength (SOS)** của phiên trước. Việc giá bùng nổ 7.0% từ 17.25 lên 18.45 trên khối lượng tăng 68% lên 56.7 triệu đơn vị cho thấy lực cầu đã đạt đến đỉnh điểm. Đặc biệt, việc không có bóng trên (open = low, close = high) thể hiện áp lực mua áp đảo hoàn toàn trong suốt phiên. Mức 18.45 đã vượt qua hoàn toàn vùng kháng cự trước đó (17.5-18.0) và thiết lập đỉnh mới. Khối lượng khổng lồ gần 57 triệu đơn vị - cao nhất trong 10 phiên gần đây - xác nhận sự tham gia mạnh mẽ của dòng tiền lớn. Tuy nhiên, tín hiệu **Climax** này cảnh báo thị trường có thể sẽ có nhịp điều chỉnh kỹ thuật sau đợt tăng mạnh, cần theo dõi các phiên tiếp theo để xác nhận khả năng duy trì đà tăng.
 
 ---
 
@@ -6764,6 +6975,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PAN tăng mạnh từ 34.0 lên 34.65. Cây nến tăng có biên độ rộng (spread 1.9) với mức cao nhất 35.3 và thấp nhất 33.4. Khối lượng giao dịch tăng vọt (2.9 triệu đơn vị).
 
 - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ tiếp nối **Effort to Rise** tích cực của phiên trước. Việc giá vượt qua vùng kháng cự 34.5 và test cao lên 35.3 (mức cao nhất trong 2 tuần) với khối lượng tăng gấp đôi (từ 1.37 lên 2.9 triệu) cho thấy lực cầu đã bùng nổ mạnh mẽ. Mặc dù có test xuống 33.4 trong phiên nhưng giá nhanh chóng phục hồi và đóng cửa ở 34.65, gần với mức cao của ngày. Biên độ rộng 1.9 cùng với việc vượt qua nhiều mức kháng cự quan trọng (34.2, 34.5) xác nhận momentum tăng đã được củng cố. Khối lượng tăng 112% so với phiên trước thể hiện sự hấp thú mạnh mẽ từ nhà đầu tư. Tín hiệu này cho thấy PAN đã hoàn thành giai đoạn tích lũy và bước vào pha tăng trưởng mới, với vùng hỗ trợ mạnh tại 34.0-34.5.
+**Ngày 2025-08-04:** PAN tiếp tục tăng từ 34.65 lên 35.0. Cây nến tăng có biên độ hẹp (spread 0.85) với mức cao nhất 35.0 và thấp nhất 34.15. Khối lượng giao dịch giảm mạnh (1.29 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau **Sign of Strength (SOS)** mạnh mẽ của phiên trước. Việc giá tiếp tục tăng lên mức cao mới 35.0 nhưng với khối lượng giảm 55% (từ 2.9 xuống 1.29 triệu) cho thấy lực cầu đã suy yếu ở vùng giá cao. Mặc dù vậy, việc giá vẫn duy trì được mức cao và đóng cửa đúng tại đỉnh phiên (35.0) thể hiện áp lực bán chưa xuất hiện mạnh mẽ. Biên độ hẹp 0.85 so với 1.9 của phiên trước cho thấy sự dao động đã giảm, điều này bình thường sau một đợt tăng mạnh. Tín hiệu này cho thấy PAN đang trong giai đoạn kiểm tra nguồn cung ở vùng đỉnh mới, cần quan sát các phiên tiếp theo để xác định khả năng tiếp tục tăng hoặc điều chỉnh. Vùng hỗ trợ quan trọng vẫn duy trì tại 34.0-34.65.
 
 ---
 
@@ -6862,6 +7076,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PC1 tăng vọt từ 25.9 lên 27.7. Cây nến tăng có biên độ rộng (spread 1.4) với mức cao nhất 27.7 và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng mạnh (19.31 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ, tiếp nối hoàn hảo cho tín hiệu **Effort to Rise** của phiên trước. Việc giá tăng 6.9% từ mức mở cửa 27.1 lên 27.7 và đóng cửa tại mức cao nhất phiên trên khối lượng bùng nổ gần 20 triệu đơn vị (cao nhất trong 10 phiên qua) cho thấy lực cầu đã trở lại với sức mạnh áp đảo. Sự vắng mặt hoàn toàn của bóng trên (close = high) thể hiện không có áp lực bán nào cản trở đà tăng. Khối lượng tăng 47% so với phiên trước và cao gấp 6 lần so với các phiên giao dịch bình thường xác nhận sự tham gia mạnh mẽ của dòng tiền lớn. PC1 đã phá vỡ hoàn toàn vùng kháng cự 26.0-26.8 và thiết lập mức cao mới trong chu kỳ hiện tại. Tín hiệu này xác nhận thị trường đã hoàn tất quá trình tích lũy sau đợt **Test for Demand** thành công và đang bước vào giai đoạn markup mạnh mẽ. Mục tiêu tiếp theo có thể hướng tới vùng 28.5-29.0.
+**Ngày 2025-08-04:** PC1 giảm nhẹ từ 27.7 xuống 27.5. Cây nến giảm có biên độ rộng (spread 1.1) với mức cao nhất 28.2 và thấp nhất 27.1. Khối lượng giao dịch giảm mạnh (8.77 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau tín hiệu **Sign of Strength (SOS)** cực kỳ mạnh mẽ của phiên trước. Việc giá mở cửa ở 27.7 và test lên mức cao mới 28.2 nhưng đóng cửa thấp hơn ở 27.5 với khối lượng giảm mạnh 55% so với phiên trước cho thấy **Test for Supply** đang diễn ra. Điều đáng chú ý là mặc dù khối lượng giảm mạnh nhưng giá vẫn test được mức cao mới 28.2, cho thấy lực cầu vẫn còn mạnh. Việc giá chỉ giảm nhẹ 0.2 điểm từ mức đóng cửa phiên trước và vẫn duy trì trên vùng 27.0 là dấu hiệu tích cực. Biên độ rộng 1.1 thể hiện sự kiểm tra nguồn cung tự nhiên sau đợt tăng mạnh. Tín hiệu này cho thấy thị trường đang tiêu hóa lợi nhuận một cách lành mạnh và **Test for Supply** có khả năng thành công, tạo tiền đề cho đợt tăng tiếp theo hướng tới vùng 28.5-29.0.
 
 ---
 
@@ -6942,6 +7159,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PDR giảm nhẹ từ 20.7 xuống 20.2. Cây nến giảm có biên độ vừa phải (spread 0.7) với mức cao nhất 20.85 và thấp nhất 20.15. Khối lượng giao dịch giảm mạnh (16.91 triệu đơn vị so với 26.11 triệu ngày trước).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** với kết quả tích cực sau phiên **Test for Supply** của ngày trước. Việc giá mở cửa tại 20.8 (thấp hơn mức đóng cửa ngày trước) và chỉ giảm nhẹ 0.5 điểm xuống 20.2 trên khối lượng giảm mạnh 35% cho thấy áp lực bán đã suy yếu đáng kể. Điều quan trọng là việc giá test cao lên 20.85 trong phiên (gần bằng mức đóng cửa ngày trước) cho thấy vẫn có lực cầu tích cực ở vùng này. Mặc dù giá test xuống 20.15 (gần với vùng hỗ trợ 20.15 đã xác định trước đó) nhưng đóng cửa tại 20.2 thể hiện có lực đỡ. Biên độ thu hẹp và khối lượng giảm mạnh là dấu hiệu tích cực, cho thấy thị trường đang dần ổn định sau giai đoạn biến động mạnh. Tín hiệu này củng cố thêm cho việc vùng 20.0-20.8 đang trở thành trading range và áp lực bán đã giảm đáng kể so với các phiên trước.
+**Ngày 2025-08-04:** PDR tăng mạnh từ 18.7 lên 19.2. Cây nến tăng có biên độ vừa phải (spread 0.5) với mức cao nhất 19.25 và thấp nhất 18.75. Khối lượng giao dịch giảm mạnh (11.36 triệu đơn vị so với 16.91 triệu ngày trước).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** thành công sau chuỗi **Test for Supply** của các phiên trước. Việc giá mở cửa tại 18.9 (thấp hơn mức đóng cửa ngày trước) nhưng tăng mạnh 2.67% lên 19.2 trên khối lượng giảm 33% cho thấy lực cầu đã xuất hiện mạnh mẽ mà không cần khối lượng lớn. Điều quan trọng là việc giá test cao lên 19.25 trong phiên và chỉ test xuống 18.75 (cao hơn vùng hỗ trợ 18.66 của ngày trước) thể hiện áp lực bán đã suy yếu đáng kể. Việc đóng cửa gần mức cao nhất phiên (19.2 vs 19.25) là dấu hiệu rất tích cực. Tín hiệu này cho thấy vùng 18.66-18.75 đã trở thành hỗ trợ mạnh và thị trường có thể đã hoàn thành giai đoạn điều chỉnh sau cú sốc ngày 29/07. Động thái tăng giá với khối lượng thấp thường là dấu hiệu của lực cầu chất lượng cao, báo hiệu khả năng phục hồi tích cực trong các phiên tới.
 
 ---
 
@@ -7048,6 +7268,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PHR giảm từ 64.0 xuống 62.6. Cây nến giảm có biên độ rộng (spread 2.6) với mức cao nhất 64.4 và thấp nhất 61.8. Khối lượng giao dịch giảm (503.5k đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau **Effort to Rise** mạnh mẽ của phiên trước. Việc giá mở cửa ở 64.2 (gần mức đóng cửa phiên trước 64.0) và test thành công lên 64.4 nhưng sau đó giảm xuống đóng cửa ở 62.6 (giảm 2.2%) với khối lượng giảm 37% (từ 798k xuống 503.5k) cho thấy **Test for Supply** đã thành công. Việc giá test xuống mức thấp 61.8 nhưng phục hồi lên đóng cửa ở 62.6 với khối lượng giảm đáng kể là dấu hiệu tích cực, cho thấy áp lực bán không mạnh và thị trường đang thiếu nguồn cung ở vùng giá này. Biên độ rộng 2.6 với bóng dưới dài (62.6 - 61.8 = 0.8) thể hiện có lực đỡ tốt ở vùng thấp. Tín hiệu này cho thấy đà tăng trước đó vẫn còn nguyên vẹn và chỉ đang trong giai đoạn kiểm tra nguồn cung tự nhiên sau khi tăng mạnh.
+**Ngày 2025-08-04:** PHR giảm từ 62.6 xuống 61.5. Cây nến giảm có biên độ rộng (spread 2.4) với mức cao nhất 63.6 và thấp nhất 61.2. Khối lượng giao dịch tăng (786.6k đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Weakness (SOW)** sau **Test for Supply** thành công của phiên trước. Việc giá mở cửa ở 63.6 (thấp hơn mức đóng cửa phiên trước 62.6) và không thể test lên cao hơn, sau đó giảm xuống đóng cửa ở 61.5 (giảm 1.8%) với khối lượng tăng 56% (từ 503.5k lên 786.6k) cho thấy áp lực bán đã quay trở lại mạnh mẽ. Việc giá test xuống mức thấp 61.2 (thấp hơn cả mức thấp của phiên 01/08 là 61.8) và đóng cửa gần mức thấp nhất thể hiện momentum giảm đang gia tăng. Khối lượng tăng trong phiên giảm giá là dấu hiệu tiêu cực, cho thấy lực bán đang chiếm ưu thế. Tín hiệu này cảnh báo rằng giai đoạn tăng trước đó có thể đã kết thúc và thị trường có khả năng bước vào giai đoạn điều chỉnh sâu hơn trong ngắn hạn.
 
 ---
 
@@ -7159,6 +7382,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PLX tiếp tục giảm từ 36.25 xuống 35.8. Cây nến giảm có biên độ hẹp (spread 0.65) với mức thấp nhất 35.65 và đóng cửa gần mức thấp phiên. Khối lượng giao dịch tăng lên 3.04 triệu đơn vị, cao hơn so với phiên trước (2.1 triệu).
 
 - **Phân tích VPA/Wyckoff:** Sau hai phiên **Test for Demand** liên tiếp, hôm nay PLX thể hiện **Effort to Fall** nhẹ. Việc giá tiếp tục test thấp xuống vùng 35.65 (mức thấp mới trong chu kỳ điều chỉnh) với khối lượng tăng từ 2.1 lên 3.04 triệu cho thấy áp lực bán đã quay trở lại. Tuy nhiên, khối lượng này vẫn thấp hơn đáng kể so với phiên panic selling ngày 29/07 (7.47 triệu), cho thấy áp lực bán chưa đạt mức báo động. Việc đóng cửa ở 35.8 thay vì mức thấp nhất 35.65 cho thấy vẫn có lực đỡ xuất hiện. PLX đang trong giai đoạn tìm đáy sau đợt tăng mạnh, cần theo dõi tín hiệu **Sign of Strength** để xác nhận việc hình thành đáy hoàn chỉnh.
+**Ngày 2025-08-04:** PLX phục hồi từ 35.8 lên 36.6. Cây nến tăng có biên độ rộng (spread 0.85) với mức cao nhất 36.85 và đóng cửa gần mức cao phiên. Khối lượng giao dịch giảm xuống 2.61 triệu đơn vị, thấp hơn so với phiên trước (3.04 triệu).
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Fall** nhẹ của phiên trước, hôm nay PLX thể hiện **Sign of Strength** đầu tiên kể từ đợt điều chỉnh. Việc giá phục hồi mạnh từ 35.8 lên 36.6 và test cao lên 36.85 cho thấy lực cầu đã bắt đầu quay trở lại sau khi test vùng 35.65 - mức thấp mới của chu kỳ điều chỉnh. Mặc dù khối lượng giảm (2.61 triệu so với 3.04 triệu phiên trước), nhưng việc giá tăng mạnh với biên độ rộng và đóng cửa gần mức cao nhất phiên cho thấy lực cầu đã chiếm ưu thế. Đây có thể là tín hiệu đầu tiên của việc hình thành đáy sau đợt panic selling ngày 29/07. Tuy nhiên, cần theo dõi thêm các phiên tiếp theo để xác nhận xu hướng tăng trở lại và khả năng phá vỡ vùng kháng cự 37.0-37.5.
 
 ---
 
@@ -7270,6 +7496,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PNJ tăng vọt từ 84.3 lên 90.3. Cây nến tăng có biên độ rất rộng (spread 6.7) với mức cao nhất 90.3 và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 1.139 triệu đơn vị so với 541.5k của phiên trước.
 
 **Phân tích VPA/Wyckoff:** Sau chuỗi các tín hiệu **Test for Demand** và **Test for Supply** nhẹ của 2 phiên trước, hôm nay PNJ xác nhận **Effort to Rise** mạnh mẽ. Việc giá bứt phá mạnh mẽ từ vùng tích lũy 84.0-85.5 lên 90.3 với khối lượng tăng gấp đôi phiên trước cho thấy lực cầu khổng lồ đã xuất hiện và áp đảo hoàn toàn phe bán. Việc đóng cửa ở mức cao nhất phiên thể hiện phe mua chiếm ưu thế tuyệt đối. Đây là tín hiệu tích cực mạnh mẽ, xác nhận việc hình thành đáy tại vùng 84.0-85.5 đã thành công và đà tăng mới đã được khởi động. Mức 90.3 sẽ trở thành vùng kháng cự quan trọng cần quan sát trong các phiên tới.
+**Ngày 2025-08-04:** PNJ giảm từ 90.3 xuống 86.5. Cây nến giảm có biên độ rộng (spread 2.9) với mức mở cửa 86.0, cao nhất 86.9 và thấp nhất 84.0. Khối lượng giao dịch giảm xuống 775.5k đơn vị so với 1.139 triệu của phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên 01/08, hôm nay PNJ thể hiện **Test for Supply**. Việc giá mở cửa gap down về 86.0 và giảm xuống test vùng 84.0 (gần đáy cũ) trước khi đóng cửa tại 86.5 với khối lượng giảm đáng kể cho thấy áp lực chốt lời đã xuất hiện ở vùng cao 90.3. Việc khối lượng giảm mạnh trong bối cảnh giá giảm là dấu hiệu tích cực, cho thấy áp lực bán không quá mạnh và đây có thể chỉ là nhịp điều chỉnh kỹ thuật sau đợt tăng mạnh. Việc giá vẫn duy trì trên vùng hỗ trợ cũ 84.0-85.5 và đóng cửa tại 86.5 cho thấy lực đỡ vẫn có mặt. Đây là tín hiệu **Test for Supply** bình thường sau breakthrough, cần quan sát phản ứng của thị trường trong các phiên tới để xác nhận xu hướng.
 
 ---
 
@@ -7374,6 +7603,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** Sau 3 phiên **Test for Supply** liên tiếp, POW tiếp tục điều chỉnh từ 14.4 xuống 14.25. Cây nến có biên độ hẹp (spread 0.6) với mức cao nhất 14.75 và mức thấp nhất 14.15. Khối lượng giao dịch giảm tiếp xuống 13.45 triệu đơn vị, thấp nhất trong 4 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Phiên hôm nay tiếp tục xác nhận **Test for Supply** với tín hiệu tích cực hơn so với phiên trước. Việc giá mở cửa tại 14.4 nhưng vẫn test lên mức 14.75 (gần vùng kháng cự 14.8) rồi đóng cửa tại 14.25 với khối lượng giảm mạnh 14% cho thấy áp lực bán đang suy yếu đáng kể. Điểm tích cực là giá vẫn duy trì trên vùng hỗ trợ quan trọng 14.0-14.25 và khối lượng giảm liên tục trong 3 phiên test supply này thể hiện không có áp lực bán panic. Giai đoạn tiêu hóa nguồn cung sau đợt tăng lên 15.25 đang diễn ra tích cực. Nếu lực cầu quay trở lại ở vùng 14.0-14.25 với khối lượng tăng, đây sẽ là cơ hội tốt cho đợt tăng tiếp theo hướng tới vùng 15.0-15.25.
+**Ngày 2025-08-04:** Sau chuỗi 4 phiên **Test for Supply** liên tiếp, POW bật tăng mạnh từ 14.35 lên 14.75. Cây nến tăng có biên độ rộng (spread 0.65) với mức cao nhất 14.85 và mức thấp nhất 14.2, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch duy trì ổn định tại 13.37 triệu đơn vị, tương đương phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau giai đoạn **Test for Supply** kéo dài 4 phiên với khối lượng giảm dần từ 30.68 triệu xuống 13.45 triệu, phiên hôm nay thể hiện **Sign of Strength (SOS)** rõ ràng. Việc giá bứt phá khỏi vùng test 14.0-14.4 và tăng mạnh lên 14.75 với khối lượng ổn định cho thấy lực cầu đã quay trở lại sau giai đoạn tiêu hóa nguồn cung thành công. Điểm tích cực là giá test lên gần mức kháng cự 14.85 và đóng cửa tại 14.75, thể hiện phe mua đang kiểm soát tốt. Việc không cần khối lượng quá lớn để tạo ra mức tăng 3.5% cho thấy áp lực bán đã giảm đáng kể sau 4 phiên test. Đây là tín hiệu tích cực cho thấy POW đã hoàn thành giai đoạn điều chỉnh và sẵn sàng cho đợt tăng tiếp theo hướng tới vùng 15.0-15.25.
 
 ---
 
@@ -7459,6 +7691,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, PTB điều chỉnh từ 55.6 xuống 54.4. Cây nến giảm có biên độ rộng (spread 2.1) với mức cao nhất 55.6 và mức thấp nhất 53.5. Khối lượng giao dịch giảm (121.5k đơn vị).
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau đợt hồi phục mạnh của phiên trước. Việc giá mở cửa tại mức cao 55.6 nhưng bị bán xuống thấp nhất 53.5 rồi đóng cửa ở 54.4 với khối lượng giảm 21% (121.5k vs 154.8k) cho thấy áp lực bán đã xuất hiện nhưng không quá mạnh. Việc giá test xuống gần vùng 53.5 (tương đương với đáy ngày 29/07) nhưng khối lượng giảm so với phiên trước là dấu hiệu tích cực, cho thấy lực bán không có sự tham gia mạnh mẽ. Việc đóng cửa ở giữa trading range của phiên và khối lượng thấp hơn cho thấy đây chỉ là test supply tự nhiên sau đợt tăng mạnh. Xu hướng hồi phục vẫn còn nguyên vẹn nếu PTB có thể giữ được vùng hỗ trợ 53.5-54.0 trong các phiên tới.
+**Ngày 2025-08-04:** Sau tín hiệu **Test for Supply** của phiên trước, PTB tiếp tục điều chỉnh nhẹ từ 54.4 xuống 54.1. Cây nến giảm có biên độ hẹp (spread 0.9) với mức cao nhất 54.9 và mức thấp nhất 54.0. Khối lượng giao dịch giảm mạnh (44.7k đơn vị).
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **Test for Supply** hôm qua. Việc giá giảm nhẹ với khối lượng sụt giảm 63% (44.7k vs 121.5k) cho thấy áp lực bán đã yếu đi đáng kể nhưng lực cầu cũng chưa xuất hiện mạnh mẽ để hỗ trợ giá. Việc giá dao động trong biên độ hẹp quanh vùng 54.0-54.9 và đóng cửa gần mức thấp với khối lượng thấp cho thấy thị trường đang thiếu động lực rõ ràng. Mặc dù vẫn giữ được trên vùng hỗ trợ quan trọng 53.5-54.0, tín hiệu **No Demand** này cho thấy xu hướng hồi phục đang tạm dừng và cần thêm xúc tác từ lực cầu để tiếp tục đà tăng.
 
 ---
 
@@ -7566,6 +7801,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PVI phục hồi mạnh từ 61.7 lên 62.8. Cây nến tăng có biên độ rộng (spread 2.6) với mức cao nhất 63.9 và mức thấp nhất 61.3. Khối lượng giao dịch tăng vọt gần 7 lần (39.6k đơn vị) so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên hôm nay thể hiện **Effort to Rise** mạnh mẽ với sự quay trở lại của lực cầu. Việc giá test xuống 61.3 (thấp hơn mức đóng cửa hôm qua) nhưng phục hồi mạnh lên 62.8 với khối lượng tăng vọt từ 5.8k lên 39.6k đơn vị cho thấy lực cầu đã xuất hiện mạnh mẽ để hấp thụ áp lực bán ở vùng thấp. Việc test được mức cao 63.9 và đóng cửa gần mức cao phiên thể hiện sự kiểm soát của lực cầu. Đây là tín hiệu tích cực mạnh cho thấy giai đoạn cân bằng và tích lũy đã kết thúc, xu hướng tăng có khả năng phục hồi sau đợt điều chỉnh từ đỉnh 65.4.
+**Ngày 2025-08-04:** PVI giảm nhẹ từ 62.8 xuống 62.2. Cây nến giảm có biên độ hẹp (spread 1.0) với mức cao nhất 63.0 và mức thấp nhất 62.0. Khối lượng giao dịch giảm về 24.4k đơn vị, giảm 38% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên hôm nay thể hiện **Test for Supply** bình thường. Việc giá giảm nhẹ từ 62.8 xuống 62.2 với khối lượng giảm đáng kể từ 39.6k xuống 24.4k cho thấy không có áp lực bán mạnh ở vùng giá này. Mặc dù test xuống 62.0 nhưng việc đóng cửa tại 62.2 và khối lượng giảm thể hiện nguồn cung hạn chế. Việc không thể vượt qua mức 63.0 (thấp hơn đỉnh 63.9 của phiên trước) cho thấy lực cầu đang tạm nghỉ sau đợt phục hồi. Đây là giai đoạn test bình thường sau tín hiệu tích cực, tạo nền tảng cho xu hướng tăng tiếp theo khi lực cầu quay trở lại.
 
 ---
 
@@ -7673,6 +7911,10 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** PVS tăng nhẹ từ 34.3 lên 34.5. Cây nến tăng có biên độ hẹp (spread 0.8) với mức cao nhất 35.1 và mức thấp nhất tại mở cửa. Khối lượng giao dịch giảm mạnh (7.81 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** mạnh mẽ với đặc điểm tiêu cực của phiên trước, phiên hôm nay thể hiện **Test for Demand** yếu. Việc giá mở cửa tại mức thấp 34.3 và chỉ phục hồi nhẹ lên 34.5 với khối lượng giảm mạnh 30% cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng giảm ngắn hạn. Mặc dù giá có test lên 35.1 nhưng việc đóng cửa chỉ tại 34.5 với khối lượng thấp thể hiện sự thiếu vắng quan tâm từ nhà đầu tư. Việc không thể vượt qua resistance 35.1-35.2 và khối lượng suy yếu là tín hiệu cảnh báo về sức mạnh của đợt phục hồi này. Tín hiệu trung tính thiên tiêu cực, cần quan sát phản ứng tại vùng support quan trọng 34.0-34.2 trong các phiên tới.
+**Ngày 2025-08-04:**
+PVS giảm từ 34.8 xuống 34.1. Cây nến giảm có biên độ rộng (spread 1.0) với mức cao nhất tại mở cửa và mức thấp nhất 33.8. Khối lượng giao dịch giảm (6.20 triệu đơn vị).
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Demand** yếu của phiên trước, phiên hôm nay xác nhận **No Demand** rõ ràng. Việc giá mở cửa tại mức cao nhất phiên (34.8) nhưng bị bán xuống 33.8 và đóng cửa tại 34.1 với khối lượng giảm tiếp 21% cho thấy lực cầu đã suy yếu đáng kể. Hình thái nến giảm với bóng dưới ngắn thể hiện áp lực bán nhẹ nhưng thiếu hoàn toàn lực cầu để hỗ trợ. Việc giá phá vỡ support 34.2-34.3 và test xuống vùng 33.8 với khối lượng thấp là tín hiệu cảnh báo về xu hướng yếu kém. Đây là giai đoạn **No Demand** điển hình sau chu kỳ tăng, thị trường có thể tiếp tục điều chỉnh xuống vùng support tiếp theo 33.0-33.2 nếu không có lực cầu mạnh xuất hiện.
 
 ---
 
@@ -7780,6 +8022,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** Sau giai đoạn tích lũy với tín hiệu **Absence of Supply** của phiên trước, hôm nay PVT bứt phá mạnh từ 18.0 lên 18.3. Cây nến tăng có biên độ rộng (spread 0.75) với mức cao nhất 18.65 và thấp nhất 17.9. Khối lượng giao dịch tăng vọt lên 7.57 triệu đơn vị, tăng gần 161% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực mạnh sau giai đoạn tích lũy. Việc giá bứt phá khỏi vùng consolidation 18.0-18.05 với khối lượng tăng vọt từ 2.90 triệu lên 7.57 triệu (tăng 161%) thể hiện lực cầu đã quay trở lại quyết liệt. Đặc biệt, việc giá test cao lên 18.65 và đóng cửa tại 18.3 cho thấy khả năng phá vỡ vùng kháng cự 18.3-18.35. So với đợt bán tháo ngày 29/07 có khối lượng 7.59 triệu, phiên hôm nay có khối lượng tương đương nhưng với hành động giá tích cực hoàn toàn ngược lại. Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, xác nhận sự kết thúc giai đoạn điều chỉnh và khởi đầu cho xu hướng tăng mới.
+**Ngày 2025-08-04:** Sau tín hiệu **Sign of Strength (SOS)** mạnh mẽ của phiên trước, hôm nay PVT điều chỉnh nhẹ từ 18.05 xuống 18.1. Cây nến tăng có biên độ hẹp (spread 0.25) với mức cao nhất 18.3 và thấp nhất 18.05. Khối lượng giao dịch giảm xuống 4.77 triệu đơn vị, giảm 37% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** cực mạnh của phiên trước, phiên consolidation hôm nay thể hiện **Test for Supply** tích cực. Việc giá dao động trong biên độ hẹp 18.05-18.3 với khối lượng giảm từ 7.57 triệu xuống 4.77 triệu cho thấy áp lực chốt lời không mạnh và thị trường đang tiêu hóa tốt đợt tăng trước đó. Đặc biệt, việc giá duy trì trên vùng 18.0 và đóng cửa tại 18.1 thể hiện lực cầu vẫn kiểm soát tình hình. Đây là nhịp nghỉ ngơi lành mạnh sau đợt bứt phá, tạo nền tảng vững chắc cho xu hướng tăng tiếp theo. Tín hiệu vẫn tích cực trong xu hướng tăng được xác nhận.
 
 ---
 
@@ -7886,6 +8131,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** QNS giảm nhẹ từ 48.9 xuống 48.7. Cây nến giảm có biên độ hẹp (spread 0.3) với mức cao nhất 49.0 và mức thấp nhất 48.7. Khối lượng giao dịch giảm mạnh (133.9k đơn vị).
 
 - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Effort to Rise** mạnh mẽ của phiên trước, phiên điều chỉnh nhẹ hôm nay với khối lượng giảm gần 49% từ 260.9k xuống 133.9k thể hiện **Test for Supply** tích cực. Việc giá chỉ điều chỉnh nhẹ từ 48.8 xuống 48.7 mặc dù có test lên mức 49.0 cho thấy áp lực bán không mạnh sau đợt tăng. Khối lượng giảm đáng kể trong phiên điều chỉnh là dấu hiệu tích cực, cho thấy việc chốt lời không ồ ạt và thị trường vẫn duy trì được sự cân bằng ở vùng giá cao. Đây là nhịp điều chỉnh lành mạnh sau giai đoạn phục hồi, tạo cơ sở cho đà tăng tiếp tục trong các phiên tới.
+**Ngày 2025-08-04:** QNS tăng nhẹ từ 48.7 lên 48.9. Cây nến tăng có biên độ hẹp (spread 0.4) với mức cao nhất 49.1 và mức thấp nhất 48.7. Khối lượng giao dịch tăng (162.6k đơn vị).
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** tích cực của phiên trước, phiên hôm nay thể hiện **Effort to Rise** nhẹ. Việc giá phục hồi từ 48.7 lên 48.9 và test lên mức cao 49.1 với khối lượng tăng từ 133.9k lên 162.6k cho thấy lực cầu đã quay trở lại sau nhịp điều chỉnh lành mạnh. Việc đóng cửa tại mức trung bình phiên (48.9) và khối lượng tăng nhẹ 21% thể hiện sự cân bằng tích cực giữa cung và cầu. Mặc dù mức độ tăng còn hạn chế nhưng việc test thành công lên vùng 49.1 là dấu hiệu tích cực cho thấy thị trường đang dần khôi phục đà tăng sau giai đoạn consolidation. Tín hiệu **Effort to Rise** nhẹ này củng cố xu hướng phục hồi đã bắt đầu từ phiên 31/7.
 
 ---
 
@@ -7971,6 +8219,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** REE tiếp tục giảm từ 66.8 xuống 65.5. Cây nến giảm có biên độ rộng với mức thấp nhất 64.8, test sâu xuống dưới vùng support 65.8-66.7 đã hình thành trong 2 phiên trước. Khối lượng giao dịch tăng mạnh lên 1.779.400 đơn vị, tăng 71% so với phiên trước và đạt mức cao nhất trong 10 phiên qua.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax** rất mạnh mẽ sau chuỗi **Test for Demand** của 2 phiên trước. Việc giá phá vỡ xuống dưới vùng support quan trọng 65.8-66.7 với khối lượng tăng vọt 71% cho thấy áp lực bán cuối cùng đã nổ ra. Biên độ rộng 2.0 điểm và việc test xuống vùng thấp 64.8 (thấp nhất từ đầu tháng 7) trên khối lượng cực cao thể hiện đặc điểm điển hình của selling climax. Mặc dù tín hiệu tiêu cực ngắn hạn, nhưng khối lượng cực cao tại vùng giá thấp thường báo hiệu giai đoạn bán tháo cuối cùng trước khi hình thành nền. Cần theo dõi phản ứng của thị trường trong các phiên tới để xác nhận khả năng hình thành đáy.
+**Ngày 2025-08-04:** REE phục hồi mạnh từ 65.3 lên 66.8. Cây nến tăng có biên độ hẹp với mức cao nhất 66.8, đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 565.600 đơn vị, giảm 68% so với phiên **Selling Climax** trước đó và đạt mức thấp nhất trong 10 phiên qua.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Reaction** điển hình sau phiên **Selling Climax** mạnh mẽ ngày 01/8. Việc giá phục hồi từ vùng thấp 65.3 (gần với low 64.8 của phiên trước) lên 66.8 trên khối lượng giảm mạnh 68% cho thấy áp lực bán đã cạn kiệt và lực cầu tự nhiên đang xuất hiện. Biên độ hẹp nhưng đóng cửa ở mức cao nhất phiên thể hiện sự kiểm soát tốt của phe mua. Khối lượng thấp kỷ lục trong bối cảnh giá phục hồi là dấu hiệu tích cực, xác nhận rằng selling climax đã hoàn tất và thị trường đang bước vào giai đoạn hình thành nền. Vùng 64.8-65.5 có thể đã tạo thành support quan trọng cho chu kỳ phục hồi tiếp theo.
 
 ---
 
@@ -8082,6 +8333,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SAB tiếp tục tăng nhẹ từ 47.7 lên 47.95. Cây nến tăng có biên độ hẹp với dao động 47.7-48.05. Khối lượng giao dịch giảm mạnh xuống 1.03 triệu đơn vị, giảm 46% so với phiên **No Supply** trước đó.
 
 **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **No Supply** tích cực của phiên trước, hành động giá hôm nay tiếp tục củng cố **No Supply** mạnh mẽ hơn. Việc giá tăng với biên độ hẹp trên khối lượng giảm gần một nửa cho thấy áp lực bán đã cạn kiệt hoàn toàn ở vùng 47.5-48.0. Đây là dấu hiệu rất tích cực, xác nhận quá trình hình thành nền vững chắc đã hoàn tất sau 3 phiên kiểm tra liên tiếp. Với việc duy trì xu hướng tăng nhẹ trên khối lượng thấp, SAB đang chuẩn bị sẵn sàng cho đợt **Effort to Rise** trong các phiên tới khi có xúc tác tích cực.
+**Ngày 2025-08-04:** SAB tăng nhẹ từ 48.0 lên 48.1. Cây nến tăng có biên độ hẹp với dao động 47.65-48.1. Khối lượng giao dịch giảm mạnh xuống 804.800 đơn vị, giảm 22% so với phiên **No Supply** trước đó.
+
+**Phân tích VPA/Wyckoff:** Tiếp nối chuỗi 3 phiên **No Supply** liên tiếp, hành động giá hôm nay tiếp tục củng cố **No Supply** vượt trội. Việc giá tăng với biên độ hẹp trên khối lượng giảm mạnh xuống dưới 1 triệu đơn vị cho thấy áp lực bán đã cạn kiệt hoàn toàn và thị trường đang trong giai đoạn tích lũy ở vùng 47.5-48.1. Đây là dấu hiệu rất tích cực, xác nhận nền tảng vững chắc đã được thiết lập sau đợt **Effort to Fall** của ngày 29/7. Với 4 phiên liên tiếp cho thấy **No Supply**, SAB đang ở vị thế sẵn sàng cho đợt **Effort to Rise** mạnh mẽ khi có xúc tác tích cực. Tín hiệu tích cực mạnh.
 
 ---
 
@@ -8189,6 +8443,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SCS tiếp tục giảm mạnh từ 64.1 xuống 62.4. Cây nến giảm có biên độ rộng với dao động 62.4-64.2. Khối lượng giao dịch tăng vọt lên 1.030.900 đơn vị, tăng 107% so với phiên trước và đạt mức cao nhất trong 3 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Weak Demand** của phiên trước, đây là tín hiệu **Effort to Fall** mạnh mẽ. Việc giá phá vỡ xuống dưới support 64.0 và sụt giảm thêm 2.7% với khối lượng tăng gấp đôi cho thấy áp lực bán đã gia tăng trở lại. Đây là phiên thứ hai trong chuỗi giảm liên tiếp kể từ sau đợt bán tháo ngày 29/7, xác nhận xu hướng yếu kém đang tiếp diễn. Việc đóng cửa tại mức thấp nhất thể hiện sự kiểm soát của phe bán. Thị trường đang trong giai đoạn điều chỉnh sâu và cần thêm thời gian để hình thành nền vững chắc trước khi có thể phục hồi.
+**Ngày 2025-08-04:** SCS tăng nhẹ từ 62.4 lên 63.1. Cây nến tăng có biên độ hẹp với dao động 62.4-63.4. Khối lượng giao dịch giảm mạnh xuống 357.5k đơn vị, giảm 65% so với phiên **Effort to Fall** trước đó.
+
+**Phân tích VPA/Wyckoff:** Tiếp nối phiên **Effort to Fall** mạnh mẽ của ngày trước, đây là tín hiệu **Test for Demand** tích cực. Việc giá phục hồi nhẹ từ mức thấp 62.4 lên 63.1 với khối lượng giảm đáng kể cho thấy áp lực bán đang cạn kiệt và có dấu hiệu lực cầu bắt đầu xuất hiện tại vùng giá thấp. Mặc dù mức tăng còn khiêm tốn, nhưng việc khối lượng giảm mạnh trong khi giá tăng là tín hiệu tích cực, cho thấy thị trường có thể đang hình thành nền tại vùng 62.0-63.0 sau chuỗi điều chỉnh kéo dài từ đầu tuần. Cần theo dõi các phiên tiếp theo để xác nhận khả năng phục hồi bền vững.
 
 ---
 
@@ -8296,6 +8553,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** Sau tín hiệu **Effort to Rise** cực kỳ mạnh mẽ của phiên trước với khối lượng tăng vọt 200%, hôm nay SGT điều chỉnh từ 17.6 xuống 17.15 (-2.6%). Cây nến giảm có biên độ rộng với thân nến lớn. Khối lượng giao dịch giảm mạnh 53% xuống còn 88.5k đơn vị.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** tích cực sau đợt bứt phá mạnh mẽ. Việc giá điều chỉnh từ đỉnh 17.7 về 17.15 trên khối lượng giảm mạnh 53% cho thấy áp lực bán chốt lời là có nhưng không quá mạnh. Đặc biệt, mức giá 17.15 vẫn cao hơn đáng kể so với vùng test 16.5 của ngày 29/7, và cũng nằm trong vùng kháng cự cũ đã bị phá vỡ (17.2-17.25) - điều này cho thấy việc phá vỡ là thực sự và vùng này giờ trở thành support. Tín hiệu **Test for Supply** này là bình thường và lành mạnh sau đợt tăng mạnh, tạo nền tảng cho chu kỳ tăng tiếp theo.
+**Ngày 2025-08-04:** Sau tín hiệu **Test for Supply** tích cực của phiên trước, hôm nay SGT tiếp tục điều chỉnh nhẹ từ 17.15 xuống 17.15 (đi ngang). Cây nến có biên độ hẹp từ 16.8 đến 17.2 với thân nến nhỏ, mở cửa thấp hơn tại 16.85 nhưng đóng cửa ổn định ở 17.15. Khối lượng giao dịch tăng 60% lên 141.6k đơn vị - cao nhất trong 3 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Việc giá mở cửa gap down tại 16.85 nhưng được đẩy lên và đóng cửa ở mức cao 17.15 với khối lượng tăng 60% cho thấy lực cầu đã xuất hiện mạnh mẽ khi giá test xuống vùng thấp. Đặc biệt, mức thấp nhất 16.8 chỉ cao hơn một chút so với vùng test 16.5 của ngày 29/7, nhưng phản ứng của thị trường lại tích cực hơn nhiều. Việc giá được hỗ trợ tốt tại vùng 16.8-17.0 và đóng cửa ở mức cao với khối lượng tăng xác nhận vùng support 17.0-17.15 (cũ là kháng cự) đang hoạt động hiệu quả. Tín hiệu rất tích cực cho xu hướng tăng tiếp tục sau giai đoạn test và tích lũy.
 
 ---
 
@@ -8382,6 +8642,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SHB mở cửa ở 17.5 và duy trì ở vùng cao, dao động trong khoảng 17.05-17.65 trước khi đóng cửa ở 17.4. Cây nến có thân nến nhỏ với bóng dưới ngắn, thể hiện sự ổn định. Khối lượng giao dịch giảm xuống 120.28 triệu đơn vị so với 181.31 triệu của phiên trước.
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu **SOS** cực kỳ mạnh mẽ của phiên 31/7, đây là tín hiệu **No Supply** tích cực. Việc giá duy trì ở vùng cao 17.4 (chỉ giảm nhẹ 1.2% từ đỉnh 17.2) với khối lượng giảm 34% cho thấy áp lực bán đã được hấp thụ hoàn toàn và không còn nguồn cung đáng kể tại vùng giá này. Việc giá dao động trong khoảng hẹp 17.05-17.65 với xu hướng tích lũy tại vùng cao xác nhận sức mạnh của phe mua. Tín hiệu **No Supply** này sau **SOS** mạnh mẽ là dấu hiệu rất tích cực, cho thấy xu hướng tăng vẫn còn nguyên vẹn và có tiềm năng tiếp tục phát triển sau giai đoạn tích lũy ngắn hạn.
+**Ngày 2025-08-04:** SHB tăng mạnh từ 17.4 lên 18.6. Cây nến tăng có biên độ rộng 1.2 điểm với mức mở cửa và thấp nhất cùng tại 17.4, đóng cửa tại mức cao nhất phiên 18.6. Khối lượng giao dịch giảm xuống 91.14 triệu đơn vị so với 120.28 triệu của phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** tích cực của phiên trước, đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ với đặc điểm đặc biệt. Việc giá bứt phá 6.9% lên mức cao mới 18.6 với khối lượng giảm 24% thể hiện tín hiệu **Effort to Rise on Reduced Volume** - một trong những tín hiệu tích cực nhất trong phương pháp Wyckoff. Việc không có áp lực bán nào (giá mở cửa = mức thấp nhất) và đóng cửa tại đỉnh cho thấy lực cầu hoàn toàn kiểm soát phiên giao dịch. Chuỗi tín hiệu hoàn chỉnh từ **SOS** (31/7) → **No Supply** (01/8) → **SOS trên khối lượng giảm** (04/8) xác nhận xu hướng tăng mạnh mẽ và bền vững với tiềm năng tiếp tục phát triển.
 
 ---
 
@@ -8493,6 +8756,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SHS giảm từ 23.0 xuống 21.5. Cây nến giảm có biên độ rộng với mức thấp nhất 21.0, mở cửa tại 23.0 và đóng cửa tại 21.5. Khối lượng giao dịch tăng mạnh (71.74 triệu đơn vị), tăng 38.6% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Sau chuỗi tín hiệu **No Supply** mạnh mẽ và đà tăng ấn tượng từ 16.1 đến 23.8 (tăng 47.8% trong 8 phiên), đây là tín hiệu **Test for Supply** quan trọng. Việc giá giảm 6.5% trên khối lượng tăng mạnh 38.6% cho thấy áp lực bán chốt lời đã xuất hiện rõ rệt sau đợt tăng mạnh. Tuy nhiên, điều đáng chú ý là giá đã test xuống 21.0 nhưng vẫn đóng cửa trên mức này tại 21.5, cho thấy vẫn có sự hỗ trợ tại vùng giá thấp hơn. Đây là nhịp điều chỉnh kỹ thuật bình thường sau đợt markup mạnh mẽ, thị trường cần thời gian để tiêu hóa nguồn cung và kiểm tra mức độ hỗ trợ tại các vùng giá thấp hơn. Cần theo dõi phiên tiếp theo để xác định liệu đây có phải là kết thúc đợt tăng hay chỉ là nhịp test trước khi tiếp tục xu hướng tăng.
+**Ngày 2025-08-04:** SHS tăng mạnh từ 21.5 lên 23.6. Cây nến tăng có biên độ rộng với mức thấp nhất 20.5, mở cửa tại 21.5 và đóng cửa ở mức cao nhất phiên 23.6. Khối lượng giao dịch giảm (58.49 triệu đơn vị), giảm 18.5% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** của phiên trước với áp lực bán chốt lời rõ rệt, đây là tín hiệu **No Supply** cực kỳ mạnh mẽ trở lại. Việc giá bứt phá 9.8% từ 21.5 lên 23.6 với khối lượng giảm 18.5% cho thấy áp lực bán đã hoàn toàn biến mất sau nhịp test và lực cầu dễ dàng đẩy giá lên mức cao mới. Đặc biệt đáng chú ý là giá đã test xuống 20.5 (thấp hơn mức đóng cửa phiên trước) nhưng nhanh chóng phục hồi và đóng cửa ở đỉnh phiên 23.6, cho thấy sự hỗ trợ mạnh mẽ tại vùng 20.5-21.0. Tín hiệu này xác nhận rằng nhịp điều chỉnh của phiên trước chỉ là test kỹ thuật và xu hướng tăng mạnh vẫn tiếp tục. SHS đã phục hồi lại gần mức đỉnh 23.8 và cho thấy tiềm năng tiếp tục bứt phá lên vùng giá cao hơn. Tín hiệu rất tích cực.
 
 ---
 
@@ -8600,6 +8866,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SIP giảm từ 67.3 xuống 64.8. Cây nến giảm có biên độ rộng với mức thấp nhất 64.7, gần như đóng cửa ở mức thấp nhất của phiên. Khối lượng giao dịch giảm xuống 717.2k đơn vị, giảm 59% so với phiên trước (1.77 triệu đơn vị).
 
 **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Sign of Strength mạnh mẽ của phiên trước, việc giá giảm mạnh 3.7% nhưng trên khối lượng giảm đáng kể (59%) cho thấy đây là một phiên test điển hình. Việc test xuống vùng 64.7-64.8 (gần support cũ 65.2) nhưng không có selling pressure mạnh thể hiện qua khối lượng thấp là tín hiệu tích cực. Phe bán không có đủ lực để đẩy giá xuống sâu hơn, trong khi việc đóng cửa gần mức thấp nhất chỉ phản ánh tâm lý thận trọng tạm thời sau đợt tăng mạnh. Khối lượng giảm mạnh là yếu tố then chốt, cho thấy áp lực bán đã cạn kiệt và thị trường đang test lại độ bền vững của support trước khi tiếp tục xu hướng tăng.
+**Ngày 2025-08-04:** SIP giảm nhẹ từ 64.8 xuống 64.6. Cây nến giảm có biên độ hẹp với mức cao nhất 65.4 và thấp nhất 64.1, đóng cửa gần mức trung bình của phiên. Khối lượng giao dịch giảm mạnh xuống 469.3k đơn vị, giảm 35% so với phiên trước (717.2k đơn vị).
+
+**Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Test for Demand của phiên trước, việc giá dao động trong biên độ hẹp (65.4-64.1) và giảm nhẹ chỉ 0.2 điểm trên khối lượng giảm mạnh cho thấy thị trường đang thiếu động lực từ cả hai phía. Việc mở cửa ở 65.0 và test lên 65.4 nhưng không thể duy trì, sau đó giảm xuống 64.1 rồi phục hồi về 64.6 thể hiện sự do dự của thị trường. Khối lượng thấp (469.3k) so với các phiên trước cho thấy cả phe mua và phe bán đều đứng ngoài quan sát. Tín hiệu No Demand này là trung tính, thị trường cần thêm xúc tác để xác định hướng đi tiếp theo. Vùng 64.1-65.4 đang trở thành vùng cân bằng tạm thời.
 
 ---
 
@@ -8704,6 +8973,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SSH tăng nhẹ từ 89.0 lên 89.2. Cây nến tăng có biên độ hẹp với mức mở cửa 89.6, test cao lên 90.0 và mức thấp nhất 88.9. Khối lượng giao dịch tăng nhẹ (30.800 đơn vị) so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tiếp nối **Test for Supply** nhẹ của phiên trước tại vùng kháng cự 91.0, hành động giá hôm nay thể hiện **Test for Demand** tích cực. Việc giá mở cửa ở 89.6, test xuống mức thấp 88.9 nhưng phục hồi và đóng cửa cao hơn phiên trước với khối lượng tăng nhẹ cho thấy lực cầu đã can thiệp tại vùng hỗ trợ 88.9-89.0. Mặc dù biên độ tăng hẹp, nhưng khả năng test thấp và phục hồi với khối lượng tăng là dấu hiệu tích cực. SSH đang trong giai đoạn consolidation tại vùng 88-91 sau chuỗi tín hiệu phục hồi trước đó. Cần theo dõi khả năng vượt qua vùng kháng cự 91-92 với khối lượng tăng để xác nhận xu hướng tăng tiếp tục.
+**Ngày 2025-08-04:** SSH tăng từ 89.2 lên 91.1. Cây nến tăng có biên độ vừa phải với mức mở cửa 89.8, test cao lên 91.2 và mức thấp nhất 89.5. Khối lượng giao dịch tăng (32.600 đơn vị) so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau **Test for Demand** tích cực của phiên trước tại vùng hỗ trợ 88.9-89.0, hành động giá hôm nay xác nhận **Sign of Strength** rõ ràng. Việc giá mở cửa ở 89.8 và tăng mạnh lên test vùng kháng cự 91.2 với khối lượng tăng cho thấy lực cầu đã can thiệp quyết đoán và bắt đầu thử thách vùng kháng cự quan trọng 91-92. Việc đóng cửa ở 91.1 gần mức cao nhất phiên với khối lượng tăng là dấu hiệu tích cực mạnh mẽ. SSH đã vượt qua giai đoạn consolidation và cho thấy khả năng cao sẽ test hoặc vượt qua vùng kháng cự 91-92 trong các phiên tới. Xu hướng phục hồi được xác nhận với chuỗi tín hiệu Wyckoff tích cực liên tiếp.
 
 ---
 
@@ -8815,6 +9087,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** SSI giảm nhẹ từ 34.0 xuống 33.2. Cây nến giảm có biên độ hẹp với mức cao nhất 34.8 và test xuống 33.1. Khối lượng giao dịch tăng (56.68 triệu đơn vị) so với phiên trước nhưng vẫn ở mức trung bình.
 
 **Phân tích VPA/Wyckoff:** Tiếp nối tín hiệu **Secondary Test** tích cực của phiên trước, hành động giá hôm nay thể hiện **Test for Supply** nhẹ. Việc giá mở cửa tại 34.0 và có thể test cao lên 34.8 nhưng sau đó giảm về 33.2 với khối lượng tăng nhẹ cho thấy áp lực bán nhẹ xuất hiện tại vùng giá cao 34.5-34.8. Tuy nhiên, mức giảm chỉ 2.9% và việc giá test thành công vùng hỗ trợ 33.1 (tương tự phiên trước) cho thấy lực cầu vẫn đang hỗ trợ mạnh mẽ tại vùng này. Với việc hoàn thành quá trình test Supply ở vùng cao và Demand ở vùng thấp, SSI có vẻ đang trong giai đoạn tích lũy cuối và chuẩn bị cho đợt bứt phá tiếp theo. Tín hiệu vẫn tích cực trong trung hạn.
+**Ngày 2025-08-04:** SSI tăng mạnh từ 32.5 lên 34.0. Cây nến tăng có biên độ hẹp với mức mở cửa thấp 32.5 nhưng phục hồi mạnh mẽ và đóng cửa tại mức cao nhất phiên 34.0. Khối lượng giao dịch tương đương (56.73 triệu đơn vị) so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Sau tín hiệu **Test for Supply** nhẹ của phiên trước, hành động giá hôm nay thể hiện **Sign of Strength** rõ ràng. Việc giá mở cửa thấp tại 32.5 (thấp hơn vùng hỗ trợ 33.1) nhưng bứt phá mạnh mẽ lên 34.0 và đóng cửa tại mức cao nhất với khối lượng ổn định cho thấy lực cầu đã quay trở lại mạnh mẽ. Đây là tín hiệu xác nhận rằng giai đoạn tích lũy đã hoàn tất và xu hướng tăng đang được khôi phục. Việc vượt qua được vùng kháng cự 34.0 với conviction mạnh mẽ cho thấy SSI sẵn sàng cho đợt bứt phá tiếp theo hướng về vùng 35.0-36.0.
 
 ---
 
@@ -8918,6 +9193,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** STB giảm từ 50.3 xuống 49.4 với mở cửa tại 50.3. Nến giảm có biên độ rộng với đỉnh ngày đạt 50.8 và đáy tại 49.1. Khối lượng giao dịch giảm xuống 13.98 triệu đơn vị (từ 18.16 triệu phiên trước).
 
 - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu No Supply tích cực của phiên trước tại vùng 49.25-50.7, hành động giá hôm nay cho thấy thị trường đang kiểm tra áp lực bán tại vùng đỉnh 50.8. Việc giá mở cửa cao tại 50.3, test lên 50.8 nhưng sau đó giảm về 49.4 với khối lượng giảm đáng kể (từ 18.16M xuống 13.98M) cho thấy áp lực bán không quá mạnh. Đây là nhịp điều chỉnh lành mạnh sau khi hình thành nền tảng vững chắc ở phiên trước, thị trường đang test khả năng hấp thụ nguồn cung tại vùng kháng cự 50.8 trước khi có thể bứt phá lên cao hơn.
+**Ngày 2025-08-04:** STB tăng từ 49.4 lên 50.0 với mở cửa thấp hơn tại 48.9. Nến tăng có biên độ rộng với đỉnh ngày đạt 50.0 và đáy tại 48.5. Khối lượng giao dịch giảm xuống 10.26 triệu đơn vị (từ 13.98 triệu phiên trước).
+
+**Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Supply của phiên trước tại vùng kháng cự 50.8, hành động giá hôm nay cho thấy áp lực bán đã được hấp thụ hiệu quả. Việc giá mở cửa thấp hơn tại 48.9 nhưng phục hồi mạnh và đóng cửa tại mức đỉnh phiên 50.0 với khối lượng giảm đáng kể (từ 13.98M xuống 10.26M) cho thấy không có nguồn cung mạnh xuất hiện ngay cả khi giá tiệm cận vùng kháng cự 50.0. Đây là tín hiệu tích cực cho thấy thị trường đã hoàn thành giai đoạn test và sẵn sàng cho đợt bứt phá lên cao hơn. Việc đóng cửa tại mức đỉnh phiên với effort thấp là dấu hiệu mạnh mẽ của sự kiểm soát từ smart money.
 
 ---
 
@@ -9033,6 +9311,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** TCB tăng nhẹ từ 34.0 lên 34.1 với mức cao nhất 34.7 và thấp nhất 34.05. Cây nến có biên độ hẹp với thân nến nhỏ và đóng cửa gần mức mở cửa. Khối lượng giao dịch giảm xuống 20.62 triệu đơn vị (giảm 23% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **No Demand** - Tiếp nối tín hiệu No Demand của phiên trước, hành động giá hôm nay xác nhận sự thiếu vắng lực cầu mạnh mẽ. Mặc dù giá có test cao lên 34.7 nhưng không thể duy trì được và đóng cửa yếu ở 34.1 với khối lượng tiếp tục giảm (từ 26.76M xuống 20.62M). Việc không có khối lượng hỗ trợ cho thấy smart money chưa sẵn sàng tích lũy tại vùng giá hiện tại. Áp lực từ đợt Effort to Fall ngày 29/7 vẫn đang chi phối, với xu hướng sideways yếu có thể tiếp diễn cho đến khi xuất hiện Climactic Selling hoặc tìm thấy vùng demand mạnh hơn ở mức thấp hơn.
+**Ngày 2025-08-04:** TCB tăng mạnh từ 34.1 lên 35.35 với mức cao nhất cũng là 35.35 và thấp nhất 34.0. Cây nến tăng có biên độ rộng 1.35 điểm (3.96%) và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng lên 23.10 triệu đơn vị (tăng 12% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **Stopping Volume** - Sau chuỗi tín hiệu No Demand của hai phiên trước với khối lượng suy yếu, hành động giá hôm nay cho thấy sự xuất hiện của lực cầu mạnh mẽ. Việc giá bứt phá từ 34.1 lên đóng cửa ở mức cao nhất phiên 35.35 với khối lượng tăng trở lại (từ 20.62M lên 23.10M) cho thấy smart money đã bắt đầu can thiệp tại vùng 34.0-34.1 sau giai đoạn No Demand. Đây là tín hiệu Stopping Volume điển hình, báo hiệu sự kết thúc của áp lực giảm từ đợt Effort to Fall ngày 29/7. Việc đóng cửa ở mức cao nhất với biên độ tăng mạnh cho thấy xu hướng có thể đã chuyển hướng tích cực, tuy nhiên cần quan sát thêm để xác nhận sự bền vững của sự phục hồi này.
 
 ---
 
@@ -9073,6 +9354,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** TCH giảm từ 23.95 xuống 23.0 (-3.96%), giảm 0.95 điểm so với ngày trước. Thanh nến đỏ có spread hẹp 1.0 điểm (từ 23.0 đến 24.0) và đóng cửa ở mức thấp nhất ngày. Khối lượng giảm xuống 8.031.200 cổ phiếu, giảm 37.9% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** **Secondary Test** - Sau tín hiệu **Automatic Rally** của phiên trước, hành động giá hôm nay cho thấy TCH đang test lại vùng hỗ trợ 23.0 với khối lượng giảm đáng kể. Việc giá giảm về mức thấp mới nhưng với volume thấp hơn nhiều so với giai đoạn selling climax (ngày 29/07) cho thấy áp lực bán đã giảm bớt. Đây có thể là secondary test cuối cùng trước khi kết thúc giai đoạn điều chỉnh, cần theo dõi phản ứng của giá tại vùng hỗ trợ 23.0 trong các phiên tới để xác nhận tín hiệu.
+**Ngày 2025-08-04:** TCH phục hồi mạnh từ 22.65 lên 23.9 (+3.91%), tăng 0.9 điểm so với ngày trước. Thanh nến xanh có spread rộng 1.3 điểm (từ 22.6 đến 23.9) và đóng cửa ở mức cao nhất phiên. Khối lượng giảm xuống 6.356.800 cổ phiếu, giảm 20.9% so với phiên trước nhưng vẫn ở mức trung bình.
+
+**Phân tích VPA/Wyckoff:** **End of Selling Pressure** - Sau tín hiệu **Secondary Test** của phiên trước tại vùng 23.0, hành động giá hôm nay cho thấy sự phục hồi mạnh mẽ với nến xanh có spread rộng và đóng cửa ở đỉnh phiên. Việc giá test xuống 22.6 (thấp hơn vùng hỗ trợ 23.0) nhưng nhanh chóng phục hồi và đóng cửa tại 23.9 với khối lượng giảm cho thấy áp lực bán đã cạn kiệt và lực cầu bắt đầu chiếm ưu thế. Đây là dấu hiệu tích cực báo hiệu kết thúc giai đoạn điều chỉnh sau selling climax ngày 29/07, TCH có thể bước vào giai đoạn tích lũy mới với triển vọng tăng trở lại.
 
 ---
 
@@ -9159,6 +9443,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** TNG giảm từ 21.4 xuống 20.8 (-2.35%) sau phiên phục hồi mạnh. Thanh nến đỏ có spread 0.9 điểm (từ 20.6 đến 21.5) với đóng cửa ở mức trung bình của phạm vi giao dịch. Khối lượng giao dịch giảm mạnh xuống 1.066 triệu cổ phiếu, giảm 57% so với phiên trước và thấp nhất trong 10 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu **Test for Demand** của phiên trước, hành động giá hôm nay cho thấy sự thiếu vắng lực cầu rõ rệt. Việc giá giảm với khối lượng sụt giảm mạnh (từ 2.477 triệu xuống 1.066 triệu) cho thấy không có sự quan tâm từ nhà đầu tư và lực cầu chưa đủ mạnh để duy trì đà phục hồi. Tín hiệu này gợi ý rằng đợt phục hồi của phiên 31/7 có thể chỉ là short covering tạm thời chứ không phải demand thực sự. Cần theo dõi thêm để xác nhận liệu TNG có thể tìm được vùng hỗ trợ mới hay sẽ tiếp tục test xuống vùng 20.3.
+**Ngày 2025-08-04:** TNG tiếp tục giảm từ 20.8 xuống 20.6 (-0.96%) trong phiên giao dịch có biên độ hẹp. Thanh nến đỏ có spread 0.4 điểm (từ 20.4 đến 20.8) với mức mở cửa và cao nhất cùng tại 20.8, đóng cửa gần mức trung bình phạm vi. Khối lượng giao dịch tăng nhẹ lên 1.269 triệu cổ phiếu, tăng 19% so với phiên trước nhưng vẫn ở mức thấp so với các phiên trước đó.
+
+**Phân tích VPA/Wyckoff:** **No Demand** tiếp diễn - Sau tín hiệu **No Demand** của phiên trước, hành động giá hôm nay tiếp tục xác nhận sự thiếu vắng lực cầu. Việc giá không thể duy trì mức mở cửa 20.8 và giảm xuống 20.6 với khối lượng vẫn ở mức thấp (1.269 triệu) cho thấy không có sự quan tâm đáng kể từ nhà đầu tư. Mặc dù khối lượng tăng nhẹ so với phiên trước, nhưng vẫn thấp hơn rất nhiều so với các phiên có biến động mạnh. TNG đang trong giai đoạn thiếu động lực và có thể sẽ tiếp tục test xuống vùng hỗ trợ 20.3 nếu không có catalyst tích cực nào xuất hiện.
 
 ---
 
@@ -9264,6 +9551,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** TPB đi ngang từ 15.7 giữ nguyên ở mức 15.7 (0.00%) với đỉnh ngày đạt 15.75 và thấp nhất 15.35. Cây nến doji có biên độ hẹp 0.40 điểm với thân nến rất ngắn và đuôi cân bằng hai phía. Khối lượng giao dịch tăng nhẹ lên 20.59 triệu cổ phiếu (tăng 5.1% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Automatic Rally của phiên trước, hành động giá hôm nay thể hiện sự kiểm tra nguồn cung tại vùng kháng cự 15.7-15.75. Việc giá dao động trong phạm vi hẹp với khối lượng tăng nhẹ (từ 19.58M lên 20.59M) cho thấy thị trường đang cân bằng giữa lực mua và lực bán. Cây nến doji với đuôi dài phía dưới tại vùng 15.35 xác nhận có lực cầu hỗ trợ mạnh. Đây là dấu hiệu tích cực, cho thấy áp lực bán không đáng kể và smart money vẫn đang kiểm soát, chuẩn bị cho đợt tăng tiếp theo sau khi hoàn tất giai đoạn test.
+**Ngày 2025-08-04:** TPB bùng nổ mạnh mẽ từ 15.5 lên 16.75 (+6.69%) với đỉnh ngày cũng đạt 16.75 và mở cửa từ mức thấp nhất 15.5. Cây nến xanh có biên độ rộng 1.25 điểm với thân nến dài và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch bùng nổ lên 58.13 triệu cổ phiếu, tăng gấp 2.8 lần so với phiên trước (từ 20.59M lên 58.13M).
+
+**Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau giai đoạn Test for Supply thành công của phiên trước với khối lượng thấp, hành động giá hôm nay xác nhận lực cầu đã bùng nổ mạnh mẽ để vượt qua vùng kháng cự 15.7-15.75. Việc giá mở cửa thấp tại 15.5 nhưng đóng cửa mạnh ở mức cao nhất 16.75 với khối lượng tăng vọt 182% cho thấy smart money đã kích hoạt giai đoạn markup quyết đoán. Đây là tín hiệu SOS cực kỳ mạnh mẽ, khẳng định xu hướng tăng đã được thiết lập vững chắc và chuẩn bị cho đợt tăng tiếp theo lên vùng kháng cự cao hơn.
 
 ---
 
@@ -9313,6 +9603,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** TV2 giảm từ 39.75 xuống 39.1 (-1.63%). Cây nến giảm có biên độ rộng với spread 1.35 điểm (từ 39.05 đến 40.4) và đóng cửa gần mức thấp nhất ngày. Khối lượng giao dịch giảm 25.8% xuống 774.2k cổ phiếu so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu **Test for Demand** của phiên trước, hành động giá hôm nay cho thấy lực cầu đã suy yếu nghiêm trọng. Việc giá test cao lên 40.4 (gần với đỉnh phiên trước 40.5) nhưng đóng cửa ở mức thấp 39.1 với khối lượng giảm mạnh từ 1.04M xuống 774k cho thấy không có sự ủng hộ từ dòng tiền lớn. Tín hiệu này xác nhận rằng lực cầu đã không vượt qua được bài test và xu hướng yếu kém từ tín hiệu SOW ngày 29/7 vẫn đang kiểm soát thị trường. Áp lực giảm có thể tiếp tục trong các phiên tới.
+**Ngày 2025-08-04:** TV2 tăng mạnh từ 39.1 lên 40.4 (+3.32%). Cây nến tăng có biên độ rộng với spread 2.55 điểm (từ 38.75 đến 41.3) và đóng cửa ở mức trung bình-cao. Khối lượng giao dịch tăng 42.4% lên 1.10 triệu cổ phiếu so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Test for Demand thành công** - Sau tín hiệu **No Demand** tiêu cực của phiên trước, hành động giá hôm nay cho thấy lực cầu đã can thiệp mạnh mẽ tại vùng hỗ trợ 38.75-39.1. Việc giá test xuống mức thấp 38.75 (thấp hơn cả đáy ngày 01/8) nhưng phục hồi mạnh lên 40.4 với khối lượng tăng đáng kể từ 774k lên 1.1M cho thấy smart money đã hấp thụ nguồn cung. Đặc biệt, việc giá test lên gần mức cao 41.3 (gần với vùng kháng cự 41.0-42.4) và đóng cửa ở 40.4 thể hiện lực cầu đã vượt qua được bài kiểm tra. Tín hiệu này tích cực, có thể đánh dấu sự kết thúc của giai đoạn yếu kém từ tín hiệu SOW ngày 29/7.
 
 ---
 
@@ -9350,6 +9643,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VCB tiếp tục giảm nhẹ từ 60.3 xuống 60.2 (không đổi so với phiên trước), dao động trong phạm vi hẹp 0.9 điểm với mức thấp nhất 59.7. Nến đỏ có biên độ hẹp với đóng cửa gần giữa phạm vi giao dịch. Khối lượng giao dịch giảm mạnh xuống 4.75 triệu cổ phiếu, thấp nhất trong 10 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** **Test for Demand** tiếp diễn - Tiếp nối tín hiệu **Test for Demand** của phiên trước, hành động giá hôm nay cho thấy thị trường đang trong giai đoạn test sâu hơn tại vùng hỗ trợ quan trọng 59.7-60.2. Việc giá test xuống mức thấp 59.7 nhưng đóng cửa phục hồi về 60.2 với khối lượng cạn kiệt (4.75 triệu - thấp nhất 10 phiên) là dấu hiệu tích cực, cho thấy áp lực bán đã giảm đáng kể và lực cầu bắt đầu xuất hiện để hấp thụ nguồn cung tại vùng giá thấp. Vùng 59.7-60.0 có thể trở thành đáy ngắn hạn nếu lực cầu tiếp tục gia tăng trong các phiên tới.
+**Ngày 2025-08-04:** VCB tăng từ 60.1 lên 61.1 (+1.5%), phục hồi 0.9 điểm so với phiên trước. Nến xanh có biên độ rộng 1.4 điểm với mức cao nhất 61.4 và thấp nhất 60.0. Khối lượng giao dịch giảm nhẹ xuống 4.46 triệu cổ phiếu, vẫn duy trì ở mức thấp tương tự phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Successful Test** - Sau hai phiên **Test for Demand** liên tiếp tại vùng hỗ trợ 59.7-60.2, hành động giá hôm nay xác nhận test thành công với sự xuất hiện của lực cầu. Việc giá test xuống mức 60.0 (gần với vùng test trước đó) rồi phục hồi mạnh lên 61.1 với khối lượng duy trì thấp cho thấy áp lực bán đã cạn kiệt và smart money bắt đầu tích lũy trở lại. Đây là tín hiệu tích cực, báo hiệu giai đoạn điều chỉnh từ đỉnh 63.2 có thể đã kết thúc và xu hướng tăng sẵn sàng tiếp tục từ vùng hỗ trợ 60.0.
 
 ---
 
@@ -9458,6 +9754,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VCG tăng mạnh từ 25.8 lên 26.4 (+1.93%) sau phiên Automatic Rally trước đó. Cây nến xanh có biên độ rất rộng 2.05 điểm (từ 25.4 đến 27.45) với đỉnh ngày test cao lên 27.45 trước khi về đóng cửa tại 26.4. Khối lượng giao dịch tăng mạnh lên 22.60 triệu cổ phiếu, tăng 34.2% so với phiên trước.
 
 - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau tín hiệu Automatic Rally của phiên trước, hành động giá hôm nay xác nhận lực cầu đang mạnh mẽ trở lại. Việc giá test cao lên 27.45 (tăng 6% từ mở cửa) với khối lượng tăng đáng kể cho thấy có sự quan tâm lớn từ nhà đầu tư tại vùng giá này. Mặc dù có pullback từ đỉnh 27.45 về 26.4 nhưng việc đóng cửa tích cực và khối lượng mạnh cho thấy xu hướng phục hồi sau selling climax đang được củng cố. Tín hiệu tích cực cho giai đoạn tích lũy và chuẩn bị cho đợt tăng tiếp theo.
+**Ngày 2025-08-04:** VCG tăng nhẹ từ 26.35 lên 26.6 (+0.76%) sau phiên Effort to Rise mạnh mẽ trước đó. Cây nến xanh có biên độ hẹp 0.55 điểm (từ 26.15 đến 26.7) với việc dao động trong phạm vi thu hẹp so với phiên trước. Khối lượng giao dịch giảm mạnh xuống 10.76 triệu cổ phiếu, giảm 52.4% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Effort to Rise của phiên trước với việc test cao lên 27.45, hành động giá hôm nay cho thấy áp lực bán đã cạn kiệt tại vùng giá cao. Việc giá tiếp tục tăng nhẹ nhưng với khối lượng giảm một nửa cho thấy không còn nguồn cung đáng kể xuất hiện để cản trở xu hướng tăng. Biên độ dao động thu hẹp và đóng cửa gần mức cao nhất ngày (26.6) thể hiện sự kiểm soát của lực cầu. Tín hiệu No Supply này củng cố cho giai đoạn phục hồi sau selling climax ngày 29/7, báo hiệu tiềm năng tiếp tục tăng trong các phiên tới khi áp lực bán đã được tiêu hóa.
 
 ---
 
@@ -9567,6 +9866,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VCI tăng mạnh từ 43.2 lên 44.45 (+3.25%) với đỉnh ngày đạt 46.05. Cây nến xanh có biên độ rộng 3.5 điểm với bóng trên dài, đóng cửa ở mức trung bình. Khối lượng giao dịch tăng vọt lên 27.83 triệu đơn vị, cao hơn 81.4% so với phiên trước (15.34 triệu) và gần bằng mức của ngày selling climax 29/7 (29.34 triệu).
 
 **Phân tích VPA/Wyckoff:** **Test** - Tiếp nối tín hiệu **Automatic Rally** của phiên trước, hành động giá hôm nay cho thấy thị trường đang test khả năng cung cấp tại vùng kháng cự 46.0. Việc giá gap up mạnh và test lên đỉnh 46.05 nhưng không thể duy trì được momentum (bóng trên dài) với khối lượng tăng đáng kể cho thấy áp lực bán đã xuất hiện trở lại ở vùng giá cao. Tuy nhiên, việc đóng cửa vẫn dương và khối lượng cao cho thấy lực cầu vẫn mạnh. Đây là giai đoạn kiểm tra quan trọng sau automatic rally - nếu giá có thể vượt qua 46.0 với khối lượng giảm thì xu hướng tăng sẽ được xác nhận mạnh mẽ.
+**Ngày 2025-08-04:** VCI tăng nhẹ từ 44.45 lên 44.65 (+0.45%) với đỉnh ngày đạt 44.95. Cây nến xanh có biên độ hẹp 1.15 điểm với bóng dưới ngắn, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 14.47 triệu đơn vị, giảm 48% so với phiên trước (27.83 triệu) và thấp nhất trong 5 phiên gần đây.
+
+**Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu **Test** của phiên trước tại vùng kháng cự 46.0, hành động giá hôm nay cho thấy áp lực bán đã giảm đáng kể. Việc giá vẫn duy trì được momentum tăng nhẹ với khối lượng giảm mạnh từ 27.83M xuống 14.47M cho thấy không còn nguồn cung lớn ở vùng giá hiện tại. Mặc dù chưa thể vượt qua ngưỡng kháng cự 46.0, nhưng việc giá consolidate ở vùng 44-45 với khối lượng thấp là tín hiệu tích cực, cho thấy smart money đang tích lũy và chuẩn bị cho đợt bứt phá tiếp theo. Xu hướng tăng trung hạn vẫn được duy trì.
 
 ---
 
@@ -9647,6 +9949,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VCS tăng nhẹ từ 49.0 lên 49.2 (+0.41%) với phạm vi dao động hẹp từ 48.9 đến 49.7. Cây nến có thân nhỏ màu xanh với đóng cửa gần mức trung bình của phiên, cho thấy sự cải thiện nhẹ so với phiên trước. Khối lượng giao dịch tiếp tục giảm xuống 159.9k cổ phiếu, thấp hơn 6.5% so với phiên trước và duy trì ở mức thấp nhất trong 10 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** **No demand** tiếp diễn - Mặc dù giá có tăng nhẹ, nhưng việc khối lượng tiếp tục sụt giảm và duy trì ở mức cực thấp cho thấy sự thiếu vắng hoàn toàn lực cầu. Hành động giá tăng yếu ớt này không được hỗ trợ bởi khối lượng, củng cố thêm cho tín hiệu No Demand của hai phiên trước. Vùng 48.9-49.7 đang trở thành vùng tích lũy tiềm năng, nhưng cần có sự xuất hiện của khối lượng để xác nhận lực cầu thực sự quay trở lại.
+**Ngày 2025-08-04:** VCS duy trì giá đóng cửa 49.2 (0.00%) với phạm vi dao động hẹp từ 48.6 đến 49.3. Cây nến doji có thân rất nhỏ và đóng cửa trùng với giá mở cửa, thể hiện sự cân bằng giữa lực mua và lực bán. Khối lượng giao dịch tăng nhẹ lên 177.3k cổ phiếu (+10.9% so với phiên trước) nhưng vẫn duy trì ở mức thấp trong bối cảnh lịch sử.
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** - Sau chuỗi 3 phiên **No Demand** liên tiếp, việc khối lượng tăng nhẹ kết hợp với hành động giá ổn định tại vùng 49.2 cho thấy có dấu hiệu thăm dò lực cầu tại vùng này. Mặc dù giá test xuống 48.6 (gần vùng hỗ trợ quan trọng 48.5-49.0) nhưng khả năng phục hồi về 49.2 với khối lượng gia tăng thể hiện có sự quan tâm trở lại từ phe mua. Đây là tín hiệu tích cực đầu tiên sau giai đoạn thiếu quan tâm, báo hiệu khả năng kết thúc phase điều chỉnh và bắt đầu giai đoạn tích lũy tại vùng 48.5-49.5.
 
 ---
 
@@ -9749,6 +10054,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VEA tăng nhẹ từ 38.3 lên 38.5 (+0.52%). Cây nến xanh có biên độ hẹp 0.2 điểm (từ 38.3 đến 38.5) với đóng cửa tại mức cao nhất của phiên. Khối lượng giao dịch giảm xuống 530.8k cổ phiếu (-7.5% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **No Demand** với xu hướng cải thiện nhẹ - Sau chuỗi tín hiệu "No Demand" của các phiên trước, hành động giá hôm nay cho thấy sự cải thiện nhẹ khi giá có thể đóng cửa tại mức cao nhất phiên. Tuy nhiên, việc khối lượng tiếp tục giảm cho thấy lực cầu vẫn chưa thực sự mạnh mẽ. Mức kháng cự 38.5 đang được test nhẹ, và việc giá duy trì trên vùng 38.3-38.5 cho thấy áp lực bán đã giảm bớt. Đây có thể là dấu hiệu sớm của việc kết thúc giai đoạn tích lũy, nhưng cần thêm xác nhận từ khối lượng tăng trong các phiên tới.
+**Ngày 2025-08-04:** VEA tăng nhẹ từ 38.5 lên 38.6 (+0.26%). Cây nến xanh có biên độ rộng hơn 0.5 điểm (từ 38.3 đến 38.8) với đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng 33.1% lên 706.6k cổ phiếu so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau chuỗi tín hiệu "No Demand" của các phiên trước, hành động giá hôm nay cho thấy sự cải thiện rõ rệt khi giá test lên mức cao nhất phiên tại 38.8 với khối lượng tăng đáng kể. Việc giá vượt qua mức kháng cự nhẹ 38.5 và đóng cửa gần đỉnh phiên (38.6) với khối lượng tăng 33% cho thấy lực cầu đã bắt đầu xuất hiện mạnh mẽ hơn. Đây là tín hiệu tích cực đầu tiên sau giai đoạn tích lũy, cho thấy thị trường có thể đang chuẩn bị thoát khỏi trading range 38.0-38.5. Cần theo dõi để xem liệu momentum này có được duy trì trong các phiên tiếp theo.
 
 ---
 
@@ -9855,6 +10163,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VGC giảm từ 60.7 xuống 56.3 (-5.2%) với phạm vi dao động rộng 4.5 điểm (7.4%). Nến đỏ có thân nến lớn, mở cửa ở mức cao nhất và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng lên 3.139 triệu cổ phiếu, tăng 31% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Tiếp nối chuỗi tín hiệu phân phối từ Up-thrust ngày 29/7 và Test for Supply ngày 31/7, phiên hôm nay xác nhận mạnh mẽ xu hướng giảm. Việc giá giảm mạnh từ 60.7 xuống 56.3 với khối lượng tăng 31% cho thấy áp lực bán đã trở nên áp đảo. Hành động giá phá vỡ support 57.0 và test lại vùng 56.2 gần với mức thấp trước đó 56.0 ngày 28/7, thể hiện sự yếu kém rõ rệt. Chuỗi ba tín hiệu Up-thrust → Test for Supply → SOW tạo thành một pattern phân phối hoàn chỉnh, báo hiệu giai đoạn điều chỉnh sâu hơn có thể tiếp diễn xuống vùng support tiếp theo quanh 52.4.
+**Ngày 2025-08-04:** VGC tăng từ 56.3 lên 57.6 (+2.3%) với phạm vi dao động rộng 3.4 điểm (5.9%). Nến xanh có thân nến trung bình, mở cửa ở 56.1, test lên mức cao 59.5 nhưng đóng cửa ở 57.6. Khối lượng giao dịch giảm xuống 1.716 triệu cổ phiếu, giảm 45% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu **Sign of Weakness (SOW)** mạnh mẽ của phiên trước, hành động giá hôm nay cho thấy thị trường đang kiểm tra lực cầu tại vùng support 56.1-56.3. Việc giá phục hồi từ 56.1 lên 57.6 và test lên mức cao 59.5 với khối lượng giảm 45% thể hiện lực cầu đã xuất hiện để hấp thụ áp lực bán. Tuy nhiên, việc không thể duy trì được mức cao 59.5 và đóng cửa ở 57.6 cho thấy lực cầu chưa đủ mạnh để đảo ngược hoàn toàn xu hướng giảm. Đây là một tín hiệu trung tính tích cực, cần quan sát thêm các phiên tiếp theo để xác nhận khả năng phục hồi hay tiếp tục xu hướng giảm từ giai đoạn phân phối trước đó.
 
 ---
 
@@ -9962,6 +10273,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VGI tăng nhẹ từ 72.7 lên 72.8 với đỉnh ngày đạt 74.8 và mức thấp 72.1. Nến tăng có biên độ hẹp với thân nến rất nhỏ và đuôi dài phía trên, đóng cửa gần mức mở cửa. Khối lượng giao dịch giảm mạnh xuống 566.800 đơn vị.
 
 **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau tín hiệu Effort to Fall của phiên trước với áp lực bán mạnh, việc giá test lên 74.8 rồi đóng cửa gần mức mở cửa (72.8) với khối lượng giảm đáng kể cho thấy lực cầu đang từ từ xuất hiện tại vùng support 72.1-72.7. Việc giá không test sâu hơn mức 71.8 của shakeout ngày 29/7 và có sự phục hồi nhẹ với khối lượng thấp là tín hiệu tích cực. Đây có thể là giai đoạn kiểm tra cuối cùng của quá trình tích lũy, với smart money đang hấp thụ supply từ weak hands. Cần theo dõi khả năng phá vỡ vùng kháng cự 74.8-75.6 trong các phiên tới để xác nhận kết thúc giai đoạn accumulation.
+**Ngày 2025-08-04:** VGI tăng nhẹ từ 72.8 lên 73.2 với đỉnh ngày đạt 73.9 và mức thấp 72.7. Nến tăng có biên độ hẹp và đóng cửa gần mức trung bình phiên. Khối lượng giao dịch giảm mạnh xuống 395.700 đơn vị.
+
+**Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Test for Demand của phiên trước, việc giá tăng nhẹ từ 72.8 lên 73.2 nhưng với khối lượng giảm mạnh (từ 566.8k xuống 395.7k) cho thấy thiếu lực cầu để đẩy giá lên cao hơn. Mặc dù giá có test lên 73.9 nhưng không thể duy trì và đóng cửa ở mức trung bình, thể hiện sự thiếu quyết đoán của thị trường. Việc khối lượng giảm liên tiếp trong 2 phiên gần đây khi giá dao động quanh vùng 72.7-73.2 cho thấy thị trường đang trong giai đoạn cân bằng, chờ đợi catalyst để phá vỡ trading range. Vùng support 72.1-72.7 vẫn đang được kiểm tra và cần có sự gia tăng khối lượng kèm theo để xác nhận hướng đi tiếp theo.
 
 ---
 
@@ -10069,6 +10383,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VGT điều chỉnh từ 13.3 xuống 13.0 với đỉnh ngày đạt 13.6 và mức thấp 12.9. Nến giảm có biên độ rộng với đuôi dài phia trên và dưới. Khối lượng giao dịch giảm xuống 3.739.100 đơn vị (giảm 32% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu SOS bùng nổ của phiên trước khi giá tăng thẳng đứng lên 13.3, phiên hôm nay thị trường đang kiểm tra áp lực bán tại vùng giá cao mới. Việc giá test lên 13.6 (cao hơn đỉnh cũ 13.3) nhưng không thể duy trì và điều chỉnh về 13.0 với khối lượng giảm từ 5.51M xuống 3.74M cho thấy áp lực chốt lời tự nhiên xuất hiện. Tuy nhiên, việc giá duy trì trên vùng 13.0 và không test lại vùng support 12.3 cho thấy smart money vẫn đang kiểm soát. Đây là nhịp test for supply bình thường sau đợt SOS mạnh mẽ, tạo cơ sở vững chắc cho đợt tăng tiếp theo nếu vượt qua được vùng kháng cự 13.6.
+**Ngày 2025-08-04:** VGT tiếp tục điều chỉnh từ 13.0 xuống 12.8 với đỉnh ngày chỉ đạt 13.2 và mức thấp 12.5. Nến giảm có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm tiếp xuống 2.716.900 đơn vị (giảm 27% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Test for Supply của phiên trước, việc giá tiếp tục điều chỉnh từ 13.0 xuống 12.8 với khối lượng giảm liên tiếp từ 3.74M xuống 2.72M cho thấy thiếu lực cầu để hỗ trợ giá tại vùng cao. Mặc dù giá chỉ điều chỉnh nhẹ và vẫn duy trì trên vùng support quan trọng 12.5, việc không thể test lại đỉnh 13.6 với khối lượng thấp cho thấy smart money đang chờ đợi. Đây là giai đoạn No Demand tự nhiên sau chuỗi SOS mạnh mẽ, thị trường cần thời gian consolidation để tích lũy năng lượng cho đợt tăng tiếp theo. Cần theo dõi phản ứng tại vùng support 12.5-12.8 để xác định xu hướng tiếp theo.
 
 ---
 
@@ -10176,6 +10493,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VHC giảm từ 56.6 xuống 55.7 với đỉnh ngày đạt 56.8 và mức thấp 55.3. Nến giảm có biên độ vừa phải và đóng cửa gần mức trung bình phiên. Khối lượng giao dịch giảm xuống 883.700 đơn vị.
 
 **Phân tích VPA/Wyckoff:** **Secondary Test** - Sau tín hiệu Automatic Rally của phiên trước, việc giá giảm từ 56.6 xuống 55.7 và test xuống vùng 55.3 (gần mức đáy 54.7 của climatic action) với khối lượng tiếp tục giảm xuống 883.7k cho thấy đây là giai đoạn secondary test điển hình. Việc khối lượng giảm mạnh so với automatic rally (từ 1.19M xuống 883.7k) trong khi giá chỉ giảm nhẹ và không phá vỡ mức đáy 54.7 trước đó xác nhận áp lực bán đã cạn kiệt hoàn toàn. Đây là tín hiệu rất tích cực trong chu kỳ Wyckoff, cho thấy smart money đã hoàn tất việc accumulation và thị trường sẵn sàng cho đợt markup tiếp theo.
+**Ngày 2025-08-04:** VHC tăng mạnh từ 55.7 lên 58.2 với đỉnh ngày đạt 58.6 và mức thấp 56.3. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng vọt lên 2.588.600 đơn vị.
+
+**Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Secondary Test tích cực của phiên trước, việc giá bứt phá mạnh mẽ từ 55.7 lên 58.2 (tăng 4.5%) với khối lượng bùng nổ từ 883.7k lên 2.59M (tăng gần 3 lần) xác nhận giai đoạn markup đã chính thức bắt đầu. Việc giá test thành công vùng 58.6 và đóng cửa ở mức cao 58.2 cho thấy lực cầu đã hoàn toàn chiếm ưu thế sau quá trình accumulation hoàn tất. Đây là tín hiệu SOS rất mạnh mẽ, đánh dấu sự kết thúc của chu kỳ tích lũy và khởi đầu xu hướng tăng giá mới. Smart money đã sẵn sàng đẩy giá lên sau khi accumulate thành công tại vùng 54.7-56.6.
 
 ---
 
@@ -10286,6 +10606,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VHM tiếp tục giảm từ 90.0 xuống 89.9 với biên độ dao động từ 87.8 đến 90.6. Nến giảm có thân nhỏ nhưng có bóng dưới dài, cho thấy đã test xuống vùng 87.8 (thấp nhất kể từ đầu tháng 7) trước khi phục hồi về mức đóng cửa 89.9. Khối lượng giao dịch tăng lên 8.40 triệu đơn vị (từ 7.81 triệu của phiên trước).
 
 **Phân tích VPA/Wyckoff:** **Automatic Rally (AR)** - Sau tín hiệu Selling Climax tiềm năng của phiên trước, việc giá test sâu hơn xuống 87.8 (thấp nhất kể từ ngày 24/7) với khối lượng tiếp tục tăng từ 7.81M lên 8.40M cho thấy đây là giai đoạn **Final Test** quan trọng. Bóng dưới dài từ 87.8 lên 89.9 thể hiện lực cầu đã xuất hiện mạnh mẽ ngay khi giá chạm vùng support then chốt 87.8-88.0. Việc có thể test lên 90.6 trong phiên và duy trì mức đóng cửa 89.9 cho thấy smart money đang tích cực hấp thụ nguồn cung panic selling. Khối lượng cao liên tục trong 2 phiên kết hợp với khả năng phục hồi từ đáy cho thấy giai đoạn tích lũy đang hoàn tất và chuẩn bị cho đợt Automatic Rally mạnh mẽ từ vùng support 87.8-89.0.
+**Ngày 2025-08-04:** VHM phục hồi mạnh từ 89.9 lên 92.2 với biên độ dao động từ 88.5 đến 93.8. Nến tăng có biên độ rộng với mức cao nhất 93.8 (cao nhất kể từ ngày 28/7) và đóng cửa gần mức cao tại 92.2. Khối lượng giao dịch giảm về 4.70 triệu đơn vị (từ 8.40 triệu của phiên trước).
+
+**Phân tích VPA/Wyckoff:** **Automatic Rally (AR)** - Sau hai phiên test sâu liên tiếp với khối lượng cao tại vùng support 87.8-89.0, phiên hôm nay xác nhận sự xuất hiện của **Automatic Rally** mạnh mẽ. Việc giá tăng từ 89.9 lên 92.2 và test lên đỉnh 93.8 (vượt qua kháng cự 92.0-93.0 trước đó) với khối lượng giảm từ 8.40M xuống 4.70M cho thấy áp lực bán đã cạn kiệt sau giai đoạn climax. Khả năng vượt qua vùng kháng cự quan trọng 92.0-93.0 với effort thấp (khối lượng giảm) là dấu hiệu **No Supply** rất tích cực, xác nhận smart money đã hoàn tất việc tích lũy tại vùng 87.8-90.0. Việc đóng cửa gần mức cao 92.2 sau khi test lên 93.8 cho thấy xu hướng tăng đã được tái lập vững chắc từ vùng support quan trọng.
 
 ---
 
@@ -10389,6 +10712,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VIB giảm từ 19.4 xuống 19.0 với dao động mạnh trong phiên từ mức cao 19.6 xuống thấp 18.4. Nến giảm có biên độ rộng (1.2 điểm) với đuôi dài phía dưới và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch tăng mạnh lên 30.98 triệu đơn vị (tăng 46% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **Test for Support** - Sau chuỗi tín hiệu No Supply tích cực của các phiên trước, việc giá test xuống vùng support quan trọng 18.4 với khối lượng tăng mạnh từ 21.2M lên 30.98M cho thấy đây là một cuộc test lực cầu tự nhiên. Việc giá có thể phục hồi từ đáy 18.4 lên đóng cửa tại 19.0 và tạo đuôi dài phía dưới với khối lượng cao là tín hiệu tích cực cho thấy lực cầu vẫn mạnh tại vùng support. Mặc dù có áp lực chốt lời sau chuỗi tăng mạnh trước đó, việc smart money hấp thụ được khối lượng bán lớn và giữ giá trên 19.0 xác nhận xu hướng tăng trung hạn vẫn còn nguyên vẹn. Đây là giai đoạn kiểm tra bình thường sau markup mạnh mẽ.
+**Ngày 2025-08-04:** VIB tăng từ 19.0 lên 19.35 với dao động từ 18.75 đến 19.35. Nến tăng có biên độ hẹp (0.35 điểm) và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm mạnh xuống 11.49 triệu đơn vị (giảm 63% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Support tích cực của phiên trước, việc giá tăng từ 19.0 lên đóng cửa tại mức cao nhất phiên 19.35 với khối lượng giảm mạnh từ 30.98M xuống 11.49M cho thấy áp lực bán đã cạn kiệt hoàn toàn. Việc giá có thể tăng mạnh và duy trì ở vùng cao mà không cần khối lượng lớn xác nhận smart money đã hấp thụ thành công áp lực bán trong phiên test trước đó. Mặc dù có test xuống 18.75 nhưng nhanh chóng phục hồi và đóng cửa ở đỉnh cho thấy lực cầu vẫn kiểm soát mạnh mẽ. Tín hiệu No Supply này cực kỳ tích cực, xác nhận VIB đã vượt qua giai đoạn test và sẵn sàng cho đợt bứt phá tiếp theo lên vùng kháng cự 19.6-19.7.
 
 ---
 
@@ -10500,6 +10826,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VIC tiếp tục giảm từ 105.5 xuống 104.0 với biên độ dao động từ 104.0 đến 109.8. Cây nến giảm có thân nến hẹp (2.0 điểm) nhưng có bóng trên dài (test lên 109.8) và đóng cửa tại mức thấp nhất phiên. Khối lượng giao dịch giảm xuống 3.95 triệu đơn vị (từ 5.66 triệu).
 
 **Phân tích VPA/Wyckoff:** **Automatic Rally (AR)** - Sau tín hiệu Selling Climax mạnh mẽ của phiên 31/7 với khối lượng 5.66M, việc giá test lên 109.8 (phục hồi gần 5 điểm từ đáy 105.0) với khối lượng giảm đáng kể xuống 3.95M là tín hiệu **Automatic Rally** điển hình sau Selling Climax. Mặc dù đóng cửa thấp ở 104.0, nhưng việc có thể test lên gần vùng 110.0 trong phiên cho thấy lực cầu đã xuất hiện sau đợt bán tháo. Khối lượng giảm 30% xác nhận áp lực bán đã giảm đáng kể. Việc đóng cửa tại đáy phiên có thể là do chốt lời ngắn hạn sau cú test lên. Đây là giai đoạn đầu của chu kỳ phục hồi sau Selling Climax, cần theo dõi **Secondary Test (ST)** trong các phiên tiếp theo để xác nhận độ vững chắc của vùng support 104.0-105.0.
+**Ngày 2025-08-04:** VIC phục hồi mạnh từ 104.0 lên 111.2 với biên độ dao động từ 105.0 đến 111.2. Cây nến tăng có thân nến rộng (7.2 điểm) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch giảm nhẹ xuống 3.88 triệu đơn vị (từ 3.95 triệu).
+
+**Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Automatic Rally của phiên 01/08, cú phục hồi mạnh mẽ này xác nhận chu kỳ Wyckoff đã chuyển sang giai đoạn tích cực. Việc giá tăng 7.2 điểm từ 104.0 lên 111.2 và đóng cửa tại đỉnh phiên cho thấy lực cầu đã chiếm ưu thế hoàn toàn sau Selling Climax ngày 31/7. Mặc dù khối lượng giảm nhẹ từ 3.95M xuống 3.88M, nhưng việc giá tăng mạnh mà không cần khối lượng lớn là dấu hiệu rất tích cực của Sign of Strength. Việc vượt qua vùng kháng cự 109.8 của phiên trước và tiến gần đến vùng 111.2 cho thấy VIC đã hoàn tất giai đoạn test sau Selling Climax và bước vào chu kỳ tăng mới. Đây là tín hiệu mua mạnh sau quá trình tích lũy thành công tại vùng 104.0-105.0.
 
 ---
 
@@ -10610,6 +10939,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VIX điều chỉnh từ 27.3 xuống 26.3 với mở cửa tại 27.3 và đạt đỉnh ngày tại 27.8 trước khi giảm xuống mức thấp 26.0. Nến giảm có biên độ rộng (1.0 điểm) với shadow dài phía trên và đóng cửa gần mức thấp nhất. Khối lượng giao dịch giảm nhẹ (50.22 triệu đơn vị) so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Sign of Strength (SOS) mạnh mẽ của phiên trước, việc giá thử thách vùng cao 27.8 nhưng không thể duy trì và giảm về 26.3 với khối lượng giảm từ 54.2M xuống 50.22M là một Test for Supply điển hình. Việc shadow dài phía trên cho thấy có áp lực bán xuất hiện tại vùng 27.5-27.8, nhưng khối lượng giảm nhẹ cho thấy áp lực bán không quá mạnh. Việc giá có thể test xuống 26.0 nhưng đóng cửa tại 26.3 (cao hơn mức thấp) cho thấy vẫn có sự hỗ trợ tại vùng này. Đây là test bình thường sau đợt tăng mạnh, cần theo dõi phản ứng của thị trường ở các phiên tiếp theo để xác định xu hướng.
+**Ngày 2025-08-04:** VIX tăng mạnh từ 26.3 lên 27.7 với gap down mở cửa tại 25.35 nhưng phục hồi mạnh mẽ và đạt đỉnh ngày tại 27.9. Nến tăng có biên độ rộng (1.4 điểm) với shadow dài phía dưới và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch giảm (45.09 triệu đơn vị) so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Test for Supply của phiên trước, việc gap down mở cửa tại 25.35 nhưng phục hồi mạnh mẽ lên 27.7 và chạm đỉnh mới 27.9 là một Sign of Strength rất mạnh mẽ. Việc giá có thể vượt qua vùng kháng cự 27.5-27.8 của phiên trước và thiết lập đỉnh mới cho thấy lực cầu đã chiếm ưu thế hoàn toàn. Shadow dài phía dưới từ 25.3 lên 27.7 cho thấy có sự hấp thụ mạnh mẽ tại vùng thấp và áp lực mua gia tăng. Mặc dù khối lượng giảm từ 50.22M xuống 45.09M nhưng việc đóng cửa gần đỉnh ngày và phá vỡ kháng cự cho thấy xu hướng tăng đã được xác nhận mạnh mẽ. Tín hiệu SOS này cho thấy thị trường có khả năng tiếp tục xu hướng tăng với mục tiêu tiếp theo tại vùng 28.5-29.0.
 
 ---
 
@@ -10716,6 +11048,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VJC giảm từ 121.2 xuống 119.0 với biên độ dao động từ 117.0 đến 121.2. Cây nến giảm có biên độ rộng (4.2 điểm) với đuôi dài phía dưới test xuống 117.0. Khối lượng giao dịch giảm từ 2.76 triệu xuống 2.49 triệu đơn vị.
 
 **Phân tích VPA/Wyckoff:** **Secondary Test (ST)** - Sau tín hiệu Automatic Rally (AR) tích cực của phiên trước, việc giá test xuống vùng thấp 117.0 rồi đóng cửa tại 119.0 với khối lượng giảm từ 2.76M xuống 2.49M là một secondary test điển hình. Đuôi dài phía dưới từ 117.0 lên 119.0 cho thấy lực cầu vẫn mạnh mẽ tại vùng hỗ trợ quan trọng quanh 117.0-118.0. Việc khối lượng giảm đáng kể trong khi giá test thấp hơn cho thấy áp lực bán đã yếu đi so với các phiên climatic trước đó. Đây là tín hiệu tích cực xác nhận rằng giai đoạn selling climax đã kết thúc và thị trường đang trong quá trình tích lũy lại sức mạnh. Secondary test thành công này mở ra khả năng cho một đợt phục hồi mạnh hơn trong các phiên tới.
+**Ngày 2025-08-04:** VJC bùng nổ tăng mạnh từ 119.0 lên 127.3 với gap down mở cửa tại 117.0 nhưng phục hồi vượt xa kỳ vọng lên đỉnh ngày 127.3. Cây nến tăng có biên độ cực rộng (10.3 điểm) và đóng cửa tại mức cao nhất phiên. Khối lượng giao dịch tăng mạnh từ 2.49 triệu lên 3.26 triệu đơn vị.
+
+**Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau Secondary Test (ST) thành công của phiên trước, việc gap down xuống 117.0 nhưng ngay lập tức phục hồi vượt xa lên 127.3 với khối lượng tăng mạnh từ 2.49M lên 3.26M là một tín hiệu Sign of Strength cực kỳ mạnh mẽ. Việc đóng cửa tại đỉnh ngày 127.3 và không có shadow trên cho thấy lực cầu đã quay trở lại một cách áp đảo. Gap down đã được "filled" hoàn toàn và giá vượt qua cả mức kháng cự 121.2-122.5 trước đó. Đây là xác nhận rõ ràng rằng giai đoạn selling climax và test đã hoàn thành thành công, xu hướng tăng mạnh mẽ đã trở lại với momentum cao. Việc tăng 7% trong một phiên trên khối lượng cao cho thấy smart money đang tích cực mua vào và trend mới đã được thiết lập.
 
 ---
 
@@ -10796,6 +11131,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VLB tăng nhẹ từ 45.9 lên 46.1 (+0.44%) với spread hẹp 0.8 điểm (từ 45.9 đến 46.7). Cây nến tăng có thân nhỏ và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm tiếp xuống 32.0k cổ phiếu (giảm 24.9% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **No Demand** tiếp diễn - Sau tín hiệu No Demand của phiên trước, việc giá tăng nhẹ nhưng khối lượng tiếp tục giảm mạnh từ 42.6k xuống 32.0k cho thấy lực cầu vẫn rất yếu. Mặc dù có sự phục hồi nhỏ (+0.44%) nhưng sự thiếu vắng khối lượng hỗ trợ cho thấy đây chỉ là nhịp hồi kỹ thuật tạm thời. Trong bối cảnh xu hướng giảm từ đỉnh 49.1, việc khối lượng liên tục suy giảm qua 2 phiên cho thấy smart money chưa quay trở lại. Vùng 45.9-46.7 đang trở thành kháng cự ngắn hạn, cần có khối lượng đột biến để xác nhận sự quay trở lại của lực cầu.
+**Ngày 2025-08-04:** VLB tăng mạnh từ 46.1 lên 47.4 (+2.82%) với spread rộng 1.4 điểm (từ 46.2 đến 47.6). Cây nến tăng có thân dài và đóng cửa gần mức cao nhất ngày. Khối lượng giao dịch bùng nổ lên 91.2k cổ phiếu, tăng 185% so với phiên trước (từ 32.0k lên 91.2k).
+
+**Phân tích VPA/Wyckoff:** **Test for Demand** tích cực - Sau 2 phiên **No Demand** liên tiếp với khối lượng suy giảm, việc giá bứt phá mạnh với khối lượng bùng nổ gần gấp 3 lần cho thấy lực cầu đã quay trở lại đáng kể. Việc test lên mức 47.6 và đóng cửa tại 47.4 thể hiện sự hấp thụ tích cực tại vùng 46.0-46.2. Mặc dù vẫn trong xu hướng điều chỉnh từ đỉnh 49.1, tín hiệu này cho thấy tiềm năng phục hồi ngắn hạn và có thể là dấu hiệu kết thúc giai đoạn No Demand. Cần theo dõi khả năng test lại vùng kháng cự 48.0-48.5 trong các phiên tới.
 
 ---
 
@@ -10898,6 +11236,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VND giảm nhẹ từ 22.7 xuống 22.2 với biên độ dao động từ 21.5 đến 22.95. Nến giảm có bóng trên và bóng dưới khá dài, cho thấy sự dao động mạnh trong phiên. Khối lượng giao dịch tăng lên 55.57 triệu đơn vị so với 52.78 triệu của phiên trước.
 
 - **Phân tích VPA/Wyckoff:** **Secondary Test (ST)** - Sau tín hiệu Test for Supply tích cực của phiên trước, việc giá test xuống vùng 21.5 (gần với vùng thấp 21.0 của selling climax ngày 29/7) rồi phục hồi với khối lượng tăng nhẹ lên 55.57M là một Secondary Test điển hình. Việc giá có thể chạm đỉnh 22.95 (cao hơn đỉnh 22.85 của phiên trước) trước khi giảm xuống 22.2 cho thấy có áp lực bán nhẹ tại vùng kháng cự 23.0. Tuy nhiên, việc đóng cửa trên vùng thấp và khối lượng chỉ tăng nhẹ cho thấy áp lực bán không quá mạnh. Đây là giai đoạn test lại khả năng hỗ trợ sau Automatic Rally, tín hiệu trung tính với xu hướng hơi nghiêng về tích cực nếu giá duy trì được trên vùng 21.5-22.0.
+**Ngày 2025-08-04:** VND bứt phá mạnh từ 22.2 lên 23.25 với biên độ dao động từ 21.5 đến 23.25. Nến tăng có thân dương rất mạnh và đóng cửa tại đỉnh ngày 23.25. Khối lượng giao dịch giảm xuống 49.14 triệu đơn vị so với 55.57 triệu của phiên trước.
+
+**Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Secondary Test (ST) của phiên trước, việc giá bứt phá mạnh từ 22.2 lên 23.25 và đóng cửa tại đỉnh ngày là một Sign of Strength rõ ràng. Việc giá phá vỡ ngưỡng kháng cự 23.0 mà không gặp áp lực bán mạnh cho thấy giai đoạn tích lũy sau selling climax ngày 29/7 đã hoàn tất thành công. Mặc dù khối lượng giảm xuống 49.14M, nhưng việc giá tăng mạnh 4.7% và đóng cửa tại đỉnh cho thấy **No Supply** - smart money không bán tại vùng này và đang để giá chạy lên. Đây là tín hiệu rất tích cực xác nhận xu hướng tăng mới đã được khởi động sau giai đoạn phục hồi từ selling climax. VND có khả năng cao sẽ tiếp tục test các vùng giá cao hơn trong các phiên tới.
 
 ---
 
@@ -11055,6 +11396,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VNINDEX tiếp tục trong giai đoạn điều chỉnh với giá giảm từ 1502.52 điểm xuống 1495.21 điểm. Chỉ số dao động trong biên độ từ 1479.98 đến 1509.03 điểm với cây nến âm có bóng dưới dài và bóng trên ngắn. Khối lượng giao dịch giảm mạnh xuống 1.45 tỷ đơn vị so với phiên trước (1.70 tỷ đơn vị), thấp nhất trong 5 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Secondary Test (ST)** trong chu kỳ điều chỉnh sau Buying Climax của ngày 29/7. Việc giá test xuống vùng thấp 1479.98 (gần với mức thấp 1482.45 của ngày 30/7) nhưng đóng cửa cao hơn đáng kể tại 1495.21 trên khối lượng giảm mạnh cho thấy áp lực bán đang yếu dần. Bóng dưới dài từ 1479.98 lên 1495.21 thể hiện lực cầu xuất hiện mạnh mẽ ở vùng thấp, trong khi khối lượng thấp (1.45 tỷ) cho thấy **No Selling** - không có áp lực bán lớn từ dòng tiền thông minh. Tín hiệu này có thể đánh dấu việc hoàn thành giai đoạn Secondary Test và chuẩn bị cho một đợt phục hồi mạnh hơn nếu được xác nhận bởi **Sign of Strength** trong các phiên tiếp theo.
+**Ngày 2025-08-04:** VNINDEX bùng nổ tăng mạnh từ 1495.21 điểm lên 1528.19 điểm với biên độ dao động từ 1491.11 đến 1528.21 điểm. Chỉ số mở cửa gap lên tại 1495.21 điểm và duy trì đà tăng mạnh mẽ trong suốt phiên, đóng cửa gần mức cao nhất phiên (1528.19 vs 1528.21). Cây nến tăng có thân dài và bóng dưới ngắn, thể hiện sức mạnh áp đảo của phe mua. Khối lượng giao dịch duy trì ở mức cao 1.38 tỷ đơn vị, tuy giảm nhẹ so với phiên trước nhưng vẫn cho thấy sự tham gia tích cực của dòng tiền.
+
+**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ xuất hiện sau giai đoạn **Secondary Test** thành công của ngày 01/8. Việc giá gap lên mạnh và duy trì được gần toàn bộ mức tăng (+33 điểm, +2.2%) trên khối lượng cao cho thấy lực cầu từ dòng tiền thông minh đã quay trở lại mạnh mẽ sau khi test thành công vùng hỗ trợ 1479-1482 điểm. Sự kết hợp giữa **Secondary Test** với khối lượng thấp ngày 01/8 và **SOS** với khối lượng cao hôm nay tạo thành một chuỗi tín hiệu cực kỳ tích cực, xác nhận rằng giai đoạn điều chỉnh sau **Buying Climax** ngày 29/7 đã hoàn tất và thị trường đang bước vào giai đoạn markup mới. Tín hiệu này cho thấy VN-Index có khả năng cao sẽ test lại và vượt qua vùng đỉnh cũ 1557-1565 điểm trong thời gian tới.
 
 ---
 
@@ -11167,6 +11511,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VNM tiếp tục điều chỉnh từ 61.2 xuống 60.0 với biên độ dao động hẹp từ 60.0 đến 61.4. Nến giảm có biên độ vừa phải (1.4 điểm) và đóng cửa tại mức thấp nhất trong ngày. Khối lượng giao dịch giảm mạnh xuống 5.33 triệu đơn vị (giảm 50% so với phiên trước).
 
 - **Phân tích VPA/Wyckoff:** **Automatic Reaction** - Sau tín hiệu **Selling Climax** của phiên 31/7, việc giá tiếp tục test xuống vùng 60.0 nhưng với khối lượng giảm mạnh từ 10.57M xuống 5.33M (giảm 50%) là một tín hiệu tích cực. Đây là phản ứng tự động **Automatic Reaction** sau Selling Climax, nơi giá test lại vùng đáy nhưng áp lực bán đã giảm đáng kể. Việc giá đóng cửa tại 60.0 - đúng tại vùng tích lũy cũ và mức hỗ trợ quan trọng - cho thấy vùng này đang được bảo vệ mạnh mẽ. Khối lượng giảm mạnh trong khi giá test lại đáy cho thấy smart money không bán ra mà có thể đang tích lũy thêm. Đây là giai đoạn test tự nhiên sau Selling Climax, cần theo dõi tín hiệu **Secondary Test** hoặc **Spring** trong các phiên tới để xác nhận sự kết thúc của đợt điều chỉnh.
+**Ngày 2025-08-04:** VNM phục hồi từ 60.0 lên 60.4 với mức mở cửa 59.8 và test lên đỉnh ngày 60.8. Nến tăng có biên độ vừa phải (1.0 điểm) với đuôi dài phía dưới và đóng cửa ở mức trung bình phiên. Khối lượng giao dịch giảm về 3.75 triệu đơn vị (giảm 30% so với phiên trước).
+
+**Phân tích VPA/Wyckoff:** **Secondary Test** - Sau tín hiệu **Automatic Reaction** của phiên 01/8, việc giá test xuống 59.8 (thấp hơn mức 60.0) nhưng nhanh chóng phục hồi và test lên 60.8 với khối lượng giảm từ 5.33M xuống 3.75M là một tín hiệu **Secondary Test** rất tích cực. Việc giá có thể test xuống dưới vùng hỗ trợ 60.0 nhưng lập tức được đẩy lên cao hơn cho thấy lực cầu mạnh mẽ đang bảo vệ vùng này. Đây là **Spring** nhẹ với việc test xuống 59.8 rồi phục hồi mạnh, kết hợp với khối lượng giảm cho thấy áp lực bán đã cạn kiệt hoàn toàn. Tín hiệu Secondary Test này xác nhận vùng 59.8-60.0 là đáy vững chắc và VNM đã sẵn sàng cho giai đoạn **Last Point of Support (LPS)** trước khi bước vào đợt tăng mới. Đây là tín hiệu mua mạnh mẽ tại vùng hỗ trợ quan trọng.
 
 ---
 
@@ -11275,6 +11622,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VPB giảm nhẹ từ 25.8 xuống 25.8 (đóng cửa tại cùng mức) với biên độ dao động từ 25.0 đến 25.9. Cây nến có thân nhỏ với đuôi dài phía dưới, cho thấy có áp lực bán xuất hiện nhưng được hỗ trợ mạnh tại vùng 25.0. Khối lượng giao dịch tăng nhẹ lên 55.59 triệu đơn vị.
 
 **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu No Supply tích cực của phiên trước, việc giá test xuống vùng 25.0 và phục hồi về 25.8 với khối lượng tăng nhẹ từ 55.20M lên 55.59M là một phiên kiểm tra nguồn cung điển hình. Đuôi dài phía dưới từ 25.0 lên 25.8 cho thấy có lực cầu mạnh xuất hiện ngay khi giá test về vùng hỗ trợ quan trọng 25.0. Việc đóng cửa tại mức cao 25.8 (cùng mức phiên trước) mặc dù có test sâu cho thấy áp lực bán chỉ mang tính chất tạm thời và lực cầu vẫn đang kiểm soát thị trường. Đây là tín hiệu test for supply thành công, củng cố cho xu hướng tăng tiếp tục sau giai đoạn consolidation ngắn hạn.
+**Ngày 2025-08-04:** VPB tăng mạnh từ 25.8 lên 26.4 với mở cửa thấp hơn tại 25.25 nhưng đạt đỉnh cao nhất phiên 26.4 và đóng cửa tại mức cao nhất. Cây nến tăng có biên độ rộng (1.15 điểm) với đuôi dài phía dưới từ 25.25. Khối lượng giao dịch giảm xuống 38.23 triệu đơn vị.
+
+**Phán tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Supply thành công của phiên trước, việc giá tăng mạnh từ 25.25 lên 26.4 và đóng cửa tại mức cao nhất với khối lượng giảm từ 55.59M xuống 38.23M là một tín hiệu No Supply cực kỳ tích cực. Việc có thể đạt mức cao mới 26.4 (vượt qua đỉnh cũ 26.1) mà không cần khối lượng lớn cho thấy áp lực bán đã cạn kiệt hoàn toàn và lực cầu đang áp đảo. Đuôi dài phía dưới từ 25.25 lên 26.4 xác nhận có sự hấp thụ mạnh mẽ ngay từ đầu phiên. Đây là tín hiệu rất tích cực cho thấy VPB đang trong giai đoạn mark-up với ít kháng cự và tiềm năng tiếp tục phá vỡ các ngưỡng cao hơn.
 
 ---
 
@@ -11355,6 +11705,9 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VPG giảm từ 8.87 xuống 8.85 với gap up mở cửa tại 9.21 nhưng không thể duy trì và giảm về đóng cửa 8.85. Nến có biên độ dao động rộng từ 8.75 đến 9.21 với đuôi dài phía trên. Khối lượng giao dịch giảm từ 1.92 triệu xuống 1.13 triệu đơn vị.
 
 **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Sign of Strength mạnh mẽ của phiên trước, việc gap up lên 9.21 nhưng không thể duy trì và giảm về 8.85 với khối lượng giảm từ 1.92M xuống 1.13M là một tín hiệu test for supply tự nhiên. Việc giá test thất bại ở vùng 9.2 và tạo đuôi dài phía trên cho thấy có áp lực bán chốt lời xuất hiện ở vùng giá cao. Tuy nhiên, việc khối lượng giảm đáng kể và giá chỉ giảm nhẹ về 8.85 (vẫn cao hơn đóng cửa phiên trước) cho thấy áp lực bán không quá mạnh. Đây là giai đoạn kiểm tra cung tự nhiên sau chuỗi tăng mạnh, cần theo dõi phản ứng ở vùng hỗ trợ 8.75-8.85 để xác định khả năng tiếp tục xu hướng tăng.
+**Ngày 2025-08-04:** VPG giảm từ 8.85 xuống 8.76 với biên độ dao động hẹp từ 8.73 đến 8.84. Nến giảm có biên độ nhỏ (0.11 điểm) và đóng cửa gần mức trung bình phiên. Khối lượng giao dịch giảm mạnh từ 1.13 triệu xuống 0.83 triệu đơn vị.
+
+**Phân tích VPA/Wyckoff:** **No Supply** - Sau tín hiệu Test for Supply của phiên trước, việc giá giảm nhẹ từ 8.85 xuống 8.76 trên khối lượng giảm mạnh từ 1.13M xuống 0.83M là một tín hiệu No Supply tích cực. Việc giá duy trì trên vùng hỗ trợ 8.75 và khối lượng giảm đáng kể cho thấy áp lực bán đã yếu đi sau giai đoạn test. Biên độ dao động hẹp 8.73-8.84 cho thấy thị trường đang ổn định sau test for supply thành công. Đây là kết quả tích cực của việc kiểm tra cung, cho thấy lực cầu vẫn kiểm soát tốt và tiềm năng tiếp tục xu hướng tăng sau giai đoạn consolidation ngắn hạn.
 
 ---
 
@@ -11468,6 +11821,10 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 
 **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Secondary Test tích cực của phiên trước, việc giá tăng từ 28.1 lên 28.45 với khối lượng giảm từ 5.57M xuống 3.12M (giảm 44%) là một Sign of Strength rõ ràng. Việc giá có thể test lên gần 28.5 và đóng cửa tại 28.45 trên khối lượng thấp cho thấy không còn áp lực bán đáng kể, và lực cầu đã bắt đầu chiếm ưu thế. Đây là tín hiệu tích cực cho thấy giai đoạn điều chỉnh từ đỉnh 30.0 có thể đã kết thúc, và thị trường sẵn sàng cho một đợt phục hồi mạnh hơn nếu có xác nhận từ các phiên tới với khối lượng tăng.
 
+**Ngày 2025-08-04:** VRE tăng mạnh từ 28.45 lên 29.1 với biên độ dao động từ 28.3 đến 29.15. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng từ 3.12 triệu lên 4.25 triệu đơn vị.
+
+**Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau tín hiệu Sign of Strength của phiên trước, việc giá tăng từ 28.45 lên 29.1 với khối lượng tăng từ 3.12M lên 4.25M (tăng 36%) là một Effort to Rise mạnh mẽ, xác nhận hoàn hảo cho tín hiệu SOS trước đó. Việc giá có thể test lên 29.15 và đóng cửa tại 29.1 cho thấy lực cầu đã quay trở lại quyết đoán sau giai đoạn tích lũy. Đây là xác nhận rõ ràng rằng giai đoạn điều chỉnh đã kết thúc và thị trường bắt đầu chu kỳ tăng giá mới. Việc vượt qua vùng kháng cự 29.0 với khối lượng tăng cho thấy VRE sẵn sàng test lại vùng đỉnh 30.0 trong thời gian ngắn.
+
 ---
 
 # VTP
@@ -11546,3 +11903,6 @@ IPA mở cửa gap up mạnh từ 21.5 lên 22.1, test lên mức cao mới 22.4
 **Ngày 2025-08-01:** VTP tiếp tục giảm mạnh từ 111.0 xuống 109.0 với biên độ dao động rộng từ 107.3 đến 112.7. Nến giảm có thân nến dài và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng vọt từ 0.92 triệu lên 2.28 triệu đơn vị (tăng 147%).
 
 **Phân tích VPA/Wyckoff:** **Selling Climax** - Sau chuỗi Secondary Test của phiên trước, việc giá phá vỡ mạnh vùng support 110.7-111.0 và giảm xuống mức thấp 107.3 với khối lượng tăng vọt 147% lên 2.28 triệu đơn vị cho thấy đây là một selling climax mạnh mẽ. Đây là đợt bán tháo thứ hai sau climactic action ngày 29/7, với cường độ khối lượng thậm chí còn cao hơn (2.28M vs 1.48M). Việc giá test xuống 107.3 rồi phục hồi nhẹ lên 109.0 cho thấy có lực cầu xuất hiện tại vùng thấp cực đoan này. Với chuỗi climactic action liên tiếp và khối lượng bán cực cao, đây có thể là giai đoạn cuối của quá trình phân phối hoặc washing out, tạo tiền đề cho một đáy quan trọng nếu xuất hiện automatic rally trong các phiên tới.
+**Ngày 2025-08-04:** VTP phục hồi mạnh từ 109.0 lên 113.5 với biên độ dao động từ 110.6 đến 113.5. Nến tăng có thân nến dài và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch giảm mạnh từ 2.28 triệu xuống 0.54 triệu đơn vị (giảm 76%).
+
+**Phân tích VPA/Wyckoff:** **Automatic Rally** - Sau tín hiệu Selling Climax mạnh mẽ của phiên 01/8, việc giá phục hồi từ 109.0 lên 113.5 (tăng 4.1%) với khối lượng giảm đáng kể từ 2.28M xuống 0.54M là một automatic rally điển hình theo lý thuyết Wyckoff. Việc đóng cửa ở mức cao nhất phiên 113.5 cho thấy lực cầu đã xuất hiện mạnh mẽ sau đợt bán tháo climactic. Khối lượng giảm 76% trong bối cảnh giá tăng mạnh là dấu hiệu tích cực, cho thấy áp lực bán đã cạn kiệt và smart money bắt đầu tích lũy. Đây có thể là bước đầu của quá trình đảo chiều xu hướng sau chuỗi climactic action liên tiếp từ ngày 29/7 đến 01/8.
