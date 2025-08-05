@@ -93,6 +93,38 @@ class HybridVPAAnalyzer:
         print(f"💰 Loaded market cap data for {len(self.market_cap_data)} stocks")
         print(f"⚖️  Weights: Panic:{self.weights['panic']:.2f} Crisis:{self.weights['crisis']:.2f} Momentum:{self.weights['momentum']:.2f} Volume:{self.weights['volume']:.2f} VPA:{self.weights['vpa']:.2f}")
         
+    def detect_date_pattern(self):
+        """
+        Detect the date pattern from existing VNINDEX file
+        
+        This method scans the market_data directory for VNINDEX files and extracts
+        the date range pattern, making the script dynamic and robust to different
+        end dates without requiring manual updates.
+        
+        Returns:
+            str: Date pattern (e.g., "2025-01-02_to_2025-08-05") or None if not found
+        """
+        vnindex_files = list(self.market_data_dir.glob("VNINDEX_*.csv"))
+        
+        if not vnindex_files:
+            print("❌ No VNINDEX files found in market_data directory")
+            return None
+        
+        # Use the first (and typically only) VNINDEX file found
+        vnindex_file = vnindex_files[0]
+        filename = vnindex_file.name
+        
+        # Extract date pattern from filename: VNINDEX_2025-01-02_to_2025-08-05.csv
+        if "_" in filename:
+            parts = filename.split("_", 1)  # Split on first underscore
+            if len(parts) > 1:
+                date_part = parts[1].replace(".csv", "")  # Remove .csv extension
+                print(f"🗓️  Detected date pattern: {date_part}")
+                return date_part
+        
+        print(f"❌ Could not extract date pattern from: {filename}")
+        return None
+        
     def load_vnindex_data(self):
         """
         Load VNINDEX data as market benchmark
@@ -100,7 +132,11 @@ class HybridVPAAnalyzer:
         Returns:
             DataFrame: VNINDEX data with daily returns calculated
         """
-        vnindex_file = self.market_data_dir / "VNINDEX_2025-01-02_to_2025-08-04.csv"
+        date_pattern = self.detect_date_pattern()
+        if not date_pattern:
+            return None
+            
+        vnindex_file = self.market_data_dir / f"VNINDEX_{date_pattern}.csv"
         if not vnindex_file.exists():
             print(f"❌ VNINDEX file not found: {vnindex_file}")
             return None
@@ -613,7 +649,11 @@ class HybridVPAAnalyzer:
         Returns:
             tuple: (final_score, analysis_summary)
         """
-        csv_file = self.market_data_dir / f"{ticker}_2025-01-02_to_2025-08-04.csv"
+        date_pattern = self.detect_date_pattern()
+        if not date_pattern:
+            return 0, "No date pattern detected"
+            
+        csv_file = self.market_data_dir / f"{ticker}_{date_pattern}.csv"
         
         if not csv_file.exists():
             return 0, "No data"
@@ -672,7 +712,12 @@ class HybridVPAAnalyzer:
         Returns:
             list: Sorted list of stock analysis results
         """
-        csv_files = list(self.market_data_dir.glob("*_2025-01-02_to_2025-08-04.csv"))
+        date_pattern = self.detect_date_pattern()
+        if not date_pattern:
+            print("❌ Could not detect date pattern for analysis")
+            return []
+            
+        csv_files = list(self.market_data_dir.glob(f"*_{date_pattern}.csv"))
         stocks_data = []
         
         print(f"🔄 Analyzing {len(csv_files)} stocks with VPA methodology...")

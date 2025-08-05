@@ -78,3 +78,7 @@
 **Ngày 2025-08-04:** DGW tăng mạnh từ 43.4 lên 44.7. Cây nến tăng có biên độ rộng với mức mở cửa 43.5 và đóng cửa ở mức cao nhất phiên 44.7. Khối lượng giao dịch giảm nhẹ xuống 1.59 triệu đơn vị, giảm 4% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **No Supply** xuất hiện mạnh mẽ. Sau giai đoạn **No Demand** của phiên trước, việc giá tăng vững chắc 1.3 điểm và đóng cửa ở mức cao nhất phiên trên nền khối lượng giảm nhẹ cho thấy áp lực bán đã hoàn toàn cạn kiệt. Đây là tín hiệu rất tích cực, xác nhận quá trình hấp thụ cung đã hoàn tất sau đợt panic selling ngày 29/7. Việc giá có thể tăng mạnh mà không cần khối lượng lớn thể hiện sự thiếu hụt nguồn cung nghiêm trọng, mở ra tiềm năng phục hồi mạnh mẽ trong các phiên tiếp theo.
+**Ngày 2025-08-05:**
+DGW dao động mạnh từ 44.7 xuống 43.7. Cây nến giảm có biên độ cực rộng với mức mở cửa 45.0, high 45.35 và low 41.65. Khối lượng giao dịch tăng vọt lên 3.41 triệu đơn vị, tăng 115% so với phiên trước.
+
+**Phân tích VPA/Wyckoff:** Tình trạng **Test for Supply** mạnh mẽ xuất hiện. Sau tín hiệu **No Supply** tích cực của phiên trước, việc giá mở cửa cao hơn (45.0) và test lên vùng kháng cự 45.35 nhưng bị đẩy xuống thảm hại đến 41.65 với khối lượng tăng gấp đôi cho thấy có sự phân phối từ smart money ở vùng cao. Tuy nhiên, việc giá có thể phục hồi từ mức thấp 41.65 lên đóng cửa ở 43.7 trên nền khối lượng cao thể hiện lực cầu vẫn còn tồn tại để hấp thụ nguồn cung. Đây là phiên test quan trọng sau giai đoạn hấp thụ, cần theo dõi các phiên tiếp theo để xác định khả năng phục hồi hay tiếp tục điều chỉnh.
