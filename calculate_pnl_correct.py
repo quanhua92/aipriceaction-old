@@ -64,12 +64,19 @@ def read_portfolio_from_hold_md():
     return portfolio
 
 def get_current_price_from_csv(ticker):
-    """Get current price from last row of ticker's CSV file"""
-    csv_path = Path(f'market_data/{ticker}_2025-01-02_to_2025-08-01.csv')
+    """Get current price from last row of ticker's CSV file using glob pattern"""
+    import glob
     
-    if not csv_path.exists():
+    # Use glob to find the most recent CSV file for the ticker
+    pattern = f'market_data/{ticker}_2025-01-02_to_*.csv'
+    csv_files = glob.glob(pattern)
+    
+    if not csv_files:
         print(f"Warning: CSV file not found for {ticker}")
         return None
+    
+    # Use the most recent file (last in alphabetical order is most recent date)
+    csv_path = sorted(csv_files)[-1]
     
     try:
         with open(csv_path, 'r', encoding='utf-8') as f:

@@ -1,41 +1,40 @@
 # PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Cập nhật: 2025-08-05 | Phân tích theo phương pháp VPA-Strategist*
+*Cập nhật: 2025-08-07 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
 ![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-**Bối Cảnh Tuần**: VNINDEX tiếp tục duy trì xu hướng tăng mạnh mẽ với chuỗi Tín Hiệu Sức Mạnh từ báo cáo tuần. Sau giai đoạn Kiểm Tra Thứ Cấp thành công ngày 01/08 tại vùng 1479.98, thị trường đã xác nhận hoàn tất chu kỳ điều chỉnh và bước vào giai đoạn đánh dấu giá mới.
+**Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tăng vững chắc với Tín Hiệu Sức Mạnh liên tiếp từ báo cáo tuần. Sau test thành công vùng 1580-1585, thị trường đã xác nhận hoàn tất giai đoạn kiểm tra và bước vào chu kỳ tăng giá mới với nền tảng vững chắc.
 
-**Hành Động Gần Đây**: Ngày 05/08 VNINDEX thực hiện Kiểm Tra Nguồn Cung mạnh mẽ với mức cao 1584.98 điểm trước khi đóng cửa tại 1547.15 điểm. Khối lượng bùng nổ 2.80 tỷ đơn vị cho thấy kiểm tra nguồn cung ở vùng kháng cự cao, nhưng việc duy trì mức tăng dương xác nhận lực cầu vẫn kiểm soát.
+**Hành Động Gần Đây**: Ngày 07/08 VNINDEX tiếp tục tăng từ 1573.71 lên 1581.81 (+0.5%) với khối lượng 1.70 tỷ đơn vị. Việc duy trì vững vàng trên ngưỡng 1580 sau test thành công cho thấy lực cầu tổ chức đang kiểm soát và xu hướng tăng được xác lập.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Theo dõi vùng 1520-1540 cho cơ hội tích lũy sau kiểm tra. Với đóng cửa hiện tại 1547.15 và khả năng kiểm tra thành công vùng 1580-1585, mọi nhịp củng cố về vùng 1520-1540 sẽ là cơ hội mua thêm chất lượng.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Vùng hỗ trợ 1570-1580 là cơ hội tích lũy chất lượng. Với đóng cửa hiện tại 1581.81 và momentum tích cực, mọi nhịp điều chỉnh về vùng 1570-1575 sẽ là cơ hội mua thêm cho xu hướng tăng tiếp tục.
 
-## 2. Top 15 Cơ Hội Giao Dịch Chất Lượng
+## 2. Top 12 Cơ Hội Giao Dịch Chất Lượng
 
 ### Nhóm Tin Cậy Cao (90-95%) - Danh Mục Cốt Lõi
-1. [**VHM**](#VHM) (Bất Động Sản) - **94%** - Tín Hiệu Sức Mạnh mạnh mẽ +4.1%, dẫn đầu phục hồi - [View Report](REPORT.md#VHM)
-2. [**VND**](#VND) (Chứng Khoán) - **92%** - Dẫn dắt ngành chứng khoán tiếp tục +1.9%, vượt 23.5 - [View Report](REPORT.md#VND)
-3. [**MWG**](#MWG) (Bán Lẻ) - **90%** - Phục hồi bán lẻ xuất sắc +3.4%, mô hình đột phá - [View Report](REPORT.md#MWG)
+1. [**VPB**](#VPB) (Ngân Hàng) - **95%** - Tín Hiệu Sức Mạnh đột phá +6.8%, dẫn đầu ngành ngân hàng - [View Report](REPORT.md#VPB)
+2. [**VHM**](#VHM) (Bất Động Sản) - **90%** - Không có nguồn cung, dẫn dắt bất động sản mạnh mẽ - [View Report](REPORT.md#VHM)
 
 ### Nhóm Tin Cậy Tốt (85-89%) - Nắm Giữ Chiến Lược  
-4. [**VPB**](#VPB) (Ngân Hàng) - **88%** - Nền tảng ngân hàng vững chắc, ổn định +0.4% - [View Report](REPORT.md#VPB)
-5. [**SSI**](#SSI) (Chứng Khoán) - **87%** - Phục hồi chứng khoán mạnh +1.9%, dẫn đầu khối lượng - [View Report](REPORT.md#SSI)
-6. [**BSR**](#BSR) (Dầu Khí) - **85%** - Củng cố năng lượng, sức mạnh tuần còn nguyên - [View Report](REPORT.md#BSR)
+3. [**VND**](#VND) (Chứng Khoán) - **88%** - Không có nguồn cung, tiếp tục dẫn dắt chứng khoán - [View Report](REPORT.md#VND)
+4. [**MWG**](#MWG) (Bán Lẻ) - **85%** - Nỗ lực tăng giá xuất sắc, phục hồi bán lẻ xác nhận - [View Report](REPORT.md#MWG)
 
-### Nhóm Tin Cậy Trung Bình (75-84%) - Vị Thế Chiến Lược
-7. [**SHB**](#SHB) (Ngân Hàng) - **78%** - Điều chỉnh ngân hàng -1.3%, hỗ trợ tổ chức - [View Report](REPORT.md#SHB)
-8. [**VIX**](#VIX) (Chứng Khoán) - **75%** - Rút lui chứng khoán -3.2%, sức mạnh ngành hỗ trợ - [View Report](REPORT.md#VIX)
-9. [**GAS**](#GAS) (Dầu Khí) - **75%** - Chủ đề xoay vòng năng lượng, hỗ trợ hàng hóa - [View Report](REPORT.md#GAS)
-10. [**REE**](#REE) (Năng Lượng) - **75%** - Chủ đề hạ tầng năng lượng tiếp diễn - [View Report](REPORT.md#REE)
+### Nhóm Tin Cậy Trung Bình (80-84%) - Vị Thế Chiến Lược
+5. [**SSI**](#SSI) (Chứng Khoán) - **83%** - Không có nguồn cung, ổn định trong sức mạnh ngành - [View Report](REPORT.md#SSI)
+6. [**BSR**](#BSR) (Dầu Khí) - **80%** - Tín Hiệu Sức Mạnh, năng lượng tiếp tục mạnh - [View Report](REPORT.md#BSR)
 
-### Nhóm Quan Sát Cẩn Thận (65-74%) - Vị Thế Chiến Thuật
-11. [**ACB**](#ACB) (Ngân Hàng) - **72%** - Hỗ trợ ngân hàng, hậu thuẫn tổ chức - [View Report](REPORT.md#ACB)
-12. [**DHG**](#DHG) (Sức Khỏe) - **70%** - Đặc điểm phòng thủ, ổn định - [View Report](REPORT.md#DHG)
-13. [**C4G**](#C4G) (Đầu Tư Công) - **68%** - Hỗ trợ chủ đề hạ tầng - [View Report](REPORT.md#C4G)
-14. [**HDB**](#HDB) (Ngân Hàng) - **65%** - Tiềm năng phục hồi ngân hàng - [View Report](REPORT.md#HDB)
-15. [**TCB**](#TCB) (Ngân Hàng) - **62%** - Nền tảng ngân hàng, cần xác nhận - [View Report](REPORT.md#TCB)
+### Nhóm Quan Sát Tích Cực (75-79%) - Cơ Hội Chiến Thuật
+7. [**ACB**](#ACB) (Ngân Hàng) - **77%** - Nỗ lực tăng giá, phục hồi ngân hàng - [View Report](REPORT.md#ACB)
+8. [**HPG**](#HPG) (Thép) - **75%** - Nỗ lực tăng giá, động lực ngành thép - [View Report](REPORT.md#HPG)
+
+### Nhóm Theo Dõi Đặc Biệt (70-74%) - Tiềm Năng Tăng Cấp
+9. [**PLX**](#PLX) (Dầu Khí) - **73%** - Nỗ lực tăng giá, mở rộng năng lượng - [View Report](REPORT.md#PLX)
+10. [**TPB**](#TPB) (Ngân Hàng) - **72%** - Nỗ lực tăng giá, cơ hội ngân hàng - [View Report](REPORT.md#TPB)
+11. [**VCI**](#VCI) (Chứng Khoán) - **70%** - Kiểm tra nguồn cung, sức mạnh ngành hỗ trợ - [View Report](REPORT.md#VCI)
+12. [**VIX**](#VIX) (Chứng Khoán) - **68%** - Kiểm tra nguồn cung, cần theo dõi phục hồi - [View Report](REPORT.md#VIX)
 
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
@@ -66,35 +65,45 @@
 
 ## 5. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
 
+### **VPB (Ngân Hàng)**
+![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
+
+* **Giá Hiện Tại:** 28.950 VNĐ
+* **Tín Hiệu VPA Tuần:** Tín Hiệu Sức Mạnh với nền tảng ngành ngân hàng vững chắc
+* **Tín Hiệu VPA Ngày:** Tín Hiệu Sức Mạnh đột phá ngày 2025-08-07 với +6.8%
+* **Bối Cảnh Ngành:** Dẫn đầu ngành ngân hàng với động lực mạnh mẽ
+* **Phân Tích Thiết Lập:** Đột phá mạnh mẽ với khối lượng khổng lồ, xu hướng tăng rõ ràng
+* **Vùng Vào Tốt Nhất:** Momentum mạnh, hỗ trợ 27.5-28.0, mục tiêu 30-32
+
 ### **VHM (Bất Động Sản)**
 ![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 96.000 VNĐ
+* **Giá Hiện Tại:** 95.000 VNĐ
 * **Tín Hiệu VPA Tuần:** Tín Hiệu Sức Mạnh dẫn đầu ngành bất động sản với xu hướng tăng vững chắc
-* **Tín Hiệu VPA Ngày:** Tín Hiệu Sức Mạnh mạnh mẽ ngày 2025-08-05 với mức tăng +4.1% lên 96.000
-* **Bối Cảnh Ngành:** Bất động sản có tín hiệu phục hồi mạnh với VHM dẫn đầu tuyệt đối
-* **Phân Tích Thiết Lập:** Mô hình đột phá sau giai đoạn củng cố, hỗ trợ khối lượng mạnh
-* **Vùng Vào Tốt Nhất:** Nắm giữ cốt lõi, thêm vào mọi điểm yếu về vùng 92-94
+* **Tín Hiệu VPA Ngày:** Không có nguồn cung ngày 2025-08-07, điều chỉnh nhẹ -2.6% sau đỉnh cao
+* **Bối Cảnh Ngành:** Bất động sản tiếp tục dẫn dắt với VHM là trụ cột chính
+* **Phân Tích Thiết Lập:** Điều chỉnh kỹ thuật sau đột phá, nền tảng vẫn vững chắc 
+* **Vùng Vào Tốt Nhất:** Tích lũy vùng 94-96, hỗ trợ mạnh tại 92-94
 
 ### **VND (Chứng Khoán)**  
 ![Weekly Chart](reports_week/VND/VND_candlestick_chart.png) ![Daily Chart](reports/VND/VND_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 23.700 VNĐ
+* **Giá Hiện Tại:** 23.550 VNĐ
 * **Tín Hiệu VPA Tuần:** Tín Hiệu Sức Mạnh với ngành chứng khoán dẫn dắt thị trường
-* **Tín Hiệu VPA Ngày:** Tín Hiệu Sức Mạnh ngày 2025-08-05 với +1.9%, vượt vùng 23.5
-* **Bối Cảnh Ngành:** Chứng khoán dẫn đầu với dòng vốn tổ chức mạnh
-* **Phân Tích Thiết Lập:** Đột phá dẫn dắt trong xoay vòng ngành
-* **Vùng Vào Tốt Nhất:** Chơi động lực, vào trên sức mạnh ngành, mục tiêu 25-27
+* **Tín Hiệu VPA Ngày:** Không có nguồn cung ngày 2025-08-07, điều chỉnh nhẹ -1.5%
+* **Bối Cảnh Ngành:** Chứng khoán tiếp tục dẫn đầu với dòng vốn tổ chức
+* **Phân Tích Thiết Lập:** Củng cố sau đột phá, xu hướng tăng còn nguyên
+* **Vùng Vào Tốt Nhất:** Hỗ trợ 23.0-23.5, mục tiêu dài hạn 25-27
 
 ### **MWG (Bán Lẻ)**
 ![Weekly Chart](reports_week/MWG/MWG_candlestick_chart.png) ![Daily Chart](reports/MWG/MWG_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 69.300 VNĐ
+* **Giá Hiện Tại:** 72.400 VNĐ
 * **Tín Hiệu VPA Tuần:** Tín Hiệu Sức Mạnh trong phục hồi ngành bán lẻ
-* **Tín Hiệu VPA Ngày:** Hiệu suất xuất sắc +3.4% ngày 2025-08-05
-* **Bối Cảnh Ngành:** Chủ đề phục hồi bán lẻ với tăng chi tiêu người dùng
-* **Phân Tích Thiết Lập:** Đột phá từ củng cố với xác nhận khối lượng
-* **Vùng Vào Tốt Nhất:** Động lực phục hồi, thêm vào sức mạnh và rút lui 67-68
+* **Tín Hiệu VPA Ngày:** Nỗ lực tăng giá ngày 2025-08-07, duy trì vững chắc 72.4
+* **Bối Cảnh Ngành:** Phục hồi bán lẻ xác nhận với tăng chi tiêu người dùng
+* **Phân Tích Thiết Lập:** Đã đột phá và củng cố tại vùng cao, rất mạnh
+* **Vùng Vào Tốt Nhất:** Hỗ trợ 71-72, mục tiêu tiếp tục 74-75
 
 ### **VPB (Ngân Hàng)**
 ![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
@@ -168,24 +177,29 @@
 
 ## 6. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
 
-### Cổ Phiếu Được Nâng Cấp Confidence:
-- **VHM**: Từ 92% lên 94%. Lý do: REPORT.md ghi nhận **'Tín Hiệu Sức Mạnh' ngày 2025-08-05** với +4.1%, dẫn dắt bất động sản xuất sắc.
-- **MWG**: Từ 80% lên 90%. Lý do: **Hiệu suất đột phá ngày 2025-08-05** với +3.4%, phục hồi bán lẻ xác nhận.
-- **SSI**: Từ 82% lên 87%. Lý do: **Động lực phục hồi ngày 2025-08-05** với +1.9% và dẫn đầu khối lượng.
+### Cổ Phiếu Được Nâng Cấp Lên "Top List":
+- **VPB**: Từ 88% lên 95% (Vị trí #1). Lý do: REPORT.md ghi nhận **'Tín Hiệu Sức Mạnh' ngày 2025-08-07** với +6.8%, đột phá mạnh mẽ dẫn dắt ngành ngân hàng.
+- **ACB**: Từ `Downgraded` vào Top List 77%. Lý do: **'Nỗ lực tăng giá' ngày 2025-08-07**, phục hồi ngân hàng được xác nhận.
+- **HPG**: Từ `Potential` vào Top List 75%. Lý do: **'Nỗ lực tăng giá' ngày 2025-08-07**, động lực ngành thép.
 
-### Cổ Phiếu Được Hạ Xuống Theo Dõi:
-- **VIX**: Từ 90% xuống 75%. Lý do: **Rút lui -3.2% ngày 2025-08-05**, cần củng cố trong sức mạnh ngành.
-- **SHB**: Từ 87% xuống 78%. Lý do: **Điều chỉnh nhỏ -1.3% ngày 2025-08-05**, mô hình chốt lãi.
+### Cổ Phiếu Điều Chỉnh Vị Trí:
+- **VHM**: Từ 94% xuống 90%. Lý do: **'Không có nguồn cung' ngày 2025-08-07** nhưng giá giảm -2.6%, điều chỉnh sau đột phá.
+- **VND**: Từ 92% xuống 88%. Lý do: **'Không có nguồn cung' ngày 2025-08-07** nhưng giảm -1.5%, củng cố.
+- **MWG**: Từ 90% xuống 85%. Lý do: **'Nỗ lực tăng giá' ngày 2025-08-07**, duy trì 72.4 sau chuỗi tăng mạnh.
 
-### Cổ Phiếu Duy Trì Vị Trí:
-- **VND**: Duy trì 92%. Lý do: **Tín Hiệu Sức Mạnh ngày 2025-08-05** với +1.9%, dẫn dắt chứng khoán tiếp tục.
-- **VPB**: Duy trì 88%. Lý do: **Hiệu suất ổn định +0.4%** với nền tảng ngân hàng vững chắc.
-- **BSR**: Duy trì 85%. Lý do: **Nền tảng tuần còn nguyên** bất chấp củng cố ngày nhỏ.
+### Cổ Phiếu Được Thêm Vào "Potential List":
+- **PLX**: Từ `Unlisted`. Lý do: **'Nỗ lực tăng giá' ngày 2025-08-07** với động lực năng lượng.
+- **TPB**: Từ `Potential` nâng cao. Lý do: **'Nỗ lực tăng giá' ngày 2025-08-07**, mở rộng cơ hội ngân hàng.
 
-### Market Context Changes:
-- **VNINDEX**: **Kiểm Tra Nguồn Cung ngày 2025-08-05** tại 1584.98, đóng cửa 1547.15 với khối lượng 2.80Tỷ
-- **Dẫn Dắt Ngành**: Bất động sản và chứng khoán dẫn đầu, ngân hàng trái chiều, năng lượng củng cố
-- **Mô Hình Khối Lượng**: Tham gia tổ chức mạnh trong các nhà lãnh đạo
+### Cổ Phiếu Bị Hạ Ưu Tiên:
+- **VIX**: Từ 75% xuống 68%. Lý do: **'Kiểm tra nguồn cung' ngày 2025-08-07**, cần theo dõi phục hồi.
+- **GAS**: Loại khỏi Top List. Lý do: Thiếu động lực so với các cơ hội mạnh hơn.
+- **DHG**: Loại khỏi Top List. Lý do: Chuyển sang phòng thủ, không còn phù hợp trong môi trường tăng trưởng.
+
+### Market Context Changes (2025-08-07):
+- **VNINDEX**: **Tiếp tục tăng** từ 1573.71 lên 1581.81 (+0.5%) với khối lượng 1.70Tỷ, vững vàng trên 1580
+- **Dẫn Dắt Ngành**: Ngân hàng (VPB) bứt phá dẫn đầu, bất động sản củng cố, chứng khoán ổn định
+- **Mô Hình Khối Lượng**: VPB khối lượng bùng nổ 62.57M, xác nhận mua tổ chức mạnh
 
 ## 7. Chiến Lược Giao Dịch Tuần Tới
 

@@ -150,6 +150,59 @@ print('Sample tickers:', tickers.head(10).to_list())
 
 **Quality Control**: Manual verification ensures accuracy over automation
 
+### Step 3.5: Mandatory Sector Context Analysis
+
+**CRITICAL PROTOCOL**: Before making any sell recommendations or negative assessments, MUST conduct comprehensive sector peer analysis to prevent isolated signal interpretation errors.
+
+#### 3.5.1 Sector Peer Identification
+For each ticker showing negative signals:
+1. **Identify Sector**: Check @GROUP.md for ticker's sector classification
+2. **List All Peers**: Gather all tickers in same sector/industry group
+3. **Priority Peers**: Focus on major players with similar market cap/liquidity
+
+#### 3.5.2 Peer VPA Signal Analysis
+For each sector peer:
+1. **Read Recent VPA**: Check last 3-5 entries in vpa_data/[TICKER].md
+2. **Signal Classification**: Categorize as Bullish/Bearish/Neutral
+3. **Volume Trends**: Compare volume patterns across peers
+4. **Price Performance**: Check relative strength within sector
+
+#### 3.5.3 Sector Strength Assessment
+**Sector Classification Rules**:
+- **Sector Rotation OUT**: If 70%+ of peers show weakness (bearish VPA signals)
+- **Sector Rotation IN**: If 70%+ of peers show strength (bullish VPA signals)  
+- **Sector Mixed/Consolidating**: If 40-60% mixed signals
+- **Isolated Weakness**: If <30% show weakness (target ticker may be laggard)
+- **Isolated Strength**: If <30% show strength (target ticker may be leader)
+
+#### 3.5.4 Context-Adjusted Recommendations
+**Decision Matrix**:
+
+| Individual Signal | Sector Context | Action | Rationale |
+|------------------|----------------|--------|-----------|
+| Bearish VPA | Sector Rotation OUT | SELL/REDUCE | Confirmed sector weakness |
+| Bearish VPA | Sector Strong/Mixed | HOLD/MONITOR | Likely temporary weakness |
+| Bearish VPA | Isolated Weakness | HOLD/BUY DIP | Laggard catch-up opportunity |
+| Bullish VPA | Sector Rotation IN | BUY/INCREASE | Sector momentum confirmed |
+| Bullish VPA | Sector Weak/Mixed | CAUTION | May be false breakout |
+
+#### 3.5.5 Sector Analysis Documentation
+For each ticker analysis, document:
+```markdown
+**[TICKER] Sector Analysis ([SECTOR_NAME])**
+- Sector Peers: [List 3-5 major peers]
+- Peer Signals: [Count bullish/bearish/neutral]
+- Sector Strength: [Strong/Weak/Mixed/Rotation]
+- Context Rating: [High confidence/Low confidence]
+- Recommendation Adjustment: [None/Hold instead of Sell/etc.]
+```
+
+#### 3.5.6 Special Cases Requiring Extra Scrutiny
+- **Securities (CHUNG_KHOAN)**: VND, SSI, VIX, SHS, BSI - cross-reference all
+- **Banking**: ACB, VCB, BID, CTG, TCB - systemic implications  
+- **Real Estate**: VHM, VIC, VRE, KDH, NLG - policy sensitive
+- **Technology**: FPT, CMG, ELC - growth sector leaders
+
 ### Step 4: STAGE 1 - Manual Ticker State Assessment Using VPA-Strategist Methodology
 **Objective**: Determine new state for each ticker using manual analysis and VPA principles
 

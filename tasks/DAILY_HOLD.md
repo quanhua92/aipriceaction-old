@@ -129,6 +129,43 @@ Task 3: "MANUAL ANALYSIS ONLY - Select top 3 diversified portfolio expansion pic
 
 **Manual Process**: Apply action recommendation rules in exact order using ONLY manually created fact sheet data and human intelligence:
 
+### Step 4.5: Portfolio Sector Peer Analysis
+
+**CRITICAL PROTOCOL**: Before making any sell recommendations for portfolio holdings, MUST conduct comprehensive sector peer analysis to prevent premature selling due to isolated weakness signals.
+
+#### 4.5.1 Portfolio-Focused Sector Analysis
+For each holding ticker showing bearish/weak signals:
+1. **Identify Sector**: Use @GROUP.md for ticker's sector classification
+2. **Gather Major Sector Peers**: List 3-5 major players in same sector
+3. **VPA Signal Assessment**: Check recent VPA signals for each peer
+4. **Sector Strength Classification**: Determine if weakness is isolated or sector-wide
+
+#### 4.5.2 Sell Decision Matrix for Portfolio Holdings
+
+| Individual Signal | Sector Context | Recommended Action | Risk Level |
+|------------------|----------------|-------------------|------------|
+| Bearish VPA | 70%+ Peers Weak | SELL | Low Risk - Sector rotation confirmed |
+| Bearish VPA | 30-60% Peers Mixed | HOLD/MONITOR | Medium Risk - Sector mixed |
+| Bearish VPA | <30% Peers Weak | HOLD/BUY DIP | High Risk - Likely temporary weakness |
+| Strong Bearish VPA | Isolated Weakness | REDUCE POSITION | Medium Risk - Partial exit |
+
+#### 4.5.3 Special Portfolio Considerations
+- **Securities Holdings (SHS, VND, SSI, VIX, CTS, MBS)**: Always cross-reference all sector peers
+- **Banking Holdings**: Check systemic vs individual bank issues  
+- **Real Estate Holdings**: Verify sector-wide vs company-specific weakness
+- **Never sell based on isolated signals** when sector remains strong
+
+#### 4.5.4 Documentation for Portfolio Decisions
+```markdown
+**[TICKER] Portfolio Decision Analysis**
+- Current Holding: [Avg Price, Quantity, P&L]
+- Individual Signal: [Recent VPA signal and date]
+- Sector Peers Analysis: [List peers and their recent signals]
+- Sector Context: [Strong/Weak/Mixed - % breakdown]
+- Risk Assessment: [Isolated weakness vs sector rotation]
+- Final Decision: [Hold/Sell/Reduce with specific reasoning]
+```
+
 #### For Previous "Hold" Recommendations:
 - **Check Strong Bullish Continuation**:
   - Daily signal is bullish (SOS, Effort to Rise, Backing Up) AND weekly context supportive AND daily narrative confirms strength
@@ -486,6 +523,101 @@ For EVERY ticker, provide detailed breakdown:
 - **P&L Accuracy**: Mathematical calculations must be manually verified as precise using Vietnamese dot formatting for ALL individual ticker P&L amounts
 - **Number Formatting**: ALL monetary amounts must use Vietnamese dot separators (28.085.600 VND)
 - **State Tracking**: Previous recommendations must be accurately captured through manual analysis
+
+### 🚨 MANDATORY DATA INTEGRITY RULES
+
+#### **RULE 1: NO DATE MIXING (CRITICAL)**
+- **NEVER mix VPA analysis from different dates** in the same recommendation
+- **ALWAYS verify VPA signal dates match the analysis context date**
+- **Example of FORBIDDEN practice**: Using 2025-08-05 "Sign of Strength" analysis for 2025-08-07 recommendations
+- **Verification Required**: Cross-check all VPA claims against actual dates in vpa_data/{TICKER}.md files
+- **Red Flag Detection**: Look for explosive volume claims (e.g., "3.4x bùng nổ") that may be from previous days
+
+#### **RULE 2: CURRENT STATE ONLY**
+- **Use ONLY the most recent VPA analysis date** for current recommendations
+- **Distinguish between historical significant events and current state**
+- **Example**: "Previous breakout on Aug 5 with 3.4x volume, currently in continuation phase" (CORRECT) vs. "Sign of Strength breakout with 3.4x volume" when describing current state (INCORRECT)
+
+#### **RULE 3: RISK-REWARD RATIO MINIMUM**
+- **ALL recommendations must have Risk:Reward ratio ≥ 2:1**
+- **Take-profit targets must be at least 2x the stop-loss distance**
+- **Formula verification**: (Target Price - Current Price) ÷ (Current Price - Stop Loss) ≥ 2.0
+- **Immediate rejection**: Any recommendation with R:R < 2:1 must be revised or rejected
+
+#### **RULE 4: ENTRY PRICE REALITY CHECK**
+- **NEVER recommend entry prices more than 10% below current market price**
+- **Flag any diversification pick where recommended entry vs current price shows >15% gap**
+- **Example of FORBIDDEN**: Recommending FRT entry at 67-70 when current price is 152 (+117%)
+- **Mandatory verification**: Compare ALL recommended entry prices against current market data
+
+#### **RULE 5: VPA SIGNAL ACCURACY**
+- **MANDATORY cross-verification**: All claimed VPA signals must match exactly with vpa_data files**
+- **Zero tolerance for signal misstatement**: "No Supply" vs "No Demand" are different signals
+- **Daily verification**: Check latest 3 entries in vpa_data/{TICKER}.md for current signal accuracy
+- **Flag mismatches immediately**: Any discrepancy requires investigation and correction
+
+#### **RULE 6: POSITION SIZING COMPLIANCE**
+- **ALL position recommendations must be multiples of 100 shares minimum**
+- **Forbidden quantities**: 50, 150, 75, any number not divisible by 100 and <100
+- **Correct examples**: 100, 200, 300, 400, 500 shares
+- **Automatic rejection**: Any position size recommendation violating this rule
+
+#### **RULE 7: INDUSTRY CLASSIFICATION VERIFICATION**
+- **MANDATORY**: All "Top 3 Cổ Phiếu Thay Thế" must be from SAME industry group per GROUP.md
+- **Zero tolerance for cross-industry mixing** in alternatives
+- **Verification process**: Read GROUP.md and manually confirm every alternative ticker's industry
+- **Example of FORBIDDEN**: Banking alternatives (ACB, VCB) for Securities holding (SHS)
+- **Error detection**: Any alternative from different industry triggers immediate correction
+
+#### **RULE 8: OVEREXTENSION DETECTION**
+- **Automatic flagging**: Any ticker >30% above its recommended entry price range**
+- **Immediate review required**: Tickers showing recent "No Demand" or "Sign of Weakness" signals
+- **Risk assessment mandatory**: Evaluate if overextended tickers should be removed from recommendations
+- **Conservative approach**: When in doubt, exclude overextended candidates
+
+### 🔍 MANDATORY PRE-SUBMISSION VERIFICATION CHECKLIST
+
+**Before finalizing hold.md, EVERY AI agent must verify:**
+
+- [ ] **Date Integrity**: No VPA analysis mixed from different dates
+- [ ] **Signal Accuracy**: All VPA signals match vpa_data files exactly  
+- [ ] **Price Reality**: All entry recommendations within 10% of current prices
+- [ ] **R:R Ratios**: All recommendations have ≥2:1 risk-reward ratios
+- [ ] **Position Sizes**: All quantities are multiples of 100 shares (minimum 100)
+- [ ] **Industry Match**: All alternatives from same industry group per GROUP.md
+- [ ] **Volume Claims**: All volume statistics verified against actual CSV data
+- [ ] **Current State**: Analysis reflects most recent data date, not historical events
+- [ ] **Overextension Check**: No recommendations for tickers >30% above suggested entry
+- [ ] **Signal Consistency**: Daily and weekly VPA signals align logically
+
+### 🚨 AUTOMATIC REJECTION TRIGGERS
+
+**Any hold.md with the following issues must be REJECTED and regenerated:**
+
+1. **Date mixing detected** (different VPA dates in same analysis)
+2. **Risk-reward ratios <2:1** for any ticker
+3. **Entry prices >15% gap** from current market prices  
+4. **Cross-industry alternatives** detected
+5. **Position sizes not multiples of 100** or below 100 shares
+6. **VPA signal mismatches** with source data
+7. **Volume claims unverified** against CSV files
+8. **Overextended tickers** without proper risk warnings
+
+### 📊 VALIDATION PROTOCOLS
+
+#### **Daily Validation Process**:
+1. **Run calculate_pnl_correct.py** to verify all prices
+2. **Spot-check 3 random tickers** for VPA signal accuracy  
+3. **Verify all R:R ratios** meet minimum standards
+4. **Check top 3 most recent VPA entries** for date consistency
+5. **Cross-reference alternatives** with GROUP.md classifications
+
+#### **Weekly Deep Audit**:
+1. **Full portfolio VPA verification** against source files
+2. **Complete R:R ratio audit** for all recommendations  
+3. **Entry price reality check** for all diversification picks
+4. **Alternative industry classification** comprehensive review
+5. **Position sizing compliance** across entire portfolio
 
 ### Action Logic Standards
 - **Protocol Adherence**: All decisions must follow state transition rules
