@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Main VPA Processing Coordinator
-Follows the protocol from tasks/DAILY_VPA.md and tasks/WEEKLY_VPA.md
+Main US & Crypto VPA Processing Coordinator
+Follows the protocol for US indices and cryptocurrency VPA analysis
 Uses Python as coordinator and claude -p for complex analysis tasks
 """
 
@@ -36,7 +36,7 @@ def setup_logging(debug=False):
     console_handler.setFormatter(formatter)
     
     # Setup file handler in /tmp
-    log_file = f"/tmp/vpa_processing_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+    log_file = f"/tmp/vpa_us_crypto_processing_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
     file_handler = logging.FileHandler(log_file)
     file_handler.setFormatter(formatter)
     
@@ -46,7 +46,7 @@ def setup_logging(debug=False):
         handlers=[console_handler, file_handler]
     )
     
-    logging.info(f"Logging initialized - Log file: {log_file}")
+    logging.info(f"US & Crypto VPA logging initialized - Log file: {log_file}")
     return log_file
 
 
@@ -71,6 +71,7 @@ def get_dividend_info(dividend_folder):
     """
     Gather dividend information from dividend_info.txt files
     Returns dict of {ticker: {ratio, csv_file, info_file}}
+    Note: US indices and crypto typically don't have dividends, but keeping for compatibility
     """
     dividend_path = Path(dividend_folder)
     dividend_info = {}
@@ -119,8 +120,9 @@ def check_dividends_folder(week_mode=False):
     """
     Step 1: Check dividend adjustment folder
     Returns dividend_info dict if dividends need processing, None if no dividends
+    Note: US indices and crypto typically don't have dividends
     """
-    dividend_folder = "market_data_check_dividends_week" if week_mode else "market_data_check_dividends"
+    dividend_folder = "market_data_us_crypto_check_dividends_week" if week_mode else "market_data_us_crypto_check_dividends"
     dividend_path = Path(dividend_folder)
     
     logging.debug(f"Checking dividend folder: {dividend_folder}")
@@ -157,7 +159,7 @@ def get_latest_csv_date(ticker, week_mode=False):
     Get the latest date from the most recent CSV file for a ticker
     Returns (date_string, csv_file_path) or (None, None) if not found
     """
-    market_folder = "market_data_week" if week_mode else "market_data"
+    market_folder = "market_data_us_crypto_week" if week_mode else "market_data_us_crypto"
     csv_pattern = f"{market_folder}/{ticker}_*.csv"
     
     logging.debug(f"Looking for CSV files: {csv_pattern}")
@@ -192,7 +194,7 @@ def get_vpa_last_date(ticker, week_mode=False):
     Get the last analysis date from VPA file
     Returns date_string or None if not found or file doesn't exist
     """
-    vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+    vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
     vpa_file = Path(f"{vpa_folder}/{ticker}.md")
     
     logging.debug(f"Checking VPA file: {vpa_file}")
@@ -227,7 +229,7 @@ def is_date_already_analyzed(ticker, target_date, week_mode=False):
     Check if a specific date has already been analyzed in VPA file
     Returns True if date already exists, False otherwise
     """
-    vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+    vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
     vpa_file = Path(f"{vpa_folder}/{ticker}.md")
     
     if not vpa_file.exists():
@@ -264,7 +266,7 @@ def get_dates_needing_analysis(ticker, week_mode=False):
     logging.debug(f"Checking which dates need VPA analysis for {ticker}...")
     
     # Get all available dates from CSV
-    market_folder = "market_data_week" if week_mode else "market_data"
+    market_folder = "market_data_us_crypto_week" if week_mode else "market_data_us_crypto"
     csv_pattern = f"{market_folder}/{ticker}_*.csv"
     
     csv_files = glob.glob(csv_pattern)
@@ -288,7 +290,7 @@ def get_dates_needing_analysis(ticker, week_mode=False):
         logging.debug(f"Found {len(all_dates)} dates in CSV for {ticker}: {all_dates[0]} to {all_dates[-1]}")
         
         # Check if VPA file exists
-        vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+        vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
         vpa_file = Path(f"{vpa_folder}/{ticker}.md")
         
         if not vpa_file.exists():
@@ -341,8 +343,8 @@ def get_ticker_context(ticker, target_date=None, week_mode=False):
     """
     logging.debug(f"Gathering context for {ticker} (target_date: {target_date})...")
     
-    market_folder = "market_data_week" if week_mode else "market_data"
-    vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+    market_folder = "market_data_us_crypto_week" if week_mode else "market_data_us_crypto"
+    vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
     
     # Get CSV file
     latest_date, csv_file = get_latest_csv_date(ticker, week_mode)
@@ -427,8 +429,24 @@ def get_ticker_context(ticker, target_date=None, week_mode=False):
         else:
             logging.debug(f"No existing VPA file for {ticker}")
         
+        # Determine asset type for context
+        asset_type = "US_INDEX"  # Default
+        try:
+            us_tickers = pd.read_csv('TICKERS_US.csv')['ticker'].tolist()
+            crypto_tickers = pd.read_csv('TICKERS_CRYPTO.csv')['ticker'].tolist()
+            
+            if ticker in us_tickers:
+                asset_type = "US_INDEX"
+            elif ticker in crypto_tickers:
+                asset_type = "CRYPTO"
+        except:
+            # Fallback logic
+            if ticker in ['BTC', 'ETH', 'USDT', 'USDC', 'BNB', 'BUSD', 'XRP', 'ADA', 'SOL', 'DOGE']:
+                asset_type = "CRYPTO"
+        
         context = {
             "ticker": ticker,
+            "asset_type": asset_type,
             "latest_date": target_date,  # Use the target date (or actual latest if not specified)
             "latest_ohlcv": {
                 "open": float(latest[open_column]),
@@ -467,7 +485,7 @@ def validate_vpa_file_format(ticker, week_mode=False):
     Validate and fix VPA file formatting issues after AI processing
     Checks for proper line breaks between entries
     """
-    vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+    vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
     vpa_file = Path(f"{vpa_folder}/{ticker}.md")
     
     if not vpa_file.exists():
@@ -486,7 +504,7 @@ def validate_vpa_file_format(ticker, week_mode=False):
         date_entries = re.findall(r'\*\*Ngày \d{4}-\d{2}-\d{2}:\*\*', content)
         
         # If we have existing VPA content in context but only 1 entry, file was overwritten
-        vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+        vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
         
         if len(date_entries) == 1:
             logging.warning(f"⚠️  {ticker} VPA file appears to have been overwritten (only 1 entry found)")
@@ -537,7 +555,7 @@ def parse_and_append_vpa_analysis(ticker, ai_output, week_mode=False):
     Parse AI agent output and append VPA analysis to appropriate file
     Returns True if successful, False otherwise
     """
-    vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
+    vpa_folder = "vpa_data_us_crypto_week" if week_mode else "vpa_data_us_crypto"
     vpa_file = Path(f"{vpa_folder}/{ticker}.md")
     
     logging.debug(f"Parsing VPA output for {ticker}...")
@@ -629,6 +647,7 @@ def parse_and_append_vpa_analysis(ticker, ai_output, week_mode=False):
 def call_ai_agent_for_vpa_analysis(ticker, context, week_mode=False, agent='claude', verbose=False):
     """
     Call AI agent (claude or gemini) to generate VPA analysis output for a single ticker
+    Enhanced for US indices and cryptocurrencies
     Returns True if successful, False otherwise
     """
     logging.debug(f"Preparing {agent.upper()} analysis for {ticker}...")
@@ -636,6 +655,7 @@ def call_ai_agent_for_vpa_analysis(ticker, context, week_mode=False, agent='clau
     try:
         # Prepare the AI agent prompt
         timeframe = "weekly" if week_mode else "daily"
+        asset_type = context.get('asset_type', 'UNKNOWN')
         
         # Include all context directly in the prompt
         # Format last 10 OHLCV data points
@@ -647,11 +667,20 @@ def call_ai_agent_for_vpa_analysis(ticker, context, week_mode=False, agent='clau
         # Format last 10 VPA entries
         last_10_vpa_str = "\n---\n".join(context['last_10_vpa_entries']) if context['last_10_vpa_entries'] else 'No previous VPA entries found.'
         
+        # Asset-specific context
+        asset_description = ""
+        currency = "USD"
+        if asset_type == "US_INDEX":
+            asset_description = f"{ticker} is a US stock market index."
+        elif asset_type == "CRYPTO":
+            asset_description = f"{ticker} is a cryptocurrency."
+        
         prompt = f"""
-Analyze ticker {ticker} for {timeframe} VPA using the provided context data.
+Analyze {asset_type.lower()} ticker {ticker} for {timeframe} VPA using the provided context data.
 
 === MARKET DATA CONTEXT ===
 Ticker: {context['ticker']}
+Asset Type: {asset_type} ({asset_description})
 Latest Date: {context['latest_date']}
 Timeframe: {context['timeframe']}
 Total Data Rows: {context['data_rows']}
@@ -678,24 +707,27 @@ Last 10 VPA Entries:
 {last_10_vpa_str}
 
 === ANALYSIS TASK ===
-1. Analyze the price/volume relationship using Wyckoff methodology
+1. Analyze the price/volume relationship using Wyckoff methodology adapted for {asset_type.lower()}
 2. Compare current data with previous periods
 3. Generate Vietnamese VPA analysis following the standard format
-4. OUTPUT the analysis entry in the exact format below (do NOT edit files)
+4. Consider {asset_type}-specific factors (market hours, volatility patterns, etc.)
+5. OUTPUT the analysis entry in the exact format below (do NOT edit files)
 
 Required Output Format:
 **Ngày {context['latest_date']}:**
-[Your detailed Vietnamese analysis of price/volume action, trends, support/resistance levels, and market context]
+[Your detailed Vietnamese analysis of price/volume action, trends, support/resistance levels, and market context for this {asset_type.lower()}]
 
 **Phân tích VPA/Wyckoff:** [Your Wyckoff signal assessment]
 
 Requirements:
 - Use Vietnamese financial terminology only  
 - Use DOT (.) as decimal separator, never comma (,)
+- Reference prices in {currency}
 - Follow the exact format above with **Ngày** and **Phân tích VPA/Wyckoff:** sections
 - Build on previous VPA entries if they exist
 - Compare current price/volume action to previous periods
-- Apply proper Wyckoff VPA methodology
+- Apply proper Wyckoff VPA methodology adapted for {asset_type.lower()} markets
+- Consider global market context for {asset_type.lower()} assets
 - Output ONLY the formatted analysis entry - no additional text
 
 IMPORTANT: Output only the VPA analysis entry in the specified format. Do not use any file editing tools.
@@ -709,7 +741,7 @@ IMPORTANT: Output only the VPA analysis entry in the specified format. Do not us
         else:
             cmd = ['claude', '-p', prompt]
 
-        logging.info(f"🤖 Calling {agent.upper()} for {ticker} analysis...")
+        logging.info(f"🤖 Calling {agent.upper()} for {ticker} ({asset_type}) analysis...")
         
         # Show verbose output if requested
         if verbose:
@@ -718,6 +750,7 @@ IMPORTANT: Output only the VPA analysis entry in the specified format. Do not us
             logging.info(prompt)
             logging.info("-" * 80)
             logging.info(f"📊 CONTEXT SUMMARY:")
+            logging.info(f"   - Asset type: {asset_type}")
             logging.info(f"   - Latest date: {context.get('latest_date', 'N/A')}")
             logging.info(f"   - Data rows: {context.get('data_rows', 'N/A')}")
             logging.info(f"   - Date range: {context.get('date_range', 'N/A')}")
@@ -841,496 +874,6 @@ IMPORTANT: Output only the VPA analysis entry in the specified format. Do not us
         return False
 
 
-def split_content_by_lines(content, max_lines=10):
-    """
-    Split content into chunks by lines to avoid command line argument length issues
-    Returns list of line chunks
-    """
-    if not content:
-        return []
-    
-    lines = content.split('\n')
-    chunks = []
-    
-    for i in range(0, len(lines), max_lines):
-        chunk = '\n'.join(lines[i:i + max_lines])
-        chunks.append(chunk)
-    
-    return chunks
-
-
-def call_ai_agent_for_dividend_processing(ticker, dividend_info, week_mode=False, agent='claude', verbose=False):
-    """
-    Call AI agent to process dividend adjustments for a single ticker using line-based chunking
-    Returns True if successful, False otherwise
-    """
-    logging.debug(f"Preparing {agent.upper()} dividend processing for {ticker}...")
-    
-    # Get VPA file paths
-    vpa_folder = "vpa_data_week" if week_mode else "vpa_data"
-    vpa_file = Path(f"{vpa_folder}/{ticker}.md")
-    main_vpa_file = Path("VPA_week.md" if week_mode else "VPA.md")
-    
-    # Read existing VPA content - ONLY individual ticker file for dividends
-    individual_vpa_content = ""
-    
-    if vpa_file.exists():
-        with open(vpa_file, 'r', encoding='utf-8') as f:
-            individual_vpa_content = f.read()
-    
-    # SKIP reading main VPA.md for dividend processing - it's huge and contains all tickers
-    main_vpa_content = ""
-    
-    try:
-        # For dividend processing, only process individual VPA file (much smaller)
-        individual_size = len(individual_vpa_content)
-        
-        logging.info(f"📊 {ticker}: Individual VPA file size: {individual_size} chars")
-        
-        # Individual VPA files are small (typically <30K chars), process directly
-        if individual_size > 20000:  # Chunk if individual file is >20K to avoid timeouts
-            logging.info(f"🔄 {ticker}: Individual VPA large, using chunking...")
-            return process_dividend_with_chunking(ticker, dividend_info, individual_vpa_content, "", vpa_file, None, week_mode, agent, verbose)
-        else:
-            logging.info(f"🔄 {ticker}: Processing individual VPA directly...")
-            return process_dividend_direct(ticker, dividend_info, individual_vpa_content, "", vpa_file, None, week_mode, agent, verbose)
-        
-    except Exception as e:
-        logging.error(f"❌ {ticker}: Error in dividend processing - {e}")
-        return False
-
-
-def process_dividend_direct(ticker, dividend_info, individual_vpa_content, main_vpa_content, vpa_file, main_vpa_file, week_mode, agent, verbose, max_retries=2):
-    """
-    Process dividends directly - AI outputs adjusted content, Python handles file operations
-    """
-    for attempt in range(max_retries + 1):
-        try:
-            if attempt > 0:
-                logging.info(f"🔄 {ticker}: Retrying direct dividend processing (attempt {attempt + 1}/{max_retries + 1})")
-            
-            logging.debug(f"🔍 {ticker}: Starting direct dividend processing...")
-            logging.debug(f"🔍 {ticker}: Dividend ratio: {dividend_info['ratio']:.6f}")
-            logging.debug(f"🔍 {ticker}: Content length: {len(individual_vpa_content)} chars")
-        
-            # Simple prompt - just ask AI to adjust prices and output the content
-            prompt = f"""Adjust Vietnamese stock prices in this VPA content for dividend ratio {dividend_info['ratio']}.
-
-Divide ALL price numbers by {dividend_info['ratio']:.6f} and round to 1-2 decimals.
-Attempt: {attempt + 1}
-
-Content to adjust:
-{individual_vpa_content}
-
-Examples of what to change:
-- "từ 66.5 lên 67.1" → "từ {66.5/dividend_info['ratio']:.1f} lên {67.1/dividend_info['ratio']:.1f}"  
-- "tăng từ 68.1 lên 69.8" → "tăng từ {68.1/dividend_info['ratio']:.1f} lên {69.8/dividend_info['ratio']:.1f}"
-- "giảm từ 69.7 xuống 69.0" → "giảm từ {69.7/dividend_info['ratio']:.1f} xuống {69.0/dividend_info['ratio']:.1f}"
-
-IMPORTANT: Output ONLY the adjusted VPA content with updated prices. Keep all Vietnamese text and formatting exactly the same."""
-
-            # Prepare command based on agent
-            if agent == 'gemini':
-                cmd = ['gemini', '-p', prompt]
-            elif agent == 'gemini-2.5-flash':
-                cmd = ['gemini', '-m', 'gemini-2.5-flash', '-p', prompt]
-            else:
-                cmd = ['claude', '-p', prompt]
-            
-            logging.info(f"🔄 Calling {agent.upper()} for {ticker} dividend processing (direct)...")
-            logging.debug(f"🔍 {ticker}: Command: {' '.join(cmd[:3])}... (truncated)")
-            logging.debug(f"🔍 {ticker}: Prompt length: {len(prompt)} chars")
-            
-            # Add progress indicator
-            logging.info(f"⏳ {ticker}: Waiting for {agent.upper()} response...")
-            
-            # Increase timeout for retries
-            timeout_seconds = 300 if attempt == 0 else 420  # 5 min first try, 7 min for retries
-            
-            # Use simple subprocess for now to avoid complexity
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout_seconds)
-            
-            if result.returncode == 0 and result.stdout.strip():
-                adjusted_content = result.stdout.strip()
-                if attempt > 0:
-                    logging.info(f"✅ {ticker}: Direct dividend processing succeeded on retry attempt {attempt + 1}")
-                logging.info(f"🎯 {agent.upper()} adjusted {ticker} content: {len(adjusted_content)} chars")
-                
-                # Python handles file replacement - simple and direct
-                if apply_simple_dividend_update(ticker, adjusted_content, vpa_file):
-                    # Delete dividend files immediately after successful processing
-                    cleanup_single_ticker_dividend_files(ticker, dividend_info)
-                    logging.info(f"✅ {ticker}: Direct dividend processing completed successfully")
-                    return True
-            else:
-                error_msg = f"Return code {result.returncode}"
-                if result.stderr:
-                    error_msg += f", stderr: {result.stderr[:200]}"
-                logging.warning(f"⚠️  {ticker}: Direct dividend processing attempt {attempt + 1} failed: {error_msg}")
-                
-                # If this is the last attempt, fail
-                if attempt == max_retries:
-                    logging.error(f"❌ {ticker}: Direct dividend processing failed after {max_retries + 1} attempts")
-                    return False
-                    
-        except subprocess.TimeoutExpired:
-            logging.warning(f"⏰ {ticker}: Direct dividend processing timed out on attempt {attempt + 1}")
-            if attempt == max_retries:
-                logging.error(f"❌ {ticker}: Direct dividend processing timed out after {max_retries + 1} attempts")
-                return False
-        except Exception as e:
-            logging.warning(f"⚠️  {ticker}: Error in direct dividend processing attempt {attempt + 1}: {e}")
-            if attempt == max_retries:
-                logging.error(f"❌ {ticker}: Direct dividend processing failed after {max_retries + 1} attempts")
-                return False
-    
-    # Fallback (shouldn't reach here)
-    logging.error(f"❌ {ticker}: Direct dividend processing failed unexpectedly")
-    return False
-
-
-def apply_simple_dividend_update(ticker, adjusted_content, vpa_file):
-    """
-    Simple file replacement - like VPA processing does
-    """
-    try:
-        vpa_file.parent.mkdir(exist_ok=True)
-        with open(vpa_file, 'w', encoding='utf-8') as f:
-            f.write(adjusted_content)
-        logging.info(f"✅ {ticker}: Updated VPA file with dividend-adjusted prices")
-        return True
-    except Exception as e:
-        logging.error(f"❌ {ticker}: Error updating VPA file: {e}")
-        return False
-
-
-def cleanup_single_ticker_dividend_files(ticker, dividend_info):
-    """
-    Clean up dividend files for a single ticker immediately after processing
-    dividend_info should be the individual ticker's info object, not the full dictionary
-    """
-    try:
-        # dividend_info is the individual ticker's info object directly
-        info = dividend_info
-        
-        # Remove CSV file if it exists
-        if info['csv_file'].exists():
-            info['csv_file'].unlink()
-            logging.info(f"🗑️  Deleted dividend CSV: {info['csv_file'].name}")
-        
-        # Remove info file
-        if info['info_file'].exists():
-            info['info_file'].unlink()
-            logging.info(f"🗑️  Deleted dividend info: {info['info_file'].name}")
-            
-        logging.info(f"🧹 {ticker}: Dividend files cleaned up immediately")
-        
-    except Exception as e:
-        logging.warning(f"⚠️  {ticker}: Could not clean up dividend files: {e}")
-        logging.debug(f"🔍 {ticker}: dividend_info type: {type(dividend_info)}")
-        logging.debug(f"🔍 {ticker}: dividend_info content: {dividend_info}")
-
-
-def process_dividend_with_chunking(ticker, dividend_info, individual_vpa_content, main_vpa_content, vpa_file, main_vpa_file, week_mode, agent, verbose):
-    """
-    Process dividends using line-based chunking for large files
-    """
-    try:
-        # Split content into 10-line chunks
-        individual_chunks = split_content_by_lines(individual_vpa_content, max_lines=10)
-        main_chunks = split_content_by_lines(main_vpa_content, max_lines=10)
-        
-        logging.info(f"📊 {ticker}: Split into {len(individual_chunks)} individual chunks, {len(main_chunks)} main chunks")
-        
-        # Process individual VPA chunks
-        processed_individual_chunks = []
-        for i, chunk in enumerate(individual_chunks, 1):
-            if not chunk.strip():
-                processed_individual_chunks.append(chunk)
-                continue
-                
-            logging.debug(f"Processing individual chunk {i}/{len(individual_chunks)} for {ticker}")
-            processed_chunk = process_single_chunk(ticker, chunk, dividend_info, f"Individual-{i}", agent)
-            if processed_chunk is not None:
-                processed_individual_chunks.append(processed_chunk)
-            else:
-                logging.warning(f"⚠️  Failed to process individual chunk {i}, keeping original")
-                processed_individual_chunks.append(chunk)
-        
-        # Process main VPA chunks
-        processed_main_chunks = []
-        for i, chunk in enumerate(main_chunks, 1):
-            if not chunk.strip():
-                processed_main_chunks.append(chunk)
-                continue
-                
-            logging.debug(f"Processing main chunk {i}/{len(main_chunks)} for {ticker}")
-            processed_chunk = process_single_chunk(ticker, chunk, dividend_info, f"Main-{i}", agent)
-            if processed_chunk is not None:
-                processed_main_chunks.append(processed_chunk)
-            else:
-                logging.warning(f"⚠️  Failed to process main chunk {i}, keeping original")
-                processed_main_chunks.append(chunk)
-        
-        # Combine processed chunks
-        updated_individual_content = '\n'.join(processed_individual_chunks)
-        updated_main_content = '\n'.join(processed_main_chunks)
-        
-        # Apply updates to files
-        if apply_chunked_dividend_updates(ticker, updated_individual_content, updated_main_content, vpa_file, main_vpa_file):
-            logging.info(f"✅ {ticker}: Chunked dividend processing completed successfully")
-            return True
-        else:
-            logging.error(f"❌ {ticker}: Failed to apply chunked dividend updates")
-            return False
-            
-    except Exception as e:
-        logging.error(f"❌ {ticker}: Error in chunked dividend processing - {e}")
-        return False
-
-
-def process_single_chunk(ticker, chunk_content, dividend_info, chunk_name, agent, max_retries=2):
-    """
-    Process a single chunk of VPA content for dividend adjustments with retry logic
-    Returns processed content or None if failed
-    """
-    if not chunk_content or not chunk_content.strip():
-        return ""
-    
-    for attempt in range(max_retries + 1):  # 0, 1, 2 (3 total attempts)
-        try:
-            if attempt > 0:
-                logging.info(f"🔄 {ticker}: Retrying chunk {chunk_name} (attempt {attempt + 1}/{max_retries + 1})")
-            
-            prompt = f"""Update price references in this VPA text chunk for dividend adjustment.
-
-Ticker: {ticker}
-Dividend Ratio: {dividend_info['ratio']}
-Chunk: {chunk_name}
-Attempt: {attempt + 1}
-
-Content to process:
-{chunk_content}
-
-Task: Divide all Vietnamese price values by {dividend_info['ratio']}.
-- "từ 64.4 lên 64.9" → "từ {64.4/dividend_info['ratio']:.1f} lên {64.9/dividend_info['ratio']:.1f}"
-
-Output: ONLY the updated chunk content with adjusted prices. If no prices found, output original text unchanged."""
-
-            # Prepare command
-            if agent == 'gemini':
-                cmd = ['gemini', '-p', prompt]
-            elif agent == 'gemini-2.5-flash':
-                cmd = ['gemini', '-m', 'gemini-2.5-flash', '-p', prompt]
-            else:
-                cmd = ['claude', '-p', prompt]
-            
-            # Increase timeout for retries
-            timeout = 120 if attempt == 0 else 180
-            logging.debug(f"🔍 {ticker}: Processing chunk {chunk_name} with {timeout}s timeout (attempt {attempt + 1})")
-            
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
-            
-            if result.returncode == 0 and result.stdout.strip():
-                processed_content = result.stdout.strip()
-                if attempt > 0:
-                    logging.info(f"✅ {ticker}: Chunk {chunk_name} succeeded on retry attempt {attempt + 1}")
-                logging.debug(f"✓ {ticker}: Processed chunk {chunk_name}: {len(processed_content)} chars")
-                return processed_content
-            else:
-                error_msg = f"Return code {result.returncode}"
-                if result.stderr:
-                    error_msg += f", stderr: {result.stderr[:200]}"
-                logging.warning(f"⚠️  {ticker}: Chunk {chunk_name} attempt {attempt + 1} failed: {error_msg}")
-                
-                # If this is the last attempt, return original content
-                if attempt == max_retries:
-                    logging.warning(f"❌ {ticker}: Chunk {chunk_name} failed after {max_retries + 1} attempts, using original")
-                    return chunk_content
-                    
-        except subprocess.TimeoutExpired:
-            logging.warning(f"⏰ {ticker}: Chunk {chunk_name} timed out on attempt {attempt + 1}")
-            if attempt == max_retries:
-                logging.warning(f"❌ {ticker}: Chunk {chunk_name} timed out after {max_retries + 1} attempts, using original")
-                return chunk_content
-        except Exception as e:
-            logging.warning(f"⚠️  {ticker}: Error processing chunk {chunk_name} attempt {attempt + 1}: {e}")
-            if attempt == max_retries:
-                logging.warning(f"❌ {ticker}: Chunk {chunk_name} failed after {max_retries + 1} attempts, using original")
-                return chunk_content
-    
-    # Fallback (shouldn't reach here)
-    return chunk_content
-
-
-def apply_chunked_dividend_updates(ticker, updated_individual_content, updated_main_content, vpa_file, main_vpa_file):
-    """
-    Apply chunked dividend updates to VPA files
-    """
-    try:
-        # Apply individual VPA file update
-        if updated_individual_content.strip():
-            vpa_file.parent.mkdir(exist_ok=True)
-            with open(vpa_file, 'w', encoding='utf-8') as f:
-                f.write(updated_individual_content)
-            logging.info(f"✅ {ticker}: Updated individual VPA file")
-        
-        # Apply main VPA file update  
-        if updated_main_content.strip():
-            with open(main_vpa_file, 'w', encoding='utf-8') as f:
-                f.write(updated_main_content)
-            logging.info(f"✅ {ticker}: Updated main VPA file")
-        
-        return True
-        
-    except Exception as e:
-        logging.error(f"❌ {ticker}: Error applying chunked updates: {e}")
-        return False
-
-
-def parse_and_apply_dividend_updates(ticker, ai_output, vpa_file, main_vpa_file):
-    """
-    Parse AI agent output for dividend updates and apply them to files
-    Returns True if successful, False otherwise
-    """
-    logging.debug(f"Parsing dividend updates for {ticker}...")
-    logging.debug(f"📄 Raw AI output length: {len(ai_output)} characters")
-    
-    try:
-        # Parse the output to extract individual and main VPA updates
-        lines = ai_output.strip().split('\n')
-        
-        individual_vpa_section = False
-        main_vpa_section = False
-        individual_content = []
-        main_content = []
-        
-        for line in lines:
-            if '=== UPDATED INDIVIDUAL VPA ===' in line:
-                individual_vpa_section = True
-                main_vpa_section = False
-                continue
-            elif '=== UPDATED MAIN VPA ===' in line:
-                individual_vpa_section = False
-                main_vpa_section = True
-                continue
-            
-            if individual_vpa_section:
-                individual_content.append(line)
-            elif main_vpa_section:
-                main_content.append(line)
-        
-        # Clean up content
-        individual_update = '\n'.join(individual_content).strip()
-        main_update = '\n'.join(main_content).strip()
-        
-        logging.debug(f"📝 Individual VPA update length: {len(individual_update)} chars")
-        logging.debug(f"📝 Main VPA update length: {len(main_update)} chars")
-        
-        # Apply individual VPA file update
-        if individual_update and individual_update != "NO_CHANGES":
-            if vpa_file.exists() or individual_update.strip():
-                # Create VPA directory if it doesn't exist
-                vpa_file.parent.mkdir(exist_ok=True)
-                
-                with open(vpa_file, 'w', encoding='utf-8') as f:
-                    f.write(individual_update)
-                logging.info(f"✅ {ticker}: Updated individual VPA file: {vpa_file}")
-            else:
-                logging.debug(f"📝 {ticker}: No individual VPA file to update")
-        else:
-            logging.debug(f"📝 {ticker}: No changes needed for individual VPA file")
-        
-        # Apply main VPA file update
-        if main_update and main_update != "NO_CHANGES":
-            if main_vpa_file.exists() or main_update.strip():
-                with open(main_vpa_file, 'w', encoding='utf-8') as f:
-                    f.write(main_update)
-                logging.info(f"✅ {ticker}: Updated main VPA file: {main_vpa_file}")
-            else:
-                logging.debug(f"📝 {ticker}: No main VPA file to update")
-        else:
-            logging.debug(f"📝 {ticker}: No changes needed for main VPA file")
-        
-        logging.info(f"✅ {ticker}: Dividend updates applied successfully")
-        return True
-        
-    except Exception as e:
-        logging.error(f"❌ {ticker}: Error parsing/applying dividend updates: {e}")
-        logging.error(f"❌ Exception details: {type(e).__name__}: {str(e)}")
-        logging.error(f"❌ Raw output that failed to parse:")
-        logging.error(f"{'!'*60}\n{ai_output}\n{'!'*60}")
-        return False
-
-
-def cleanup_dividend_files(dividend_info):
-    """
-    Clean up processed dividend files
-    """
-    logging.info("🧹 Cleaning up processed dividend files...")
-    
-    for ticker, info in dividend_info.items():
-        try:
-            # Remove CSV file if it exists
-            if info['csv_file'].exists():
-                info['csv_file'].unlink()
-                logging.debug(f"Deleted dividend CSV: {info['csv_file']}")
-            
-            # Remove info file
-            if info['info_file'].exists():
-                info['info_file'].unlink()
-                logging.debug(f"Deleted dividend info: {info['info_file']}")
-                
-            logging.info(f"✅ Cleaned up dividend files for {ticker}")
-            
-        except Exception as e:
-            logging.error(f"❌ Error cleaning up dividend files for {ticker}: {e}")
-
-
-def process_dividends(dividend_info, week_mode=False, agent='claude', verbose=False):
-    """
-    Process all dividend adjustments using AI agent
-    Returns True if all successful, False if any failed
-    """
-    if not dividend_info:
-        return True
-    
-    logging.info(f"🔄 Starting dividend processing for {len(dividend_info)} tickers using {agent.upper()}...")
-    
-    successful = 0
-    failed = []
-    
-    for ticker, info in dividend_info.items():
-        logging.info(f"📋 Processing dividend for {ticker} (ratio: {info['ratio']})...")
-        
-        # Validate dividend ratio
-        if info['ratio'] <= 0 or info['ratio'] > 10:
-            logging.error(f"❌ {ticker}: Invalid dividend ratio {info['ratio']}")
-            failed.append(ticker)
-            continue
-        
-        # Process dividend with AI agent
-        if call_ai_agent_for_dividend_processing(ticker, info, week_mode, agent, verbose):
-            successful += 1
-            logging.info(f"✅ {ticker}: Dividend processing completed")
-        else:
-            failed.append(ticker)
-            logging.error(f"❌ {ticker}: Dividend processing failed")
-    
-    # Summary
-    logging.info(f"📊 Dividend Processing Summary:")
-    logging.info(f"   ✅ Successful: {successful}")
-    logging.info(f"   ❌ Failed: {len(failed)}")
-    
-    if failed:
-        logging.warning(f"   Failed tickers: {', '.join(failed)}")
-    
-    # Files are cleaned up individually after each ticker processing
-    # No bulk cleanup needed since files are deleted immediately after success
-    
-    return len(failed) == 0
-
-
 def process_single_ticker_date(ticker, target_date, week_mode, agent, verbose, task_index, total_tasks):
     """
     Process a single ticker for a specific date VPA analysis
@@ -1373,50 +916,6 @@ def process_single_ticker_date(ticker, target_date, week_mode, agent, verbose, t
         duration = datetime.now() - start_time
         thread_safe_log('error', f"❌ {ticker} {target_date}: {error_msg}")
         return ticker, target_date, False, duration.total_seconds(), error_msg
-
-
-def process_single_ticker(ticker, week_mode, agent, verbose, ticker_index, total_tickers):
-    """
-    Process a single ticker for VPA analysis (legacy function for backward compatibility)
-    Returns (ticker, success, duration, error_msg)
-    """
-    start_time = datetime.now()
-    
-    try:
-        thread_safe_log('info', f"[{ticker_index}/{total_tickers}] 📈 Processing {ticker}...")
-        
-        # Check if ticker needs analysis
-        if not needs_vpa_analysis(ticker, week_mode):
-            thread_safe_log('info', f"✓ {ticker}: Already up to date")
-            duration = datetime.now() - start_time
-            return ticker, True, duration.total_seconds(), None
-        
-        # Get context
-        thread_safe_log('debug', f"Gathering context for {ticker}...")
-        context = get_ticker_context(ticker, None, week_mode)
-        if not context:
-            error_msg = f"Could not gather context for {ticker}"
-            thread_safe_log('error', f"❌ {ticker}: {error_msg}")
-            duration = datetime.now() - start_time
-            return ticker, False, duration.total_seconds(), error_msg
-        
-        # Call AI agent for analysis
-        thread_safe_log('debug', f"Starting {agent.upper()} analysis for {ticker}...")
-        if call_ai_agent_for_vpa_analysis(ticker, context, week_mode, agent, verbose):
-            duration = datetime.now() - start_time
-            thread_safe_log('info', f"✅ {ticker}: Analysis completed in {duration.total_seconds():.1f}s")
-            return ticker, True, duration.total_seconds(), None
-        else:
-            error_msg = f"AI analysis failed for {ticker}"
-            duration = datetime.now() - start_time
-            thread_safe_log('error', f"❌ {ticker}: {error_msg} after {duration.total_seconds():.1f}s")
-            return ticker, False, duration.total_seconds(), error_msg
-            
-    except Exception as e:
-        error_msg = f"Exception processing {ticker}: {e}"
-        duration = datetime.now() - start_time
-        thread_safe_log('error', f"❌ {ticker}: {error_msg}")
-        return ticker, False, duration.total_seconds(), error_msg
 
 
 def process_ticker_dates_sequentially(ticker, dates_needed, week_mode, agent, verbose):
@@ -1468,24 +967,38 @@ def process_ticker_dates_sequentially(ticker, dates_needed, week_mode, agent, ve
 
 def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
     """
-    Process all tickers for VPA analysis with sequential date processing per ticker
+    Process all US & Crypto tickers for VPA analysis with sequential date processing per ticker
     Each ticker processes its dates sequentially, but tickers are processed in parallel
     """
-    logging.info(f"📊 Starting sequential-by-date ticker processing using {agent.upper()} with {workers} workers...")
+    logging.info(f"📊 Starting sequential-by-date US & Crypto ticker processing using {agent.upper()} with {workers} workers...")
     
-    # Read tickers from CSV
+    # Read tickers from both CSV files
     tickers = []
     try:
-        logging.debug("Reading TICKERS.csv...")
-        with open('TICKERS.csv', 'r') as f:
+        logging.debug("Reading TICKERS_US.csv...")
+        with open('TICKERS_US.csv', 'r') as f:
             reader = csv.DictReader(f)
-            tickers = [row['ticker'] for row in reader]
-        logging.info(f"Loaded {len(tickers)} tickers from TICKERS.csv")
+            us_tickers = [row['ticker'] for row in reader]
+        logging.info(f"Loaded {len(us_tickers)} US tickers from TICKERS_US.csv")
+        tickers.extend(us_tickers)
     except Exception as e:
-        logging.error(f"❌ Error reading TICKERS.csv: {e}")
+        logging.warning(f"⚠️  Error reading TICKERS_US.csv: {e}")
+    
+    try:
+        logging.debug("Reading TICKERS_CRYPTO.csv...")
+        with open('TICKERS_CRYPTO.csv', 'r') as f:
+            reader = csv.DictReader(f)
+            crypto_tickers = [row['ticker'] for row in reader]
+        logging.info(f"Loaded {len(crypto_tickers)} crypto tickers from TICKERS_CRYPTO.csv")
+        tickers.extend(crypto_tickers)
+    except Exception as e:
+        logging.warning(f"⚠️  Error reading TICKERS_CRYPTO.csv: {e}")
+    
+    if not tickers:
+        logging.error("❌ No tickers found in US or Crypto CSV files")
         return False
     
-    logging.info(f"📊 Processing {len(tickers)} tickers for {'weekly' if week_mode else 'daily'} VPA analysis using {agent.upper()}")
+    logging.info(f"📊 Processing {len(tickers)} total tickers for {'weekly' if week_mode else 'daily'} VPA analysis using {agent.upper()}")
     
     # Build ticker-dates mapping for tickers that need processing
     logging.info("🔍 Checking which dates need analysis for each ticker...")
@@ -1565,7 +1078,7 @@ def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
             total_successful_dates += len(dates)
     
     # Summary
-    logging.info(f"\n📊 Sequential-by-Date VPA Analysis Summary:")
+    logging.info(f"\n📊 Sequential-by-Date US & Crypto VPA Analysis Summary:")
     logging.info(f"   👥 Workers used: {workers} (for parallel ticker processing)")
     logging.info(f"   🎯 Processing strategy: Sequential dates within ticker, parallel across tickers")
     logging.info(f"   📈 Tickers processed: {len(ticker_dates_map)}")
@@ -1592,7 +1105,7 @@ def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Process VPA analysis using AI agent coordination')
+    parser = argparse.ArgumentParser(description='Process US & Crypto VPA analysis using AI agent coordination')
     parser.add_argument('--week', action='store_true', 
                        help='Process weekly VPA analysis instead of daily')
     parser.add_argument('--debug', action='store_true',
@@ -1609,44 +1122,36 @@ def main():
     # Setup logging first
     log_file = setup_logging(debug=args.debug)
     
-    logging.info("🚀 Starting VPA Processing Coordinator")
+    logging.info("🚀 Starting US & Crypto VPA Processing Coordinator")
     logging.info(f"📅 Mode: {'Weekly' if args.week else 'Daily'}")
     logging.info(f"🤖 AI Agent: {args.agent.upper()}")
     logging.info(f"👥 Parallel Workers: {args.workers}")
-    logging.info(f"📁 Data folders: {'market_data_week, vpa_data_week' if args.week else 'market_data, vpa_data'}")
+    logging.info(f"📁 Data folders: {'market_data_us_crypto_week, vpa_data_us_crypto_week' if args.week else 'market_data_us_crypto, vpa_data_us_crypto'}")
     logging.info(f"📄 Log file: {log_file}")
     
     start_time = datetime.now()
     logging.info(f"⏰ Started at: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
     
     try:
-        # Step 1: Check and process dividends
+        # Step 1: Check and process dividends (unlikely for US indices and crypto)
         logging.info("\n📋 Step 1: Checking dividend adjustments...")
         dividend_info = check_dividends_folder(args.week)
         
         if dividend_info is None:
             # No dividends found, continue to VPA analysis
+            logging.info("✓ No dividends found (expected for US indices and crypto)")
             pass
         elif len(dividend_info) == 0:
             # Error in dividend detection
             logging.error("❌ Error in dividend detection - check dividend files manually")
             return 1
         else:
-            # Process dividends with AI agent
+            # Process dividends with AI agent (unlikely scenario)
             logging.info(f"🔄 Processing {len(dividend_info)} dividend adjustments...")
-            dividend_start = datetime.now()
-            
-            if not process_dividends(dividend_info, args.week, args.agent, args.verbose):
-                logging.error("❌ Some dividend adjustments failed")
-                logging.warning("⚠️  Continuing with VPA analysis using existing data")
-            else:
-                logging.info("✅ All dividend adjustments completed successfully")
-            
-            dividend_duration = datetime.now() - dividend_start
-            logging.info(f"⏱️  Dividend processing took: {dividend_duration}")
+            logging.warning("⚠️  Dividends found for US indices/crypto - unusual, please verify")
         
         # Step 2: Process tickers
-        logging.info("\n📋 Step 2: Processing ticker VPA analysis...")
+        logging.info("\n📋 Step 2: Processing US & Crypto ticker VPA analysis...")
         process_start = datetime.now()
         success = process_tickers(args.week, args.agent, args.verbose, args.workers)
         process_duration = datetime.now() - process_start
@@ -1660,11 +1165,14 @@ def main():
         # Step 3: Merge results (call existing utility)
         logging.info("\n📋 Step 3: Merging VPA analysis...")
         try:
-            merge_cmd = ['uv', 'run', 'merge_vpa.py']
+            merge_cmd = ['uv', 'run', 'merge_vpa_us_crypto.py']
             if args.week:
                 merge_cmd.append('--week')
             
             logging.debug(f"Running merge command: {' '.join(merge_cmd)}")
+            logging.info("Note: If merge_vpa_us_crypto.py doesn't exist, you may need to create it or merge manually")
+            
+            # Try to run merge command, but don't fail if it doesn't exist
             result = subprocess.run(merge_cmd, capture_output=True, text=True, timeout=120)
             
             if result.returncode == 0:
@@ -1680,15 +1188,18 @@ def main():
         except subprocess.TimeoutExpired:
             logging.error("❌ Merge process timed out after 120 seconds")
             logging.error("Please merge individual VPA files manually")
+        except FileNotFoundError:
+            logging.warning("⚠️  merge_vpa_us_crypto.py not found")
+            logging.warning("Please create this utility or merge individual VPA files manually")
         except Exception as e:
-            logging.error(f"⚠️  Could not run merge_vpa.py: {e}")
+            logging.error(f"⚠️  Could not run merge_vpa_us_crypto.py: {e}")
             logging.error("Please merge individual VPA files manually")
         
         # Final summary
         total_duration = datetime.now() - start_time
-        logging.info(f"\n🎉 VPA Processing Complete!")
+        logging.info(f"\n🎉 US & Crypto VPA Processing Complete!")
         logging.info(f"⏱️  Total time: {total_duration}")
-        logging.info(f"📁 Check {'VPA_week.md' if args.week else 'VPA.md'} for final results")
+        logging.info(f"📁 Check {'VPA_us_crypto_week.md' if args.week else 'VPA_us_crypto.md'} for final results")
         logging.info(f"📄 Full log saved to: {log_file}")
         
         return 0
