@@ -17,3 +17,5 @@
 **Ngày 2025-07-27:** NT2 kết thúc tuần với một nến giảm nhẹ, đóng cửa tại 20.5 (giảm từ 21.0 đầu tuần). Mặc dù có gap up mạnh lên 21.0 nhưng không thể duy trì được mức cao, tạo đỉnh tuần tại 21.05 rồi điều chỉnh về 20.5. Khối lượng giao dịch vẫn duy trì ở mức cao 11.8 triệu, tương đương tuần trước, cho thấy sự quan tâm của thị trường vẫn cao.
 
 **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** sau chuỗi Sign of Strength liên tiếp. Việc giá gap up nhưng không thể duy trì với khối lượng cao cho thấy có áp lực chốt lời xuất hiện ở vùng 21.0. Tuy nhiên, việc giá chỉ điều chỉnh nhẹ và duy trì trên mức 20.0 với khối lượng cao là tích cực, cho thấy lực cầu vẫn mạnh và đây có thể là một Test thành công trước khi tiếp tục xu hướng tăng.
+**Ngày 2025-08-03:**
+NT2 có tuần giảm nhẹ với nến có bóng dưới dài, mở cửa tại 20.85 và đóng cửa giữ nguyên tại 20.5. Giá dao động trong biên độ rộng từ 19.65 đến 20.9, tạo ra mức thấp nhất tại 19.65 nhưng phục hồi mạnh để đóng cửa ở mức trung bình. Khối lượng giao dịch giảm 21% xuống 9.3 triệu so với 11.8 triệu tuần trước, nhưng vẫn ở mức tương đối cao so với các tuần trước đó.

@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** PHR có một tuần dao động mạnh với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 (cao hơn đỉnh tuần trước 63.0) nhưng không thể duy trì và đóng cửa thấp hơn mức mở cửa. Khối lượng giao dịch tăng 26% lên 3.486 triệu cổ phiếu so với tuần trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với đặc điểm tiêu cực. Việc giá đạt được đỉnh mới tại 65.8 nhưng đóng cửa thấp hơn mức mở cửa với khối lượng tăng mạnh cho thấy có áp lực bán mạnh ở vùng cao và lực cầu không đủ mạnh để duy trì mức giá. Điều này báo hiệu khả năng có sự phân phối tại vùng đỉnh và xu hướng tăng có thể gặp khó khăn trong ngắn hạn.
+**Ngày 2025-08-03:** PHR có một tuần tích cực với nến tăng có biên độ vừa phải, mở cửa tại 62.4 và đóng cửa tại 62.6. Giá đạt đỉnh tuần tại 64.8 (thấp hơn đỉnh tuần trước 65.8) và dao động trong khoảng 60.9-64.8. Khối lượng giao dịch tăng nhẹ 2% lên 3.551 triệu cổ phiếu so với tuần trước.

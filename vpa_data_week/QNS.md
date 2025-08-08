@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** QNS tiếp tục xu hướng tăng mạnh mẽ với nến tăng có biên độ vừa phải, đóng cửa tại 49.3 cao hơn 1.23% so với tuần trước. Cổ phiếu tạo đỉnh mới tại 49.4, xác nhận đà tăng bền vững. Khối lượng giao dịch giảm mạnh 27.96% xuống 831.6 ngàn cổ phiếu, thấp nhất trong 4 tuần qua. Giá đang trong xu hướng tăng rõ ràng từ vùng 46.7 (đầu tháng 6) lên 49.3, tăng 5.57% trong 8 tuần. Việc giá liên tục tạo đỉnh mới trên nền khối lượng giảm dần cho thấy sự hấp thụ tốt và áp lực bán rất yếu.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** mạnh mẽ. Việc giá tiếp tục tăng và tạo đỉnh mới trên nền khối lượng thấp chứng tỏ áp lực bán rất yếu, xác nhận sự kiểm soát của phe mua và khả năng cao sẽ tiếp tục tăng giá trong các tuần tới.
+**Ngày 2025-08-03:**

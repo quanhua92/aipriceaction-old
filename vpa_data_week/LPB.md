@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** LPB tiếp tục xu hướng tăng với nến tăng thân dài, đóng cửa (35.25) tăng từ 34.6 tuần trước. Giá dao động từ 34.7 đến 36.0 với biên độ tốt, giá mở cửa gần mức cao nhất cho thấy sức mạnh ngay từ đầu phiên. Khối lượng giao dịch giảm nhẹ xuống 16.7 triệu so với 18.7 triệu tuần trước nhưng vẫn duy trì ở mức cao.
 
 **Phân tích VPA/Wyckoff:** Đây là một **No Supply** tiếp tục. Việc giá tăng liên tục trong 3 tuần qua (từ 33.0 lên 35.25) trên nền khối lượng giảm dần cho thấy áp lực bán rất yếu và lực cầu vẫn đang kiểm soát. Mặc dù khối lượng giảm nhưng động lực tăng giá vẫn mạnh mẽ, xác nhận xu hướng tăng sẽ tiếp tục trong ngắn hạn.
+**Ngày 2025-08-03:**

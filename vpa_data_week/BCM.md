@@ -21,3 +21,4 @@
 **Ngày 2025-07-27:** BCM tiếp tục xu hướng tăng với nến tăng có biên độ rộng từ 66.2 đến 70.9, đóng cửa (69.8) gần mức cao nhất tuần và tạo đỉnh mới. Khối lượng giao dịch tăng mạnh lên 3.08 triệu cp so với tuần trước (2.34 triệu cp), xác nhận sự quan tâm gia tăng từ nhà đầu tư khi giá bứt phá.
 
 **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ, với giá tạo đỉnh mới kết hợp khối lượng gia tăng đáng kể. Việc đóng cửa gần mức cao nhất tuần cho thấy lực cầu vẫn chiếm ưu thế và không có áp lực bán đáng kể ở vùng giá cao. Xu hướng tăng được củng cố mạnh mẽ.
+**Ngày 2025-08-03:** BCM có một tuần dao động mạnh với biên độ rộng từ 66.7 đến 73.0, mở cửa tại 69.9 và đóng cửa cũng tại 69.9, tạo thành một nến doji có bóng dài cả hai phía. Đáng chú ý, khối lượng giao dịch bùng nổ lên 5.09 triệu cp, tăng 65% so với tuần trước (3.08 triệu cp), đạt mức cao nhất trong 2 tháng qua.

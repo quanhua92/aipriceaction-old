@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** HVN tiếp tục xu hướng tăng mạnh với nến tăng có thân dài, đóng cửa 33.55 (+13.55% so với tuần trước). Giá mở cửa gap lên 31.6, đạt đỉnh 34.95 rồi đóng cửa gần mức cao nhất. Khối lượng giao dịch duy trì ổn định ở 10.17 triệu, tương đương tuần trước.
 
 **Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** tiếp tục sau breakout tuần trước. Việc giá duy trì momentum tăng mạnh với gap opening và test thành công vùng kháng cự 34.95 trên khối lượng ổn định cho thấy lực cầu vẫn đang kiểm soát thị trường. Xu hướng markup đang được duy trì tốt, HVN có thể tiếp tục test các vùng giá cao hơn trong các tuần tới.
+**Ngày 2025-08-03:** Sau tuần bùng nổ trước đó, HVN có tuần điều chỉnh với nến giảm biên độ hẹp, đóng cửa 32.5 (-3.13% so với 33.55 tuần trước). Giá mở cửa 34.1 gần đỉnh tuần trước nhưng bị đẩy xuống thấp nhất 32.0 trước khi phục hồi nhẹ. Khối lượng giao dịch giảm nhẹ xuống 9.37 triệu so với 10.17 triệu tuần trước.

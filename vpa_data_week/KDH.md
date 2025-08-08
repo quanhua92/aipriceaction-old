@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** KDH tiếp tục có một tuần điều chỉnh nhẹ với nến giảm biên độ hẹp, đóng cửa (28.7) giữ nguyên so với tuần trước. Giá dao động từ 28.05 đến 29.2 với biên độ thu hẹp. Khối lượng giao dịch giữ ổn định ở mức 22.3 triệu, tương đương tuần trước.
 
 **Phân tích VPA/Wyckoff:** Đây là một **Test for Supply** thành công tiếp theo. Việc giá giữ vững mức 28.7 trên nền khối lượng ổn định cho thấy không có áp lực bán lớn trong vùng giá này. Sự thu hẹp biên độ dao động (từ 29.7-27.09 tuần trước xuống 29.2-28.05 tuần này) kèm theo khối lượng không tăng cho thấy thị trường đang trong giai đoạn **No Supply**, tạo nền tảng vững chắc cho đợt tăng tiếp theo.
+**Ngày 2025-08-03:** Sau giai đoạn No Supply của tuần trước, KDH có một tuần giảm giá với nến giảm biên độ rộng, đóng cửa (27.7) giảm từ 28.7 tuần trước. Giá dao động từ 26.8 đến 29.8 với biên độ mở rộng đáng kể. Khối lượng giao dịch tăng lên 28.4 triệu so với 22.3 triệu tuần trước, tăng 27.5%.

@@ -19,3 +19,5 @@
 **Ngày 2025-07-27:** Sau tuần test for supply trước đó, HUT có một tuần giao dịch tiếp tục trong vùng giằng co. Mở cửa 14.6, đạt cao 14.8, thấp 13.9 và đóng cửa 14.5 (-0.1%). Biên độ dao động thu hẹp so với tuần trước và khối lượng giao dịch giảm nhẹ xuống 12.0 triệu từ 14.9 triệu tuần đỉnh. Giá vẫn duy trì được vùng 14.5-14.8, cho thấy sự hỗ trợ tại các mức giá cao.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Supply** tiếp tục sau test for supply tuần trước. Việc giá dao động trong biên độ hẹp với khối lượng giảm nhẹ cho thấy không có áp lực bán mạnh tại vùng giá cao hiện tại. Sự thiếu vắng supply này là dấu hiệu tích cực, củng cố cho xu hướng tăng và tạo nền tảng cho đợt bứt phá tiếp theo.
+**Ngày 2025-08-03:**
+HUT có một tuần bùng nổ mạnh mẽ, phá vỡ hoàn toàn khung consolidation trước đó. Mở cửa 14.5, đạt đỉnh 19.2 và đóng cửa 18.2 (+25.5%). Đây là nến tăng thân dài với biên độ dao động cực rộng từ 14.4 đến 19.2. Khối lượng giao dịch bùng nổ lên 39.4 triệu, tăng gấp 3.3 lần so với 12.0 triệu tuần trước. Đây là khối lượng cao nhất trong 31 tuần qua, cho thấy sự tham gia mạnh mẽ của dòng tiền lớn.

@@ -19,3 +19,7 @@
 **Ngày 2025-07-27:** Sau tuần No Supply trước đó, VIC tiếp tục điều chỉnh nhẹ từ 119.0 xuống 114.1 (-4.1%). Nến giảm có biên độ từ 109.7 đến 122.5, mở cửa cao (120.5) nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm xuống 20.464.000 (-17.3% so với tuần trước), tiếp tục duy trì xu hướng giảm khối lượng trong giai đoạn điều chỉnh.
 
 **Phân tích VPA/Wyckoff:** Đây tiếp tục là một **No Supply** trong giai đoạn điều chỉnh kỹ thuật sau đợt tăng mạnh. Việc giá điều chỉnh thêm 4.1% trên nền khối lượng tiếp tục giảm cho thấy áp lực bán không lớn và thị trường đang hấp thụ tốt nguồn cung ở vùng giá cao. Mặc dù có test xuống vùng 109.7, việc đóng cửa ở 114.1 cho thấy sự hỗ trợ tại vùng này. Xu hướng tăng dài hạn vẫn được duy trì và đây có thể là cơ hội tích lũy tốt trước khi tiếp tục xu hướng tăng.
+
+**Ngày 2025-08-03:** VIC gặp áp lực bán mạnh, giảm sâu từ 114.1 xuống 104.0 (-8.8%). Nến giảm có biên độ rộng từ 104.0 đến 118.0, mở cửa tại 115.0 nhưng đóng cửa ở mức thấp nhất tuần. Khối lượng giao dịch tăng lên 21.8 triệu cổ phiếu (+6.5% so với tuần trước), thể hiện sự gia tăng áp lực bán.
+
+**Phân tích VPA/Wyckoff:** Đây là một **Effort to Fall** rõ ràng sau giai đoạn No Supply. Việc giá giảm mạnh 8.8% kết hợp với khối lượng tăng cho thấy áp lực bán đã xuất hiện mạnh mẽ, phá vỡ vùng hỗ trợ 109.7 được thiết lập trong các tuần trước. Đóng cửa ở mức thấp nhất tuần (104.0) cho thấy lực cầu yếu và xu hướng điều chỉnh có thể kéo dài thêm. Đây là tín hiệu cảnh báo về sự thay đổi trong cấu trúc thị trường sau đợt tăng mạnh trước đó.

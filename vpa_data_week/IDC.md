@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** IDC có một tuần tăng giá nhẹ với nến tăng biên độ hẹp, đóng cửa 46.6 (không đổi so với tuần trước). Giá dao động từ 44.8 đến 47.4, test lại vùng kháng cự 47.4 lần thứ hai. Khối lượng giao dịch tăng lên 10.6 triệu từ 8.3 triệu tuần trước (+28%).
 
 **Phân tích VPA/Wyckoff:** Đây là **Test for Supply** tại vùng kháng cự 47.4. Việc giá test lại resistance với khối lượng tăng nhưng vẫn bị đẩy lùi cho thấy áp lực bán vẫn còn tồn tại tại mức này. Tuy nhiên, việc giá giữ vững trên 46.0 và không có selling climax cho thấy áp lực bán không quá mạnh. Cần quan sát thêm để xác định khả năng breakout hoặc điều chỉnh sâu hơn.
+**Ngày 2025-08-03:** IDC có một tuần giảm giá mạnh với nến giảm biên độ rộng, đóng cửa 44.6 giảm 4.3% từ 46.6 tuần trước. Giá mở cửa 45.0, test lên 48.4 (vượt qua resistance 47.4 lần đầu tiên) nhưng sau đó sụt giảm mạnh xuống 44.0 trước khi phục hồi nhẹ. Khối lượng giao dịch bùng nổ lên 19.3 triệu từ 10.6 triệu tuần trước (+81%).

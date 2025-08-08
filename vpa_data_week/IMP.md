@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** IMP có tuần giao dịch tăng nhẹ với nến xanh biên độ hẹp, đóng cửa 51.9 (không đổi) so với tuần trước. Giá dao động từ 51.7 đến 53.2, tương tự tuần trước. Khối lượng giao dịch tăng từ 837.3 nghìn lên 844.6 nghìn (+0.9%). Cổ phiếu đang duy trì trong vùng sideways 51.5-53.2 kể từ đầu tháng 7.
 
 **Phân tích VPA/Wyckoff:** Đây là **No Demand**. Mặc dù khối lượng tăng nhẹ nhưng giá đóng cửa không đổi và dao động trong biên độ hẹp cho thấy thị trường thiếu sự quan tâm ở vùng giá hiện tại. Tín hiệu này cho thấy đà tăng đang yếu dần và có thể chuẩn bị cho một đợt điều chỉnh.
+**Ngày 2025-08-03:** IMP có một tuần đột phá mạnh mẽ với nến tăng biên độ rộng, đóng cửa 52.7 (+1.5%) từ 51.9 tuần trước. Giá mở cửa 52.1, test xuống thấp nhất 50.3 rồi bật lên cao nhất 53.5 trước khi đóng cửa gần vùng cao. Khối lượng giao dịch bùng nổ lên 1.05 triệu (+24.3%) so với 844.6 nghìn tuần trước, là mức khối lượng cao nhất kể từ đầu tháng 6.

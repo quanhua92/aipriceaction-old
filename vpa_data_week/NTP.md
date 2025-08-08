@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** NTP tiếp tục xu hướng tăng với nến tăng nhẹ, đóng cửa (69.0) gần như không đổi so với tuần trước (68.9). Giá dao động từ 67.1 đến 71.8, tạo đỉnh tuần mới cao hơn đỉnh trước đó là 69.3. Khối lượng giao dịch tăng mạnh lên 2.94 triệu so với 1.84 triệu tuần trước (+60%).
 
 **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Việc giá tạo đỉnh mới (71.8) trên nền khối lượng tăng vọt cho thấy institutional money đang tích cực tham gia. Mặc dù giá đóng cửa gần bằng tuần trước, việc test thành công vùng 71.8 với khối lượng cao là tín hiệu tích cực. Xu hướng tăng từ vùng 60-65 vẫn được duy trì mạnh mẽ với chuỗi Sign of Strength liên tiếp.
+**Ngày 2025-08-03:** NTP đảo chiều giảm mạnh từ 69.0 xuống 65.4 với nến giảm biên độ rộng. Giá mở cửa ở mức đóng cửa tuần trước (69.0) nhưng không thể duy trì và test xuống mức thấp 63.6 trước khi phục hồi nhẹ. Khối lượng giao dịch giảm về 2.52 triệu so với 2.94 triệu tuần trước (-15%).

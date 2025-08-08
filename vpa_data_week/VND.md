@@ -19,3 +19,4 @@
 **Ngày 2025-07-27:** VND tiếp tục chuỗi tăng giá ấn tượng với nến tăng thân dài, từ 18.65 lên 21.15 (+13.4%). Tạo ra đỉnh tuần mới và đóng cửa ở mức cao nhất. Khối lượng giao dịch tăng thêm lên 223.7 triệu cổ phiếu, tăng 29.7% so với tuần trước.
 
 **Phân tích VPA/Wyckoff:** Một **Sign of Strength** cực kỳ mạnh mẽ, tiếp nối chuỗi 4 tuần liên tiếp tăng giá. Việc giá tăng hơn 13% kết hợp với khối lượng tăng vọt cho thấy lực cầu đang trong giai đoạn bùng nổ và xu hướng tăng có động lực rất mạnh để tiếp tục.
+**Ngày 2025-08-03:** VND có tuần giao dịch hỗn hợp với nến có thân nhỏ, mở cửa tại 21.9, test lên đỉnh mới 24.0 nhưng bị đẩy xuống và đóng cửa tại 22.2. Mặc dù vẫn tăng 5.0% so với tuần trước, việc không thể duy trì ở vùng cao cho thấy áp lực bán đã xuất hiện. Khối lượng giao dịch bùng nổ lên 304.9 triệu cổ phiếu, tăng 36.3% so với tuần trước, đạt mức cao nhất trong 5 tuần qua.

@@ -22,3 +22,5 @@
 **Ngày 2025-07-27:** PVT tiếp tục xu hướng tăng tích cực với nến tăng có biên độ vừa phải, đóng cửa (18.7) cao hơn 2.19% so với tuần trước. Cây nến tạo đỉnh mới tại 18.85 và có bóng dưới nhỏ, cho thấy áp lực mua mạnh trong phiên. Khối lượng giao dịch tăng đáng kể 42.09% lên 19.93 triệu cổ phiếu, xác nhận sự quan tâm từ các nhà đầu tư tổ chức.
 
 **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng. Sau giai đoạn No Supply yếu của các tuần trước, PVT đã phá vỡ vùng kháng cự 18.3-18.5 với khối lượng lớn, báo hiệu sự quay trở lại mạnh mẽ của dòng tiền tổ chức và khả năng tiếp tục tăng giá trong các tuần tới.
+**Ngày 2025-08-03:**
+PVT giảm nhẹ với nến giảm có biên độ vừa phải, đóng cửa (18.3) thấp hơn 2.14% so với tuần trước. Cây nến có điểm cao nhất tại 19.15 tạo đỉnh mới nhưng không thể duy trì, với bóng trên dài cho thấy áp lực bán ở vùng cao. Mức thấp nhất 17.9 tương đương với tuần trước, tạo vùng hỗ trợ rõ ràng. Khối lượng giao dịch tăng mạnh 33.45% lên 26.60 triệu cổ phiếu, cao nhất trong 10 tuần qua.

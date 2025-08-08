@@ -19,3 +19,5 @@
 **Ngày 2025-07-27:** SAB có một tuần tăng giá tích cực với nến tăng có biên độ rộng, đóng cửa tại 49.1 tăng 1.87% so với tuần trước. Cổ phiếu tạo đỉnh mới tại 50.0 và có bóng dưới ngắn cho thấy lực cầu mạnh. Khối lượng giao dịch tăng nhẹ 6.27% lên 8.68 triệu cổ phiếu, duy trì ở mức cao sau đợt tăng mạnh trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**. Việc giá tiếp tục tăng và tạo đỉnh mới tại 50.0 trên nền khối lượng duy trì ở mức cao cho thấy lực cầu vẫn đang kiểm soát thị trường. Xu hướng tăng được củng cố mạnh mẽ sau chuỗi các tín hiệu tích cực từ những tuần trước.
+**Ngày 2025-08-03:**
+SAB có một tuần điều chỉnh mạnh với nến giảm có biên độ rộng, đóng cửa tại 47.95 giảm 2.34% so với tuần trước. Mặc dù mở cửa cao hơn tại 49.35 và test lên 49.5, cổ phiếu bị bán mạnh xuống thấp nhất 47.35 trước khi phục hồi nhẹ. Khối lượng giao dịch tăng mạnh 18.29% lên 10.27 triệu cổ phiếu, cao nhất trong 8 tuần qua.

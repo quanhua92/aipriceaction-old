@@ -21,3 +21,4 @@
 **Ngày 2025-07-27:** Sau tuần test for supply trước đó, CST tiếp tục điều chỉnh nhẹ với nến giảm biên độ hẹp từ 15.9 xuống 15.7. Khối lượng giao dịch tăng mạnh lên 474.300 cổ phiếu, cao nhất trong giai đoạn gần đây và tương đương với tuần bùng nổ trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** rất tích cực. Việc giá chỉ giảm nhẹ 0.2 điểm trên nền khối lượng tăng vọt cho thấy lực bán đã được hấp thụ hoàn toàn bởi lực cầu mạnh. Đây là bằng chứng rõ ràng về sự thiếu nguồn cung và khả năng cao sẽ có đợt tăng giá tiếp theo sau giai đoạn test thành công này.
+**Ngày 2025-08-03:** Sau giai đoạn No Supply tích cực của tuần trước, CST tiếp tục điều chỉnh nhẹ với nến giảm từ 15.8 xuống 15.4. Biên độ dao động thu hẹp với high chỉ bằng open (15.8) và low xuống 15.3. Khối lượng giao dịch giảm xuống 420.700 cổ phiếu, thấp hơn tuần trước nhưng vẫn duy trì ở mức cao so với giai đoạn tích lũy trước đó.

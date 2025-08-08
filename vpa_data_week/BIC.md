@@ -21,3 +21,5 @@
 **Ngày 2025-07-27:** Sau tuần bùng nổ trước đó, BIC tiếp tục duy trì đà tăng mạnh với nến tăng thân dài, đóng cửa (41.2) tại mức cao nhất tuần và thiết lập đỉnh mới. Giá dao động từ 38.5 đến 41.5 với biên độ rộng 3.0 điểm. Khối lượng giao dịch giảm nhẹ xuống 322.9k cổ phiếu so với tuần trước (415.3k) nhưng vẫn duy trì ở mức trung bình cao, cho thấy sự quan tâm tiếp tục của nhà đầu tư.
 
 **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **No Supply** rất mạnh. Việc giá có thể tăng đáng kể và thiết lập đỉnh mới trên nền khối lượng giảm cho thấy áp lực bán đã hoàn toàn suy yếu. Kết hợp với xu thế tăng liên tiếp 2 tuần và việc phủ nhận hoàn toàn tín hiệu yếu trước đó, BIC đang thể hiện sức mạnh rõ rệt trong xu hướng tăng trung hạn.
+**Ngày 2025-08-03:**
+Sau tín hiệu No Supply mạnh của tuần trước, BIC đã có một tuần giao dịch đầy biến động với nến giảm có thân ngắn và bóng dưới dài. Giá mở cửa tại 41.35 (cao hơn mức đóng cửa tuần trước), test lên đỉnh mới 43.0 trước khi bị đẩy xuống vùng 39.55 và phục hồi đóng cửa tại 40.5. Khối lượng giao dịch bùng nổ lên 982.8k cổ phiếu, tăng gấp 3 lần so với tuần trước (322.9k), là mức cao nhất trong nhiều tháng qua.

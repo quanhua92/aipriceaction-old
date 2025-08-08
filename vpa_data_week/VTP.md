@@ -18,3 +18,4 @@
 **Ngày 2025-07-27:** VTP có một tuần giao dịch đi ngang với nến giảm thân ngắn, từ 121.6 xuống 121.5 chỉ giảm nhẹ (-0.08%). Dao động trong phạm vi hẹp với đỉnh tuần tại 123.6. Khối lượng giao dịch giảm mạnh xuống 3.6 triệu cổ phiếu, giảm 35.7% so với tuần trước.
 
 **Phân tích VPA/Wyckoff:** Sau phiên Test for Supply của tuần trước, đây tiếp tục là một **Test for Supply** thành công. Việc giá đi ngang trên nền khối lượng giảm mạnh cho thấy áp lực bán rất yếu và cổ phiếu đang được hấp thụ tốt. Đây là tín hiệu tích cực cho xu hướng tăng tiếp theo.
+**Ngày 2025-08-03:** VTP có một tuần giao dịch sụt giảm mạnh với nến giảm thân dài, từ 121.8 xuống 109.0 giảm 10.5%. Mở cửa tại 121.8 gần mức đóng cửa tuần trước, nhưng test lên mức cao 123.0 rồi sụt giảm thảm hại xuống mức thấp 107.3. Khối lượng giao dịch bùng nổ lên 6.4 triệu cổ phiếu, tăng 76.9% so với tuần trước.

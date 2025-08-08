@@ -5,3 +5,5 @@
 **Ngày 2025-07-27:** HDC tiếp tục xu hướng tăng mạnh với nến xanh có biên độ rộng, giá mở cửa 30.1 và đóng cửa 33.0 (+10% so với tuần trước). Giá dao động từ 29.6 đến 33.45, tạo đỉnh mới liên tiếp. Khối lượng giao dịch giảm nhẹ 18.9% xuống 43.6 triệu từ 53.7 triệu tuần trước, nhưng vẫn duy trì ở mức cao so với các tuần trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là **Sign of Strength** tiếp tục. Mặc dù khối lượng giảm so với tuần trước nhưng vẫn ở mức cao (43.6 triệu), cho thấy lực cầu institutional vẫn mạnh mẽ. Việc giá tiếp tục tăng với biên độ rộng và tạo đỉnh mới chứng tỏ momentum tăng vẫn được duy trì. Xu hướng tăng mạnh từ vùng 22-25 đã phá vỡ hoàn toàn, HDC đang trong giai đoạn markup rõ ràng.
+**Ngày 2025-08-03:**
+HDC tiếp tục chuỗi tăng giá ấn tượng với nến xanh có biên độ rộng, giá mở cửa 33.5 và đóng cửa 35.75 (+8.3% so với tuần trước). Giá dao động từ 31.6 đến 36.45, liên tiếp tạo đỉnh mới và phá vỡ mức kháng cự 36.0. Khối lượng giao dịch tăng mạnh 20.8% lên 52.6 triệu từ 43.6 triệu tuần trước, cho thấy sự tham gia tích cực của dòng tiền lớn.
