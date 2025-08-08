@@ -1,0 +1,2720 @@
+{
+  "BAN_LE": {
+    "top_3_leaders": [
+      {
+        "ticker": "MWG",
+        "leadership_score": 85.36,
+        "vpa_score": 100,
+        "performance": 25.07,
+        "performance_score": 63.39
+      },
+      {
+        "ticker": "DGW",
+        "leadership_score": 83.72,
+        "vpa_score": 100,
+        "performance": 18.62,
+        "performance_score": 59.31
+      },
+      {
+        "ticker": "FRT",
+        "leadership_score": 81.18,
+        "vpa_score": 100,
+        "performance": 5.91,
+        "performance_score": 52.96
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 6,
+      "positive_performers": 3,
+      "breadth_percentage": 50.0,
+      "avg_performance": 6.72,
+      "top_3_avg_leadership_score": 83.42,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "MWG": {
+        "leadership_score": 85.36,
+        "vpa_score": 100,
+        "performance": 25.07,
+        "performance_score": 63.39
+      },
+      "PNJ": {
+        "leadership_score": 77.02,
+        "vpa_score": 100,
+        "performance": -9.3,
+        "performance_score": 42.56
+      },
+      "FRT": {
+        "leadership_score": 81.18,
+        "vpa_score": 100,
+        "performance": 5.91,
+        "performance_score": 52.96
+      },
+      "DGW": {
+        "leadership_score": 83.72,
+        "vpa_score": 100,
+        "performance": 18.62,
+        "performance_score": 59.31
+      },
+      "PET": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HAX": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "BAO_HIEM": {
+    "top_3_leaders": [
+      {
+        "ticker": "BIC",
+        "leadership_score": 85.63,
+        "vpa_score": 100,
+        "performance": 26.09,
+        "performance_score": 64.08
+      },
+      {
+        "ticker": "PVI",
+        "leadership_score": 78.38,
+        "vpa_score": 100,
+        "performance": -5.07,
+        "performance_score": 45.95
+      },
+      {
+        "ticker": "BVH",
+        "leadership_score": 76.35,
+        "vpa_score": 100,
+        "performance": -11.41,
+        "performance_score": 40.87
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 5,
+      "positive_performers": 1,
+      "breadth_percentage": 20.0,
+      "avg_performance": 1.92,
+      "top_3_avg_leadership_score": 80.12,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "BVH": {
+        "leadership_score": 76.35,
+        "vpa_score": 100,
+        "performance": -11.41,
+        "performance_score": 40.87
+      },
+      "PVI": {
+        "leadership_score": 78.38,
+        "vpa_score": 100,
+        "performance": -5.07,
+        "performance_score": 45.95
+      },
+      "BIC": {
+        "leadership_score": 85.63,
+        "vpa_score": 100,
+        "performance": 26.09,
+        "performance_score": 64.08
+      },
+      "MIG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BMI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "BAT_DONG_SAN": {
+    "top_3_leaders": [
+      {
+        "ticker": "VHM",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 144.33,
+        "performance_score": 100
+      },
+      {
+        "ticker": "VIC",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 191.77,
+        "performance_score": 100
+      },
+      {
+        "ticker": "NVL",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 101.41,
+        "performance_score": 100
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 26,
+      "positive_performers": 10,
+      "breadth_percentage": 38.5,
+      "avg_performance": 27.85,
+      "top_3_avg_leadership_score": 100.0,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VHM": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 144.33,
+        "performance_score": 100
+      },
+      "VIC": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 191.77,
+        "performance_score": 100
+      },
+      "VRE": {
+        "leadership_score": 97.18,
+        "vpa_score": 100,
+        "performance": 82.37,
+        "performance_score": 92.95
+      },
+      "KDH": {
+        "leadership_score": 80.6,
+        "vpa_score": 100,
+        "performance": 3.02,
+        "performance_score": 51.51
+      },
+      "SSH": {
+        "leadership_score": 70.07,
+        "vpa_score": 70,
+        "performance": 35.17,
+        "performance_score": 70.17
+      },
+      "NVL": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 101.41,
+        "performance_score": 100
+      },
+      "NLG": {
+        "leadership_score": 88.17,
+        "vpa_score": 100,
+        "performance": 35.55,
+        "performance_score": 70.42
+      },
+      "PDR": {
+        "leadership_score": 84.13,
+        "vpa_score": 100,
+        "performance": 20.48,
+        "performance_score": 60.32
+      },
+      "DIG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TCH": {
+        "leadership_score": 93.68,
+        "vpa_score": 100,
+        "performance": 60.52,
+        "performance_score": 84.21
+      },
+      "DXG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CEO": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HDC": {
+        "leadership_score": 91.9,
+        "vpa_score": 100,
+        "performance": 49.48,
+        "performance_score": 79.75
+      },
+      "SGR": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "KHG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SCR": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "AGG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HQC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NTL": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TDC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ITC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NHA": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HTN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NDN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HLD": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "LDG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "BAT_DONG_SAN_KCN": {
+    "top_3_leaders": [
+      {
+        "ticker": "VGC",
+        "leadership_score": 81.93,
+        "vpa_score": 100,
+        "performance": 9.64,
+        "performance_score": 54.82
+      },
+      {
+        "ticker": "BCM",
+        "leadership_score": 78.32,
+        "vpa_score": 100,
+        "performance": -5.23,
+        "performance_score": 45.81
+      },
+      {
+        "ticker": "SIP",
+        "leadership_score": 75.13,
+        "vpa_score": 100,
+        "performance": -15.2,
+        "performance_score": 37.84
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 12,
+      "positive_performers": 2,
+      "breadth_percentage": 16.7,
+      "avg_performance": -1.32,
+      "top_3_avg_leadership_score": 78.46,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOW/Distribution"
+    },
+    "all_tickers": {
+      "BCM": {
+        "leadership_score": 78.32,
+        "vpa_score": 100,
+        "performance": -5.23,
+        "performance_score": 45.81
+      },
+      "KBC": {
+        "leadership_score": 73.32,
+        "vpa_score": 85,
+        "performance": 11.58,
+        "performance_score": 55.79
+      },
+      "IDC": {
+        "leadership_score": 74.68,
+        "vpa_score": 100,
+        "performance": -16.62,
+        "performance_score": 36.7
+      },
+      "VGC": {
+        "leadership_score": 81.93,
+        "vpa_score": 100,
+        "performance": 9.64,
+        "performance_score": 54.82
+      },
+      "SIP": {
+        "leadership_score": 75.13,
+        "vpa_score": 100,
+        "performance": -15.2,
+        "performance_score": 37.84
+      },
+      "NTC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SZC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "LHG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TIP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "D2D": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DTD": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "IDV": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "CAO_SU": {
+    "top_3_leaders": [
+      {
+        "ticker": "PHR",
+        "leadership_score": 78.43,
+        "vpa_score": 100,
+        "performance": -4.89,
+        "performance_score": 46.09
+      },
+      {
+        "ticker": "GVR",
+        "leadership_score": 78.18,
+        "vpa_score": 100,
+        "performance": -5.7,
+        "performance_score": 45.44
+      },
+      {
+        "ticker": "DPR",
+        "leadership_score": 75.93,
+        "vpa_score": 100,
+        "performance": -12.71,
+        "performance_score": 39.83
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 7,
+      "positive_performers": 0,
+      "breadth_percentage": 0.0,
+      "avg_performance": -6.15,
+      "top_3_avg_leadership_score": 77.51,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "GVR": {
+        "leadership_score": 78.18,
+        "vpa_score": 100,
+        "performance": -5.7,
+        "performance_score": 45.44
+      },
+      "PHR": {
+        "leadership_score": 78.43,
+        "vpa_score": 100,
+        "performance": -4.89,
+        "performance_score": 46.09
+      },
+      "DRC": {
+        "leadership_score": 73.68,
+        "vpa_score": 100,
+        "performance": -19.75,
+        "performance_score": 34.2
+      },
+      "DPR": {
+        "leadership_score": 75.93,
+        "vpa_score": 100,
+        "performance": -12.71,
+        "performance_score": 39.83
+      },
+      "DRG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DRI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VRG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "CHUNG_KHOAN": {
+    "top_3_leaders": [
+      {
+        "ticker": "VND",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 112.0,
+        "performance_score": 100
+      },
+      {
+        "ticker": "SHS",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 114.48,
+        "performance_score": 100
+      },
+      {
+        "ticker": "VIX",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 204.16,
+        "performance_score": 100
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 23,
+      "positive_performers": 10,
+      "breadth_percentage": 43.5,
+      "avg_performance": 28.83,
+      "top_3_avg_leadership_score": 100.0,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "SSI": {
+        "leadership_score": 90.2,
+        "vpa_score": 100,
+        "performance": 43.15,
+        "performance_score": 75.51
+      },
+      "VND": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 112.0,
+        "performance_score": 100
+      },
+      "VCI": {
+        "leadership_score": 87.24,
+        "vpa_score": 100,
+        "performance": 32.08,
+        "performance_score": 68.09
+      },
+      "HCM": {
+        "leadership_score": 85.16,
+        "vpa_score": 100,
+        "performance": 24.33,
+        "performance_score": 62.9
+      },
+      "SHS": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 114.48,
+        "performance_score": 100
+      },
+      "MBS": {
+        "leadership_score": 87.41,
+        "vpa_score": 100,
+        "performance": 32.72,
+        "performance_score": 68.52
+      },
+      "BSI": {
+        "leadership_score": 83.1,
+        "vpa_score": 100,
+        "performance": 15.52,
+        "performance_score": 57.76
+      },
+      "FTS": {
+        "leadership_score": 82.77,
+        "vpa_score": 100,
+        "performance": 13.87,
+        "performance_score": 56.93
+      },
+      "VIX": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 204.16,
+        "performance_score": 100
+      },
+      "CTS": {
+        "leadership_score": 95.33,
+        "vpa_score": 100,
+        "performance": 70.8,
+        "performance_score": 88.32
+      },
+      "DSC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VDS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "AGR": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TVS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BVS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ORS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "APG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TVB": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "EVS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TCI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SBS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "APS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BMS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "CONG_NGHE": {
+    "top_3_leaders": [
+      {
+        "ticker": "FOX",
+        "leadership_score": 84.21,
+        "vpa_score": 100,
+        "performance": 20.79,
+        "performance_score": 60.53
+      },
+      {
+        "ticker": "VGI",
+        "leadership_score": 80.22,
+        "vpa_score": 100,
+        "performance": 1.12,
+        "performance_score": 50.56
+      },
+      {
+        "ticker": "CMG",
+        "leadership_score": 77.64,
+        "vpa_score": 100,
+        "performance": -7.36,
+        "performance_score": 44.11
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 9,
+      "positive_performers": 2,
+      "breadth_percentage": 22.2,
+      "avg_performance": -1.62,
+      "top_3_avg_leadership_score": 80.69,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VGI": {
+        "leadership_score": 80.22,
+        "vpa_score": 100,
+        "performance": 1.12,
+        "performance_score": 50.56
+      },
+      "FPT": {
+        "leadership_score": 75.89,
+        "vpa_score": 100,
+        "performance": -12.83,
+        "performance_score": 39.74
+      },
+      "FOX": {
+        "leadership_score": 84.21,
+        "vpa_score": 100,
+        "performance": 20.79,
+        "performance_score": 60.53
+      },
+      "CMG": {
+        "leadership_score": 77.64,
+        "vpa_score": 100,
+        "performance": -7.36,
+        "performance_score": 44.11
+      },
+      "SGT": {
+        "leadership_score": 65.77,
+        "vpa_score": 85,
+        "performance": -16.33,
+        "performance_score": 36.93
+      },
+      "ELC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VTK": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TTN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "MFS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "DAU_KHI": {
+    "top_3_leaders": [
+      {
+        "ticker": "BSR",
+        "leadership_score": 81.84,
+        "vpa_score": 100,
+        "performance": 9.22,
+        "performance_score": 54.61
+      },
+      {
+        "ticker": "PVS",
+        "leadership_score": 81.36,
+        "vpa_score": 100,
+        "performance": 6.8,
+        "performance_score": 53.4
+      },
+      {
+        "ticker": "GAS",
+        "leadership_score": 80.47,
+        "vpa_score": 100,
+        "performance": 2.33,
+        "performance_score": 51.17
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 8,
+      "positive_performers": 3,
+      "breadth_percentage": 37.5,
+      "avg_performance": 0.96,
+      "top_3_avg_leadership_score": 81.22,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "GAS": {
+        "leadership_score": 80.47,
+        "vpa_score": 100,
+        "performance": 2.33,
+        "performance_score": 51.17
+      },
+      "BSR": {
+        "leadership_score": 81.84,
+        "vpa_score": 100,
+        "performance": 9.22,
+        "performance_score": 54.61
+      },
+      "PLX": {
+        "leadership_score": 76.58,
+        "vpa_score": 100,
+        "performance": -10.69,
+        "performance_score": 41.45
+      },
+      "PVS": {
+        "leadership_score": 81.36,
+        "vpa_score": 100,
+        "performance": 6.8,
+        "performance_score": 53.4
+      },
+      "PVD": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "OIL": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CNG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PVC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "DAU_TU_CONG": {
+    "top_3_leaders": [
+      {
+        "ticker": "VCG",
+        "leadership_score": 88.68,
+        "vpa_score": 100,
+        "performance": 37.45,
+        "performance_score": 71.69
+      },
+      {
+        "ticker": "HHV",
+        "leadership_score": 82.29,
+        "vpa_score": 100,
+        "performance": 11.47,
+        "performance_score": 55.74
+      },
+      {
+        "ticker": "C4G",
+        "leadership_score": 81.33,
+        "vpa_score": 100,
+        "performance": 6.67,
+        "performance_score": 53.33
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 8,
+      "positive_performers": 3,
+      "breadth_percentage": 37.5,
+      "avg_performance": 6.95,
+      "top_3_avg_leadership_score": 84.1,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VCG": {
+        "leadership_score": 88.68,
+        "vpa_score": 100,
+        "performance": 37.45,
+        "performance_score": 71.69
+      },
+      "HHV": {
+        "leadership_score": 82.29,
+        "vpa_score": 100,
+        "performance": 11.47,
+        "performance_score": 55.74
+      },
+      "C4G": {
+        "leadership_score": 81.33,
+        "vpa_score": 100,
+        "performance": 6.67,
+        "performance_score": 53.33
+      },
+      "LCG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PLC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "FCN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "KSB": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "G36": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "DET_MAY": {
+    "top_3_leaders": [
+      {
+        "ticker": "MSH",
+        "leadership_score": 79.37,
+        "vpa_score": 100,
+        "performance": -1.97,
+        "performance_score": 48.42
+      },
+      {
+        "ticker": "TNG",
+        "leadership_score": 79.26,
+        "vpa_score": 100,
+        "performance": -2.32,
+        "performance_score": 48.15
+      },
+      {
+        "ticker": "VGT",
+        "leadership_score": 78.13,
+        "vpa_score": 100,
+        "performance": -5.84,
+        "performance_score": 45.33
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 9,
+      "positive_performers": 0,
+      "breadth_percentage": 0.0,
+      "avg_performance": -1.13,
+      "top_3_avg_leadership_score": 78.92,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VGT": {
+        "leadership_score": 78.13,
+        "vpa_score": 100,
+        "performance": -5.84,
+        "performance_score": 45.33
+      },
+      "TCM": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "MSH": {
+        "leadership_score": 79.37,
+        "vpa_score": 100,
+        "performance": -1.97,
+        "performance_score": 48.42
+      },
+      "TNG": {
+        "leadership_score": 79.26,
+        "vpa_score": 100,
+        "performance": -2.32,
+        "performance_score": 48.15
+      },
+      "STK": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PPH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "GIL": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ADS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "EVE": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "HANG_KHONG": {
+    "top_3_leaders": [
+      {
+        "ticker": "HVN",
+        "leadership_score": 91.75,
+        "vpa_score": 100,
+        "performance": 48.93,
+        "performance_score": 79.38
+      },
+      {
+        "ticker": "VJC",
+        "leadership_score": 85.55,
+        "vpa_score": 100,
+        "performance": 25.78,
+        "performance_score": 63.87
+      },
+      {
+        "ticker": "ACV",
+        "leadership_score": 80.11,
+        "vpa_score": 100,
+        "performance": 0.53,
+        "performance_score": 50.26
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 7,
+      "positive_performers": 3,
+      "breadth_percentage": 42.9,
+      "avg_performance": 8.68,
+      "top_3_avg_leadership_score": 85.8,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "ACV": {
+        "leadership_score": 80.11,
+        "vpa_score": 100,
+        "performance": 0.53,
+        "performance_score": 50.26
+      },
+      "VJC": {
+        "leadership_score": 85.55,
+        "vpa_score": 100,
+        "performance": 25.78,
+        "performance_score": 63.87
+      },
+      "HVN": {
+        "leadership_score": 91.75,
+        "vpa_score": 100,
+        "performance": 48.93,
+        "performance_score": 79.38
+      },
+      "SCS": {
+        "leadership_score": 75.37,
+        "vpa_score": 100,
+        "performance": -14.46,
+        "performance_score": 38.44
+      },
+      "SAS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NCT": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SGN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "HOA_CHAT": {
+    "top_3_leaders": [
+      {
+        "ticker": "DPM",
+        "leadership_score": 89.22,
+        "vpa_score": 100,
+        "performance": 39.49,
+        "performance_score": 73.06
+      },
+      {
+        "ticker": "DCM",
+        "leadership_score": 84.92,
+        "vpa_score": 100,
+        "performance": 23.44,
+        "performance_score": 62.3
+      },
+      {
+        "ticker": "DGC",
+        "leadership_score": 79.42,
+        "vpa_score": 100,
+        "performance": -1.83,
+        "performance_score": 48.54
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 7,
+      "positive_performers": 2,
+      "breadth_percentage": 28.6,
+      "avg_performance": 8.73,
+      "top_3_avg_leadership_score": 84.52,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "DGC": {
+        "leadership_score": 79.42,
+        "vpa_score": 100,
+        "performance": -1.83,
+        "performance_score": 48.54
+      },
+      "DCM": {
+        "leadership_score": 84.92,
+        "vpa_score": 100,
+        "performance": 23.44,
+        "performance_score": 62.3
+      },
+      "DPM": {
+        "leadership_score": 89.22,
+        "vpa_score": 100,
+        "performance": 39.49,
+        "performance_score": 73.06
+      },
+      "LAS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DDV": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BFC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CSV": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "KHAI_KHOANG": {
+    "top_3_leaders": [
+      {
+        "ticker": "MSR",
+        "leadership_score": 80.98,
+        "vpa_score": 100,
+        "performance": 4.88,
+        "performance_score": 52.44
+      },
+      {
+        "ticker": "VPG",
+        "leadership_score": 73.42,
+        "vpa_score": 100,
+        "performance": -20.55,
+        "performance_score": 33.56
+      },
+      {
+        "ticker": "CST",
+        "leadership_score": 61.58,
+        "vpa_score": 85,
+        "performance": -29.43,
+        "performance_score": 26.45
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 7,
+      "positive_performers": 1,
+      "breadth_percentage": 14.3,
+      "avg_performance": -6.44,
+      "top_3_avg_leadership_score": 71.99,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "MSR": {
+        "leadership_score": 80.98,
+        "vpa_score": 100,
+        "performance": 4.88,
+        "performance_score": 52.44
+      },
+      "CST": {
+        "leadership_score": 61.58,
+        "vpa_score": 85,
+        "performance": -29.43,
+        "performance_score": 26.45
+      },
+      "VPG": {
+        "leadership_score": 73.42,
+        "vpa_score": 100,
+        "performance": -20.55,
+        "performance_score": 33.56
+      },
+      "NNC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NBC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BMC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TNT": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "NANG_LUONG": {
+    "top_3_leaders": [
+      {
+        "ticker": "POW",
+        "leadership_score": 84.72,
+        "vpa_score": 100,
+        "performance": 22.67,
+        "performance_score": 61.79
+      },
+      {
+        "ticker": "HDG",
+        "leadership_score": 82.0,
+        "vpa_score": 100,
+        "performance": 10.02,
+        "performance_score": 55.01
+      },
+      {
+        "ticker": "NT2",
+        "leadership_score": 80.87,
+        "vpa_score": 100,
+        "performance": 4.34,
+        "performance_score": 52.17
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 6,
+      "positive_performers": 3,
+      "breadth_percentage": 50.0,
+      "avg_performance": 6.17,
+      "top_3_avg_leadership_score": 82.53,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "POW": {
+        "leadership_score": 84.72,
+        "vpa_score": 100,
+        "performance": 22.67,
+        "performance_score": 61.79
+      },
+      "HDG": {
+        "leadership_score": 82.0,
+        "vpa_score": 100,
+        "performance": 10.02,
+        "performance_score": 55.01
+      },
+      "QTP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NT2": {
+        "leadership_score": 80.87,
+        "vpa_score": 100,
+        "performance": 4.34,
+        "performance_score": 52.17
+      },
+      "GEG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PPC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "NGAN_HANG": {
+    "top_3_leaders": [
+      {
+        "ticker": "SHB",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 105.62,
+        "performance_score": 100
+      },
+      {
+        "ticker": "VPB",
+        "leadership_score": 94.25,
+        "vpa_score": 100,
+        "performance": 64.08,
+        "performance_score": 85.63
+      },
+      {
+        "ticker": "TCB",
+        "leadership_score": 92.97,
+        "vpa_score": 100,
+        "performance": 56.08,
+        "performance_score": 82.43
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 17,
+      "positive_performers": 13,
+      "breadth_percentage": 76.5,
+      "avg_performance": 25.66,
+      "top_3_avg_leadership_score": 95.74,
+      "health_classification": "Dẫn Dắt Đồng Thuận",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VCB": {
+        "leadership_score": 71.21,
+        "vpa_score": 85,
+        "performance": 1.03,
+        "performance_score": 50.51
+      },
+      "BID": {
+        "leadership_score": 80.15,
+        "vpa_score": 100,
+        "performance": 0.76,
+        "performance_score": 50.38
+      },
+      "CTG": {
+        "leadership_score": 85.44,
+        "vpa_score": 100,
+        "performance": 25.36,
+        "performance_score": 63.59
+      },
+      "VPB": {
+        "leadership_score": 94.25,
+        "vpa_score": 100,
+        "performance": 64.08,
+        "performance_score": 85.63
+      },
+      "MBB": {
+        "leadership_score": 88.97,
+        "vpa_score": 100,
+        "performance": 38.55,
+        "performance_score": 72.43
+      },
+      "ACB": {
+        "leadership_score": 83.13,
+        "vpa_score": 100,
+        "performance": 15.64,
+        "performance_score": 57.82
+      },
+      "TCB": {
+        "leadership_score": 92.97,
+        "vpa_score": 100,
+        "performance": 56.08,
+        "performance_score": 82.43
+      },
+      "LPB": {
+        "leadership_score": 81.65,
+        "vpa_score": 100,
+        "performance": 8.26,
+        "performance_score": 54.13
+      },
+      "HDB": {
+        "leadership_score": 85.4,
+        "vpa_score": 100,
+        "performance": 25.22,
+        "performance_score": 63.5
+      },
+      "STB": {
+        "leadership_score": 91.44,
+        "vpa_score": 100,
+        "performance": 47.74,
+        "performance_score": 78.59
+      },
+      "VIB": {
+        "leadership_score": 83.88,
+        "vpa_score": 100,
+        "performance": 19.4,
+        "performance_score": 59.7
+      },
+      "TPB": {
+        "leadership_score": 86.27,
+        "vpa_score": 100,
+        "performance": 28.49,
+        "performance_score": 65.69
+      },
+      "SHB": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 105.62,
+        "performance_score": 100
+      },
+      "EIB": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "OCB": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "MSB": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "EVF": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "NHUA": {
+    "top_3_leaders": [
+      {
+        "ticker": "BMP",
+        "leadership_score": 85.11,
+        "vpa_score": 100,
+        "performance": 24.15,
+        "performance_score": 62.78
+      },
+      {
+        "ticker": "NTP",
+        "leadership_score": 84.95,
+        "vpa_score": 100,
+        "performance": 23.53,
+        "performance_score": 62.37
+      },
+      {
+        "ticker": "AAA",
+        "leadership_score": 80.07,
+        "vpa_score": 100,
+        "performance": 0.35,
+        "performance_score": 50.17
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 6,
+      "positive_performers": 3,
+      "breadth_percentage": 50.0,
+      "avg_performance": 8.01,
+      "top_3_avg_leadership_score": 83.38,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "NTP": {
+        "leadership_score": 84.95,
+        "vpa_score": 100,
+        "performance": 23.53,
+        "performance_score": 62.37
+      },
+      "BMP": {
+        "leadership_score": 85.11,
+        "vpa_score": 100,
+        "performance": 24.15,
+        "performance_score": 62.78
+      },
+      "AAA": {
+        "leadership_score": 80.07,
+        "vpa_score": 100,
+        "performance": 0.35,
+        "performance_score": 50.17
+      },
+      "APH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NHH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HCD": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "NONG_NGHIEP": {
+    "top_3_leaders": [
+      {
+        "ticker": "DBC",
+        "leadership_score": 85.42,
+        "vpa_score": 100,
+        "performance": 25.3,
+        "performance_score": 63.55
+      },
+      {
+        "ticker": "HAG",
+        "leadership_score": 85.13,
+        "vpa_score": 100,
+        "performance": 24.23,
+        "performance_score": 62.83
+      },
+      {
+        "ticker": "PAN",
+        "leadership_score": 85.02,
+        "vpa_score": 100,
+        "performance": 23.8,
+        "performance_score": 62.55
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 8,
+      "positive_performers": 3,
+      "breadth_percentage": 37.5,
+      "avg_performance": 9.17,
+      "top_3_avg_leadership_score": 85.19,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "HAG": {
+        "leadership_score": 85.13,
+        "vpa_score": 100,
+        "performance": 24.23,
+        "performance_score": 62.83
+      },
+      "DBC": {
+        "leadership_score": 85.42,
+        "vpa_score": 100,
+        "performance": 25.3,
+        "performance_score": 63.55
+      },
+      "PAN": {
+        "leadership_score": 85.02,
+        "vpa_score": 100,
+        "performance": 23.8,
+        "performance_score": 62.55
+      },
+      "VLC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BAF": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "LTG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NAF": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TSC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "OTHERS": {
+    "top_3_leaders": [
+      {
+        "ticker": "GEX",
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 181.78,
+        "performance_score": 100
+      },
+      {
+        "ticker": "VCS",
+        "leadership_score": 76.82,
+        "vpa_score": 100,
+        "performance": -9.94,
+        "performance_score": 42.04
+      },
+      {
+        "ticker": "VEA",
+        "leadership_score": 69.67,
+        "vpa_score": 85,
+        "performance": -4.16,
+        "performance_score": 46.67
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 13,
+      "positive_performers": 1,
+      "breadth_percentage": 7.7,
+      "avg_performance": 12.9,
+      "top_3_avg_leadership_score": 82.16,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VEA": {
+        "leadership_score": 69.67,
+        "vpa_score": 85,
+        "performance": -4.16,
+        "performance_score": 46.67
+      },
+      "GEX": {
+        "leadership_score": 100.0,
+        "vpa_score": 100,
+        "performance": 181.78,
+        "performance_score": 100
+      },
+      "VCS": {
+        "leadership_score": 76.82,
+        "vpa_score": 100,
+        "performance": -9.94,
+        "performance_score": 42.04
+      },
+      "BWE": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ACG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TDM": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HHS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DHC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TIG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TTF": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "YEG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DSN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "GDT": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "PENNY": {
+    "top_3_leaders": [
+      {
+        "ticker": "IPA",
+        "leadership_score": 93.62,
+        "vpa_score": 100,
+        "performance": 60.16,
+        "performance_score": 84.06
+      },
+      {
+        "ticker": "FIT",
+        "leadership_score": 85.71,
+        "vpa_score": 100,
+        "performance": 26.39,
+        "performance_score": 64.28
+      },
+      {
+        "ticker": "CSC",
+        "leadership_score": 81.13,
+        "vpa_score": 100,
+        "performance": 5.65,
+        "performance_score": 52.83
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 19,
+      "positive_performers": 3,
+      "breadth_percentage": 15.8,
+      "avg_performance": 4.85,
+      "top_3_avg_leadership_score": 86.82,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "IPA": {
+        "leadership_score": 93.62,
+        "vpa_score": 100,
+        "performance": 60.16,
+        "performance_score": 84.06
+      },
+      "FIT": {
+        "leadership_score": 85.71,
+        "vpa_score": 100,
+        "performance": 26.39,
+        "performance_score": 64.28
+      },
+      "EVG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CSC": {
+        "leadership_score": 81.13,
+        "vpa_score": 100,
+        "performance": 5.65,
+        "performance_score": 52.83
+      },
+      "VPH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VC7": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DL1": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HAP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "MST": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "LIG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VIG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NRC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DAH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HID": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CIG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "RDP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DST": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DAG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PXI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "SUC_KHOE": {
+    "top_3_leaders": [
+      {
+        "ticker": "DHG",
+        "leadership_score": 81.49,
+        "vpa_score": 100,
+        "performance": 7.43,
+        "performance_score": 53.72
+      },
+      {
+        "ticker": "IMP",
+        "leadership_score": 73.63,
+        "vpa_score": 85,
+        "performance": 13.14,
+        "performance_score": 56.57
+      },
+      {
+        "ticker": "DVN",
+        "leadership_score": 66.86,
+        "vpa_score": 85,
+        "performance": -12.93,
+        "performance_score": 39.66
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 7,
+      "positive_performers": 2,
+      "breadth_percentage": 28.6,
+      "avg_performance": 1.09,
+      "top_3_avg_leadership_score": 73.99,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "Effort to Rise"
+    },
+    "all_tickers": {
+      "DHG": {
+        "leadership_score": 81.49,
+        "vpa_score": 100,
+        "performance": 7.43,
+        "performance_score": 53.72
+      },
+      "IMP": {
+        "leadership_score": 73.63,
+        "vpa_score": 85,
+        "performance": 13.14,
+        "performance_score": 56.57
+      },
+      "DVN": {
+        "leadership_score": 66.86,
+        "vpa_score": 85,
+        "performance": -12.93,
+        "performance_score": 39.66
+      },
+      "DHT": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TNH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DCL": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "JVC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "THEP": {
+    "top_3_leaders": [
+      {
+        "ticker": "HPG",
+        "leadership_score": 83.96,
+        "vpa_score": 100,
+        "performance": 19.81,
+        "performance_score": 59.91
+      },
+      {
+        "ticker": "HSG",
+        "leadership_score": 81.24,
+        "vpa_score": 100,
+        "performance": 6.21,
+        "performance_score": 53.1
+      },
+      {
+        "ticker": "MSR",
+        "leadership_score": 80.98,
+        "vpa_score": 100,
+        "performance": 4.88,
+        "performance_score": 52.44
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 13,
+      "positive_performers": 4,
+      "breadth_percentage": 30.8,
+      "avg_performance": 2.05,
+      "top_3_avg_leadership_score": 82.06,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "HPG": {
+        "leadership_score": 83.96,
+        "vpa_score": 100,
+        "performance": 19.81,
+        "performance_score": 59.91
+      },
+      "MSR": {
+        "leadership_score": 80.98,
+        "vpa_score": 100,
+        "performance": 4.88,
+        "performance_score": 52.44
+      },
+      "HSG": {
+        "leadership_score": 81.24,
+        "vpa_score": 100,
+        "performance": 6.21,
+        "performance_score": 53.1
+      },
+      "KSV": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ACG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TVN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VIF": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "NKG": {
+        "leadership_score": 80.82,
+        "vpa_score": 100,
+        "performance": 4.08,
+        "performance_score": 52.04
+      },
+      "PTB": {
+        "leadership_score": 77.34,
+        "vpa_score": 100,
+        "performance": -8.32,
+        "performance_score": 43.34
+      },
+      "GDA": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VGS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SMC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TLH": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "THUC_PHAM": {
+    "top_3_leaders": [
+      {
+        "ticker": "MSN",
+        "leadership_score": 82.69,
+        "vpa_score": 100,
+        "performance": 13.46,
+        "performance_score": 56.73
+      },
+      {
+        "ticker": "VNM",
+        "leadership_score": 79.57,
+        "vpa_score": 100,
+        "performance": -1.33,
+        "performance_score": 48.94
+      },
+      {
+        "ticker": "SAB",
+        "leadership_score": 79.07,
+        "vpa_score": 100,
+        "performance": -2.92,
+        "performance_score": 47.66
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 11,
+      "positive_performers": 2,
+      "breadth_percentage": 18.2,
+      "avg_performance": -1.8,
+      "top_3_avg_leadership_score": 80.44,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VNM": {
+        "leadership_score": 79.57,
+        "vpa_score": 100,
+        "performance": -1.33,
+        "performance_score": 48.94
+      },
+      "MCH": {
+        "leadership_score": 63.25,
+        "vpa_score": 85,
+        "performance": -24.23,
+        "performance_score": 30.62
+      },
+      "MSN": {
+        "leadership_score": 82.69,
+        "vpa_score": 100,
+        "performance": 13.46,
+        "performance_score": 56.73
+      },
+      "SAB": {
+        "leadership_score": 79.07,
+        "vpa_score": 100,
+        "performance": -2.92,
+        "performance_score": 47.66
+      },
+      "QNS": {
+        "leadership_score": 71.3,
+        "vpa_score": 85,
+        "performance": 1.52,
+        "performance_score": 50.76
+      },
+      "KDC": {
+        "leadership_score": 68.97,
+        "vpa_score": 85,
+        "performance": -6.34,
+        "performance_score": 44.93
+      },
+      "SBT": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "MCM": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SLS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CLX": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "LSS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "THUY_SAN": {
+    "top_3_leaders": [
+      {
+        "ticker": "ANV",
+        "leadership_score": 93.41,
+        "vpa_score": 100,
+        "performance": 58.84,
+        "performance_score": 83.54
+      },
+      {
+        "ticker": "MPC",
+        "leadership_score": 83.1,
+        "vpa_score": 100,
+        "performance": 15.49,
+        "performance_score": 57.75
+      },
+      {
+        "ticker": "VHC",
+        "leadership_score": 74.55,
+        "vpa_score": 100,
+        "performance": -17.02,
+        "performance_score": 36.38
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 8,
+      "positive_performers": 2,
+      "breadth_percentage": 25.0,
+      "avg_performance": 7.16,
+      "top_3_avg_leadership_score": 83.69,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "VHC": {
+        "leadership_score": 74.55,
+        "vpa_score": 100,
+        "performance": -17.02,
+        "performance_score": 36.38
+      },
+      "MPC": {
+        "leadership_score": 83.1,
+        "vpa_score": 100,
+        "performance": 15.49,
+        "performance_score": 57.75
+      },
+      "ANV": {
+        "leadership_score": 93.41,
+        "vpa_score": 100,
+        "performance": 58.84,
+        "performance_score": 83.54
+      },
+      "FMC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ASM": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "IDI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CMX": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "ACL": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "VAN_TAI": {
+    "top_3_leaders": [
+      {
+        "ticker": "HAH",
+        "leadership_score": 91.05,
+        "vpa_score": 100,
+        "performance": 46.3,
+        "performance_score": 77.62
+      },
+      {
+        "ticker": "GMD",
+        "leadership_score": 79.51,
+        "vpa_score": 100,
+        "performance": -1.52,
+        "performance_score": 48.78
+      },
+      {
+        "ticker": "PVT",
+        "leadership_score": 78.44,
+        "vpa_score": 100,
+        "performance": -4.87,
+        "performance_score": 46.1
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 17,
+      "positive_performers": 1,
+      "breadth_percentage": 5.9,
+      "avg_performance": 1.16,
+      "top_3_avg_leadership_score": 83.0,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "GMD": {
+        "leadership_score": 79.51,
+        "vpa_score": 100,
+        "performance": -1.52,
+        "performance_score": 48.78
+      },
+      "PVT": {
+        "leadership_score": 78.44,
+        "vpa_score": 100,
+        "performance": -4.87,
+        "performance_score": 46.1
+      },
+      "VTP": {
+        "leadership_score": 64.51,
+        "vpa_score": 85,
+        "performance": -20.27,
+        "performance_score": 33.78
+      },
+      "PHP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HAH": {
+        "leadership_score": 91.05,
+        "vpa_score": 100,
+        "performance": 46.3,
+        "performance_score": 77.62
+      },
+      "DVP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VSC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VOS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PVP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TCD": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TCL": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VTO": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VIP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SKG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DXP": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VNA": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "MHC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "VLXD": {
+    "top_3_leaders": [
+      {
+        "ticker": "HT1",
+        "leadership_score": 86.37,
+        "vpa_score": 100,
+        "performance": 28.85,
+        "performance_score": 65.93
+      },
+      {
+        "ticker": "VLB",
+        "leadership_score": 81.74,
+        "vpa_score": 100,
+        "performance": 8.71,
+        "performance_score": 54.36
+      },
+      {
+        "ticker": "PTB",
+        "leadership_score": 77.44,
+        "vpa_score": 100,
+        "performance": -8.01,
+        "performance_score": 43.59
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 9,
+      "positive_performers": 2,
+      "breadth_percentage": 22.2,
+      "avg_performance": 3.28,
+      "top_3_avg_leadership_score": 81.85,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "HT1": {
+        "leadership_score": 86.37,
+        "vpa_score": 100,
+        "performance": 28.85,
+        "performance_score": 65.93
+      },
+      "PTB": {
+        "leadership_score": 77.44,
+        "vpa_score": 100,
+        "performance": -8.01,
+        "performance_score": 43.59
+      },
+      "VLB": {
+        "leadership_score": 81.74,
+        "vpa_score": 100,
+        "performance": 8.71,
+        "performance_score": 54.36
+      },
+      "BCC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CTI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BTS": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DHA": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HOM": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BTN": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "XAY_DUNG": {
+    "top_3_leaders": [
+      {
+        "ticker": "CII",
+        "leadership_score": 91.62,
+        "vpa_score": 100,
+        "performance": 48.42,
+        "performance_score": 79.04
+      },
+      {
+        "ticker": "HUT",
+        "leadership_score": 81.93,
+        "vpa_score": 100,
+        "performance": 9.63,
+        "performance_score": 54.82
+      },
+      {
+        "ticker": "CTD",
+        "leadership_score": 76.09,
+        "vpa_score": 100,
+        "performance": -12.22,
+        "performance_score": 40.22
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 18,
+      "positive_performers": 2,
+      "breadth_percentage": 11.1,
+      "avg_performance": 2.55,
+      "top_3_avg_leadership_score": 83.21,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "HUT": {
+        "leadership_score": 81.93,
+        "vpa_score": 100,
+        "performance": 9.63,
+        "performance_score": 54.82
+      },
+      "CTD": {
+        "leadership_score": 76.09,
+        "vpa_score": 100,
+        "performance": -12.22,
+        "performance_score": 40.22
+      },
+      "CII": {
+        "leadership_score": 91.62,
+        "vpa_score": 100,
+        "performance": 48.42,
+        "performance_score": 79.04
+      },
+      "IJC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BCG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "DPG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "CKG": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "HBC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "L18": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "IDJ": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "S99": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "VC2": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "C69": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "TLD": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "PHC": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "C47": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "BCE": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "FID": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  },
+  "XAY_LAP_DIEN": {
+    "top_3_leaders": [
+      {
+        "ticker": "PC1",
+        "leadership_score": 82.28,
+        "vpa_score": 100,
+        "performance": 11.39,
+        "performance_score": 55.7
+      },
+      {
+        "ticker": "TV2",
+        "leadership_score": 73.61,
+        "vpa_score": 85,
+        "performance": 13.04,
+        "performance_score": 56.52
+      },
+      {
+        "ticker": "CTR",
+        "leadership_score": 73.47,
+        "vpa_score": 100,
+        "performance": -20.41,
+        "performance_score": 33.67
+      }
+    ],
+    "sector_metrics": {
+      "total_tickers": 5,
+      "positive_performers": 2,
+      "breadth_percentage": 40.0,
+      "avg_performance": 0.8,
+      "top_3_avg_leadership_score": 76.45,
+      "health_classification": "Dẫn Dắt Phân Hóa",
+      "dominant_vpa_theme": "SOS/Strength Signals"
+    },
+    "all_tickers": {
+      "CTR": {
+        "leadership_score": 73.47,
+        "vpa_score": 100,
+        "performance": -20.41,
+        "performance_score": 33.67
+      },
+      "PC1": {
+        "leadership_score": 82.28,
+        "vpa_score": 100,
+        "performance": 11.39,
+        "performance_score": 55.7
+      },
+      "TV2": {
+        "leadership_score": 73.61,
+        "vpa_score": 85,
+        "performance": 13.04,
+        "performance_score": 56.52
+      },
+      "VNE": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      },
+      "SCI": {
+        "leadership_score": 50.0,
+        "vpa_score": 50,
+        "performance": 0,
+        "performance_score": 50.0
+      }
+    }
+  }
+}

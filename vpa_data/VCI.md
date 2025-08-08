@@ -117,3 +117,4 @@
 Sau tín hiệu "Spring and Test" mạnh mẽ và "Không có cung" của các phiên trước, hành động giá hôm nay cho thấy thị trường đang kiểm tra lại nguồn cung ở vùng giá cao. Việc giá tạo đỉnh mới 47.5 nhưng không thể duy trì được đà tăng và đóng cửa thấp hơn, kèm theo khối lượng tăng, cho thấy áp lực bán đã xuất hiện trở lại. Tuy nhiên, khối lượng không quá đột biến và giá vẫn giữ được trên các mức hỗ trợ quan trọng, cho thấy đây có thể là một đợt kiểm tra tự nhiên sau đợt tăng mạnh. Thị trường đang trong giai đoạn củng cố và hấp thụ.
 
 **Phân tích VPA/Wyckoff:** Test for Supply (Kiểm tra nguồn cung)
+**Ngày 2025-08-08:** VCI giảm từ 46.5 xuống 45.5 (-2.15%) với biên độ dao động rộng (3.1 điểm). Giá mở cửa tại 47.05, tạo đỉnh phiên 48.1 (đỉnh mới) nhưng bị đẩy xuống mức thấp 45.0 và đóng cửa ở 45.5. Khối lượng giao dịch tăng lên 18.41 triệu đơn vị, cao hơn 32.7% so với phiên trước (13.87 triệu) nhưng vẫn thấp hơn đáng kể so với ngày "Spring and Test" (33.42 triệu).

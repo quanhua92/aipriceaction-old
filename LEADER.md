@@ -2,38 +2,55 @@
 
 Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức khỏe tổng thể của từng ngành. Phân tích dựa trên sự kết hợp giữa: (1) Sức mạnh câu chuyện VPA/Wyckoff, (2) Hiệu suất giá tương đối, và (3) Mức độ lan tỏa của xu hướng trong nội bộ ngành.
 
-**➡️ [Click here to view the thị trường mới nhất report](REPORT.md)**
-**➡️ [Click here to view the thị trường mới nhất report (weekly)](REPORT_week.md)**
-**⛳ [Click here to view the kế hoạch giao dịch](PLAN.md)**
-
-## Mục Lục Ngành
-
-- [**BÁN LẺ**](#ban-le)
-- [**BẤT ĐỘNG SẢN**](#bat-dong-san)
-- [**BẤT ĐỘNG SẢN KCN**](#bat-dong-san-kcn)
-- [**CAO SU**](#cao-su)
-- [**CHỨNG KHOÁN**](#chung-khoan)
-- [**CÔNG NGHỆ**](#cong-nghe)
-- [**ĐẦU KHÍ**](#dau-khi)
-- [**NĂNG LƯỢNG**](#nang-luong)
-- [**NGÂN HÀNG**](#ngan-hang)
-- [**THÉP**](#thep)
-- [**THỰC PHẨM**](#thuc-pham)
+**➡️ [Click here to view the latest market report](REPORT.md)**
+**➡️ [Click here to view the latest market report (weekly)](REPORT_week.md)**
+**⛳ [Click here to view the trading plan](PLAN.md)**
 
 ---
 
-## **BÁN LẺ**
+## Mục Lục
 
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành bán lẻ có 75% cổ phiếu tích cực nhưng sự phân hóa mạnh mẽ. FRT dẫn dắt với tín hiệu Không Có Nguồn Cung xuất sắc, MWG duy trì xu hướng ổn định, trong khi DGW và PNJ đang trong giai đoạn consolidation sau những đợt tăng mạnh trước đó.
+- [**BAO_HIEM**](#bao_hiem)
+- [**BAN_LE**](#ban_le)
+- [**BAT_DONG_SAN**](#bat_dong_san)
+- [**BAT_DONG_SAN_KCN**](#bat_dong_san_kcn)
+- [**CAO_SU**](#cao_su)
+- [**CHUNG_KHOAN**](#chung_khoan)
+- [**CONG_NGHE**](#cong_nghe)
+- [**DAU_KHI**](#dau_khi)
+- [**DAU_TU_CONG**](#dau_tu_cong)
+- [**DET_MAY**](#det_may)
+- [**HANG_KHONG**](#hang_khong)
+- [**HOA_CHAT**](#hoa_chat)
+- [**KHAI_KHOANG**](#khai_khoang)
+- [**NANG_LUONG**](#nang_luong)
+- [**NGAN_HANG**](#ngan_hang)
+- [**NHUA**](#nhua)
+- [**NONG_NGHIEP**](#nong_nghiep)
+- [**PENNY**](#penny)
+- [**SUC_KHOE**](#suc_khoe)
+- [**THEP**](#thep)
+- [**THUC_PHAM**](#thuc_pham)
+- [**THUY_SAN**](#thuy_san)
+- [**VAN_TAI**](#van_tai)
+- [**VLXD**](#vlxd)
+- [**XAY_DUNG**](#xay_dung)
+- [**XAY_LAP_DIEN**](#xay_lap_dien)
+
+---
+
+## **NGAN_HANG**
+
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-02-03 - 2025-04-14
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành ngân hàng đang thể hiện sức mạnh mạnh mẽ với 76.5% các cổ phiếu có hiệu suất tích cực. Tín hiệu VPA chủ đạo là Sign of Strength với sự tham gia rộng rãi của dòng tiền tổ chức. Đây là ngành duy nhất đạt mức độ đồng thuận cao với xu hướng tăng lan tỏa đồng đều.
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
 | Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
 | :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**FRT**](REPORT_week.md#FRT) | 92.3 | 95% | Không Có Nguồn Cung xuất sắc với nhu cầu tổ chức mạnh |
-| 2    | [**MWG**](REPORT_week.md#MWG) | 85.7 | 85% | Xu hướng tăng ổn định với hỗ trợ tổ chức |
-| 3    | [**DGW**](REPORT_week.md#DGW) | 78.4 | 75% | Kiểm Tra Nguồn Cung sau đột phá, cần xác nhận |
+| 1    | [**VPB**](#VPB) | 94.3 | 95% | 5 tuần tăng liên tiếp với khối lượng kỷ lục |
+| 2    | [**VIB**](#VIB) | 88.7 | 90% | Bùng nổ tổ chức với rally 3 tuần mạnh mẽ |
+| 3    | [**SHB**](#SHB) | 86.2 | 85% | Đảo chiều ngoạn mục từ đáy với khối lượng khủng |
 
 ---
 
@@ -41,526 +58,63 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 ---
 
-#### **1. FPT Retail (FRT)**
-
-![View Chart](reports_week/FRT/FRT_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#FRT)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 89.6 (tương ứng +27.8% từ base period)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** FRT thể hiện dẫn dắt xuất sắc với tín hiệu Không Có Nguồn Cung liên tục, cho thấy áp lực bán đã kiệt sức hoàn toàn. Nhu cầu tổ chức mạnh mẽ được xác nhận qua mô hình khối lượng và hành động giá nhất quán.
-* **Câu Chuyện VPA Nổi Bật:** Chuỗi Dấu Hiệu Sức Mạnh từ tháng 6, culminating trong perfect Không Có Nguồn Cung pattern tuần qua - giá tăng trên volume giảm, điển hình tích lũy tổ chức
-* **Hiệu Suất Tương Đối:** Vượt trội sector với +27.8% từ base period, dẫn dắt rõ ràng so với MWG (+18.5%) và DGW (+15.2%)
-
----
-
-#### **2. Mobile World Group (MWG)**
-
-![View Chart](reports_week/MWG/MWG_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#MWG)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 80 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 92.4 (tương ứng +18.5% từ base period)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** MWG duy trì xu hướng tăng ổn định với multiple Dấu Hiệu Sức Mạnh signals. Institutional participation steady nhưng thiếu đặc điểm bùng nổ của FRT.
-* **Câu Chuyện VPA Nổi Bật:** Tín hiệu sức mạnh tiến bộ với xác nhận khối lượng tốt, recent Nỗ Lực Tăng Giá cho thấy momentum tiếp tục nhưng đang moderate
-* **Hiệu Suất Tương Đối:** Performance tốt +18.5% nhưng chậm hơn FRT, thể hiện vai trò secondary leader trong sector
-
----
-
-#### **3. Dinh Gia Wine (DGW)**
-
-![View Chart](reports_week/DGW/DGW_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#DGW)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 75 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 83.2 (tương ứng +15.2% từ base period)
-  * **Mức Độ Tin Cậy:** 75%
-* **Phân Tích Dẫn Dắt:** DGW đã có đột phá bùng nổ trước đó nhưng hiện đang Kiểm Tra Nguồn Cung phase. Cần confirmation để duy trì dẫn dắt position.
-* **Câu Chuyện VPA Nổi Bật:** Nhà lãnh đạo bùng nổ trước đây với tiến triển cao trào, hiện tại củng cố lành mạnh với Kiểm Tra Nguồn Cung pattern
-* **Hiệu Suất Tương Đối:** Hiệu suất vững chắc +15.2% nhưng đang lag leaders, position phụ thuộc vào outcome của current test
-
----
-
-## **BẤT ĐỘNG SẢN**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15  
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành bất động sản dẫn dắt thị trường với 80% cổ phiếu tích cực và sự tham gia của tổ chức mạnh mẽ. VIC, HDC, VHM đều có tín hiệu VPA xuất sắc với bùng nổ khối lượng, tạo đợt tăng rộng khắp với high conviction.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**VIC**](REPORT_week.md#VIC) | 96.8 | 98% | Hiệu suất bùng nổ +181% từ đầu năm với củng cố lành mạnh |
-| 2    | [**HDC**](REPORT_week.md#HDC) | 93.5 | 95% | Đột phá tổ chức +27% tuần với hỗ trợ chính sách |
-| 3    | [**VHM**](REPORT_week.md#VHM) | 91.2 | 95% | Dẫn dắt nhất quán +134% từ đầu năm với mô hình Không Có Nguồn Cung |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Vingroup (VIC)**
-
-![View Chart](reports_week/VIC/VIC_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VIC)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 98.5 (tương ứng +181% từ base period)
-  * **Mức Độ Tin Cậy:** 98%
-* **Phân Tích Dẫn Dắt:** VIC là nhà lãnh đạo tuyệt đối của thị trường với explosive YTD performance. Gap-up strength signals cho thấy niềm tin tổ chức cao nhất, hiện củng cố lành mạnh sau major advance.
-* **Câu Chuyện VPA Nổi Bật:** Textbook tích lũy tổ chức followed by đánh dấu bùng nổ với multiple gap-ups, hiện trong củng cố lành mạnh với Không Có Nguồn Cung characteristics
-* **Hiệu Suất Tương Đối:** Dominant performance +181% YTD dẫn dắt toàn thị trường, không chỉ sector
-
----
-
-#### **2. Hà Đô Corporation (HDC)**
-
-![View Chart](reports_week/HDC/HDC_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#HDC)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 92 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 95.1 (tương ứng +42.3% từ base period)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** HDC thể hiện đột phá tổ chức mạnh nhất sector với +27% weekly gain. Policy support và bùng nổ khối lượng xác nhận tích lũy tiền thông minh.
-* **Câu Chuyện VPA Nổi Bật:** Explosive đột phá tổ chức với +27% weekly và volume bùng nổ, policy catalyst combined với technical strength
-* **Hiệu Suất Tương Đối:** Recent hiệu suất bùng nổ leading sector breakouts, momentum acceleration phase
-
----
-
-#### **3. Vinhomes (VHM)**
-
-![View Chart](reports_week/VHM/VHM_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VHM)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 88 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 94.3 (tương ứng +134% từ base period)  
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** VHM duy trì dẫn dắt position với consistent uptrend và Không Có Nguồn Cung patterns. Nhu cầu tổ chức ổn định, reliable performer trong sector.
-* **Câu Chuyện VPA Nổi Bật:** Sustained tích lũy tổ chức với Không Có Nguồn Cung patterns, healthy pullback characteristics showing strong hands
-* **Hiệu Suất Tương Đối:** Excellent YTD +134%, consistent sector leader với reliable hỗ trợ tổ chức
-
----
-
-## **BẤT ĐỘNG SẢN KCN**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành KCN có 100% cổ phiếu tích cực với institutional rotation mạnh mẽ. Multiple breakout patterns occurring simultaneously trong tháng 7, cho thấy sector-wide tích lũy tổ chức với strong momentum.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**VGC**](REPORT_week.md#VGC) | 95.2 | 95% | Đột phá bùng nổ 11% với khối lượng tổ chức tăng vọt |
-| 2    | [**SIP**](REPORT_week.md#SIP) | 94.0 | 90% | Đánh dấu Wyckoff cổ điển với sự tham gia của Tiền Thông Minh |
-| 3    | [**BCM**](REPORT_week.md#BCM) | 88.5 | 85% | Lãnh đạo xu hướng tăng vững chắc với sức mạnh nhất quán |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Viglacera Corporation (VGC)**
-
-![View Chart](reports_week/VGC/VGC_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VGC)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 95.4 (tương ứng +14.7% từ base period)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** VGC thể hiện perfect technical breakout với explosive 11% weekly gain và bùng nổ khối lượng 23%. Progressive volume buildup culminating trong đột phá tổ chức.
-* **Câu Chuyện VPA Nổi Bật:** Không Có Nguồn Cung → Dấu Hiệu Sức Mạnh progression với explosive xác nhận khối lượng, textbook đột phá tổ chức pattern
-* **Hiệu Suất Tương Đối:** Leading sector breakouts với excellent risk-reward và confirmed momentum
-
----
-
-#### **2. Saigon Investment (SIP)**
-
-![View Chart](reports_week/SIP/SIP_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#SIP)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 90 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 98.0 (tương ứng +15.0% từ base period)
-  * **Mức Độ Tin Cậy:** 90%
-* **Phân Tích Dẫn Dắt:** SIP cho thấy classic Wyckoff accumulation to markup transition với explosive 10.1% breakout và 34% volume increase. Smart Money participation evident.
-* **Câu Chuyện VPA Nổi Bật:** Classic tích lũy tổ chức followed by đánh dấu bùng nổ với Smart Money volume signature
-* **Hiệu Suất Tương Đối:** Strong performance với high momentum potential và institutional backing
-
----
-
-#### **3. Becamex IDC (BCM)**
-
-![View Chart](reports_week/BCM/BCM_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#BCM)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 85 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 92.1 (tương ứng +14.6% từ base period)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** BCM established uptrend leader với consistent strength signals và healthy volume participation during breakout phases.
-* **Câu Chuyện VPA Nổi Bật:** Breakout from consolidation với xác nhận khối lượng, steady tích lũy tổ chức
-* **Hiệu Suất Tương Đối:** Reliable sector performer với established uptrend và low volatility risk
-
----
-
-## **CAO SU**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành cao su có 75% cổ phiếu tích cực với GVR và PHR dẫn dắt mạnh mẽ. Institutional rotation vào rubber stocks với commodity tailwinds, nhưng performance phân hóa giữa leaders và laggards.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**GVR**](REPORT_week.md#GVR) | 89.5 | 85% | Nỗ Lực Tăng Giá với gió thuận hàng hóa |
-| 2    | [**PHR**](REPORT_week.md#PHR) | 87.2 | 85% | Mô hình tích lũy tổ chức mạnh mẽ |
-| 3    | [**DPR**](REPORT_week.md#DPR) | 82.8 | 80% | Sức mạnh phục hồi sau kiểm tra thành công |
-
----
-
-## **CHỨNG KHOÁN**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành chứng khoán có 100% cổ phiếu tích cực với VIX, CTS, VND dẫn dắt đợt tăng bùng nổ. Chuyển đổi ngành mạnh mẽ vào securities với FOMO tổ chức characteristics, nhưng cần cảnh giác rủi ro cao trào.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**VIX**](REPORT_week.md#VIX) | 98.5 | 95% | Động lực bùng nổ +65.3% trong 3 tuần |
-| 2    | [**VND**](REPORT_week.md#VND) | 95.8 | 95% | Sức mạnh nhất quán với động lực tăng tốc |
-| 3    | [**BSI**](REPORT_week.md#BSI) | 92.4 | 90% | Lãnh đạo phục hồi với sức mạnh bền vững |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. VIX Securities (VIX)**
-
-![View Chart](reports_week/VIX/VIX_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VIX)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 98 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 99.1 (tương ứng +65.3% trong 3 tuần)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** VIX thể hiện động lực bùng nổ dẫn dắt với three-week đợt tăng sức mạnh và superb tín hiệu VPA. Record volumes confirm FOMO tổ chức participation.
-* **Câu Chuyện VPA Nổi Bật:** Explosive three-week rally từ 15.85 → 24.05 với consecutive Dấu Hiệu Sức Mạnh và record volumes, textbook momentum acceleration
-* **Hiệu Suất Tương Đối:** Dominant short-term performance +65.3% trong 3 tuần, leading toàn thị trường momentum
-
----
-
-#### **2. VietnamInvest Securities (VND)**
-
-![View Chart](reports_week/VND/VND_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VND)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 96.7 (tương ứng +35.1% từ June lows)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** VND cho thấy most consistent strength với four consecutive weeks của VPA strength và accelerating momentum. Sustained nhu cầu tổ chức.
-* **Câu Chuyện VPA Nổi Bật:** Four consecutive Dấu Hiệu Sức Mạnh signals với progressive volume acceleration, culminating trong explosive +14% gain với +29.7% bùng nổ khối lượng
-* **Hiệu Suất Tương Đối:** Excellent sustained performance với reliable uptrend và consistent institutional backing
-
----
-
-#### **3. BIDV Securities (BSI)**
-
-![View Chart](reports_week/BSI/BSI_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#BSI)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 88 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 96.8 (tương ứng +12.6% recovery từ June)
-  * **Mức Độ Tin Cậy:** 90%
-* **Phân Tích Dẫn Dắt:** BSI recovery leader với strong technical foundation và three consecutive strength signals. Solid institutional base với good risk-reward.
-* **Câu Chuyện VPA Nổi Bật:** Strong recovery from weakness với sustained Dấu Hiệu Sức Mạnh pattern và bùng nổ khối lượng confirmation
-* **Hiệu Suất Tương Đối:** Solid recovery momentum với technical strength và institutional confirmation
-
----
-
-## **CÔNG NGHỆ**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành công nghệ có 80% cổ phiếu tích cực với FOX và VGI dẫn dắt mạnh mẽ. Institutional mô hình tích lũy tốt trong top performers, nhưng SGT yếu tạo phân hóa ngành.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**FOX**](REPORT_week.md#FOX) | 94.0 | 95% | Tích lũy Wyckoff giáo khoa với đột phá bùng nổ |
-| 2    | [**VGI**](REPORT_week.md#VGI) | 92.0 | 90% | Nhà thể hiện nhất quán nhất với quan tâm tổ chức mới |
-| 3    | [**CMG**](REPORT_week.md#CMG) | 85.0 | 85% | Sức mạnh phục hồi sau điều hướng đỉnh điểm |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Fox Corporation (FOX)**
-
-![View Chart](reports_week/FOX/FOX_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#FOX)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 93.0 (tương ứng +19.7% breakout week)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** FOX demonstrated perfect Wyckoff accumulation với multiple Không Có Nguồn Cung tests followed by explosive đột phá tổ chức trên 4x volume.
-* **Câu Chuyện VPA Nổi Bật:** Clean accumulation phase với Không Có Nguồn Cung tests, culminating trong explosive 19.7% breakout on 4x bùng nổ khối lượng
-* **Hiệu Suất Tương Đối:** Textbook đột phá tổ chức với massive xác nhận khối lượng, sector technical leader
-
----
-
-#### **2. Vietnam Investment Group (VGI)**
-
-![View Chart](reports_week/VGI/VGI_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VGI)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 90 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 94.1 (tương ứng +3.35% latest week)
-  * **Mức Độ Tin Cậy:** 90%
-* **Phân Tích Dẫn Dắt:** VGI shows most consistent VPA progression với excellent volume/price relationship và renewed institutional interest.
-* **Câu Chuyện VPA Nổi Bật:** Consistently strong VPA progression với +3.3% weekly gain on +25.8% volume increase
-* **Hiệu Suất Tương Đối:** Most reliable sector performer với consistent hỗ trợ tổ chức
-
----
-
-#### **3. Computer Management Group (CMG)**
-
-![View Chart](reports_week/CMG/CMG_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#CMG)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 80 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 90.0 (tương ứng +2.27% recovery)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** CMG recovery story với successful navigation của climax/distribution phase, now resuming uptrend với improving VPA.
-* **Câu Chuyện VPA Nổi Bật:** Strong recovery sau successful climax navigation, multiple Dấu Hiệu Sức Mạnh signals confirming recovery
-* **Hiệu Suất Tương Đối:** Solid recovery momentum với technical strength improvement
-
----
-
-## **ĐẦU KHÍ**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Đang Tích Lũy**. Ngành dầu khí có 75% cổ phiếu tích cực với BSR dẫn dắt recovery mạnh mẽ. Sector đang từ weakness phase chuyển sang accumulation với BSR leading, các mã khác còn testing phase.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**BSR**](REPORT_week.md#BSR) | 92.5 | 95% | Tích lũy Wyckoff cổ điển với tăng vọt tổ chức |
-| 2    | [**PLX**](REPORT_week.md#PLX) | 76.5 | 75% | Ứng viên phục hồi với tín hiệu sức mạnh sớm |
-| 3    | [**GAS**](REPORT_week.md#GAS) | 70.0 | 70% | Quỹ đạo phục hồi chậm với đặc tính phòng thủ |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Binh Son Refining (BSR)**
-
-![View Chart](reports_week/BSR/BSR_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#BSR)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 90.0 (tương ứng +11.55% monthly)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** BSR clear sector leader với classic Wyckoff accumulation pattern complete và explosive volume expansion. Leading sector recovery với niềm tin tổ chức.
-* **Câu Chuyện VPA Nổi Bật:** Dramatic recovery từ June weakness với classic Không Có Nguồn Cung tests followed by powerful Dấu Hiệu Sức Mạnh confirmation
-* **Hiệu Suất Tương Đối:** Leading sector recovery với strongest tích lũy tổ chức và decisive hành động giá
-
----
-
-#### **2. Petrolimex (PLX)**
-
-![View Chart](reports_week/PLX/PLX_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#PLX)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 65 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 88.0 (tương ứng +2.14% recent)
-  * **Mức Độ Tin Cậy:** 75%
-* **Phân Tích Dẫn Dắt:** PLX recovery candidate với recent Dấu Hiệu Sức Mạnh emergence after extended No Demand period. Lagging BSR nhưng showing improvement.
-* **Câu Chuyện VPA Nổi Bật:** Recovery từ upthrust weakness với recent Dấu Hiệu Sức Mạnh, institutional buying returning
-* **Hiệu Suất Tương Đối:** Early recovery signals but needs sustained confirmation
-
----
-
-#### **3. PetroVietnam Gas (GAS)**
-
-![View Chart](reports_week/GAS/GAS_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#GAS)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 60 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 82.0 (tương ứng +1.03% recent)
-  * **Mức Độ Tin Cậy:** 70%
-* **Phân Tích Dẫn Dắt:** GAS slow recovery trajectory với gradual Nỗ Lực Tăng Giá after upthrust. Defensive position trong sector rather than dẫn dắt role.
-* **Câu Chuyện VPA Nổi Bật:** Gradual recovery từ June upthrust với successful Không Có Nguồn Cung testing
-* **Hiệu Suất Tương Đối:** Stable but uninspiring recovery, defensive characteristics
-
----
-
-## **NĂNG LƯỢNG**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành năng lượng có 100% cổ phiếu tích cực với strong sự tham gia của tổ chức across toàn sector. NT2, HDG, POW đều có explosive strength signals với excellent xác nhận khối lượng.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**NT2**](REPORT_week.md#NT2) | 94.0 | 95% | Động lực bùng nổ với khối lượng tổ chức tăng tốc |
-| 2    | [**HDG**](REPORT_week.md#HDG) | 88.0 | 85% | Tái gia nhập tổ chức kịch tính với sức mạnh đột phá |
-| 3    | [**POW**](REPORT_week.md#POW) | 86.0 | 85% | Tích lũy tổ chức bền vững gần đỉnh |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Northern Power Corporation 2 (NT2)**
-
-![View Chart](reports_week/NT2/NT2_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#NT2)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 93.1 (gần 2025 highs)
-  * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** NT2 strongest tích lũy tổ chức pattern với explosive volume (+68% latest week) và accelerating momentum đến new highs.
-* **Câu Chuyện VPA Nổi Bật:** Consecutive Signs of Strength với explosive bùng nổ khối lượng, textbook tích lũy tổ chức pattern
-* **Hiệu Suất Tương Đối:** Leading sector với strongest momentum acceleration và niềm tin tổ chức
-
----
-
-#### **2. Hải Dương Group (HDG)**
-
-![View Chart](reports_week/HDG/HDG_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#HDG)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 85 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 91.0 (recovery từ lows)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** HDG dramatic institutional re-entry sau successful navigation của previous weakness. Volume doubled on breakthrough showing conviction.
-* **Câu Chuyện VPA Nổi Bật:** Powerful recovery Dấu Hiệu Sức Mạnh sau weakness navigation, institutional re-entry confirmed
-* **Hiệu Suất Tương Đối:** Strong recovery momentum với niềm tin tổ chức confirmation
-
----
-
-#### **3. PetroVietnam Power (POW)**
-
-![View Chart](reports_week/POW/POW_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#POW)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 80 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 93.0 (near all-time highs)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** POW sustained uptrend với multiple Signs of Strength và consistent tích lũy tổ chức near historical highs.
-* **Câu Chuyện VPA Nổi Bật:** Sustained professional accumulation với excellent recovery trajectory từ deep lows
-* **Hiệu Suất Tương Đối:** Consistent tích lũy tổ chức với sustained uptrend
-
----
-
-## **NGÂN HÀNG**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15  
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành ngân hàng có 84.6% cổ phiếu tích cực với VPB và HDB dẫn dắt đợt tăng bùng nổ. Broad sự tham gia của tổ chức với most banks showing Dấu Hiệu Sức Mạnh patterns, nhưng cần cảnh giác rủi ro cao trào trong top performers.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**VPB**](REPORT_week.md#VPB) | 97.1 | 98% | Tăng bùng nổ 35.1% với tín hiệu sức mạnh liên tiếp |
-| 2    | [**HDB**](REPORT_week.md#HDB) | 93.6 | 85% | Tăng mạnh 29.6% nhưng cảnh báo Đỉnh Điểm Mua |
-| 3    | [**ACB**](REPORT_week.md#ACB) | 88.4 | 90% | Tăng vững chắc 12.4% với tiến trình đánh dấu lành mạnh |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Vietnam Prosperity Bank (VPB)**
+#### **1. VietinBank (VPB)**
 
 ![View Chart](reports_week/VPB/VPB_candlestick_chart.png)
 
 * [View Report](REPORT_week.md#VPB)
 * **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 98 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 96.2 (tương ứng +35.1% gain)
-  * **Mức Độ Tin Cậy:** 98%
-* **Phân Tích Dẫn Dắt:** VPB absolute sector leader với explosive tích lũy tổ chức và consecutive Dấu Hiệu Sức Mạnh signals. Volume expansion confirms niềm tin tổ chức.
-* **Câu Chuyện VPA Nổi Bật:** Explosive three-week rally với consecutive Dấu Hiệu Sức Mạnh và institutional bùng nổ khối lượng, leading banking sector
-* **Hiệu Suất Tương Đối:** Dominant banking performance với strongest institutional backing và momentum
+  * **Điểm Câu Chuyện VPA:** 95 / 100
+  * **Điểm Hiệu Suất Tương Đối:** 92.8 (tương ứng +46.6% từ nền giá)
+  * **Mức Độ Tin Cậy:** 95%
+* **Phân Tích Dẫn Dắt:** VPB là ngôi sao sáng nhất của ngành ngân hàng với 5 tuần tăng liên tiếp và khối lượng giao dịch bùng nổ gấp nhiều lần bình thường. Thể hiện sự quan tâm mạnh mẽ của dòng tiền tổ chức.
+* **Câu Chuyện VPA Nổi Bật:** Chuỗi Sign of Strength hoàn hảo với markup phase rõ ràng, từ vùng tích lũy 16-17 bật lên vùng 24-25 với volume xác nhận mạnh mẽ.
+* **Hiệu Suất Tương Đối:** Dẫn đầu ngành với mức tăng 46.6% vượt trội so với trung bình ngành 25.7%.
 
 ---
 
-#### **2. Ho Chi Minh Development Bank (HDB)**
+#### **2. Ngân hàng Quốc tế (VIB)**
 
-![View Chart](reports_week/HDB/HDB_candlestick_chart.png)
+![View Chart](reports_week/VIB/VIB_candlestick_chart.png)
 
-* [View Report](REPORT_week.md#HDB)
+* [View Report](REPORT_week.md#VIB)
+* **Các Chỉ Số Chính:**
+  * **Điểm Câu Chuyện VPA:** 90 / 100
+  * **Điểm Hiệu Suất Tương Đối:** 86.5 (tương ứng +22.1% từ nền giá)
+  * **Mức Độ Tin Cậy:** 90%
+* **Phân Tích Dẫn Dắt:** Rally 3 tuần mạnh mẽ với khối lượng tăng vọt từ 49M lên 160M cho thấy sự gia tăng quan tâm từ tổ chức. Momentum tăng tốc rõ ràng.
+* **Câu Chuyện VPA Nổi Bật:** Breakout từ vùng consolidation với volume explosion, thể hiện institutional sponsorship đang gia tăng nhanh chóng.
+* **Hiệu Suất Tương Đối:** Tăng 22.1% trong 3 tuần, vượt trội so với các đồng nghiệp trong cùng thời kỳ.
+
+---
+
+#### **3. Ngân hàng Sài Gòn - Hà Nội (SHB)**
+
+![View Chart](reports_week/SHB/SHB_candlestick_chart.png)
+
+* [View Report](REPORT_week.md#SHB)
 * **Các Chỉ Số Chính:**
   * **Điểm Câu Chuyện VPA:** 85 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 102.6 (tương ứng +29.6% gain)
+  * **Điểm Hiệu Suất Tương Đối:** 88.1 (tương ứng +35.8% từ đáy 13.0)
   * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** HDB strong performer nhưng showing Buying Climax warning sau explosive bùng nổ khối lượng. Cần caution for potential retracement.
-* **Câu Chuyện VPA Nổi Bật:** Strong institutional rally culminating trong Buying Climax warning, momentum very strong but climax risk
-* **Hiệu Suất Tương Đối:** Excellent performance nhưng climax conditions suggest caution required
+* **Phân Tích Dẫn Dắt:** Câu chuyện đảo chiều ngoạn mục nhất ngành với rally từ 13.0 lên đỉnh 17.65. Khối lượng kỷ lục 734M trong tuần đột phá cho thấy sự quan tâm đặc biệt.
+* **Câu Chuyện VPA Nổi Bật:** Selling Climax hoàn hảo tại vùng 13.0 theo sau là Spring và Sign of Strength mạnh mẽ. Textbook Wyckoff pattern.
+* **Hiệu Suất Tương Đối:** Mức phục hồi 35.8% từ đáy tạo ra trong vòng 4 tuần, vượt trội toàn ngành về tốc độ và biên độ.
 
 ---
 
-#### **3. Asia Commercial Bank (ACB)**
+## **BAT_DONG_SAN**
 
-![View Chart](reports_week/ACB/ACB_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#ACB)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 88 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 88.8 (tương ứng +12.4% gain)
-  * **Mức Độ Tin Cậy:** 90%
-* **Phân Tích Dẫn Dắt:** ACB solid tích lũy tổ chức với healthy markup progression và good risk-reward profile. Most sustainable của top 3.
-* **Câu Chuyện VPA Nổi Bật:** Solid tích lũy tổ chức với healthy Không Có Nguồn Cung patterns, most sustainable strength
-* **Hiệu Suất Tương Đối:** Good performance với excellent risk-reward và hỗ trợ tổ chức
-
----
-
-## **THÉP**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Đồng Thuận**. Ngành thép có 100% cổ phiếu tích cực với HPG leading đợt tăng bùng nổ. Broad-based sự tham gia của tổ chức với all steel tickers showing positive tín hiệu VPA và đặc điểm đột phá.
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-02-17 - 2025-04-28
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành bất động sản có những người dẫn dắt cực mạnh nhưng sự lan tỏa chưa đồng đều với chỉ 38.5% cổ phiếu có hiệu suất dương. Tín hiệu VPA chủ đạo vẫn là Sign of Strength từ các blue-chip lớn như VHM, VIC, NVL tạo nên sự dẫn dắt rõ rệt cho toàn ngành.
 
 **Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
 
 | Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
 | :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**HPG**](REPORT_week.md#HPG) | 96.0 | 90% | Lãnh đạo thị trường +20.0% với khối lượng tổ chức khổng lồ |
-| 2    | [**MSR**](REPORT_week.md#MSR) | 90.2 | 85% | Mô hình đột phá sạch +18.1% với xác nhận tổ chức |
-| 3    | [**HSG**](REPORT_week.md#HSG) | 88.0 | 85% | Đột phá vững chắc +15.1% bước vào giai đoạn đánh dấu |
+| 1    | [**VHM**](#VHM) | 96.7 | 95% | Blue-chip với markup phase hoàn hảo +124.8% |
+| 2    | [**VIC**](#VIC) | 94.8 | 90% | Rally parabolic +156.8% đang trong điều chỉnh lành mạnh |
+| 3    | [**NVL**](#NVL) | 92.1 | 92% | Volume leader với test breakout potential |
 
 ---
 
@@ -568,113 +122,272 @@ Báo cáo này xác định các cổ phiếu dẫn dắt và đánh giá sức 
 
 ---
 
-#### **1. Hoa Phat Group (HPG)**
+#### **1. Vinhomes (VHM)**
 
-![View Chart](reports_week/HPG/HPG_candlestick_chart.png)
+![View Chart](reports_week/VHM/VHM_candlestick_chart.png)
 
-* [View Report](REPORT_week.md#HPG)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 92 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 100.0 (tương ứng +20.0% 8-week)
-  * **Mức Độ Tin Cậy:** 90%
-* **Phân Tích Dẫn Dắt:** HPG sector leader với explosive breakout và massive institutional volume. Climax concerns require caution but momentum remains strong.
-* **Câu Chuyện VPA Nổi Bật:** Major breakout trong early July trên massive volume, followed by healthy Kiểm Tra Nguồn Cung
-* **Hiệu Suất Tương Đối:** Leading steel sector với highest absolute gains và niềm tin tổ chức
-
----
-
-#### **2. Massan Group (MSR)**
-
-![View Chart](reports_week/MSR/MSR_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#MSR)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 88 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 98.1 (tương ứng +18.1% 8-week)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** MSR clean breakout từ accumulation với institutional xác nhận khối lượng. Cleanest technical pattern trong sector.
-* **Câu Chuyện VPA Nổi Bật:** Successful breakout từ long accumulation với sự tham gia của tổ chức confirmed
-* **Hiệu Suất Tương Đối:** Strong breakout performance với clean technical foundation
-
----
-
-#### **3. Hoa Sen Group (HSG)**
-
-![View Chart](reports_week/HSG/HSG_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#HSG)
-* **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 85 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 95.1 (tương ứng +15.1% 8-week)
-  * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** HSG emerging từ accumulation phase với strong breakout behavior và entering markup phase với consistent demand.
-* **Câu Chuyện VPA Nổi Bật:** Classic Wyckoff accumulation to markup transition với breakout confirmation
-* **Hiệu Suất Tương Đối:** Solid breakout performance trong established sector uptrend
-
----
-
-## **THỰC PHẨM**
-
-* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-05-01 - 2025-06-15
-* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành thực phẩm có 67% cổ phiếu tích cực với VNM và QNS dẫn dắt, trong khi MSN có distribution warning và KDC trong weakness phase. Defensive characteristics với mixed institutional interest.
-
-**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
-
-| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
-| :--- | :--------------- | :----------- | :--------- | :------------ |
-| 1    | [**VNM**](REPORT_week.md#VNM) | 93.2 | 95% | Hỗ trợ tổ chức mạnh nhất với sức mạnh liên tiếp |
-| 2    | [**QNS**](REPORT_week.md#QNS) | 87.5 | 85% | Mô hình tích lũy ổn định với đặc tính Không Có Nguồn Cung |
-| 3    | [**SAB**](REPORT_week.md#SAB) | 82.0 | 80% | Sức mạnh phục hồi sau kiểm tra hỗ trợ thành công |
-
----
-
-### **Phân Tích Chi Tiết Top 3:**
-
----
-
-#### **1. Vietnam Dairy (VNM)**
-
-![View Chart](reports_week/VNM/VNM_candlestick_chart.png)
-
-* [View Report](REPORT_week.md#VNM)
+* [View Report](REPORT_week.md#VHM)
 * **Các Chỉ Số Chính:**
   * **Điểm Câu Chuyện VPA:** 95 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 91.5 (tương ứng +4.98% weekly)
+  * **Điểm Hiệu Suất Tương Đối:** 99.2 (tương ứng +124.8% từ nền giá)
   * **Mức Độ Tin Cậy:** 95%
-* **Phân Tích Dẫn Dắt:** VNM demonstrates strongest tích lũy tổ chức trong sector với consecutive Signs of Strength và robust volume expansion.
-* **Câu Chuyện VPA Nổi Bật:** Strong weekly gain +4.8% trên 27% volume increase confirms institutional buying, leading sector
-* **Hiệu Suất Tương Đối:** Leading food sector với consistent hỗ trợ tổ chức và đặc điểm đột phá
+* **Phân Tích Dẫn Dắt:** VHM thể hiện đặc tính blue-chip với institutional accumulation pattern chuẩn mực. Từ vùng tích lũy 70s markup lên vùng 90s với gap-up moves và sustained Sign of Strength.
+* **Câu Chuyện VPA Nổi Bật:** Classic blue-chip institutional story với multiple phases: Accumulation → SOS → Test for Supply → Resume markup. Hiện đang trong healthy correction.
+* **Hiệu Suất Tương Đối:** Tăng 124.8% YTD, dẫn đầu large-cap real estate với performance ổn định và bền vững.
 
 ---
 
-#### **2. Quoc Cuong Gia Lai (QNS)**
+#### **2. Vingroup (VIC)**
 
-![View Chart](reports_week/QNS/QNS_candlestick_chart.png)
+![View Chart](reports_week/VIC/VIC_candlestick_chart.png)
 
-* [View Report](REPORT_week.md#QNS)
+* [View Report](REPORT_week.md#VIC)
+* **Các Chỉ Số Chính:**
+  * **Điểm Câu Chuyện VPA:** 92 / 100
+  * **Điểm Hiệu Suất Tương Đối:** 98.7 (tương ứng +156.8% từ nền giá)
+  * **Mức Độ Tin Cậy:** 90%
+* **Phân Tích Dẫn Dắt:** VIC có rally parabolic từ 40s lên đỉnh 124.70, hiện đang trong giai đoạn healthy correction về 104.0. High-beta real estate play với backing tổ chức mạnh.
+* **Câu Chuyện VPA Nổi Bật:** Parabolic move với extended No Supply period trước khi có Effort to Fall hiện tại. Pattern cho thấy overextended nhưng structure dài hạn vẫn mạnh.
+* **Hiệu Suất Tương Đối:** Mức tăng 156.8% YTD là highest performer nhưng đang cần thời gian consolidate sau run-up mạnh.
+
+---
+
+#### **3. NovaLand (NVL)**
+
+![View Chart](reports_week/NVL/NVL_candlestick_chart.png)
+
+* [View Report](REPORT_week.md#NVL)
+* **Các Chỉ Số Chính:**
+  * **Điểm Câu Chuyện VPA:** 90 / 100
+  * **Điểm Hiệu Suất Tương Đối:** 95.3 (tương ứng +63.5% từ nền giá)
+  * **Mức Độ Tin Cậy:** 92%
+* **Phân Tích Dẫn Dắt:** NVL là volume leader với massive spikes (187.6M volume gần đây) cho thấy institutional participation cực mạnh. Multiple Test for Supply phases tại vùng 17-18 chuẩn bị breakout.
+* **Câu Chuyện VPA Nổi Bật:** Classic accumulation với massive volume testing, No Supply condition được confirm nhiều lần, strong support tại 17.0 level.
+* **Hiệu Suất Tương Đối:** Tăng 63.5% YTD với volume pattern cho thấy potential breakout setup đang được build.
+
+---
+
+## **CHUNG_KHOAN**
+
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-02-03 - 2025-04-14
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành chứng khoán có những cổ phiếu dẫn dắt cực mạnh với các patterns climatic nhưng sự lan tỏa chỉ ở mức 43.5%. Nhiều cổ phiếu đang trong giai đoạn Buying Climax với rủi ro đảo chiều cao, cần thận trọng trong việc lựa chọn thời điểm vào lệnh.
+
+**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
+
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
+| :--- | :--------------- | :----------- | :--------- | :------------ |
+| 1    | [**HCM**](#HCM) | 88.2 | 85% | Breakout sạch với volume xác nhận mạnh |
+| 2    | [**VCI**](#VCI) | 85.8 | 90% | Performer ổn định nhất với volume mở rộng |
+| 3    | [**VIX**](#VIX) | 82.4 | 45% | Extreme gains +112% nhưng rủi ro climax cao |
+
+---
+
+### **Phân Tích Chi Tiết Top 3:**
+
+---
+
+#### **1. HoSE Securities (HCM)**
+
+![View Chart](reports_week/HCM/HCM_candlestick_chart.png)
+
+* [View Report](REPORT_week.md#HCM)
 * **Các Chỉ Số Chính:**
   * **Điểm Câu Chuyện VPA:** 85 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 90.0 (near yearly highs)
+  * **Điểm Hiệu Suất Tương Đối:** 92.9 (tương ứng +29.3% từ nền giá)
   * **Mức Độ Tin Cậy:** 85%
-* **Phân Tích Dẫn Dắt:** QNS healthiest technical pattern với consistent Không Có Nguồn Cung signals indicating steady accumulation without excessive volume.
-* **Câu Chuyện VPA Nổi Bật:** Consistent Không Có Nguồn Cung pattern với price advances on declining volume, very strong hands
-* **Hiệu Suất Tương Đối:** Quiet but effective accumulation pattern near highs
+* **Phân Tích Dẫn Dắt:** HCM có breakout pattern sạch sẽ nhất trong ngành với volume confirmation mạnh. Không có dấu hiệu climatic như các đồng nghiệp, tạo risk/reward ratio tốt nhất.
+* **Câu Chuyện VPA Nổi Bật:** Clean breakout pattern với massive volume surge, fundamentals mạnh tạo nền tảng vững chắc cho trend continuation.
+* **Hiệu Suất Tương Đối:** Tăng 29.3% trong 8 tuần với momentum đang gia tăng, an toàn nhất trong ngành securities.
 
 ---
 
-#### **3. Sabeco (SAB)**
+#### **2. Viet Capital Securities (VCI)**
 
-![View Chart](reports_week/SAB/SAB_candlestick_chart.png)
+![View Chart](reports_week/VCI/VCI_candlestick_chart.png)
 
-* [View Report](REPORT_week.md#SAB)
+* [View Report](REPORT_week.md#VCI)
 * **Các Chỉ Số Chính:**
-  * **Điểm Câu Chuyện VPA:** 78 / 100
-  * **Điểm Hiệu Suất Tương Đối:** 86.0 (recovery từ support)
-  * **Mức Độ Tin Cậy:** 80%
-* **Phân Tích Dẫn Dắt:** SAB recovery candidate với emerging strength after successful test của major support levels. Building momentum.
-* **Câu Chuyện VPA Nổi Bật:** Emerging từ deep correction với Nỗ Lực Tăng Giá và returning nhu cầu tổ chức
-* **Hiệu Suất Tương Đối:** Recovery momentum building sau successful support test
+  * **Điểm Câu Chuyện VPA:** 88 / 100
+  * **Điểm Hiệu Suất Tương Đối:** 82.4 (tương ứng +28.8% từ nền giá)
+  * **Mức Độ Tin Cậy:** 90%
+* **Phân Tích Dẫn Dắt:** VCI là most reliable performer với expanding volume pattern và consistent uptrend. Đây là lựa chọn an toàn nhất cho những ai muốn tham gia ngành securities.
+* **Câu Chuyện VPA Nổi Bật:** Steady và sustainable uptrend với expanding volume, không có extreme moves tạo stability cao trong volatile sector.
+* **Hiệu Suất Tương Đối:** Performance 28.8% ổn định với highest confidence score 90% trong top securities.
 
 ---
 
-*Báo cáo được tạo: 2025-07-26 | Phân tích dựa trên phương pháp VPA-SectorLead với manual natural language analysis*
+#### **3. VIX Securities (VIX)**
+
+![View Chart](reports_week/VIX/VIX_candlestick_chart.png)
+
+* [View Report](REPORT_week.md#VIX)
+* **Các Chỉ Số Chính:**
+  * **Điểm Câu Chuyện VPA:** 75 / 100
+  * **Điểm Hiệu Suất Tương Đối:** 95.2 (tương ứng +112.4% từ nền giá)
+  * **Mức Độ Tin Cậy:** 45%
+* **Phân Tích Dẫn Dắt:** VIX có extreme performance +112.4% trong 8 tuần nhưng đang trong giai đoạn parabolic cực rủi ro. Record volumes cho thấy climactic action với potential reversal risk cao.
+* **Câu Chuyện VPA Nổi Bật:** Extreme parabolic phase với record volumes - classic Buying Climax pattern. Maximum reversal risk tại current levels.
+* **Hiệu Suất Tương Đối:** Highest performer +112.4% nhưng confidence chỉ 45% do extreme overextension risk.
+
+---
+
+## **BAN_LE**
+
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-02-24 - 2025-04-21
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành bán lẻ có sự phân hóa rõ rệt với 50% cổ phiếu có hiệu suất dương. MWG và FRT dẫn dắt mạnh trong khi DGW và PNJ có performance tương đối ổn định.
+
+**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
+
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
+| :--- | :--------------- | :----------- | :--------- | :------------ |
+| 1    | [**MWG**](#MWG) | 85.4 | 80% | Dẫn dắt ngành với Sign of Strength patterns |
+| 2    | [**FRT**](#FRT) | 83.2 | 85% | No Supply patterns tốt, consolidation lành mạnh |  
+| 3    | [**PNJ**](#PNJ) | 82.6 | 75% | Jewelry sector strength với institutional rotation |
+
+---
+
+## **THEP**
+
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-03-03 - 2025-05-12  
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành thép có 30.8% cổ phiếu dương với sự dẫn dắt từ HPG và HSG. Institutional accumulation rõ rệt nhưng chưa lan tỏa đồng đều.
+
+**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
+
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
+| :--- | :--------------- | :----------- | :--------- | :------------ |
+| 1    | [**HPG**](#HPG) | 84.0 | 75% | Steel leader với Effort to Rise patterns |
+| 2    | [**HSG**](#HSG) | 81.2 | 70% | Test for Supply thành công, markup phase |
+| 3    | [**NKG**](#NKG) | 81.0 | 80% | 5 tuần tăng liên tiếp với institutional volume |
+
+---
+
+## **DAU_KHI**
+
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-03-03 - 2025-05-12
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành dầu khí có 37.5% breadth với BSR dẫn dắt mạnh mẽ. Mixed signals với GAS recovery trong khi PLX weakness.
+
+**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
+
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
+| :--- | :--------------- | :----------- | :--------- | :------------ |
+| 1    | [**BSR**](#BSR) | 81.8 | 90% | Record volumes với Sign of Strength cực mạnh |
+| 2    | [**PVS**](#PVS) | 81.4 | 75% | Test for Supply với tăng hoạt động |
+| 3    | [**GAS**](#GAS) | 80.5 | 70% | Recovery trend, cautiously positive |
+
+---
+
+## **CONG_NGHE**
+
+* **Giai Đoạn Nền Giá Tham Chiếu:** 2025-02-24 - 2025-04-21
+* **Đánh Giá Tổng Quan Ngành:** **Dẫn Dắt Phân Hóa**. Ngành công nghệ mixed performance với 22.2% breadth. FOX dẫn dắt rõ rệt trong khi FPT tại critical juncture.
+
+**Bảng Xếp Hạng Cổ Phiếu Dẫn Dắt:**
+
+| Hạng | Mã CP & Liên Kết | Điểm Dẫn Dắt | Độ tin cậy | Tóm Tắt Lý Do |
+| :--- | :--------------- | :----------- | :--------- | :------------ |
+| 1    | [**FOX**](#FOX) | 84.2 | 85% | Healthy pullback sau breakout, best risk/reward |
+| 2    | [**FPT**](#FPT) | 78.8 | 70% | Critical support test, potential reversal opportunity |
+| 3    | [**SGT**](#SGT) | 78.2 | 65% | No Supply patterns, consolidation phase |
+
+---
+
+## **BAO_HIEM**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (20% breadth)
+* **Top 3:** BIC (85.6), BVH (78.4), PVI (76.3) | **Dẫn dắt:** BIC với No Supply patterns
+
+## **BAT_DONG_SAN_KCN** 
+* **Giai Đoạn Nền Giá:** 2025-02-17 - 2025-04-28 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (16.7% breadth)  
+* **Top 3:** VGC (81.9), BCM (78.5), SIP (76.8) | **Dẫn dắt:** VGC với Sign of Strength
+
+## **CAO_SU**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Đang Tích Lũy** (0% breadth)
+* **Top 3:** PHR (78.4), DPR (77.6), GVR (76.5) | **Chủ đạo:** Effort to Rise patterns
+
+## **DAU_TU_CONG**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (37.5% breadth)
+* **Top 3:** VCG (88.7), HHV (82.2), C4G (81.4) | **Dẫn dắt:** VCG mạnh mẽ
+
+## **DET_MAY**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Yếu/Phân Phối** (0% breadth)
+* **Top 3:** MSH (79.4), TNG (78.8), VGT (78.5) | **Đặc điểm:** Toàn ngành yếu
+
+## **HANG_KHONG**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (43% breadth)
+* **Top 3:** HVN (91.8), ACV (84.2), VJC (81.4) | **Dẫn dắt:** HVN institutional strength
+
+## **HOA_CHAT**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (28.6% breadth)  
+* **Top 3:** DPM (89.2), DCM (82.8), DGC (81.6) | **Dẫn dắt:** DPM Selling Climax potential
+
+## **KHAI_KHOANG**
+* **Giai Đoạn Nền Giá:** 2025-03-03 - 2025-05-12 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (14.3% breadth)
+* **Top 3:** MSR (81.0), VPG (68.4), CST (66.5) | **Dẫn dắt:** MSR institutional breakout
+
+## **NANG_LUONG**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (50% breadth)
+* **Top 3:** POW (84.7), REE (82.8), HDG (81.0) | **Cân bằng:** POW và REE dẫn dắt
+
+## **NHUA**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (50% breadth)
+* **Top 3:** NTP (85.1), BMP (83.4), AAA (81.5) | **Momentum:** NTP No Supply strength
+
+## **NONG_NGHIEP**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (37.5% breadth)
+* **Top 3:** DBC (85.4), PAN (84.8), HAG (85.4) | **Mạnh mẽ:** DBC và PAN institutional
+
+## **PENNY**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (15.8% breadth)
+* **Top 3:** IPA (93.6), FIT (85.2), CSC (81.7) | **Rủi ro cao:** IPA extreme performance
+
+## **SUC_KHOE**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Đang Tích Lũy** (28.6% breadth)
+* **Top 3:** DHG (81.5), DVN (70.8), IMP (69.7) | **Yếu:** Toàn ngành consolidation
+
+## **THUC_PHAM**  
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (18.2% breadth)
+* **Top 3:** MSN (82.7), QNS (80.4), VNM (79.2) | **MSN dẫn dắt:** Sign of Strength
+
+## **THUY_SAN**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (25% breadth)
+* **Top 3:** ANV (93.4), MPC (78.2), VHC (79.5) | **ANV mạnh:** Institutional accumulation
+
+## **VAN_TAI**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (5.9% breadth)
+* **Top 3:** HAH (91.0), GMD (78.8), VTP (79.2) | **HAH nổi bật:** Recovery story
+
+## **VLXD**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (22.2% breadth)  
+* **Top 3:** HT1 (86.4), PTB (79.8), VLB (79.3) | **HT1 dẫn dắt:** Buying Climax potential
+
+## **XAY_DUNG**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (11.1% breadth)
+* **Top 3:** CII (91.6), HUT (83.2), CTD (78.8) | **CII mạnh:** Institutional volume
+
+## **XAY_LAP_DIEN**
+* **Giai Đoạn Nền Giá:** 2025-02-24 - 2025-04-21 | **Đánh Giá:** **Dẫn Dắt Phân Hóa** (40% breadth)
+* **Top 3:** PC1 (82.3), TV2 (74.2), CTR (73.0) | **PC1 dẫn dắt:** Infrastructure theme
+
+---
+
+## Tổng Kết & Khuyến Nghị Đầu Tư
+
+### 🏆 **Ngành Dẫn Dắt Mạnh Nhất:**
+1. **NGAN_HANG** - Duy nhất đạt "Dẫn Dắt Đồng Thuận" với 76.5% breadth
+2. **BAT_DONG_SAN** - Blue-chip leaders mạnh mẽ nhưng selective  
+3. **CHUNG_KHOAN** - Extreme performers nhưng rủi ro climax cao
+
+### 📊 **Phân Loại Ngành Theo Sức Khỏe:**
+- **Dẫn Dắt Đồng Thuận (1 ngành):** NGAN_HANG
+- **Dẫn Dắt Phân Hóa (23 ngành):** Majority - selective opportunities
+- **Đang Tích Lũy (2 ngành):** CAO_SU, SUC_KHOE  
+- **Yếu/Phân Phối (1 ngành):** DET_MAY
+
+### 💡 **Chiến Lược Đầu Tư:**
+- **Tấn Công:** Focus NGAN_HANG với participation rộng
+- **Chọn Lọc:** Top leaders trong BAT_DONG_SAN, CHUNG_KHOAN
+- **Thận Trọng:** Tránh climactic stocks (VIX, SHS, MBS)
+- **Tích Lũy:** Monitor CAO_SU, SUC_KHOE cho future breakouts
+
+**Cập nhật:** 2025-08-08 | **Chu kỳ:** Tuần | **Phương pháp:** VPA-SectorLead Manual Analysis
+
+---

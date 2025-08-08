@@ -345,8 +345,25 @@ python3 calculate_pnl_correct.py
 - Avoid overextended picks from leading sectors unless at attractive re-entry points - manual judgment
 - Consider sector rotation opportunities and value plays in emerging sectors - manual strategy
 
-### Step 6: Manual hold.md Generation
+### Step 6: Manual hold.md Generation (SECTION-BY-SECTION)
 **Objective**: Generate complete hold.md using manually verified fact sheets and manually determined final actions
+
+**🔄 SECTION-BY-SECTION GENERATION PROCESS** (To avoid long output messages):
+
+**CRITICAL IMPLEMENTATION APPROACH**:
+- **Generate hold.md in multiple separate sections** to prevent output truncation
+- **Each section must be complete and properly formatted**
+- **Agent must explicitly state which section is being generated**
+- **Use Write tool for initial file creation, Edit tool for subsequent sections**
+
+**📋 SECTION GENERATION ORDER** (Generate one section at a time):
+
+1. **SECTION 1 - File Header & Portfolio Summary**: Generate header, portfolio data table, and summary analysis
+2. **SECTION 2 - Individual Holdings Analysis Part 1**: Generate first 3-4 detailed ticker analyses for current holdings
+3. **SECTION 3 - Individual Holdings Analysis Part 2**: Generate next 3-4 detailed ticker analyses for current holdings
+4. **SECTION 4 - Individual Holdings Analysis Part 3**: Generate remaining detailed ticker analyses for current holdings
+5. **SECTION 5 - Diversification Expansion Analysis**: Generate detailed analysis for 3 diversified picks
+6. **SECTION 6 - Change Log & 5-Day Forecast**: Generate change log and market forecast sections
 
 #### 6.1 File Header
 ```markdown
@@ -390,9 +407,15 @@ python3 calculate_pnl_correct.py
 [Top 3 diversified recommendations with cross-sector analysis]
 ```
 
-#### 6.3 Individual Ticker Analysis (A-Z Order)
-For EVERY ticker, provide detailed breakdown:
+#### 6.2-6.4: Individual Ticker Analysis (SPLIT BY SECTIONS)
+**🔄 SPLIT GENERATION APPROACH**: For EVERY ticker, provide detailed breakdown across multiple sections
 
+**SECTION 2-4 Distribution Strategy**:
+- **SECTION 2**: First 3-4 current holdings (alphabetical order)  
+- **SECTION 3**: Next 3-4 current holdings (continue alphabetical)
+- **SECTION 4**: Remaining current holdings (complete alphabetical)
+
+**MANDATORY FORMAT** for EACH ticker analysis:
 ```markdown
 ### **[TICKER] ([INDUSTRY])**
 ![Weekly Chart](./reports_week/[TICKER]/[TICKER]_candlestick_chart.png)
@@ -417,9 +440,31 @@ For EVERY ticker, provide detailed breakdown:
   * **[TICKER3]**: [Reason based on weekly/daily VPA analysis]
 ```
 
-#### 6.4 Change Log Section
+#### 6.5: Diversification Expansion Analysis (SECTION 5)
+**🔄 SECTION 5 GENERATION**: Generate complete detailed analysis for 3 diversified picks with SAME format as current holdings
+
+**MANDATORY FORMAT** for EACH diversified pick (identical to current holdings format):
 ```markdown
-**3. Nhật Ký Thay Đổi Kế Hoạch**
+### **[TICKER] ([INDUSTRY])**
+![Weekly Chart](./reports_week/[TICKER]/[TICKER]_candlestick_chart.png)
+![Daily Chart](./reports/[TICKER]/[TICKER]_candlestick_chart.png)
+
+* **Giá Mua Đề Xuất:** [Recommended entry price range]
+* **Số Lượng Đề Xuất:** [Specific quantity in multiples of 100 shares]
+* **VPA Phân Tích Hiện Tại:** 
+  * **Bối Cảnh Tuần:** [Weekly VPA analysis from REPORT_week.md]
+  * **Bối Cảnh Ngày:** [Daily VPA analysis from REPORT.md]
+* **Phân Tích Thiết Lập:** [Entry point analysis and setup reasoning]
+* **Vùng Vào Tốt Nhất:** [Best entry zones with technical justification]
+* **Điểm Dừng Lỗ:** [Specific stop-loss level]
+* **Điểm Chốt Lời:** [Specific take-profit level(s)]
+```
+
+#### 6.6: Change Log & Forecast (SECTION 6)
+**🔄 SECTION 6 GENERATION**: Generate change log and 5-day market forecast
+
+```markdown
+**4. Nhật Ký Thay Đổi Kế Hoạch**
 
 * **Chuyển Từ Hold sang Buy/Buy More/Buy Fast/Prepare to Buy:**
   * [Document upgrades with specific protocol conditions and signals]
@@ -432,6 +477,9 @@ For EVERY ticker, provide detailed breakdown:
 
 * **Loại Bỏ/Thêm Mới Ticker:**
   * [Document additions or removals from portfolio]
+
+## 5. Dự Đoán 5 Ngày Kế Tiếp
+[Complete 5-day forecast with scenarios]
 ```
 
 ### Step 7: Manual Quality Verification

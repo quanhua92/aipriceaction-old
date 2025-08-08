@@ -259,8 +259,16 @@ For each ticker analysis, document:
 - **Confidence scores**: Based on manual evaluation of signal strength and context
 - **Complete audit trail**: Document all reasoning for state changes
 
-### Step 5: STAGE 2 - PLAN.md Creation Using Manual Natural Language Analysis
+### Step 5: STAGE 2 - PLAN.md Creation Using Manual Natural Language Analysis (SECTION-BY-SECTION)
 **Objective**: Create new PLAN.md using manual analysis and natural language understanding
+
+**🔄 SECTION-BY-SECTION GENERATION PROCESS** (To avoid long output messages):
+
+**CRITICAL IMPLEMENTATION APPROACH**:
+- **Generate PLAN.md in multiple separate sections** to prevent output truncation
+- **Each section must be complete and properly formatted**
+- **Agent must explicitly state which section is being generated**
+- **Use Write tool for initial file creation, Edit tool for subsequent sections**
 
 **MANUAL CREATION PROCESS - NO AUTOMATED UTILITIES**:
 
@@ -271,6 +279,16 @@ For each ticker analysis, document:
 - **Maintain professional Vietnamese financial writing style**
 - **Include proper audit trail** documenting all changes and reasoning
 - **EXACT OUTPUT FORMAT** as specified in template
+
+**📋 SECTION GENERATION ORDER** (Generate one section at a time):
+
+1. **SECTION 1 - File Header & VNINDEX Analysis**: Generate header, title, and market analysis section
+2. **SECTION 2 - Top List Generation**: Generate Top 15 opportunities organized by confidence tiers
+3. **SECTION 3 - Potential & Downgraded Lists**: Generate potential opportunities and downgraded sections
+4. **SECTION 4 - Individual Detailed Analysis Part 1**: Generate first 5-7 detailed ticker analyses
+5. **SECTION 5 - Individual Detailed Analysis Part 2**: Generate remaining detailed ticker analyses  
+6. **SECTION 6 - Audit Log**: Generate comprehensive change log
+7. **SECTION 7 - Trading Strategy**: Generate portfolio allocation and strategy section
 
 **Quality Standards**:
 - Organize Top List by confidence tiers (90-95%, 85-89%, 75-84%)
@@ -342,8 +360,13 @@ For each ticker analysis, document:
 - **Include reasoning**: Cite specific signals that triggered demotion
 - **Monitor for recovery**: Track potential reversal signals
 
-#### 5.5 Detailed Analysis for Top Tickers
-**MINIMUM REQUIREMENT**: Provide detailed analysis for **ALL TOP LIST TICKERS** (not just 10)
+#### 5.4 - SECTION 4 & 5: Individual Detailed Analysis (SPLIT APPROACH)
+**MINIMUM REQUIREMENT**: Provide detailed analysis for **ALL TOP LIST TICKERS** (Split into 2 parts to avoid long messages)
+
+**🔄 SPLIT GENERATION APPROACH**:
+- **SECTION 4**: Generate first 5-7 detailed ticker analyses
+- **SECTION 5**: Generate remaining detailed ticker analyses
+- **Each section must be generated separately** to prevent output truncation
 
 **MANDATORY FORMAT** for EACH ticker analysis section:
 ```markdown
@@ -361,7 +384,7 @@ For each ticker analysis, document:
 **CRITICAL REQUIREMENTS**:
 - **Current Price Format**: MUST use thousand dot format (e.g., 72.200 VNĐ, 23.550 VNĐ)
 - **Price Source**: Extract from latest CSV market data file using glob.glob(f'market_data/{TICKER}_*.csv') to find most recent file
-- **All Top List Tickers**: Every ticker in Top List must have detailed section
+- **All Top List Tickers**: Every ticker in Top List must have detailed section (split across 2 generations)
 - **Vietnamese Terms**: All analysis in professional Vietnamese financial terminology
 - **Chart Links**: Verify paths exist for both weekly and daily charts
 

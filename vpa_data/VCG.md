@@ -115,3 +115,5 @@
 **Ngày 2025-08-07:** VCG tăng từ 26.3 lên 26.4 (+1.93%) sau phiên cạn kiệt nguồn cung trước đó. Cây nến xanh có biên độ vừa phải (0.75 điểm, từ 25.85 đến 26.6) với đóng cửa gần mức cao nhất ngày. Khối lượng giao dịch tăng nhẹ lên 11.91 triệu cổ phiếu, tăng 11.62% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu "No Supply" của phiên trước, hành động giá hôm nay cho thấy sự trở lại của lực cầu. Việc giá tăng với biên độ vừa phải và khối lượng tăng nhẹ xác nhận rằng thị trường đang hấp thụ tốt lượng cung và tiếp tục xu hướng phục hồi. Mức đóng cửa gần đỉnh ngày cho thấy momentum tích cực. Đây là tín hiệu "Effort to Rise" củng cố cho giai đoạn phục hồi sau Selling Climax ngày 29/7, cho thấy khả năng tiếp tục tăng giá trong các phiên tới.
+**Ngày 2025-08-08:**
+VCG giảm nhẹ từ 26.75 xuống 26.35 (-0.19%) sau phiên Effort to Rise trước đó. Cây nến đỏ có biên độ vừa phải (0.9 điểm, từ 25.9 đến 26.8) với mức mở cửa gần đỉnh ngày 26.75 và test cao lên 26.8 trước khi về đóng cửa tại 26.35. Khối lượng giao dịch giảm xuống 10.26 triệu cổ phiếu, giảm 13.9% so với phiên trước.

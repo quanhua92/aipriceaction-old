@@ -56,3 +56,4 @@
 **Ngày 2025-08-07:** TV2 tăng nhẹ từ 39.9 lên 40.0 (+0.25%). Cây nến tăng có biên độ hẹp, với giá mở cửa bằng giá cao nhất ngày (40.25) và giá thấp nhất là 39.4. Khối lượng giao dịch giảm nhẹ xuống 535.3k cổ phiếu so với phiên trước (555k).
 
 **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu "No Supply" của phiên trước, hành động giá hôm nay cho thấy thị trường đang tiếp tục kiểm tra nguồn cung. Việc giá tăng nhẹ với khối lượng giảm cho thấy không có áp lực bán đáng kể tại vùng giá này. Điều này củng cố nhận định rằng nguồn cung đã cạn kiệt, và thị trường đang sẵn sàng cho một đợt tăng giá nếu lực cầu tiếp tục duy trì.
+**Ngày 2025-08-08:** TV2 tăng từ 40.0 lên 40.3 (+0.75%). Cây nến tăng có biên độ hẹp với spread 1.35 điểm (từ 39.65 đến 41.0) và đóng cửa ở mức trung bình-cao. Khối lượng giao dịch tăng mạnh gấp đôi lên 1.13 triệu cổ phiếu so với phiên trước (535k).

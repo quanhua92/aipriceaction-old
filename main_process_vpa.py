@@ -115,6 +115,47 @@ def get_dividend_info(dividend_folder):
     return dividend_info
 
 
+def get_dividend_tickers(week_mode=False):
+    """
+    Get list of tickers that have dividends available for optional adjustment
+    Returns set of ticker symbols (empty set if no dividends or folder doesn't exist)
+    """
+    dividend_folder = "market_data_check_dividends_week" if week_mode else "market_data_check_dividends"
+    dividend_path = Path(dividend_folder)
+    dividend_tickers = set()
+    
+    logging.debug(f"Scanning for optional dividend tickers in {dividend_folder}")
+    
+    if not dividend_path.exists():
+        logging.debug(f"No dividend folder found at {dividend_folder}")
+        return dividend_tickers
+    
+    # Look for *_dividend_info.txt files to get ticker names
+    info_files = list(dividend_path.glob("*_dividend_info.txt"))
+    
+    for info_file in info_files:
+        try:
+            with open(info_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract ticker name from file content
+            for line in content.strip().split('\n'):
+                if line.startswith('Ticker: '):
+                    ticker = line.replace('Ticker: ', '').strip()
+                    if ticker:
+                        dividend_tickers.add(ticker)
+                        logging.debug(f"Found optional dividend ticker: {ticker}")
+                    break
+                
+        except Exception as e:
+            logging.error(f"❌ Error reading dividend ticker from {info_file}: {e}")
+    
+    if dividend_tickers:
+        logging.info(f"📋 Found {len(dividend_tickers)} tickers with optional dividend adjustments: {sorted(dividend_tickers)}")
+    
+    return dividend_tickers
+
+
 def check_dividends_folder(week_mode=False):
     """
     Step 1: Check dividend adjustment folder
@@ -1485,6 +1526,12 @@ def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
         logging.error(f"❌ Error reading TICKERS.csv: {e}")
         return False
     
+    # Check for dividend tickers (for informational purposes only - they will be processed normally)
+    dividend_tickers = get_dividend_tickers(week_mode)
+    if dividend_tickers:
+        logging.info(f"📋 Found {len(dividend_tickers)} tickers with optional dividend adjustments: {sorted(dividend_tickers)}")
+        logging.info(f"✓ These tickers will be processed normally (dividend adjustment is optional)")
+    
     logging.info(f"📊 Processing {len(tickers)} tickers for {'weekly' if week_mode else 'daily'} VPA analysis using {agent.upper()}")
     
     # Build ticker-dates mapping for tickers that need processing
@@ -1603,15 +1650,33 @@ def main():
                        help='Show detailed prompts and context sent to AI agents')
     parser.add_argument('--workers', type=int, default=4,
                        help='Number of parallel workers for VPA processing (default: 4)')
+    parser.add_argument('--fix-dividends', action='store_true',
+                       help='Process dividend adjustments for tickers in market_data_check_dividends/')
+    
+    # Check if user explicitly specified agent before parsing
+    import sys
+    user_specified_agent = '--agent' in sys.argv
     
     args = parser.parse_args()
+    
+    # Determine dividend agent to use (without modifying args.agent)
+    if args.fix_dividends and not user_specified_agent:
+        dividend_agent = 'gemini-2.5-flash'
+    else:
+        dividend_agent = args.agent
     
     # Setup logging first
     log_file = setup_logging(debug=args.debug)
     
+    # Show agent selection info for fix-dividends mode
+    if args.fix_dividends and not user_specified_agent:
+        logging.info(f"🔧 Fix-dividends mode: Using default agent {dividend_agent}")
+    elif args.fix_dividends and user_specified_agent:
+        logging.info(f"🔧 Fix-dividends mode: Using user-specified agent {dividend_agent}")
+    
     logging.info("🚀 Starting VPA Processing Coordinator")
     logging.info(f"📅 Mode: {'Weekly' if args.week else 'Daily'}")
-    logging.info(f"🤖 AI Agent: {args.agent.upper()}")
+    logging.info(f"🤖 AI Agent: {dividend_agent.upper() if args.fix_dividends else args.agent.upper()}")
     logging.info(f"👥 Parallel Workers: {args.workers}")
     logging.info(f"📁 Data folders: {'market_data_week, vpa_data_week' if args.week else 'market_data, vpa_data'}")
     logging.info(f"📄 Log file: {log_file}")
@@ -1620,32 +1685,43 @@ def main():
     logging.info(f"⏰ Started at: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
     
     try:
-        # Step 1: Check and process dividends
-        logging.info("\n📋 Step 1: Checking dividend adjustments...")
-        dividend_info = check_dividends_folder(args.week)
-        
-        if dividend_info is None:
-            # No dividends found, continue to VPA analysis
-            pass
-        elif len(dividend_info) == 0:
-            # Error in dividend detection
-            logging.error("❌ Error in dividend detection - check dividend files manually")
-            return 1
-        else:
-            # Process dividends with AI agent
-            logging.info(f"🔄 Processing {len(dividend_info)} dividend adjustments...")
-            dividend_start = datetime.now()
+        # Check if we're in fix-dividends mode
+        if args.fix_dividends:
+            logging.info("\n📋 Running in DIVIDEND FIX mode...")
+            dividend_info = check_dividends_folder(args.week)
             
-            if not process_dividends(dividend_info, args.week, args.agent, args.verbose):
-                logging.error("❌ Some dividend adjustments failed")
-                logging.warning("⚠️  Continuing with VPA analysis using existing data")
+            if dividend_info is None:
+                logging.info("✓ No dividends found - nothing to fix")
+                return 0
+            elif len(dividend_info) == 0:
+                logging.error("❌ Error in dividend detection - check dividend files manually")
+                return 1
             else:
-                logging.info("✅ All dividend adjustments completed successfully")
-            
-            dividend_duration = datetime.now() - dividend_start
-            logging.info(f"⏱️  Dividend processing took: {dividend_duration}")
+                # Process dividends with AI agent
+                logging.info(f"🔄 Processing {len(dividend_info)} dividend adjustments...")
+                dividend_start = datetime.now()
+                
+                if not process_dividends(dividend_info, args.week, dividend_agent, args.verbose):
+                    logging.error("❌ Some dividend adjustments failed")
+                    return 1
+                else:
+                    logging.info("✅ All dividend adjustments completed successfully")
+                
+                dividend_duration = datetime.now() - dividend_start
+                logging.info(f"⏱️  Dividend processing took: {dividend_duration}")
+                
+                total_duration = datetime.now() - start_time
+                logging.info(f"\n🎉 Dividend Fix Complete!")
+                logging.info(f"⏱️  Total time: {total_duration}")
+                logging.info(f"📄 Full log saved to: {log_file}")
+                return 0
         
-        # Step 2: Process tickers
+        # Regular processing mode - detect dividends but don't process them
+        # Step 1: Check for dividend tickers (detection only, no processing)
+        logging.info("\n📋 Step 1: Checking for dividend adjustments...")
+        dividend_tickers = get_dividend_tickers(args.week)
+        
+        # Step 2: Process all tickers (including dividend tickers with current prices)
         logging.info("\n📋 Step 2: Processing ticker VPA analysis...")
         process_start = datetime.now()
         success = process_tickers(args.week, args.agent, args.verbose, args.workers)
@@ -1690,6 +1766,31 @@ def main():
         logging.info(f"⏱️  Total time: {total_duration}")
         logging.info(f"📁 Check {'VPA_week.md' if args.week else 'VPA.md'} for final results")
         logging.info(f"📄 Full log saved to: {log_file}")
+        
+        # Show dividend info if dividends are available (optional)
+        if dividend_tickers:
+            logging.info("")
+            logging.info("=" * 80)
+            logging.info("💡 OPTIONAL DIVIDEND ADJUSTMENTS AVAILABLE 💡")
+            logging.info("=" * 80)
+            logging.info("")
+            logging.info(f"📋 The following {len(dividend_tickers)} tickers have optional dividend adjustments available:")
+            for ticker in sorted(dividend_tickers):
+                logging.info(f"   • {ticker}")
+            logging.info("")
+            logging.info("✓ These tickers were processed normally with current prices.")
+            logging.info("🔧 If you want to apply dividend price adjustments, run:")
+            logging.info("")
+            fix_cmd = f"uv run main_process_vpa.py --agent gemini-2.5-flash --fix-dividends"
+            if args.week:
+                fix_cmd += " --week"
+            if args.verbose:
+                fix_cmd += " --verbose"
+            if args.debug:
+                fix_cmd += " --debug"
+            logging.info(f"   {fix_cmd}")
+            logging.info("")
+            logging.info("=" * 80)
         
         return 0
         
