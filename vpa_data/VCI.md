@@ -118,3 +118,4 @@ Sau tín hiệu "Spring and Test" mạnh mẽ và "Không có cung" của các p
 
 **Phân tích VPA/Wyckoff:** Test for Supply (Kiểm tra nguồn cung)
 **Ngày 2025-08-08:** VCI giảm từ 46.5 xuống 45.5 (-2.15%) với biên độ dao động rộng (3.1 điểm). Giá mở cửa tại 47.05, tạo đỉnh phiên 48.1 (đỉnh mới) nhưng bị đẩy xuống mức thấp 45.0 và đóng cửa ở 45.5. Khối lượng giao dịch tăng lên 18.41 triệu đơn vị, cao hơn 32.7% so với phiên trước (13.87 triệu) nhưng vẫn thấp hơn đáng kể so với ngày "Spring and Test" (33.42 triệu).
+**Ngày 2025-08-11:** VCI phục hồi từ 45.5 lên 45.9 (+0.88%) với biên độ dao động hẹp (1.5 điểm). Giá mở cửa tại 45.6, tạo đỉnh phiên 46.6 và mức thấp 45.1, đóng cửa ở 45.9 gần mức cao nhất phiên. Khối lượng giao dịch giảm xuống 14.54 triệu đơn vị, thấp hơn 21% so với phiên trước (18.41 triệu) và tiếp tục xu hướng giảm dần từ mức đỉnh 33.42 triệu của ngày "Spring and Test" 05/08.

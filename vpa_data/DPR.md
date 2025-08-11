@@ -106,3 +106,4 @@
 **Ngày 2025-08-08:** DPR tiếp tục tăng từ 40.95 lên 41.2. Cây nến tăng có biên độ rộng với mức cao 41.55 và mức thấp 40.5, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 1.05 triệu đơn vị, tăng 41% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tiếp diễn, xác nhận sức mạnh của phiên trước. Sau tín hiệu SOS ngày 2025-08-07, việc giá tiếp tục tăng mạnh với khối lượng gia tăng đáng kể cho thấy lực cầu đang hoàn toàn kiểm soát thị trường. Giá đã vượt qua vùng kháng cự nhẹ 41.4 và đóng cửa ở mức cao, cho thấy sự đồng thuận của bên mua. Tín hiệu này củng cố xu hướng tăng giá trong ngắn hạn và cho thấy DPR có khả năng tiếp tục tiến lên các vùng giá cao hơn.
+**Ngày 2025-08-11:** DPR tăng mạnh từ 41.2 lên 42.3. Cây nến tăng có biên độ rộng với mức cao 42.65 và mức thấp 41.4, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng lên 1.55 triệu đơn vị, tăng 47% so với phiên trước.

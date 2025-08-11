@@ -111,3 +111,4 @@
 **Ngày 2025-08-08:** DBC tăng mạnh từ 30.25 lên 30.95. Cây nến tăng có biên độ rộng với mức mở cửa 30.55 và dao động trong khoảng 30.05-31.45, đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng nhẹ lên 12.76 triệu đơn vị, tăng 4.7% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Tình trạng **Effort to Rise** xuất hiện. Sau tín hiệu **Weakness in Rally** của phiên trước, việc giá test thành công vùng hỗ trợ 30.05 (mức thấp của phiên trước) và sau đó tăng mạnh mẽ để đóng cửa ở mức cao nhất phiên cho thấy lực cầu đã hoàn toàn hấp thụ áp lực cung. Khối lượng tăng nhẹ củng cố cho nỗ lực tăng giá này. Tín hiệu này phủ nhận sự yếu kém của phiên hôm qua và cho thấy xu hướng tăng giá có khả năng tiếp tục.
+**Ngày 2025-08-11:** DBC dao động từ 30.95 lên 31.0. Cây nến tăng có biên độ hẹp với mức mở cửa 31.5 và dao động trong khoảng 30.95-31.65, đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch giảm về 10.99 triệu đơn vị, giảm 13.9% so với phiên trước.

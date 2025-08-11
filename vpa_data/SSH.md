@@ -112,3 +112,4 @@
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** của phiên trước, hành động giá hôm nay tiếp tục cho thấy sự củng cố của xu hướng tăng. Việc giá tăng và đóng cửa ở mức cao nhất phiên cho thấy lực cầu vẫn đang kiểm soát. Mặc dù khối lượng giảm nhẹ, nhưng trong bối cảnh đã có tín hiệu cạn kiệt nguồn cung (No Supply) trước đó, điều này cho thấy giá đang dễ dàng tăng lên do thiếu áp lực bán. Đây là một tín hiệu tích cực, củng cố cho giai đoạn phục hồi và khả năng tiếp tục xu hướng tăng. SSH đang duy trì đà tăng sau khi vượt qua vùng kháng cự 91-92.
 **Ngày 2025-08-08:** SSH duy trì ở mức 93.0 với mức mở cửa 92.7, test cao lên 93.6 và mức thấp nhất 92.6. Cây nến doji có biên độ hẹp và khối lượng giao dịch giảm (22.200 đơn vị) so với phiên trước.
+**Ngày 2025-08-11:** SSH tăng mạnh từ 93.0 lên 95.0. Cây nến tăng có biên độ rộng với mức mở cửa 93.2 và test cao lên 98.6 trước khi đóng cửa ở 95.0. Khối lượng giao dịch tăng mạnh (32.000 đơn vị) so với phiên trước.

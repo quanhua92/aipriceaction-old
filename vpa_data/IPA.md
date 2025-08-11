@@ -108,3 +108,5 @@ IPA dao động mạnh từ 21.6 xuống 20.7, mở cửa ở 21.7 và dao độ
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Xác nhận lực cầu**. Sau phiên **No Supply** tích cực của ngày 2025-08-06 cho thấy áp lực bán đã suy yếu, sự tăng giá nhẹ trên khối lượng gia tăng đáng kể của ngày hôm nay xác nhận rằng lực cầu đã quay trở lại và đang hấp thụ lượng cung còn lại. Mặc dù biên độ nến hẹp, việc giá đóng cửa cao hơn và khối lượng tăng mạnh cho thấy thị trường đang chuẩn bị cho một đợt tăng giá mới. IPA đang củng cố xu hướng tăng sau giai đoạn test cung.
 **Ngày 2025-08-08:**
 IPA giảm nhẹ từ 21.0 xuống 20.5, mở cửa ở 21.2 và dao động trong khoảng 20.0-21.7. Cây nến giảm có biên độ rộng (1.7 điểm) với thân nến âm, test xuống vùng support 20.0 trước khi phục hồi. Khối lượng giao dịch tăng lên 906.0k đơn vị, tăng 23% so với phiên trước.
+**Ngày 2025-08-11:**
+IPA phục hồi mạnh từ 20.5 lên 21.4, mở cửa ở 20.7 và dao động trong khoảng hẹp 20.6-21.4. Cây nến tăng có biên độ hẹp (0.8 điểm) với thân nến dương mạnh, đóng cửa ở mức cao nhất phiên 21.4. Khối lượng giao dịch giảm xuống 806.2k đơn vị, giảm 11% so với phiên trước.

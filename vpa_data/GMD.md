@@ -116,3 +116,4 @@
 **Ngày 2025-08-08:** GMD giảm từ 60.0 xuống 59.0. Cây nến giảm có biên độ rộng với mức cao 60.3 và mức thấp 58.4. Khối lượng giao dịch giảm (3.95 triệu đơn vị), giảm 37% so với phiên trước.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** hoặc một nhịp điều chỉnh tự nhiên sau phiên **Effort to Rise** bùng nổ ngày hôm trước. Sau khi giá bứt phá mạnh mẽ qua vùng kháng cự, việc giá điều chỉnh giảm trở lại với khối lượng thấp hơn đáng kể (giảm 37%) là một dấu hiệu tích cực. Nó cho thấy áp lực bán chốt lời không lớn và lực cung không áp đảo. Giá đã kiểm tra lại vùng hỗ trợ mới quanh mức 59.0 và giữ được mức này khi đóng cửa. Đây là một diễn biến lành mạnh, cho thấy xu hướng tăng vẫn được bảo toàn và GMD đang củng cố vị thế trước khi có thể tiếp tục đi lên.
+**Ngày 2025-08-11:** GMD giảm từ 59.0 xuống 58.9. Cây nến giảm có biên độ rộng với mức cao 61.0 và mức thấp 58.9. Khối lượng giao dịch tăng (4.33 triệu đơn vị), tăng 9.5% so với phiên trước.

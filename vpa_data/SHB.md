@@ -93,3 +93,4 @@
 
 **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Supply** tích cực của phiên 06/8, đây là tín hiệu tiếp diễn cho thấy lực cầu vẫn đang kiểm soát. Việc giá tăng nhẹ với khối lượng tăng nhẹ cho thấy không có áp lực bán đáng kể và thị trường đang hấp thụ nguồn cung một cách dễ dàng. Điều này củng cố xu hướng tăng và cho thấy khả năng tiếp tục đi lên sau giai đoạn kiểm tra cung cầu.
 **Ngày 2025-08-08:** SHB giảm nhẹ từ 18.85 xuống 18.65. Cây nến giảm có biên độ hẹp với mức cao nhất 19.35 và thấp nhất 18.5. Khối lượng giao dịch tăng nhẹ lên 94.65 triệu đơn vị, tăng 2.4% so với phiên trước.
+**Ngày 2025-08-11:** SHB tăng mạnh từ 18.65 lên 19.1. Cây nến tăng có biên độ rộng với mức mở cửa 18.8, dao động trong khoảng 18.6-19.4 và đóng cửa tại 19.1. Khối lượng giao dịch tăng đáng kể lên 113.99 triệu đơn vị, tăng 20% so với phiên trước.

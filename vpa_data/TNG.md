@@ -94,3 +94,4 @@
 
 **Phân tích VPA/Wyckoff:** **Effort to Rise / Sign of Strength (SOS)** - Tín hiệu tăng giá mạnh mẽ với khối lượng bùng nổ xác nhận xu hướng tăng đã được thiết lập vững chắc sau giai đoạn cạn cung. Đây là dấu hiệu của sự hấp thụ mạnh mẽ và khả năng cao sẽ tiếp tục đà tăng trong các phiên tới.
 **Ngày 2025-08-08:** TNG giảm nhẹ từ 21.8 xuống 21.5 (-0.92%) sau phiên tăng mạnh. Thanh nến đỏ có biên độ hẹp 0.8 điểm (từ 21.1 đến 21.9) với đóng cửa ở mức trung bình phạm vi giao dịch. Khối lượng giao dịch giảm mạnh xuống 1.934 triệu cổ phiếu, giảm 53% so với phiên trước (4.089 triệu) và trở về mức bình thường.
+**Ngày 2025-08-11:** TNG tăng mạnh từ 21.5 lên 22.4 (+4.19%) với biên độ dao động rộng 1.3 điểm (từ 21.5 đến 22.8). Thanh nến xanh đóng cửa gần mức cao nhất phiên với test lên đỉnh 22.8. Khối lượng giao dịch tăng vọt lên 5.668 triệu cổ phiếu, tăng gần gấp 3 lần (193%) so với phiên trước và cao nhất trong 2 tuần qua.
