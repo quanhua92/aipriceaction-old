@@ -1,71 +1,61 @@
 # PLAN.md - Kế Hoạch Giao Dịch Hàng Ngày
 
-*Cập nhật: 2025-08-11 | Phân tích theo phương pháp VPA-Strategist*
+*Cập nhật: 2025-08-12 | Phân tích theo phương pháp VPA-Strategist*
 
 ## 1. Phân Tích Trạng Thái VNINDEX & Chiến Lược
 
 ![Weekly Chart](reports_week/VNINDEX/VNINDEX_candlestick_chart.png) ![Daily Chart](reports/VNINDEX/VNINDEX_candlestick_chart.png)
 
-**Bối Cảnh Tuần**: VNINDEX duy trì xu hướng tăng vững chắc với nền tảng mạnh mẽ được thiết lập tại vùng 1570-1580. Báo cáo tuần cho thấy thị trường đã hoàn tất giai đoạn kiểm tra và xác nhận khả năng tăng trưởng bền vững với sự tham gia của dòng vốn tổ chức.
+**Bối Cảnh Tuần**: VNINDEX đã thiết lập xu hướng tăng mạnh mẽ và bền vững với chuỗi tín hiệu "Sign of Strength" liên tiếp. Từ test thành công tại vùng 1585-1590, chỉ số đã vượt qua tất cả các vùng kháng cự quan trọng và đang hướng tới mục tiêu 1620-1630.
 
-**Hành Động Gần Đây**: Ngày 11/08 VNINDEX tiếp tục củng cố xu hướng tăng, đạt mức đóng cửa 1596.86 (+0.75%) với khối lượng 1.63 tỷ đơn vị. Việc vượt qua và duy trì vững vàng trên ngưỡng 1590 với momentum tích cực xác nhận xu hướng tăng đang được mở rộng mạnh mẽ.
+**Hành Động Gần Đây**: Ngày 12/08 VNINDEX tiếp tục củng cố xu hướng tăng mạnh mẽ, đạt mức đóng cửa 1608.22 (+0.71%) với khối lượng 1.65 tỷ đơn vị. Việc thiết lập đỉnh mới liên tiếp tại 1608.23 điểm với momentum vững chắc xác nhận thị trường đang ở giai đoạn markup mạnh mẽ.
 
-**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Vùng hỗ trợ 1585-1595 hiện tại là nền tảng vững chắc cho xu hướng tăng. Với đóng cửa 1596.86 và động lực mạnh mẽ, mọi nhịp điều chỉnh về vùng 1585-1590 sẽ là cơ hội gia tăng tỷ trọng cho mục tiêu 1620-1640.
+**Vùng Tốt Nhất Để Gia Tăng Tỷ Trọng**: Với đóng cửa 1608.22 và động lực mạnh mẽ, vùng hỗ trợ hiện tại 1600-1605 là nền tảng vững chắc cho xu hướng tăng. Mọi nhịp điều chỉnh về vùng 1595-1600 sẽ là cơ hội gia tăng tỷ trọng cho mục tiêu 1630-1650.
 
-## 2. Top 16 Cơ Hội Giao Dịch Chất Lượng
+## 2. Top 10 Cơ Hội Giao Dịch Chất Lượng
 
 ### Nhóm Tin Cậy Cao (90-95%) - Danh Mục Cốt Lõi
-1. [**VPB**](#VPB) (Ngân Hàng) - **95%** - Dẫn dắt ngành ngân hàng với momentum mạnh mẽ - [View Report](REPORT.md#VPB)
-2. [**VHM**](#VHM) (Bất Động Sản) - **92%** - Trụ cột bất động sản vững chắc, duy trì sức mạnh - [View Report](REPORT.md#VHM)
-3. [**VND**](#VND) (Chứng Khoán) - **90%** - Dẫn dắt chứng khoán, khối lượng mạnh - [View Report](REPORT.md#VND)
+1. [**VPB**](#VPB) (Ngân Hàng) - **95%** - Dẫn dắt ngành ngân hàng với nền tảng vững chắc - [View Report](REPORT.md#VPB)
+2. [**BID**](#BID) (Ngân Hàng) - **95%** - Đột phá mạnh mẽ với khối lượng tổ chức - [View Report](REPORT.md#BID)
+3. [**HDB**](#HDB) (Ngân Hàng) - **90%** - Breakout xuất sắc với momentum mạnh - [View Report](REPORT.md#HDB)
 
 ### Nhóm Tin Cậy Tốt (85-89%) - Nắm Giữ Chiến Lược  
-4. [**BID**](#BID) (Ngân Hàng) - **87%** - Ngân hàng lớn duy trì sức mạnh tổ chức - [View Report](REPORT.md#BID)
-5. [**CMG**](#CMG) (Công Nghệ) - **85%** - Công nghệ dẫn đầu với xu hướng tăng vững chắc - [View Report](REPORT.md#CMG)
-6. [**BSI**](#BSI) (Chứng Khoán) - **85%** - Sign of Strength mạnh mẽ, chứng khoán nổi bật - [View Report](REPORT.md#BSI)
+4. [**VHM**](#VHM) (Bất Động Sản) - **87%** - Trụ cột bất động sản với sector mạnh - [View Report](REPORT.md#VHM)
+5. [**KDH**](#KDH) (Bất Động Sản) - **85%** - Dẫn đầu bất động sản với breakout mạnh - [View Report](REPORT.md#KDH)
+6. [**CMG**](#CMG) (Công Nghệ) - **85%** - Công nghệ vững chắc với sector support - [View Report](REPORT.md#CMG)
 
 ### Nhóm Tin Cậy Trung Bình (80-84%) - Vị Thế Chiến Lược
-7. [**BVH**](#BVH) (Bảo Hiểm) - **83%** - Đột phá mạnh mẽ trong ngành bảo hiểm - [View Report](REPORT.md#BVH)
-8. [**CII**](#CII) (Xây Dựng) - **82%** - Gap up mạnh mẽ, xây dựng phục hồi - [View Report](REPORT.md#CII)
-9. [**TNG**](#TNG) (Dệt May) - **81%** - Đột phá mạnh +4.19% với khối lượng bùng nổ - [View Report](REPORT.md#TNG)
-10. [**DPR**](#DPR) (Cao Su) - **80%** - Cao su dẫn đầu với Sign of Strength - [View Report](REPORT.md#DPR)
-
-### Nhóm Cơ Hội Phát Triển (75-79%) - Tăng Trưởng Chiến Thuật
-11. [**MWG**](#MWG) (Bán Lẻ) - **78%** - Dẫn đầu phục hồi bán lẻ, nền tảng tiêu dùng - [View Report](REPORT.md#MWG)
-12. [**DVN**](#DVN) (Sức Khỏe) - **77%** - Effort to Rise mạnh mẽ trong y tế - [View Report](REPORT.md#DVN)
-13. [**DRC**](#DRC) (Cao Su) - **76%** - Vượt kháng cự thành công, cao su mạnh - [View Report](REPORT.md#DRC)
-14. [**TCH**](#TCH) (Bất Động Sản) - **75%** - Phục hồi sau test, bất động sản tiềm năng - [View Report](REPORT.md#TCH)
-
-### Nhóm Theo Dõi Đặc Biệt (70-74%) - Tiềm Năng Tăng Cấp
-15. [**GAS**](#GAS) (Dầu Khí) - **73%** - Năng lượng hạ tầng duy trì vị thế - [View Report](REPORT.md#GAS)
-16. [**FOX**](#FOX) (Công Nghệ) - **72%** - Công nghệ tăng trưởng, cơ hội theo dõi - [View Report](REPORT.md#FOX)
+7. [**BSI**](#BSI) (Chứng Khoán) - **83%** - Consolidation lành mạnh sau đột phá - [View Report](REPORT.md#BSI)
+8. [**HDC**](#HDC) (Bất Động Sản) - **80%** - Bất động sản mạnh với sector tailwind - [View Report](REPORT.md#HDC)
+9. [**CTS**](#CTS) (Chứng Khoán) - **80%** - Chứng khoán breakout với volume mạnh - [View Report](REPORT.md#CTS)
+10. [**MBB**](#MBB) (Ngân Hàng) - **80%** - Ngân hàng ổn định với khối lượng khổng lồ - [View Report](REPORT.md#MBB)
 
 ## 3. Danh Sách Cổ Phiếu Tiềm Năng
 
 ### Cơ Hội Tăng Trưởng Mạnh
-- [**ACB**](#ACB) (Ngân Hàng) - Effort to Rise trong ngành ngân hàng mạnh - [View Report](REPORT.md#ACB)
-- [**HDB**](#HDB) (Ngân Hàng) - Phục hồi ngân hàng với tiềm năng lớn - [View Report](REPORT.md#HDB)
-- [**SSI**](#SSI) (Chứng Khoán) - Test đỉnh mới sau phục hồi mạnh - [View Report](REPORT.md#SSI)
+- [**VIX**](#VIX) (Chứng Khoán) - Phục hồi mạnh +2.56% sau test, chứng khoán rotation - [View Report](REPORT.md#VIX)
+- [**FPT**](#FPT) (Công Nghệ) - Technology leader với momentum ổn định - [View Report](REPORT.md#FPT)
+- [**CTG**](#CTG) (Ngân Hàng) - Ngân hàng tăng đều với sector strength - [View Report](REPORT.md#CTG)
 
 ### Cơ Hội Theo Dõi Đặc Biệt
-- [**HPG**](#HPG) (Thép) - Đà phục hồi trong ngành thép, momentum tích cực - [View Report](REPORT.md#HPG)
-- [**NVL**](#NVL) (Bất Động Sản) - No Supply tuần, bất động sản củng cố - [View Report](REPORT.md#NVL)
-- [**REE**](#REE) (Năng Lượng) - Năng lượng hạ tầng phục hồi - [View Report](REPORT.md#REE)
+- [**TCH**](#TCH) (Bất Động Sản) - Bất động sản hưởng lợi từ sector mạnh - [View Report](REPORT.md#TCH)
+- [**VRE**](#VRE) (Bất Động Sản) - Holding pattern trong sector tích cực - [View Report](REPORT.md#VRE)
+- [**VCB**](#VCB) (Ngân Hàng) - Blue-chip banking với institutional support - [View Report](REPORT.md#VCB)
 
 ### Cơ Hội Cần Xác Nhận
-- [**HDC**](#HDC) (Bất Động Sản) - No Supply tuần, cần xác nhận tín hiệu daily - [View Report](REPORT.md#HDC)
-- [**MBS**](#MBS) (Chứng Khoán) - Chứng khoán mở rộng cơ hội - [View Report](REPORT.md#MBS)
-- [**POW**](#POW) (Năng Lượng) - Effort to Rise tuần trong năng lượng - [View Report](REPORT.md#POW)
+- [**SSI**](#SSI) (Chứng Khoán) - Test for Supply cần xác nhận direction - [View Report](REPORT.md#SSI)
+- [**REE**](#REE) (Năng Lượng) - Sign of Strength cần follow-through - [View Report](REPORT.md#REE)
+- [**PLX**](#PLX) (Dầu Khí) - Năng lượng có tiềm năng rotation - [View Report](REPORT.md#PLX)
 
 ## 4. Danh Sách Hạ Ưu Tiên
 
 ### Cần Recovery Confirmation
-- [**BSR**](#BSR) (Dầu Khí) - Tạm dừng momentum, cần xác nhận phục hồi trong năng lượng
-- [**VIX**](#VIX) (Chứng Khoán) - Test for Supply sau upthrust, cần theo dõi cẩn thận
+- [**VND**](#VND) (Chứng Khoán) - Healthy pullback -2.23%, sector context mixed, chờ stabilization
+- [**FOX**](#FOX) (Công Nghệ) - Technology laggard -1.75% dù sector mạnh
 
 ### Theo Dõi Để Vào Lại  
-- [**DCM**](#DCM) (Hóa Chất) - Yếu kém tạm thời trong hóa chất, chờ cơ hội phục hồi
-- [**ANV**](#ANV) (Thủy Sản) - Xu hướng giảm ngắn hạn, cần đảo chiều để vào lại
+- [**VIC**](#VIC) (Bất Động Sản) - Real estate giant thiếu momentum so với peers
+- [**BSR**](#BSR) (Dầu Khí) - Năng lượng consolidation, chờ sector catalyst
 
 ## 5. Phân Tích Chi Tiết Các Cổ Phiếu Hàng Đầu
 
@@ -73,229 +63,168 @@
 ![Weekly Chart](reports_week/VPB/VPB_candlestick_chart.png) ![Daily Chart](reports/VPB/VPB_candlestick_chart.png)
 
 * **Giá Hiện Tại:** 29.600 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength vững chắc, dẫn dắt ngành ngân hàng với momentum mạnh mẽ
-* **Tín Hiệu VPA Ngày:** Tiếp tục duy trì sức mạnh ngày 11/08 với khối lượng 33.78 triệu đơn vị
-* **Bối Cảnh Ngành:** Dẫn đầu ngành ngân hàng đang trong giai đoạn "Dẫn Dắt Đồng Thuận"
-* **Phân Tích Thiết Lập:** Đã vượt đỉnh cũ với khối lượng mạnh, xu hướng tăng rõ ràng và vững chắc
-* **Vùng Vào Tốt Nhất:** Momentum mạnh hiện tại, hỗ trợ 29.0-29.5, mục tiêu 31.5-33.0
-
-### **VHM (Bất Động Sản)**
-![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 93.500 VNĐ
-* **Tín Hiệu VPA Tuần:** Test for Supply thành công, duy trì vai trò dẫn đầu bất động sản
-* **Tín Hiệu VPA Ngày:** Củng cố lành mạnh ngày 11/08 với khối lượng 4.48 triệu đơn vị
-* **Bối Cảnh Ngành:** Trụ cột bất động sản với vị thế dẫn đầu vững chắc
-* **Phân Tích Thiết Lập:** Củng cố sau đợt tăng mạnh, nền tảng kỹ thuật vẫn rất mạnh
-* **Vùng Vào Tốt Nhất:** Tích lũy vùng 92.5-94.5, hỗ trợ mạnh 91.0-92.0, mục tiêu 98.0-102.0
-
-### **VND (Chứng Khoán)**
-![Weekly Chart](reports_week/VND/VND_candlestick_chart.png) ![Daily Chart](reports/VND/VND_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 24.650 VNĐ
-* **Tín Hiệu VPA Tuần:** Phục hồi mạnh mẽ, dẫn dắt ngành chứng khoán
-* **Tín Hiệu VPA Ngày:** Khối lượng mạnh 40.92 triệu đơn vị ngày 11/08, momentum tích cực
-* **Bối Cảnh Ngành:** Dẫn đầu chứng khoán với hỗ trợ dòng vốn tổ chức
-* **Phân Tích Thiết Lập:** Hoàn tất phục hồi sau selling climax, xu hướng tăng được khôi phục
-* **Vùng Vào Tốt Nhất:** Hỗ trợ 24.0-24.5, mục tiêu ngắn hạn 25.5-26.5
+* **Tín Hiệu VPA Tuần:** Sign of Strength vững chắc, dẫn dắt ngành ngân hàng với 5 tuần tăng liên tiếp
+* **Tín Hiệu VPA Ngày:** Test for Supply ngày 12/08 với khối lượng 35.53 triệu đơn vị, consolidation lành mạnh
+* **Bối Cảnh Ngành:** Dẫn đầu ngành ngân hàng mạnh (66.7% breadth positive) trong giai đoạn "Dẫn Dắt Đồng Thuận"
+* **Phân Tích Thiết Lập:** Đã thiết lập vị thế dẫn đầu với momentum bền vững, test supply tự nhiên tại đỉnh
+* **Vùng Vào Tốt Nhất:** Consolidation hiện tại, hỗ trợ 29.2-29.5, mục tiêu 31.0-32.5
 
 ### **BID (Ngân Hàng)**
 ![Weekly Chart](reports_week/BID/BID_candlestick_chart.png) ![Daily Chart](reports/BID/BID_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 40.200 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength mạnh mẽ trong ngành ngân hàng
-* **Tín Hiệu VPA Ngày:** Phục hồi sau test ngày 11/08 với khối lượng 11.39 triệu đơn vị
-* **Bối Cảnh Ngành:** Ngân hàng quốc doanh lớn với nền tảng tổ chức vững chắc
-* **Phân Tích Thiết Lập:** Đã hoàn tất đột phá quan trọng, đang củng cố để tiếp tục tăng
-* **Vùng Vào Tốt Nhất:** Hỗ trợ 39.5-40.0, mục tiêu mở rộng 42.0-44.0
+* **Giá Hiện Tại:** 41.500 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength mạnh mẽ trong ngành ngân hàng dẫn đầu
+* **Tín Hiệu VPA Ngày:** Breakout mạnh +3.23% ngày 12/08 với khối lượng 15.35 triệu đơn vị tăng 34.7%
+* **Bối Cảnh Ngành:** Ngân hàng quốc doanh lớn trong sector mạnh nhất thị trường
+* **Phân Tích Thiết Lập:** Đột phá quan trọng với xác nhận khối lượng tổ chức, institutional buying rõ ràng
+* **Vùng Vào Tốt Nhất:** Momentum breakout, hỗ trợ 40.5-41.0, mục tiêu 43.0-44.5
+
+### **HDB (Ngân Hàng)**
+![Weekly Chart](reports_week/HDB/HDB_candlestick_chart.png) ![Daily Chart](reports/HDB/HDB_candlestick_chart.png)
+
+* **Giá Hiện Tại:** 28.900 VNĐ
+* **Tín Hiệu VPA Tuần:** Post-Buying Climax recovery pattern với institutional accumulation mạnh
+* **Tín Hiệu VPA Ngày:** Effort to Rise xuất sắc +3.58% ngày 12/08 với khối lượng khổng lồ 25.4 triệu đơn vị
+* **Bối Cảnh Ngành:** Ngân hàng phục hồi mạnh trong sector leadership environment
+* **Phân Tích Thiết Lập:** Breakout thành công sau accumulation, volume confirmation hoàn hảo
+* **Vùng Vào Tốt Nhất:** Fresh breakout territory, hỗ trợ 28.2-28.5, mục tiêu 30.5-32.0
+
+### **VHM (Bất Động Sản)**
+![Weekly Chart](reports_week/VHM/VHM_candlestick_chart.png) ![Daily Chart](reports/VHM/VHM_candlestick_chart.png)
+
+* **Giá Hiện Tại:** 93.000 VNĐ
+* **Tín Hiệu VPA Tuần:** Test for Supply thành công, duy trì vai trò dẫn đầu bất động sản
+* **Tín Hiệu VPA Ngày:** No Demand nhẹ ngày 12/08 nhưng sector context rất tích cực (57.1% positive)
+* **Bối Cảnh Ngành:** Trụ cột bất động sản trong sector mạnh với KDH dẫn đầu +6.88%
+* **Phân Tích Thiết Lập:** Blue-chip consolidation trong sector upturn, nền tảng vẫn vững chắc
+* **Vùng Vào Tốt Nhất:** Current consolidation zone, hỗ trợ 91.5-92.5, mục tiêu 96.0-100.0
+
+### **KDH (Bất Động Sản)**
+![Weekly Chart](reports_week/KDH/KDH_candlestick_chart.png) ![Daily Chart](reports/KDH/KDH_candlestick_chart.png)
+
+* **Giá Hiện Tại:** 34.200 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength mạnh mẽ trong sector real estate recovery
+* **Tín Hiệu VPA Ngày:** Breakout leadership +6.88% ngày 12/08 với khối lượng 10.6 triệu đơn vị
+* **Bối Cảnh Ngành:** Dẫn đầu bất động sản strong sector (57.1% positive breadth)
+* **Phân Tích Thiết Lập:** Sector leader với explosive breakout, institutional interest cao
+* **Vùng Vào Tốt Nhất:** Post-breakout momentum, hỗ trợ 33.5-34.0, mục tiêu 36.5-38.0
 
 ### **CMG (Công Nghệ)**
 ![Weekly Chart](reports_week/CMG/CMG_candlestick_chart.png) ![Daily Chart](reports/CMG/CMG_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 41.450 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength mạnh mẽ trong ngành công nghệ
-* **Tín Hiệu VPA Ngày:** Duy trì xu hướng tăng ngày 11/08 với khối lượng 1.60 triệu đơn vị
-* **Bối Cảnh Ngành:** Công nghệ dẫn đầu với chủ đề chuyển đổi số
-* **Phân Tích Thiết Lập:** Công ty dẫn đầu công nghệ với nền tảng tăng trưởng bền vững
-* **Vùng Vào Tốt Nhất:** Momentum tích cực, hỗ trợ 40.8-41.2, mục tiêu 43.0-44.5
+* **Giá Hiện Tại:** 41.600 VNĐ
+* **Tín Hiệu VPA Tuần:** Sign of Strength trong technology sector leadership
+* **Tín Hiệu VPA Ngày:** Duy trì xu hướng tăng +0.36% ngày 12/08 với khối lượng 2.08 triệu đơn vị
+* **Bối Cảnh Ngành:** Công nghệ với breadth tích cực (60.0%) và FPT dẫn đầu +1.03%
+* **Phân Tích Thiết Lập:** Technology leader với sustainable growth pattern, digital transformation theme
+* **Vùng Vào Tốt Nhất:** Steady momentum, hỗ trợ 40.8-41.2, mục tiêu 43.5-45.0
 
 ### **BSI (Chứng Khoán)**
 ![Weekly Chart](reports_week/BSI/BSI_candlestick_chart.png) ![Daily Chart](reports/BSI/BSI_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 49.400 VNĐ
+* **Giá Hiện Tại:** 50.000 VNĐ
 * **Tín Hiệu VPA Tuần:** Phục hồi mạnh mẽ trong sức khỏe ngành chứng khoán
-* **Tín Hiệu VPA Ngày:** Sign of Strength mạnh +2.9% ngày 11/08 với khối lượng 4.14 triệu đơn vị
-* **Bối Cảnh Ngành:** Chứng khoán với dòng vốn tổ chức mạnh mẽ
-* **Phân Tích Thiết Lập:** Đột phá vùng kháng cự quan trọng, động lực rất mạnh
-* **Vùng Vào Tốt Nhất:** Đột phá thành công, hỗ trợ 48.5-49.0, mục tiêu 52.0-54.0
+* **Tín Hiệu VPA Ngày:** Consolidation +1.21% ngày 12/08, đang test vùng 50.0 psychologically important
+* **Bối Cảnh Ngành:** Chứng khoán mixed (37.5% positive) nhưng có bright spots như CTS +3.58%
+* **Phân Tích Thiết Lập:** Healthy consolidation sau previous breakout, psychological support tại 50.0
+* **Vùng Vào Tốt Nhất:** Current test zone, hỗ trợ 49.0-49.5, mục tiêu 52.5-54.0
 
-### **BVH (Bảo Hiểm)**
-![Weekly Chart](reports_week/BVH/BVH_candlestick_chart.png) ![Daily Chart](reports/BVH/BVH_candlestick_chart.png)
+### **HDC (Bất Động Sản)**
+![Weekly Chart](reports_week/HDC/HDC_candlestick_chart.png) ![Daily Chart](reports/HDC/HDC_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 53.600 VNĐ
-* **Tín Hiệu VPA Tuần:** Test for Supply thành công, ngành bảo hiểm mạnh mẽ
-* **Tín Hiệu VPA Ngày:** Đột phá mạnh +3.08% ngày 11/08 với khối lượng 1.56 triệu đơn vị
-* **Bối Cảnh Ngành:** Bảo hiểm phục hồi mạnh mẽ sau giai đoạn tích lũy
-* **Phân Tích Thiết Lập:** Đột phá quan trọng lên đỉnh mới, momentum cực mạnh
-* **Vùng Vào Tốt Nhất:** Đột phá thành công, hỗ trợ 52.0-52.8, mục tiêu 56.0-58.0
+* **Giá Hiện Tại:** 37.250 VNĐ
+* **Tín Hiệu VPA Tuần:** Giai đoạn markup mạnh mẽ với chuỗi Sign of Strength
+* **Tín Hiệu VPA Ngày:** Sign of Strength +3.04% ngày 12/08 với khối lượng 10.2 triệu đơn vị
+* **Bối Cảnh Ngành:** Bất động sản mạnh (57.1% positive) với sector leaders KDH và HDC dẫn đầu
+* **Phân Tích Thiết Lập:** Benefiting from sector rotation into real estate, institutional accumulation
+* **Vùng Vào Tốt Nhất:** Sector momentum, hỗ trợ 36.5-37.0, mục tiêu 39.0-40.5
 
-### **CII (Xây Dựng)**
-![Weekly Chart](reports_week/CII/CII_candlestick_chart.png) ![Daily Chart](reports/CII/CII_candlestick_chart.png)
+### **CTS (Chứng Khoán)**
+![Weekly Chart](reports_week/CTS/CTS_candlestick_chart.png) ![Daily Chart](reports/CTS/CTS_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 19.150 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength, ngành xây dựng phục hồi mạnh
-* **Tín Hiệu VPA Ngày:** Gap up mạnh mẽ ngày 11/08 với khối lượng 32.41 triệu đơn vị
-* **Bối Cảnh Ngành:** Xây dựng bước vào giai đoạn phục hồi với hỗ trợ chính sách
-* **Phân Tích Thiết Lập:** Đột phá gap up rất mạnh, áp lực bán yếu trong suốt phiên
-* **Vùng Vào Tốt Nhất:** Gap thành công, hỗ trợ 18.5-19.0, mục tiêu 20.5-22.0
+* **Giá Hiện Tại:** 41.950 VNĐ
+* **Tín Hiệu VPA Tuần:** Emerging strength trong securities sector recovery
+* **Tín Hiệu VPA Ngày:** Breakout mạnh +3.58% ngày 12/08 với khối lượng 5.7 triệu đơn vị
+* **Bối Cảnh Ngành:** Chứng khoán dẫn đầu sector performers với CTS và VIX strength
+* **Phân Tích Thiết Lập:** Fresh breakout với volume confirmation, securities rotation opportunity
+* **Vùng Vào Tốt Nhất:** Early breakout phase, hỗ trợ 41.0-41.5, mục tiêu 44.0-46.0
 
-### **TNG (Dệt May)**
-![Weekly Chart](reports_week/TNG/TNG_candlestick_chart.png) ![Daily Chart](reports/TNG/TNG_candlestick_chart.png)
+### **MBB (Ngân Hàng)**
+![Weekly Chart](reports_week/MBB/MBB_candlestick_chart.png) ![Daily Chart](reports/MBB/MBB_candlestick_chart.png)
 
-* **Giá Hiện Tại:** 22.400 VNĐ
-* **Tín Hiệu VPA Tuần:** Effort to Rise/SOS mạnh mẽ sau giai đoạn tích lũy
-* **Tín Hiệu VPA Ngày:** Đột phá mạnh +4.19% ngày 11/08 với khối lượng bùng nổ 5.67 triệu đơn vị
-* **Bối Cảnh Ngành:** Dệt may phục hồi mạnh mẽ với chủ đề xuất khẩu
-* **Phân Tích Thiết Lập:** Đột phá vượt kháng cự với khối lượng khổng lồ, động lực cực mạnh
-* **Vùng Vào Tốt Nhất:** Momentum đột phá, hỗ trợ 21.5-22.0, mục tiêu 24.0-25.5
-
-### **DPR (Cao Su)**
-![Weekly Chart](reports_week/DPR/DPR_candlestick_chart.png) ![Daily Chart](reports/DPR/DPR_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 42.300 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength trong phục hồi ngành cao su
-* **Tín Hiệu VPA Ngày:** Effort to Rise mạnh ngày 11/08 với khối lượng 1.55 triệu đơn vị
-* **Bối Cảnh Ngành:** Cao su dẫn đầu phục hồi với hỗ trợ giá nguyên liệu
-* **Phân Tích Thiết Lập:** Phục hồi mạnh mẽ sau đợt điều chỉnh, vượt kháng cự quan trọng
-* **Vùng Vào Tốt Nhất:** Đột phá thành công, hỗ trợ 41.5-42.0, mục tiêu 44.0-46.0
-
-### **MWG (Bán Lẻ)**
-![Weekly Chart](reports_week/MWG/MWG_candlestick_chart.png) ![Daily Chart](reports/MWG/MWG_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 72.100 VNĐ
-* **Tín Hiệu VPA Tuần:** Dẫn đầu phục hồi bán lẻ với nền tảng mạnh
-* **Tín Hiệu VPA Ngày:** Duy trì vững chắc, nền tảng tiêu dùng phục hồi
-* **Bối Cảnh Ngành:** Bán lẻ dẫn đầu với tăng trưởng chi tiêu người dùng
-* **Phân Tích Thiết Lập:** Đã hoàn tất đột phá và củng cố vững chắc tại vùng cao
-* **Vùng Vào Tốt Nhất:** Hỗ trợ 71.0-72.0, mục tiêu tiếp tục 74.0-76.0
-
-### **DVN (Sức Khỏe)**
-![Weekly Chart](reports_week/DVN/DVN_candlestick_chart.png) ![Daily Chart](reports/DVN/DVN_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 23.200 VNĐ
-* **Tín Hiệu VPA Tuần:** Effort to Rise trong ngành y tế/sức khỏe
-* **Tín Hiệu VPA Ngày:** Effort to Rise mạnh ngày 11/08 với khối lượng 111k đơn vị tăng 139%
-* **Bối Cảnh Ngành:** Sức khỏe với tiềm năng tăng trưởng dài hạn
-* **Phân Tích Thiết Lập:** Đột phá với khối lượng bùng nổ sau giai đoạn No Demand
-* **Vùng Vào Tốt Nhất:** Đột phá thành công, hỗ trợ 22.8-23.0, mục tiêu 24.5-25.5
-
-### **DRC (Cao Su)**
-![Weekly Chart](reports_week/DRC/DRC_candlestick_chart.png) ![Daily Chart](reports/DRC/DRC_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 17.700 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength mạnh trong ngành cao su
-* **Tín Hiệu VPA Ngày:** Effort to Rise thành công ngày 11/08, vượt kháng cự 17.3
-* **Bối Cảnh Ngành:** Cao su phục hồi mạnh với momentum tích cực
-* **Phân Tích Thiết Lập:** Vượt thành công vùng kháng cự quan trọng với momentum mạnh
-* **Vùng Vào Tốt Nhất:** Vượt kháng cự thành công, hỗ trợ 17.3-17.5, mục tiêu 18.5-19.0
-
-### **TCH (Bất Động Sản)**
-![Weekly Chart](reports_week/TCH/TCH_candlestick_chart.png) ![Daily Chart](reports/TCH/TCH_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 25.000 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength, bất động sản phục hồi
-* **Tín Hiệu VPA Ngày:** Test for Supply ngày 11/08, cần theo dõi phản ứng
-* **Bối Cảnh Ngành:** Bất động sản trong giai đoạn phục hồi chọn lọc
-* **Phân Tích Thiết Lập:** Đã hoàn tất giai đoạn tích lũy, sẵn sàng cho markup
-* **Vùng Vào Tốt Nhất:** Test thành công, hỗ trợ 24.5-25.0, mục tiêu 26.5-27.5
-
-### **GAS (Dầu Khí)**
-![Weekly Chart](reports_week/GAS/GAS_candlestick_chart.png) ![Daily Chart](reports/GAS/GAS_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 70.400 VNĐ
-* **Tín Hiệu VPA Tuần:** Sign of Strength trong chủ đề năng lượng hạ tầng
-* **Tín Hiệu VPA Ngày:** Duy trì sức mạnh trong xoay vòng năng lượng
-* **Bối Cảnh Ngành:** Năng lượng hạ tầng cốt lõi với hỗ trợ chính sách dài hạn
-* **Phân Tích Thiết Lập:** Xoay vòng năng lượng với chủ đề hạ tầng bền vững
-* **Vùng Vào Tốt Nhất:** Theme năng lượng hạ tầng, hỗ trợ 69.0-70.0, mục tiêu 72.0-74.0
-
-### **FOX (Công Nghệ)**
-![Weekly Chart](reports_week/FOX/FOX_candlestick_chart.png) ![Daily Chart](reports/FOX/FOX_candlestick_chart.png)
-
-* **Giá Hiện Tại:** 74.400 VNĐ
-* **Tín Hiệu VPA Tuần:** Phục hồi trong ngành công nghệ
-* **Tín Hiệu VPA Ngày:** Duy trì xu hướng tăng trong công nghệ tăng trưởng
-* **Bối Cảnh Ngành:** Công nghệ với tiềm năng tăng trưởng dài hạn
-* **Phân Tích Thiết Lập:** Cơ hội theo dõi trong xu hướng công nghệ phục hồi
-* **Vùng Vào Tốt Nhất:** Cơ hội công nghệ, hỗ trợ 73.0-74.0, mục tiêu 77.0-79.0
+* **Giá Hiện Tại:** 32.400 VNĐ
+* **Tín Hiệu VPA Tuần:** Banking sector participation với steady institutional flow
+* **Tín Hiệu VPA Ngày:** Sign of Strength +1.89% ngày 12/08 với khối lượng khổng lồ 56.6 triệu đơn vị
+* **Bối Cảnh Ngành:** Ngân hàng mạnh nhất (66.7% positive) với VPB, BID, HDB leadership
+* **Phân Tích Thiết Lập:** Massive institutional volume, stable banking play in strong sector
+* **Vùng Vào Tốt Nhất:** Volume-driven momentum, hỗ trợ 31.8-32.2, mục tiêu 34.0-35.5
 
 ## 6. Nhật Ký Thay Đổi Kế Hoạch (AUDIT LOG)
 
-### Cổ Phiếu Được Nâng Cấp Lên "Top 16":
-- **TNG**: Từ `Unlisted` vào Top 16 #9. Lý do: **'Effort to Rise/SOS' ngày 2025-08-11** với đột phá mạnh +4.19% và khối lượng bùng nổ 5.67 triệu đơn vị.
-- **DVN**: Từ `Unlisted` vào Top 16 #12. Lý do: **'Effort to Rise' ngày 2025-08-11** với khối lượng tăng 139% trong ngành sức khỏe.
-- **DRC**: Từ `Potential` vào Top 16 #13. Lý do: **'Effort to Rise' thành công ngày 2025-08-11**, vượt kháng cự 17.3 trong ngành cao su mạnh.
+### Cổ Phiếu Được Nâng Cấp Lên "Top 10":
+- **HDB**: Từ `Potential List` vào Top 10 #3. Lý do: **'Effort to Rise' xuất sắc +3.58%** ngày 2025-08-12 với khối lượng khổng lồ 25.4M, ngân hàng breakout mạnh.
+- **KDH**: Từ `Potential List` vào Top 10 #5. Lý do: **'Breakout leadership +6.88%'** ngày 2025-08-12, dẫn đầu bất động sản sector mạnh.
+- **CTS**: Từ `Unlisted` vào Top 10 #9. Lý do: **'Breakout +3.58%'** ngày 2025-08-12 với khối lượng 5.7M, chứng khoán recovery.
+- **MBB**: Từ `Potential List` vào Top 10 #10. Lý do: **'Sign of Strength +1.89%'** ngày 2025-08-12 với khối lượng khổng lồ 56.6M.
 
 ### Cổ Phiếu Duy Trì Vị Thế Dẫn Đầu:
-- **VPB**: Duy trì #1 với 95%. Lý do: Tiếp tục dẫn dắt ngành ngân hàng với **khối lượng mạnh 33.78M** ngày 2025-08-11.
-- **VHM**: Duy trì #2 với 92%. Lý do: Trụ cột bất động sản với **Test for Supply tuần** thành công, củng cố lành mạnh.
-- **VND**: Duy trì #3 với 90%. Lý do: Dẫn dắt chứng khoán với **khối lượng mạnh 40.92M** ngày 2025-08-11.
+- **VPB**: Duy trì #1 với 95%. Lý do: Tiếp tục dẫn dắt ngành ngân hàng mạnh với **Test for Supply** lành mạnh ngày 2025-08-12.
+- **BID**: Tăng từ #4 lên #2 với 95%. Lý do: **'Breakout mạnh +3.23%'** ngày 2025-08-12 với khối lượng surge 34.7%.
+- **VHM**: Duy trì top với 87% (#4). Lý do: Trụ cột bất động sản trong **sector mạnh** (57.1% positive breadth).
 
 ### Cổ Phiếu Được Điều Chỉnh Tích Cực:
-- **BSI**: Từ 83% lên 85% (#6). Lý do: **'Sign of Strength' mạnh +2.9%** ngày 2025-08-11 với khối lượng 4.14 triệu.
-- **BVH**: Từ `Potential` vào Top 16 #7. Lý do: **'Đột phá mạnh +3.08%'** ngày 2025-08-11, bảo hiểm phục hồi.
-- **CII**: Từ `Potential` vào Top 16 #8. Lý do: **'Gap up mạnh mẽ'** ngày 2025-08-11 với khối lượng 32.41 triệu.
+- **CMG**: Duy trì #6 với 85%. Lý do: **Technology steady** trong sector tích cực (60.0% positive).
+- **BSI**: Điều chỉnh từ 85% xuống 83% (#7). Lý do: **Consolidation** tại 50.0 trong securities mixed context.
+- **HDC**: Tăng từ `Potential` vào #8. Lý do: **'Sign of Strength +3.04%'** trong real estate sector mạnh.
 
 ### Cổ Phiếu Chuyển Xuống Potential:
-- **ACB**: Từ Top 15 xuống Potential. Lý do: Dù có **'Effort to Rise'** nhưng bị đẩy xuống bởi các cơ hội mạnh hơn.
-- **HDB**: Từ Top 15 xuống Potential. Lý do: Ngân hàng phục hồi nhưng momentum chưa đủ mạnh để giữ vị thế Top.
-- **SSI**: Từ Top 15 xuống Potential. Lý do: Chứng khoán phục hồi tốt nhưng cạnh tranh với BSI và VND.
+- **TNG**: Từ Top 16 xuống Potential. Lý do: Không sustain momentum so với banking/real estate breakouts.
+- **DPR**: Từ Top 16 xuống Potential. Lý do: Cao su sector weaker vs banking/real estate strength.
+- **DVN**: Từ Top 16 xuống Potential. Lý do: Healthcare đã hết initial momentum, focus chuyển sang major sectors.
 
 ### Cổ Phiếu Bị Hạ Ưu Tiên:
-- **BSR**: Từ Top 15 xuống Downgraded. Lý do: **'-1.56% với khối lượng giảm 43.6%'** ngày 2025-08-11, năng lượng tạm dừng.
-- **PLX**: Từ Top 15 xuống không liệt kê. Lý do: Năng lượng xoay vòng tạm dừng, bị thay thế bởi cơ hội mạnh hơn.
+- **VND**: Từ Top 3 xuống Downgraded. Lý do: **'Healthy pullback -2.23%'** ngày 2025-08-12, chứng khoán mixed signals.
+- **FOX**: Từ Top 16 xuống Downgraded. Lý do: **'Technology laggard -1.75%'** dù sector 60% positive.
 
-### Market Context Changes (2025-08-11):
-- **VNINDEX**: **Tiếp tục tăng** đạt 1596.86 (+0.75%) với khối lượng 1.63 tỷ, vượt 1590 vững chắc
-- **Dẫn Dắt Ngành**: Ngân hàng (VPB, BID) tiếp tục dẫn đầu, bảo hiểm (BVH) đột phá, xây dựng (CII) gap up mạnh
-- **Sector Rotation**: Dệt may (TNG) nổi lên mạnh mẽ, cao su (DPR, DRC) phục hồi tích cực, sức khỏe (DVN) đột phá
-- **Mô Hình Khối Lượng**: TNG khối lượng bùng nổ 5.67M, CII gap up 32.41M, VND duy trì mạnh 40.92M
+### Market Context Changes (2025-08-12):
+- **VNINDEX**: **Tiếp tục strong** đạt 1608.22 (+0.71%) với khối lượng 1.65 tỷ, thiết lập đỉnh mới liên tiếp
+- **Dẫn Dắt Ngành**: Banking (66.7% positive) dẫn đầu với VPB, BID, HDB; Real Estate (57.1%) với KDH, HDC breakouts
+- **Sector Rotation**: Major shift vào Banking/Real Estate, Technology steady (60.0%), Securities mixed (37.5%)
+- **Mô Hình Khối Lượng**: MBB khối lượng khổng lồ 56.6M, HDB breakout 25.4M, BID surge 15.3M tăng 34.7%
 
 ## 7. Chiến Lược Giao Dịch Tuần Tới
 
-**Phân Bổ Danh Mục Đề Xuất (Chiến Lược Multi-Sector Breakthrough):**
-- **35%** Ngành Ngân Hàng & Chứng Khoán (VPB, VND, BID, BSI) - Dẫn dắt thị trường với dòng vốn tổ chức mạnh
-- **20%** Bất Động Sản (VHM, TCH) - Trụ cột thị trường với nền tảng vững chắc
-- **15%** Công Nghệ & Đột Phá Mới (CMG, FOX, TNG) - Cơ hội tăng trưởng và đột phá sectoral
-- **15%** Ngành Phục Hồi Mạnh (BVH, CII, DPR, DRC, DVN) - Các ngành nổi lên với momentum tích cực
-- **10%** Bán Lẻ & Năng Lượng (MWG, GAS) - Cơ hội ổn định và hạ tầng dài hạn
-- **5%** Tiền Mặt - Linh hoạt chiến thuật cho cơ hội đột phá mới
+**Phân Bổ Danh Mục Đề Xuất (Chiến Lược Multi-Sector Momentum):**
+- **50%** Ngành Ngân Hàng (VPB, BID, HDB, MBB) - Sector mạnh nhất với 66.7% breadth, institutional flows
+- **25%** Bất Động Sản (VHM, KDH, HDC) - Sector recovery mạnh với 57.1% breadth, breakout leaders
+- **10%** Công Nghệ (CMG) - Stable growth sector với 60% positive, digital transformation theme
+- **10%** Chứng Khoán Selective (BSI, CTS) - Mixed sector nhưng có bright spots rotation
+- **5%** Tiền Mặt - Linh hoạt chiến thuật cho opportunities và risk management
 
-**Chiến Lược Phân Bổ Theo Signal Strength:**
-- **40%** Đột Phá Mạnh & Dẫn Đầu (VPB, VND, TNG, BVH, CII) - Momentum và đột phá với khối lượng mạnh
-- **35%** Nền Tảng Vững Chắc (VHM, BID, CMG, BSI) - Sức mạnh đã được thiết lập và xác nhận
-- **20%** Cơ Hội Phục Hồi Sectoral (DPR, DRC, DVN, TCH) - Các ngành nổi lên và phục hồi
-- **5%** Tiền Mặt Chiến Thuật - Cơ hội đột phá và quản lý rủi ro
+**Chiến Lược Phân Bổ Theo Momentum Strength:**
+- **45%** Banking Breakouts (BID, HDB, MBB) - Fresh momentum với volume surge
+- **30%** Established Leaders (VPB, VHM, CMG) - Proven strength consolidation
+- **20%** Sector Rotation Plays (KDH, HDC, CTS) - Real estate/securities opportunities  
+- **5%** Cash Tactical - Volatility management và new opportunity capture
 
 **Ưu Tiên Giao Dịch:**
-1. **Đột Phá Momentum**: TNG với khối lượng bùng nổ 5.67M, BVH đột phá +3.08%, CII gap up mạnh
-2. **Dẫn Đầu Vững Chắc**: VPB dẫn ngân hàng, VND dẫn chứng khoán, VHM trụ cột bất động sản
-3. **Sectoral Rotation**: Cao su (DPR, DRC) phục hồi mạnh, sức khỏe (DVN) đột phá, bảo hiểm (BVH) nổi lên
-4. **Công Nghệ Tăng Trưởng**: CMG duy trì sức mạnh, FOX cơ hội theo dõi
-5. **Cơ Hội Phục Hồi**: ACB, HDB, SSI trong Potential List với tiềm năng tăng cấp
+1. **Banking Momentum**: BID breakout 41.5, HDB breakout 28.9, MBB volume surge 32.4
+2. **Real Estate Leaders**: KDH breakout 34.2, HDC sector momentum 37.25
+3. **Established Strength**: VPB consolidation 29.6, VHM sector pillar 93.0
+4. **Selective Opportunities**: CTS securities breakout 41.95, CMG tech steady 41.6
+5. **Monitor Recovery**: VIX potential +2.56%, FPT tech steady +1.03%
 
-**Quản Lý Rủi Ro Trong Giai Đoạn Mở Rộng:**
-- Kích thước vị thế theo độ mạnh momentum và xác nhận tín hiệu
-- Cắt lỗ 5-7% với các mức hỗ trợ được xác định rõ ràng
-- Tiền mặt 5% cho cơ hội đột phá và quản lý rủi ro
-- Theo dõi hỗ trợ VNINDEX 1585-1590 để gia tăng tỷ trọng
-- Sẵn sàng tăng cường khi có xác nhận sectoral rotation mới
+**Quản Lý Rủi Ro Trong Giai Đoạn Sector Rotation:**
+- Position sizing theo momentum strength và volume confirmation
+- Stop-losses 5-7% với sector context considerations
+- Cash 5% cho tactical opportunities và risk management  
+- Theo dõi VNINDEX support 1600-1605 để gia tăng exposure
+- Sector breadth monitoring - Banking và Real Estate duy trì leadership
 
 **Các Mức Quan Trọng Cần Theo Dõi:**
-- **VNINDEX**: Hỗ trợ 1585-1590 sau expansion, mục tiêu 1620-1640
-- **VPB**: Dẫn đầu ngân hàng, hỗ trợ 29.0-29.5, mục tiêu 31.5-33.0
-- **TNG**: Đột phá dệt may, hỗ trợ 21.5-22.0, mục tiêu 24.0-25.5
-- **VHM**: Trụ cột bất động sản, hỗ trợ 91.0-92.0, mục tiêu 98.0-102.0
-- **BVH**: Đột phá bảo hiểm, hỗ trợ 52.0-52.8, mục tiêu 56.0-58.0
-- **CII**: Gap up xây dựng, hỗ trợ 18.5-19.0, mục tiêu 20.5-22.0
-- **Chủ Đề Ngành**: Ngân hàng dẫn đầu, bảo hiểm nổi lên, xây dựng phục hồi, dệt may đột phá
+- **VNINDEX**: Support 1600-1605 post expansion, target 1630-1650
+- **Banking Leaders**: VPB 29.2-29.5 support, BID 40.5-41.0, HDB 28.2-28.5
+- **Real Estate Momentum**: KDH 33.5-34.0, HDC 36.5-37.0, VHM 91.5-92.5
+- **Technology Steady**: CMG 40.8-41.2, FPT consolidation opportunities
+- **Securities Selective**: BSI 49.0-49.5 test, CTS 41.0-41.5 breakout support
+- **Chủ Đề Sector**: Banking (66.7% strength) dominance, Real Estate (57.1%) rotation, Technology (60%) steady
