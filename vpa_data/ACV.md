@@ -2,64 +2,43 @@ Loaded cached credentials.
 Loaded cached credentials.
 # ACV
 
--   **Ngày 2025-06-11:** ACV giảm mạnh từ 55.2 xuống 54.5. Biên độ nến giảm khá rộng, giá đóng cửa gần mức thấp nhất phiên. Điều quan trọng là khối lượng giao dịch tăng vọt lên mức RẤT CAO (1.02 triệu đơn vị), cao nhất trong nhiều tuần.
+**Ngày 2025-06-11:** ACV giảm mạnh từ 55.2 xuống 54.5. Biên độ nến giảm khá rộng, giá đóng cửa gần mức thấp nhất phiên. Điều quan trọng là khối lượng giao dịch tăng vọt lên mức RẤT CAO (1.02 triệu đơn vị), cao nhất trong nhiều tuần.
 
-    -   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall (Nỗ lực Giảm giá)** rất rõ ràng. Việc giá giảm mạnh với biên độ rộng, đóng cửa gần mức thấp nhất đi kèm với khối lượng tăng đột biến cho thấy một áp lực bán mạnh mẽ và quyết đoán đã xuất hiện. Đây có thể là một **Sign of Weakness (SOW - Dấu hiệu Yếu kém)**, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh sâu hơn.
+-   **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall (Nỗ lực Giảm giá)** rất rõ ràng. Việc giá giảm mạnh với biên độ rộng, đóng cửa gần mức thấp nhất đi kèm với khối lượng tăng đột biến cho thấy một áp lực bán mạnh mẽ và quyết đoán đã xuất hiện. Đây có thể là một **Sign of Weakness (SOW - Dấu hiệu Yếu kém)**, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh sâu hơn.
 
--   **Ngày 2025-06-16:** ACV tăng nhẹ từ 56.1 lên 56.4. Cây nến có biên độ hẹp, và khối lượng giao dịch ở mức thấp (507.900 đơn vị), thấp hơn nhiều so với phiên giảm mạnh ngày 11/06.
--   **Ngày 2025-06-17:** ACV tăng nhẹ từ 56.4 lên 56.7. Cây nến có biên độ hẹp với bóng trên, cho thấy có một chút áp lực bán ở giá cao. Tuy nhiên, khối lượng giao dịch đã cạn kiệt, ở mức RẤT THẤP (215.100 đơn vị).
-    -   **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** nối tiếp. Sau phiên phục hồi yếu ớt ngày 16/06, lực cầu trong phiên này gần như biến mất. Việc giá không thể tăng một cách thuyết phục trên nền khối lượng cạn kiệt cho thấy sự thiếu quan tâm từ bên mua và khả năng cao giá sẽ sớm kiểm tra lại các mức hỗ trợ thấp hơn.
--   **Ngày 2025-06-18:** ACV giảm từ 56.7 xuống 56.4. Giá mở cửa giảm và không thể phục hồi. Khối lượng giao dịch tiếp tục ở mức rất thấp (200.5k đơn vị).
-Loaded cached credentials.
-Loaded cached credentials.
-- **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Việc giá giảm sau những phiên hồi phục yếu trên nền khối lượng cạn kiệt cho thấy sự thiếu vắng của lực cầu. Phe mua không tỏ ra quan tâm, làm tăng khả năng giá sẽ kiểm tra lại các mức thấp hơn.
+**Ngày 2025-06-16:** ACV tăng nhẹ từ 56.1 lên 56.4. Cây nến có biên độ hẹp, và khối lượng giao dịch ở mức thấp (507.900 đơn vị), thấp hơn nhiều so với phiên giảm mạnh ngày 11/06.
+**Ngày 2025-06-17:** ACV tăng nhẹ từ 56.4 lên 56.7. Cây nến có biên độ hẹp với bóng trên, cho thấy có một chút áp lực bán ở giá cao. Tuy nhiên, khối lượng giao dịch đã cạn kiệt, ở mức RẤT THẤP (215.100 đơn vị).. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** nối tiếp. Sau phiên phục hồi yếu ớt ngày 16/06, lực cầu trong phiên này gần như biến mất. Việc giá không thể tăng một cách thuyết phục trên nền khối lượng cạn kiệt cho thấy sự thiếu quan tâm từ bên mua và khả năng cao giá sẽ sớm kiểm tra lại các mức hỗ trợ thấp hơn.
+**Ngày 2025-06-18:** ACV giảm từ 56.7 xuống 56.4. Giá mở cửa giảm và không thể phục hồi. Khối lượng giao dịch tiếp tục ở mức rất thấp (200.5k đơn vị). Loaded cached credentials. Loaded cached credentials.. **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** tiếp tục được xác nhận. Việc giá giảm sau những phiên hồi phục yếu trên nền khối lượng cạn kiệt cho thấy sự thiếu vắng của lực cầu. Phe mua không tỏ ra quan tâm, làm tăng khả năng giá sẽ kiểm tra lại các mức thấp hơn.
 
-- **Ngày 2025-06-19:** ACV giảm từ 56.3 xuống 55.9. Giá mở cửa giảm và không thể phục hồi, đóng cửa gần mức thấp. Khối lượng giao dịch tiếp tục ở mức RẤT THẤP (205.0k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp tục được xác nhận. Sự thiếu vắng lực cầu đẩy giá xuống thấp hơn một cách dễ dàng, củng cố cho khả năng giá sẽ kiểm tra lại các vùng hỗ trợ thấp hơn.
+**Ngày 2025-06-19:** ACV giảm từ 56.3 xuống 55.9. Giá mở cửa giảm và không thể phục hồi, đóng cửa gần mức thấp. Khối lượng giao dịch tiếp tục ở mức RẤT THẤP (205.0k đơn vị).. **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp tục được xác nhận. Sự thiếu vắng lực cầu đẩy giá xuống thấp hơn một cách dễ dàng, củng cố cho khả năng giá sẽ kiểm tra lại các vùng hỗ trợ thấp hơn.
 
-- **Ngày 2025-06-20:** ACV đi ngang, đóng cửa ở mức 55.9. Cây nến có biên độ rất hẹp. Khối lượng giao dịch tiếp tục ở mức RẤT THẤP (113.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp tục được xác nhận. Sự thiếu vắng lực cầu trong nhiều phiên liên tiếp củng cố cho kịch bản giá có thể sẽ sớm kiểm tra lại các vùng hỗ trợ thấp hơn.
+**Ngày 2025-06-20:** ACV đi ngang, đóng cửa ở mức 55.9. Cây nến có biên độ rất hẹp. Khối lượng giao dịch tiếp tục ở mức RẤT THẤP (113.5k đơn vị).. **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp tục được xác nhận. Sự thiếu vắng lực cầu trong nhiều phiên liên tiếp củng cố cho kịch bản giá có thể sẽ sớm kiểm tra lại các vùng hỗ trợ thấp hơn.
 
-- **Ngày 2025-06-23:** ACV giảm từ 55.9 xuống 55.5. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (280.9k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp.
-Loaded cached credentials.
-Loaded cached credentials.
-- **Ngày 2025-06-24:** ACV tăng mạnh từ 55.5 lên 57.1. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng (412k đơn vị) so với các phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**, phủ nhận các tín hiệu "No Demand" yếu ớt trước đó. Lực cầu đã quay trở lại, cho thấy khả năng giá có thể bắt đầu một đợt phục hồi.
+**Ngày 2025-06-23:** ACV giảm từ 55.9 xuống 55.5. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng nhẹ (280.9k đơn vị).. **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand** vẫn tiếp diễn. Thị trường thiếu động lực và giá tiếp tục đi ngang trong biên độ hẹp. Loaded cached credentials. Loaded cached credentials.
+**Ngày 2025-06-24:** ACV tăng mạnh từ 55.5 lên 57.1. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất phiên. Khối lượng giao dịch tăng (412k đơn vị) so với các phiên trước.. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise (Nỗ lực Tăng giá)**, phủ nhận các tín hiệu "No Demand" yếu ớt trước đó. Lực cầu đã quay trở lại, cho thấy khả năng giá có thể bắt đầu một đợt phục hồi.
 
-- **Ngày 2025-06-25:** ACV mở cửa ở 57.1, giảm mạnh xuống mức thấp nhất 54.1 nhưng sau đó phục hồi mạnh mẽ và đóng cửa ở mức 57.1, gần như không đổi so với giá mở cửa. Cây nến có bóng dưới rất dài, đi kèm khối lượng giao dịch ở mức khá (369.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** hoặc một cú **Shakeout (Rũ bỏ)** rất mạnh. Lực bán đã đẩy giá xuống sâu nhưng đã bị một lực cầu mạnh mẽ hấp thụ hoàn toàn, đẩy giá ngược trở lại mức mở cửa. Việc giá phục hồi ấn tượng cho thấy áp lực bán ở vùng giá thấp đã được hấp thụ, là một tín hiệu rất tích cực.
+**Ngày 2025-06-25:** ACV mở cửa ở 57.1, giảm mạnh xuống mức thấp nhất 54.1 nhưng sau đó phục hồi mạnh mẽ và đóng cửa ở mức 57.1, gần như không đổi so với giá mở cửa. Cây nến có bóng dưới rất dài, đi kèm khối lượng giao dịch ở mức khá (369.7k đơn vị).. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Test for Supply** hoặc một cú **Shakeout (Rũ bỏ)** rất mạnh. Lực bán đã đẩy giá xuống sâu nhưng đã bị một lực cầu mạnh mẽ hấp thụ hoàn toàn, đẩy giá ngược trở lại mức mở cửa. Việc giá phục hồi ấn tượng cho thấy áp lực bán ở vùng giá thấp đã được hấp thụ, là một tín hiệu rất tích cực.
 
-- **Ngày 2025-06-26:** ACV tăng vọt từ 57.1 lên 58.2. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất phiên, đi kèm khối lượng giao dịch gia tăng (569.4k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS - Dấu hiệu Sức mạnh)** rõ ràng, xác nhận cho cú Shakeout thành công của phiên hôm trước. Lực cầu đã quay trở lại một cách quyết đoán và áp đảo, cho thấy phe mua đã hoàn toàn kiểm soát sau khi kiểm tra thành công lực cung. Tín hiệu này củng cố mạnh mẽ cho khả năng bắt đầu một xu hướng tăng mới.
-Loaded cached credentials.
-Loaded cached credentials.
-```python
-import re
+**Ngày 2025-06-26:** ACV tăng vọt từ 57.1 lên 58.2. Cây nến có biên độ rất rộng và đóng cửa ở mức cao nhất phiên, đi kèm khối lượng giao dịch gia tăng (569.4k đơn vị).. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Sign of Strength (SOS - Dấu hiệu Sức mạnh)** rõ ràng, xác nhận cho cú Shakeout thành công của phiên hôm trước. Lực cầu đã quay trở lại một cách quyết đoán và áp đảo, cho thấy phe mua đã hoàn toàn kiểm soát sau khi kiểm tra thành công lực cung. Tín hiệu này củng cố mạnh mẽ cho khả năng bắt đầu một xu hướng tăng mới. Loaded cached credentials. Loaded cached credentials. ```python import re
 
 content_to_process = """
-- **Ngày 2025-06-27:** ACV tăng mạnh từ 95.8 lên 97.2. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch không đổi (550k đơn vị) và vẫn ở mức khá.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** trước đó. Lực cầu vẫn duy trì tốt, cho thấy xu hướng tăng vẫn đang được củng cố và có tiềm năng tiếp diễn.
+**Ngày 2025-06-27:** ACV tăng mạnh từ 95.8 lên 97.2. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch không đổi (550k đơn vị) và vẫn ở mức khá.. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho tín hiệu **Sign of Strength (SOS)** trước đó. Lực cầu vẫn duy trì tốt, cho thấy xu hướng tăng vẫn đang được củng cố và có tiềm năng tiếp diễn.
 
-- **Ngày 2025-06-30:** ACV tiếp tục tăng mạnh từ 97.2 lên 98.5. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm nhẹ (444.5k đơn vị) nhưng vẫn ở mức khá.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó (Shakeout, SOS). Việc giá tiếp tục tăng dễ dàng cho thấy phe mua vẫn đang kiểm soát hoàn toàn và xu hướng tăng đang rất vững chắc.
+**Ngày 2025-06-30:** ACV tiếp tục tăng mạnh từ 97.2 lên 98.5. Cây nến có biên độ rộng và đóng cửa ở mức cao nhất. Khối lượng giao dịch giảm nhẹ (444.5k đơn vị) nhưng vẫn ở mức khá.. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise** mạnh mẽ, xác nhận cho các tín hiệu tích cực trước đó (Shakeout, SOS). Việc giá tiếp tục tăng dễ dàng cho thấy phe mua vẫn đang kiểm soát hoàn toàn và xu hướng tăng đang rất vững chắc.
 
-- **Ngày 2025-07-01:** ACV giảm mạnh từ 98.5 xuống 95.4. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng (725.8k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau chuỗi tăng giá mạnh, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**. Áp lực bán chốt lời đã xuất hiện một cách quyết đoán, cảnh báo về một đợt điều chỉnh.
+**Ngày 2025-07-01:** ACV giảm mạnh từ 98.5 xuống 95.4. Cây nến có biên độ giảm rộng. Khối lượng giao dịch tăng (725.8k đơn vị).. **Phân tích VPA/Wyckoff:** Sau chuỗi tăng giá mạnh, phiên giảm mạnh với khối lượng gia tăng này là một tín hiệu **Sign of Weakness (SOW)**. Áp lực bán chốt lời đã xuất hiện một cách quyết đoán, cảnh báo về một đợt điều chỉnh.
 
-- **Ngày 2025-07-02:** ACV tăng nhẹ từ 95.4 lên 95.7. Nến có biên độ rộng và có bóng trên. Khối lượng giao dịch giảm mạnh (275.9k đơn vị).
-"""
-dividend_ratio = 1.646191
+**Ngày 2025-07-02:** ACV tăng nhẹ từ 95.4 lên 95.7. Nến có biên độ rộng và có bóng trên. Khối lượng giao dịch giảm mạnh (275.9k đơn vị). """ dividend_ratio = 1.646191
 
 def adjust_prices(match):
     price1 = float(match.group(1))
     direction = match.group(2)
     price2 = float(match.group(3))
 
-    adjusted_price1 = price1 / dividend_ratio
+adjusted_price1 = price1 / dividend_ratio
     adjusted_price2 = price2 / dividend_ratio
 
-    return f"từ {adjusted_price1:.1f} {direction} {adjusted_price2:.1f}"
+return f"từ {adjusted_price1:.1f} {direction} {adjusted_price2:.1f}"
 
 updated_content = re.sub(r'từ (\d+\.?\d*) (lên|xuống) (\d+\.?\d*)', adjust_prices, content_to_process)
 print(updated_content)
@@ -68,35 +47,20 @@ Loaded cached credentials.
 Loaded cached credentials.
 - **Phân tích VPA/Wyckoff:** Sau tín hiệu **Sign of Weakness (SOW)**, phiên tăng nhẹ với khối lượng thấp này là một tín hiệu **No Demand**, xác nhận sự yếu kém của lực cầu và khả năng giá sẽ tiếp tục điều chỉnh.
 
-- **Ngày 2025-07-03:** ACV tăng mạnh từ 58.1 lên 59.0. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (535.1k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên tăng giá mạnh mẽ với khối lượng lớn này là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém và cho thấy lực cầu đã quay trở lại.
+**Ngày 2025-07-03:** ACV tăng mạnh từ 58.1 lên 59.0. Cây nến có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (535.1k đơn vị).. **Phân tích VPA/Wyckoff:** Sau tín hiệu **No Demand** của phiên trước, phiên tăng giá mạnh mẽ với khối lượng lớn này là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu yếu kém và cho thấy lực cầu đã quay trở lại.
 
-- **Ngày 2025-07-04:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay ACV giảm từ 59.0 xuống 58.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (280.2k đơn vị) so với phiên tăng trước.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
+**Ngày 2025-07-04:** Sau tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay ACV giảm từ 59.0 xuống 58.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (280.2k đơn vị) so với phiên tăng trước.. **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply (Kiểm tra Nguồn cung)**. Áp lực bán đã xuất hiện nhưng không mạnh, thể hiện qua khối lượng giảm. Đây là một nhịp điều chỉnh bình thường, chưa phải tín hiệu xấu.
 
-- **Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** của ngày hôm trước, phiên hôm nay ACV giảm từ 58.8 xuống 58.3. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (510.7k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
-Loaded cached credentials.
-Loaded cached credentials.
-What would you like me to do next?
-Loaded cached credentials.
-Loaded cached credentials.
-```python
-import re
+**Ngày 2025-07-07:** Sau phiên **Test for Supply (Kiểm tra Nguồn cung)** của ngày hôm trước, phiên hôm nay ACV giảm từ 58.8 xuống 58.3. Cây nến giảm có biên độ rộng. Khối lượng giao dịch tăng (510.7k đơn vị) so với phiên trước.. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh. Loaded cached credentials. Loaded cached credentials. What would you like me to do next? Loaded cached credentials. Loaded cached credentials. ```python import re
 
 content_to_process = """
-- **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay ACV tiếp tục giảm từ 94.0 xuống 93.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (799.2k đơn vị) nhưng vẫn ở mức cao.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+**Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay ACV tiếp tục giảm từ 94.0 xuống 93.8. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (799.2k đơn vị) nhưng vẫn ở mức cao.. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
-- **Ngày 2025-07-14:** Tiếp tục xu hướng giảm từ 93.9 xuống 93.0. Cây nến giảm có biên độ rộng với low thấp 92.8. Khối lượng giao dịch giảm nhẹ (776.0k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán vẫn duy trì nhưng không quá mạnh. Tiếp nối chuỗi tín hiệu yếu trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+**Ngày 2025-07-14:** Tiếp tục xu hướng giảm từ 93.9 xuống 93.0. Cây nến giảm có biên độ rộng với low thấp 92.8. Khối lượng giao dịch giảm nhẹ (776.0k đơn vị) so với phiên trước.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán vẫn duy trì nhưng không quá mạnh. Tiếp nối chuỗi tín hiệu yếu trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
-- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** tiếp diễn, hôm nay ACV phục hồi từ 93.1 lên 93.8. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (418.7k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng. Đây có thể chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
+**Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** tiếp diễn, hôm nay ACV phục hồi từ 93.1 lên 93.8. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (418.7k đơn vị) so với phiên trước.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng. Đây có thể chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
 
-- **Ngày 2025-07-16:** ACV tăng nhẹ từ 94.1 lên 93.9. Cây nến có biên độ hẹp với giá mở cửa cao hơn ngày hôm trước nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm tiếp (304.6k đơn vị) so với phiên **No Demand** trước đó.
-"""
-dividend_ratio = 1.646191
+**Ngày 2025-07-16:** ACV tăng nhẹ từ 94.1 lên 93.9. Cây nến có biên độ hẹp với giá mở cửa cao hơn ngày hôm trước nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm tiếp (304.6k đơn vị) so với phiên **No Demand** trước đó. """ dividend_ratio = 1.646191
 
 def adjust_price_range(match):
     # This function handles "từ X xuống Y" or "từ X lên Y"
@@ -105,23 +69,24 @@ def adjust_price_range(match):
     middle = match.group(3)
     price2_str = match.group(4)
 
-    price1 = float(price1_str)
+price1 = float(price1_str)
     price2 = float(price2_str)
 
-    adjusted_price1 = round(price1 / dividend_ratio, 1)
+adjusted_price1 = round(price1 / dividend_ratio, 1)
     adjusted_price2 = round(price2 / dividend_ratio, 1)
 
-    return f"{prefix}{adjusted_price1:.1f}{middle}{adjusted_price2:.1f}"
+return f"{prefix}{adjusted_price1:.1f}{middle}{adjusted_price2:.1f}"
 
 def adjust_low_price(match):
     # This function handles "low thấp X"
     prefix = match.group(1)
     price_str = match.group(2)
 
-    price = float(price_str)
+price = float(price_str)
     adjusted_price = round(price / dividend_ratio, 1)
 
-    return f"{prefix}{adjusted_price:.1f}"
+return f"{prefix}{adjusted_price:.1f}"
+
 
 # First, apply the price range adjustment
 updated_content = re.sub(r"(từ\s)(\d+\.?\d*)(\s(?:xuống|lên)\s)(\d+\.?\d*)", adjust_price_range, content_to_process)
@@ -132,65 +97,40 @@ final_updated_content = re.sub(r"(low thấp\s)(\d+\.?\d*)", adjust_low_price, u
 print(final_updated_content)
 ```
 ```
-- **Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay ACV tiếp tục giảm từ 57.1 xuống 57.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (799.2k đơn vị) nhưng vẫn ở mức cao.
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+**Ngày 2025-07-11:** Tiếp nối tín hiệu **Sign of Weakness (SOW)** của phiên trước, phiên hôm nay ACV tiếp tục giảm từ 57.1 xuống 57.0. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch giảm nhẹ (799.2k đơn vị) nhưng vẫn ở mức cao.. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall** tiếp diễn, xác nhận phe bán vẫn đang kiểm soát và xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
-- **Ngày 2025-07-14:** Tiếp tục xu hướng giảm từ 57.0 xuống 56.5. Cây nến giảm có biên độ rộng với low thấp 56.4. Khối lượng giao dịch giảm nhẹ (776.0k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán vẫn duy trì nhưng không quá mạnh. Tiếp nối chuỗi tín hiệu yếu trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+**Ngày 2025-07-14:** Tiếp tục xu hướng giảm từ 57.0 xuống 56.5. Cây nến giảm có biên độ rộng với low thấp 56.4. Khối lượng giao dịch giảm nhẹ (776.0k đơn vị) so với phiên trước.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Fall** tiếp diễn. Việc giá giảm trên nền khối lượng giảm cho thấy áp lực bán vẫn duy trì nhưng không quá mạnh. Tiếp nối chuỗi tín hiệu yếu trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
-- **Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** tiếp diễn, hôm nay ACV phục hồi từ 56.6 lên 57.0. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (418.7k đơn vị) so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng. Đây có thể chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
+**Ngày 2025-07-15:** Sau tín hiệu **Effort to Fall** tiếp diễn, hôm nay ACV phục hồi từ 56.6 lên 57.0. Cây nến tăng có biên độ tốt và đóng cửa gần mức cao nhất. Khối lượng giao dịch giảm mạnh (418.7k đơn vị) so với phiên trước.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** trong bối cảnh điều chỉnh. Sau chuỗi giảm giá, việc phục hồi nhẹ trên khối lượng thấp cho thấy lực cầu chưa đủ mạnh để đảo ngược xu hướng. Đây có thể chỉ là cú hồi kỹ thuật tạm thời trong xu hướng điều chỉnh.
 
-- **Ngày 2025-07-16:** ACV tăng nhẹ từ 57.2 lên 57.0. Cây nến có biên độ hẹp với giá mở cửa cao hơn ngày hôm trước nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm tiếp (304.6k đơn vị) so với phiên **No Demand** trước đó.
-```
-Loaded cached credentials.
-Loaded cached credentials.
-- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn. Việc giá mở cao hơn nhưng không thể duy trì và giảm nhẹ trên khối lượng thấp cho thấy lực cầu vẫn rất yếu. Tín hiệu này xác nhận rằng cú hồi kỹ thuật của phiên trước không có nền tảng vững chắc và xu hướng điều chỉnh có khả năng sẽ tiếp diễn.
+**Ngày 2025-07-16:** ACV tăng nhẹ từ 57.2 lên 57.0. Cây nến có biên độ hẹp với giá mở cửa cao hơn ngày hôm trước nhưng đóng cửa thấp hơn. Khối lượng giao dịch giảm tiếp (304.6k đơn vị) so với phiên **No Demand** trước đó. ``` Loaded cached credentials. Loaded cached credentials.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** tiếp diễn. Việc giá mở cao hơn nhưng không thể duy trì và giảm nhẹ trên khối lượng thấp cho thấy lực cầu vẫn rất yếu. Tín hiệu này xác nhận rằng cú hồi kỹ thuật của phiên trước không có nền tảng vững chắc và xu hướng điều chỉnh có khả năng sẽ tiếp diễn.
 
-- **Ngày 2025-07-17:** ACV giảm nhẹ từ 57.2 xuống 56.9. Cây nến có biên độ rộng với mức cao 57.6 và mức thấp 56.8, cho thấy biến động trong phiên. Khối lượng giao dịch tăng mạnh lên 454.4k đơn vị, cao hơn đáng kể so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** quan trọng. Sau hai phiên **No Demand** liên tiếp, việc giá test lên 57.6 nhưng bị từ chối và giảm xuống 56.9 trên khối lượng tăng cho thấy áp lực bán vẫn còn mạnh ở vùng cao. Tín hiệu này xác nhận rằng xu hướng điều chỉnh vẫn đang tiếp diễn và ACV cần thêm thời gian để tiêu hóa áp lực bán trước khi có thể phục hồi bền vững.
+**Ngày 2025-07-17:** ACV giảm nhẹ từ 57.2 xuống 56.9. Cây nến có biên độ rộng với mức cao 57.6 và mức thấp 56.8, cho thấy biến động trong phiên. Khối lượng giao dịch tăng mạnh lên 454.4k đơn vị, cao hơn đáng kể so với phiên trước.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** quan trọng. Sau hai phiên **No Demand** liên tiếp, việc giá test lên 57.6 nhưng bị từ chối và giảm xuống 56.9 trên khối lượng tăng cho thấy áp lực bán vẫn còn mạnh ở vùng cao. Tín hiệu này xác nhận rằng xu hướng điều chỉnh vẫn đang tiếp diễn và ACV cần thêm thời gian để tiêu hóa áp lực bán trước khi có thể phục hồi bền vững.
 
 
-- **Ngày 2025-07-18:** ACV tăng mạnh từ 57.1 lên 57.9. Cây nến tăng có biên độ rộng với mức cao 58.1 và mức thấp 56.8, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 732.2k đơn vị, cao hơn đáng kể so với phiên **Test for Supply** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hoàn toàn phủ nhận xu hướng điều chỉnh của các phiên trước. Việc giá tăng mạnh với biên độ rộng, đóng cửa gần đỉnh trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách quyết đoán và thành công vượt qua giai đoạn test cung. Tín hiệu này xác nhận rằng giai đoạn điều chỉnh đã kết thúc và xu hướng tăng được tái khẳng định mạnh mẽ.
 
-- **Ngày 2025-07-21:** ACV giảm mạnh từ 57.7 xuống 57.1. Cây nến có biên độ rộng với mức cao 58.7 và mức thấp 57.0, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng nhẹ lên 777.7k đơn vị, cao hơn so với phiên **SOS** trước đó.
-Loaded cached credentials.
-Loaded cached credentials.
-- **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength**. Việc giá test lên mức cao mới tại 58.7 nhưng bị từ chối mạnh và giảm xuống dưới mức đóng cửa phiên trước trên khối lượng tăng cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tuy nhiên, việc giá vẫn duy trì trên vùng 57.1 là dấu hiệu tích cực. Cần quan sát các phiên tiếp theo để xác định liệu đây có phải là nhịp điều chỉnh lành mạnh hay bắt đầu của một xu hướng yếu đi.
+**Ngày 2025-07-18:** ACV tăng mạnh từ 57.1 lên 57.9. Cây nến tăng có biên độ rộng với mức cao 58.1 và mức thấp 56.8, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng vọt lên 732.2k đơn vị, cao hơn đáng kể so với phiên **Test for Supply** trước đó.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, hoàn toàn phủ nhận xu hướng điều chỉnh của các phiên trước. Việc giá tăng mạnh với biên độ rộng, đóng cửa gần đỉnh trên khối lượng bùng nổ cho thấy lực cầu đã quay trở lại một cách quyết đoán và thành công vượt qua giai đoạn test cung. Tín hiệu này xác nhận rằng giai đoạn điều chỉnh đã kết thúc và xu hướng tăng được tái khẳng định mạnh mẽ.
 
-- **Ngày 2025-07-22:** ACV không có thay đổi về giá đóng cửa, duy trì ở mức 57.1. Cây nến có biên độ hẹp (từ 57.0 đến 57.6) với bóng trên và bóng dưới, thể hiện sự giằng co. Khối lượng giao dịch giảm xuống 610k đơn vị, thấp hơn đáng kể so với phiên **Test for Supply** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **Test for Supply**. Việc giá không có thay đổi và dao động trong biên độ hẹp trên khối lượng giảm mạnh cho thấy cả phe mua và phe bán đều thiếu quan tâm ở vùng giá này. Tín hiệu **No Demand** này cho thấy thị trường đang trong giai đoạn equilibrium sau nhịp test cung, cần thêm thời gian để xác định hướng đi tiếp theo. Việc giá duy trì ở mức 57.1 mà không giảm sâu hơn vẫn là dấu hiệu tích cực, cho thấy support tại vùng này đang được duy trì.
+**Ngày 2025-07-21:** ACV giảm mạnh từ 57.7 xuống 57.1. Cây nến có biên độ rộng với mức cao 58.7 và mức thấp 57.0, cho thấy biến động mạnh trong phiên. Khối lượng giao dịch tăng nhẹ lên 777.7k đơn vị, cao hơn so với phiên **SOS** trước đó. Loaded cached credentials. Loaded cached credentials.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength**. Việc giá test lên mức cao mới tại 58.7 nhưng bị từ chối mạnh và giảm xuống dưới mức đóng cửa phiên trước trên khối lượng tăng cho thấy áp lực bán đã xuất hiện ở vùng đỉnh. Tuy nhiên, việc giá vẫn duy trì trên vùng 57.1 là dấu hiệu tích cực. Cần quan sát các phiên tiếp theo để xác định liệu đây có phải là nhịp điều chỉnh lành mạnh hay bắt đầu của một xu hướng yếu đi.
 
-- **Ngày 2025-07-23:** ACV mở cửa cao hơn tại 57.4 và bùng nổ tăng mạnh đến mức cao nhất 58.7, đóng cửa tại đỉnh phiên (58.7). Cây nến tăng mạnh có biên độ rộng với bóng dưới ngắn, thể hiện sức mạnh tăng giá rõ rệt. Khối lượng giao dịch tăng vọt lên 1.03 triệu đơn vị, gấp gần 1.7 lần phiên trước.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phá vỡ hoàn toàn tình trạng **No Demand** của phiên trước. Việc giá bùng nổ tăng mạnh và đóng cửa tại đỉnh phiên trên khối lượng tăng vọt cho thấy lực cầu đã xuất hiện quyết đoán sau giai đoạn tích lũy. Sự vượt qua vùng kháng cự tại 58.7 (mức cao trước đó của ngày 21/7) trên khối lượng mạnh xác nhận xu hướng tăng đã được tái khẳng định. Tín hiệu **SOS** này sau **No Demand** tạo thành pattern tích cực mạnh, báo hiệu tiềm năng cao cho một đợt tăng giá bền vững tiếp theo.
+**Ngày 2025-07-22:** ACV không có thay đổi về giá đóng cửa, duy trì ở mức 57.1. Cây nến có biên độ hẹp (từ 57.0 đến 57.6) với bóng trên và bóng dưới, thể hiện sự giằng co. Khối lượng giao dịch giảm xuống 610k đơn vị, thấp hơn đáng kể so với phiên **Test for Supply** trước đó.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **No Demand** sau phiên **Test for Supply**. Việc giá không có thay đổi và dao động trong biên độ hẹp trên khối lượng giảm mạnh cho thấy cả phe mua và phe bán đều thiếu quan tâm ở vùng giá này. Tín hiệu **No Demand** này cho thấy thị trường đang trong giai đoạn equilibrium sau nhịp test cung, cần thêm thời gian để xác định hướng đi tiếp theo. Việc giá duy trì ở mức 57.1 mà không giảm sâu hơn vẫn là dấu hiệu tích cực, cho thấy support tại vùng này đang được duy trì.
 
-- **Ngày 2025-07-24:** ACV mở cửa tại mức đóng cửa phiên trước (58.7) và tiếp tục tăng đến mức cao nhất 59.3, tuy nhiên sau đó giảm nhẹ và đóng cửa tại 58.6. Cây nến có biên độ hẹp với bóng trên và bóng dưới, thể hiện sự giằng co ở vùng cao. Khối lượng giao dịch giảm xuống 809.5k đơn vị, thấp hơn 21% so với phiên **SOS** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength** mạnh mẽ. Việc giá test lên mức cao mới tại 59.3 nhưng không thể duy trì và giảm nhẹ về 58.6 trên khối lượng giảm cho thấy áp lực bán đã xuất hiện ở vùng đỉnh mới. Tuy nhiên, việc giá vẫn duy trì gần mức đóng cửa phiên trước và chỉ giảm nhẹ (-0.2) là dấu hiệu tích cực, cho thấy áp lực bán không quá mạnh. Tín hiệu **Test for Supply** này sau **SOS** là điều bình thường trong quá trình tăng giá, cần theo dõi phản ứng trong các phiên tới để xác định liệu xu hướng tăng có tiếp tục hay không.
-Loaded cached credentials.
-Loaded cached credentials.
-- **Ngày 2025-07-25:** ACV mở cửa gap lên từ 58.6 lên 59.3 và tiếp tục tăng đến mức cao nhất 60.0, sau đó giảm nhẹ và đóng cửa tại 59.2. Cây nến có biên độ rộng với bóng trên ngắn, thể hiện sức mạnh tăng giá. Khối lượng giao dịch tăng lên 890.5k đơn vị, cao hơn 10% so với phiên **Test for Supply** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tích cực, xác nhận thành công cho phiên **Test for Supply** của ngày trước. Việc giá gap lên và đạt mức cao mới tại 60.0 trên khối lượng tăng cho thấy lực cầu đã vượt qua được áp lực bán ở vùng cao. Mặc dù có pullback nhẹ từ đỉnh, nhưng việc giá vẫn tăng 0.6 điểm so với phiên trước chứng tỏ sức mạnh của phe mua. Tín hiệu này tiếp tục củng cố xu hướng tăng và cho thấy ACV có tiềm năng tiếp tục hướng lên các mức cao hơn.
+**Ngày 2025-07-23:** ACV mở cửa cao hơn tại 57.4 và bùng nổ tăng mạnh đến mức cao nhất 58.7, đóng cửa tại đỉnh phiên (58.7). Cây nến tăng mạnh có biên độ rộng với bóng dưới ngắn, thể hiện sức mạnh tăng giá rõ rệt. Khối lượng giao dịch tăng vọt lên 1.03 triệu đơn vị, gấp gần 1.7 lần phiên trước.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ, phá vỡ hoàn toàn tình trạng **No Demand** của phiên trước. Việc giá bùng nổ tăng mạnh và đóng cửa tại đỉnh phiên trên khối lượng tăng vọt cho thấy lực cầu đã xuất hiện quyết đoán sau giai đoạn tích lũy. Sự vượt qua vùng kháng cự tại 58.7 (mức cao trước đó của ngày 21/7) trên khối lượng mạnh xác nhận xu hướng tăng đã được tái khẳng định. Tín hiệu **SOS** này sau **No Demand** tạo thành pattern tích cực mạnh, báo hiệu tiềm năng cao cho một đợt tăng giá bền vững tiếp theo.
 
-- **Ngày 2025-07-28:** ACV tiếp tục xu hướng tăng mạnh mẽ từ 59.2 lên 60.1. Cây nến có biên độ rộng (từ 59.2 đến 60.3) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 1.097 triệu đơn vị, cao hơn 23% so với phiên **SOS** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, tiếp tục xác nhận và củng cố chuỗi tín hiệu tích cực từ các phiên trước. Việc giá mở cửa tại mức đóng cửa phiên trước và tăng mạnh lên mức cao mới 60.3 trên khối lượng gia tăng đáng kể cho thấy dòng tiền thông minh đang rất tích cực. Sự kết hợp giữa **SOS** của ngày 25/7 và **Effort to Rise** hôm nay tạo thành chuỗi tín hiệu tăng giá mạnh mẽ, xác nhận ACV đã vượt qua tất cả các test cung và đang trong giai đoạn markup quyết đoán. Việc đóng cửa gần đỉnh phiên (60.1 vs 60.3) chứng tỏ áp lực bán hạn chế và xu hướng tăng có tiềm năng tiếp tục hướng đến các mức cao lịch sử.
+**Ngày 2025-07-24:** ACV mở cửa tại mức đóng cửa phiên trước (58.7) và tiếp tục tăng đến mức cao nhất 59.3, tuy nhiên sau đó giảm nhẹ và đóng cửa tại 58.6. Cây nến có biên độ hẹp với bóng trên và bóng dưới, thể hiện sự giằng co ở vùng cao. Khối lượng giao dịch giảm xuống 809.5k đơn vị, thấp hơn 21% so với phiên **SOS** trước đó.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength** mạnh mẽ. Việc giá test lên mức cao mới tại 59.3 nhưng không thể duy trì và giảm nhẹ về 58.6 trên khối lượng giảm cho thấy áp lực bán đã xuất hiện ở vùng đỉnh mới. Tuy nhiên, việc giá vẫn duy trì gần mức đóng cửa phiên trước và chỉ giảm nhẹ (-0.2) là dấu hiệu tích cực, cho thấy áp lực bán không quá mạnh. Tín hiệu **Test for Supply** này sau **SOS** là điều bình thường trong quá trình tăng giá, cần theo dõi phản ứng trong các phiên tới để xác định liệu xu hướng tăng có tiếp tục hay không. Loaded cached credentials. Loaded cached credentials.
+**Ngày 2025-07-25:** ACV mở cửa gap lên từ 58.6 lên 59.3 và tiếp tục tăng đến mức cao nhất 60.0, sau đó giảm nhẹ và đóng cửa tại 59.2. Cây nến có biên độ rộng với bóng trên ngắn, thể hiện sức mạnh tăng giá. Khối lượng giao dịch tăng lên 890.5k đơn vị, cao hơn 10% so với phiên **Test for Supply** trước đó.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** tích cực, xác nhận thành công cho phiên **Test for Supply** của ngày trước. Việc giá gap lên và đạt mức cao mới tại 60.0 trên khối lượng tăng cho thấy lực cầu đã vượt qua được áp lực bán ở vùng cao. Mặc dù có pullback nhẹ từ đỉnh, nhưng việc giá vẫn tăng 0.6 điểm so với phiên trước chứng tỏ sức mạnh của phe mua. Tín hiệu này tiếp tục củng cố xu hướng tăng và cho thấy ACV có tiềm năng tiếp tục hướng lên các mức cao hơn.
 
-- **Ngày 2025-07-29:** ACV mở cửa gap lên từ 60.1 lên 60.3 và tiếp tục tăng vọt đến đỉnh lịch sử mới tại 62.2, tuy nhiên sau đó bị bán tháo mạnh xuống 57.8 và đóng cửa tại 58.6. Cây nến có biên độ cực rộng (443.4 xu) với bóng trên dài và thân nến nhỏ, cho thấy biến động cực kỳ mạnh. Khối lượng giao dịch bùng nổ lên 1.555 triệu đơn vị, tăng hơn 41% so với phiên **Effort to Rise** trước đó.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax (Đỉnh Bán)** cực kỳ mạnh sau khi chạm đỉnh lịch sử. Việc giá mở gap lên và đạt mức cao kỷ lục tại 62.2 nhưng sau đó bị bán tháo dữ dội xuống 57.8 với khối lượng bùng nổ cho thấy một sự thay đổi kịch tính trong tâm lý thị trường. Áp lực bán đã xuất hiện mạnh mẽ ở vùng đỉnh lịch sử và áp đảo hoàn toàn lực cầu. Tuy nhiên, việc giá cuối cùng đóng cửa tại 58.6 thay vì ở đáy phiên (57.8) cho thấy có sự hấp thụ nhất định ở vùng thấp. Khối lượng giao dịch kỷ lục có thể báo hiệu một climax selling, tức là áp lực bán có thể đã đạt đỉnh điểm. Cần quan sát thêm để xác định liệu đây có phải là kết thúc của chu kỳ tăng hay chỉ là một nhịp rung lắc mạnh trước khi tiếp tục xu hướng.
-Loaded cached credentials.
-Loaded cached credentials.
-- **Ngày 2025-07-30:** Giá tăng 1.4 điểm (1.5%). nến xanh với spread hẹp. khối lượng thấp giảm 64.0%.
-    - **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
+**Ngày 2025-07-28:** ACV tiếp tục xu hướng tăng mạnh mẽ từ 59.2 lên 60.1. Cây nến có biên độ rộng (từ 59.2 đến 60.3) và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch tăng mạnh lên 1.097 triệu đơn vị, cao hơn 23% so với phiên **SOS** trước đó.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** cực kỳ mạnh mẽ, tiếp tục xác nhận và củng cố chuỗi tín hiệu tích cực từ các phiên trước. Việc giá mở cửa tại mức đóng cửa phiên trước và tăng mạnh lên mức cao mới 60.3 trên khối lượng gia tăng đáng kể cho thấy dòng tiền thông minh đang rất tích cực. Sự kết hợp giữa **SOS** của ngày 25/7 và **Effort to Rise** hôm nay tạo thành chuỗi tín hiệu tăng giá mạnh mẽ, xác nhận ACV đã vượt qua tất cả các test cung và đang trong giai đoạn markup quyết đoán. Việc đóng cửa gần đỉnh phiên (60.1 vs 60.3) chứng tỏ áp lực bán hạn chế và xu hướng tăng có tiềm năng tiếp tục hướng đến các mức cao lịch sử.
+
+**Ngày 2025-07-29:** ACV mở cửa gap lên từ 60.1 lên 60.3 và tiếp tục tăng vọt đến đỉnh lịch sử mới tại 62.2, tuy nhiên sau đó bị bán tháo mạnh xuống 57.8 và đóng cửa tại 58.6. Cây nến có biên độ cực rộng (443.4 xu) với bóng trên dài và thân nến nhỏ, cho thấy biến động cực kỳ mạnh. Khối lượng giao dịch bùng nổ lên 1.555 triệu đơn vị, tăng hơn 41% so với phiên **Effort to Rise** trước đó.. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Selling Climax (Đỉnh Bán)** cực kỳ mạnh sau khi chạm đỉnh lịch sử. Việc giá mở gap lên và đạt mức cao kỷ lục tại 62.2 nhưng sau đó bị bán tháo dữ dội xuống 57.8 với khối lượng bùng nổ cho thấy một sự thay đổi kịch tính trong tâm lý thị trường. Áp lực bán đã xuất hiện mạnh mẽ ở vùng đỉnh lịch sử và áp đảo hoàn toàn lực cầu. Tuy nhiên, việc giá cuối cùng đóng cửa tại 58.6 thay vì ở đáy phiên (57.8) cho thấy có sự hấp thụ nhất định ở vùng thấp. Khối lượng giao dịch kỷ lục có thể báo hiệu một climax selling, tức là áp lực bán có thể đã đạt đỉnh điểm. Cần quan sát thêm để xác định liệu đây có phải là kết thúc của chu kỳ tăng hay chỉ là một nhịp rung lắc mạnh trước khi tiếp tục xu hướng. Loaded cached credentials. Loaded cached credentials.
+**Ngày 2025-07-30:** Giá tăng 1.4 điểm (1.5%). nến xanh với spread hẹp. khối lượng thấp giảm 64.0%.. **Phân tích VPA/Wyckoff:** Không có nhu cầu. Cần theo dõi xu hướng trong các phiên tiếp theo.
 **Ngày 2025-07-31:** ACV tăng mạnh từ 59.5 lên 60.9 sau phiên bán tháo mạnh trước đó. Cây nến tăng có biên độ rộng với mức cao 61.4 và mức thấp 59.2, đóng cửa gần đỉnh phiên. Khối lượng giao dịch tăng 45.3% lên 812.9k đơn vị, cao hơn đáng kể so với phiên **No Demand** trước đó nhưng vẫn thấp hơn nhiều so với phiên **Selling Climax** ngày 29/7.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Automatic Rally** mạnh mẽ sau phiên **Selling Climax** của ngày 29/7. Việc giá phục hồi quyết đoán từ vùng 59.5 lên 60.9 và test gần mức 61.4 trên khối lượng tăng cho thấy lực cầu đã quay trở lại sau giai đoạn bán tháo. Sự phục hồi này xác nhận rằng phiên **Selling Climax** trước đó có thể đã loại bỏ áp lực bán yếu và tạo ra cơ hội mua tốt ở vùng thấp. Việc giá đóng cửa gần đỉnh phiên (60.9 vs 61.4) cho thấy sức mạnh của phe mua. Tuy nhiên, cần quan sát liệu ACV có thể duy trì được vùng giá này hay sẽ có **Secondary Test** để kiểm tra độ vững chắc của đáy.
 **Ngày 2025-08-01:** ACV tăng nhẹ từ 60.9 lên 61.1 với biên độ dao động từ 60.8 đến 61.8. Cây nến có thân nhỏ với bóng trên dài, cho thấy sự giằng co ở vùng cao. Khối lượng giao dịch giảm 25.4% xuống 606.3k đơn vị, thấp hơn đáng kể so với phiên **Automatic Rally** trước đó.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** sau phiên **Automatic Rally** mạnh mẽ của ngày 31/7. Việc giá test lên mức cao 61.8 (gần với đỉnh phiên trước 61.4) nhưng chỉ tăng nhẹ 0.3 điểm trên khối lượng giảm mạnh cho thấy lực cầu đã yếu đi ở vùng cao này. Tín hiệu này cho thấy thị trường đang trong giai đoạn kiểm tra độ vững chắc của đợt phục hồi sau **Selling Climax**. Việc giá duy trì được trên mức 60.7 và không giảm sâu dưới vùng support là dấu hiệu tích cực, tuy nhiên khối lượng giảm mạnh cho thấy sự thiếu nhiệt tình của các nhà đầu tư ở vùng giá cao. Cần quan sát thêm để xác định liệu ACV có thể tái tạo momentum tăng giá hay sẽ có **Secondary Test** để kiểm tra lại vùng đáy trước khi tiếp tục xu hướng.
-**Ngày 2025-08-04:** ACV tăng mạnh từ 61.1 lên 61.8 với biên độ dao động từ 61.2 đến 62.3. Cây nến tăng có thân nến khá lớn và bóng trên ngắn, cho thấy sức mạnh tăng giá rõ rệt. Khối lượng giao dịch tăng 53.7% lên 931.8k đơn vị, cao hơn đáng kể so với phiên **Test for Demand** trước đó và đạt mức cao nhất trong 4 phiên gần đây.
-Loaded cached credentials.
-Loaded cached credentials.
-**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ sau phiên **Test for Demand** của ngày 01/8. Việc giá vượt qua vùng kháng cự 61.84 (mức cao của phiên trước) và test lên 62.32 trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại quyết đoán. Sự kết hợp giữa **Automatic Rally** (31/7), **Test for Demand** (01/8) và **SOS** (04/8) tạo thành chuỗi tín hiệu phục hồi mạnh mẽ sau **Selling Climax** ngày 29/7. Việc giá đóng cửa gần đỉnh phiên (61.84 vs 62.32) và khối lượng tăng mạnh xác nhận ACV đã hoàn tất giai đoạn test và sẵn sàng cho đợt tăng giá tiếp theo. Tín hiệu này cho thấy tiềm năng cao để ACV thách thức lại vùng đỉnh lịch sử 62.20 trong thời gian tới.
+**Ngày 2025-08-04:** ACV tăng mạnh từ 61.1 lên 61.8 với biên độ dao động từ 61.2 đến 62.3. Cây nến tăng có thân nến khá lớn và bóng trên ngắn, cho thấy sức mạnh tăng giá rõ rệt. Khối lượng giao dịch tăng 53.7% lên 931.8k đơn vị, cao hơn đáng kể so với phiên **Test for Demand** trước đó và đạt mức cao nhất trong 4 phiên gần đây. Loaded cached credentials. Loaded cached credentials. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Sign of Strength (SOS)** mạnh mẽ sau phiên **Test for Demand** của ngày 01/8. Việc giá vượt qua vùng kháng cự 61.84 (mức cao của phiên trước) và test lên 62.32 trên khối lượng tăng vọt cho thấy lực cầu đã quay trở lại quyết đoán. Sự kết hợp giữa **Automatic Rally** (31/7), **Test for Demand** (01/8) và **SOS** (04/8) tạo thành chuỗi tín hiệu phục hồi mạnh mẽ sau **Selling Climax** ngày 29/7. Việc giá đóng cửa gần đỉnh phiên (61.84 vs 62.32) và khối lượng tăng mạnh xác nhận ACV đã hoàn tất giai đoạn test và sẵn sàng cho đợt tăng giá tiếp theo. Tín hiệu này cho thấy tiềm năng cao để ACV thách thức lại vùng đỉnh lịch sử 62.20 trong thời gian tới.
 **Ngày 2025-08-05:** ACV mở cửa tại 61.96 và test lên mức cao 62.38 nhưng sau đó bị bán tháo mạnh xuống mức thấp 58.31 trước khi đóng cửa tại 61.78. Cây nến có biên độ cực rộng (407.00 xu) với bóng dưới dài và thân nến nhỏ, cho thấy biến động mạnh và sự giằng co quyết liệt. Khối lượng giao dịch tăng 20.1% lên 1.119 triệu đơn vị, đạt mức cao nhất trong 5 phiên gần đây.
 
 **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Supply** sau phiên **Sign of Strength** của ngày 04/8. Việc giá test lên mức cao mới 62.38 (vượt qua đỉnh lịch sử 62.20 của ngày 29/7) nhưng bị bán tháo mạnh xuống 58.31 trên khối lượng tăng cho thấy áp lực bán đã xuất hiện mạnh mẽ ở vùng đỉnh. Tuy nhiên, việc giá phục hồi mạnh từ đáy phiên 58.31 lên đóng cửa 61.78 (chỉ giảm 0.06 điểm so với phiên trước) là dấu hiệu tích cực, cho thấy lực cầu vẫn còn mạnh ở vùng thấp. Khối lượng tăng kết hợp với biên độ rộng cho thấy đây là một cuộc test nghiêm túc khả năng cung cấp ở vùng đỉnh lịch sử. Việc ACV duy trì được mức đóng cửa trên 61.35 sau nhịp test mạnh này cho thấy foundation vẫn vững chắc, tuy nhiên cần quan sát phản ứng trong các phiên tới để xác định liệu xu hướng tăng có tiếp tục hay cần thời gian consolidation.

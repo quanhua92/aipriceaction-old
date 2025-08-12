@@ -1,74 +1,52 @@
 # VLB
 
-- **Ngày 2025-06-26:** VLB giảm từ 46.2 lên 46.4. Tuy nhiên, cây nến giảm (mở cửa 46.2, đóng cửa 46.4). Khối lượng giao dịch không đổi (48.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+**Ngày 2025-06-26:** VLB giảm từ 46.2 lên 46.4. Tuy nhiên, cây nến giảm (mở cửa 46.2, đóng cửa 46.4). Khối lượng giao dịch không đổi (48.5k đơn vị).. **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
 
-- **Ngày 2025-06-27:** VLB giảm từ 46.4 xuống 45.7. Nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (42.6k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+**Ngày 2025-06-27:** VLB giảm từ 46.4 xuống 45.7. Nến giảm có biên độ rộng. Khối lượng giao dịch không đổi (42.6k đơn vị).. **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
 
-- **Ngày 2025-06-30:** VLB giảm từ 45.7 xuống 46.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (55.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+**Ngày 2025-06-30:** VLB giảm từ 45.7 xuống 46.1. Nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (55.5k đơn vị).. **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
 
-- **Ngày 2025-07-01:** VLB giảm mạnh từ 46.1 xuống 45.5. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (65.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Áp lực bán dù nhỏ vẫn đủ để đẩy giá xuống.
+**Ngày 2025-07-01:** VLB giảm mạnh từ 46.1 xuống 45.5. Nến giảm có biên độ rộng. Khối lượng giao dịch tăng (65.5k đơn vị).. **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Áp lực bán dù nhỏ vẫn đủ để đẩy giá xuống.
 
-- **Ngày 2025-07-02:** VLB tăng từ 45.5 lên 46.0. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (85.2k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
+**Ngày 2025-07-02:** VLB tăng từ 45.5 lên 46.0. Nến tăng có biên độ rộng. Khối lượng giao dịch tăng (85.2k đơn vị).. **Phân tích VPA/Wyckoff:** Tình trạng **No Demand** và **No Supply** vẫn tiếp diễn. Thị trường hoàn toàn thiếu động lực.
 
-- **Ngày 2025-07-03:** VLB tăng từ 46.0 lên 46.3. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (154.9k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
+**Ngày 2025-07-03:** VLB tăng từ 46.0 lên 46.3. Nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (154.9k đơn vị).. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Rise**, phủ nhận tín hiệu **No Demand** trước đó. Lực cầu đã quay trở lại.
 
-- **Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VLB tăng từ 46.3 lên 46.7. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (64.9k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
+**Ngày 2025-07-04:** Tiếp nối tín hiệu **Effort to Rise** của phiên trước, phiên hôm nay VLB tăng từ 46.3 lên 46.7. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch giảm mạnh (64.9k đơn vị).. **Phân tích VPA/Wyckoff:** Sau phiên tăng giá, phiên tăng chậm lại với khối lượng giảm này cho thấy sự do dự. Lực cầu đã yếu đi, có thể là một **Test for Supply** ở vùng giá cao hơn. Tín hiệu trung tính.
 
-- **Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay VLB giảm từ 46.7 xuống 46.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (73.5k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
+**Ngày 2025-07-07:** Tiếp nối phiên **Test for Supply** trung tính của ngày hôm trước, phiên hôm nay VLB giảm từ 46.7 xuống 46.6. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch tăng (73.5k đơn vị).. **Phân tích VPA/Wyckoff:** Đây là một tín hiệu **Effort to Fall**. Việc giá giảm trên khối lượng gia tăng sau một phiên kiểm tra cung cho thấy áp lực bán vẫn còn hiện hữu và đang chiếm ưu thế, củng cố cho khả năng giá sẽ tiếp tục điều chỉnh.
 
-- **Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VLB tăng nhẹ từ 46.6 lên 46.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (109.6k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
+**Ngày 2025-07-08:** Tiếp nối tín hiệu **Effort to Fall** của phiên trước, phiên hôm nay VLB tăng nhẹ từ 46.6 lên 46.8. Cây nến tăng có biên độ vừa phải. Khối lượng giao dịch tăng (109.6k đơn vị).. **Phân tích VPA/Wyckoff:** Đây là một cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**. Lực cầu yếu và không đủ thuyết phục để đảo ngược tình thế. Tình hình vẫn tiêu cực.
 
-- **Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VLB giảm từ 46.8 xuống 46.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (76k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
+**Ngày 2025-07-09:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand (Không có Nhu cầu)**, phiên hôm nay VLB giảm từ 46.8 xuống 46.7. Cây nến giảm có biên độ hẹp. Khối lượng giao dịch giảm (76k đơn vị).. **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Áp lực bán dù không quá lớn vẫn dễ dàng đẩy giá xuống, cho thấy khả năng giá sẽ tiếp tục điều chỉnh.
 
-- **Ngày 2025-07-10:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay VLB tăng nhẹ từ 46.7 lên 46.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (39.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho các tín hiệu yếu kém trước đó.
+**Ngày 2025-07-10:** Tiếp nối cú hồi kỹ thuật trên nền **No Demand**, phiên hôm nay VLB tăng nhẹ từ 46.7 lên 46.8. Cây nến tăng có biên độ hẹp. Khối lượng giao dịch giảm (39.7k đơn vị).. **Phân tích VPA/Wyckoff:** Hành động giá này tiếp tục xác nhận sự yếu kém của lực cầu. Lực mua không đủ sức duy trì đà tăng, củng cố cho các tín hiệu yếu kém trước đó.
 
-- **Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay VLB giảm từ 46.8 xuống 46.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (61.1k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
+**Ngày 2025-07-11:** Sau cú hồi kỹ thuật yếu ớt, hôm nay VLB giảm từ 46.8 xuống 46.6. Cây nến giảm có biên độ vừa phải. Khối lượng giao dịch tăng (61.1k đơn vị).. **Phân tích VPA/Wyckoff:** Hành động giá này xác nhận sự yếu kém của lực cầu. Áp lực bán đã quay trở lại và dễ dàng đẩy giá xuống, củng cố cho kịch bản điều chỉnh.
 
-- **Ngày 2025-07-15:** VLB giảm từ 46.5 xuống 45.9 với đỉnh ngày đạt 46.5. Nến có biên độ rộng. Khối lượng giao dịch tăng (110.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Effort to Fall** - Việc giá giảm trên khối lượng gia tăng xác nhận áp lực bán vẫn đang kiểm soát. Tiếp nối các tín hiệu yếu kém trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
+**Ngày 2025-07-15:** VLB giảm từ 46.5 xuống 45.9 với đỉnh ngày đạt 46.5. Nến có biên độ rộng. Khối lượng giao dịch tăng (110.7k đơn vị).. **Phân tích VPA/Wyckoff:** **Effort to Fall** - Việc giá giảm trên khối lượng gia tăng xác nhận áp lực bán vẫn đang kiểm soát. Tiếp nối các tín hiệu yếu kém trước đó, xu hướng điều chỉnh có khả năng cao sẽ tiếp diễn.
 
-- **Ngày 2025-07-16:** VLB tăng nhẹ từ 45.5 lên 44.9 với đỉnh ngày đạt 45.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (58.1k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Fall, việc giá giảm với khối lượng giảm cho thấy áp lực bán đã sụy yếu nhưng lực cầu vẫn chưa quay trở lại. Đây là một nhịp kiểm tra bình thường trong quá trình điều chỉnh.
+**Ngày 2025-07-16:** VLB tăng nhẹ từ 45.5 lên 44.9 với đỉnh ngày đạt 45.5. Nến giảm có biên độ rộng. Khối lượng giao dịch giảm (58.1k đơn vị).. **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau tín hiệu Effort to Fall, việc giá giảm với khối lượng giảm cho thấy áp lực bán đã sụy yếu nhưng lực cầu vẫn chưa quay trở lại. Đây là một nhịp kiểm tra bình thường trong quá trình điều chỉnh.
 
-- **Ngày 2025-07-17:** VLB tăng từ 44.7 lên 45.1 với đỉnh ngày đạt 45.5. Nến tăng có biên độ rộng với đuôi dài phía dưới. Khối lượng giao dịch tăng (87.2k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Test for Supply, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 43.5. Việc giá phục hồi với khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện, nhưng vẫn cần quan sát thêm để xác nhận.
+**Ngày 2025-07-17:** VLB tăng từ 44.7 lên 45.1 với đỉnh ngày đạt 45.5. Nến tăng có biên độ rộng với đuôi dài phía dưới. Khối lượng giao dịch tăng (87.2k đơn vị).. **Phân tích VPA/Wyckoff:** **Test for Demand** - Sau phiên Test for Supply, thị trường đang kiểm tra lực cầu tại vùng hỗ trợ 43.5. Việc giá phục hồi với khối lượng tăng cho thấy lực cầu bắt đầu xuất hiện, nhưng vẫn cần quan sát thêm để xác nhận.
 
-- **Ngày 2025-07-17:** VLB tăng từ 45.1 lên 45.8 với đỉnh ngày đạt 46.0. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (95.0k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand tích cực, lực cầu đã quay trở lại mạnh mẽ hơn để thử nghiệm vùng kháng cự 46.0. Việc giá tăng mạnh với khối lượng cải thiện tiếp tục cho thấy khả năng đảo chiều xu hướng giảm điều chỉnh.
+**Ngày 2025-07-17:** VLB tăng từ 45.1 lên 45.8 với đỉnh ngày đạt 46.0. Nến tăng có biên độ rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng (95.0k đơn vị).. **Phân tích VPA/Wyckoff:** **Effort to Rise** - Sau phiên Test for Demand tích cực, lực cầu đã quay trở lại mạnh mẽ hơn để thử nghiệm vùng kháng cự 46.0. Việc giá tăng mạnh với khối lượng cải thiện tiếp tục cho thấy khả năng đảo chiều xu hướng giảm điều chỉnh.
 
-- **Ngày 2025-07-18:** VLB bùng nổ từ 45.2 lên 49.0 với đỉnh ngày đạt 49.1. Nến tăng có biên độ cực rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọp (497.8k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bùng nổ mạnh mẽ của lực cầu. Khối lượng giao dịch tăng gấp 5 lần kèm theo việc giá bứt phá mạnh mẽ cho thấy smart money đang tích cực tích lũy, tạo nên momentum tăng giá cực mạnh sau giai đoạn điều chỉnh.
+**Ngày 2025-07-18:** VLB bùng nổ từ 45.2 lên 49.0 với đỉnh ngày đạt 49.1. Nến tăng có biên độ cực rộng và đóng cửa gần mức cao nhất. Khối lượng giao dịch tăng vọp (497.8k đơn vị).. **Phân tích VPA/Wyckoff:** **Sign of Strength (SOS)** - Sau tín hiệu Effort to Rise của phiên trước, phiên này xác nhận sự bùng nổ mạnh mẽ của lực cầu. Khối lượng giao dịch tăng gấp 5 lần kèm theo việc giá bứt phá mạnh mẽ cho thấy smart money đang tích cực tích lũy, tạo nên momentum tăng giá cực mạnh sau giai đoạn điều chỉnh.
 
-- **Ngày 2025-07-21:** Sau tín hiệu SOS cực mạnh, VLB giảm từ 49.1 xuống 48.6 với đỉnh ngày đạt 49.5. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm mạnh (130.7k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bùng nổ SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng đỉnh 49.5. Việc giá giảm nhẹ với khối lượng giảm đáng kể (từ 497.8k xuống 130.7k) cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh.
+**Ngày 2025-07-21:** Sau tín hiệu SOS cực mạnh, VLB giảm từ 49.1 xuống 48.6 với đỉnh ngày đạt 49.5. Nến giảm có biên độ rộng với đuôi dài phía trên. Khối lượng giao dịch giảm mạnh (130.7k đơn vị).. **Phân tích VPA/Wyckoff:** **Test for Supply** - Sau đợt bùng nổ SOS của phiên trước, thị trường đang kiểm tra áp lực bán tại vùng đỉnh 49.5. Việc giá giảm nhẹ với khối lượng giảm đáng kể (từ 497.8k xuống 130.7k) cho thấy áp lực bán không mạnh, đây là nhịp điều chỉnh lành mạnh sau đợt tăng mạnh.
 
-- **Ngày 2025-07-22:** VLB giảm từ 49.0 xuống 48.1 với mức thấp nhất 47.6. Nến giảm có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm tiếp (81.1k đơn vị).
-    - **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Tiếp nối Test for Supply của phiên trước, việc giá tiếp tục giảm nhưng khối lượng duy trì thấp (từ 130.7k xuống 81.1k) cho thấy áp lực bán chốt lời không mạnh. Việc test mức 47.6 và hồi phục về 48.1 xác nhận đây vẫn là nhịp điều chỉnh lành mạnh trong xu hướng tăng mạnh mẽ sau SOS.
+**Ngày 2025-07-22:** VLB giảm từ 49.0 xuống 48.1 với mức thấp nhất 47.6. Nến giảm có biên độ rộng và đóng cửa ở mức trung bình. Khối lượng giao dịch giảm tiếp (81.1k đơn vị).. **Phân tích VPA/Wyckoff:** **Test for Supply** tiếp diễn - Tiếp nối Test for Supply của phiên trước, việc giá tiếp tục giảm nhưng khối lượng duy trì thấp (từ 130.7k xuống 81.1k) cho thấy áp lực bán chốt lời không mạnh. Việc test mức 47.6 và hồi phục về 48.1 xác nhận đây vẫn là nhịp điều chỉnh lành mạnh trong xu hướng tăng mạnh mẽ sau SOS.
 
-- **Ngày 2025-07-23:** VLB tăng từ 48.1 lên 48.4. Cây nến tăng có biên độ hẹp với giá cao nhất 48.5. Khối lượng giao dịch tăng mạnh (165.8k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Sau chuỗi **Test for Supply**, việc giá phục hồi với khối lượng tăng gấp đôi (từ 81.1k lên 165.8k) cho thấy lực cầu đã quay trở lại để hấp thụ nguồn cung. Việc giá có thể test lên 48.5 thể hiện tiềm năng phục hồi. Tín hiệu tích cực, cho thấy giai đoạn điều chỉnh có thể đã kết thúc.
+**Ngày 2025-07-23:** VLB tăng từ 48.1 lên 48.4. Cây nến tăng có biên độ hẹp với giá cao nhất 48.5. Khối lượng giao dịch tăng mạnh (165.8k đơn vị).. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Test for Demand** tích cực. Sau chuỗi **Test for Supply**, việc giá phục hồi với khối lượng tăng gấp đôi (từ 81.1k lên 165.8k) cho thấy lực cầu đã quay trở lại để hấp thụ nguồn cung. Việc giá có thể test lên 48.5 thể hiện tiềm năng phục hồi. Tín hiệu tích cực, cho thấy giai đoạn điều chỉnh có thể đã kết thúc.
 
 
-- **Ngày 2025-07-28:** VLB tăng nhẹ từ 47.8 lên 47.9 (+0.2%). Cây nến tăng có biên độ hẹp với mức cao nhất 48.0 và mức thấp nhất 47.5. Khối lượng giao dịch tăng (76.9k đơn vị).
-    - **Phân tích VPA/Wyckoff:** Hành động giá hôm nay thể hiện **No Supply** nhẹ. Việc giá dao động trong biên độ hẹp từ 47.5 đến 48.0 với khối lượng tăng cho thấy không có áp lực bán đáng kể và lực cầu đang dần ổn định. Mặc dù mức tăng rất nhỏ, sự thiếu áp lực bán là dấu hiệu tích cực, thị trường có thể đang chuẩn bị cho giai đoạn tích lũy.
 
-- **Ngày 2025-07-29:** VLB giảm mạnh từ 48.0 xuống 45.6 (-4.8%), giảm 2.3 điểm so với ngày trước. Thanh nến đỏ có spread rộng 2.4 điểm (từ 45.6 đến 48.0) với đóng cửa ở mức thấp nhất ngày. Khối lượng giao dịch tăng 88.2% lên 144.9k cổ phiếu.
-    - **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tín hiệu **No Supply** của phiên trước, hành động giá hôm nay cho thấy áp lực bán mạnh đã bất ngờ xuất hiện. Nến đỏ rất rộng với đóng cửa ở mực thấp nhất kết hợp khối lượng tăng gần gấp đôi cho thấy có sự can thiệp mạnh của smart money để phân phối. Tín hiệu này hoàn toàn đảo ngược momentum tích cực trước đó và báo hiệu giai đoạn điều chỉnh sâu.
+**Ngày 2025-07-28:** VLB tăng nhẹ từ 47.8 lên 47.9 (+0.2%). Cây nến tăng có biên độ hẹp với mức cao nhất 48.0 và mức thấp nhất 47.5. Khối lượng giao dịch tăng (76.9k đơn vị).. **Phân tích VPA/Wyckoff:** Hành động giá hôm nay thể hiện **No Supply** nhẹ. Việc giá dao động trong biên độ hẹp từ 47.5 đến 48.0 với khối lượng tăng cho thấy không có áp lực bán đáng kể và lực cầu đang dần ổn định. Mặc dù mức tăng rất nhỏ, sự thiếu áp lực bán là dấu hiệu tích cực, thị trường có thể đang chuẩn bị cho giai đoạn tích lũy.
 
-- **Ngày 2025-07-30:** VLB tăng +1.97% lên 46.50. nến doji thể hiện sự do dự của thị trường, phạm vi dao động 1.80 (3.87%). Giao dịch với khối lượng giảm xuống 0.8 lần so với phiên trước.
-    - **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
+**Ngày 2025-07-29:** VLB giảm mạnh từ 48.0 xuống 45.6 (-4.8%), giảm 2.3 điểm so với ngày trước. Thanh nến đỏ có spread rộng 2.4 điểm (từ 45.6 đến 48.0) với đóng cửa ở mức thấp nhất ngày. Khối lượng giao dịch tăng 88.2% lên 144.9k cổ phiếu.. **Phân tích VPA/Wyckoff:** **Sign of Weakness (SOW)** - Sau tín hiệu **No Supply** của phiên trước, hành động giá hôm nay cho thấy áp lực bán mạnh đã bất ngờ xuất hiện. Nến đỏ rất rộng với đóng cửa ở mực thấp nhất kết hợp khối lượng tăng gần gấp đôi cho thấy có sự can thiệp mạnh của smart money để phân phối. Tín hiệu này hoàn toàn đảo ngược momentum tích cực trước đó và báo hiệu giai đoạn điều chỉnh sâu.
+
+**Ngày 2025-07-30:** VLB tăng +1.97% lên 46.50. nến doji thể hiện sự do dự của thị trường, phạm vi dao động 1.80 (3.87%). Giao dịch với khối lượng giảm xuống 0.8 lần so với phiên trước.. **Phân tích VPA/Wyckoff:** Kiểm tra nguồn cung. Giá tăng nhưng khối lượng thấp, cần xem nguồn cung có xuất hiện không.
 **Ngày 2025-07-31:** VLB giảm nhẹ từ 46.6 xuống 45.9 (-1.29%) với spread hẹp 1.0 điểm (từ 45.6 đến 46.6). Cây nến giảm có thân nhỏ và đóng cửa gần mức thấp nhất ngày. Khối lượng giao dịch giảm mạnh xuống 42.6k cổ phiếu (giảm 61.6% so với phiên trước).
 
 **Phân tích VPA/Wyckoff:** **No Demand** - Sau tín hiệu Test for Supply của phiên trước, việc giá giảm tiếp với khối lượng giảm mạnh từ 110.9k xuống 42.6k cho thấy lực cầu đã suy yếu đáng kể. Mặc dù mức giảm không sâu (-1.29%) nhưng sự thiếu vắng lực cầu kết hợp với xu hướng giảm từ đỉnh 49.1 cho thấy áp lực bán vẫn đang chi phối. Thị trường cần thời gian để tìm lại sự cân bằng, vùng hỗ trợ 45.6 cần được giữ vững để tránh suy yếu thêm.

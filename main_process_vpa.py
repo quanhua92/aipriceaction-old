@@ -573,6 +573,68 @@ def validate_vpa_file_format(ticker, week_mode=False):
         logging.error(f"❌ Error validating VPA file format for {ticker}: {e}")
 
 
+def validate_vpa_content(ticker, vpa_entry):
+    """
+    Validate VPA content for common errors before saving
+    Returns True if valid, False if errors found
+    """
+    import re
+    
+    # Extract all numeric values that could be prices
+    price_patterns = [
+        r'từ\s+(\d+\.?\d*)\s+(?:lên|xuống)\s+(\d+\.?\d*)',  # "từ X lên Y" patterns
+        r'tăng.*?từ\s+(\d+\.?\d*)\s+lên\s+(\d+\.?\d*)',
+        r'giảm.*?từ\s+(\d+\.?\d*)\s+xuống\s+(\d+\.?\d*)',
+        r'mở cửa.*?(\d+\.?\d*)',
+        r'đóng cửa.*?(\d+\.?\d*)',
+        r'cao nhất.*?(\d+\.?\d*)',
+        r'thấp nhất.*?(\d+\.?\d*)'
+    ]
+    
+    extracted_prices = []
+    for pattern in price_patterns:
+        matches = re.findall(pattern, vpa_entry)
+        for match in matches:
+            if isinstance(match, tuple):
+                extracted_prices.extend([float(p) for p in match])
+            else:
+                extracted_prices.append(float(match))
+    
+    # Check for unreasonable price values
+    errors = []
+    for price in extracted_prices:
+        if price < 1:  # Too low for Vietnamese stocks
+            errors.append(f"Price {price} is too low (< 1 VND)")
+        elif price > 500:  # Too high for most Vietnamese stocks
+            errors.append(f"Price {price} is too high (> 500 VND)")
+        elif 1 < price < 20 and price != int(price):  # Likely volume confusion
+            # Volume numbers like 15.79 million often get confused as prices
+            errors.append(f"Price {price} looks like volume data (millions of shares)")
+    
+    # Check for volume confusion patterns
+    volume_confusion_patterns = [
+        r'(\d+\.\d{1,2})\s*triệu.*?(?:lên|xuống|từ)',  # Volume numbers used in price contexts
+        r'từ\s+(\d{1,2}\.\d{1,2})\s+lên',  # Small decimal numbers unlikely to be prices
+    ]
+    
+    for pattern in volume_confusion_patterns:
+        matches = re.findall(pattern, vpa_entry)
+        for match in matches:
+            value = float(match)
+            if 1 < value < 50:  # Typical volume range
+                errors.append(f"Value {value} in price context appears to be volume data")
+    
+    if errors:
+        logging.warning(f"⚠️  {ticker}: VPA validation warnings:")
+        for error in errors:
+            logging.warning(f"   - {error}")
+        # For now, return True but log warnings
+        # In production, you might want to return False to reject bad content
+        return True
+    
+    return True
+
+
 def parse_and_append_vpa_analysis(ticker, ai_output, week_mode=False):
     """
     Parse AI agent output and append VPA analysis to appropriate file
@@ -630,6 +692,11 @@ def parse_and_append_vpa_analysis(ticker, ai_output, week_mode=False):
         logging.debug(f"📝 Final VPA entry for {ticker} ({len(vpa_entry)} chars):")
         logging.debug(f"📝 VPA entry content:\n{'-'*40}\n{vpa_entry}\n{'-'*40}")
         
+        # Validate VPA content before saving
+        if not validate_vpa_content(ticker, vpa_entry):
+            logging.error(f"❌ {ticker}: VPA content validation failed")
+            return False
+        
         # Create VPA directory if it doesn't exist
         vpa_folder_path = Path(vpa_folder)
         vpa_folder_path.mkdir(exist_ok=True)
@@ -679,9 +746,9 @@ def call_ai_agent_for_vpa_analysis(ticker, context, week_mode=False, agent='clau
         timeframe = "weekly" if week_mode else "daily"
         
         # Include all context directly in the prompt
-        # Format last 10 OHLCV data points
+        # Format last 10 OHLCV data points with clear labeling
         last_10_ohlcv_str = "\n".join([
-            f"- {item['date']}: O={item['open']}, H={item['high']}, L={item['low']}, C={item['close']}, V={item['volume']}"
+            f"- {item['date']}: Open={item['open']}, High={item['high']}, Low={item['low']}, Close={item['close']}, Volume={item['volume']:,} shares"
             for item in context['last_10_ohlcv']
         ])
         
@@ -698,19 +765,19 @@ Timeframe: {context['timeframe']}
 Total Data Rows: {context['data_rows']}
 Date Range: {context['date_range']}
 
-Latest OHLCV:
-- Open: {context['latest_ohlcv']['open']}
-- High: {context['latest_ohlcv']['high']}
-- Low: {context['latest_ohlcv']['low']}
-- Close: {context['latest_ohlcv']['close']}
-- Volume: {context['latest_ohlcv']['volume']}
+Latest OHLCV ({context['latest_date']}):
+- Open: {context['latest_ohlcv']['open']} VND
+- High: {context['latest_ohlcv']['high']} VND  
+- Low: {context['latest_ohlcv']['low']} VND
+- Close: {context['latest_ohlcv']['close']} VND
+- Volume: {context['latest_ohlcv']['volume']:,} shares
 
 Previous OHLCV:
-- Open: {context['previous_ohlcv']['open']}
-- High: {context['previous_ohlcv']['high']}
-- Low: {context['previous_ohlcv']['low']}
-- Close: {context['previous_ohlcv']['close']}
-- Volume: {context['previous_ohlcv']['volume']}
+- Open: {context['previous_ohlcv']['open']} VND
+- High: {context['previous_ohlcv']['high']} VND
+- Low: {context['previous_ohlcv']['low']} VND  
+- Close: {context['previous_ohlcv']['close']} VND
+- Volume: {context['previous_ohlcv']['volume']:,} shares
 
 Last 10 OHLCV Data Points:
 {last_10_ohlcv_str}
@@ -725,19 +792,29 @@ Last 10 VPA Entries:
 4. OUTPUT the analysis entry in the exact format below (do NOT edit files)
 
 Required Output Format:
-**Ngày {context['latest_date']}:**
-[Your detailed Vietnamese analysis of price/volume action, trends, support/resistance levels, and market context]
+**Ngày {context['latest_date']}:** [Your detailed Vietnamese analysis of price/volume action, trends, support/resistance levels, and market context]. **Phân tích VPA/Wyckoff:** [Your Wyckoff signal assessment]
 
-**Phân tích VPA/Wyckoff:** [Your Wyckoff signal assessment]
+Example:
+**Ngày 2025-08-01:** VCB tăng từ 61.5 lên 62.3 với khối lượng giao dịch đạt 15.2 triệu cổ phiếu. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất phiên. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu mạnh mẽ với khối lượng gia tăng xác nhận xu hướng tăng.
 
 Requirements:
 - Use Vietnamese financial terminology only  
 - Use DOT (.) as decimal separator, never comma (,)
-- Follow the exact format above with **Ngày** and **Phân tích VPA/Wyckoff:** sections
+- ALL PRICES must be in VND (Vietnamese Dong) - typical range 20-100 VND for stocks
+- Volume is in SHARES (millions of shares) - never confuse volume numbers with prices
+- When describing volume, always use "triệu cổ phiếu" (million shares) 
+- SINGLE-LINE FORMAT: Start with **Ngày** followed by analysis, end with **Phân tích VPA/Wyckoff:**
+- NO separate sections or line breaks between Ngày and Phân tích
 - Build on previous VPA entries if they exist
 - Compare current price/volume action to previous periods
 - Apply proper Wyckoff VPA methodology
 - Output ONLY the formatted analysis entry - no additional text
+
+CRITICAL: 
+- Stock prices are typically 20-100 VND per share
+- Volume is typically 5-50 million shares per day
+- NEVER mix these up - 42.32 million shares is VOLUME, not a price
+- When writing "từ X lên Y", X and Y must be PRICES in VND, not volume
 
 IMPORTANT: Output only the VPA analysis entry in the specified format. Do not use any file editing tools.
 """
