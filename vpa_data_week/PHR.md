@@ -1,22 +1,13 @@
 # PHR
 
-- **Ngày 2025-06-02:** Một tuần giảm giá nhẹ với nến giảm biên độ hẹp, có bóng dưới. Khối lượng giao dịch giảm.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công.
-- **Ngày 2025-06-09:** PHR đi ngang với nến giảm biên độ hẹp. Khối lượng giao dịch không đổi.
-    - **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand**. Thị trường đang tích lũy.
-- **Ngày 2025-06-16:** Một tuần tăng giá mạnh, đóng cửa (55.7) gần mức cao nhất tuần. Khối lượng giao dịch ổn định.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế.
-- **Ngày 2025-06-23:** PHR có một tuần bùng nổ mạnh mẽ, tạo ra một nến tăng thân dài và đóng cửa ở mức cao nhất tuần (61.0). Khối lượng giao dịch tăng mạnh.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, phá vỡ vùng đỉnh cũ, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được xác nhận.
-- **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, PHR có một tuần điều chỉnh với một nến giảm. Khối lượng giao dịch giảm.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
-- **Ngày 2025-07-14:** PHR phục hồi với nến tăng có biên độ vừa phải, đóng cửa (62.2) cao hơn tuần trước. Giá tạo đỉnh tuần tại 63.0. Khối lượng giao dịch tăng 19% so với tuần trước.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận tín hiệu No Supply từ tuần trước. Việc tăng giá với khối lượng tăng cho thấy lực cầu đã trở lại sau giai đoạn điều chỉnh, hỗ trợ xu hướng tăng tiếp tục.
-- **Ngày 2025-07-21:** PHR có một tuần dao động với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 nhưng chốt phiên giảm nhẹ. Khối lượng giao dịch tăng 22% lên 3.4 triệu cổ phiếu.
-    - **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với một số đặc điểm hỗn hợp. Việc giá có thể đạt mức cao mới (65.8) nhưng không thể duy trì và đóng cửa thấp hơn với khối lượng tăng cho thấy có sự chống đỡ ở vùng cao. Tuy nhiên, việc giá vẫn giữ được trên mức hỗ trợ quan trọng cho thấy tình trạng tương đối No Supply, cần theo dõi tuần tới để xác định xu hướng.
+- **Ngày 2025-06-02:** Một tuần giảm giá nhẹ với nến giảm biên độ hẹp, có bóng dưới. Khối lượng giao dịch giảm. **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply** thành công.
+- **Ngày 2025-06-09:** PHR đi ngang với nến giảm biên độ hẹp. Khối lượng giao dịch không đổi. **Phân tích VPA/Wyckoff:** Tín hiệu **No Demand**. Thị trường đang tích lũy.
+- **Ngày 2025-06-16:** Một tuần tăng giá mạnh, đóng cửa (55.7) gần mức cao nhất tuần. Khối lượng giao dịch ổn định. **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế.
+- **Ngày 2025-06-23:** PHR có một tuần bùng nổ mạnh mẽ, tạo ra một nến tăng thân dài và đóng cửa ở mức cao nhất tuần (61.0). Khối lượng giao dịch tăng mạnh. **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** rõ ràng, phá vỡ vùng đỉnh cũ, cho thấy lực cầu đang rất quyết liệt và xu hướng tăng được xác nhận.
+- **Ngày 2025-07-07:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, PHR có một tuần điều chỉnh với một nến giảm. Khối lượng giao dịch giảm. **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**. Việc giá điều chỉnh với khối lượng thấp sau một đợt tăng mạnh là một tín hiệu rất No Supply, cho thấy áp lực chốt lời yếu và thị trường đang hấp thụ tốt.
+- **Ngày 2025-07-14:** PHR phục hồi với nến tăng có biên độ vừa phải, đóng cửa (62.2) cao hơn tuần trước. Giá tạo đỉnh tuần tại 63.0. Khối lượng giao dịch tăng 19% so với tuần trước. **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, xác nhận tín hiệu No Supply từ tuần trước. Việc tăng giá với khối lượng tăng cho thấy lực cầu đã trở lại sau giai đoạn điều chỉnh, hỗ trợ xu hướng tăng tiếp tục.
+- **Ngày 2025-07-21:** PHR có một tuần dao động với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 nhưng chốt phiên giảm nhẹ. Khối lượng giao dịch tăng 22% lên 3.4 triệu cổ phiếu. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với một số đặc điểm hỗn hợp. Việc giá có thể đạt mức cao mới (65.8) nhưng không thể duy trì và đóng cửa thấp hơn với khối lượng tăng cho thấy có sự chống đỡ ở vùng cao. Tuy nhiên, việc giá vẫn giữ được trên mức hỗ trợ quan trọng cho thấy tình trạng tương đối No Supply, cần theo dõi tuần tới để xác định xu hướng.
 
 
-**Ngày 2025-07-27:** PHR có một tuần dao động mạnh với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 (cao hơn đỉnh tuần trước 63.0) nhưng không thể duy trì và đóng cửa thấp hơn mức mở cửa. Khối lượng giao dịch tăng 26% lên 3.486 triệu cổ phiếu so với tuần trước.
-
-**Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với đặc điểm tiêu cực. Việc giá đạt được đỉnh mới tại 65.8 nhưng đóng cửa thấp hơn mức mở cửa với khối lượng tăng mạnh cho thấy có áp lực bán mạnh ở vùng cao và lực cầu không đủ mạnh để duy trì mức giá. Điều này báo hiệu khả năng có sự phân phối tại vùng đỉnh và xu hướng tăng có thể gặp khó khăn trong ngắn hạn.
+**Ngày 2025-07-27:** PHR có một tuần dao động mạnh với biên độ rộng, mở cửa tại 62.9 và đóng cửa tại 61.5. Giá đạt đỉnh tuần tại 65.8 (cao hơn đỉnh tuần trước 63.0) nhưng không thể duy trì và đóng cửa thấp hơn mức mở cửa. Khối lượng giao dịch tăng 26% lên 3.486 triệu cổ phiếu so với tuần trước. **Phân tích VPA/Wyckoff:** Đây là tín hiệu **Effort to Rise** với đặc điểm tiêu cực. Việc giá đạt được đỉnh mới tại 65.8 nhưng đóng cửa thấp hơn mức mở cửa với khối lượng tăng mạnh cho thấy có áp lực bán mạnh ở vùng cao và lực cầu không đủ mạnh để duy trì mức giá. Điều này báo hiệu khả năng có sự phân phối tại vùng đỉnh và xu hướng tăng có thể gặp khó khăn trong ngắn hạn.
 **Ngày 2025-08-03:** PHR có một tuần tích cực với nến tăng có biên độ vừa phải, mở cửa tại 62.4 và đóng cửa tại 62.6. Giá đạt đỉnh tuần tại 64.8 (thấp hơn đỉnh tuần trước 65.8) và dao động trong khoảng 60.9-64.8. Khối lượng giao dịch tăng nhẹ 2% lên 3.551 triệu cổ phiếu so với tuần trước.

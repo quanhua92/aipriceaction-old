@@ -1,22 +1,13 @@
 # PVI
 
-- **Ngày 2025-06-02:** Một tuần tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch tăng.
-    - **Phân tích VPA/Wyckoff:** Một **Effort to Rise** yếu.
-- **Ngày 2025-06-09:** PVI quay đầu giảm, đóng cửa (55.2) thấp hơn. Khối lượng giao dịch thấp.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**.
-- **Ngày 2025-06-16:** Cổ phiếu phục hồi với một nến tăng. Khối lượng giao dịch tăng nhẹ.
-    - **Phân tích VPA/Wyckoff:** Một **Effort to Rise**.
-- **Ngày 2025-06-23:** PVI có một tuần tăng giá nhẹ với một nến tăng có biên độ hẹp và đóng cửa cao hơn tuần trước. Khối lượng giao dịch duy trì ở mức thấp.
-    - **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá có thể đi lên trên nền khối lượng thấp là một tín hiệu No Supply, cho thấy không có nhiều áp lực bán.
-- **Ngày 2025-07-07:** Sau phiên kiểm tra No Supply của tuần trước, PVI có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (58.4) cao hơn. Khối lượng giao dịch tăng.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
-- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, PVI có một tuần tăng giá tiếp tục với nến tăng biên độ hẹp, đóng cửa (59.0) cao hơn. Khối lượng giao dịch giảm rõ rệt so với tuần trước.
-    - **Phân tích VPA/Wyckoff:** Đây là một **No Supply** rõ ràng. Việc giá tiếp tục tăng trên nền khối lượng thấp cho thấy áp lực bán rất yếu và đà tăng đang được củng cố.
-- **Ngày 2025-07-21:** PVI bùng nổ với nến tăng mạnh có biên độ rộng, đóng cửa (62.8) cao hơn 6.44% so với tuần trước. Cây nến tạo đỉnh mới tại 65.4 trước khi đóng cửa. Khối lượng giao dịch tăng vọt 204% lên 352 ngàn cổ phiếu.
-    - **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Sau chuỗi tín hiệu No Supply, việc giá bùng nổ với khối lượng lớn xác nhận dự đoán trước đó và cho thấy lực cầu institutional đã vào mạnh mẽ.
+- **Ngày 2025-06-02:** Một tuần tăng giá nhẹ với biên độ hẹp. Khối lượng giao dịch tăng. **Phân tích VPA/Wyckoff:** Một **Effort to Rise** yếu.
+- **Ngày 2025-06-09:** PVI quay đầu giảm, đóng cửa (55.2) thấp hơn. Khối lượng giao dịch thấp. **Phân tích VPA/Wyckoff:** Đây là một phiên **No Supply**.
+- **Ngày 2025-06-16:** Cổ phiếu phục hồi với một nến tăng. Khối lượng giao dịch tăng nhẹ. **Phân tích VPA/Wyckoff:** Một **Effort to Rise**.
+- **Ngày 2025-06-23:** PVI có một tuần tăng giá nhẹ với một nến tăng có biên độ hẹp và đóng cửa cao hơn tuần trước. Khối lượng giao dịch duy trì ở mức thấp. **Phân tích VPA/Wyckoff:** Đây là một phiên **Test for Supply**. Việc giá có thể đi lên trên nền khối lượng thấp là một tín hiệu No Supply, cho thấy không có nhiều áp lực bán.
+- **Ngày 2025-07-07:** Sau phiên kiểm tra No Supply của tuần trước, PVI có một tuần tăng giá tốt, tạo thành một nến tăng và đóng cửa (58.4) cao hơn. Khối lượng giao dịch tăng. **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength**, cho thấy lực cầu đang chiếm ưu thế và xu hướng tăng được củng cố.
+- **Ngày 2025-07-14:** Tiếp nối Dấu hiệu Sức mạnh của tuần trước, PVI có một tuần tăng giá tiếp tục với nến tăng biên độ hẹp, đóng cửa (59.0) cao hơn. Khối lượng giao dịch giảm rõ rệt so với tuần trước. **Phân tích VPA/Wyckoff:** Đây là một **No Supply** rõ ràng. Việc giá tiếp tục tăng trên nền khối lượng thấp cho thấy áp lực bán rất yếu và đà tăng đang được củng cố.
+- **Ngày 2025-07-21:** PVI bùng nổ với nến tăng mạnh có biên độ rộng, đóng cửa (62.8) cao hơn 6.44% so với tuần trước. Cây nến tạo đỉnh mới tại 65.4 trước khi đóng cửa. Khối lượng giao dịch tăng vọt 204% lên 352 ngàn cổ phiếu. **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** mạnh mẽ. Sau chuỗi tín hiệu No Supply, việc giá bùng nổ với khối lượng lớn xác nhận dự đoán trước đó và cho thấy lực cầu institutional đã vào mạnh mẽ.
 
 
-**Ngày 2025-07-27:** PVI tiếp tục đà tăng mạnh với nến tăng có biên độ rộng, mở cửa tại 58.0 và đóng cửa tại 62.8 (+6.44%). Cổ phiếu tạo đỉnh mới tại 65.4 trong phiên trước khi có điều chỉnh nhẹ về cuối tuần. Khối lượng giao dịch duy trì ở mức cao 351.6 ngàn cổ phiếu, tương đương với tuần trước, cho thấy sự quan tâm của thị trường vẫn mạnh mẽ.
-
-**Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Sau tuần bùng nổ trước đó, PVI duy trì được động lực tăng mạnh với khối lượng cao, xác nhận xu hướng tăng bền vững. Việc tạo đỉnh mới tại 65.4 cho thấy lực cầu institutional vẫn đang tích cực, tuy nhiên cần theo dõi khả năng xuất hiện pressure bán ở vùng đỉnh mới này.
+**Ngày 2025-07-27:** PVI tiếp tục đà tăng mạnh với nến tăng có biên độ rộng, mở cửa tại 58.0 và đóng cửa tại 62.8 (+6.44%). Cổ phiếu tạo đỉnh mới tại 65.4 trong phiên trước khi có điều chỉnh nhẹ về cuối tuần. Khối lượng giao dịch duy trì ở mức cao 351.6 ngàn cổ phiếu, tương đương với tuần trước, cho thấy sự quan tâm của thị trường vẫn mạnh mẽ. **Phân tích VPA/Wyckoff:** Đây là một **Sign of Strength** tiếp tục. Sau tuần bùng nổ trước đó, PVI duy trì được động lực tăng mạnh với khối lượng cao, xác nhận xu hướng tăng bền vững. Việc tạo đỉnh mới tại 65.4 cho thấy lực cầu institutional vẫn đang tích cực, tuy nhiên cần theo dõi khả năng xuất hiện pressure bán ở vùng đỉnh mới này.
 **Ngày 2025-08-03:** PVI có tuần điều chỉnh nhẹ, giá mở cửa tại 62.8 (cùng mức đóng cửa tuần trước) và dao động trong khoảng 61.3-64.0 trước khi đóng cửa tại 62.8. Mặc dù giá đóng cửa không thay đổi so với tuần trước, cổ phiếu đã test lên mức cao 64.0 nhưng không thể duy trì được. Khối lượng giao dịch giảm đáng kể xuống 180.1 ngàn cổ phiếu, giảm 48.7% so với tuần trước.
