@@ -1591,16 +1591,24 @@ def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
     """
     logging.info(f"📊 Starting sequential-by-date ticker processing using {agent.upper()} with {workers} workers...")
     
-    # Read tickers from CSV
+    # Read tickers from ticker_group.json
     tickers = []
     try:
-        logging.debug("Reading TICKERS.csv...")
-        with open('TICKERS.csv', 'r') as f:
-            reader = csv.DictReader(f)
-            tickers = [row['ticker'] for row in reader]
-        logging.info(f"Loaded {len(tickers)} tickers from TICKERS.csv")
+        logging.debug("Reading ticker_group.json...")
+        with open('ticker_group.json', 'r', encoding='utf-8') as f:
+            ticker_groups_config = json.load(f)
+        
+        # Join all tickers from all sectors into one list
+        for sector, sector_tickers in ticker_groups_config.items():
+            tickers.extend(sector_tickers)
+        
+        # Remove duplicates while preserving order
+        seen = set()
+        tickers = [ticker for ticker in tickers if not (ticker in seen or seen.add(ticker))]
+        
+        logging.info(f"Loaded {len(tickers)} tickers from ticker_group.json across {len(ticker_groups_config)} sectors")
     except Exception as e:
-        logging.error(f"❌ Error reading TICKERS.csv: {e}")
+        logging.error(f"❌ Error reading ticker_group.json: {e}")
         return False
     
     # Check for dividend tickers (for informational purposes only - they will be processed normally)
@@ -1721,8 +1729,8 @@ def main():
                        help='Process weekly VPA analysis instead of daily')
     parser.add_argument('--debug', action='store_true',
                        help='Enable debug logging')
-    parser.add_argument('--agent', choices=['claude', 'gemini', 'gemini-2.5-flash'], default='claude',
-                       help='AI agent to use for analysis (default: claude)')
+    parser.add_argument('--agent', choices=['claude', 'gemini', 'gemini-2.5-flash'], default='gemini',
+                       help='AI agent to use for analysis (default: gemini)')
     parser.add_argument('--verbose', action='store_true',
                        help='Show detailed prompts and context sent to AI agents')
     parser.add_argument('--workers', type=int, default=4,

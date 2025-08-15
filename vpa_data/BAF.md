@@ -1,0 +1,5 @@
+# BAF
+
+**Ngày 2025-08-04:** BAF giảm từ 34.25 VND xuống 33.7 VND với khối lượng 2.94 triệu cổ phiếu. Biên độ giá hẹp và giá đóng cửa gần mức thấp nhất phiên. Khối lượng giao dịch thấp hơn so với phiên trước đó, cho thấy lực bán không quá mạnh. **Phân tích VPA/Wyckoff:** No Demand (ND) - Giá giảm với khối lượng thấp, cho thấy thiếu lực cầu nhưng cũng không có áp lực cung lớn.
+**Ngày 2025-08-05:** BAF tăng từ 33.7 VND lên 35.0 VND với khối lượng giao dịch đạt 16.17 triệu cổ phiếu. Cây nến có biên độ giá rộng (từ 33.2 VND đến 36.0 VND) và giá đóng cửa ở mức 35.0 VND, cho thấy lực cầu mạnh mẽ đã đẩy giá lên. Khối lượng giao dịch tăng đột biến so với phiên trước (2.94 triệu cổ phiếu) xác nhận sự tham gia của dòng tiền lớn. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS)
+**Ngày 2025-08-06:** BAF giữ mức giá 35.0 VND với biên độ hẹp từ 34.5 VND đến 35.05 VND. Khối lượng giao dịch đạt 3.61 triệu cổ phiếu, thấp hơn đáng kể so với phiên tăng mạnh trước đó (16.17 triệu cổ phiếu). Điều này cho thấy lực cầu đã chững lại sau phiên tăng giá mạnh, nhưng cũng không có áp lực bán đáng kể. **Phân tích VPA/Wyckoff:** No Demand (ND)
