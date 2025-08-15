@@ -1,9 +1,8 @@
 import os
+import sys
 import time
 import matplotlib.pyplot as plt
 import pandas as pd
-from vnstock import *
-from vnstock.explorer.fmarket.fund import Fund
 import mplfinance as mpf
 import re
 import json
@@ -11,6 +10,16 @@ import argparse
 from collections import defaultdict
 from datetime import datetime, timedelta
 import shutil
+
+# Add current directory to path for VCI client import
+sys.path.append(os.path.dirname(__file__))
+
+try:
+    from vci import VCIClient
+except ImportError as e:
+    print(f"Error importing VCI client: {e}")
+    print("Make sure vci.py is in the current directory")
+    sys.exit(1)
 
 # --- Configuration ---
 # The list of tickers is now read from TICKERS.csv
@@ -29,8 +38,8 @@ REPORTS_DIR = "reports"
 MASTER_REPORT_FILENAME = "REPORT.md"
 VPA_ANALYSIS_FILENAME = "VPA.md"
 
-# Instantiate the vnstock object once
-stock_reader = Vnstock().stock(symbol="SSI", source="VCI")
+# Initialize VCI client (will be set up in main function)
+vci_client = None
 
 # --- Core Functions ---
 
@@ -45,9 +54,45 @@ def setup_directories():
             os.makedirs(directory)
             print(f"  - Created directory: {directory}")
 
+def normalize_price_data(df, ticker):
+    """
+    Intelligent price normalization that distinguishes between market indices and individual stocks.
+    Market indices (VNINDEX, HNXINDEX, UPCOMINDEX) should not be scaled.
+    Individual stocks always need 1000x scaling correction from VCI APIs.
+    """
+    if df is None or df.empty:
+        return df
+    
+    # Create a copy to avoid modifying the original
+    df_normalized = df.copy()
+    
+    # Define market indices that should NOT be scaled
+    market_indices = {'VNINDEX', 'HNXINDEX', 'UPCOMINDEX'}
+    
+    # Check if this ticker is a market index
+    if ticker.upper() in market_indices:
+        print(f"   - {ticker} is a market index - no price scaling applied")
+        return df_normalized
+    
+    # For individual stocks, always apply 1000x scaling correction
+    price_columns = ['open', 'high', 'low', 'close']
+    scale_factor = 1000.0
+    print(f"   - {ticker} is an individual stock - scaling down by {scale_factor}")
+    
+    for col in price_columns:
+        if col in df_normalized.columns:
+            df_normalized[col] = df_normalized[col] / scale_factor
+    
+    # Round to reasonable precision (2 decimal places)
+    for col in price_columns:
+        if col in df_normalized.columns:
+            df_normalized[col] = df_normalized[col].round(2)
+    
+    return df_normalized
+
 def download_stock_data(ticker, start_date, end_date, interval='1D'):
     """
-    Checks for local data first. If not found, downloads historical stock data.
+    Downloads historical stock data using VCI client with smart caching.
     The 'time' column will always be converted to datetime objects upon loading/download.
     """
     print(f"\n-> Processing ticker: {ticker} (Interval: {interval})")
@@ -67,18 +112,22 @@ def download_stock_data(ticker, start_date, end_date, interval='1D'):
 
     print(f"   - No local data found. Downloading from {start_date} to {end_date}...")
     try:
-        df = stock_reader.quote.history(
+        df = vci_client.get_history(
             symbol=ticker,
             start=start_date,
             end=end_date,
             interval=interval
         )
-        time.sleep(2)
+        time.sleep(0.3)  # Reduced from 2s to 0.3 as VCI has better rate limiting
 
-        if not df.empty:
+        if df is not None and not df.empty:
             print(f"   - Success! Downloaded {len(df)} raw records for {ticker}.")
+            
+            # Apply intelligent price normalization (scaling)
+            df = normalize_price_data(df, ticker)
+            
+            # Filter by date range (VCI might return more data than requested)
             df['time'] = pd.to_datetime(df['time'])
-
             mask = (df['time'] >= pd.to_datetime(start_date)) & (df['time'] <= pd.to_datetime(end_date))
             df_filtered = df.loc[mask].copy()
 
@@ -544,7 +593,7 @@ def copy_to_dividend_check(backup_csv_path, dividend_ratio, check_dividends_dir)
 
 def main():
     """Main function to orchestrate the data download and report generation."""
-    global DATA_DIR, REPORTS_DIR, MASTER_REPORT_FILENAME, VPA_ANALYSIS_FILENAME
+    global DATA_DIR, REPORTS_DIR, MASTER_REPORT_FILENAME, VPA_ANALYSIS_FILENAME, vci_client
 
     parser = argparse.ArgumentParser(description="AIPriceAction Data Pipeline")
     parser.add_argument('--start-date', default="2025-01-02", type=str, help="The start date for data download in 'YYYY-MM-DD' format.")
@@ -567,6 +616,11 @@ def main():
 
     print("--- AIPriceAction Data Pipeline: START ---")
     print(f"--- Using data period: {START_DATE} to {END_DATE} ---")
+    
+    # Initialize VCI client
+    print("\n🔗 Initializing VCI client...")
+    vci_client = VCIClient(random_agent=True, rate_limit_per_minute=100)
+    print("   ✅ VCI client initialized with 100 calls/minute rate limit")
     
     setup_directories()
     vpa_analyses = parse_vpa_analysis(VPA_ANALYSIS_FILENAME)
@@ -640,5 +694,4 @@ def main():
     print("\n--- AIPriceAction Data Pipeline: FINISHED ---")
 
 if __name__ == "__main__":
-    os.environ["ACCEPT_TC"] = "tôi đồng ý"
     main()
