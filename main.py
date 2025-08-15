@@ -22,12 +22,23 @@ except ImportError as e:
     sys.exit(1)
 
 # --- Configuration ---
-# The list of tickers is now read from TICKERS.csv
+# The list of tickers is now read from ticker_group.json
 try:
-    TICKERS_TO_DOWNLOAD = pd.read_csv('TICKERS.csv')['ticker'].tolist()
-    print(f"Loaded {len(TICKERS_TO_DOWNLOAD)} tickers from TICKERS.csv")
+    with open('ticker_group.json', 'r', encoding='utf-8') as f:
+        ticker_groups_config = json.load(f)
+    
+    # Join all tickers from all sectors into one list
+    TICKERS_TO_DOWNLOAD = ["VNINDEX"]  # Always include VNINDEX
+    for sector, tickers in ticker_groups_config.items():
+        TICKERS_TO_DOWNLOAD.extend(tickers)
+    
+    # Remove duplicates while preserving order
+    seen = set()
+    TICKERS_TO_DOWNLOAD = [ticker for ticker in TICKERS_TO_DOWNLOAD if not (ticker in seen or seen.add(ticker))]
+    
+    print(f"Loaded {len(TICKERS_TO_DOWNLOAD)} tickers from ticker_group.json across {len(ticker_groups_config)} sectors")
 except FileNotFoundError:
-    print("TICKERS.csv not found. Using default list.")
+    print("ticker_group.json not found. Using default list.")
     TICKERS_TO_DOWNLOAD = ["VNINDEX", "TCB", "FPT"]
 
 
