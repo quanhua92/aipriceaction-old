@@ -299,7 +299,7 @@ def get_dates_needing_analysis(ticker, week_mode=False):
     """
     Simple flow: loop from last row of CSV and check VPA. 
     If date not in VPA, add to list. If date exists in VPA, stop checking.
-    Special case: If VPA file doesn't exist, only return last 10 dates.
+    Special case: If VPA file doesn't exist, only return last 2 dates.
     Returns list of dates that need analysis, empty list if none needed
     """
     logging.debug(f"Checking which dates need VPA analysis for {ticker}...")
@@ -333,10 +333,10 @@ def get_dates_needing_analysis(ticker, week_mode=False):
         vpa_file = Path(f"{vpa_folder}/{ticker}.md")
         
         if not vpa_file.exists():
-            # VPA file doesn't exist - return only last 10 dates
-            last_10_dates = all_dates[-10:] if len(all_dates) >= 10 else all_dates
-            logging.info(f"📊 {ticker}: VPA file doesn't exist, processing last {len(last_10_dates)} dates: {last_10_dates}")
-            return last_10_dates
+            # VPA file doesn't exist - return only last 2 dates
+            last_2_dates = all_dates[-2:] if len(all_dates) >= 2 else all_dates
+            logging.info(f"📊 {ticker}: VPA file doesn't exist, processing last {len(last_2_dates)} dates: {last_2_dates}")
+            return last_2_dates
         
         # VPA file exists - use original logic
         dates_needing_analysis = []
@@ -439,16 +439,16 @@ def get_ticker_context(ticker, target_date=None, week_mode=False):
         logging.debug(f"Market data for {ticker}: {len(df)} rows, range {df.iloc[0][date_column]} to {df.iloc[-1][date_column]}")
         logging.debug(f"Latest price data: Open={latest[open_column]}, Close={latest[close_column]}, Volume={latest[volume_column]}")
         
-        # Get existing VPA analysis and extract last 10 VPA entries
+        # Get existing VPA analysis and extract last 2 VPA entries
         vpa_file = Path(f"{vpa_folder}/{ticker}.md")
         previous_vpa = ""
-        last_10_vpa_entries = []
+        last_2_vpa_entries = []
         if vpa_file.exists():
             with open(vpa_file, 'r', encoding='utf-8') as f:
                 previous_vpa = f.read()
             logging.debug(f"Loaded existing VPA analysis for {ticker}: {len(previous_vpa)} characters")
             
-            # Extract last 10 VPA entries
+            # Extract last 2 VPA entries
             import re
             # Find all VPA entries (each entry starts with **Ngày and ends before the next **Ngày or EOF)
             vpa_entries = re.split(r'(\*\*Ngày \d{4}-\d{2}-\d{2}:\*\*)', previous_vpa)
@@ -463,8 +463,8 @@ def get_ticker_context(ticker, target_date=None, week_mode=False):
                     entry = vpa_entries[i]  # Just the date header if no content follows
                     entries_with_headers.append(entry)
             
-            # Get the last 10 entries (or all if less than 10)
-            last_10_vpa_entries = entries_with_headers[-10:] if entries_with_headers else []
+            # Get the last 2 entries (or all if less than 2)
+            last_2_vpa_entries = entries_with_headers[-2:] if entries_with_headers else []
         else:
             logging.debug(f"No existing VPA file for {ticker}")
         
@@ -486,7 +486,7 @@ def get_ticker_context(ticker, target_date=None, week_mode=False):
                 "volume": int(previous[volume_column])
             },
             "last_10_ohlcv": last_10_ohlcv,
-            "last_10_vpa_entries": last_10_vpa_entries,
+            "last_2_vpa_entries": last_2_vpa_entries,
             "csv_file": csv_file,
             "data_rows": len(df),
             "date_range": f"{df.iloc[0][date_column]} to {df.iloc[-1][date_column]}",
@@ -752,8 +752,8 @@ def call_ai_agent_for_vpa_analysis(ticker, context, week_mode=False, agent='clau
             for item in context['last_10_ohlcv']
         ])
         
-        # Format last 10 VPA entries
-        last_10_vpa_str = "\n---\n".join(context['last_10_vpa_entries']) if context['last_10_vpa_entries'] else 'No previous VPA entries found.'
+        # Format last 2 VPA entries
+        last_2_vpa_str = "\n---\n".join(context['last_2_vpa_entries']) if context['last_2_vpa_entries'] else 'No previous VPA entries found.'
         
         prompt = f"""
 Analyze ticker {ticker} for {timeframe} VPA using the provided context data.
@@ -782,8 +782,8 @@ Previous OHLCV:
 Last 10 OHLCV Data Points:
 {last_10_ohlcv_str}
 
-Last 10 VPA Entries:
-{last_10_vpa_str}
+Last 2 VPA Entries:
+{last_2_vpa_str}
 
 === ANALYSIS TASK ===
 1. Analyze the price/volume relationship using Wyckoff methodology
