@@ -1,0 +1,4 @@
+# NAF
+
+**Ngày 2025-08-14:** NAF tăng nhẹ từ 28.6 lên 28.7 với khối lượng giao dịch gia tăng so với phiên trước, đạt 0.67 triệu cổ phiếu. Nến tăng có biên độ hẹp nhưng đóng cửa ở mức cao nhất phiên, cho thấy lực cầu đã hấp thụ tốt áp lực bán và tiếp tục duy trì xu hướng tăng giá ngắn hạn. **Phân tích VPA/Wyckoff:** Effort to Rise - Nỗ lực tăng giá thành công với khối lượng cao hơn xác nhận sức mạnh của bên mua.
+**Ngày 2025-08-15:** NAF giảm nhẹ từ 28.7 xuống 28.65 với khối lượng giao dịch gia tăng so với phiên trước, đạt 0.78 triệu cổ phiếu. Nến giảm có biên độ hẹp và đóng cửa gần mức thấp nhất phiên, cho thấy áp lực bán đã xuất hiện sau phiên nỗ lực tăng giá trước đó và làm chững lại đà tăng. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Dấu hiệu yếu đi khi giá giảm trên khối lượng tăng, cho thấy nguồn cung đang hoạt động tại vùng giá này.

@@ -1,0 +1,4 @@
+# VGS
+
+**Ngày 2025-08-14:** VGS tăng mạnh từ 32.6 lên 34.3 với khối lượng giao dịch gia tăng, đạt gần 2.94 triệu cổ phiếu. Cây nến tăng có biên độ rộng, đóng cửa ở mức cao nhất phiên, cho thấy lực cầu áp đảo hoàn toàn so với phiên trước. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Nỗ lực đẩy giá thành công với khối lượng lớn xác nhận sức mạnh của phe mua.
+**Ngày 2025-08-15:** VGS giảm điểm, đóng cửa tại 33.4 so với mức 34.3 của phiên trước, với khối lượng giao dịch vẫn ở mức cao 2.65 triệu cổ phiếu. Trong phiên, giá đã nỗ lực tăng lên 35.5 nhưng không thành công và bị đẩy xuống, tạo ra một cây nến giảm với bóng trên dài. Sau phiên tăng mạnh (SOS) ngày hôm trước, sự đảo chiều này cho thấy áp lực bán đã xuất hiện để đáp ứng lực cầu, một dấu hiệu của sự suy yếu. **Phân tích VPA/Wyckoff:** Upthrust - Nỗ lực đẩy giá lên cao đã thất bại với khối lượng lớn, cho thấy nguồn cung đang chiếm ưu thế.

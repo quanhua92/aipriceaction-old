@@ -1,0 +1,4 @@
+# LTG
+
+**Ngày 2025-08-08:** LTG tăng giá từ 7.9 lên 8.3 với khối lượng giao dịch tăng mạnh lên 0.64 triệu cổ phiếu, cao hơn đáng kể so với phiên trước. Nến tăng giá đóng cửa gần mức cao nhất trong ngày cho thấy nỗ lực đẩy giá lên của phe mua sau phiên giảm điểm trước đó. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu quay trở lại mạnh mẽ, được xác nhận bởi khối lượng giao dịch gia tăng, cho thấy phe mua đang chiếm ưu thế sau khi kiểm tra nguồn cung.
+**Ngày 2025-08-15:** LTG đi ngang và đóng cửa tại giá 8.3, không thay đổi so với phiên trước, với khối lượng giao dịch giảm mạnh còn 0.39 triệu cổ phiếu. Nến giá có biên độ hẹp cho thấy sự tạm dừng sau phiên tăng giá mạnh trước đó. Khối lượng thấp xác nhận sự cạn kiệt của nguồn cung ở vùng giá hiện tại. **Phân tích VPA/Wyckoff:** No Supply - Thiếu nguồn cung, một tín hiệu tích cực cho thấy phe mua vẫn đang kiểm soát và thị trường đang tích lũy trước khi có thể tiếp tục đi lên.

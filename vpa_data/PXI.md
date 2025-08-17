@@ -1,0 +1,4 @@
+# PXI
+
+**Ngày 2025-08-08:** PXI đi ngang với biên độ rất hẹp (1.2-1.3) và đóng cửa tại mức giá 1.3 VND, không thay đổi so với phiên trước. Khối lượng giao dịch giảm mạnh xuống mức rất thấp, chỉ còn 60,600 cổ phiếu. Việc giá giữ vững trên nền khối lượng thấp cho thấy áp lực bán đã cạn kiệt. **Phân tích VPA/Wyckoff:** No Supply - Tín hiệu không có nguồn cung, cho thấy phe bán không còn mạnh và thị trường có thể đang chuẩn bị cho một đợt tăng giá nếu lực cầu quay trở lại.
+**Ngày 2025-08-15:** PXI giảm giá và đóng cửa ở mức thấp nhất trong ngày là 1.2 VND, đi kèm với khối lượng giao dịch tăng đột biến lên 403,500 cổ phiếu. Nỗ lực đẩy giá lên trong phiên đã thất bại, cho thấy áp lực bán mạnh đã xuất hiện và áp đảo hoàn toàn so với phiên "No Supply" trước đó. **Phân tích VPA/Wyckoff:** Supply Present - Tín hiệu nguồn cung xuất hiện, cho thấy phe bán đang kiểm soát và có khả năng đẩy giá xuống thấp hơn.

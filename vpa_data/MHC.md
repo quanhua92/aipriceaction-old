@@ -1,0 +1,4 @@
+# MHC
+
+**Ngày 2025-08-14:** MHC giảm nhẹ từ 12.5 VND xuống 12.4 VND với khối lượng giao dịch đạt 0.7802 triệu cổ phiếu. Cây nến có biên độ rộng, cho thấy sự biến động mạnh trong phiên, và đóng cửa gần mức thấp nhất. Khối lượng giao dịch tăng đáng kể so với ngày trước đó (0.4623 triệu cổ phiếu), cho thấy áp lực bán gia tăng. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Áp lực cung gia tăng.
+**Ngày 2025-08-15:** MHC tăng từ 12.75 VND lên 13.25 VND với khối lượng giao dịch đạt 1.0135 triệu cổ phiếu. Cây nến tăng có biên độ rộng và đóng cửa tại mức cao nhất phiên, cho thấy lực cầu mạnh mẽ. Khối lượng giao dịch tăng đáng kể so với ngày trước đó (0.7802 triệu cổ phiếu), xác nhận sự hấp thụ cung và áp lực mua gia tăng sau phiên giảm điểm. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu mạnh mẽ xuất hiện với khối lượng gia tăng.

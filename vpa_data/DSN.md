@@ -1,0 +1,4 @@
+# DSN
+
+**Ngày 2025-08-14:** DSN tăng nhẹ từ 45.35 lên 45.4 với khối lượng giao dịch tăng đột biến, đạt 42,600 cổ phiếu, cao hơn đáng kể so với mức 4,900 của phiên trước. Nến có biên độ hẹp nhưng đóng cửa ở mức cao nhất, cho thấy nỗ lực đẩy giá trong phiên. **Phân tích VPA/Wyckoff:** Effort to Rise / Test for Supply - Nỗ lực tăng giá với khối lượng lớn cho thấy có lực cầu hấp thụ mạnh lượng cung tại vùng giá này. Đây có thể là một phiên kiểm tra nguồn cung thành công.
+**Ngày 2025-08-15:** DSN tiếp tục tăng nhẹ từ 45.4 lên 45.55 với khối lượng giao dịch giảm mạnh, chỉ còn 10,200 cổ phiếu so với 42,600 của phiên trước. Việc giá tăng trên khối lượng thấp ngay sau một phiên "Test for Supply" thành công cho thấy nguồn cung đã được hấp thụ tốt và phe mua không cần nhiều nỗ lực để đẩy giá lên. **Phân tích VPA/Wyckoff:** No Supply / Confirmation of Test - Tín hiệu xác nhận rằng lượng cung bán ra đã cạn kiệt, tạo điều kiện thuận lợi cho một đợt tăng giá tiếp theo.

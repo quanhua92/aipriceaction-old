@@ -1,0 +1,4 @@
+# DCL
+
+**Ngày 2025-08-14:** DCL giảm giá mạnh từ 22.55 xuống 20.95 với khối lượng giao dịch tăng đột biến, đạt 1.15 triệu cổ phiếu, cao hơn gấp đôi so với phiên trước. Cây nến giảm có biên độ rất rộng và đóng cửa ở mức thấp nhất phiên, cho thấy áp lực bán hoàn toàn chiếm ưu thế và phá vỡ vùng hỗ trợ gần nhất. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Nguồn cung lớn đã gia nhập thị trường, áp đảo lực cầu và báo hiệu một sự thay đổi tiêu cực trong xu hướng.
+**Ngày 2025-08-15:** DCL nỗ lực phục hồi lên 22.0 sau phiên bán tháo mạnh trước đó, nhưng khối lượng giao dịch sụt giảm nghiêm trọng, chỉ còn 396,200 cổ phiếu. Việc giá tăng trên nền khối lượng thấp ngay sau một phiên Sign of Weakness (SOW) cho thấy sự thiếu vắng rõ rệt của lực cầu, và đà phục hồi này không bền vững. **Phân tích VPA/Wyckoff:** No Demand - Lực cầu yếu ớt trong phiên hồi phục, cho thấy khả năng cao giá sẽ tiếp tục giảm để kiểm tra lại các mức hỗ trợ thấp hơn.

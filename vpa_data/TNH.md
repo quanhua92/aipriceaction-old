@@ -1,0 +1,4 @@
+# TNH
+
+**Ngày 2025-08-14:** TNH giảm nhẹ với biên độ giá hẹp, đóng cửa tại 16.0. Khối lượng giao dịch giảm so với phiên trước và ở mức thấp (302,900 cổ phiếu), cho thấy áp lực bán không đáng kể. Cổ phiếu dường như đang trong giai đoạn kiểm tra cung cầu sau phiên tăng giá ngày 06/08. **Phân tích VPA/Wyckoff:** No Supply - Nỗ lực giảm giá trên khối lượng thấp cho thấy thiếu áp lực bán, là một tín hiệu tích cực tiềm năng.
+**Ngày 2025-08-15:** TNH giảm nhẹ, đóng cửa tại 15.95 với biên độ giá hẹp. Khối lượng giao dịch tăng so với phiên trước, đạt 440,300 cổ phiếu, cho thấy áp lực bán đã gia tăng. Việc giá giảm đi kèm khối lượng tăng sau một phiên "No Supply" cho thấy nỗ lực kiểm tra cung cầu đã không thành công và phe bán vẫn đang chiếm ưu thế trong ngắn hạn. **Phân tích VPA/Wyckoff:** Supply Present - Lượng cung xuất hiện khi giá giảm, là một tín hiệu yếu cho thấy khả năng giá có thể tiếp tục điều chỉnh.

@@ -1,0 +1,4 @@
+# DXP
+
+**Ngày 2025-08-14:** DXP giảm nhẹ từ 11.7 xuống 11.6 với khối lượng giao dịch thấp ở mức 374,400 cổ phiếu, giảm đáng kể so với phiên trước. Cây nến giảm có biên độ hẹp, đóng cửa ở giữa khung giá, cho thấy áp lực bán yếu đi. **Phân tích VPA/Wyckoff:** No Supply - Nỗ lực giảm giá không đi kèm với khối lượng lớn, cho thấy nguồn cung đang cạn kiệt và phe bán không còn mạnh.
+**Ngày 2025-08-15:** DXP giảm từ 11.6 xuống 11.4 VND với khối lượng giao dịch tăng nhẹ lên 0.4164 triệu cổ phiếu. Cây nến giảm có biên độ hẹp, đóng cửa gần mức thấp nhất phiên, cho thấy áp lực bán vẫn hiện hữu sau phiên "No Supply" trước đó. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Giá giảm với khối lượng tăng nhẹ, xác nhận áp lực bán vẫn còn và có thể tiếp tục kiểm tra các mức hỗ trợ thấp hơn.

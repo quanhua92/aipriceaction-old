@@ -1,0 +1,4 @@
+# VNA
+
+**Ngày 2025-08-13:** VNA giảm từ 18.9 VND xuống 18.8 VND với khối lượng giao dịch đạt 0.0048 triệu cổ phiếu. Cây nến có biên độ hẹp và khối lượng rất thấp so với các phiên trước, cho thấy áp lực bán đã suy yếu đáng kể. **Phân tích VPA/Wyckoff:** No Supply (NS) - Lực cung cạn kiệt, cho thấy khả năng giá sẽ ổn định hoặc tăng trở lại do thiếu người bán.
+**Ngày 2025-08-14:** VNA tăng từ 18.8 VND lên 19.7 VND với khối lượng giao dịch đạt 0.0041 triệu cổ phiếu. Cây nến tăng có biên độ rộng và đóng cửa gần mức cao nhất phiên. Khối lượng giao dịch thấp hơn so với phiên trước và các phiên có khối lượng cao gần đây, cho thấy lực cầu xuất hiện khi nguồn cung đã cạn kiệt sau tín hiệu No Supply của phiên trước. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu xuất hiện khi nguồn cung đã cạn kiệt, xác nhận khả năng tăng giá.

@@ -1,0 +1,4 @@
+# TCL
+
+**Ngày 2025-08-14:** TCL giảm từ 36.7 VND xuống 36.25 VND với khối lượng giao dịch đạt 0.0726 triệu cổ phiếu. Khối lượng này thấp hơn đáng kể so với phiên tăng mạnh trước đó (0.1249 triệu cổ phiếu). Cây nến giảm có biên độ hẹp cho thấy áp lực bán yếu sau phiên tăng giá mạnh. **Phân tích VPA/Wyckoff:** No Demand (ND) - Sự giảm giá với khối lượng thấp cho thấy thiếu áp lực bán, có thể là một sự điều chỉnh lành mạnh sau Sign of Strength (SOS) của phiên trước.
+**Ngày 2025-08-15:** TCL giảm từ 36.25 VND xuống 35.55 VND với khối lượng giao dịch đạt 0.0772 triệu cổ phiếu. Khối lượng này cao hơn so với phiên trước đó (0.0726 triệu cổ phiếu). Cây nến giảm có biên độ tương đối rộng và đóng cửa gần mức thấp nhất phiên, cho thấy áp lực bán gia tăng sau phiên No Demand. **Phân tích VPA/Wyckoff:** Weakness (Yếu đi) - Giá giảm với khối lượng tăng cho thấy nguồn cung đang xuất hiện và áp lực bán đang mạnh lên.

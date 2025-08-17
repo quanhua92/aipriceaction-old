@@ -1,0 +1,4 @@
+# PVP
+
+**Ngày 2025-08-14:** PVP đóng cửa ở mức 15.25 VND, không thay đổi so với phiên trước, nhưng với khối lượng giao dịch tăng đáng kể lên 0.4874 triệu cổ phiếu, gần gấp đôi so với 0.2487 triệu cổ phiếu của ngày 2025-08-13. Mặc dù có sự gia tăng về khối lượng, giá không thể bứt phá, cho thấy lực mua đang bị hấp thụ bởi lực bán. **Phân tích VPA/Wyckoff:** No Demand (Không có cầu) - Khối lượng cao nhưng giá không tăng, cho thấy sự yếu kém của lực cầu và khả năng tiếp tục xu hướng đi ngang hoặc giảm.
+**Ngày 2025-08-15:** PVP đóng cửa ở mức 15.25 VND, không thay đổi so với phiên trước. Khối lượng giao dịch đạt 0.46 triệu cổ phiếu, giảm nhẹ so với 0.4874 triệu cổ phiếu của ngày 2025-08-14. Mặc dù có sự giảm nhẹ về khối lượng, giá vẫn không thể bứt phá lên, cho thấy lực cầu vẫn còn yếu và thị trường đang trong giai đoạn đi ngang. **Phân tích VPA/Wyckoff:** No Demand (Không có cầu) - Giá đi ngang với khối lượng giảm nhẹ, xác nhận sự thiếu vắng lực cầu mạnh mẽ.

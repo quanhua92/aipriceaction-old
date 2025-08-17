@@ -1,0 +1,4 @@
+# JVC
+
+**Ngày 2025-08-14:** JVC giảm từ 6.0 xuống 5.8 với khối lượng giao dịch rất thấp, chỉ đạt 261,400 cổ phiếu, giảm mạnh so với phiên trước. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất phiên, cho thấy phe bán chiếm ưu thế trong ngày. **Phân tích VPA/Wyckoff:** No Supply - Giá giảm nhưng trên khối lượng thấp cho thấy không có áp lực bán mạnh, báo hiệu lực cung đang cạn kiệt.
+**Ngày 2025-08-15:** JVC đóng cửa đi ngang tại mức giá 5.8. Trong phiên, giá đã có lúc giảm xuống mức thấp 5.65 trước khi phục hồi, tạo thành một cây nến rút chân. Khối lượng giao dịch tăng đột biến lên 853,000 cổ phiếu, cao hơn đáng kể so với phiên trước, cho thấy lực cầu đã xuất hiện để hấp thụ áp lực bán khi giá giảm. **Phân tích VPA/Wyckoff:** Test for Supply - Một phiên kiểm tra nguồn cung thành công sau tín hiệu "No Supply". Lực cầu gia tăng mạnh mẽ tại vùng giá thấp cho thấy phe bán đang mất dần ưu thế và khả năng đảo chiều tăng giá.

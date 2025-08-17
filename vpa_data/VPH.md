@@ -1,0 +1,4 @@
+# VPH
+
+**Ngày 2025-08-14:** VPH điều chỉnh giảm xuống 6.05 với biên độ giá rộng hơn phiên trước, tuy nhiên khối lượng giao dịch lại giảm đột ngột xuống mức rất thấp chỉ còn 225,000 cổ phiếu. Việc giá giảm trên khối lượng thấp cho thấy sự thiếu vắng áp lực bán mạnh. **Phân tích VPA/Wyckoff:** No Supply - Nguồn cung có dấu hiệu cạn kiệt. Đây là một tín hiệu cho thấy phe bán không còn mạnh và đợt điều chỉnh có thể sắp kết thúc, mở ra khả năng tăng giá nếu lực cầu quay trở lại.
+**Ngày 2025-08-15:** VPH tiếp tục điều chỉnh giảm mạnh xuống 5.83 với biên độ giá rộng và đóng cửa gần mức thấp nhất phiên. Đáng chú ý, khối lượng giao dịch đã tăng trở lại so với phiên trước, đạt 347,900 cổ phiếu. Việc giá giảm trên khối lượng gia tăng cho thấy áp lực bán đã quay trở lại, phủ nhận tín hiệu "No Supply" của phiên hôm qua. **Phân tích VPA/Wyckoff:** Supply Present - Nguồn cung quay trở lại, cho thấy phe bán đang chiếm ưu thế và đợt điều chỉnh có thể tiếp diễn.

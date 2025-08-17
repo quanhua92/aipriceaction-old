@@ -1,0 +1,4 @@
+# BCE
+
+**Ngày 2025-08-14:** BCE giảm nhẹ từ 11.9 VND xuống 11.85 VND với khối lượng giao dịch đạt 0.1634 triệu cổ phiếu, thấp hơn đáng kể so với phiên trước. Cây nến có thân nhỏ và bóng dưới dài, cho thấy lực bán yếu đi và thiếu sự quyết liệt. **Phân tích VPA/Wyckoff:** No Demand (Thiếu cầu) - Lực bán yếu đi với khối lượng thấp, cho thấy thiếu sự quan tâm từ phe bán.
+**Ngày 2025-08-15:** BCE giảm từ 11.85 VND xuống 11.6 VND với khối lượng giao dịch đạt 0.0989 triệu cổ phiếu, tiếp tục giảm mạnh so với phiên trước và ở mức rất thấp. Cây nến có thân nhỏ và đóng cửa ở mức thấp nhất phiên, cho thấy lực bán chiếm ưu thế nhưng không có sự hỗ trợ từ phe mua. **Phân tích VPA/Wyckoff:** No Demand (Thiếu cầu) - Giá giảm với khối lượng cực thấp, xác nhận sự thiếu vắng lực cầu và sự thờ ơ của thị trường.

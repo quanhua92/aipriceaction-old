@@ -1,0 +1,4 @@
+# SBT
+
+**Ngày 2025-08-14:** SBT tăng nhẹ từ 24.9 lên 24.95 VND với biên độ giá hẹp. Khối lượng giao dịch giảm so với phiên trước, chỉ đạt 1.14 triệu cổ phiếu, cho thấy sự cạn kiệt nguồn cung sau phiên giảm điểm hôm trước. Giá đang kiểm tra vùng kháng cự 25.0. **Phân tích VPA/Wyckoff:** No Supply - Nguồn cung cạn kiệt. Lực bán yếu đi, tạo điều kiện cho một đợt tăng giá nếu có lực cầu xuất hiện.
+**Ngày 2025-08-15:** SBT đi ngang, đóng cửa tại 24.95 VND với biên độ giá hẹp, mặc dù khối lượng giao dịch tăng lên 1.38 triệu cổ phiếu so với phiên trước. Giá đã kiểm tra lại vùng kháng cự 25.0 nhưng không thể vượt qua, cho thấy áp lực bán vẫn còn hiện hữu. **Phân tích VPA/Wyckoff:** Test for Supply - Nỗ lực tăng giá đã thất bại với khối lượng gia tăng, cho thấy nguồn cung vẫn đang được hấp thụ tại vùng kháng cự.

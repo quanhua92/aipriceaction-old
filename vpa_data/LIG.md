@@ -1,0 +1,4 @@
+# LIG
+
+**Ngày 2025-08-14:** LIG tiếp tục tăng mạnh từ 4.5 lên 4.9 với khối lượng giao dịch rất lớn, đạt 4.16 triệu cổ phiếu, xấp xỉ mức cao của phiên trước. Nến tăng có biên độ rộng và đóng cửa ở mức cao nhất ngày, cho thấy lực cầu hoàn toàn chiếm ưu thế. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu mạnh mẽ duy trì với khối lượng rất cao, tiếp tục xác nhận cho sự phá vỡ khỏi nền giá và báo hiệu xu hướng tăng giá mạnh.
+**Ngày 2025-08-15:** LIG tiếp tục bứt phá mạnh mẽ từ 5.0 lên 5.3 với khối lượng giao dịch tăng vọt lên mức rất cao, đạt 5.8 triệu cổ phiếu. Nến tăng có thân dài, đóng cửa ở mức cao nhất ngày, cho thấy lực cầu đang áp đảo hoàn toàn và tiếp nối đà tăng của phiên trước. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu cực lớn tiếp tục đổ vào, xác nhận sức mạnh vượt trội của xu hướng tăng và sự thành công của pha phá vỡ.

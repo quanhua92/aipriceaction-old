@@ -1,0 +1,4 @@
+# VIF
+
+**Ngày 2025-08-14:** VIF tăng nhẹ từ 16.1 lên 16.2 với khối lượng giao dịch cực kỳ thấp chỉ 400 cổ phiếu, giảm đáng kể so với các phiên trước. Cây nến có biên độ rất hẹp cho thấy sự thiếu quan tâm và không có sự tham gia đáng kể từ thị trường. **Phân tích VPA/Wyckoff:** No Demand Bar - Giá tăng trên khối lượng rất thấp là một dấu hiệu yếu, cho thấy không có lực cầu thực sự và giá có thể dễ dàng giảm trở lại.
+**Ngày 2025-08-15:** VIF giảm từ 16.2 xuống 15.9 với khối lượng giao dịch tăng lên 7,400 cổ phiếu, xác nhận tín hiệu yếu "No Demand" của phiên trước. Cây nến giảm đóng cửa ở mức thấp nhất phiên cho thấy áp lực bán đã quay trở lại sau nỗ lực tăng giá thất bại. **Phân tích VPA/Wyckoff:** Supply Present - Giá giảm trên khối lượng gia tăng cho thấy nguồn cung đang chiếm ưu thế và xác nhận sự yếu kém trong ngắn hạn.

@@ -1,0 +1,4 @@
+# KSV
+
+**Ngày 2025-08-14:** KSV tăng mạnh từ 164.51 lên 168.6 với khối lượng giao dịch gia tăng, đạt 46,289 cổ phiếu so với 35,989 của phiên trước. Cây nến tăng có biên độ rộng và đóng cửa ở mức cao nhất ngày, cho thấy lực cầu đang chiếm ưu thế rõ rệt và vượt qua vùng kháng cự gần đây. **Phân tích VPA/Wyckoff:** Sign of Strength (SOS) - Lực cầu mạnh mẽ được xác nhận bởi khối lượng gia tăng, cho thấy một nỗ lực tăng giá thành công.
+**Ngày 2025-08-15:** KSV giảm xuống 166.5 với khối lượng giao dịch thấp hơn, đạt 34,700 cổ phiếu. Nến giảm có biên độ rộng và đóng cửa ở mức thấp nhất ngày, cho thấy áp lực bán đã xuất hiện sau phiên tăng mạnh trước đó, có thể là hoạt động chốt lời. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Nguồn cung xuất hiện đã chặn lại đà tăng giá. Mặc dù khối lượng thấp hơn cho thấy áp lực bán chưa áp đảo, việc đóng cửa ở mức thấp nhất là một tín hiệu suy yếu trong ngắn hạn.

@@ -1,0 +1,4 @@
+# CLX
+
+**Ngày 2025-08-14:** CLX đi ngang, đóng cửa tại giá 17.0 VND trong biên độ hẹp (16.7-17.1) với khối lượng giao dịch tăng lên 0.34 triệu cổ phiếu. Việc giá không đổi dù khối lượng gia tăng sau một đợt tăng giá cho thấy nỗ lực đẩy giá đã bị nguồn cung hấp thụ, báo hiệu đà tăng đang chững lại. **Phân tích VPA/Wyckoff:** No Result from Effort - Nỗ lực tăng giá không thành công trên khối lượng lớn, cảnh báo áp lực bán tiềm ẩn.
+**Ngày 2025-08-15:** CLX giảm giá, đóng cửa tại 16.7 VND trong biên độ hẹp (16.5-16.9) với khối lượng giao dịch giảm còn 0.24 triệu cổ phiếu. Diễn biến này xảy ra ngay sau phiên "No Result from Effort" ngày hôm trước, xác nhận sự suy yếu của phe mua. Việc giá dễ dàng đi xuống trên khối lượng thấp cho thấy sự thiếu vắng lực cầu hỗ trợ, báo hiệu khả năng giá sẽ tiếp tục điều chỉnh. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Dấu hiệu suy yếu, xác nhận phe bán đang kiểm soát sau khi nỗ lực tăng giá thất bại.

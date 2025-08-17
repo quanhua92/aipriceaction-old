@@ -1,0 +1,4 @@
+# TVN
+
+**Ngày 2025-08-14:** TVN tăng nhẹ từ 8.8 lên 8.9 với khối lượng giao dịch thấp, đạt 0.59 triệu cổ phiếu. Cây nến tăng có biên độ hẹp và đóng cửa gần mức cao nhất, cho thấy sự thiếu vắng áp lực bán đáng kể. **Phân tích VPA/Wyckoff:** Test for Supply - Nỗ lực tăng giá trên khối lượng thấp xác nhận bên bán đang yếu thế, là một tín hiệu tích cực cho khả năng tiếp diễn xu hướng tăng.
+**Ngày 2025-08-15:** TVN giảm nhẹ từ 8.9 xuống 8.8 với khối lượng giao dịch tăng đột biến, đạt 2.18 triệu cổ phiếu. Nỗ lực tăng giá trong phiên đã thất bại khi giá không giữ được trên mức 8.9, và cây nến giảm đóng cửa trên khối lượng lớn cho thấy áp lực bán đã xuất hiện. So với phiên kiểm tra nguồn cung (Test for Supply) thành công trước đó, diễn biến này là một tín hiệu tiêu cực. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Nỗ lực giảm giá trên khối lượng cao cho thấy nguồn cung đang quay trở lại và chiếm ưu thế.

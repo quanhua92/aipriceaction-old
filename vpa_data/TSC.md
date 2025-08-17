@@ -1,0 +1,4 @@
+# TSC
+
+**Ngày 2025-08-14:** TSC giảm giá nhẹ, đóng cửa ở mức 3.34 với khối lượng giao dịch thấp hơn phiên trước, đạt 0.7 triệu cổ phiếu. Nến giảm có biên độ hẹp và đóng cửa ở mức thấp nhất trong ngày, cho thấy sự thiếu vắng lực cầu mặc dù áp lực bán đã giảm. **Phân tích VPA/Wyckoff:** No Demand - Không có lực cầu, báo hiệu phe mua đang yếu thế và chưa sẵn sàng tham gia thị trường.
+**Ngày 2025-08-15:** TSC tiếp tục giảm giá, đóng cửa ở mức thấp nhất trong ngày là 3.26 VND với khối lượng giao dịch tăng nhẹ so với phiên trước, đạt 0.77 triệu cổ phiếu. Nến giảm có biên độ rộng hơn và việc đóng cửa ở mức thấp nhất trên khối lượng gia tăng xác nhận áp lực bán đang mạnh lên, tiếp nối tín hiệu "No Demand" của ngày hôm trước. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Dấu hiệu yếu thế, cho thấy nguồn cung đang chiếm ưu thế.

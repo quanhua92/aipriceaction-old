@@ -1,0 +1,4 @@
+# PHP
+
+**Ngày 2025-08-14:** PHP giảm từ 39.0 VND xuống 38.6 VND với khối lượng giao dịch đạt 0.3029 triệu cổ phiếu. Cây nến giảm có biên độ vừa phải và đóng cửa ở giữa thân nến, khối lượng thấp hơn đáng kể so với phiên trước (0.5729 triệu cổ phiếu). Điều này cho thấy áp lực bán không mạnh sau phiên tăng giá trước đó. **Phân tích VPA/Wyckoff:** No Supply (Không có nguồn cung) - Lực bán yếu, cho thấy thị trường không sẵn sàng bán ra ở mức giá thấp hơn sau phiên tăng mạnh trước đó.
+**Ngày 2025-08-15:** PHP giảm từ 38.6 VND xuống 37.3 VND với khối lượng giao dịch đạt 0.402 triệu cổ phiếu. Cây nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất phiên, cho thấy áp lực bán mạnh. Khối lượng giao dịch tăng so với phiên trước (0.3029 triệu cổ phiếu), xác nhận sự xuất hiện của lực cung sau tín hiệu "No Supply" của phiên trước. **Phân tích VPA/Wyckoff:** Sign of Weakness (Dấu hiệu yếu kém) - Lực cung đã xuất hiện và đẩy giá xuống với biên độ rộng và khối lượng tăng.
