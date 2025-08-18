@@ -1,3 +1,4 @@
 # VTO
 
 **Ngày 2025-08-15:** VTO giảm giá xuống 12.45 với khối lượng giao dịch tăng mạnh lên 1.42 triệu cổ phiếu. Cây nến giảm có biên độ hẹp và đóng cửa ở mức thấp nhất phiên, cho thấy áp lực bán đang gia tăng và chiếm ưu thế rõ rệt sau khi giá không thể duy trì đà tăng ở các phiên trước. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Nguồn cung gia tăng mạnh mẽ, thể hiện qua việc giá giảm đi kèm khối lượng lớn, xác nhận xu hướng giảm ngắn hạn.
+**Ngày 2025-08-18:** VTO giảm giá từ 12.5 VND xuống 12.45 VND với khối lượng giao dịch giảm mạnh xuống 0.7032 triệu cổ phiếu. Cây nến có biên độ hẹp và đóng cửa ở mức thấp nhất phiên, cho thấy áp lực bán vẫn còn và thiếu lực cầu mạnh mẽ để đẩy giá lên. So với phiên trước (15/08) là một Sign of Weakness với khối lượng lớn, phiên này cho thấy sự tiếp diễn của xu hướng giảm nhưng với khối lượng thấp hơn, xác nhận sự thiếu vắng của lực mua. **Phân tích VPA/Wyckoff:** No Demand (ND) - Thiếu cầu.

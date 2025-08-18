@@ -1,3 +1,4 @@
 # CMX
 
 **Ngày 2025-08-15:** CMX giảm từ 7.7 xuống 7.47 với khối lượng giao dịch tăng mạnh, đạt 1.01 triệu cổ phiếu so với 0.59 triệu của phiên trước. Cây nến giảm có biên độ rộng và đóng cửa gần mức thấp nhất phiên, cho thấy áp lực bán mạnh mẽ đã phá vỡ xu hướng tăng ngắn hạn. **Phân tích VPA/Wyckoff:** Sign of Weakness (SOW) - Nguồn cung gia tăng đột biến, áp đảo hoàn toàn lực cầu và báo hiệu khả năng đảo chiều xu hướng.
+**Ngày 2025-08-18:** CMX tăng nhẹ từ 7.47 VND lên 7.55 VND với khối lượng giao dịch giảm mạnh, chỉ đạt 0.297 triệu cổ phiếu so với 1.012 triệu của phiên trước. Cây nến tăng có biên độ hẹp và đóng cửa trên giá mở cửa, cho thấy lực bán đã giảm nhưng lực mua cũng không đáng kể sau phiên giảm mạnh trước đó. **Phân tích VPA/Wyckoff:** No Demand (ND) - Sự phục hồi với khối lượng thấp sau một phiên giảm mạnh cho thấy thiếu vắng lực cầu, xác nhận sự yếu kém của thị trường.

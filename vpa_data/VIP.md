@@ -1,3 +1,4 @@
 # VIP
 
 **Ngày 2025-08-15:** VIP giảm nhẹ xuống 13.3 VND, đóng cửa gần mức thấp nhất trong phiên. Khối lượng giao dịch giảm mạnh so với phiên trước, chỉ còn 0.36 triệu cổ phiếu. Nến giảm với biên độ hẹp trên khối lượng thấp cho thấy áp lực bán đã suy yếu đáng kể và bên bán không còn quyết liệt. **Phân tích VPA/Wyckoff:** No Supply - Tín hiệu không có nguồn cung, cho thấy lực bán đã cạn kiệt và đợt giảm giá có thể sắp kết thúc.
+**Ngày 2025-08-18:** VIP tăng từ 13.3 VND lên 13.5 VND, đóng cửa gần mức cao nhất trong phiên. Khối lượng giao dịch đạt 0.45 triệu cổ phiếu, tăng nhẹ so với phiên trước. Nến tăng với biên độ hẹp trên khối lượng tăng nhẹ cho thấy lực mua đang dần xuất hiện sau tín hiệu không có nguồn cung. **Phân tích VPA/Wyckoff:** Tín hiệu sức mạnh sơ bộ (Preliminary Sign of Strength) - Lực mua đang dần xuất hiện sau khi nguồn cung cạn kiệt.

@@ -1592,7 +1592,7 @@ def process_tickers(week_mode=False, agent='claude', verbose=False, workers=4):
     logging.info(f"📊 Starting sequential-by-date ticker processing using {agent.upper()} with {workers} workers...")
     
     # Read tickers from ticker_group.json
-    tickers = []
+    tickers = ["VNINDEX"]  # Always include VNINDEX first
     try:
         logging.debug("Reading ticker_group.json...")
         with open('ticker_group.json', 'r', encoding='utf-8') as f:
