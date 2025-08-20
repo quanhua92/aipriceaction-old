@@ -1729,8 +1729,8 @@ def main():
                        help='Process weekly VPA analysis instead of daily')
     parser.add_argument('--debug', action='store_true',
                        help='Enable debug logging')
-    parser.add_argument('--agent', choices=['claude', 'gemini', 'gemini-2.5-flash'], default='gemini',
-                       help='AI agent to use for analysis (default: gemini)')
+    parser.add_argument('--agent', choices=['claude', 'gemini', 'gemini-2.5-flash'], default='gemini-2.5-flash',
+                       help='AI agent to use for analysis (default: gemini-2.5-flash)')
     parser.add_argument('--verbose', action='store_true',
                        help='Show detailed prompts and context sent to AI agents')
     parser.add_argument('--workers', type=int, default=4,
