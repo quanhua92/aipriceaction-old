@@ -60,7 +60,6 @@ jobs:
       - name: Run data pipeline and generate report
         run: |
           python main.py --check-dividend
-          python main_super_stocks.py
 
       # Step 6: Combine all market data files into a single file.
       - name: Combine market data
