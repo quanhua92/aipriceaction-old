@@ -5,9 +5,9 @@ on:
   workflow_dispatch:
 
   # Sets up a scheduled run
-  schedule:
+  # schedule:
     # - cron: "0 0 * * *"
-    - cron: "0 5 * * *"
+    # - cron: "0 5 * * *"
     # - cron: "0 9 * * *"
 
 # Grant write permissions to the GITHUB_TOKEN to allow the workflow to commit and push changes.

@@ -1,6 +1,6 @@
 # AIPriceAction Market Report
-*Report generated for data from **2025-01-02** to **2025-11-09**.*
-*Last updated: 2025-11-09 04:48:45*
+*Report generated for data from **2025-01-02** to **2025-11-16**.*
+*Last updated: 2025-11-16 04:51:54*
 
 ---
 
@@ -143,590 +143,590 @@
 ## Table of Contents
 | Ticker | Actions |
 |:-------|:--------|
-| **[VNINDEX](#vnindex)** | [[Download CSV](market_data/VNINDEX_2025-01-02_to_2025-11-09.csv)] |
-| **[AAA](#aaa)** | [[Download CSV](market_data/AAA_2025-01-02_to_2025-11-09.csv)] |
-| **[ACB](#acb)** | [[Download CSV](market_data/ACB_2025-01-02_to_2025-11-09.csv)] |
-| **[ACG](#acg)** | [[Download CSV](market_data/ACG_2025-01-02_to_2025-11-09.csv)] |
-| **[ACL](#acl)** | [[Download CSV](market_data/ACL_2025-01-02_to_2025-11-09.csv)] |
-| **[ACV](#acv)** | [[Download CSV](market_data/ACV_2025-01-02_to_2025-11-09.csv)] |
-| **[ADS](#ads)** | [[Download CSV](market_data/ADS_2025-01-02_to_2025-11-09.csv)] |
-| **[AGG](#agg)** | [[Download CSV](market_data/AGG_2025-01-02_to_2025-11-09.csv)] |
-| **[AGR](#agr)** | [[Download CSV](market_data/AGR_2025-01-02_to_2025-11-09.csv)] |
-| **[ANV](#anv)** | [[Download CSV](market_data/ANV_2025-01-02_to_2025-11-09.csv)] |
-| **[APG](#apg)** | [[Download CSV](market_data/APG_2025-01-02_to_2025-11-09.csv)] |
-| **[APH](#aph)** | [[Download CSV](market_data/APH_2025-01-02_to_2025-11-09.csv)] |
-| **[APS](#aps)** | [[Download CSV](market_data/APS_2025-01-02_to_2025-11-09.csv)] |
-| **[ASM](#asm)** | [[Download CSV](market_data/ASM_2025-01-02_to_2025-11-09.csv)] |
-| **[BAF](#baf)** | [[Download CSV](market_data/BAF_2025-01-02_to_2025-11-09.csv)] |
-| **[BCC](#bcc)** | [[Download CSV](market_data/BCC_2025-01-02_to_2025-11-09.csv)] |
-| **[BCE](#bce)** | [[Download CSV](market_data/BCE_2025-01-02_to_2025-11-09.csv)] |
-| **[BCG](#bcg)** | [[Download CSV](market_data/BCG_2025-01-02_to_2025-11-09.csv)] |
-| **[BCM](#bcm)** | [[Download CSV](market_data/BCM_2025-01-02_to_2025-11-09.csv)] |
-| **[BFC](#bfc)** | [[Download CSV](market_data/BFC_2025-01-02_to_2025-11-09.csv)] |
-| **[BIC](#bic)** | [[Download CSV](market_data/BIC_2025-01-02_to_2025-11-09.csv)] |
-| **[BID](#bid)** | [[Download CSV](market_data/BID_2025-01-02_to_2025-11-09.csv)] |
-| **[BMC](#bmc)** | [[Download CSV](market_data/BMC_2025-01-02_to_2025-11-09.csv)] |
-| **[BMI](#bmi)** | [[Download CSV](market_data/BMI_2025-01-02_to_2025-11-09.csv)] |
-| **[BMP](#bmp)** | [[Download CSV](market_data/BMP_2025-01-02_to_2025-11-09.csv)] |
-| **[BMS](#bms)** | [[Download CSV](market_data/BMS_2025-01-02_to_2025-11-09.csv)] |
-| **[BSI](#bsi)** | [[Download CSV](market_data/BSI_2025-01-02_to_2025-11-09.csv)] |
-| **[BSR](#bsr)** | [[Download CSV](market_data/BSR_2025-01-02_to_2025-11-09.csv)] |
-| **[BTN](#btn)** | [[Download CSV](market_data/BTN_2025-01-02_to_2025-11-09.csv)] |
-| **[BTS](#bts)** | [[Download CSV](market_data/BTS_2025-01-02_to_2025-11-09.csv)] |
-| **[BVH](#bvh)** | [[Download CSV](market_data/BVH_2025-01-02_to_2025-11-09.csv)] |
-| **[BVS](#bvs)** | [[Download CSV](market_data/BVS_2025-01-02_to_2025-11-09.csv)] |
-| **[BWE](#bwe)** | [[Download CSV](market_data/BWE_2025-01-02_to_2025-11-09.csv)] |
-| **[C47](#c47)** | [[Download CSV](market_data/C47_2025-01-02_to_2025-11-09.csv)] |
-| **[C4G](#c4g)** | [[Download CSV](market_data/C4G_2025-01-02_to_2025-11-09.csv)] |
-| **[C69](#c69)** | [[Download CSV](market_data/C69_2025-01-02_to_2025-11-09.csv)] |
-| **[CEO](#ceo)** | [[Download CSV](market_data/CEO_2025-01-02_to_2025-11-09.csv)] |
-| **[CIG](#cig)** | [[Download CSV](market_data/CIG_2025-01-02_to_2025-11-09.csv)] |
-| **[CII](#cii)** | [[Download CSV](market_data/CII_2025-01-02_to_2025-11-09.csv)] |
-| **[CKG](#ckg)** | [[Download CSV](market_data/CKG_2025-01-02_to_2025-11-09.csv)] |
-| **[CLX](#clx)** | [[Download CSV](market_data/CLX_2025-01-02_to_2025-11-09.csv)] |
-| **[CMG](#cmg)** | [[Download CSV](market_data/CMG_2025-01-02_to_2025-11-09.csv)] |
-| **[CMX](#cmx)** | [[Download CSV](market_data/CMX_2025-01-02_to_2025-11-09.csv)] |
-| **[CNG](#cng)** | [[Download CSV](market_data/CNG_2025-01-02_to_2025-11-09.csv)] |
-| **[CRV](#crv)** | [[Download CSV](market_data/CRV_2025-01-02_to_2025-11-09.csv)] |
-| **[CSC](#csc)** | [[Download CSV](market_data/CSC_2025-01-02_to_2025-11-09.csv)] |
-| **[CST](#cst)** | [[Download CSV](market_data/CST_2025-01-02_to_2025-11-09.csv)] |
-| **[CSV](#csv)** | [[Download CSV](market_data/CSV_2025-01-02_to_2025-11-09.csv)] |
-| **[CTD](#ctd)** | [[Download CSV](market_data/CTD_2025-01-02_to_2025-11-09.csv)] |
-| **[CTG](#ctg)** | [[Download CSV](market_data/CTG_2025-01-02_to_2025-11-09.csv)] |
-| **[CTI](#cti)** | [[Download CSV](market_data/CTI_2025-01-02_to_2025-11-09.csv)] |
-| **[CTR](#ctr)** | [[Download CSV](market_data/CTR_2025-01-02_to_2025-11-09.csv)] |
-| **[CTS](#cts)** | [[Download CSV](market_data/CTS_2025-01-02_to_2025-11-09.csv)] |
-| **[D2D](#d2d)** | [[Download CSV](market_data/D2D_2025-01-02_to_2025-11-09.csv)] |
-| **[DAH](#dah)** | [[Download CSV](market_data/DAH_2025-01-02_to_2025-11-09.csv)] |
-| **[DBC](#dbc)** | [[Download CSV](market_data/DBC_2025-01-02_to_2025-11-09.csv)] |
-| **[DCL](#dcl)** | [[Download CSV](market_data/DCL_2025-01-02_to_2025-11-09.csv)] |
-| **[DCM](#dcm)** | [[Download CSV](market_data/DCM_2025-01-02_to_2025-11-09.csv)] |
-| **[DDV](#ddv)** | [[Download CSV](market_data/DDV_2025-01-02_to_2025-11-09.csv)] |
-| **[DGC](#dgc)** | [[Download CSV](market_data/DGC_2025-01-02_to_2025-11-09.csv)] |
-| **[DGW](#dgw)** | [[Download CSV](market_data/DGW_2025-01-02_to_2025-11-09.csv)] |
-| **[DHA](#dha)** | [[Download CSV](market_data/DHA_2025-01-02_to_2025-11-09.csv)] |
-| **[DHC](#dhc)** | [[Download CSV](market_data/DHC_2025-01-02_to_2025-11-09.csv)] |
-| **[DHG](#dhg)** | [[Download CSV](market_data/DHG_2025-01-02_to_2025-11-09.csv)] |
-| **[DHT](#dht)** | [[Download CSV](market_data/DHT_2025-01-02_to_2025-11-09.csv)] |
-| **[DIG](#dig)** | [[Download CSV](market_data/DIG_2025-01-02_to_2025-11-09.csv)] |
-| **[DL1](#dl1)** | [[Download CSV](market_data/DL1_2025-01-02_to_2025-11-09.csv)] |
-| **[DPG](#dpg)** | [[Download CSV](market_data/DPG_2025-01-02_to_2025-11-09.csv)] |
-| **[DPM](#dpm)** | [[Download CSV](market_data/DPM_2025-01-02_to_2025-11-09.csv)] |
-| **[DPR](#dpr)** | [[Download CSV](market_data/DPR_2025-01-02_to_2025-11-09.csv)] |
-| **[DRC](#drc)** | [[Download CSV](market_data/DRC_2025-01-02_to_2025-11-09.csv)] |
-| **[DRG](#drg)** | [[Download CSV](market_data/DRG_2025-01-02_to_2025-11-09.csv)] |
-| **[DRI](#dri)** | [[Download CSV](market_data/DRI_2025-01-02_to_2025-11-09.csv)] |
-| **[DSC](#dsc)** | [[Download CSV](market_data/DSC_2025-01-02_to_2025-11-09.csv)] |
-| **[DSN](#dsn)** | [[Download CSV](market_data/DSN_2025-01-02_to_2025-11-09.csv)] |
-| **[DST](#dst)** | [[Download CSV](market_data/DST_2025-01-02_to_2025-11-09.csv)] |
-| **[DTD](#dtd)** | [[Download CSV](market_data/DTD_2025-01-02_to_2025-11-09.csv)] |
-| **[DVN](#dvn)** | [[Download CSV](market_data/DVN_2025-01-02_to_2025-11-09.csv)] |
-| **[DVP](#dvp)** | [[Download CSV](market_data/DVP_2025-01-02_to_2025-11-09.csv)] |
-| **[DXG](#dxg)** | [[Download CSV](market_data/DXG_2025-01-02_to_2025-11-09.csv)] |
-| **[DXP](#dxp)** | [[Download CSV](market_data/DXP_2025-01-02_to_2025-11-09.csv)] |
-| **[EIB](#eib)** | [[Download CSV](market_data/EIB_2025-01-02_to_2025-11-09.csv)] |
-| **[ELC](#elc)** | [[Download CSV](market_data/ELC_2025-01-02_to_2025-11-09.csv)] |
-| **[EVE](#eve)** | [[Download CSV](market_data/EVE_2025-01-02_to_2025-11-09.csv)] |
-| **[EVF](#evf)** | [[Download CSV](market_data/EVF_2025-01-02_to_2025-11-09.csv)] |
-| **[EVG](#evg)** | [[Download CSV](market_data/EVG_2025-01-02_to_2025-11-09.csv)] |
-| **[EVS](#evs)** | [[Download CSV](market_data/EVS_2025-01-02_to_2025-11-09.csv)] |
-| **[FCN](#fcn)** | [[Download CSV](market_data/FCN_2025-01-02_to_2025-11-09.csv)] |
-| **[FID](#fid)** | [[Download CSV](market_data/FID_2025-01-02_to_2025-11-09.csv)] |
-| **[FIT](#fit)** | [[Download CSV](market_data/FIT_2025-01-02_to_2025-11-09.csv)] |
-| **[FMC](#fmc)** | [[Download CSV](market_data/FMC_2025-01-02_to_2025-11-09.csv)] |
-| **[FOX](#fox)** | [[Download CSV](market_data/FOX_2025-01-02_to_2025-11-09.csv)] |
-| **[FPT](#fpt)** | [[Download CSV](market_data/FPT_2025-01-02_to_2025-11-09.csv)] |
-| **[FRT](#frt)** | [[Download CSV](market_data/FRT_2025-01-02_to_2025-11-09.csv)] |
-| **[FTS](#fts)** | [[Download CSV](market_data/FTS_2025-01-02_to_2025-11-09.csv)] |
-| **[G36](#g36)** | [[Download CSV](market_data/G36_2025-01-02_to_2025-11-09.csv)] |
-| **[GAS](#gas)** | [[Download CSV](market_data/GAS_2025-01-02_to_2025-11-09.csv)] |
-| **[GDA](#gda)** | [[Download CSV](market_data/GDA_2025-01-02_to_2025-11-09.csv)] |
-| **[GDT](#gdt)** | [[Download CSV](market_data/GDT_2025-01-02_to_2025-11-09.csv)] |
-| **[GEG](#geg)** | [[Download CSV](market_data/GEG_2025-01-02_to_2025-11-09.csv)] |
-| **[GEX](#gex)** | [[Download CSV](market_data/GEX_2025-01-02_to_2025-11-09.csv)] |
-| **[GIL](#gil)** | [[Download CSV](market_data/GIL_2025-01-02_to_2025-11-09.csv)] |
-| **[GMD](#gmd)** | [[Download CSV](market_data/GMD_2025-01-02_to_2025-11-09.csv)] |
-| **[GVR](#gvr)** | [[Download CSV](market_data/GVR_2025-01-02_to_2025-11-09.csv)] |
-| **[HAG](#hag)** | [[Download CSV](market_data/HAG_2025-01-02_to_2025-11-09.csv)] |
-| **[HAH](#hah)** | [[Download CSV](market_data/HAH_2025-01-02_to_2025-11-09.csv)] |
-| **[HAP](#hap)** | [[Download CSV](market_data/HAP_2025-01-02_to_2025-11-09.csv)] |
-| **[HAX](#hax)** | [[Download CSV](market_data/HAX_2025-01-02_to_2025-11-09.csv)] |
-| **[HBC](#hbc)** | [[Download CSV](market_data/HBC_2025-01-02_to_2025-11-09.csv)] |
-| **[HCD](#hcd)** | [[Download CSV](market_data/HCD_2025-01-02_to_2025-11-09.csv)] |
-| **[HCM](#hcm)** | [[Download CSV](market_data/HCM_2025-01-02_to_2025-11-09.csv)] |
-| **[HDB](#hdb)** | [[Download CSV](market_data/HDB_2025-01-02_to_2025-11-09.csv)] |
-| **[HDC](#hdc)** | [[Download CSV](market_data/HDC_2025-01-02_to_2025-11-09.csv)] |
-| **[HDG](#hdg)** | [[Download CSV](market_data/HDG_2025-01-02_to_2025-11-09.csv)] |
-| **[HHS](#hhs)** | [[Download CSV](market_data/HHS_2025-01-02_to_2025-11-09.csv)] |
-| **[HHV](#hhv)** | [[Download CSV](market_data/HHV_2025-01-02_to_2025-11-09.csv)] |
-| **[HID](#hid)** | [[Download CSV](market_data/HID_2025-01-02_to_2025-11-09.csv)] |
-| **[HLD](#hld)** | [[Download CSV](market_data/HLD_2025-01-02_to_2025-11-09.csv)] |
-| **[HOM](#hom)** | [[Download CSV](market_data/HOM_2025-01-02_to_2025-11-09.csv)] |
-| **[HPG](#hpg)** | [[Download CSV](market_data/HPG_2025-01-02_to_2025-11-09.csv)] |
-| **[HQC](#hqc)** | [[Download CSV](market_data/HQC_2025-01-02_to_2025-11-09.csv)] |
-| **[HSG](#hsg)** | [[Download CSV](market_data/HSG_2025-01-02_to_2025-11-09.csv)] |
-| **[HT1](#ht1)** | [[Download CSV](market_data/HT1_2025-01-02_to_2025-11-09.csv)] |
-| **[HTN](#htn)** | [[Download CSV](market_data/HTN_2025-01-02_to_2025-11-09.csv)] |
-| **[HUT](#hut)** | [[Download CSV](market_data/HUT_2025-01-02_to_2025-11-09.csv)] |
-| **[HVN](#hvn)** | [[Download CSV](market_data/HVN_2025-01-02_to_2025-11-09.csv)] |
-| **[IDC](#idc)** | [[Download CSV](market_data/IDC_2025-01-02_to_2025-11-09.csv)] |
-| **[IDI](#idi)** | [[Download CSV](market_data/IDI_2025-01-02_to_2025-11-09.csv)] |
-| **[IDJ](#idj)** | [[Download CSV](market_data/IDJ_2025-01-02_to_2025-11-09.csv)] |
-| **[IDV](#idv)** | [[Download CSV](market_data/IDV_2025-01-02_to_2025-11-09.csv)] |
-| **[IJC](#ijc)** | [[Download CSV](market_data/IJC_2025-01-02_to_2025-11-09.csv)] |
-| **[IMP](#imp)** | [[Download CSV](market_data/IMP_2025-01-02_to_2025-11-09.csv)] |
-| **[IPA](#ipa)** | [[Download CSV](market_data/IPA_2025-01-02_to_2025-11-09.csv)] |
-| **[ITC](#itc)** | [[Download CSV](market_data/ITC_2025-01-02_to_2025-11-09.csv)] |
-| **[JVC](#jvc)** | [[Download CSV](market_data/JVC_2025-01-02_to_2025-11-09.csv)] |
-| **[KBC](#kbc)** | [[Download CSV](market_data/KBC_2025-01-02_to_2025-11-09.csv)] |
-| **[KDC](#kdc)** | [[Download CSV](market_data/KDC_2025-01-02_to_2025-11-09.csv)] |
-| **[KDH](#kdh)** | [[Download CSV](market_data/KDH_2025-01-02_to_2025-11-09.csv)] |
-| **[KHG](#khg)** | [[Download CSV](market_data/KHG_2025-01-02_to_2025-11-09.csv)] |
-| **[KSB](#ksb)** | [[Download CSV](market_data/KSB_2025-01-02_to_2025-11-09.csv)] |
-| **[KSV](#ksv)** | [[Download CSV](market_data/KSV_2025-01-02_to_2025-11-09.csv)] |
-| **[L18](#l18)** | [[Download CSV](market_data/L18_2025-01-02_to_2025-11-09.csv)] |
-| **[LAS](#las)** | [[Download CSV](market_data/LAS_2025-01-02_to_2025-11-09.csv)] |
-| **[LCG](#lcg)** | [[Download CSV](market_data/LCG_2025-01-02_to_2025-11-09.csv)] |
-| **[LDG](#ldg)** | [[Download CSV](market_data/LDG_2025-01-02_to_2025-11-09.csv)] |
-| **[LHG](#lhg)** | [[Download CSV](market_data/LHG_2025-01-02_to_2025-11-09.csv)] |
-| **[LIG](#lig)** | [[Download CSV](market_data/LIG_2025-01-02_to_2025-11-09.csv)] |
-| **[LPB](#lpb)** | [[Download CSV](market_data/LPB_2025-01-02_to_2025-11-09.csv)] |
-| **[LSS](#lss)** | [[Download CSV](market_data/LSS_2025-01-02_to_2025-11-09.csv)] |
-| **[LTG](#ltg)** | [[Download CSV](market_data/LTG_2025-01-02_to_2025-11-09.csv)] |
-| **[MBB](#mbb)** | [[Download CSV](market_data/MBB_2025-01-02_to_2025-11-09.csv)] |
-| **[MBS](#mbs)** | [[Download CSV](market_data/MBS_2025-01-02_to_2025-11-09.csv)] |
-| **[MCH](#mch)** | [[Download CSV](market_data/MCH_2025-01-02_to_2025-11-09.csv)] |
-| **[MCM](#mcm)** | [[Download CSV](market_data/MCM_2025-01-02_to_2025-11-09.csv)] |
-| **[MFS](#mfs)** | [[Download CSV](market_data/MFS_2025-01-02_to_2025-11-09.csv)] |
-| **[MHC](#mhc)** | [[Download CSV](market_data/MHC_2025-01-02_to_2025-11-09.csv)] |
-| **[MIG](#mig)** | [[Download CSV](market_data/MIG_2025-01-02_to_2025-11-09.csv)] |
-| **[MPC](#mpc)** | [[Download CSV](market_data/MPC_2025-01-02_to_2025-11-09.csv)] |
-| **[MSB](#msb)** | [[Download CSV](market_data/MSB_2025-01-02_to_2025-11-09.csv)] |
-| **[MSH](#msh)** | [[Download CSV](market_data/MSH_2025-01-02_to_2025-11-09.csv)] |
-| **[MSN](#msn)** | [[Download CSV](market_data/MSN_2025-01-02_to_2025-11-09.csv)] |
-| **[MSR](#msr)** | [[Download CSV](market_data/MSR_2025-01-02_to_2025-11-09.csv)] |
-| **[MST](#mst)** | [[Download CSV](market_data/MST_2025-01-02_to_2025-11-09.csv)] |
-| **[MWG](#mwg)** | [[Download CSV](market_data/MWG_2025-01-02_to_2025-11-09.csv)] |
-| **[NAF](#naf)** | [[Download CSV](market_data/NAF_2025-01-02_to_2025-11-09.csv)] |
-| **[NBC](#nbc)** | [[Download CSV](market_data/NBC_2025-01-02_to_2025-11-09.csv)] |
-| **[NCT](#nct)** | [[Download CSV](market_data/NCT_2025-01-02_to_2025-11-09.csv)] |
-| **[NDN](#ndn)** | [[Download CSV](market_data/NDN_2025-01-02_to_2025-11-09.csv)] |
-| **[NHA](#nha)** | [[Download CSV](market_data/NHA_2025-01-02_to_2025-11-09.csv)] |
-| **[NHH](#nhh)** | [[Download CSV](market_data/NHH_2025-01-02_to_2025-11-09.csv)] |
-| **[NKG](#nkg)** | [[Download CSV](market_data/NKG_2025-01-02_to_2025-11-09.csv)] |
-| **[NLG](#nlg)** | [[Download CSV](market_data/NLG_2025-01-02_to_2025-11-09.csv)] |
-| **[NNC](#nnc)** | [[Download CSV](market_data/NNC_2025-01-02_to_2025-11-09.csv)] |
-| **[NRC](#nrc)** | [[Download CSV](market_data/NRC_2025-01-02_to_2025-11-09.csv)] |
-| **[NT2](#nt2)** | [[Download CSV](market_data/NT2_2025-01-02_to_2025-11-09.csv)] |
-| **[NTC](#ntc)** | [[Download CSV](market_data/NTC_2025-01-02_to_2025-11-09.csv)] |
-| **[NTL](#ntl)** | [[Download CSV](market_data/NTL_2025-01-02_to_2025-11-09.csv)] |
-| **[NTP](#ntp)** | [[Download CSV](market_data/NTP_2025-01-02_to_2025-11-09.csv)] |
-| **[NVL](#nvl)** | [[Download CSV](market_data/NVL_2025-01-02_to_2025-11-09.csv)] |
-| **[OCB](#ocb)** | [[Download CSV](market_data/OCB_2025-01-02_to_2025-11-09.csv)] |
-| **[OIL](#oil)** | [[Download CSV](market_data/OIL_2025-01-02_to_2025-11-09.csv)] |
-| **[ORS](#ors)** | [[Download CSV](market_data/ORS_2025-01-02_to_2025-11-09.csv)] |
-| **[PAN](#pan)** | [[Download CSV](market_data/PAN_2025-01-02_to_2025-11-09.csv)] |
-| **[PC1](#pc1)** | [[Download CSV](market_data/PC1_2025-01-02_to_2025-11-09.csv)] |
-| **[PDR](#pdr)** | [[Download CSV](market_data/PDR_2025-01-02_to_2025-11-09.csv)] |
-| **[PET](#pet)** | [[Download CSV](market_data/PET_2025-01-02_to_2025-11-09.csv)] |
-| **[PHC](#phc)** | [[Download CSV](market_data/PHC_2025-01-02_to_2025-11-09.csv)] |
-| **[PHP](#php)** | [[Download CSV](market_data/PHP_2025-01-02_to_2025-11-09.csv)] |
-| **[PHR](#phr)** | [[Download CSV](market_data/PHR_2025-01-02_to_2025-11-09.csv)] |
-| **[PLC](#plc)** | [[Download CSV](market_data/PLC_2025-01-02_to_2025-11-09.csv)] |
-| **[PLX](#plx)** | [[Download CSV](market_data/PLX_2025-01-02_to_2025-11-09.csv)] |
-| **[PNJ](#pnj)** | [[Download CSV](market_data/PNJ_2025-01-02_to_2025-11-09.csv)] |
-| **[POW](#pow)** | [[Download CSV](market_data/POW_2025-01-02_to_2025-11-09.csv)] |
-| **[PPC](#ppc)** | [[Download CSV](market_data/PPC_2025-01-02_to_2025-11-09.csv)] |
-| **[PPH](#pph)** | [[Download CSV](market_data/PPH_2025-01-02_to_2025-11-09.csv)] |
-| **[PTB](#ptb)** | [[Download CSV](market_data/PTB_2025-01-02_to_2025-11-09.csv)] |
-| **[PVC](#pvc)** | [[Download CSV](market_data/PVC_2025-01-02_to_2025-11-09.csv)] |
-| **[PVD](#pvd)** | [[Download CSV](market_data/PVD_2025-01-02_to_2025-11-09.csv)] |
-| **[PVI](#pvi)** | [[Download CSV](market_data/PVI_2025-01-02_to_2025-11-09.csv)] |
-| **[PVP](#pvp)** | [[Download CSV](market_data/PVP_2025-01-02_to_2025-11-09.csv)] |
-| **[PVS](#pvs)** | [[Download CSV](market_data/PVS_2025-01-02_to_2025-11-09.csv)] |
-| **[PVT](#pvt)** | [[Download CSV](market_data/PVT_2025-01-02_to_2025-11-09.csv)] |
-| **[PXI](#pxi)** | [[Download CSV](market_data/PXI_2025-01-02_to_2025-11-09.csv)] |
-| **[QNS](#qns)** | [[Download CSV](market_data/QNS_2025-01-02_to_2025-11-09.csv)] |
-| **[QTP](#qtp)** | [[Download CSV](market_data/QTP_2025-01-02_to_2025-11-09.csv)] |
-| **[S99](#s99)** | [[Download CSV](market_data/S99_2025-01-02_to_2025-11-09.csv)] |
-| **[SAB](#sab)** | [[Download CSV](market_data/SAB_2025-01-02_to_2025-11-09.csv)] |
-| **[SAS](#sas)** | [[Download CSV](market_data/SAS_2025-01-02_to_2025-11-09.csv)] |
-| **[SBS](#sbs)** | [[Download CSV](market_data/SBS_2025-01-02_to_2025-11-09.csv)] |
-| **[SBT](#sbt)** | [[Download CSV](market_data/SBT_2025-01-02_to_2025-11-09.csv)] |
-| **[SCI](#sci)** | [[Download CSV](market_data/SCI_2025-01-02_to_2025-11-09.csv)] |
-| **[SCR](#scr)** | [[Download CSV](market_data/SCR_2025-01-02_to_2025-11-09.csv)] |
-| **[SCS](#scs)** | [[Download CSV](market_data/SCS_2025-01-02_to_2025-11-09.csv)] |
-| **[SGN](#sgn)** | [[Download CSV](market_data/SGN_2025-01-02_to_2025-11-09.csv)] |
-| **[SGR](#sgr)** | [[Download CSV](market_data/SGR_2025-01-02_to_2025-11-09.csv)] |
-| **[SGT](#sgt)** | [[Download CSV](market_data/SGT_2025-01-02_to_2025-11-09.csv)] |
-| **[SHB](#shb)** | [[Download CSV](market_data/SHB_2025-01-02_to_2025-11-09.csv)] |
-| **[SHS](#shs)** | [[Download CSV](market_data/SHS_2025-01-02_to_2025-11-09.csv)] |
-| **[SIP](#sip)** | [[Download CSV](market_data/SIP_2025-01-02_to_2025-11-09.csv)] |
-| **[SKG](#skg)** | [[Download CSV](market_data/SKG_2025-01-02_to_2025-11-09.csv)] |
-| **[SLS](#sls)** | [[Download CSV](market_data/SLS_2025-01-02_to_2025-11-09.csv)] |
-| **[SMC](#smc)** | [[Download CSV](market_data/SMC_2025-01-02_to_2025-11-09.csv)] |
-| **[SSH](#ssh)** | [[Download CSV](market_data/SSH_2025-01-02_to_2025-11-09.csv)] |
-| **[SSI](#ssi)** | [[Download CSV](market_data/SSI_2025-01-02_to_2025-11-09.csv)] |
-| **[STB](#stb)** | [[Download CSV](market_data/STB_2025-01-02_to_2025-11-09.csv)] |
-| **[STK](#stk)** | [[Download CSV](market_data/STK_2025-01-02_to_2025-11-09.csv)] |
-| **[SZC](#szc)** | [[Download CSV](market_data/SZC_2025-01-02_to_2025-11-09.csv)] |
-| **[TCB](#tcb)** | [[Download CSV](market_data/TCB_2025-01-02_to_2025-11-09.csv)] |
-| **[TCD](#tcd)** | [[Download CSV](market_data/TCD_2025-01-02_to_2025-11-09.csv)] |
-| **[TCH](#tch)** | [[Download CSV](market_data/TCH_2025-01-02_to_2025-11-09.csv)] |
-| **[TCI](#tci)** | [[Download CSV](market_data/TCI_2025-01-02_to_2025-11-09.csv)] |
-| **[TCL](#tcl)** | [[Download CSV](market_data/TCL_2025-01-02_to_2025-11-09.csv)] |
-| **[TCM](#tcm)** | [[Download CSV](market_data/TCM_2025-01-02_to_2025-11-09.csv)] |
-| **[TCX](#tcx)** | [[Download CSV](market_data/TCX_2025-01-02_to_2025-11-09.csv)] |
-| **[TDC](#tdc)** | [[Download CSV](market_data/TDC_2025-01-02_to_2025-11-09.csv)] |
-| **[TDM](#tdm)** | [[Download CSV](market_data/TDM_2025-01-02_to_2025-11-09.csv)] |
-| **[TIG](#tig)** | [[Download CSV](market_data/TIG_2025-01-02_to_2025-11-09.csv)] |
-| **[TIP](#tip)** | [[Download CSV](market_data/TIP_2025-01-02_to_2025-11-09.csv)] |
-| **[TLD](#tld)** | [[Download CSV](market_data/TLD_2025-01-02_to_2025-11-09.csv)] |
-| **[TLH](#tlh)** | [[Download CSV](market_data/TLH_2025-01-02_to_2025-11-09.csv)] |
-| **[TNG](#tng)** | [[Download CSV](market_data/TNG_2025-01-02_to_2025-11-09.csv)] |
-| **[TNH](#tnh)** | [[Download CSV](market_data/TNH_2025-01-02_to_2025-11-09.csv)] |
-| **[TNT](#tnt)** | [[Download CSV](market_data/TNT_2025-01-02_to_2025-11-09.csv)] |
-| **[TPB](#tpb)** | [[Download CSV](market_data/TPB_2025-01-02_to_2025-11-09.csv)] |
-| **[TSC](#tsc)** | [[Download CSV](market_data/TSC_2025-01-02_to_2025-11-09.csv)] |
-| **[TTF](#ttf)** | [[Download CSV](market_data/TTF_2025-01-02_to_2025-11-09.csv)] |
-| **[TTN](#ttn)** | [[Download CSV](market_data/TTN_2025-01-02_to_2025-11-09.csv)] |
-| **[TV2](#tv2)** | [[Download CSV](market_data/TV2_2025-01-02_to_2025-11-09.csv)] |
-| **[TVB](#tvb)** | [[Download CSV](market_data/TVB_2025-01-02_to_2025-11-09.csv)] |
-| **[TVN](#tvn)** | [[Download CSV](market_data/TVN_2025-01-02_to_2025-11-09.csv)] |
-| **[TVS](#tvs)** | [[Download CSV](market_data/TVS_2025-01-02_to_2025-11-09.csv)] |
-| **[VC2](#vc2)** | [[Download CSV](market_data/VC2_2025-01-02_to_2025-11-09.csv)] |
-| **[VC7](#vc7)** | [[Download CSV](market_data/VC7_2025-01-02_to_2025-11-09.csv)] |
-| **[VCB](#vcb)** | [[Download CSV](market_data/VCB_2025-01-02_to_2025-11-09.csv)] |
-| **[VCG](#vcg)** | [[Download CSV](market_data/VCG_2025-01-02_to_2025-11-09.csv)] |
-| **[VCI](#vci)** | [[Download CSV](market_data/VCI_2025-01-02_to_2025-11-09.csv)] |
-| **[VCS](#vcs)** | [[Download CSV](market_data/VCS_2025-01-02_to_2025-11-09.csv)] |
-| **[VDS](#vds)** | [[Download CSV](market_data/VDS_2025-01-02_to_2025-11-09.csv)] |
-| **[VEA](#vea)** | [[Download CSV](market_data/VEA_2025-01-02_to_2025-11-09.csv)] |
-| **[VGC](#vgc)** | [[Download CSV](market_data/VGC_2025-01-02_to_2025-11-09.csv)] |
-| **[VGI](#vgi)** | [[Download CSV](market_data/VGI_2025-01-02_to_2025-11-09.csv)] |
-| **[VGS](#vgs)** | [[Download CSV](market_data/VGS_2025-01-02_to_2025-11-09.csv)] |
-| **[VGT](#vgt)** | [[Download CSV](market_data/VGT_2025-01-02_to_2025-11-09.csv)] |
-| **[VHC](#vhc)** | [[Download CSV](market_data/VHC_2025-01-02_to_2025-11-09.csv)] |
-| **[VHM](#vhm)** | [[Download CSV](market_data/VHM_2025-01-02_to_2025-11-09.csv)] |
-| **[VIB](#vib)** | [[Download CSV](market_data/VIB_2025-01-02_to_2025-11-09.csv)] |
-| **[VIC](#vic)** | [[Download CSV](market_data/VIC_2025-01-02_to_2025-11-09.csv)] |
-| **[VIF](#vif)** | [[Download CSV](market_data/VIF_2025-01-02_to_2025-11-09.csv)] |
-| **[VIG](#vig)** | [[Download CSV](market_data/VIG_2025-01-02_to_2025-11-09.csv)] |
-| **[VIP](#vip)** | [[Download CSV](market_data/VIP_2025-01-02_to_2025-11-09.csv)] |
-| **[VIX](#vix)** | [[Download CSV](market_data/VIX_2025-01-02_to_2025-11-09.csv)] |
-| **[VJC](#vjc)** | [[Download CSV](market_data/VJC_2025-01-02_to_2025-11-09.csv)] |
-| **[VLB](#vlb)** | [[Download CSV](market_data/VLB_2025-01-02_to_2025-11-09.csv)] |
-| **[VLC](#vlc)** | [[Download CSV](market_data/VLC_2025-01-02_to_2025-11-09.csv)] |
-| **[VNA](#vna)** | [[Download CSV](market_data/VNA_2025-01-02_to_2025-11-09.csv)] |
-| **[VND](#vnd)** | [[Download CSV](market_data/VND_2025-01-02_to_2025-11-09.csv)] |
-| **[VNE](#vne)** | [[Download CSV](market_data/VNE_2025-01-02_to_2025-11-09.csv)] |
-| **[VNM](#vnm)** | [[Download CSV](market_data/VNM_2025-01-02_to_2025-11-09.csv)] |
-| **[VOS](#vos)** | [[Download CSV](market_data/VOS_2025-01-02_to_2025-11-09.csv)] |
-| **[VPB](#vpb)** | [[Download CSV](market_data/VPB_2025-01-02_to_2025-11-09.csv)] |
-| **[VPG](#vpg)** | [[Download CSV](market_data/VPG_2025-01-02_to_2025-11-09.csv)] |
-| **[VPH](#vph)** | [[Download CSV](market_data/VPH_2025-01-02_to_2025-11-09.csv)] |
-| **[VRE](#vre)** | [[Download CSV](market_data/VRE_2025-01-02_to_2025-11-09.csv)] |
-| **[VRG](#vrg)** | [[Download CSV](market_data/VRG_2025-01-02_to_2025-11-09.csv)] |
-| **[VSC](#vsc)** | [[Download CSV](market_data/VSC_2025-01-02_to_2025-11-09.csv)] |
-| **[VTK](#vtk)** | [[Download CSV](market_data/VTK_2025-01-02_to_2025-11-09.csv)] |
-| **[VTO](#vto)** | [[Download CSV](market_data/VTO_2025-01-02_to_2025-11-09.csv)] |
-| **[VTP](#vtp)** | [[Download CSV](market_data/VTP_2025-01-02_to_2025-11-09.csv)] |
-| **[YEG](#yeg)** | [[Download CSV](market_data/YEG_2025-01-02_to_2025-11-09.csv)] |
+| **[VNINDEX](#vnindex)** | [[Download CSV](market_data/VNINDEX_2025-01-02_to_2025-11-16.csv)] |
+| **[AAA](#aaa)** | [[Download CSV](market_data/AAA_2025-01-02_to_2025-11-16.csv)] |
+| **[ACB](#acb)** | [[Download CSV](market_data/ACB_2025-01-02_to_2025-11-16.csv)] |
+| **[ACG](#acg)** | [[Download CSV](market_data/ACG_2025-01-02_to_2025-11-16.csv)] |
+| **[ACL](#acl)** | [[Download CSV](market_data/ACL_2025-01-02_to_2025-11-16.csv)] |
+| **[ACV](#acv)** | [[Download CSV](market_data/ACV_2025-01-02_to_2025-11-16.csv)] |
+| **[ADS](#ads)** | [[Download CSV](market_data/ADS_2025-01-02_to_2025-11-16.csv)] |
+| **[AGG](#agg)** | [[Download CSV](market_data/AGG_2025-01-02_to_2025-11-16.csv)] |
+| **[AGR](#agr)** | [[Download CSV](market_data/AGR_2025-01-02_to_2025-11-16.csv)] |
+| **[ANV](#anv)** | [[Download CSV](market_data/ANV_2025-01-02_to_2025-11-16.csv)] |
+| **[APG](#apg)** | [[Download CSV](market_data/APG_2025-01-02_to_2025-11-16.csv)] |
+| **[APH](#aph)** | [[Download CSV](market_data/APH_2025-01-02_to_2025-11-16.csv)] |
+| **[APS](#aps)** | [[Download CSV](market_data/APS_2025-01-02_to_2025-11-16.csv)] |
+| **[ASM](#asm)** | [[Download CSV](market_data/ASM_2025-01-02_to_2025-11-16.csv)] |
+| **[BAF](#baf)** | [[Download CSV](market_data/BAF_2025-01-02_to_2025-11-16.csv)] |
+| **[BCC](#bcc)** | [[Download CSV](market_data/BCC_2025-01-02_to_2025-11-16.csv)] |
+| **[BCE](#bce)** | [[Download CSV](market_data/BCE_2025-01-02_to_2025-11-16.csv)] |
+| **[BCG](#bcg)** | [[Download CSV](market_data/BCG_2025-01-02_to_2025-11-16.csv)] |
+| **[BCM](#bcm)** | [[Download CSV](market_data/BCM_2025-01-02_to_2025-11-16.csv)] |
+| **[BFC](#bfc)** | [[Download CSV](market_data/BFC_2025-01-02_to_2025-11-16.csv)] |
+| **[BIC](#bic)** | [[Download CSV](market_data/BIC_2025-01-02_to_2025-11-16.csv)] |
+| **[BID](#bid)** | [[Download CSV](market_data/BID_2025-01-02_to_2025-11-16.csv)] |
+| **[BMC](#bmc)** | [[Download CSV](market_data/BMC_2025-01-02_to_2025-11-16.csv)] |
+| **[BMI](#bmi)** | [[Download CSV](market_data/BMI_2025-01-02_to_2025-11-16.csv)] |
+| **[BMP](#bmp)** | [[Download CSV](market_data/BMP_2025-01-02_to_2025-11-16.csv)] |
+| **[BMS](#bms)** | [[Download CSV](market_data/BMS_2025-01-02_to_2025-11-16.csv)] |
+| **[BSI](#bsi)** | [[Download CSV](market_data/BSI_2025-01-02_to_2025-11-16.csv)] |
+| **[BSR](#bsr)** | [[Download CSV](market_data/BSR_2025-01-02_to_2025-11-16.csv)] |
+| **[BTN](#btn)** | [[Download CSV](market_data/BTN_2025-01-02_to_2025-11-16.csv)] |
+| **[BTS](#bts)** | [[Download CSV](market_data/BTS_2025-01-02_to_2025-11-16.csv)] |
+| **[BVH](#bvh)** | [[Download CSV](market_data/BVH_2025-01-02_to_2025-11-16.csv)] |
+| **[BVS](#bvs)** | [[Download CSV](market_data/BVS_2025-01-02_to_2025-11-16.csv)] |
+| **[BWE](#bwe)** | [[Download CSV](market_data/BWE_2025-01-02_to_2025-11-16.csv)] |
+| **[C47](#c47)** | [[Download CSV](market_data/C47_2025-01-02_to_2025-11-16.csv)] |
+| **[C4G](#c4g)** | [[Download CSV](market_data/C4G_2025-01-02_to_2025-11-16.csv)] |
+| **[C69](#c69)** | [[Download CSV](market_data/C69_2025-01-02_to_2025-11-16.csv)] |
+| **[CEO](#ceo)** | [[Download CSV](market_data/CEO_2025-01-02_to_2025-11-16.csv)] |
+| **[CIG](#cig)** | [[Download CSV](market_data/CIG_2025-01-02_to_2025-11-16.csv)] |
+| **[CII](#cii)** | [[Download CSV](market_data/CII_2025-01-02_to_2025-11-16.csv)] |
+| **[CKG](#ckg)** | [[Download CSV](market_data/CKG_2025-01-02_to_2025-11-16.csv)] |
+| **[CLX](#clx)** | [[Download CSV](market_data/CLX_2025-01-02_to_2025-11-16.csv)] |
+| **[CMG](#cmg)** | [[Download CSV](market_data/CMG_2025-01-02_to_2025-11-16.csv)] |
+| **[CMX](#cmx)** | [[Download CSV](market_data/CMX_2025-01-02_to_2025-11-16.csv)] |
+| **[CNG](#cng)** | [[Download CSV](market_data/CNG_2025-01-02_to_2025-11-16.csv)] |
+| **[CRV](#crv)** | [[Download CSV](market_data/CRV_2025-01-02_to_2025-11-16.csv)] |
+| **[CSC](#csc)** | [[Download CSV](market_data/CSC_2025-01-02_to_2025-11-16.csv)] |
+| **[CST](#cst)** | [[Download CSV](market_data/CST_2025-01-02_to_2025-11-16.csv)] |
+| **[CSV](#csv)** | [[Download CSV](market_data/CSV_2025-01-02_to_2025-11-16.csv)] |
+| **[CTD](#ctd)** | [[Download CSV](market_data/CTD_2025-01-02_to_2025-11-16.csv)] |
+| **[CTG](#ctg)** | [[Download CSV](market_data/CTG_2025-01-02_to_2025-11-16.csv)] |
+| **[CTI](#cti)** | [[Download CSV](market_data/CTI_2025-01-02_to_2025-11-16.csv)] |
+| **[CTR](#ctr)** | [[Download CSV](market_data/CTR_2025-01-02_to_2025-11-16.csv)] |
+| **[CTS](#cts)** | [[Download CSV](market_data/CTS_2025-01-02_to_2025-11-16.csv)] |
+| **[D2D](#d2d)** | [[Download CSV](market_data/D2D_2025-01-02_to_2025-11-16.csv)] |
+| **[DAH](#dah)** | [[Download CSV](market_data/DAH_2025-01-02_to_2025-11-16.csv)] |
+| **[DBC](#dbc)** | [[Download CSV](market_data/DBC_2025-01-02_to_2025-11-16.csv)] |
+| **[DCL](#dcl)** | [[Download CSV](market_data/DCL_2025-01-02_to_2025-11-16.csv)] |
+| **[DCM](#dcm)** | [[Download CSV](market_data/DCM_2025-01-02_to_2025-11-16.csv)] |
+| **[DDV](#ddv)** | [[Download CSV](market_data/DDV_2025-01-02_to_2025-11-16.csv)] |
+| **[DGC](#dgc)** | [[Download CSV](market_data/DGC_2025-01-02_to_2025-11-16.csv)] |
+| **[DGW](#dgw)** | [[Download CSV](market_data/DGW_2025-01-02_to_2025-11-16.csv)] |
+| **[DHA](#dha)** | [[Download CSV](market_data/DHA_2025-01-02_to_2025-11-16.csv)] |
+| **[DHC](#dhc)** | [[Download CSV](market_data/DHC_2025-01-02_to_2025-11-16.csv)] |
+| **[DHG](#dhg)** | [[Download CSV](market_data/DHG_2025-01-02_to_2025-11-16.csv)] |
+| **[DHT](#dht)** | [[Download CSV](market_data/DHT_2025-01-02_to_2025-11-16.csv)] |
+| **[DIG](#dig)** | [[Download CSV](market_data/DIG_2025-01-02_to_2025-11-16.csv)] |
+| **[DL1](#dl1)** | [[Download CSV](market_data/DL1_2025-01-02_to_2025-11-16.csv)] |
+| **[DPG](#dpg)** | [[Download CSV](market_data/DPG_2025-01-02_to_2025-11-16.csv)] |
+| **[DPM](#dpm)** | [[Download CSV](market_data/DPM_2025-01-02_to_2025-11-16.csv)] |
+| **[DPR](#dpr)** | [[Download CSV](market_data/DPR_2025-01-02_to_2025-11-16.csv)] |
+| **[DRC](#drc)** | [[Download CSV](market_data/DRC_2025-01-02_to_2025-11-16.csv)] |
+| **[DRG](#drg)** | [[Download CSV](market_data/DRG_2025-01-02_to_2025-11-16.csv)] |
+| **[DRI](#dri)** | [[Download CSV](market_data/DRI_2025-01-02_to_2025-11-16.csv)] |
+| **[DSC](#dsc)** | [[Download CSV](market_data/DSC_2025-01-02_to_2025-11-16.csv)] |
+| **[DSN](#dsn)** | [[Download CSV](market_data/DSN_2025-01-02_to_2025-11-16.csv)] |
+| **[DST](#dst)** | [[Download CSV](market_data/DST_2025-01-02_to_2025-11-16.csv)] |
+| **[DTD](#dtd)** | [[Download CSV](market_data/DTD_2025-01-02_to_2025-11-16.csv)] |
+| **[DVN](#dvn)** | [[Download CSV](market_data/DVN_2025-01-02_to_2025-11-16.csv)] |
+| **[DVP](#dvp)** | [[Download CSV](market_data/DVP_2025-01-02_to_2025-11-16.csv)] |
+| **[DXG](#dxg)** | [[Download CSV](market_data/DXG_2025-01-02_to_2025-11-16.csv)] |
+| **[DXP](#dxp)** | [[Download CSV](market_data/DXP_2025-01-02_to_2025-11-16.csv)] |
+| **[EIB](#eib)** | [[Download CSV](market_data/EIB_2025-01-02_to_2025-11-16.csv)] |
+| **[ELC](#elc)** | [[Download CSV](market_data/ELC_2025-01-02_to_2025-11-16.csv)] |
+| **[EVE](#eve)** | [[Download CSV](market_data/EVE_2025-01-02_to_2025-11-16.csv)] |
+| **[EVF](#evf)** | [[Download CSV](market_data/EVF_2025-01-02_to_2025-11-16.csv)] |
+| **[EVG](#evg)** | [[Download CSV](market_data/EVG_2025-01-02_to_2025-11-16.csv)] |
+| **[EVS](#evs)** | [[Download CSV](market_data/EVS_2025-01-02_to_2025-11-16.csv)] |
+| **[FCN](#fcn)** | [[Download CSV](market_data/FCN_2025-01-02_to_2025-11-16.csv)] |
+| **[FID](#fid)** | [[Download CSV](market_data/FID_2025-01-02_to_2025-11-16.csv)] |
+| **[FIT](#fit)** | [[Download CSV](market_data/FIT_2025-01-02_to_2025-11-16.csv)] |
+| **[FMC](#fmc)** | [[Download CSV](market_data/FMC_2025-01-02_to_2025-11-16.csv)] |
+| **[FOX](#fox)** | [[Download CSV](market_data/FOX_2025-01-02_to_2025-11-16.csv)] |
+| **[FPT](#fpt)** | [[Download CSV](market_data/FPT_2025-01-02_to_2025-11-16.csv)] |
+| **[FRT](#frt)** | [[Download CSV](market_data/FRT_2025-01-02_to_2025-11-16.csv)] |
+| **[FTS](#fts)** | [[Download CSV](market_data/FTS_2025-01-02_to_2025-11-16.csv)] |
+| **[G36](#g36)** | [[Download CSV](market_data/G36_2025-01-02_to_2025-11-16.csv)] |
+| **[GAS](#gas)** | [[Download CSV](market_data/GAS_2025-01-02_to_2025-11-16.csv)] |
+| **[GDA](#gda)** | [[Download CSV](market_data/GDA_2025-01-02_to_2025-11-16.csv)] |
+| **[GDT](#gdt)** | [[Download CSV](market_data/GDT_2025-01-02_to_2025-11-16.csv)] |
+| **[GEG](#geg)** | [[Download CSV](market_data/GEG_2025-01-02_to_2025-11-16.csv)] |
+| **[GEX](#gex)** | [[Download CSV](market_data/GEX_2025-01-02_to_2025-11-16.csv)] |
+| **[GIL](#gil)** | [[Download CSV](market_data/GIL_2025-01-02_to_2025-11-16.csv)] |
+| **[GMD](#gmd)** | [[Download CSV](market_data/GMD_2025-01-02_to_2025-11-16.csv)] |
+| **[GVR](#gvr)** | [[Download CSV](market_data/GVR_2025-01-02_to_2025-11-16.csv)] |
+| **[HAG](#hag)** | [[Download CSV](market_data/HAG_2025-01-02_to_2025-11-16.csv)] |
+| **[HAH](#hah)** | [[Download CSV](market_data/HAH_2025-01-02_to_2025-11-16.csv)] |
+| **[HAP](#hap)** | [[Download CSV](market_data/HAP_2025-01-02_to_2025-11-16.csv)] |
+| **[HAX](#hax)** | [[Download CSV](market_data/HAX_2025-01-02_to_2025-11-16.csv)] |
+| **[HBC](#hbc)** | [[Download CSV](market_data/HBC_2025-01-02_to_2025-11-16.csv)] |
+| **[HCD](#hcd)** | [[Download CSV](market_data/HCD_2025-01-02_to_2025-11-16.csv)] |
+| **[HCM](#hcm)** | [[Download CSV](market_data/HCM_2025-01-02_to_2025-11-16.csv)] |
+| **[HDB](#hdb)** | [[Download CSV](market_data/HDB_2025-01-02_to_2025-11-16.csv)] |
+| **[HDC](#hdc)** | [[Download CSV](market_data/HDC_2025-01-02_to_2025-11-16.csv)] |
+| **[HDG](#hdg)** | [[Download CSV](market_data/HDG_2025-01-02_to_2025-11-16.csv)] |
+| **[HHS](#hhs)** | [[Download CSV](market_data/HHS_2025-01-02_to_2025-11-16.csv)] |
+| **[HHV](#hhv)** | [[Download CSV](market_data/HHV_2025-01-02_to_2025-11-16.csv)] |
+| **[HID](#hid)** | [[Download CSV](market_data/HID_2025-01-02_to_2025-11-16.csv)] |
+| **[HLD](#hld)** | [[Download CSV](market_data/HLD_2025-01-02_to_2025-11-16.csv)] |
+| **[HOM](#hom)** | [[Download CSV](market_data/HOM_2025-01-02_to_2025-11-16.csv)] |
+| **[HPG](#hpg)** | [[Download CSV](market_data/HPG_2025-01-02_to_2025-11-16.csv)] |
+| **[HQC](#hqc)** | [[Download CSV](market_data/HQC_2025-01-02_to_2025-11-16.csv)] |
+| **[HSG](#hsg)** | [[Download CSV](market_data/HSG_2025-01-02_to_2025-11-16.csv)] |
+| **[HT1](#ht1)** | [[Download CSV](market_data/HT1_2025-01-02_to_2025-11-16.csv)] |
+| **[HTN](#htn)** | [[Download CSV](market_data/HTN_2025-01-02_to_2025-11-16.csv)] |
+| **[HUT](#hut)** | [[Download CSV](market_data/HUT_2025-01-02_to_2025-11-16.csv)] |
+| **[HVN](#hvn)** | [[Download CSV](market_data/HVN_2025-01-02_to_2025-11-16.csv)] |
+| **[IDC](#idc)** | [[Download CSV](market_data/IDC_2025-01-02_to_2025-11-16.csv)] |
+| **[IDI](#idi)** | [[Download CSV](market_data/IDI_2025-01-02_to_2025-11-16.csv)] |
+| **[IDJ](#idj)** | [[Download CSV](market_data/IDJ_2025-01-02_to_2025-11-16.csv)] |
+| **[IDV](#idv)** | [[Download CSV](market_data/IDV_2025-01-02_to_2025-11-16.csv)] |
+| **[IJC](#ijc)** | [[Download CSV](market_data/IJC_2025-01-02_to_2025-11-16.csv)] |
+| **[IMP](#imp)** | [[Download CSV](market_data/IMP_2025-01-02_to_2025-11-16.csv)] |
+| **[IPA](#ipa)** | [[Download CSV](market_data/IPA_2025-01-02_to_2025-11-16.csv)] |
+| **[ITC](#itc)** | [[Download CSV](market_data/ITC_2025-01-02_to_2025-11-16.csv)] |
+| **[JVC](#jvc)** | [[Download CSV](market_data/JVC_2025-01-02_to_2025-11-16.csv)] |
+| **[KBC](#kbc)** | [[Download CSV](market_data/KBC_2025-01-02_to_2025-11-16.csv)] |
+| **[KDC](#kdc)** | [[Download CSV](market_data/KDC_2025-01-02_to_2025-11-16.csv)] |
+| **[KDH](#kdh)** | [[Download CSV](market_data/KDH_2025-01-02_to_2025-11-16.csv)] |
+| **[KHG](#khg)** | [[Download CSV](market_data/KHG_2025-01-02_to_2025-11-16.csv)] |
+| **[KSB](#ksb)** | [[Download CSV](market_data/KSB_2025-01-02_to_2025-11-16.csv)] |
+| **[KSV](#ksv)** | [[Download CSV](market_data/KSV_2025-01-02_to_2025-11-16.csv)] |
+| **[L18](#l18)** | [[Download CSV](market_data/L18_2025-01-02_to_2025-11-16.csv)] |
+| **[LAS](#las)** | [[Download CSV](market_data/LAS_2025-01-02_to_2025-11-16.csv)] |
+| **[LCG](#lcg)** | [[Download CSV](market_data/LCG_2025-01-02_to_2025-11-16.csv)] |
+| **[LDG](#ldg)** | [[Download CSV](market_data/LDG_2025-01-02_to_2025-11-16.csv)] |
+| **[LHG](#lhg)** | [[Download CSV](market_data/LHG_2025-01-02_to_2025-11-16.csv)] |
+| **[LIG](#lig)** | [[Download CSV](market_data/LIG_2025-01-02_to_2025-11-16.csv)] |
+| **[LPB](#lpb)** | [[Download CSV](market_data/LPB_2025-01-02_to_2025-11-16.csv)] |
+| **[LSS](#lss)** | [[Download CSV](market_data/LSS_2025-01-02_to_2025-11-16.csv)] |
+| **[LTG](#ltg)** | [[Download CSV](market_data/LTG_2025-01-02_to_2025-11-16.csv)] |
+| **[MBB](#mbb)** | [[Download CSV](market_data/MBB_2025-01-02_to_2025-11-16.csv)] |
+| **[MBS](#mbs)** | [[Download CSV](market_data/MBS_2025-01-02_to_2025-11-16.csv)] |
+| **[MCH](#mch)** | [[Download CSV](market_data/MCH_2025-01-02_to_2025-11-16.csv)] |
+| **[MCM](#mcm)** | [[Download CSV](market_data/MCM_2025-01-02_to_2025-11-16.csv)] |
+| **[MFS](#mfs)** | [[Download CSV](market_data/MFS_2025-01-02_to_2025-11-16.csv)] |
+| **[MHC](#mhc)** | [[Download CSV](market_data/MHC_2025-01-02_to_2025-11-16.csv)] |
+| **[MIG](#mig)** | [[Download CSV](market_data/MIG_2025-01-02_to_2025-11-16.csv)] |
+| **[MPC](#mpc)** | [[Download CSV](market_data/MPC_2025-01-02_to_2025-11-16.csv)] |
+| **[MSB](#msb)** | [[Download CSV](market_data/MSB_2025-01-02_to_2025-11-16.csv)] |
+| **[MSH](#msh)** | [[Download CSV](market_data/MSH_2025-01-02_to_2025-11-16.csv)] |
+| **[MSN](#msn)** | [[Download CSV](market_data/MSN_2025-01-02_to_2025-11-16.csv)] |
+| **[MSR](#msr)** | [[Download CSV](market_data/MSR_2025-01-02_to_2025-11-16.csv)] |
+| **[MST](#mst)** | [[Download CSV](market_data/MST_2025-01-02_to_2025-11-16.csv)] |
+| **[MWG](#mwg)** | [[Download CSV](market_data/MWG_2025-01-02_to_2025-11-16.csv)] |
+| **[NAF](#naf)** | [[Download CSV](market_data/NAF_2025-01-02_to_2025-11-16.csv)] |
+| **[NBC](#nbc)** | [[Download CSV](market_data/NBC_2025-01-02_to_2025-11-16.csv)] |
+| **[NCT](#nct)** | [[Download CSV](market_data/NCT_2025-01-02_to_2025-11-16.csv)] |
+| **[NDN](#ndn)** | [[Download CSV](market_data/NDN_2025-01-02_to_2025-11-16.csv)] |
+| **[NHA](#nha)** | [[Download CSV](market_data/NHA_2025-01-02_to_2025-11-16.csv)] |
+| **[NHH](#nhh)** | [[Download CSV](market_data/NHH_2025-01-02_to_2025-11-16.csv)] |
+| **[NKG](#nkg)** | [[Download CSV](market_data/NKG_2025-01-02_to_2025-11-16.csv)] |
+| **[NLG](#nlg)** | [[Download CSV](market_data/NLG_2025-01-02_to_2025-11-16.csv)] |
+| **[NNC](#nnc)** | [[Download CSV](market_data/NNC_2025-01-02_to_2025-11-16.csv)] |
+| **[NRC](#nrc)** | [[Download CSV](market_data/NRC_2025-01-02_to_2025-11-16.csv)] |
+| **[NT2](#nt2)** | [[Download CSV](market_data/NT2_2025-01-02_to_2025-11-16.csv)] |
+| **[NTC](#ntc)** | [[Download CSV](market_data/NTC_2025-01-02_to_2025-11-16.csv)] |
+| **[NTL](#ntl)** | [[Download CSV](market_data/NTL_2025-01-02_to_2025-11-16.csv)] |
+| **[NTP](#ntp)** | [[Download CSV](market_data/NTP_2025-01-02_to_2025-11-16.csv)] |
+| **[NVL](#nvl)** | [[Download CSV](market_data/NVL_2025-01-02_to_2025-11-16.csv)] |
+| **[OCB](#ocb)** | [[Download CSV](market_data/OCB_2025-01-02_to_2025-11-16.csv)] |
+| **[OIL](#oil)** | [[Download CSV](market_data/OIL_2025-01-02_to_2025-11-16.csv)] |
+| **[ORS](#ors)** | [[Download CSV](market_data/ORS_2025-01-02_to_2025-11-16.csv)] |
+| **[PAN](#pan)** | [[Download CSV](market_data/PAN_2025-01-02_to_2025-11-16.csv)] |
+| **[PC1](#pc1)** | [[Download CSV](market_data/PC1_2025-01-02_to_2025-11-16.csv)] |
+| **[PDR](#pdr)** | [[Download CSV](market_data/PDR_2025-01-02_to_2025-11-16.csv)] |
+| **[PET](#pet)** | [[Download CSV](market_data/PET_2025-01-02_to_2025-11-16.csv)] |
+| **[PHC](#phc)** | [[Download CSV](market_data/PHC_2025-01-02_to_2025-11-16.csv)] |
+| **[PHP](#php)** | [[Download CSV](market_data/PHP_2025-01-02_to_2025-11-16.csv)] |
+| **[PHR](#phr)** | [[Download CSV](market_data/PHR_2025-01-02_to_2025-11-16.csv)] |
+| **[PLC](#plc)** | [[Download CSV](market_data/PLC_2025-01-02_to_2025-11-16.csv)] |
+| **[PLX](#plx)** | [[Download CSV](market_data/PLX_2025-01-02_to_2025-11-16.csv)] |
+| **[PNJ](#pnj)** | [[Download CSV](market_data/PNJ_2025-01-02_to_2025-11-16.csv)] |
+| **[POW](#pow)** | [[Download CSV](market_data/POW_2025-01-02_to_2025-11-16.csv)] |
+| **[PPC](#ppc)** | [[Download CSV](market_data/PPC_2025-01-02_to_2025-11-16.csv)] |
+| **[PPH](#pph)** | [[Download CSV](market_data/PPH_2025-01-02_to_2025-11-16.csv)] |
+| **[PTB](#ptb)** | [[Download CSV](market_data/PTB_2025-01-02_to_2025-11-16.csv)] |
+| **[PVC](#pvc)** | [[Download CSV](market_data/PVC_2025-01-02_to_2025-11-16.csv)] |
+| **[PVD](#pvd)** | [[Download CSV](market_data/PVD_2025-01-02_to_2025-11-16.csv)] |
+| **[PVI](#pvi)** | [[Download CSV](market_data/PVI_2025-01-02_to_2025-11-16.csv)] |
+| **[PVP](#pvp)** | [[Download CSV](market_data/PVP_2025-01-02_to_2025-11-16.csv)] |
+| **[PVS](#pvs)** | [[Download CSV](market_data/PVS_2025-01-02_to_2025-11-16.csv)] |
+| **[PVT](#pvt)** | [[Download CSV](market_data/PVT_2025-01-02_to_2025-11-16.csv)] |
+| **[PXI](#pxi)** | [[Download CSV](market_data/PXI_2025-01-02_to_2025-11-16.csv)] |
+| **[QNS](#qns)** | [[Download CSV](market_data/QNS_2025-01-02_to_2025-11-16.csv)] |
+| **[QTP](#qtp)** | [[Download CSV](market_data/QTP_2025-01-02_to_2025-11-16.csv)] |
+| **[S99](#s99)** | [[Download CSV](market_data/S99_2025-01-02_to_2025-11-16.csv)] |
+| **[SAB](#sab)** | [[Download CSV](market_data/SAB_2025-01-02_to_2025-11-16.csv)] |
+| **[SAS](#sas)** | [[Download CSV](market_data/SAS_2025-01-02_to_2025-11-16.csv)] |
+| **[SBS](#sbs)** | [[Download CSV](market_data/SBS_2025-01-02_to_2025-11-16.csv)] |
+| **[SBT](#sbt)** | [[Download CSV](market_data/SBT_2025-01-02_to_2025-11-16.csv)] |
+| **[SCI](#sci)** | [[Download CSV](market_data/SCI_2025-01-02_to_2025-11-16.csv)] |
+| **[SCR](#scr)** | [[Download CSV](market_data/SCR_2025-01-02_to_2025-11-16.csv)] |
+| **[SCS](#scs)** | [[Download CSV](market_data/SCS_2025-01-02_to_2025-11-16.csv)] |
+| **[SGN](#sgn)** | [[Download CSV](market_data/SGN_2025-01-02_to_2025-11-16.csv)] |
+| **[SGR](#sgr)** | [[Download CSV](market_data/SGR_2025-01-02_to_2025-11-16.csv)] |
+| **[SGT](#sgt)** | [[Download CSV](market_data/SGT_2025-01-02_to_2025-11-16.csv)] |
+| **[SHB](#shb)** | [[Download CSV](market_data/SHB_2025-01-02_to_2025-11-16.csv)] |
+| **[SHS](#shs)** | [[Download CSV](market_data/SHS_2025-01-02_to_2025-11-16.csv)] |
+| **[SIP](#sip)** | [[Download CSV](market_data/SIP_2025-01-02_to_2025-11-16.csv)] |
+| **[SKG](#skg)** | [[Download CSV](market_data/SKG_2025-01-02_to_2025-11-16.csv)] |
+| **[SLS](#sls)** | [[Download CSV](market_data/SLS_2025-01-02_to_2025-11-16.csv)] |
+| **[SMC](#smc)** | [[Download CSV](market_data/SMC_2025-01-02_to_2025-11-16.csv)] |
+| **[SSH](#ssh)** | [[Download CSV](market_data/SSH_2025-01-02_to_2025-11-16.csv)] |
+| **[SSI](#ssi)** | [[Download CSV](market_data/SSI_2025-01-02_to_2025-11-16.csv)] |
+| **[STB](#stb)** | [[Download CSV](market_data/STB_2025-01-02_to_2025-11-16.csv)] |
+| **[STK](#stk)** | [[Download CSV](market_data/STK_2025-01-02_to_2025-11-16.csv)] |
+| **[SZC](#szc)** | [[Download CSV](market_data/SZC_2025-01-02_to_2025-11-16.csv)] |
+| **[TCB](#tcb)** | [[Download CSV](market_data/TCB_2025-01-02_to_2025-11-16.csv)] |
+| **[TCD](#tcd)** | [[Download CSV](market_data/TCD_2025-01-02_to_2025-11-16.csv)] |
+| **[TCH](#tch)** | [[Download CSV](market_data/TCH_2025-01-02_to_2025-11-16.csv)] |
+| **[TCI](#tci)** | [[Download CSV](market_data/TCI_2025-01-02_to_2025-11-16.csv)] |
+| **[TCL](#tcl)** | [[Download CSV](market_data/TCL_2025-01-02_to_2025-11-16.csv)] |
+| **[TCM](#tcm)** | [[Download CSV](market_data/TCM_2025-01-02_to_2025-11-16.csv)] |
+| **[TCX](#tcx)** | [[Download CSV](market_data/TCX_2025-01-02_to_2025-11-16.csv)] |
+| **[TDC](#tdc)** | [[Download CSV](market_data/TDC_2025-01-02_to_2025-11-16.csv)] |
+| **[TDM](#tdm)** | [[Download CSV](market_data/TDM_2025-01-02_to_2025-11-16.csv)] |
+| **[TIG](#tig)** | [[Download CSV](market_data/TIG_2025-01-02_to_2025-11-16.csv)] |
+| **[TIP](#tip)** | [[Download CSV](market_data/TIP_2025-01-02_to_2025-11-16.csv)] |
+| **[TLD](#tld)** | [[Download CSV](market_data/TLD_2025-01-02_to_2025-11-16.csv)] |
+| **[TLH](#tlh)** | [[Download CSV](market_data/TLH_2025-01-02_to_2025-11-16.csv)] |
+| **[TNG](#tng)** | [[Download CSV](market_data/TNG_2025-01-02_to_2025-11-16.csv)] |
+| **[TNH](#tnh)** | [[Download CSV](market_data/TNH_2025-01-02_to_2025-11-16.csv)] |
+| **[TNT](#tnt)** | [[Download CSV](market_data/TNT_2025-01-02_to_2025-11-16.csv)] |
+| **[TPB](#tpb)** | [[Download CSV](market_data/TPB_2025-01-02_to_2025-11-16.csv)] |
+| **[TSC](#tsc)** | [[Download CSV](market_data/TSC_2025-01-02_to_2025-11-16.csv)] |
+| **[TTF](#ttf)** | [[Download CSV](market_data/TTF_2025-01-02_to_2025-11-16.csv)] |
+| **[TTN](#ttn)** | [[Download CSV](market_data/TTN_2025-01-02_to_2025-11-16.csv)] |
+| **[TV2](#tv2)** | [[Download CSV](market_data/TV2_2025-01-02_to_2025-11-16.csv)] |
+| **[TVB](#tvb)** | [[Download CSV](market_data/TVB_2025-01-02_to_2025-11-16.csv)] |
+| **[TVN](#tvn)** | [[Download CSV](market_data/TVN_2025-01-02_to_2025-11-16.csv)] |
+| **[TVS](#tvs)** | [[Download CSV](market_data/TVS_2025-01-02_to_2025-11-16.csv)] |
+| **[VC2](#vc2)** | [[Download CSV](market_data/VC2_2025-01-02_to_2025-11-16.csv)] |
+| **[VC7](#vc7)** | [[Download CSV](market_data/VC7_2025-01-02_to_2025-11-16.csv)] |
+| **[VCB](#vcb)** | [[Download CSV](market_data/VCB_2025-01-02_to_2025-11-16.csv)] |
+| **[VCG](#vcg)** | [[Download CSV](market_data/VCG_2025-01-02_to_2025-11-16.csv)] |
+| **[VCI](#vci)** | [[Download CSV](market_data/VCI_2025-01-02_to_2025-11-16.csv)] |
+| **[VCS](#vcs)** | [[Download CSV](market_data/VCS_2025-01-02_to_2025-11-16.csv)] |
+| **[VDS](#vds)** | [[Download CSV](market_data/VDS_2025-01-02_to_2025-11-16.csv)] |
+| **[VEA](#vea)** | [[Download CSV](market_data/VEA_2025-01-02_to_2025-11-16.csv)] |
+| **[VGC](#vgc)** | [[Download CSV](market_data/VGC_2025-01-02_to_2025-11-16.csv)] |
+| **[VGI](#vgi)** | [[Download CSV](market_data/VGI_2025-01-02_to_2025-11-16.csv)] |
+| **[VGS](#vgs)** | [[Download CSV](market_data/VGS_2025-01-02_to_2025-11-16.csv)] |
+| **[VGT](#vgt)** | [[Download CSV](market_data/VGT_2025-01-02_to_2025-11-16.csv)] |
+| **[VHC](#vhc)** | [[Download CSV](market_data/VHC_2025-01-02_to_2025-11-16.csv)] |
+| **[VHM](#vhm)** | [[Download CSV](market_data/VHM_2025-01-02_to_2025-11-16.csv)] |
+| **[VIB](#vib)** | [[Download CSV](market_data/VIB_2025-01-02_to_2025-11-16.csv)] |
+| **[VIC](#vic)** | [[Download CSV](market_data/VIC_2025-01-02_to_2025-11-16.csv)] |
+| **[VIF](#vif)** | [[Download CSV](market_data/VIF_2025-01-02_to_2025-11-16.csv)] |
+| **[VIG](#vig)** | [[Download CSV](market_data/VIG_2025-01-02_to_2025-11-16.csv)] |
+| **[VIP](#vip)** | [[Download CSV](market_data/VIP_2025-01-02_to_2025-11-16.csv)] |
+| **[VIX](#vix)** | [[Download CSV](market_data/VIX_2025-01-02_to_2025-11-16.csv)] |
+| **[VJC](#vjc)** | [[Download CSV](market_data/VJC_2025-01-02_to_2025-11-16.csv)] |
+| **[VLB](#vlb)** | [[Download CSV](market_data/VLB_2025-01-02_to_2025-11-16.csv)] |
+| **[VLC](#vlc)** | [[Download CSV](market_data/VLC_2025-01-02_to_2025-11-16.csv)] |
+| **[VNA](#vna)** | [[Download CSV](market_data/VNA_2025-01-02_to_2025-11-16.csv)] |
+| **[VND](#vnd)** | [[Download CSV](market_data/VND_2025-01-02_to_2025-11-16.csv)] |
+| **[VNE](#vne)** | [[Download CSV](market_data/VNE_2025-01-02_to_2025-11-16.csv)] |
+| **[VNM](#vnm)** | [[Download CSV](market_data/VNM_2025-01-02_to_2025-11-16.csv)] |
+| **[VOS](#vos)** | [[Download CSV](market_data/VOS_2025-01-02_to_2025-11-16.csv)] |
+| **[VPB](#vpb)** | [[Download CSV](market_data/VPB_2025-01-02_to_2025-11-16.csv)] |
+| **[VPG](#vpg)** | [[Download CSV](market_data/VPG_2025-01-02_to_2025-11-16.csv)] |
+| **[VPH](#vph)** | [[Download CSV](market_data/VPH_2025-01-02_to_2025-11-16.csv)] |
+| **[VRE](#vre)** | [[Download CSV](market_data/VRE_2025-01-02_to_2025-11-16.csv)] |
+| **[VRG](#vrg)** | [[Download CSV](market_data/VRG_2025-01-02_to_2025-11-16.csv)] |
+| **[VSC](#vsc)** | [[Download CSV](market_data/VSC_2025-01-02_to_2025-11-16.csv)] |
+| **[VTK](#vtk)** | [[Download CSV](market_data/VTK_2025-01-02_to_2025-11-16.csv)] |
+| **[VTO](#vto)** | [[Download CSV](market_data/VTO_2025-01-02_to_2025-11-16.csv)] |
+| **[VTP](#vtp)** | [[Download CSV](market_data/VTP_2025-01-02_to_2025-11-16.csv)] |
+| **[YEG](#yeg)** | [[Download CSV](market_data/YEG_2025-01-02_to_2025-11-16.csv)] |
 
 ---
 
 ## Ticker Performance Summary
 | Ticker | Period High | Period Low | Latest Close | Change % | Total Volume |
 |:-------|------------:|-----------:|-------------:|---------:|-------------:|
-| **VNINDEX** | 1,794.58 | 1,073.61 | **1,599.1** | <span style='color:green;'>26.02% 📈</span> | 206,545,268,969 |
-| **AAA** | 8.93 | 6.15 | **7.95** | <span style='color:red;'>-5.13% 📉</span> | 507,635,611 |
-| **ACB** | 29.5 | 17.34 | **24.9** | <span style='color:green;'>16.41% 📈</span> | 2,727,347,565 |
-| **ACG** | 41.88 | 31.97 | **36.8** | <span style='color:red;'>-10.02% 📉</span> | 2,664,016 |
-| **ACL** | 14.15 | 8.37 | **13.2** | <span style='color:green;'>11.39% 📈</span> | 7,860,400 |
-| **ACV** | 78.32 | 45.27 | **54.9** | <span style='color:red;'>-28.00% 📉</span> | 123,320,705 |
-| **ADS** | 10.1 | 6.63 | **8.34** | <span style='color:green;'>1.71% 📈</span> | 36,434,585 |
-| **AGG** | 22.1 | 14.15 | **15.7** | <span style='color:green;'>0.32% 📈</span> | 167,053,400 |
-| **AGR** | 20.8 | 12.78 | **15.45** | <span style='color:red;'>-3.38% 📉</span> | 270,261,037 |
-| **ANV** | 33.4 | 12.0 | **27.2** | <span style='color:green;'>41.52% 📈</span> | 617,577,571 |
-| **APG** | 13.45 | 5.75 | **11.15** | <span style='color:green;'>66.42% 📈</span> | 166,801,700 |
-| **APH** | 7.6 | 5.71 | **6.25** | <span style='color:red;'>-11.10% 📉</span> | 102,905,300 |
-| **APS** | 14.2 | 4.4 | **8.2** | <span style='color:green;'>26.15% 📈</span> | 242,253,800 |
-| **ASM** | 8.67 | 5.35 | **6.84** | <span style='color:red;'>-12.08% 📉</span> | 258,508,528 |
-| **BAF** | 38.8 | 26.0 | **31.75** | <span style='color:green;'>12.99% 📈</span> | 782,782,800 |
-| **BCC** | 9.9 | 5.8 | **7.7** | <span style='color:green;'>6.94% 📈</span> | 35,945,500 |
-| **BCE** | 12.3 | 8.2 | **10.65** | <span style='color:green;'>25.29% 📈</span> | 29,835,500 |
+| **VNINDEX** | 1,794.58 | 1,073.61 | **1,635.46** | <span style='color:green;'>28.88% 📈</span> | 210,104,479,538 |
+| **AAA** | 8.93 | 6.15 | **7.9** | <span style='color:red;'>-5.73% 📉</span> | 513,477,711 |
+| **ACB** | 29.5 | 17.34 | **24.95** | <span style='color:green;'>16.64% 📈</span> | 2,760,252,465 |
+| **ACG** | 40.4 | 30.85 | **35.6** | <span style='color:red;'>-9.78% 📉</span> | 2,732,145 |
+| **ACL** | 14.15 | 8.37 | **13.2** | <span style='color:green;'>11.39% 📈</span> | 7,935,800 |
+| **ACV** | 78.32 | 45.27 | **55.4** | <span style='color:red;'>-27.34% 📉</span> | 127,290,205 |
+| **ADS** | 10.1 | 6.63 | **8.23** | <span style='color:green;'>0.37% 📈</span> | 36,717,085 |
+| **AGG** | 22.1 | 14.15 | **16.0** | <span style='color:green;'>2.24% 📈</span> | 168,685,800 |
+| **AGR** | 20.8 | 12.78 | **15.8** | <span style='color:red;'>-1.19% 📉</span> | 272,167,537 |
+| **ANV** | 33.4 | 12.0 | **28.4** | <span style='color:green;'>47.76% 📈</span> | 624,705,171 |
+| **APG** | 13.45 | 5.75 | **11.05** | <span style='color:green;'>64.93% 📈</span> | 168,577,900 |
+| **APH** | 7.6 | 5.71 | **6.23** | <span style='color:red;'>-11.38% 📉</span> | 103,779,600 |
+| **APS** | 14.2 | 4.4 | **8.2** | <span style='color:green;'>26.15% 📈</span> | 243,847,400 |
+| **ASM** | 8.67 | 5.35 | **6.89** | <span style='color:red;'>-11.44% 📉</span> | 260,178,428 |
+| **BAF** | 38.8 | 26.0 | **32.25** | <span style='color:green;'>14.77% 📈</span> | 789,739,000 |
+| **BCC** | 9.9 | 5.8 | **7.7** | <span style='color:green;'>6.94% 📈</span> | 36,154,500 |
+| **BCE** | 12.3 | 8.2 | **10.5** | <span style='color:green;'>23.53% 📈</span> | 29,948,500 |
 | **BCG** | 6.37 | 2.43 | **2.53** | <span style='color:red;'>-60.16% 📉</span> | 1,965,372,900 |
-| **BCM** | 82.4 | 49.8 | **68.0** | <span style='color:red;'>-2.86% 📉</span> | 106,441,600 |
-| **BFC** | 51.1 | 30.86 | **44.0** | <span style='color:green;'>15.21% 📈</span> | 152,060,259 |
-| **BIC** | 32.83 | 16.61 | **24.15** | <span style='color:green;'>27.24% 📈</span> | 26,140,610 |
-| **BID** | 44.6 | 30.86 | **37.5** | <span style='color:red;'>-0.74% 📉</span> | 1,090,835,840 |
-| **BMC** | 31.26 | 16.0 | **16.75** | <span style='color:red;'>-17.00% 📉</span> | 35,354,129 |
-| **BMI** | 21.85 | 14.85 | **19.8** | <span style='color:green;'>9.51% 📈</span> | 64,272,497 |
-| **BMP** | 180.0 | 95.93 | **169.5** | <span style='color:green;'>34.94% 📈</span> | 40,235,991 |
-| **BMS** | 15.9 | 8.47 | **12.8** | <span style='color:green;'>51.12% 📈</span> | 79,514,745 |
-| **BSI** | 58.3 | 37.95 | **40.5** | <span style='color:red;'>-8.25% 📉</span> | 263,453,916 |
-| **BSR** | 19.47 | 9.01 | **15.95** | <span style='color:green;'>12.96% 📈</span> | 1,410,775,428 |
-| **BTN** | 3.6 | 2.4 | **2.9** | <span style='color:green;'>7.41% 📈</span> | 1,016,200 |
-| **BTS** | 5.8 | 4.5 | **5.3** | <span style='color:green;'>6.00% 📈</span> | 5,480,700 |
-| **BVH** | 65.5 | 39.1 | **52.0** | <span style='color:green;'>1.56% 📈</span> | 134,399,500 |
-| **BVS** | 45.0 | 26.5 | **33.3** | <span style='color:red;'>-10.00% 📉</span> | 154,820,900 |
-| **BWE** | 54.3 | 38.0 | **47.0** | <span style='color:green;'>1.34% 📈</span> | 46,067,599 |
-| **C47** | 13.25 | 5.57 | **9.9** | <span style='color:green;'>62.30% 📈</span> | 24,385,800 |
-| **C4G** | 10.9 | 5.6 | **8.2** | <span style='color:green;'>3.80% 📈</span> | 295,388,700 |
-| **C69** | 14.8 | 5.5 | **11.7** | <span style='color:green;'>77.27% 📈</span> | 99,705,500 |
-| **CEO** | 32.9 | 9.81 | **23.8** | <span style='color:green;'>93.65% 📈</span> | 3,372,855,068 |
-| **CIG** | 10.35 | 6.86 | **8.8** | <span style='color:green;'>7.84% 📈</span> | 56,474,000 |
-| **CII** | 31.35 | 9.02 | **22.8** | <span style='color:green;'>89.68% 📈</span> | 4,183,213,743 |
-| **CKG** | 17.71 | 10.74 | **11.3** | <span style='color:red;'>-36.19% 📉</span> | 28,243,340 |
-| **CLX** | 19.94 | 12.08 | **16.1** | <span style='color:red;'>-0.62% 📉</span> | 45,229,417 |
-| **CMG** | 50.4 | 28.85 | **38.85** | <span style='color:red;'>-21.52% 📉</span> | 249,170,023 |
-| **CMX** | 8.55 | 6.03 | **6.43** | <span style='color:red;'>-18.61% 📉</span> | 61,821,200 |
-| **CNG** | 31.54 | 23.73 | **25.05** | <span style='color:red;'>-15.17% 📉</span> | 23,082,529 |
-| **CRV** | 41.0 | 30.75 | **32.95** | <span style='color:green;'>5.61% 📈</span> | 604,400 |
-| **CSC** | 26.9 | 15.55 | **18.9** | <span style='color:red;'>-23.57% 📉</span> | 11,599,130 |
-| **CST** | 23.61 | 13.0 | **13.5** | <span style='color:red;'>-41.41% 📉</span> | 11,502,859 |
-| **CSV** | 46.21 | 27.63 | **31.1** | <span style='color:red;'>-30.50% 📉</span> | 312,744,113 |
-| **CTD** | 103.5 | 64.3 | **84.7** | <span style='color:green;'>23.11% 📈</span> | 275,080,522 |
-| **CTG** | 56.05 | 33.53 | **49.0** | <span style='color:green;'>29.97% 📈</span> | 1,874,703,092 |
-| **CTI** | 28.95 | 17.2 | **22.55** | <span style='color:green;'>16.84% 📈</span> | 319,616,700 |
-| **CTR** | 133.03 | 72.13 | **89.3** | <span style='color:red;'>-26.57% 📉</span> | 144,483,379 |
-| **CTS** | 46.85 | 20.77 | **35.1** | <span style='color:green;'>40.96% 📈</span> | 455,967,948 |
-| **D2D** | 40.0 | 24.9 | **34.6** | <span style='color:green;'>34.53% 📈</span> | 29,659,853 |
-| **DAH** | 4.46 | 2.66 | **3.72** | <span style='color:green;'>6.90% 📈</span> | 63,285,300 |
-| **DBC** | 32.35 | 19.09 | **25.1** | <span style='color:green;'>2.70% 📈</span> | 1,633,288,631 |
-| **DCL** | 36.0 | 19.0 | **34.5** | <span style='color:green;'>28.97% 📈</span> | 139,327,400 |
-| **DCM** | 43.85 | 23.38 | **34.2** | <span style='color:green;'>1.73% 📈</span> | 735,313,500 |
-| **DDV** | 37.0 | 12.2 | **29.3** | <span style='color:green;'>52.84% 📈</span> | 395,388,400 |
-| **DGC** | 117.3 | 73.1 | **93.1** | <span style='color:red;'>-20.15% 📉</span> | 413,710,600 |
-| **DGW** | 49.5 | 28.32 | **38.5** | <span style='color:red;'>-3.36% 📉</span> | 432,331,395 |
-| **DHA** | 60.0 | 32.23 | **56.9** | <span style='color:green;'>40.91% 📈</span> | 17,927,081 |
-| **DHC** | 36.86 | 19.31 | **32.85** | <span style='color:green;'>10.79% 📈</span> | 68,335,777 |
-| **DHG** | 110.0 | 82.1 | **103.1** | <span style='color:green;'>5.25% 📈</span> | 4,527,840 |
-| **DHT** | 88.64 | 71.82 | **76.4** | <span style='color:red;'>-11.53% 📉</span> | 5,282,085 |
-| **DIG** | 25.1 | 11.8 | **19.7** | <span style='color:green;'>20.27% 📈</span> | 3,815,130,760 |
-| **DL1** | 10.0 | 4.8 | **5.6** | <span style='color:green;'>9.80% 📈</span> | 301,238,800 |
-| **DPG** | 51.5 | 25.98 | **42.55** | <span style='color:green;'>50.25% 📈</span> | 318,269,673 |
-| **DPM** | 29.9 | 15.19 | **23.65** | <span style='color:green;'>21.78% 📈</span> | 795,576,397 |
-| **DPR** | 50.56 | 32.32 | **36.7** | <span style='color:red;'>-0.92% 📉</span> | 178,321,374 |
-| **DRC** | 22.12 | 13.23 | **15.4** | <span style='color:red;'>-27.70% 📉</span> | 134,447,784 |
-| **DRG** | 14.36 | 6.7 | **8.0** | <span style='color:green;'>4.99% 📈</span> | 3,033,450 |
-| **DRI** | 16.39 | 7.81 | **12.0** | <span style='color:red;'>-2.04% 📉</span> | 255,865,192 |
-| **DSC** | 19.22 | 11.04 | **15.85** | <span style='color:green;'>16.63% 📈</span> | 29,870,975 |
-| **DSN** | 53.03 | 43.3 | **43.4** | <span style='color:red;'>-18.16% 📉</span> | 2,244,105 |
-| **DST** | 10.0 | 4.0 | **9.0** | <span style='color:green;'>60.71% 📈</span> | 43,455,100 |
-| **DTD** | 23.7 | 11.64 | **18.6** | <span style='color:red;'>-20.10% 📉</span> | 150,204,848 |
-| **DVN** | 29.35 | 16.83 | **20.5** | <span style='color:red;'>-14.58% 📉</span> | 22,205,852 |
-| **DVP** | 82.71 | 62.97 | **69.4** | <span style='color:red;'>-7.81% 📉</span> | 3,450,991 |
-| **DXG** | 24.5 | 10.51 | **18.9** | <span style='color:green;'>47.77% 📈</span> | 4,070,125,842 |
-| **DXP** | 12.2 | 7.5 | **10.6** | <span style='color:red;'>-3.72% 📉</span> | 53,610,194 |
-| **EIB** | 31.65 | 15.6 | **21.45** | <span style='color:green;'>11.43% 📈</span> | 2,539,242,500 |
-| **ELC** | 26.24 | 17.43 | **21.05** | <span style='color:red;'>-6.94% 📉</span> | 166,113,179 |
-| **EVE** | 12.1 | 7.88 | **11.2** | <span style='color:green;'>14.29% 📈</span> | 12,353,915 |
-| **EVF** | 16.5 | 7.94 | **12.1** | <span style='color:green;'>32.68% 📈</span> | 2,745,636,100 |
-| **EVG** | 12.15 | 4.86 | **7.97** | <span style='color:green;'>26.51% 📈</span> | 402,767,800 |
-| **EVS** | 9.3 | 4.5 | **6.1** | <span style='color:green;'>7.02% 📈</span> | 79,812,300 |
-| **FCN** | 20.6 | 11.05 | **14.75** | <span style='color:green;'>2.08% 📈</span> | 461,191,800 |
-| **FID** | 2.4 | 1.3 | **1.5** | <span style='color:green;'>0.00% 📈</span> | 34,038,600 |
-| **FIT** | 5.59 | 3.84 | **4.55** | <span style='color:green;'>7.82% 📈</span> | 299,022,100 |
-| **FMC** | 47.56 | 30.7 | **36.65** | <span style='color:red;'>-17.70% 📉</span> | 21,275,608 |
-| **FOX** | 80.5 | 47.08 | **62.0** | <span style='color:green;'>1.22% 📈</span> | 27,774,640 |
-| **FPT** | 134.5 | 84.32 | **101.0** | <span style='color:red;'>-23.19% 📉</span> | 1,672,585,599 |
-| **FRT** | 167.52 | 96.88 | **139.5** | <span style='color:red;'>-6.05% 📉</span> | 115,146,448 |
-| **FTS** | 46.85 | 30.7 | **33.2** | <span style='color:red;'>-12.54% 📉</span> | 788,565,171 |
-| **G36** | 12.7 | 4.6 | **8.5** | <span style='color:green;'>28.79% 📈</span> | 146,976,200 |
-| **GAS** | 69.28 | 47.82 | **62.9** | <span style='color:red;'>-2.16% 📉</span> | 197,973,853 |
-| **GDA** | 20.07 | 11.53 | **16.4** | <span style='color:red;'>-17.38% 📉</span> | 30,197,543 |
-| **GDT** | 25.9 | 16.74 | **20.65** | <span style='color:red;'>-20.12% 📉</span> | 8,937,337 |
-| **GEG** | 18.45 | 11.15 | **15.0** | <span style='color:green;'>25.52% 📈</span> | 333,717,500 |
-| **GEX** | 65.7 | 16.42 | **43.95** | <span style='color:green;'>150.14% 📈</span> | 2,654,944,516 |
-| **GIL** | 21.75 | 13.25 | **15.0** | <span style='color:red;'>-27.88% 📉</span> | 151,240,700 |
-| **GMD** | 74.5 | 40.84 | **63.4** | <span style='color:green;'>0.63% 📈</span> | 526,884,800 |
-| **GVR** | 35.6 | 21.7 | **27.8** | <span style='color:red;'>-8.85% 📉</span> | 818,473,800 |
-| **HAG** | 17.65 | 9.54 | **15.9** | <span style='color:green;'>30.86% 📈</span> | 2,262,618,800 |
-| **HAH** | 68.32 | 34.2 | **60.8** | <span style='color:green;'>61.79% 📈</span> | 563,970,919 |
-| **HAP** | 7.07 | 4.19 | **6.76** | <span style='color:green;'>50.22% 📈</span> | 51,728,200 |
-| **HAX** | 18.2 | 9.45 | **10.45** | <span style='color:red;'>-34.32% 📉</span> | 310,717,867 |
-| **HBC** | 8.9 | 5.0 | **6.1** | <span style='color:red;'>-3.17% 📉</span> | 516,717,000 |
-| **HCD** | 8.93 | 6.15 | **7.55** | <span style='color:red;'>-14.59% 📉</span> | 15,371,500 |
-| **HCM** | 30.4 | 17.84 | **21.9** | <span style='color:red;'>-3.91% 📉</span> | 2,648,749,113 |
-| **HDB** | 34.35 | 18.0 | **30.0** | <span style='color:green;'>17.88% 📈</span> | 3,159,315,200 |
-| **HDC** | 42.3 | 20.7 | **32.0** | <span style='color:green;'>27.49% 📈</span> | 1,021,989,200 |
-| **HDG** | 36.4 | 17.91 | **30.2** | <span style='color:green;'>15.93% 📈</span> | 894,811,257 |
-| **HHS** | 20.2 | 6.95 | **14.2** | <span style='color:green;'>91.12% 📈</span> | 1,261,190,500 |
-| **HHV** | 17.35 | 9.26 | **13.9** | <span style='color:green;'>25.23% 📈</span> | 2,260,407,543 |
-| **HID** | 4.43 | 2.33 | **3.98** | <span style='color:green;'>51.33% 📈</span> | 41,618,700 |
-| **HLD** | 20.0 | 9.74 | **18.6** | <span style='color:green;'>31.54% 📈</span> | 10,975,244 |
-| **HOM** | 6.1 | 3.5 | **4.8** | <span style='color:green;'>29.73% 📈</span> | 8,525,200 |
-| **HPG** | 30.85 | 17.75 | **26.05** | <span style='color:green;'>17.08% 📈</span> | 8,805,679,881 |
-| **HQC** | 4.29 | 2.54 | **3.11** | <span style='color:red;'>-1.58% 📉</span> | 1,446,014,200 |
-| **HSG** | 21.2 | 12.4 | **16.85** | <span style='color:red;'>-6.02% 📉</span> | 1,716,965,323 |
-| **HT1** | 21.0 | 9.12 | **15.9** | <span style='color:green;'>34.97% 📈</span> | 155,528,610 |
-| **HTN** | 14.3 | 7.71 | **8.88** | <span style='color:red;'>-12.94% 📉</span> | 163,672,300 |
-| **HUT** | 21.1 | 10.62 | **17.0** | <span style='color:green;'>12.88% 📈</span> | 541,495,447 |
-| **HVN** | 38.45 | 19.39 | **30.4** | <span style='color:green;'>33.45% 📈</span> | 449,106,980 |
-| **IDC** | 48.9 | 26.87 | **38.0** | <span style='color:red;'>-18.91% 📉</span> | 430,601,010 |
-| **IDI** | 9.39 | 5.45 | **7.09** | <span style='color:red;'>-14.06% 📉</span> | 287,137,800 |
-| **IDJ** | 8.5 | 3.6 | **5.5** | <span style='color:red;'>-6.78% 📉</span> | 324,130,000 |
-| **IDV** | 35.5 | 22.6 | **26.0** | <span style='color:red;'>-21.31% 📉</span> | 5,957,993 |
-| **IJC** | 14.65 | 8.67 | **12.0** | <span style='color:green;'>4.99% 📈</span> | 789,568,834 |
-| **IMP** | 56.5 | 35.75 | **48.65** | <span style='color:green;'>4.51% 📈</span> | 35,582,099 |
-| **IPA** | 28.0 | 9.1 | **19.0** | <span style='color:green;'>59.66% 📈</span> | 92,859,400 |
-| **ITC** | 18.1 | 8.91 | **14.0** | <span style='color:green;'>28.44% 📈</span> | 136,967,900 |
-| **JVC** | 9.1 | 3.65 | **8.0** | <span style='color:green;'>112.20% 📈</span> | 140,512,400 |
-| **KBC** | 43.1 | 20.05 | **33.85** | <span style='color:green;'>24.22% 📈</span> | 1,563,717,200 |
-| **KDC** | 59.8 | 49.2 | **52.0** | <span style='color:red;'>-11.86% 📉</span> | 83,215,600 |
-| **KDH** | 38.1 | 22.05 | **32.5** | <span style='color:green;'>0.43% 📈</span> | 946,539,436 |
-| **KHG** | 8.76 | 4.61 | **7.86** | <span style='color:green;'>42.91% 📈</span> | 2,130,897,400 |
-| **KSB** | 22.45 | 13.95 | **18.4** | <span style='color:red;'>-1.60% 📉</span> | 530,082,200 |
-| **KSV** | 316.13 | 95.43 | **156.3** | <span style='color:green;'>63.78% 📈</span> | 11,203,365 |
-| **L18** | 39.75 | 23.6 | **25.6** | <span style='color:red;'>-21.83% 📉</span> | 16,492,338 |
-| **LAS** | 22.25 | 11.74 | **16.8** | <span style='color:red;'>-8.10% 📉</span> | 184,831,785 |
-| **LCG** | 13.36 | 7.47 | **10.05** | <span style='color:green;'>4.36% 📈</span> | 737,330,356 |
-| **LDG** | 7.22 | 1.6 | **4.66** | <span style='color:green;'>145.26% 📈</span> | 935,032,100 |
-| **LHG** | 35.69 | 22.77 | **29.85** | <span style='color:red;'>-10.95% 📉</span> | 42,615,254 |
-| **LIG** | 5.8 | 2.4 | **4.4** | <span style='color:green;'>46.67% 📈</span> | 179,661,300 |
-| **LPB** | 54.7 | 27.01 | **49.3** | <span style='color:green;'>68.55% 📈</span> | 700,383,911 |
-| **LSS** | 11.45 | 8.47 | **9.5** | <span style='color:red;'>-11.55% 📉</span> | 86,395,130 |
-| **LTG** | 9.4 | 5.8 | **6.8** | <span style='color:red;'>-10.53% 📉</span> | 17,319,300 |
-| **MBB** | 29.5 | 14.6 | **23.3** | <span style='color:green;'>41.90% 📈</span> | 5,631,655,922 |
-| **MBS** | 41.31 | 19.17 | **28.5** | <span style='color:green;'>13.82% 📈</span> | 1,190,646,229 |
-| **MCH** | 198.0 | 100.99 | **194.8** | <span style='color:green;'>8.69% 📈</span> | 54,620,566 |
-| **MCM** | 33.33 | 24.3 | **27.35** | <span style='color:red;'>-17.94% 📉</span> | 7,859,352 |
-| **MFS** | 67.48 | 32.43 | **38.4** | <span style='color:green;'>1.88% 📈</span> | 22,801,712 |
-| **MHC** | 16.15 | 6.4 | **11.7** | <span style='color:green;'>75.94% 📈</span> | 57,241,000 |
-| **MIG** | 19.39 | 13.17 | **17.05** | <span style='color:green;'>5.05% 📈</span> | 69,917,517 |
-| **MPC** | 18.1 | 8.8 | **16.7** | <span style='color:green;'>12.84% 📈</span> | 38,697,300 |
-| **MSB** | 15.62 | 7.92 | **12.1** | <span style='color:green;'>25.13% 📈</span> | 2,484,872,465 |
-| **MSH** | 41.87 | 25.17 | **37.6** | <span style='color:green;'>8.86% 📈</span> | 72,140,168 |
-| **MSN** | 94.0 | 50.3 | **76.8** | <span style='color:green;'>9.56% 📈</span> | 1,585,665,900 |
-| **MSR** | 31.8 | 10.4 | **21.5** | <span style='color:green;'>82.20% 📈</span> | 492,464,900 |
-| **MST** | 6.91 | 4.09 | **5.5** | <span style='color:red;'>-12.28% 📉</span> | 605,100,213 |
-| **MWG** | 87.9 | 45.1 | **76.5** | <span style='color:green;'>27.42% 📈</span> | 1,698,571,325 |
-| **NAF** | 35.1 | 15.41 | **34.6** | <span style='color:green;'>93.19% 📈</span> | 106,862,334 |
-| **NBC** | 12.07 | 7.79 | **8.5** | <span style='color:red;'>-2.75% 📉</span> | 22,560,315 |
-| **NCT** | 117.3 | 89.6 | **109.9** | <span style='color:red;'>-4.60% 📉</span> | 2,571,300 |
-| **NDN** | 14.5 | 6.54 | **11.9** | <span style='color:green;'>39.51% 📈</span> | 89,736,175 |
-| **NHA** | 28.9 | 17.41 | **20.05** | <span style='color:red;'>-20.37% 📉</span> | 165,187,466 |
-| **NHH** | 14.0 | 9.7 | **11.5** | <span style='color:red;'>-11.13% 📉</span> | 34,089,474 |
-| **NKG** | 20.4 | 11.05 | **16.7** | <span style='color:green;'>14.78% 📈</span> | 2,418,895,200 |
-| **NLG** | 45.63 | 23.29 | **37.65** | <span style='color:green;'>13.92% 📈</span> | 707,472,600 |
-| **NNC** | 55.5 | 22.2 | **51.5** | <span style='color:green;'>125.58% 📈</span> | 9,823,017 |
-| **NRC** | 7.7 | 3.6 | **6.3** | <span style='color:green;'>26.00% 📈</span> | 252,237,400 |
-| **NT2** | 25.35 | 15.48 | **23.05** | <span style='color:green;'>18.51% 📈</span> | 232,551,910 |
-| **NTC** | 235.46 | 117.05 | **158.1** | <span style='color:red;'>-24.15% 📉</span> | 10,949,640 |
-| **NTL** | 22.5 | 12.3 | **17.9** | <span style='color:red;'>-2.98% 📉</span> | 504,382,100 |
-| **NTP** | 71.8 | 39.96 | **63.0** | <span style='color:green;'>21.62% 📈</span> | 83,414,914 |
-| **NVL** | 19.3 | 7.88 | **13.0** | <span style='color:green;'>25.60% 📈</span> | 4,148,360,600 |
-| **OCB** | 15.4 | 7.8 | **12.15** | <span style='color:green;'>24.62% 📈</span> | 1,093,587,883 |
-| **OIL** | 13.43 | 7.94 | **10.7** | <span style='color:red;'>-9.01% 📉</span> | 297,206,621 |
-| **ORS** | 17.0 | 7.19 | **14.0** | <span style='color:red;'>-0.71% 📉</span> | 1,539,174,800 |
-| **PAN** | 35.6 | 20.1 | **30.25** | <span style='color:green;'>29.27% 📈</span> | 330,961,535 |
-| **PC1** | 32.5 | 18.4 | **24.25** | <span style='color:green;'>4.98% 📈</span> | 687,409,500 |
-| **PDR** | 27.2 | 13.93 | **21.15** | <span style='color:green;'>10.33% 📈</span> | 3,125,723,233 |
-| **PET** | 41.3 | 16.7 | **30.1** | <span style='color:green;'>19.44% 📈</span> | 276,910,400 |
-| **PHC** | 6.6 | 4.36 | **5.0** | <span style='color:red;'>-11.66% 📉</span> | 26,658,400 |
-| **PHP** | 58.89 | 23.89 | **33.6** | <span style='color:red;'>-18.62% 📉</span> | 52,651,573 |
-| **PHR** | 67.36 | 38.07 | **54.1** | <span style='color:green;'>4.36% 📈</span> | 123,790,283 |
-| **PLC** | 31.7 | 17.27 | **26.5** | <span style='color:green;'>19.48% 📈</span> | 103,653,979 |
-| **PLX** | 43.11 | 29.95 | **34.0** | <span style='color:red;'>-7.41% 📉</span> | 373,563,741 |
-| **PNJ** | 97.78 | 61.78 | **87.5** | <span style='color:red;'>-8.68% 📉</span> | 182,175,683 |
-| **POW** | 17.45 | 9.92 | **14.2** | <span style='color:green;'>18.33% 📈</span> | 2,154,876,600 |
-| **PPC** | 13.15 | 10.1 | **10.55** | <span style='color:red;'>-5.80% 📉</span> | 114,728,135 |
-| **PPH** | 31.42 | 22.09 | **28.6** | <span style='color:red;'>-0.97% 📉</span> | 6,547,727 |
-| **PTB** | 65.63 | 43.46 | **50.1** | <span style='color:red;'>-22.28% 📉</span> | 35,780,665 |
-| **PVC** | 13.8 | 7.4 | **10.9** | <span style='color:green;'>4.81% 📈</span> | 290,122,100 |
-| **PVD** | 25.7 | 16.23 | **24.7** | <span style='color:green;'>7.48% 📈</span> | 1,388,660,830 |
-| **PVI** | 81.2 | 48.8 | **79.0** | <span style='color:green;'>34.47% 📈</span> | 11,439,138 |
-| **PVP** | 17.21 | 11.36 | **13.95** | <span style='color:red;'>-16.67% 📉</span> | 46,628,311 |
-| **PVS** | 39.0 | 21.4 | **34.0** | <span style='color:green;'>0.29% 📈</span> | 1,084,556,900 |
-| **PVT** | 21.52 | 14.09 | **17.6** | <span style='color:red;'>-16.27% 📉</span> | 608,707,928 |
-| **PXI** | 2.7 | 1.1 | **1.2** | <span style='color:red;'>-36.84% 📉</span> | 10,998,900 |
-| **QNS** | 49.1 | 40.81 | **44.7** | <span style='color:red;'>-5.50% 📉</span> | 59,501,328 |
-| **QTP** | 13.99 | 11.92 | **12.8** | <span style='color:red;'>-5.81% 📉</span> | 80,352,096 |
-| **S99** | 12.8 | 5.52 | **9.4** | <span style='color:green;'>23.36% 📈</span> | 46,617,030 |
-| **SAB** | 52.49 | 39.04 | **46.1** | <span style='color:red;'>-12.17% 📉</span> | 226,367,652 |
-| **SAS** | 50.56 | 25.75 | **32.3** | <span style='color:red;'>-6.27% 📉</span> | 11,148,342 |
-| **SBS** | 7.9 | 3.3 | **5.4** | <span style='color:green;'>14.89% 📈</span> | 412,723,500 |
-| **SBT** | 27.6 | 10.86 | **25.2** | <span style='color:green;'>111.59% 📈</span> | 374,905,160 |
-| **SCI** | 11.9 | 5.7 | **9.7** | <span style='color:green;'>22.78% 📈</span> | 12,010,100 |
-| **SCR** | 10.5 | 5.07 | **8.08** | <span style='color:green;'>40.77% 📈</span> | 1,227,558,300 |
-| **SCS** | 79.67 | 49.52 | **54.6** | <span style='color:red;'>-29.00% 📉</span> | 81,137,884 |
-| **SGN** | 101.21 | 58.92 | **61.7** | <span style='color:red;'>-24.30% 📉</span> | 7,460,250 |
-| **SGR** | 41.15 | 18.85 | **20.9** | <span style='color:red;'>-43.59% 📉</span> | 68,202,900 |
-| **SGT** | 22.15 | 15.0 | **16.65** | <span style='color:red;'>-3.48% 📉</span> | 16,347,700 |
-| **SHB** | 19.45 | 7.72 | **15.3** | <span style='color:green;'>93.43% 📈</span> | 14,744,341,317 |
-| **SHS** | 30.0 | 8.54 | **21.4** | <span style='color:green;'>112.72% 📈</span> | 4,676,075,157 |
-| **SIP** | 81.61 | 48.12 | **55.0** | <span style='color:red;'>-22.66% 📉</span> | 129,345,156 |
-| **SKG** | 12.36 | 8.55 | **10.15** | <span style='color:red;'>-6.28% 📉</span> | 57,243,008 |
-| **SLS** | 197.2 | 152.0 | **165.4** | <span style='color:red;'>-2.45% 📉</span> | 1,834,682 |
-| **SMC** | 16.9 | 5.7 | **13.0** | <span style='color:green;'>55.50% 📈</span> | 156,595,000 |
-| **SSH** | 134.2 | 66.5 | **79.0** | <span style='color:green;'>18.26% 📈</span> | 5,443,300 |
-| **SSI** | 43.3 | 20.09 | **32.95** | <span style='color:green;'>29.72% 📈</span> | 7,123,308,087 |
-| **STB** | 61.3 | 32.4 | **48.35** | <span style='color:green;'>30.85% 📈</span> | 2,427,830,700 |
-| **STK** | 19.31 | 12.93 | **17.0** | <span style='color:red;'>-0.99% 📉</span> | 10,854,915 |
-| **SZC** | 45.87 | 26.92 | **30.3** | <span style='color:red;'>-26.65% 📉</span> | 443,680,616 |
-| **TCB** | 42.0 | 21.72 | **33.0** | <span style='color:green;'>37.44% 📈</span> | 4,110,933,812 |
+| **BCM** | 82.4 | 49.8 | **67.5** | <span style='color:red;'>-3.57% 📉</span> | 107,873,100 |
+| **BFC** | 51.1 | 30.86 | **46.0** | <span style='color:green;'>20.45% 📈</span> | 154,429,859 |
+| **BIC** | 32.83 | 16.61 | **23.95** | <span style='color:green;'>26.19% 📈</span> | 26,676,810 |
+| **BID** | 44.6 | 30.86 | **38.35** | <span style='color:green;'>1.51% 📈</span> | 1,101,774,140 |
+| **BMC** | 31.26 | 16.0 | **16.35** | <span style='color:red;'>-18.98% 📉</span> | 35,536,829 |
+| **BMI** | 21.85 | 14.85 | **19.25** | <span style='color:green;'>6.47% 📈</span> | 65,948,497 |
+| **BMP** | 180.0 | 95.93 | **170.9** | <span style='color:green;'>36.06% 📈</span> | 40,674,691 |
+| **BMS** | 15.9 | 8.47 | **12.9** | <span style='color:green;'>52.30% 📈</span> | 80,064,345 |
+| **BSI** | 58.3 | 37.95 | **41.45** | <span style='color:red;'>-6.09% 📉</span> | 265,251,016 |
+| **BSR** | 19.47 | 9.01 | **16.0** | <span style='color:green;'>13.31% 📈</span> | 1,429,226,945 |
+| **BTN** | 3.6 | 2.4 | **2.8** | <span style='color:green;'>3.70% 📈</span> | 1,019,400 |
+| **BTS** | 5.8 | 4.5 | **5.3** | <span style='color:green;'>6.00% 📈</span> | 5,546,900 |
+| **BVH** | 64.27 | 38.36 | **55.3** | <span style='color:green;'>10.07% 📈</span> | 137,008,138 |
+| **BVS** | 43.94 | 25.88 | **33.0** | <span style='color:red;'>-8.92% 📉</span> | 155,632,954 |
+| **BWE** | 54.3 | 38.0 | **47.3** | <span style='color:green;'>1.98% 📈</span> | 46,506,899 |
+| **C47** | 13.25 | 5.57 | **9.99** | <span style='color:green;'>63.77% 📈</span> | 24,641,000 |
+| **C4G** | 10.9 | 5.6 | **8.5** | <span style='color:green;'>7.59% 📈</span> | 301,064,900 |
+| **C69** | 14.8 | 5.5 | **12.3** | <span style='color:green;'>86.36% 📈</span> | 101,844,300 |
+| **CEO** | 32.9 | 9.81 | **25.8** | <span style='color:green;'>109.93% 📈</span> | 3,443,306,368 |
+| **CIG** | 10.35 | 6.86 | **8.97** | <span style='color:green;'>9.93% 📈</span> | 56,665,500 |
+| **CII** | 31.35 | 9.02 | **25.15** | <span style='color:green;'>109.23% 📈</span> | 4,270,624,043 |
+| **CKG** | 17.71 | 10.74 | **11.8** | <span style='color:red;'>-33.37% 📉</span> | 28,452,740 |
+| **CLX** | 19.94 | 12.08 | **16.0** | <span style='color:red;'>-1.23% 📉</span> | 45,483,517 |
+| **CMG** | 50.4 | 28.85 | **38.1** | <span style='color:red;'>-23.03% 📉</span> | 251,498,623 |
+| **CMX** | 8.55 | 6.03 | **6.53** | <span style='color:red;'>-17.34% 📉</span> | 62,202,400 |
+| **CNG** | 31.54 | 23.73 | **25.6** | <span style='color:red;'>-13.31% 📉</span> | 23,139,529 |
+| **CRV** | 41.0 | 30.5 | **32.5** | <span style='color:green;'>4.17% 📈</span> | 657,900 |
+| **CSC** | 26.9 | 15.55 | **18.1** | <span style='color:red;'>-26.81% 📉</span> | 11,699,830 |
+| **CST** | 23.61 | 13.0 | **13.6** | <span style='color:red;'>-40.97% 📉</span> | 11,601,759 |
+| **CSV** | 46.21 | 27.63 | **31.85** | <span style='color:red;'>-28.83% 📉</span> | 316,865,713 |
+| **CTD** | 103.5 | 64.3 | **88.0** | <span style='color:green;'>27.91% 📈</span> | 278,633,422 |
+| **CTG** | 56.05 | 33.53 | **48.55** | <span style='color:green;'>28.78% 📈</span> | 1,909,972,992 |
+| **CTI** | 28.95 | 17.2 | **23.3** | <span style='color:green;'>20.73% 📈</span> | 321,684,600 |
+| **CTR** | 133.03 | 72.13 | **92.6** | <span style='color:red;'>-23.85% 📉</span> | 147,689,879 |
+| **CTS** | 46.85 | 20.77 | **35.35** | <span style='color:green;'>41.97% 📈</span> | 460,741,548 |
+| **D2D** | 40.0 | 24.9 | **36.0** | <span style='color:green;'>39.97% 📈</span> | 29,814,253 |
+| **DAH** | 4.46 | 2.66 | **3.71** | <span style='color:green;'>6.61% 📈</span> | 63,732,100 |
+| **DBC** | 32.35 | 19.09 | **26.15** | <span style='color:green;'>7.00% 📈</span> | 1,644,853,231 |
+| **DCL** | 37.35 | 19.0 | **36.0** | <span style='color:green;'>34.58% 📈</span> | 145,335,300 |
+| **DCM** | 43.85 | 23.38 | **34.4** | <span style='color:green;'>2.32% 📈</span> | 743,307,600 |
+| **DDV** | 37.0 | 12.2 | **29.5** | <span style='color:green;'>53.89% 📈</span> | 400,046,700 |
+| **DGC** | 117.3 | 73.1 | **99.4** | <span style='color:red;'>-14.75% 📉</span> | 429,411,700 |
+| **DGW** | 49.5 | 28.32 | **39.95** | <span style='color:green;'>0.28% 📈</span> | 436,895,995 |
+| **DHA** | 60.3 | 32.23 | **57.8** | <span style='color:green;'>43.14% 📈</span> | 18,845,281 |
+| **DHC** | 36.86 | 19.31 | **33.8** | <span style='color:green;'>14.00% 📈</span> | 69,309,529 |
+| **DHG** | 110.0 | 82.1 | **103.7** | <span style='color:green;'>5.86% 📈</span> | 4,611,540 |
+| **DHT** | 88.64 | 71.82 | **75.0** | <span style='color:red;'>-13.15% 📉</span> | 5,340,985 |
+| **DIG** | 25.1 | 11.8 | **20.45** | <span style='color:green;'>24.85% 📈</span> | 3,865,522,060 |
+| **DL1** | 10.0 | 4.8 | **5.5** | <span style='color:green;'>7.84% 📈</span> | 303,170,700 |
+| **DPG** | 51.5 | 25.98 | **44.2** | <span style='color:green;'>56.07% 📈</span> | 320,826,173 |
+| **DPM** | 29.9 | 15.19 | **23.85** | <span style='color:green;'>22.81% 📈</span> | 812,420,297 |
+| **DPR** | 50.56 | 32.32 | **38.0** | <span style='color:green;'>2.59% 📈</span> | 180,482,074 |
+| **DRC** | 22.12 | 13.23 | **15.7** | <span style='color:red;'>-26.29% 📉</span> | 135,511,784 |
+| **DRG** | 14.36 | 6.7 | **8.7** | <span style='color:green;'>14.17% 📈</span> | 3,044,650 |
+| **DRI** | 16.39 | 7.81 | **12.6** | <span style='color:green;'>2.86% 📈</span> | 258,772,092 |
+| **DSC** | 19.22 | 11.04 | **15.6** | <span style='color:green;'>14.79% 📈</span> | 30,085,875 |
+| **DSN** | 53.03 | 42.95 | **44.0** | <span style='color:red;'>-17.03% 📉</span> | 2,270,205 |
+| **DST** | 10.0 | 4.0 | **9.0** | <span style='color:green;'>60.71% 📈</span> | 43,609,200 |
+| **DTD** | 23.7 | 11.64 | **18.5** | <span style='color:red;'>-20.53% 📉</span> | 151,435,148 |
+| **DVN** | 29.35 | 16.83 | **20.6** | <span style='color:red;'>-14.17% 📉</span> | 22,341,952 |
+| **DVP** | 82.71 | 62.97 | **69.8** | <span style='color:red;'>-7.28% 📉</span> | 3,496,991 |
+| **DXG** | 24.5 | 10.51 | **19.25** | <span style='color:green;'>50.51% 📈</span> | 4,133,213,842 |
+| **DXP** | 12.2 | 7.5 | **10.8** | <span style='color:red;'>-1.91% 📉</span> | 54,550,994 |
+| **EIB** | 31.65 | 15.6 | **21.35** | <span style='color:green;'>10.91% 📈</span> | 2,567,319,600 |
+| **ELC** | 26.24 | 17.43 | **20.5** | <span style='color:red;'>-9.37% 📉</span> | 167,538,679 |
+| **EVE** | 12.1 | 7.88 | **11.35** | <span style='color:green;'>15.82% 📈</span> | 12,656,815 |
+| **EVF** | 16.5 | 7.94 | **12.25** | <span style='color:green;'>34.32% 📈</span> | 2,758,732,100 |
+| **EVG** | 12.15 | 4.86 | **8.06** | <span style='color:green;'>27.94% 📈</span> | 405,566,800 |
+| **EVS** | 9.3 | 4.5 | **6.1** | <span style='color:green;'>7.02% 📈</span> | 80,112,100 |
+| **FCN** | 20.6 | 11.05 | **15.15** | <span style='color:green;'>4.84% 📈</span> | 463,635,800 |
+| **FID** | 2.4 | 1.3 | **1.5** | <span style='color:green;'>0.00% 📈</span> | 34,108,800 |
+| **FIT** | 5.59 | 3.84 | **4.64** | <span style='color:green;'>9.95% 📈</span> | 300,932,600 |
+| **FMC** | 47.56 | 30.7 | **36.7** | <span style='color:red;'>-17.58% 📉</span> | 21,379,108 |
+| **FOX** | 80.5 | 47.08 | **61.0** | <span style='color:red;'>-0.41% 📉</span> | 28,131,540 |
+| **FPT** | 134.5 | 84.32 | **100.0** | <span style='color:red;'>-23.95% 📉</span> | 1,705,374,999 |
+| **FRT** | 167.52 | 96.88 | **146.0** | <span style='color:red;'>-1.67% 📉</span> | 116,725,448 |
+| **FTS** | 46.85 | 30.7 | **33.7** | <span style='color:red;'>-11.22% 📉</span> | 792,787,171 |
+| **G36** | 12.13 | 4.39 | **8.4** | <span style='color:green;'>33.33% 📈</span> | 147,906,024 |
+| **GAS** | 69.28 | 47.82 | **62.8** | <span style='color:red;'>-2.32% 📉</span> | 201,569,453 |
+| **GDA** | 20.07 | 11.53 | **16.3** | <span style='color:red;'>-17.88% 📉</span> | 30,465,743 |
+| **GDT** | 25.9 | 16.74 | **20.95** | <span style='color:red;'>-18.96% 📉</span> | 9,006,737 |
+| **GEG** | 18.45 | 11.15 | **15.1** | <span style='color:green;'>26.36% 📈</span> | 335,003,500 |
+| **GEX** | 65.7 | 16.42 | **45.1** | <span style='color:green;'>156.69% 📈</span> | 2,715,064,116 |
+| **GIL** | 21.75 | 13.25 | **15.5** | <span style='color:red;'>-25.48% 📉</span> | 152,044,200 |
+| **GMD** | 74.5 | 40.84 | **62.5** | <span style='color:red;'>-0.79% 📉</span> | 534,514,800 |
+| **GVR** | 35.1 | 21.39 | **28.4** | <span style='color:red;'>-5.55% 📉</span> | 830,608,437 |
+| **HAG** | 17.65 | 9.54 | **17.65** | <span style='color:green;'>45.27% 📈</span> | 2,329,124,300 |
+| **HAH** | 68.32 | 34.2 | **65.0** | <span style='color:green;'>72.96% 📈</span> | 579,213,719 |
+| **HAP** | 7.49 | 4.19 | **7.44** | <span style='color:green;'>65.33% 📈</span> | 52,675,000 |
+| **HAX** | 18.2 | 9.45 | **10.8** | <span style='color:red;'>-32.12% 📉</span> | 312,684,367 |
+| **HBC** | 8.9 | 5.0 | **6.3** | <span style='color:green;'>0.00% 📈</span> | 519,887,900 |
+| **HCD** | 8.93 | 6.15 | **7.84** | <span style='color:red;'>-11.31% 📉</span> | 15,443,100 |
+| **HCM** | 30.4 | 17.84 | **22.6** | <span style='color:red;'>-0.83% 📉</span> | 2,688,780,113 |
+| **HDB** | 34.35 | 18.0 | **29.85** | <span style='color:green;'>17.29% 📈</span> | 3,224,269,600 |
+| **HDC** | 37.77 | 18.48 | **28.0** | <span style='color:green;'>24.94% 📈</span> | 1,042,124,259 |
+| **HDG** | 36.4 | 17.91 | **32.7** | <span style='color:green;'>25.53% 📈</span> | 907,317,357 |
+| **HHS** | 20.2 | 6.95 | **14.8** | <span style='color:green;'>99.19% 📈</span> | 1,268,817,300 |
+| **HHV** | 17.35 | 9.26 | **13.6** | <span style='color:green;'>22.52% 📈</span> | 2,287,944,543 |
+| **HID** | 5.35 | 2.33 | **5.35** | <span style='color:green;'>103.42% 📈</span> | 50,749,700 |
+| **HLD** | 20.0 | 9.74 | **18.5** | <span style='color:green;'>30.83% 📈</span> | 11,127,044 |
+| **HOM** | 6.1 | 3.5 | **4.8** | <span style='color:green;'>29.73% 📈</span> | 8,586,400 |
+| **HPG** | 30.85 | 17.75 | **26.9** | <span style='color:green;'>20.90% 📈</span> | 8,956,732,481 |
+| **HQC** | 4.29 | 2.54 | **3.07** | <span style='color:red;'>-2.85% 📉</span> | 1,467,559,700 |
+| **HSG** | 21.2 | 12.4 | **17.05** | <span style='color:red;'>-4.91% 📉</span> | 1,731,771,723 |
+| **HT1** | 21.0 | 9.12 | **16.2** | <span style='color:green;'>37.52% 📈</span> | 156,628,110 |
+| **HTN** | 14.3 | 7.71 | **9.29** | <span style='color:red;'>-8.92% 📉</span> | 164,670,900 |
+| **HUT** | 21.1 | 10.62 | **18.3** | <span style='color:green;'>21.51% 📈</span> | 555,824,247 |
+| **HVN** | 38.45 | 19.39 | **29.2** | <span style='color:green;'>28.18% 📈</span> | 455,364,580 |
+| **IDC** | 48.9 | 26.87 | **42.7** | <span style='color:red;'>-8.88% 📉</span> | 448,432,010 |
+| **IDI** | 9.39 | 5.45 | **7.3** | <span style='color:red;'>-11.52% 📉</span> | 289,161,800 |
+| **IDJ** | 8.5 | 3.6 | **5.6** | <span style='color:red;'>-5.08% 📉</span> | 327,212,100 |
+| **IDV** | 35.5 | 22.6 | **26.4** | <span style='color:red;'>-20.10% 📉</span> | 6,027,893 |
+| **IJC** | 14.65 | 8.67 | **12.45** | <span style='color:green;'>8.92% 📈</span> | 800,654,334 |
+| **IMP** | 56.5 | 35.75 | **48.7** | <span style='color:green;'>4.62% 📈</span> | 35,809,899 |
+| **IPA** | 28.0 | 9.1 | **19.5** | <span style='color:green;'>63.87% 📈</span> | 93,501,400 |
+| **ITC** | 18.1 | 8.91 | **14.3** | <span style='color:green;'>31.19% 📈</span> | 137,574,500 |
+| **JVC** | 9.1 | 3.65 | **7.2** | <span style='color:green;'>90.98% 📈</span> | 142,591,300 |
+| **KBC** | 43.1 | 20.05 | **33.6** | <span style='color:green;'>23.30% 📈</span> | 1,583,661,900 |
+| **KDC** | 59.8 | 49.2 | **52.7** | <span style='color:red;'>-10.68% 📉</span> | 84,112,500 |
+| **KDH** | 38.1 | 22.05 | **34.65** | <span style='color:green;'>7.08% 📈</span> | 971,783,036 |
+| **KHG** | 8.76 | 4.61 | **7.6** | <span style='color:green;'>38.18% 📈</span> | 2,184,399,700 |
+| **KSB** | 22.45 | 13.95 | **18.7** | <span style='color:green;'>0.00% 📈</span> | 537,225,500 |
+| **KSV** | 316.13 | 95.43 | **154.1** | <span style='color:green;'>61.48% 📈</span> | 11,365,465 |
+| **L18** | 39.75 | 23.6 | **26.9** | <span style='color:red;'>-17.86% 📉</span> | 16,771,438 |
+| **LAS** | 22.25 | 11.74 | **16.8** | <span style='color:red;'>-8.10% 📉</span> | 186,009,885 |
+| **LCG** | 13.36 | 7.47 | **10.4** | <span style='color:green;'>8.00% 📈</span> | 743,007,719 |
+| **LDG** | 7.22 | 1.6 | **4.51** | <span style='color:green;'>137.37% 📈</span> | 941,516,300 |
+| **LHG** | 35.69 | 22.77 | **30.8** | <span style='color:red;'>-8.11% 📉</span> | 43,223,654 |
+| **LIG** | 5.8 | 2.4 | **4.4** | <span style='color:green;'>46.67% 📈</span> | 180,370,100 |
+| **LPB** | 54.7 | 27.01 | **49.9** | <span style='color:green;'>70.60% 📈</span> | 708,565,611 |
+| **LSS** | 11.45 | 8.47 | **9.57** | <span style='color:red;'>-10.89% 📉</span> | 86,954,730 |
+| **LTG** | 9.4 | 5.8 | **7.0** | <span style='color:red;'>-7.89% 📉</span> | 17,470,600 |
+| **MBB** | 29.5 | 14.6 | **23.5** | <span style='color:green;'>43.12% 📈</span> | 5,717,612,622 |
+| **MBS** | 41.31 | 19.17 | **30.1** | <span style='color:green;'>20.21% 📈</span> | 1,205,576,029 |
+| **MCH** | 221.8 | 100.99 | **217.9** | <span style='color:green;'>21.58% 📈</span> | 59,379,666 |
+| **MCM** | 32.14 | 23.43 | **27.1** | <span style='color:red;'>-15.68% 📉</span> | 8,076,545 |
+| **MFS** | 67.48 | 32.43 | **37.6** | <span style='color:red;'>-0.24% 📉</span> | 22,872,410 |
+| **MHC** | 16.15 | 6.4 | **12.5** | <span style='color:green;'>87.97% 📈</span> | 57,771,500 |
+| **MIG** | 19.39 | 13.17 | **17.25** | <span style='color:green;'>6.28% 📈</span> | 70,936,617 |
+| **MPC** | 18.1 | 8.8 | **16.9** | <span style='color:green;'>14.19% 📈</span> | 38,982,300 |
+| **MSB** | 15.62 | 7.92 | **12.05** | <span style='color:green;'>24.61% 📈</span> | 2,507,078,165 |
+| **MSH** | 41.87 | 25.17 | **40.25** | <span style='color:green;'>16.53% 📈</span> | 76,081,768 |
+| **MSN** | 94.0 | 50.3 | **78.0** | <span style='color:green;'>11.27% 📈</span> | 1,613,098,600 |
+| **MSR** | 31.8 | 10.4 | **23.5** | <span style='color:green;'>99.15% 📈</span> | 497,370,000 |
+| **MST** | 6.91 | 4.09 | **5.4** | <span style='color:red;'>-13.88% 📉</span> | 613,084,213 |
+| **MWG** | 87.9 | 45.1 | **81.4** | <span style='color:green;'>35.58% 📈</span> | 1,724,560,225 |
+| **NAF** | 35.1 | 15.41 | **33.85** | <span style='color:green;'>89.00% 📈</span> | 109,537,334 |
+| **NBC** | 12.07 | 7.79 | **8.5** | <span style='color:red;'>-2.75% 📉</span> | 22,709,715 |
+| **NCT** | 117.3 | 89.6 | **107.2** | <span style='color:red;'>-6.94% 📉</span> | 2,807,000 |
+| **NDN** | 14.5 | 6.54 | **11.9** | <span style='color:green;'>39.51% 📈</span> | 90,827,275 |
+| **NHA** | 28.9 | 17.41 | **20.45** | <span style='color:red;'>-18.78% 📉</span> | 165,941,866 |
+| **NHH** | 14.0 | 9.7 | **11.35** | <span style='color:red;'>-12.29% 📉</span> | 34,327,674 |
+| **NKG** | 20.4 | 11.05 | **17.05** | <span style='color:green;'>17.18% 📈</span> | 2,459,362,600 |
+| **NLG** | 45.63 | 23.29 | **37.2** | <span style='color:green;'>12.56% 📈</span> | 715,275,300 |
+| **NNC** | 55.5 | 22.2 | **53.8** | <span style='color:green;'>135.65% 📈</span> | 10,073,817 |
+| **NRC** | 7.7 | 3.6 | **6.4** | <span style='color:green;'>28.00% 📈</span> | 254,375,600 |
+| **NT2** | 25.35 | 15.48 | **24.25** | <span style='color:green;'>24.68% 📈</span> | 237,438,310 |
+| **NTC** | 235.46 | 117.05 | **161.1** | <span style='color:red;'>-22.71% 📉</span> | 11,035,340 |
+| **NTL** | 22.5 | 12.3 | **18.1** | <span style='color:red;'>-1.90% 📉</span> | 506,265,300 |
+| **NTP** | 71.8 | 39.96 | **63.8** | <span style='color:green;'>23.17% 📈</span> | 83,908,214 |
+| **NVL** | 19.3 | 7.88 | **14.15** | <span style='color:green;'>36.71% 📈</span> | 4,209,969,300 |
+| **OCB** | 15.4 | 7.8 | **12.3** | <span style='color:green;'>26.15% 📈</span> | 1,103,032,583 |
+| **OIL** | 13.43 | 7.94 | **11.0** | <span style='color:red;'>-6.46% 📉</span> | 300,308,421 |
+| **ORS** | 17.0 | 7.19 | **14.1** | <span style='color:green;'>0.00% 📈</span> | 1,546,374,600 |
+| **PAN** | 35.6 | 20.1 | **28.75** | <span style='color:green;'>22.86% 📈</span> | 336,084,135 |
+| **PC1** | 28.26 | 16.0 | **22.05** | <span style='color:green;'>9.76% 📈</span> | 698,063,164 |
+| **PDR** | 27.2 | 13.93 | **22.2** | <span style='color:green;'>15.81% 📈</span> | 3,162,703,933 |
+| **PET** | 41.3 | 16.7 | **32.75** | <span style='color:green;'>29.96% 📈</span> | 283,834,500 |
+| **PHC** | 6.6 | 4.36 | **5.04** | <span style='color:red;'>-10.95% 📉</span> | 26,815,500 |
+| **PHP** | 58.89 | 23.89 | **35.0** | <span style='color:red;'>-15.23% 📉</span> | 53,023,573 |
+| **PHR** | 67.36 | 38.07 | **57.1** | <span style='color:green;'>10.15% 📈</span> | 124,700,483 |
+| **PLC** | 31.7 | 17.27 | **26.4** | <span style='color:green;'>19.03% 📈</span> | 104,068,379 |
+| **PLX** | 43.11 | 29.95 | **34.5** | <span style='color:red;'>-6.05% 📉</span> | 381,594,841 |
+| **PNJ** | 97.78 | 61.78 | **90.0** | <span style='color:red;'>-6.07% 📉</span> | 183,711,083 |
+| **POW** | 17.45 | 9.92 | **14.9** | <span style='color:green;'>24.17% 📈</span> | 2,189,296,400 |
+| **PPC** | 13.15 | 10.1 | **10.65** | <span style='color:red;'>-4.91% 📉</span> | 115,945,835 |
+| **PPH** | 31.42 | 22.09 | **29.6** | <span style='color:green;'>2.49% 📈</span> | 6,717,027 |
+| **PTB** | 65.63 | 43.46 | **51.0** | <span style='color:red;'>-20.88% 📉</span> | 36,189,365 |
+| **PVC** | 13.8 | 7.4 | **11.3** | <span style='color:green;'>8.65% 📈</span> | 295,568,900 |
+| **PVD** | 27.3 | 16.23 | **26.7** | <span style='color:green;'>16.19% 📈</span> | 1,467,157,130 |
+| **PVI** | 92.0 | 48.8 | **90.0** | <span style='color:green;'>53.19% 📈</span> | 11,827,038 |
+| **PVP** | 17.21 | 11.36 | **14.15** | <span style='color:red;'>-15.47% 📉</span> | 47,002,975 |
+| **PVS** | 39.0 | 21.4 | **35.2** | <span style='color:green;'>3.83% 📈</span> | 1,117,498,700 |
+| **PVT** | 21.52 | 14.09 | **18.5** | <span style='color:red;'>-11.99% 📉</span> | 625,016,828 |
+| **PXI** | 2.7 | 1.1 | **1.1** | <span style='color:red;'>-42.11% 📉</span> | 11,062,200 |
+| **QNS** | 49.1 | 40.81 | **44.2** | <span style='color:red;'>-6.55% 📉</span> | 60,503,728 |
+| **QTP** | 13.99 | 11.92 | **12.7** | <span style='color:red;'>-6.55% 📉</span> | 81,014,196 |
+| **S99** | 12.8 | 5.52 | **9.4** | <span style='color:green;'>23.36% 📈</span> | 46,908,230 |
+| **SAB** | 52.49 | 39.04 | **47.1** | <span style='color:red;'>-10.27% 📉</span> | 230,873,752 |
+| **SAS** | 50.56 | 25.75 | **33.0** | <span style='color:red;'>-4.24% 📉</span> | 11,171,042 |
+| **SBS** | 7.9 | 3.3 | **5.5** | <span style='color:green;'>17.02% 📈</span> | 414,999,500 |
+| **SBT** | 27.6 | 10.86 | **25.25** | <span style='color:green;'>112.01% 📈</span> | 378,850,160 |
+| **SCI** | 11.9 | 5.7 | **9.4** | <span style='color:green;'>18.99% 📈</span> | 12,134,500 |
+| **SCR** | 10.5 | 5.07 | **8.78** | <span style='color:green;'>52.96% 📈</span> | 1,243,486,600 |
+| **SCS** | 79.67 | 49.52 | **55.0** | <span style='color:red;'>-28.48% 📉</span> | 82,411,884 |
+| **SGN** | 101.21 | 58.92 | **61.4** | <span style='color:red;'>-24.67% 📉</span> | 7,488,812 |
+| **SGR** | 41.15 | 18.85 | **20.55** | <span style='color:red;'>-44.53% 📉</span> | 68,602,100 |
+| **SGT** | 22.15 | 15.0 | **16.55** | <span style='color:red;'>-4.06% 📉</span> | 16,452,500 |
+| **SHB** | 19.45 | 7.72 | **16.35** | <span style='color:green;'>106.70% 📈</span> | 15,063,954,317 |
+| **SHS** | 30.0 | 8.54 | **22.6** | <span style='color:green;'>124.65% 📈</span> | 4,754,955,257 |
+| **SIP** | 81.61 | 48.12 | **59.0** | <span style='color:red;'>-17.03% 📉</span> | 131,381,856 |
+| **SKG** | 12.36 | 8.55 | **10.25** | <span style='color:red;'>-5.36% 📉</span> | 57,420,008 |
+| **SLS** | 197.2 | 152.0 | **166.0** | <span style='color:red;'>-2.10% 📉</span> | 1,848,782 |
+| **SMC** | 16.9 | 5.7 | **13.25** | <span style='color:green;'>58.49% 📈</span> | 158,495,700 |
+| **SSH** | 134.2 | 66.5 | **79.0** | <span style='color:green;'>18.26% 📈</span> | 5,443,400 |
+| **SSI** | 43.3 | 20.09 | **34.95** | <span style='color:green;'>37.60% 📈</span> | 7,262,451,687 |
+| **STB** | 61.3 | 32.4 | **48.05** | <span style='color:green;'>30.04% 📈</span> | 2,484,728,200 |
+| **STK** | 19.31 | 12.93 | **16.9** | <span style='color:red;'>-1.57% 📉</span> | 10,929,163 |
+| **SZC** | 45.87 | 26.92 | **32.0** | <span style='color:red;'>-22.54% 📉</span> | 447,045,016 |
+| **TCB** | 42.0 | 21.72 | **35.1** | <span style='color:green;'>46.19% 📈</span> | 4,161,126,512 |
 | **TCD** | 4.8 | 1.65 | **1.89** | <span style='color:red;'>-59.35% 📉</span> | 332,240,600 |
-| **TCH** | 26.25 | 11.46 | **21.0** | <span style='color:green;'>60.92% 📈</span> | 1,794,290,399 |
-| **TCI** | 13.55 | 7.49 | **10.1** | <span style='color:green;'>13.48% 📈</span> | 85,402,200 |
-| **TCL** | 42.04 | 31.42 | **34.45** | <span style='color:green;'>4.93% 📈</span> | 25,266,891 |
-| **TCM** | 43.11 | 24.55 | **27.9** | <span style='color:red;'>-35.07% 📉</span> | 394,594,727 |
-| **TCX** | 51.0 | 42.1 | **43.3** | <span style='color:red;'>-13.05% 📉</span> | 51,248,100 |
-| **TDC** | 14.8 | 9.49 | **11.85** | <span style='color:green;'>3.04% 📈</span> | 216,267,800 |
-| **TDM** | 61.0 | 47.93 | **56.4** | <span style='color:green;'>16.26% 📈</span> | 3,044,945 |
-| **TIG** | 13.5 | 5.5 | **7.8** | <span style='color:red;'>-40.91% 📉</span> | 352,692,700 |
-| **TIP** | 21.62 | 15.28 | **18.4** | <span style='color:red;'>-7.35% 📉</span> | 33,245,259 |
-| **TLD** | 8.6 | 5.12 | **8.05** | <span style='color:green;'>35.07% 📈</span> | 61,958,300 |
-| **TLH** | 6.7 | 4.06 | **5.33** | <span style='color:green;'>15.62% 📈</span> | 132,439,400 |
-| **TNG** | 23.96 | 12.32 | **19.3** | <span style='color:red;'>-16.56% 📉</span> | 280,114,318 |
-| **TNH** | 18.78 | 11.85 | **12.5** | <span style='color:red;'>-21.68% 📉</span> | 93,111,542 |
-| **TNT** | 9.5 | 4.13 | **8.0** | <span style='color:green;'>86.05% 📈</span> | 43,607,700 |
-| **TPB** | 21.71 | 9.85 | **16.5** | <span style='color:green;'>11.26% 📈</span> | 4,321,427,136 |
-| **TSC** | 3.52 | 2.31 | **2.92** | <span style='color:green;'>18.70% 📈</span> | 137,178,400 |
-| **TTF** | 3.57 | 2.31 | **2.83** | <span style='color:red;'>-10.73% 📉</span> | 281,141,900 |
-| **TTN** | 25.46 | 11.59 | **17.1** | <span style='color:red;'>-21.74% 📉</span> | 49,082,409 |
-| **TV2** | 43.7 | 27.3 | **34.3** | <span style='color:green;'>2.69% 📈</span> | 112,095,700 |
-| **TVB** | 11.15 | 5.93 | **8.87** | <span style='color:green;'>5.60% 📈</span> | 31,009,700 |
-| **TVN** | 9.7 | 5.2 | **7.8** | <span style='color:red;'>-1.27% 📉</span> | 119,818,200 |
-| **TVS** | 22.06 | 13.53 | **16.7** | <span style='color:red;'>-4.90% 📉</span> | 40,883,002 |
-| **VC2** | 10.6 | 6.4 | **6.7** | <span style='color:red;'>-30.21% 📉</span> | 136,074,200 |
-| **VC7** | 13.8 | 6.8 | **10.5** | <span style='color:red;'>-14.63% 📉</span> | 125,159,800 |
-| **VCB** | 70.09 | 51.63 | **59.3** | <span style='color:red;'>-2.52% 📉</span> | 1,059,306,577 |
-| **VCG** | 29.1 | 15.91 | **23.45** | <span style='color:green;'>44.22% 📈</span> | 2,491,726,074 |
-| **VCI** | 49.45 | 30.73 | **36.0** | <span style='color:green;'>9.06% 📈</span> | 2,125,081,702 |
-| **VCS** | 61.74 | 36.78 | **46.1** | <span style='color:red;'>-24.62% 📉</span> | 35,895,980 |
-| **VDS** | 26.6 | 12.05 | **18.25** | <span style='color:red;'>-3.95% 📉</span> | 574,064,130 |
-| **VEA** | 44.9 | 34.1 | **41.4** | <span style='color:green;'>4.02% 📈</span> | 123,137,700 |
-| **VGC** | 69.0 | 36.5 | **46.6** | <span style='color:green;'>3.56% 📈</span> | 277,745,400 |
-| **VGI** | 93.56 | 51.29 | **80.2** | <span style='color:red;'>-11.66% 📉</span> | 142,525,540 |
-| **VGS** | 35.5 | 17.55 | **27.6** | <span style='color:red;'>-1.74% 📉</span> | 252,566,887 |
-| **VGT** | 15.1 | 7.2 | **12.1** | <span style='color:red;'>-17.12% 📉</span> | 262,111,400 |
-| **VHC** | 70.55 | 42.28 | **56.0** | <span style='color:red;'>-18.84% 📉</span> | 286,687,574 |
-| **VHM** | 131.5 | 37.6 | **92.0** | <span style='color:green;'>129.43% 📈</span> | 1,505,605,600 |
-| **VIB** | 24.8 | 13.75 | **18.3** | <span style='color:green;'>10.11% 📈</span> | 2,253,325,907 |
-| **VIC** | 226.5 | 39.7 | **199.7** | <span style='color:green;'>393.09% 📈</span> | 992,986,100 |
-| **VIF** | 22.7 | 14.14 | **14.9** | <span style='color:red;'>-9.92% 📉</span> | 1,872,450 |
-| **VIG** | 8.9 | 5.4 | **5.9** | <span style='color:green;'>1.72% 📈</span> | 97,882,400 |
-| **VIP** | 15.39 | 10.51 | **12.7** | <span style='color:red;'>-3.13% 📉</span> | 78,767,572 |
-| **VIX** | 40.45 | 8.6 | **24.5** | <span style='color:green;'>161.47% 📈</span> | 8,788,125,230 |
-| **VJC** | 201.2 | 77.1 | **178.0** | <span style='color:green;'>77.82% 📈</span> | 288,039,400 |
-| **VLB** | 49.8 | 35.02 | **46.9** | <span style='color:green;'>17.93% 📈</span> | 17,502,059 |
-| **VLC** | 19.3 | 12.7 | **13.9** | <span style='color:red;'>-20.57% 📉</span> | 40,766,800 |
-| **VNA** | 25.99 | 15.7 | **17.5** | <span style='color:red;'>-17.22% 📉</span> | 1,192,352 |
-| **VND** | 27.35 | 10.91 | **18.9** | <span style='color:green;'>54.79% 📈</span> | 5,526,533,291 |
-| **VNE** | 8.62 | 2.32 | **6.03** | <span style='color:green;'>71.31% 📈</span> | 81,685,000 |
-| **VNM** | 63.23 | 47.42 | **57.6** | <span style='color:red;'>-1.82% 📉</span> | 946,527,327 |
-| **VOS** | 16.48 | 10.42 | **12.5** | <span style='color:red;'>-21.24% 📉</span> | 487,262,611 |
-| **VPB** | 38.9 | 14.75 | **27.5** | <span style='color:green;'>47.93% 📈</span> | 6,408,879,509 |
-| **VPG** | 13.2 | 6.08 | **6.35** | <span style='color:red;'>-46.86% 📉</span> | 133,991,600 |
-| **VPH** | 7.21 | 4.5 | **4.95** | <span style='color:red;'>-28.78% 📉</span> | 37,810,300 |
-| **VRE** | 45.2 | 16.1 | **31.35** | <span style='color:green;'>82.27% 📈</span> | 2,073,635,000 |
-| **VRG** | 28.7 | 12.21 | **17.4** | <span style='color:red;'>-19.78% 📉</span> | 8,106,364 |
-| **VSC** | 38.65 | 10.83 | **20.8** | <span style='color:green;'>68.56% 📈</span> | 2,009,009,714 |
-| **VTK** | 79.96 | 38.71 | **51.9** | <span style='color:red;'>-22.74% 📉</span> | 3,683,641 |
-| **VTO** | 16.55 | 9.99 | **11.65** | <span style='color:red;'>-14.78% 📉</span> | 111,166,249 |
-| **VTP** | 172.74 | 90.18 | **105.0** | <span style='color:red;'>-23.55% 📉</span> | 161,845,660 |
-| **YEG** | 17.98 | 10.4 | **12.0** | <span style='color:red;'>-24.43% 📉</span> | 774,522,395 |
+| **TCH** | 26.25 | 11.46 | **21.3** | <span style='color:green;'>63.22% 📈</span> | 1,814,100,999 |
+| **TCI** | 13.55 | 7.49 | **10.05** | <span style='color:green;'>12.92% 📈</span> | 86,615,300 |
+| **TCL** | 42.04 | 31.42 | **34.65** | <span style='color:green;'>5.54% 📈</span> | 25,406,491 |
+| **TCM** | 43.11 | 24.55 | **28.9** | <span style='color:red;'>-32.74% 📉</span> | 403,407,327 |
+| **TCX** | 51.0 | 42.1 | **44.1** | <span style='color:red;'>-11.45% 📉</span> | 62,217,200 |
+| **TDC** | 14.8 | 9.49 | **11.85** | <span style='color:green;'>3.04% 📈</span> | 217,181,500 |
+| **TDM** | 61.0 | 47.93 | **56.5** | <span style='color:green;'>16.47% 📈</span> | 3,046,745 |
+| **TIG** | 13.5 | 5.5 | **7.8** | <span style='color:red;'>-40.91% 📉</span> | 356,907,300 |
+| **TIP** | 21.62 | 15.28 | **18.7** | <span style='color:red;'>-5.84% 📉</span> | 33,519,759 |
+| **TLD** | 8.6 | 5.12 | **8.24** | <span style='color:green;'>38.26% 📈</span> | 62,970,200 |
+| **TLH** | 6.7 | 4.06 | **5.18** | <span style='color:green;'>12.36% 📈</span> | 133,340,400 |
+| **TNG** | 23.33 | 12.0 | **19.7** | <span style='color:red;'>-12.52% 📉</span> | 285,688,978 |
+| **TNH** | 18.78 | 11.85 | **12.35** | <span style='color:red;'>-22.62% 📉</span> | 93,879,642 |
+| **TNT** | 9.5 | 4.13 | **8.36** | <span style='color:green;'>94.42% 📈</span> | 44,787,800 |
+| **TPB** | 21.71 | 9.85 | **16.95** | <span style='color:green;'>14.30% 📈</span> | 4,350,067,077 |
+| **TSC** | 3.52 | 2.31 | **2.96** | <span style='color:green;'>20.33% 📈</span> | 138,004,000 |
+| **TTF** | 3.57 | 2.31 | **2.87** | <span style='color:red;'>-9.46% 📉</span> | 282,879,300 |
+| **TTN** | 25.46 | 11.59 | **17.4** | <span style='color:red;'>-20.37% 📉</span> | 49,914,109 |
+| **TV2** | 43.7 | 27.3 | **36.0** | <span style='color:green;'>7.78% 📈</span> | 112,986,700 |
+| **TVB** | 11.15 | 5.93 | **8.68** | <span style='color:green;'>3.33% 📈</span> | 31,106,400 |
+| **TVN** | 9.7 | 5.2 | **7.8** | <span style='color:red;'>-1.27% 📉</span> | 120,477,200 |
+| **TVS** | 22.06 | 13.53 | **16.75** | <span style='color:red;'>-4.61% 📉</span> | 41,214,002 |
+| **VC2** | 10.6 | 6.4 | **6.9** | <span style='color:red;'>-28.12% 📉</span> | 137,160,500 |
+| **VC7** | 13.8 | 6.8 | **10.7** | <span style='color:red;'>-13.01% 📉</span> | 125,808,500 |
+| **VCB** | 70.09 | 51.63 | **60.0** | <span style='color:red;'>-1.36% 📉</span> | 1,070,359,777 |
+| **VCG** | 29.1 | 15.91 | **24.1** | <span style='color:green;'>48.22% 📈</span> | 2,511,149,374 |
+| **VCI** | 49.45 | 30.73 | **35.75** | <span style='color:green;'>8.30% 📈</span> | 2,178,233,502 |
+| **VCS** | 61.74 | 36.78 | **47.5** | <span style='color:red;'>-22.33% 📉</span> | 36,178,380 |
+| **VDS** | 26.6 | 12.05 | **18.6** | <span style='color:red;'>-2.11% 📉</span> | 578,332,030 |
+| **VEA** | 44.9 | 34.1 | **41.6** | <span style='color:green;'>4.52% 📈</span> | 126,649,400 |
+| **VGC** | 65.74 | 34.78 | **46.55** | <span style='color:green;'>8.56% 📈</span> | 284,243,379 |
+| **VGI** | 93.56 | 51.29 | **81.6** | <span style='color:red;'>-10.12% 📉</span> | 148,947,040 |
+| **VGS** | 35.5 | 17.55 | **29.1** | <span style='color:green;'>3.60% 📈</span> | 255,426,387 |
+| **VGT** | 15.1 | 7.2 | **12.7** | <span style='color:red;'>-13.01% 📉</span> | 266,355,600 |
+| **VHC** | 70.55 | 42.28 | **58.6** | <span style='color:red;'>-15.07% 📉</span> | 291,925,774 |
+| **VHM** | 131.5 | 37.6 | **93.9** | <span style='color:green;'>134.16% 📈</span> | 1,532,713,300 |
+| **VIB** | 24.8 | 13.75 | **18.5** | <span style='color:green;'>11.31% 📈</span> | 2,267,911,607 |
+| **VIC** | 226.5 | 39.7 | **211.0** | <span style='color:green;'>420.99% 📈</span> | 1,009,027,900 |
+| **VIF** | 22.7 | 14.14 | **16.0** | <span style='color:red;'>-3.26% 📉</span> | 1,904,150 |
+| **VIG** | 8.9 | 5.4 | **6.0** | <span style='color:green;'>3.45% 📈</span> | 98,238,900 |
+| **VIP** | 15.39 | 10.51 | **12.9** | <span style='color:red;'>-1.60% 📉</span> | 79,022,172 |
+| **VIX** | 40.45 | 8.6 | **25.8** | <span style='color:green;'>175.35% 📈</span> | 9,025,995,930 |
+| **VJC** | 201.2 | 77.1 | **176.4** | <span style='color:green;'>76.22% 📈</span> | 297,613,900 |
+| **VLB** | 49.8 | 35.02 | **47.1** | <span style='color:green;'>18.43% 📈</span> | 17,642,859 |
+| **VLC** | 19.3 | 12.7 | **14.1** | <span style='color:red;'>-19.43% 📉</span> | 41,078,400 |
+| **VNA** | 25.99 | 15.7 | **17.7** | <span style='color:red;'>-16.27% 📉</span> | 1,194,952 |
+| **VND** | 27.35 | 10.91 | **19.65** | <span style='color:green;'>60.93% 📈</span> | 5,592,804,791 |
+| **VNE** | 8.62 | 2.32 | **6.25** | <span style='color:green;'>77.56% 📈</span> | 82,290,200 |
+| **VNM** | 63.3 | 47.42 | **62.8** | <span style='color:green;'>7.04% 📈</span> | 979,406,427 |
+| **VOS** | 16.48 | 10.42 | **12.9** | <span style='color:red;'>-18.71% 📉</span> | 490,293,911 |
+| **VPB** | 38.9 | 14.75 | **27.8** | <span style='color:green;'>49.54% 📈</span> | 6,481,436,709 |
+| **VPG** | 13.2 | 6.08 | **6.45** | <span style='color:red;'>-46.03% 📉</span> | 134,865,700 |
+| **VPH** | 7.21 | 4.5 | **4.95** | <span style='color:red;'>-28.78% 📉</span> | 38,013,000 |
+| **VRE** | 45.2 | 16.1 | **32.1** | <span style='color:green;'>86.63% 📈</span> | 2,112,741,900 |
+| **VRG** | 28.7 | 12.21 | **17.3** | <span style='color:red;'>-20.24% 📉</span> | 8,149,464 |
+| **VSC** | 38.65 | 10.83 | **22.25** | <span style='color:green;'>80.31% 📈</span> | 2,067,146,114 |
+| **VTK** | 79.96 | 38.71 | **51.4** | <span style='color:red;'>-23.49% 📉</span> | 3,702,141 |
+| **VTO** | 16.55 | 9.99 | **11.8** | <span style='color:red;'>-13.68% 📉</span> | 112,239,849 |
+| **VTP** | 172.74 | 90.18 | **106.3** | <span style='color:red;'>-22.60% 📉</span> | 164,193,860 |
+| **YEG** | 17.98 | 10.4 | **12.1** | <span style='color:red;'>-23.80% 📉</span> | 779,728,795 |
 
 ---
 
@@ -747,14 +747,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **1,599.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **1,635.46** |
 | Period Open | 1,268.96 |
 | Period High | 1,794.58 |
 | Period Low | 1,073.61 |
-| Period Change % | 26.02% |
+| Period Change % | 28.88% |
 
-**[Download VNINDEX Data (.csv)](market_data/VNINDEX_2025-01-02_to_2025-11-09.csv)**
+**[Download VNINDEX Data (.csv)](market_data/VNINDEX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -774,14 +774,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **7.95** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **7.9** |
 | Period Open | 8.38 |
 | Period High | 8.93 |
 | Period Low | 6.15 |
-| Period Change % | -5.13% |
+| Period Change % | -5.73% |
 
-**[Download AAA Data (.csv)](market_data/AAA_2025-01-02_to_2025-11-09.csv)**
+**[Download AAA Data (.csv)](market_data/AAA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -801,14 +801,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **24.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **24.95** |
 | Period Open | 21.39 |
 | Period High | 29.5 |
 | Period Low | 17.34 |
-| Period Change % | 16.41% |
+| Period Change % | 16.64% |
 
-**[Download ACB Data (.csv)](market_data/ACB_2025-01-02_to_2025-11-09.csv)**
+**[Download ACB Data (.csv)](market_data/ACB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -828,14 +828,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **36.8** |
-| Period Open | 40.9 |
-| Period High | 41.88 |
-| Period Low | 31.97 |
-| Period Change % | -10.02% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **35.6** |
+| Period Open | 39.46 |
+| Period High | 40.4 |
+| Period Low | 30.85 |
+| Period Change % | -9.78% |
 
-**[Download ACG Data (.csv)](market_data/ACG_2025-01-02_to_2025-11-09.csv)**
+**[Download ACG Data (.csv)](market_data/ACG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -855,14 +855,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **13.2** |
 | Period Open | 11.85 |
 | Period High | 14.15 |
 | Period Low | 8.37 |
 | Period Change % | 11.39% |
 
-**[Download ACL Data (.csv)](market_data/ACL_2025-01-02_to_2025-11-09.csv)**
+**[Download ACL Data (.csv)](market_data/ACL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -882,14 +882,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **54.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **55.4** |
 | Period Open | 76.25 |
 | Period High | 78.32 |
 | Period Low | 45.27 |
-| Period Change % | -28.00% |
+| Period Change % | -27.34% |
 
-**[Download ACV Data (.csv)](market_data/ACV_2025-01-02_to_2025-11-09.csv)**
+**[Download ACV Data (.csv)](market_data/ACV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -909,14 +909,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.34** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.23** |
 | Period Open | 8.2 |
 | Period High | 10.1 |
 | Period Low | 6.63 |
-| Period Change % | 1.71% |
+| Period Change % | 0.37% |
 
-**[Download ADS Data (.csv)](market_data/ADS_2025-01-02_to_2025-11-09.csv)**
+**[Download ADS Data (.csv)](market_data/ADS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -936,14 +936,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.0** |
 | Period Open | 15.65 |
 | Period High | 22.1 |
 | Period Low | 14.15 |
-| Period Change % | 0.32% |
+| Period Change % | 2.24% |
 
-**[Download AGG Data (.csv)](market_data/AGG_2025-01-02_to_2025-11-09.csv)**
+**[Download AGG Data (.csv)](market_data/AGG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -963,14 +963,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.45** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **15.8** |
 | Period Open | 15.99 |
 | Period High | 20.8 |
 | Period Low | 12.78 |
-| Period Change % | -3.38% |
+| Period Change % | -1.19% |
 
-**[Download AGR Data (.csv)](market_data/AGR_2025-01-02_to_2025-11-09.csv)**
+**[Download AGR Data (.csv)](market_data/AGR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -990,14 +990,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **27.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **28.4** |
 | Period Open | 19.22 |
 | Period High | 33.4 |
 | Period Low | 12.0 |
-| Period Change % | 41.52% |
+| Period Change % | 47.76% |
 
-**[Download ANV Data (.csv)](market_data/ANV_2025-01-02_to_2025-11-09.csv)**
+**[Download ANV Data (.csv)](market_data/ANV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1017,14 +1017,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.15** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.05** |
 | Period Open | 6.7 |
 | Period High | 13.45 |
 | Period Low | 5.75 |
-| Period Change % | 66.42% |
+| Period Change % | 64.93% |
 
-**[Download APG Data (.csv)](market_data/APG_2025-01-02_to_2025-11-09.csv)**
+**[Download APG Data (.csv)](market_data/APG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1044,14 +1044,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.25** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.23** |
 | Period Open | 7.03 |
 | Period High | 7.6 |
 | Period Low | 5.71 |
-| Period Change % | -11.10% |
+| Period Change % | -11.38% |
 
-**[Download APH Data (.csv)](market_data/APH_2025-01-02_to_2025-11-09.csv)**
+**[Download APH Data (.csv)](market_data/APH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1071,14 +1071,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **8.2** |
 | Period Open | 6.5 |
 | Period High | 14.2 |
 | Period Low | 4.4 |
 | Period Change % | 26.15% |
 
-**[Download APS Data (.csv)](market_data/APS_2025-01-02_to_2025-11-09.csv)**
+**[Download APS Data (.csv)](market_data/APS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1098,14 +1098,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.84** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.89** |
 | Period Open | 7.78 |
 | Period High | 8.67 |
 | Period Low | 5.35 |
-| Period Change % | -12.08% |
+| Period Change % | -11.44% |
 
-**[Download ASM Data (.csv)](market_data/ASM_2025-01-02_to_2025-11-09.csv)**
+**[Download ASM Data (.csv)](market_data/ASM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1125,14 +1125,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **31.75** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **32.25** |
 | Period Open | 28.1 |
 | Period High | 38.8 |
 | Period Low | 26.0 |
-| Period Change % | 12.99% |
+| Period Change % | 14.77% |
 
-**[Download BAF Data (.csv)](market_data/BAF_2025-01-02_to_2025-11-09.csv)**
+**[Download BAF Data (.csv)](market_data/BAF_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1152,14 +1152,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **7.7** |
 | Period Open | 7.2 |
 | Period High | 9.9 |
 | Period Low | 5.8 |
 | Period Change % | 6.94% |
 
-**[Download BCC Data (.csv)](market_data/BCC_2025-01-02_to_2025-11-09.csv)**
+**[Download BCC Data (.csv)](market_data/BCC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1179,14 +1179,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.5** |
 | Period Open | 8.5 |
 | Period High | 12.3 |
 | Period Low | 8.2 |
-| Period Change % | 25.29% |
+| Period Change % | 23.53% |
 
-**[Download BCE Data (.csv)](market_data/BCE_2025-01-02_to_2025-11-09.csv)**
+**[Download BCE Data (.csv)](market_data/BCE_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1213,7 +1213,7 @@
 | Period Low | 2.43 |
 | Period Change % | -60.16% |
 
-**[Download BCG Data (.csv)](market_data/BCG_2025-01-02_to_2025-11-09.csv)**
+**[Download BCG Data (.csv)](market_data/BCG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1233,14 +1233,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **68.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **67.5** |
 | Period Open | 70.0 |
 | Period High | 82.4 |
 | Period Low | 49.8 |
-| Period Change % | -2.86% |
+| Period Change % | -3.57% |
 
-**[Download BCM Data (.csv)](market_data/BCM_2025-01-02_to_2025-11-09.csv)**
+**[Download BCM Data (.csv)](market_data/BCM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1260,14 +1260,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **44.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **46.0** |
 | Period Open | 38.19 |
 | Period High | 51.1 |
 | Period Low | 30.86 |
-| Period Change % | 15.21% |
+| Period Change % | 20.45% |
 
-**[Download BFC Data (.csv)](market_data/BFC_2025-01-02_to_2025-11-09.csv)**
+**[Download BFC Data (.csv)](market_data/BFC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1287,14 +1287,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **24.15** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **23.95** |
 | Period Open | 18.98 |
 | Period High | 32.83 |
 | Period Low | 16.61 |
-| Period Change % | 27.24% |
+| Period Change % | 26.19% |
 
-**[Download BIC Data (.csv)](market_data/BIC_2025-01-02_to_2025-11-09.csv)**
+**[Download BIC Data (.csv)](market_data/BIC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1314,14 +1314,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **37.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **38.35** |
 | Period Open | 37.78 |
 | Period High | 44.6 |
 | Period Low | 30.86 |
-| Period Change % | -0.74% |
+| Period Change % | 1.51% |
 
-**[Download BID Data (.csv)](market_data/BID_2025-01-02_to_2025-11-09.csv)**
+**[Download BID Data (.csv)](market_data/BID_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1341,14 +1341,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.75** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.35** |
 | Period Open | 20.18 |
 | Period High | 31.26 |
 | Period Low | 16.0 |
-| Period Change % | -17.00% |
+| Period Change % | -18.98% |
 
-**[Download BMC Data (.csv)](market_data/BMC_2025-01-02_to_2025-11-09.csv)**
+**[Download BMC Data (.csv)](market_data/BMC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1368,14 +1368,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **19.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **19.25** |
 | Period Open | 18.08 |
 | Period High | 21.85 |
 | Period Low | 14.85 |
-| Period Change % | 9.51% |
+| Period Change % | 6.47% |
 
-**[Download BMI Data (.csv)](market_data/BMI_2025-01-02_to_2025-11-09.csv)**
+**[Download BMI Data (.csv)](market_data/BMI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1395,14 +1395,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **169.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **170.9** |
 | Period Open | 125.61 |
 | Period High | 180.0 |
 | Period Low | 95.93 |
-| Period Change % | 34.94% |
+| Period Change % | 36.06% |
 
-**[Download BMP Data (.csv)](market_data/BMP_2025-01-02_to_2025-11-09.csv)**
+**[Download BMP Data (.csv)](market_data/BMP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1422,14 +1422,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.9** |
 | Period Open | 8.47 |
 | Period High | 15.9 |
 | Period Low | 8.47 |
-| Period Change % | 51.12% |
+| Period Change % | 52.30% |
 
-**[Download BMS Data (.csv)](market_data/BMS_2025-01-02_to_2025-11-09.csv)**
+**[Download BMS Data (.csv)](market_data/BMS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1449,14 +1449,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **40.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **41.45** |
 | Period Open | 44.14 |
 | Period High | 58.3 |
 | Period Low | 37.95 |
-| Period Change % | -8.25% |
+| Period Change % | -6.09% |
 
-**[Download BSI Data (.csv)](market_data/BSI_2025-01-02_to_2025-11-09.csv)**
+**[Download BSI Data (.csv)](market_data/BSI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1476,14 +1476,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.95** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.0** |
 | Period Open | 14.12 |
 | Period High | 19.47 |
 | Period Low | 9.01 |
-| Period Change % | 12.96% |
+| Period Change % | 13.31% |
 
-**[Download BSR Data (.csv)](market_data/BSR_2025-01-02_to_2025-11-09.csv)**
+**[Download BSR Data (.csv)](market_data/BSR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1503,14 +1503,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **2.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **2.8** |
 | Period Open | 2.7 |
 | Period High | 3.6 |
 | Period Low | 2.4 |
-| Period Change % | 7.41% |
+| Period Change % | 3.70% |
 
-**[Download BTN Data (.csv)](market_data/BTN_2025-01-02_to_2025-11-09.csv)**
+**[Download BTN Data (.csv)](market_data/BTN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1530,14 +1530,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **5.3** |
 | Period Open | 5.0 |
 | Period High | 5.8 |
 | Period Low | 4.5 |
 | Period Change % | 6.00% |
 
-**[Download BTS Data (.csv)](market_data/BTS_2025-01-02_to_2025-11-09.csv)**
+**[Download BTS Data (.csv)](market_data/BTS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1557,14 +1557,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **52.0** |
-| Period Open | 51.2 |
-| Period High | 65.5 |
-| Period Low | 39.1 |
-| Period Change % | 1.56% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **55.3** |
+| Period Open | 50.24 |
+| Period High | 64.27 |
+| Period Low | 38.36 |
+| Period Change % | 10.07% |
 
-**[Download BVH Data (.csv)](market_data/BVH_2025-01-02_to_2025-11-09.csv)**
+**[Download BVH Data (.csv)](market_data/BVH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1584,14 +1584,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **33.3** |
-| Period Open | 37.0 |
-| Period High | 45.0 |
-| Period Low | 26.5 |
-| Period Change % | -10.00% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **33.0** |
+| Period Open | 36.23 |
+| Period High | 43.94 |
+| Period Low | 25.88 |
+| Period Change % | -8.92% |
 
-**[Download BVS Data (.csv)](market_data/BVS_2025-01-02_to_2025-11-09.csv)**
+**[Download BVS Data (.csv)](market_data/BVS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1611,14 +1611,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **47.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **47.3** |
 | Period Open | 46.38 |
 | Period High | 54.3 |
 | Period Low | 38.0 |
-| Period Change % | 1.34% |
+| Period Change % | 1.98% |
 
-**[Download BWE Data (.csv)](market_data/BWE_2025-01-02_to_2025-11-09.csv)**
+**[Download BWE Data (.csv)](market_data/BWE_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1638,14 +1638,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **9.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **9.99** |
 | Period Open | 6.1 |
 | Period High | 13.25 |
 | Period Low | 5.57 |
-| Period Change % | 62.30% |
+| Period Change % | 63.77% |
 
-**[Download C47 Data (.csv)](market_data/C47_2025-01-02_to_2025-11-09.csv)**
+**[Download C47 Data (.csv)](market_data/C47_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1665,14 +1665,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.5** |
 | Period Open | 7.9 |
 | Period High | 10.9 |
 | Period Low | 5.6 |
-| Period Change % | 3.80% |
+| Period Change % | 7.59% |
 
-**[Download C4G Data (.csv)](market_data/C4G_2025-01-02_to_2025-11-09.csv)**
+**[Download C4G Data (.csv)](market_data/C4G_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1692,14 +1692,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.3** |
 | Period Open | 6.6 |
 | Period High | 14.8 |
 | Period Low | 5.5 |
-| Period Change % | 77.27% |
+| Period Change % | 86.36% |
 
-**[Download C69 Data (.csv)](market_data/C69_2025-01-02_to_2025-11-09.csv)**
+**[Download C69 Data (.csv)](market_data/C69_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1719,14 +1719,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **23.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **25.8** |
 | Period Open | 12.29 |
 | Period High | 32.9 |
 | Period Low | 9.81 |
-| Period Change % | 93.65% |
+| Period Change % | 109.93% |
 
-**[Download CEO Data (.csv)](market_data/CEO_2025-01-02_to_2025-11-09.csv)**
+**[Download CEO Data (.csv)](market_data/CEO_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1746,14 +1746,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.97** |
 | Period Open | 8.16 |
 | Period High | 10.35 |
 | Period Low | 6.86 |
-| Period Change % | 7.84% |
+| Period Change % | 9.93% |
 
-**[Download CIG Data (.csv)](market_data/CIG_2025-01-02_to_2025-11-09.csv)**
+**[Download CIG Data (.csv)](market_data/CIG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1773,14 +1773,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **22.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **25.15** |
 | Period Open | 12.02 |
 | Period High | 31.35 |
 | Period Low | 9.02 |
-| Period Change % | 89.68% |
+| Period Change % | 109.23% |
 
-**[Download CII Data (.csv)](market_data/CII_2025-01-02_to_2025-11-09.csv)**
+**[Download CII Data (.csv)](market_data/CII_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1800,14 +1800,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.8** |
 | Period Open | 17.71 |
 | Period High | 17.71 |
 | Period Low | 10.74 |
-| Period Change % | -36.19% |
+| Period Change % | -33.37% |
 
-**[Download CKG Data (.csv)](market_data/CKG_2025-01-02_to_2025-11-09.csv)**
+**[Download CKG Data (.csv)](market_data/CKG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1827,14 +1827,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.0** |
 | Period Open | 16.2 |
 | Period High | 19.94 |
 | Period Low | 12.08 |
-| Period Change % | -0.62% |
+| Period Change % | -1.23% |
 
-**[Download CLX Data (.csv)](market_data/CLX_2025-01-02_to_2025-11-09.csv)**
+**[Download CLX Data (.csv)](market_data/CLX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1854,14 +1854,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **38.85** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **38.1** |
 | Period Open | 49.5 |
 | Period High | 50.4 |
 | Period Low | 28.85 |
-| Period Change % | -21.52% |
+| Period Change % | -23.03% |
 
-**[Download CMG Data (.csv)](market_data/CMG_2025-01-02_to_2025-11-09.csv)**
+**[Download CMG Data (.csv)](market_data/CMG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1881,14 +1881,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.43** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.53** |
 | Period Open | 7.9 |
 | Period High | 8.55 |
 | Period Low | 6.03 |
-| Period Change % | -18.61% |
+| Period Change % | -17.34% |
 
-**[Download CMX Data (.csv)](market_data/CMX_2025-01-02_to_2025-11-09.csv)**
+**[Download CMX Data (.csv)](market_data/CMX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1908,14 +1908,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **25.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **25.6** |
 | Period Open | 29.53 |
 | Period High | 31.54 |
 | Period Low | 23.73 |
-| Period Change % | -15.17% |
+| Period Change % | -13.31% |
 
-**[Download CNG Data (.csv)](market_data/CNG_2025-01-02_to_2025-11-09.csv)**
+**[Download CNG Data (.csv)](market_data/CNG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1928,14 +1928,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-10-10 to 2025-11-07 |
-| **Latest Close** | **32.95** |
+| Date Range | 2025-10-10 to 2025-11-14 |
+| **Latest Close** | **32.5** |
 | Period Open | 31.2 |
 | Period High | 41.0 |
-| Period Low | 30.75 |
-| Period Change % | 5.61% |
+| Period Low | 30.5 |
+| Period Change % | 4.17% |
 
-**[Download CRV Data (.csv)](market_data/CRV_2025-01-02_to_2025-11-09.csv)**
+**[Download CRV Data (.csv)](market_data/CRV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1955,14 +1955,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.1** |
 | Period Open | 24.73 |
 | Period High | 26.9 |
 | Period Low | 15.55 |
-| Period Change % | -23.57% |
+| Period Change % | -26.81% |
 
-**[Download CSC Data (.csv)](market_data/CSC_2025-01-02_to_2025-11-09.csv)**
+**[Download CSC Data (.csv)](market_data/CSC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -1982,14 +1982,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **13.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **13.6** |
 | Period Open | 23.04 |
 | Period High | 23.61 |
 | Period Low | 13.0 |
-| Period Change % | -41.41% |
+| Period Change % | -40.97% |
 
-**[Download CST Data (.csv)](market_data/CST_2025-01-02_to_2025-11-09.csv)**
+**[Download CST Data (.csv)](market_data/CST_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2009,14 +2009,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **31.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **31.85** |
 | Period Open | 44.75 |
 | Period High | 46.21 |
 | Period Low | 27.63 |
-| Period Change % | -30.50% |
+| Period Change % | -28.83% |
 
-**[Download CSV Data (.csv)](market_data/CSV_2025-01-02_to_2025-11-09.csv)**
+**[Download CSV Data (.csv)](market_data/CSV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2036,14 +2036,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **84.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **88.0** |
 | Period Open | 68.8 |
 | Period High | 103.5 |
 | Period Low | 64.3 |
-| Period Change % | 23.11% |
+| Period Change % | 27.91% |
 
-**[Download CTD Data (.csv)](market_data/CTD_2025-01-02_to_2025-11-09.csv)**
+**[Download CTD Data (.csv)](market_data/CTD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2063,14 +2063,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **49.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **48.55** |
 | Period Open | 37.7 |
 | Period High | 56.05 |
 | Period Low | 33.53 |
-| Period Change % | 29.97% |
+| Period Change % | 28.78% |
 
-**[Download CTG Data (.csv)](market_data/CTG_2025-01-02_to_2025-11-09.csv)**
+**[Download CTG Data (.csv)](market_data/CTG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2090,14 +2090,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **22.55** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **23.3** |
 | Period Open | 19.3 |
 | Period High | 28.95 |
 | Period Low | 17.2 |
-| Period Change % | 16.84% |
+| Period Change % | 20.73% |
 
-**[Download CTI Data (.csv)](market_data/CTI_2025-01-02_to_2025-11-09.csv)**
+**[Download CTI Data (.csv)](market_data/CTI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2117,14 +2117,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **89.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **92.6** |
 | Period Open | 121.61 |
 | Period High | 133.03 |
 | Period Low | 72.13 |
-| Period Change % | -26.57% |
+| Period Change % | -23.85% |
 
-**[Download CTR Data (.csv)](market_data/CTR_2025-01-02_to_2025-11-09.csv)**
+**[Download CTR Data (.csv)](market_data/CTR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2144,14 +2144,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **35.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **35.35** |
 | Period Open | 24.9 |
 | Period High | 46.85 |
 | Period Low | 20.77 |
-| Period Change % | 40.96% |
+| Period Change % | 41.97% |
 
-**[Download CTS Data (.csv)](market_data/CTS_2025-01-02_to_2025-11-09.csv)**
+**[Download CTS Data (.csv)](market_data/CTS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2171,14 +2171,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **36.0** |
 | Period Open | 25.72 |
 | Period High | 40.0 |
 | Period Low | 24.9 |
-| Period Change % | 34.53% |
+| Period Change % | 39.97% |
 
-**[Download D2D Data (.csv)](market_data/D2D_2025-01-02_to_2025-11-09.csv)**
+**[Download D2D Data (.csv)](market_data/D2D_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2198,14 +2198,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **3.72** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **3.71** |
 | Period Open | 3.48 |
 | Period High | 4.46 |
 | Period Low | 2.66 |
-| Period Change % | 6.90% |
+| Period Change % | 6.61% |
 
-**[Download DAH Data (.csv)](market_data/DAH_2025-01-02_to_2025-11-09.csv)**
+**[Download DAH Data (.csv)](market_data/DAH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2225,14 +2225,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **25.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **26.15** |
 | Period Open | 24.44 |
 | Period High | 32.35 |
 | Period Low | 19.09 |
-| Period Change % | 2.70% |
+| Period Change % | 7.00% |
 
-**[Download DBC Data (.csv)](market_data/DBC_2025-01-02_to_2025-11-09.csv)**
+**[Download DBC Data (.csv)](market_data/DBC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2252,14 +2252,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **36.0** |
 | Period Open | 26.75 |
-| Period High | 36.0 |
+| Period High | 37.35 |
 | Period Low | 19.0 |
-| Period Change % | 28.97% |
+| Period Change % | 34.58% |
 
-**[Download DCL Data (.csv)](market_data/DCL_2025-01-02_to_2025-11-09.csv)**
+**[Download DCL Data (.csv)](market_data/DCL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2279,14 +2279,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **34.4** |
 | Period Open | 33.62 |
 | Period High | 43.85 |
 | Period Low | 23.38 |
-| Period Change % | 1.73% |
+| Period Change % | 2.32% |
 
-**[Download DCM Data (.csv)](market_data/DCM_2025-01-02_to_2025-11-09.csv)**
+**[Download DCM Data (.csv)](market_data/DCM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2306,14 +2306,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **29.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **29.5** |
 | Period Open | 19.17 |
 | Period High | 37.0 |
 | Period Low | 12.2 |
-| Period Change % | 52.84% |
+| Period Change % | 53.89% |
 
-**[Download DDV Data (.csv)](market_data/DDV_2025-01-02_to_2025-11-09.csv)**
+**[Download DDV Data (.csv)](market_data/DDV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2333,14 +2333,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **93.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **99.4** |
 | Period Open | 116.6 |
 | Period High | 117.3 |
 | Period Low | 73.1 |
-| Period Change % | -20.15% |
+| Period Change % | -14.75% |
 
-**[Download DGC Data (.csv)](market_data/DGC_2025-01-02_to_2025-11-09.csv)**
+**[Download DGC Data (.csv)](market_data/DGC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2360,14 +2360,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **38.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **39.95** |
 | Period Open | 39.84 |
 | Period High | 49.5 |
 | Period Low | 28.32 |
-| Period Change % | -3.36% |
+| Period Change % | 0.28% |
 
-**[Download DGW Data (.csv)](market_data/DGW_2025-01-02_to_2025-11-09.csv)**
+**[Download DGW Data (.csv)](market_data/DGW_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2387,14 +2387,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **56.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **57.8** |
 | Period Open | 40.38 |
-| Period High | 60.0 |
+| Period High | 60.3 |
 | Period Low | 32.23 |
-| Period Change % | 40.91% |
+| Period Change % | 43.14% |
 
-**[Download DHA Data (.csv)](market_data/DHA_2025-01-02_to_2025-11-09.csv)**
+**[Download DHA Data (.csv)](market_data/DHA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2414,14 +2414,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **32.85** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **33.8** |
 | Period Open | 29.65 |
 | Period High | 36.86 |
 | Period Low | 19.31 |
-| Period Change % | 10.79% |
+| Period Change % | 14.00% |
 
-**[Download DHC Data (.csv)](market_data/DHC_2025-01-02_to_2025-11-09.csv)**
+**[Download DHC Data (.csv)](market_data/DHC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2441,14 +2441,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **103.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **103.7** |
 | Period Open | 97.96 |
 | Period High | 110.0 |
 | Period Low | 82.1 |
-| Period Change % | 5.25% |
+| Period Change % | 5.86% |
 
-**[Download DHG Data (.csv)](market_data/DHG_2025-01-02_to_2025-11-09.csv)**
+**[Download DHG Data (.csv)](market_data/DHG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2468,14 +2468,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **76.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **75.0** |
 | Period Open | 86.36 |
 | Period High | 88.64 |
 | Period Low | 71.82 |
-| Period Change % | -11.53% |
+| Period Change % | -13.15% |
 
-**[Download DHT Data (.csv)](market_data/DHT_2025-01-02_to_2025-11-09.csv)**
+**[Download DHT Data (.csv)](market_data/DHT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2495,14 +2495,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **19.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **20.45** |
 | Period Open | 16.38 |
 | Period High | 25.1 |
 | Period Low | 11.8 |
-| Period Change % | 20.27% |
+| Period Change % | 24.85% |
 
-**[Download DIG Data (.csv)](market_data/DIG_2025-01-02_to_2025-11-09.csv)**
+**[Download DIG Data (.csv)](market_data/DIG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2522,14 +2522,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.5** |
 | Period Open | 5.1 |
 | Period High | 10.0 |
 | Period Low | 4.8 |
-| Period Change % | 9.80% |
+| Period Change % | 7.84% |
 
-**[Download DL1 Data (.csv)](market_data/DL1_2025-01-02_to_2025-11-09.csv)**
+**[Download DL1 Data (.csv)](market_data/DL1_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2549,14 +2549,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **42.55** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **44.2** |
 | Period Open | 28.32 |
 | Period High | 51.5 |
 | Period Low | 25.98 |
-| Period Change % | 50.25% |
+| Period Change % | 56.07% |
 
-**[Download DPG Data (.csv)](market_data/DPG_2025-01-02_to_2025-11-09.csv)**
+**[Download DPG Data (.csv)](market_data/DPG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2576,14 +2576,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **23.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **23.85** |
 | Period Open | 19.42 |
 | Period High | 29.9 |
 | Period Low | 15.19 |
-| Period Change % | 21.78% |
+| Period Change % | 22.81% |
 
-**[Download DPM Data (.csv)](market_data/DPM_2025-01-02_to_2025-11-09.csv)**
+**[Download DPM Data (.csv)](market_data/DPM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2603,14 +2603,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **36.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **38.0** |
 | Period Open | 37.04 |
 | Period High | 50.56 |
 | Period Low | 32.32 |
-| Period Change % | -0.92% |
+| Period Change % | 2.59% |
 
-**[Download DPR Data (.csv)](market_data/DPR_2025-01-02_to_2025-11-09.csv)**
+**[Download DPR Data (.csv)](market_data/DPR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2630,14 +2630,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **15.7** |
 | Period Open | 21.3 |
 | Period High | 22.12 |
 | Period Low | 13.23 |
-| Period Change % | -27.70% |
+| Period Change % | -26.29% |
 
-**[Download DRC Data (.csv)](market_data/DRC_2025-01-02_to_2025-11-09.csv)**
+**[Download DRC Data (.csv)](market_data/DRC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2657,14 +2657,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.7** |
 | Period Open | 7.62 |
 | Period High | 14.36 |
 | Period Low | 6.7 |
-| Period Change % | 4.99% |
+| Period Change % | 14.17% |
 
-**[Download DRG Data (.csv)](market_data/DRG_2025-01-02_to_2025-11-09.csv)**
+**[Download DRG Data (.csv)](market_data/DRG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2684,14 +2684,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.6** |
 | Period Open | 12.25 |
 | Period High | 16.39 |
 | Period Low | 7.81 |
-| Period Change % | -2.04% |
+| Period Change % | 2.86% |
 
-**[Download DRI Data (.csv)](market_data/DRI_2025-01-02_to_2025-11-09.csv)**
+**[Download DRI Data (.csv)](market_data/DRI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2711,14 +2711,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.85** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **15.6** |
 | Period Open | 13.59 |
 | Period High | 19.22 |
 | Period Low | 11.04 |
-| Period Change % | 16.63% |
+| Period Change % | 14.79% |
 
-**[Download DSC Data (.csv)](market_data/DSC_2025-01-02_to_2025-11-09.csv)**
+**[Download DSC Data (.csv)](market_data/DSC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2738,14 +2738,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **43.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **44.0** |
 | Period Open | 53.03 |
 | Period High | 53.03 |
-| Period Low | 43.3 |
-| Period Change % | -18.16% |
+| Period Low | 42.95 |
+| Period Change % | -17.03% |
 
-**[Download DSN Data (.csv)](market_data/DSN_2025-01-02_to_2025-11-09.csv)**
+**[Download DSN Data (.csv)](market_data/DSN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2765,14 +2765,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **9.0** |
 | Period Open | 5.6 |
 | Period High | 10.0 |
 | Period Low | 4.0 |
 | Period Change % | 60.71% |
 
-**[Download DST Data (.csv)](market_data/DST_2025-01-02_to_2025-11-09.csv)**
+**[Download DST Data (.csv)](market_data/DST_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2792,14 +2792,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.5** |
 | Period Open | 23.28 |
 | Period High | 23.7 |
 | Period Low | 11.64 |
-| Period Change % | -20.10% |
+| Period Change % | -20.53% |
 
-**[Download DTD Data (.csv)](market_data/DTD_2025-01-02_to_2025-11-09.csv)**
+**[Download DTD Data (.csv)](market_data/DTD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2819,14 +2819,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **20.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **20.6** |
 | Period Open | 24.0 |
 | Period High | 29.35 |
 | Period Low | 16.83 |
-| Period Change % | -14.58% |
+| Period Change % | -14.17% |
 
-**[Download DVN Data (.csv)](market_data/DVN_2025-01-02_to_2025-11-09.csv)**
+**[Download DVN Data (.csv)](market_data/DVN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2846,14 +2846,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **69.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **69.8** |
 | Period Open | 75.28 |
 | Period High | 82.71 |
 | Period Low | 62.97 |
-| Period Change % | -7.81% |
+| Period Change % | -7.28% |
 
-**[Download DVP Data (.csv)](market_data/DVP_2025-01-02_to_2025-11-09.csv)**
+**[Download DVP Data (.csv)](market_data/DVP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2873,14 +2873,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **19.25** |
 | Period Open | 12.79 |
 | Period High | 24.5 |
 | Period Low | 10.51 |
-| Period Change % | 47.77% |
+| Period Change % | 50.51% |
 
-**[Download DXG Data (.csv)](market_data/DXG_2025-01-02_to_2025-11-09.csv)**
+**[Download DXG Data (.csv)](market_data/DXG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2900,14 +2900,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.8** |
 | Period Open | 11.01 |
 | Period High | 12.2 |
 | Period Low | 7.5 |
-| Period Change % | -3.72% |
+| Period Change % | -1.91% |
 
-**[Download DXP Data (.csv)](market_data/DXP_2025-01-02_to_2025-11-09.csv)**
+**[Download DXP Data (.csv)](market_data/DXP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2927,14 +2927,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.45** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **21.35** |
 | Period Open | 19.25 |
 | Period High | 31.65 |
 | Period Low | 15.6 |
-| Period Change % | 11.43% |
+| Period Change % | 10.91% |
 
-**[Download EIB Data (.csv)](market_data/EIB_2025-01-02_to_2025-11-09.csv)**
+**[Download EIB Data (.csv)](market_data/EIB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2954,14 +2954,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **20.5** |
 | Period Open | 22.62 |
 | Period High | 26.24 |
 | Period Low | 17.43 |
-| Period Change % | -6.94% |
+| Period Change % | -9.37% |
 
-**[Download ELC Data (.csv)](market_data/ELC_2025-01-02_to_2025-11-09.csv)**
+**[Download ELC Data (.csv)](market_data/ELC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -2981,14 +2981,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.35** |
 | Period Open | 9.8 |
 | Period High | 12.1 |
 | Period Low | 7.88 |
-| Period Change % | 14.29% |
+| Period Change % | 15.82% |
 
-**[Download EVE Data (.csv)](market_data/EVE_2025-01-02_to_2025-11-09.csv)**
+**[Download EVE Data (.csv)](market_data/EVE_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3008,14 +3008,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.25** |
 | Period Open | 9.12 |
 | Period High | 16.5 |
 | Period Low | 7.94 |
-| Period Change % | 32.68% |
+| Period Change % | 34.32% |
 
-**[Download EVF Data (.csv)](market_data/EVF_2025-01-02_to_2025-11-09.csv)**
+**[Download EVF Data (.csv)](market_data/EVF_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3035,14 +3035,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **7.97** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.06** |
 | Period Open | 6.3 |
 | Period High | 12.15 |
 | Period Low | 4.86 |
-| Period Change % | 26.51% |
+| Period Change % | 27.94% |
 
-**[Download EVG Data (.csv)](market_data/EVG_2025-01-02_to_2025-11-09.csv)**
+**[Download EVG Data (.csv)](market_data/EVG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3062,14 +3062,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **6.1** |
 | Period Open | 5.7 |
 | Period High | 9.3 |
 | Period Low | 4.5 |
 | Period Change % | 7.02% |
 
-**[Download EVS Data (.csv)](market_data/EVS_2025-01-02_to_2025-11-09.csv)**
+**[Download EVS Data (.csv)](market_data/EVS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3089,14 +3089,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **14.75** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **15.15** |
 | Period Open | 14.45 |
 | Period High | 20.6 |
 | Period Low | 11.05 |
-| Period Change % | 2.08% |
+| Period Change % | 4.84% |
 
-**[Download FCN Data (.csv)](market_data/FCN_2025-01-02_to_2025-11-09.csv)**
+**[Download FCN Data (.csv)](market_data/FCN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3116,14 +3116,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-03 to 2025-11-07 |
+| Date Range | 2025-01-03 to 2025-11-14 |
 | **Latest Close** | **1.5** |
 | Period Open | 1.5 |
 | Period High | 2.4 |
 | Period Low | 1.3 |
 | Period Change % | 0.00% |
 
-**[Download FID Data (.csv)](market_data/FID_2025-01-02_to_2025-11-09.csv)**
+**[Download FID Data (.csv)](market_data/FID_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3143,14 +3143,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **4.55** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **4.64** |
 | Period Open | 4.22 |
 | Period High | 5.59 |
 | Period Low | 3.84 |
-| Period Change % | 7.82% |
+| Period Change % | 9.95% |
 
-**[Download FIT Data (.csv)](market_data/FIT_2025-01-02_to_2025-11-09.csv)**
+**[Download FIT Data (.csv)](market_data/FIT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3170,14 +3170,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **36.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **36.7** |
 | Period Open | 44.53 |
 | Period High | 47.56 |
 | Period Low | 30.7 |
-| Period Change % | -17.70% |
+| Period Change % | -17.58% |
 
-**[Download FMC Data (.csv)](market_data/FMC_2025-01-02_to_2025-11-09.csv)**
+**[Download FMC Data (.csv)](market_data/FMC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3197,14 +3197,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **62.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **61.0** |
 | Period Open | 61.25 |
 | Period High | 80.5 |
 | Period Low | 47.08 |
-| Period Change % | 1.22% |
+| Period Change % | -0.41% |
 
-**[Download FOX Data (.csv)](market_data/FOX_2025-01-02_to_2025-11-09.csv)**
+**[Download FOX Data (.csv)](market_data/FOX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3224,14 +3224,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **101.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **100.0** |
 | Period Open | 131.49 |
 | Period High | 134.5 |
 | Period Low | 84.32 |
-| Period Change % | -23.19% |
+| Period Change % | -23.95% |
 
-**[Download FPT Data (.csv)](market_data/FPT_2025-01-02_to_2025-11-09.csv)**
+**[Download FPT Data (.csv)](market_data/FPT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3251,14 +3251,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **139.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **146.0** |
 | Period Open | 148.48 |
 | Period High | 167.52 |
 | Period Low | 96.88 |
-| Period Change % | -6.05% |
+| Period Change % | -1.67% |
 
-**[Download FRT Data (.csv)](market_data/FRT_2025-01-02_to_2025-11-09.csv)**
+**[Download FRT Data (.csv)](market_data/FRT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3278,14 +3278,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **33.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **33.7** |
 | Period Open | 37.96 |
 | Period High | 46.85 |
 | Period Low | 30.7 |
-| Period Change % | -12.54% |
+| Period Change % | -11.22% |
 
-**[Download FTS Data (.csv)](market_data/FTS_2025-01-02_to_2025-11-09.csv)**
+**[Download FTS Data (.csv)](market_data/FTS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3305,14 +3305,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.5** |
-| Period Open | 6.6 |
-| Period High | 12.7 |
-| Period Low | 4.6 |
-| Period Change % | 28.79% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.4** |
+| Period Open | 6.3 |
+| Period High | 12.13 |
+| Period Low | 4.39 |
+| Period Change % | 33.33% |
 
-**[Download G36 Data (.csv)](market_data/G36_2025-01-02_to_2025-11-09.csv)**
+**[Download G36 Data (.csv)](market_data/G36_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3332,14 +3332,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **62.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **62.8** |
 | Period Open | 64.29 |
 | Period High | 69.28 |
 | Period Low | 47.82 |
-| Period Change % | -2.16% |
+| Period Change % | -2.32% |
 
-**[Download GAS Data (.csv)](market_data/GAS_2025-01-02_to_2025-11-09.csv)**
+**[Download GAS Data (.csv)](market_data/GAS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3359,14 +3359,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.3** |
 | Period Open | 19.85 |
 | Period High | 20.07 |
 | Period Low | 11.53 |
-| Period Change % | -17.38% |
+| Period Change % | -17.88% |
 
-**[Download GDA Data (.csv)](market_data/GDA_2025-01-02_to_2025-11-09.csv)**
+**[Download GDA Data (.csv)](market_data/GDA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3386,14 +3386,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **20.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **20.95** |
 | Period Open | 25.85 |
 | Period High | 25.9 |
 | Period Low | 16.74 |
-| Period Change % | -20.12% |
+| Period Change % | -18.96% |
 
-**[Download GDT Data (.csv)](market_data/GDT_2025-01-02_to_2025-11-09.csv)**
+**[Download GDT Data (.csv)](market_data/GDT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3413,14 +3413,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **15.1** |
 | Period Open | 11.95 |
 | Period High | 18.45 |
 | Period Low | 11.15 |
-| Period Change % | 25.52% |
+| Period Change % | 26.36% |
 
-**[Download GEG Data (.csv)](market_data/GEG_2025-01-02_to_2025-11-09.csv)**
+**[Download GEG Data (.csv)](market_data/GEG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3440,14 +3440,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **43.95** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **45.1** |
 | Period Open | 17.57 |
 | Period High | 65.7 |
 | Period Low | 16.42 |
-| Period Change % | 150.14% |
+| Period Change % | 156.69% |
 
-**[Download GEX Data (.csv)](market_data/GEX_2025-01-02_to_2025-11-09.csv)**
+**[Download GEX Data (.csv)](market_data/GEX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3467,14 +3467,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **15.5** |
 | Period Open | 20.8 |
 | Period High | 21.75 |
 | Period Low | 13.25 |
-| Period Change % | -27.88% |
+| Period Change % | -25.48% |
 
-**[Download GIL Data (.csv)](market_data/GIL_2025-01-02_to_2025-11-09.csv)**
+**[Download GIL Data (.csv)](market_data/GIL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3494,14 +3494,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **63.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **62.5** |
 | Period Open | 63.0 |
 | Period High | 74.5 |
 | Period Low | 40.84 |
-| Period Change % | 0.63% |
+| Period Change % | -0.79% |
 
-**[Download GMD Data (.csv)](market_data/GMD_2025-01-02_to_2025-11-09.csv)**
+**[Download GMD Data (.csv)](market_data/GMD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3521,14 +3521,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **27.8** |
-| Period Open | 30.5 |
-| Period High | 35.6 |
-| Period Low | 21.7 |
-| Period Change % | -8.85% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **28.4** |
+| Period Open | 30.07 |
+| Period High | 35.1 |
+| Period Low | 21.39 |
+| Period Change % | -5.55% |
 
-**[Download GVR Data (.csv)](market_data/GVR_2025-01-02_to_2025-11-09.csv)**
+**[Download GVR Data (.csv)](market_data/GVR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3548,14 +3548,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **17.65** |
 | Period Open | 12.15 |
 | Period High | 17.65 |
 | Period Low | 9.54 |
-| Period Change % | 30.86% |
+| Period Change % | 45.27% |
 
-**[Download HAG Data (.csv)](market_data/HAG_2025-01-02_to_2025-11-09.csv)**
+**[Download HAG Data (.csv)](market_data/HAG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3575,14 +3575,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **60.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **65.0** |
 | Period Open | 37.58 |
 | Period High | 68.32 |
 | Period Low | 34.2 |
-| Period Change % | 61.79% |
+| Period Change % | 72.96% |
 
-**[Download HAH Data (.csv)](market_data/HAH_2025-01-02_to_2025-11-09.csv)**
+**[Download HAH Data (.csv)](market_data/HAH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3602,14 +3602,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.76** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **7.44** |
 | Period Open | 4.5 |
-| Period High | 7.07 |
+| Period High | 7.49 |
 | Period Low | 4.19 |
-| Period Change % | 50.22% |
+| Period Change % | 65.33% |
 
-**[Download HAP Data (.csv)](market_data/HAP_2025-01-02_to_2025-11-09.csv)**
+**[Download HAP Data (.csv)](market_data/HAP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3629,14 +3629,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.45** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.8** |
 | Period Open | 15.91 |
 | Period High | 18.2 |
 | Period Low | 9.45 |
-| Period Change % | -34.32% |
+| Period Change % | -32.12% |
 
-**[Download HAX Data (.csv)](market_data/HAX_2025-01-02_to_2025-11-09.csv)**
+**[Download HAX Data (.csv)](market_data/HAX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3656,14 +3656,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.3** |
 | Period Open | 6.3 |
 | Period High | 8.9 |
 | Period Low | 5.0 |
-| Period Change % | -3.17% |
+| Period Change % | 0.00% |
 
-**[Download HBC Data (.csv)](market_data/HBC_2025-01-02_to_2025-11-09.csv)**
+**[Download HBC Data (.csv)](market_data/HBC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3683,14 +3683,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **7.55** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **7.84** |
 | Period Open | 8.84 |
 | Period High | 8.93 |
 | Period Low | 6.15 |
-| Period Change % | -14.59% |
+| Period Change % | -11.31% |
 
-**[Download HCD Data (.csv)](market_data/HCD_2025-01-02_to_2025-11-09.csv)**
+**[Download HCD Data (.csv)](market_data/HCD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3710,14 +3710,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **22.6** |
 | Period Open | 22.79 |
 | Period High | 30.4 |
 | Period Low | 17.84 |
-| Period Change % | -3.91% |
+| Period Change % | -0.83% |
 
-**[Download HCM Data (.csv)](market_data/HCM_2025-01-02_to_2025-11-09.csv)**
+**[Download HCM Data (.csv)](market_data/HCM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3737,14 +3737,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **30.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **29.85** |
 | Period Open | 25.45 |
 | Period High | 34.35 |
 | Period Low | 18.0 |
-| Period Change % | 17.88% |
+| Period Change % | 17.29% |
 
-**[Download HDB Data (.csv)](market_data/HDB_2025-01-02_to_2025-11-09.csv)**
+**[Download HDB Data (.csv)](market_data/HDB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3764,14 +3764,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **32.0** |
-| Period Open | 25.1 |
-| Period High | 42.3 |
-| Period Low | 20.7 |
-| Period Change % | 27.49% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **28.0** |
+| Period Open | 22.41 |
+| Period High | 37.77 |
+| Period Low | 18.48 |
+| Period Change % | 24.94% |
 
-**[Download HDC Data (.csv)](market_data/HDC_2025-01-02_to_2025-11-09.csv)**
+**[Download HDC Data (.csv)](market_data/HDC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3791,14 +3791,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **30.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **32.7** |
 | Period Open | 26.05 |
 | Period High | 36.4 |
 | Period Low | 17.91 |
-| Period Change % | 15.93% |
+| Period Change % | 25.53% |
 
-**[Download HDG Data (.csv)](market_data/HDG_2025-01-02_to_2025-11-09.csv)**
+**[Download HDG Data (.csv)](market_data/HDG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3818,14 +3818,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **14.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.8** |
 | Period Open | 7.43 |
 | Period High | 20.2 |
 | Period Low | 6.95 |
-| Period Change % | 91.12% |
+| Period Change % | 99.19% |
 
-**[Download HHS Data (.csv)](market_data/HHS_2025-01-02_to_2025-11-09.csv)**
+**[Download HHS Data (.csv)](market_data/HHS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3845,14 +3845,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **13.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **13.6** |
 | Period Open | 11.1 |
 | Period High | 17.35 |
 | Period Low | 9.26 |
-| Period Change % | 25.23% |
+| Period Change % | 22.52% |
 
-**[Download HHV Data (.csv)](market_data/HHV_2025-01-02_to_2025-11-09.csv)**
+**[Download HHV Data (.csv)](market_data/HHV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3872,14 +3872,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **3.98** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.35** |
 | Period Open | 2.63 |
-| Period High | 4.43 |
+| Period High | 5.35 |
 | Period Low | 2.33 |
-| Period Change % | 51.33% |
+| Period Change % | 103.42% |
 
-**[Download HID Data (.csv)](market_data/HID_2025-01-02_to_2025-11-09.csv)**
+**[Download HID Data (.csv)](market_data/HID_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3899,14 +3899,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.5** |
 | Period Open | 14.14 |
 | Period High | 20.0 |
 | Period Low | 9.74 |
-| Period Change % | 31.54% |
+| Period Change % | 30.83% |
 
-**[Download HLD Data (.csv)](market_data/HLD_2025-01-02_to_2025-11-09.csv)**
+**[Download HLD Data (.csv)](market_data/HLD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3926,14 +3926,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **4.8** |
 | Period Open | 3.7 |
 | Period High | 6.1 |
 | Period Low | 3.5 |
 | Period Change % | 29.73% |
 
-**[Download HOM Data (.csv)](market_data/HOM_2025-01-02_to_2025-11-09.csv)**
+**[Download HOM Data (.csv)](market_data/HOM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3953,14 +3953,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **26.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **26.9** |
 | Period Open | 22.25 |
 | Period High | 30.85 |
 | Period Low | 17.75 |
-| Period Change % | 17.08% |
+| Period Change % | 20.90% |
 
-**[Download HPG Data (.csv)](market_data/HPG_2025-01-02_to_2025-11-09.csv)**
+**[Download HPG Data (.csv)](market_data/HPG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -3980,14 +3980,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **3.11** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **3.07** |
 | Period Open | 3.16 |
 | Period High | 4.29 |
 | Period Low | 2.54 |
-| Period Change % | -1.58% |
+| Period Change % | -2.85% |
 
-**[Download HQC Data (.csv)](market_data/HQC_2025-01-02_to_2025-11-09.csv)**
+**[Download HQC Data (.csv)](market_data/HQC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4007,14 +4007,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.85** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **17.05** |
 | Period Open | 17.93 |
 | Period High | 21.2 |
 | Period Low | 12.4 |
-| Period Change % | -6.02% |
+| Period Change % | -4.91% |
 
-**[Download HSG Data (.csv)](market_data/HSG_2025-01-02_to_2025-11-09.csv)**
+**[Download HSG Data (.csv)](market_data/HSG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4034,14 +4034,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.2** |
 | Period Open | 11.78 |
 | Period High | 21.0 |
 | Period Low | 9.12 |
-| Period Change % | 34.97% |
+| Period Change % | 37.52% |
 
-**[Download HT1 Data (.csv)](market_data/HT1_2025-01-02_to_2025-11-09.csv)**
+**[Download HT1 Data (.csv)](market_data/HT1_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4061,14 +4061,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.88** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **9.29** |
 | Period Open | 10.2 |
 | Period High | 14.3 |
 | Period Low | 7.71 |
-| Period Change % | -12.94% |
+| Period Change % | -8.92% |
 
-**[Download HTN Data (.csv)](market_data/HTN_2025-01-02_to_2025-11-09.csv)**
+**[Download HTN Data (.csv)](market_data/HTN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4088,14 +4088,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.3** |
 | Period Open | 15.06 |
 | Period High | 21.1 |
 | Period Low | 10.62 |
-| Period Change % | 12.88% |
+| Period Change % | 21.51% |
 
-**[Download HUT Data (.csv)](market_data/HUT_2025-01-02_to_2025-11-09.csv)**
+**[Download HUT Data (.csv)](market_data/HUT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4115,14 +4115,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **30.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **29.2** |
 | Period Open | 22.78 |
 | Period High | 38.45 |
 | Period Low | 19.39 |
-| Period Change % | 33.45% |
+| Period Change % | 28.18% |
 
-**[Download HVN Data (.csv)](market_data/HVN_2025-01-02_to_2025-11-09.csv)**
+**[Download HVN Data (.csv)](market_data/HVN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4142,14 +4142,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **38.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **42.7** |
 | Period Open | 46.86 |
 | Period High | 48.9 |
 | Period Low | 26.87 |
-| Period Change % | -18.91% |
+| Period Change % | -8.88% |
 
-**[Download IDC Data (.csv)](market_data/IDC_2025-01-02_to_2025-11-09.csv)**
+**[Download IDC Data (.csv)](market_data/IDC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4169,14 +4169,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **7.09** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **7.3** |
 | Period Open | 8.25 |
 | Period High | 9.39 |
 | Period Low | 5.45 |
-| Period Change % | -14.06% |
+| Period Change % | -11.52% |
 
-**[Download IDI Data (.csv)](market_data/IDI_2025-01-02_to_2025-11-09.csv)**
+**[Download IDI Data (.csv)](market_data/IDI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4196,14 +4196,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.6** |
 | Period Open | 5.9 |
 | Period High | 8.5 |
 | Period Low | 3.6 |
-| Period Change % | -6.78% |
+| Period Change % | -5.08% |
 
-**[Download IDJ Data (.csv)](market_data/IDJ_2025-01-02_to_2025-11-09.csv)**
+**[Download IDJ Data (.csv)](market_data/IDJ_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4223,14 +4223,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **26.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **26.4** |
 | Period Open | 33.04 |
 | Period High | 35.5 |
 | Period Low | 22.6 |
-| Period Change % | -21.31% |
+| Period Change % | -20.10% |
 
-**[Download IDV Data (.csv)](market_data/IDV_2025-01-02_to_2025-11-09.csv)**
+**[Download IDV Data (.csv)](market_data/IDV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4250,14 +4250,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.45** |
 | Period Open | 11.43 |
 | Period High | 14.65 |
 | Period Low | 8.67 |
-| Period Change % | 4.99% |
+| Period Change % | 8.92% |
 
-**[Download IJC Data (.csv)](market_data/IJC_2025-01-02_to_2025-11-09.csv)**
+**[Download IJC Data (.csv)](market_data/IJC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4277,14 +4277,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **48.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **48.7** |
 | Period Open | 46.55 |
 | Period High | 56.5 |
 | Period Low | 35.75 |
-| Period Change % | 4.51% |
+| Period Change % | 4.62% |
 
-**[Download IMP Data (.csv)](market_data/IMP_2025-01-02_to_2025-11-09.csv)**
+**[Download IMP Data (.csv)](market_data/IMP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4304,14 +4304,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **19.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **19.5** |
 | Period Open | 11.9 |
 | Period High | 28.0 |
 | Period Low | 9.1 |
-| Period Change % | 59.66% |
+| Period Change % | 63.87% |
 
-**[Download IPA Data (.csv)](market_data/IPA_2025-01-02_to_2025-11-09.csv)**
+**[Download IPA Data (.csv)](market_data/IPA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4331,14 +4331,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **14.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.3** |
 | Period Open | 10.9 |
 | Period High | 18.1 |
 | Period Low | 8.91 |
-| Period Change % | 28.44% |
+| Period Change % | 31.19% |
 
-**[Download ITC Data (.csv)](market_data/ITC_2025-01-02_to_2025-11-09.csv)**
+**[Download ITC Data (.csv)](market_data/ITC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4358,14 +4358,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **7.2** |
 | Period Open | 3.77 |
 | Period High | 9.1 |
 | Period Low | 3.65 |
-| Period Change % | 112.20% |
+| Period Change % | 90.98% |
 
-**[Download JVC Data (.csv)](market_data/JVC_2025-01-02_to_2025-11-09.csv)**
+**[Download JVC Data (.csv)](market_data/JVC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4385,14 +4385,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **33.85** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **33.6** |
 | Period Open | 27.25 |
 | Period High | 43.1 |
 | Period Low | 20.05 |
-| Period Change % | 24.22% |
+| Period Change % | 23.30% |
 
-**[Download KBC Data (.csv)](market_data/KBC_2025-01-02_to_2025-11-09.csv)**
+**[Download KBC Data (.csv)](market_data/KBC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4412,14 +4412,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **52.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **52.7** |
 | Period Open | 59.0 |
 | Period High | 59.8 |
 | Period Low | 49.2 |
-| Period Change % | -11.86% |
+| Period Change % | -10.68% |
 
-**[Download KDC Data (.csv)](market_data/KDC_2025-01-02_to_2025-11-09.csv)**
+**[Download KDC Data (.csv)](market_data/KDC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4439,14 +4439,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **32.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **34.65** |
 | Period Open | 32.36 |
 | Period High | 38.1 |
 | Period Low | 22.05 |
-| Period Change % | 0.43% |
+| Period Change % | 7.08% |
 
-**[Download KDH Data (.csv)](market_data/KDH_2025-01-02_to_2025-11-09.csv)**
+**[Download KDH Data (.csv)](market_data/KDH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4466,14 +4466,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **7.86** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **7.6** |
 | Period Open | 5.5 |
 | Period High | 8.76 |
 | Period Low | 4.61 |
-| Period Change % | 42.91% |
+| Period Change % | 38.18% |
 
-**[Download KHG Data (.csv)](market_data/KHG_2025-01-02_to_2025-11-09.csv)**
+**[Download KHG Data (.csv)](market_data/KHG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4493,14 +4493,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.7** |
 | Period Open | 18.7 |
 | Period High | 22.45 |
 | Period Low | 13.95 |
-| Period Change % | -1.60% |
+| Period Change % | 0.00% |
 
-**[Download KSB Data (.csv)](market_data/KSB_2025-01-02_to_2025-11-09.csv)**
+**[Download KSB Data (.csv)](market_data/KSB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4520,14 +4520,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **156.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **154.1** |
 | Period Open | 95.43 |
 | Period High | 316.13 |
 | Period Low | 95.43 |
-| Period Change % | 63.78% |
+| Period Change % | 61.48% |
 
-**[Download KSV Data (.csv)](market_data/KSV_2025-01-02_to_2025-11-09.csv)**
+**[Download KSV Data (.csv)](market_data/KSV_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4547,14 +4547,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **25.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **26.9** |
 | Period Open | 32.75 |
 | Period High | 39.75 |
 | Period Low | 23.6 |
-| Period Change % | -21.83% |
+| Period Change % | -17.86% |
 
-**[Download L18 Data (.csv)](market_data/L18_2025-01-02_to_2025-11-09.csv)**
+**[Download L18 Data (.csv)](market_data/L18_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4574,14 +4574,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **16.8** |
 | Period Open | 18.28 |
 | Period High | 22.25 |
 | Period Low | 11.74 |
 | Period Change % | -8.10% |
 
-**[Download LAS Data (.csv)](market_data/LAS_2025-01-02_to_2025-11-09.csv)**
+**[Download LAS Data (.csv)](market_data/LAS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4601,14 +4601,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.4** |
 | Period Open | 9.63 |
 | Period High | 13.36 |
 | Period Low | 7.47 |
-| Period Change % | 4.36% |
+| Period Change % | 8.00% |
 
-**[Download LCG Data (.csv)](market_data/LCG_2025-01-02_to_2025-11-09.csv)**
+**[Download LCG Data (.csv)](market_data/LCG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4628,14 +4628,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **4.66** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **4.51** |
 | Period Open | 1.9 |
 | Period High | 7.22 |
 | Period Low | 1.6 |
-| Period Change % | 145.26% |
+| Period Change % | 137.37% |
 
-**[Download LDG Data (.csv)](market_data/LDG_2025-01-02_to_2025-11-09.csv)**
+**[Download LDG Data (.csv)](market_data/LDG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4655,14 +4655,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **29.85** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **30.8** |
 | Period Open | 33.52 |
 | Period High | 35.69 |
 | Period Low | 22.77 |
-| Period Change % | -10.95% |
+| Period Change % | -8.11% |
 
-**[Download LHG Data (.csv)](market_data/LHG_2025-01-02_to_2025-11-09.csv)**
+**[Download LHG Data (.csv)](market_data/LHG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4682,14 +4682,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **4.4** |
 | Period Open | 3.0 |
 | Period High | 5.8 |
 | Period Low | 2.4 |
 | Period Change % | 46.67% |
 
-**[Download LIG Data (.csv)](market_data/LIG_2025-01-02_to_2025-11-09.csv)**
+**[Download LIG Data (.csv)](market_data/LIG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4709,14 +4709,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **49.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **49.9** |
 | Period Open | 29.25 |
 | Period High | 54.7 |
 | Period Low | 27.01 |
-| Period Change % | 68.55% |
+| Period Change % | 70.60% |
 
-**[Download LPB Data (.csv)](market_data/LPB_2025-01-02_to_2025-11-09.csv)**
+**[Download LPB Data (.csv)](market_data/LPB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4736,14 +4736,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **9.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **9.57** |
 | Period Open | 10.74 |
 | Period High | 11.45 |
 | Period Low | 8.47 |
-| Period Change % | -11.55% |
+| Period Change % | -10.89% |
 
-**[Download LSS Data (.csv)](market_data/LSS_2025-01-02_to_2025-11-09.csv)**
+**[Download LSS Data (.csv)](market_data/LSS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4763,14 +4763,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-03 to 2025-11-07 |
-| **Latest Close** | **6.8** |
+| Date Range | 2025-01-03 to 2025-11-14 |
+| **Latest Close** | **7.0** |
 | Period Open | 7.6 |
 | Period High | 9.4 |
 | Period Low | 5.8 |
-| Period Change % | -10.53% |
+| Period Change % | -7.89% |
 
-**[Download LTG Data (.csv)](market_data/LTG_2025-01-02_to_2025-11-09.csv)**
+**[Download LTG Data (.csv)](market_data/LTG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4790,14 +4790,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **23.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **23.5** |
 | Period Open | 16.42 |
 | Period High | 29.5 |
 | Period Low | 14.6 |
-| Period Change % | 41.90% |
+| Period Change % | 43.12% |
 
-**[Download MBB Data (.csv)](market_data/MBB_2025-01-02_to_2025-11-09.csv)**
+**[Download MBB Data (.csv)](market_data/MBB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4817,14 +4817,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **28.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **30.1** |
 | Period Open | 25.04 |
 | Period High | 41.31 |
 | Period Low | 19.17 |
-| Period Change % | 13.82% |
+| Period Change % | 20.21% |
 
-**[Download MBS Data (.csv)](market_data/MBS_2025-01-02_to_2025-11-09.csv)**
+**[Download MBS Data (.csv)](market_data/MBS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4844,14 +4844,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **194.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **217.9** |
 | Period Open | 179.22 |
-| Period High | 198.0 |
+| Period High | 221.8 |
 | Period Low | 100.99 |
-| Period Change % | 8.69% |
+| Period Change % | 21.58% |
 
-**[Download MCH Data (.csv)](market_data/MCH_2025-01-02_to_2025-11-09.csv)**
+**[Download MCH Data (.csv)](market_data/MCH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4871,14 +4871,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **27.35** |
-| Period Open | 33.33 |
-| Period High | 33.33 |
-| Period Low | 24.3 |
-| Period Change % | -17.94% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **27.1** |
+| Period Open | 32.14 |
+| Period High | 32.14 |
+| Period Low | 23.43 |
+| Period Change % | -15.68% |
 
-**[Download MCM Data (.csv)](market_data/MCM_2025-01-02_to_2025-11-09.csv)**
+**[Download MCM Data (.csv)](market_data/MCM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4898,14 +4898,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **38.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **37.6** |
 | Period Open | 37.69 |
 | Period High | 67.48 |
 | Period Low | 32.43 |
-| Period Change % | 1.88% |
+| Period Change % | -0.24% |
 
-**[Download MFS Data (.csv)](market_data/MFS_2025-01-02_to_2025-11-09.csv)**
+**[Download MFS Data (.csv)](market_data/MFS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4925,14 +4925,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.5** |
 | Period Open | 6.65 |
 | Period High | 16.15 |
 | Period Low | 6.4 |
-| Period Change % | 75.94% |
+| Period Change % | 87.97% |
 
-**[Download MHC Data (.csv)](market_data/MHC_2025-01-02_to_2025-11-09.csv)**
+**[Download MHC Data (.csv)](market_data/MHC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4952,14 +4952,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **17.25** |
 | Period Open | 16.23 |
 | Period High | 19.39 |
 | Period Low | 13.17 |
-| Period Change % | 5.05% |
+| Period Change % | 6.28% |
 
-**[Download MIG Data (.csv)](market_data/MIG_2025-01-02_to_2025-11-09.csv)**
+**[Download MIG Data (.csv)](market_data/MIG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -4979,14 +4979,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.9** |
 | Period Open | 14.8 |
 | Period High | 18.1 |
 | Period Low | 8.8 |
-| Period Change % | 12.84% |
+| Period Change % | 14.19% |
 
-**[Download MPC Data (.csv)](market_data/MPC_2025-01-02_to_2025-11-09.csv)**
+**[Download MPC Data (.csv)](market_data/MPC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5006,14 +5006,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.05** |
 | Period Open | 9.67 |
 | Period High | 15.62 |
 | Period Low | 7.92 |
-| Period Change % | 25.13% |
+| Period Change % | 24.61% |
 
-**[Download MSB Data (.csv)](market_data/MSB_2025-01-02_to_2025-11-09.csv)**
+**[Download MSB Data (.csv)](market_data/MSB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5033,14 +5033,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **37.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **40.25** |
 | Period Open | 34.54 |
 | Period High | 41.87 |
 | Period Low | 25.17 |
-| Period Change % | 8.86% |
+| Period Change % | 16.53% |
 
-**[Download MSH Data (.csv)](market_data/MSH_2025-01-02_to_2025-11-09.csv)**
+**[Download MSH Data (.csv)](market_data/MSH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5060,14 +5060,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **76.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **78.0** |
 | Period Open | 70.1 |
 | Period High | 94.0 |
 | Period Low | 50.3 |
-| Period Change % | 9.56% |
+| Period Change % | 11.27% |
 
-**[Download MSN Data (.csv)](market_data/MSN_2025-01-02_to_2025-11-09.csv)**
+**[Download MSN Data (.csv)](market_data/MSN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5087,14 +5087,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **23.5** |
 | Period Open | 11.8 |
 | Period High | 31.8 |
 | Period Low | 10.4 |
-| Period Change % | 82.20% |
+| Period Change % | 99.15% |
 
-**[Download MSR Data (.csv)](market_data/MSR_2025-01-02_to_2025-11-09.csv)**
+**[Download MSR Data (.csv)](market_data/MSR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5114,14 +5114,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.4** |
 | Period Open | 6.27 |
 | Period High | 6.91 |
 | Period Low | 4.09 |
-| Period Change % | -12.28% |
+| Period Change % | -13.88% |
 
-**[Download MST Data (.csv)](market_data/MST_2025-01-02_to_2025-11-09.csv)**
+**[Download MST Data (.csv)](market_data/MST_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5141,14 +5141,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **76.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **81.4** |
 | Period Open | 60.04 |
 | Period High | 87.9 |
 | Period Low | 45.1 |
-| Period Change % | 27.42% |
+| Period Change % | 35.58% |
 
-**[Download MWG Data (.csv)](market_data/MWG_2025-01-02_to_2025-11-09.csv)**
+**[Download MWG Data (.csv)](market_data/MWG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5168,14 +5168,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **33.85** |
 | Period Open | 17.91 |
 | Period High | 35.1 |
 | Period Low | 15.41 |
-| Period Change % | 93.19% |
+| Period Change % | 89.00% |
 
-**[Download NAF Data (.csv)](market_data/NAF_2025-01-02_to_2025-11-09.csv)**
+**[Download NAF Data (.csv)](market_data/NAF_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5195,14 +5195,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **8.5** |
 | Period Open | 8.74 |
 | Period High | 12.07 |
 | Period Low | 7.79 |
 | Period Change % | -2.75% |
 
-**[Download NBC Data (.csv)](market_data/NBC_2025-01-02_to_2025-11-09.csv)**
+**[Download NBC Data (.csv)](market_data/NBC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5222,14 +5222,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **109.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **107.2** |
 | Period Open | 115.2 |
 | Period High | 117.3 |
 | Period Low | 89.6 |
-| Period Change % | -4.60% |
+| Period Change % | -6.94% |
 
-**[Download NCT Data (.csv)](market_data/NCT_2025-01-02_to_2025-11-09.csv)**
+**[Download NCT Data (.csv)](market_data/NCT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5249,14 +5249,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **11.9** |
 | Period Open | 8.53 |
 | Period High | 14.5 |
 | Period Low | 6.54 |
 | Period Change % | 39.51% |
 
-**[Download NDN Data (.csv)](market_data/NDN_2025-01-02_to_2025-11-09.csv)**
+**[Download NDN Data (.csv)](market_data/NDN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5276,14 +5276,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **20.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **20.45** |
 | Period Open | 25.18 |
 | Period High | 28.9 |
 | Period Low | 17.41 |
-| Period Change % | -20.37% |
+| Period Change % | -18.78% |
 
-**[Download NHA Data (.csv)](market_data/NHA_2025-01-02_to_2025-11-09.csv)**
+**[Download NHA Data (.csv)](market_data/NHA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5303,14 +5303,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.35** |
 | Period Open | 12.94 |
 | Period High | 14.0 |
 | Period Low | 9.7 |
-| Period Change % | -11.13% |
+| Period Change % | -12.29% |
 
-**[Download NHH Data (.csv)](market_data/NHH_2025-01-02_to_2025-11-09.csv)**
+**[Download NHH Data (.csv)](market_data/NHH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5330,14 +5330,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **17.05** |
 | Period Open | 14.55 |
 | Period High | 20.4 |
 | Period Low | 11.05 |
-| Period Change % | 14.78% |
+| Period Change % | 17.18% |
 
-**[Download NKG Data (.csv)](market_data/NKG_2025-01-02_to_2025-11-09.csv)**
+**[Download NKG Data (.csv)](market_data/NKG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5357,14 +5357,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **37.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **37.2** |
 | Period Open | 33.05 |
 | Period High | 45.63 |
 | Period Low | 23.29 |
-| Period Change % | 13.92% |
+| Period Change % | 12.56% |
 
-**[Download NLG Data (.csv)](market_data/NLG_2025-01-02_to_2025-11-09.csv)**
+**[Download NLG Data (.csv)](market_data/NLG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5384,14 +5384,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **51.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **53.8** |
 | Period Open | 22.83 |
 | Period High | 55.5 |
 | Period Low | 22.2 |
-| Period Change % | 125.58% |
+| Period Change % | 135.65% |
 
-**[Download NNC Data (.csv)](market_data/NNC_2025-01-02_to_2025-11-09.csv)**
+**[Download NNC Data (.csv)](market_data/NNC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5411,14 +5411,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.4** |
 | Period Open | 5.0 |
 | Period High | 7.7 |
 | Period Low | 3.6 |
-| Period Change % | 26.00% |
+| Period Change % | 28.00% |
 
-**[Download NRC Data (.csv)](market_data/NRC_2025-01-02_to_2025-11-09.csv)**
+**[Download NRC Data (.csv)](market_data/NRC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5438,14 +5438,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **23.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **24.25** |
 | Period Open | 19.45 |
 | Period High | 25.35 |
 | Period Low | 15.48 |
-| Period Change % | 18.51% |
+| Period Change % | 24.68% |
 
-**[Download NT2 Data (.csv)](market_data/NT2_2025-01-02_to_2025-11-09.csv)**
+**[Download NT2 Data (.csv)](market_data/NT2_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5465,14 +5465,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **158.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **161.1** |
 | Period Open | 208.44 |
 | Period High | 235.46 |
 | Period Low | 117.05 |
-| Period Change % | -24.15% |
+| Period Change % | -22.71% |
 
-**[Download NTC Data (.csv)](market_data/NTC_2025-01-02_to_2025-11-09.csv)**
+**[Download NTC Data (.csv)](market_data/NTC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5492,14 +5492,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.1** |
 | Period Open | 18.45 |
 | Period High | 22.5 |
 | Period Low | 12.3 |
-| Period Change % | -2.98% |
+| Period Change % | -1.90% |
 
-**[Download NTL Data (.csv)](market_data/NTL_2025-01-02_to_2025-11-09.csv)**
+**[Download NTL Data (.csv)](market_data/NTL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5519,14 +5519,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **63.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **63.8** |
 | Period Open | 51.8 |
 | Period High | 71.8 |
 | Period Low | 39.96 |
-| Period Change % | 21.62% |
+| Period Change % | 23.17% |
 
-**[Download NTP Data (.csv)](market_data/NTP_2025-01-02_to_2025-11-09.csv)**
+**[Download NTP Data (.csv)](market_data/NTP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5546,14 +5546,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **13.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.15** |
 | Period Open | 10.35 |
 | Period High | 19.3 |
 | Period Low | 7.88 |
-| Period Change % | 25.60% |
+| Period Change % | 36.71% |
 
-**[Download NVL Data (.csv)](market_data/NVL_2025-01-02_to_2025-11-09.csv)**
+**[Download NVL Data (.csv)](market_data/NVL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5573,14 +5573,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.15** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.3** |
 | Period Open | 9.75 |
 | Period High | 15.4 |
 | Period Low | 7.8 |
-| Period Change % | 24.62% |
+| Period Change % | 26.15% |
 
-**[Download OCB Data (.csv)](market_data/OCB_2025-01-02_to_2025-11-09.csv)**
+**[Download OCB Data (.csv)](market_data/OCB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5600,14 +5600,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.0** |
 | Period Open | 11.76 |
 | Period High | 13.43 |
 | Period Low | 7.94 |
-| Period Change % | -9.01% |
+| Period Change % | -6.46% |
 
-**[Download OIL Data (.csv)](market_data/OIL_2025-01-02_to_2025-11-09.csv)**
+**[Download OIL Data (.csv)](market_data/OIL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5627,14 +5627,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **14.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.1** |
 | Period Open | 14.1 |
 | Period High | 17.0 |
 | Period Low | 7.19 |
-| Period Change % | -0.71% |
+| Period Change % | 0.00% |
 
-**[Download ORS Data (.csv)](market_data/ORS_2025-01-02_to_2025-11-09.csv)**
+**[Download ORS Data (.csv)](market_data/ORS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5654,14 +5654,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **30.25** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **28.75** |
 | Period Open | 23.4 |
 | Period High | 35.6 |
 | Period Low | 20.1 |
-| Period Change % | 29.27% |
+| Period Change % | 22.86% |
 
-**[Download PAN Data (.csv)](market_data/PAN_2025-01-02_to_2025-11-09.csv)**
+**[Download PAN Data (.csv)](market_data/PAN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5681,14 +5681,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **24.25** |
-| Period Open | 23.1 |
-| Period High | 32.5 |
-| Period Low | 18.4 |
-| Period Change % | 4.98% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **22.05** |
+| Period Open | 20.09 |
+| Period High | 28.26 |
+| Period Low | 16.0 |
+| Period Change % | 9.76% |
 
-**[Download PC1 Data (.csv)](market_data/PC1_2025-01-02_to_2025-11-09.csv)**
+**[Download PC1 Data (.csv)](market_data/PC1_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5708,14 +5708,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.15** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **22.2** |
 | Period Open | 19.17 |
 | Period High | 27.2 |
 | Period Low | 13.93 |
-| Period Change % | 10.33% |
+| Period Change % | 15.81% |
 
-**[Download PDR Data (.csv)](market_data/PDR_2025-01-02_to_2025-11-09.csv)**
+**[Download PDR Data (.csv)](market_data/PDR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5735,14 +5735,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **30.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **32.75** |
 | Period Open | 25.2 |
 | Period High | 41.3 |
 | Period Low | 16.7 |
-| Period Change % | 19.44% |
+| Period Change % | 29.96% |
 
-**[Download PET Data (.csv)](market_data/PET_2025-01-02_to_2025-11-09.csv)**
+**[Download PET Data (.csv)](market_data/PET_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5762,14 +5762,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.04** |
 | Period Open | 5.66 |
 | Period High | 6.6 |
 | Period Low | 4.36 |
-| Period Change % | -11.66% |
+| Period Change % | -10.95% |
 
-**[Download PHC Data (.csv)](market_data/PHC_2025-01-02_to_2025-11-09.csv)**
+**[Download PHC Data (.csv)](market_data/PHC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5789,14 +5789,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **33.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **35.0** |
 | Period Open | 41.29 |
 | Period High | 58.89 |
 | Period Low | 23.89 |
-| Period Change % | -18.62% |
+| Period Change % | -15.23% |
 
-**[Download PHP Data (.csv)](market_data/PHP_2025-01-02_to_2025-11-09.csv)**
+**[Download PHP Data (.csv)](market_data/PHP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5816,14 +5816,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **54.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **57.1** |
 | Period Open | 51.84 |
 | Period High | 67.36 |
 | Period Low | 38.07 |
-| Period Change % | 4.36% |
+| Period Change % | 10.15% |
 
-**[Download PHR Data (.csv)](market_data/PHR_2025-01-02_to_2025-11-09.csv)**
+**[Download PHR Data (.csv)](market_data/PHR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5843,14 +5843,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **26.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **26.4** |
 | Period Open | 22.18 |
 | Period High | 31.7 |
 | Period Low | 17.27 |
-| Period Change % | 19.48% |
+| Period Change % | 19.03% |
 
-**[Download PLC Data (.csv)](market_data/PLC_2025-01-02_to_2025-11-09.csv)**
+**[Download PLC Data (.csv)](market_data/PLC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5870,14 +5870,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **34.5** |
 | Period Open | 36.72 |
 | Period High | 43.11 |
 | Period Low | 29.95 |
-| Period Change % | -7.41% |
+| Period Change % | -6.05% |
 
-**[Download PLX Data (.csv)](market_data/PLX_2025-01-02_to_2025-11-09.csv)**
+**[Download PLX Data (.csv)](market_data/PLX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5897,14 +5897,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **87.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **90.0** |
 | Period Open | 95.82 |
 | Period High | 97.78 |
 | Period Low | 61.78 |
-| Period Change % | -8.68% |
+| Period Change % | -6.07% |
 
-**[Download PNJ Data (.csv)](market_data/PNJ_2025-01-02_to_2025-11-09.csv)**
+**[Download PNJ Data (.csv)](market_data/PNJ_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5924,14 +5924,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **14.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.9** |
 | Period Open | 12.0 |
 | Period High | 17.45 |
 | Period Low | 9.92 |
-| Period Change % | 18.33% |
+| Period Change % | 24.17% |
 
-**[Download POW Data (.csv)](market_data/POW_2025-01-02_to_2025-11-09.csv)**
+**[Download POW Data (.csv)](market_data/POW_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5951,14 +5951,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.55** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.65** |
 | Period Open | 11.2 |
 | Period High | 13.15 |
 | Period Low | 10.1 |
-| Period Change % | -5.80% |
+| Period Change % | -4.91% |
 
-**[Download PPC Data (.csv)](market_data/PPC_2025-01-02_to_2025-11-09.csv)**
+**[Download PPC Data (.csv)](market_data/PPC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -5978,14 +5978,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **28.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **29.6** |
 | Period Open | 28.88 |
 | Period High | 31.42 |
 | Period Low | 22.09 |
-| Period Change % | -0.97% |
+| Period Change % | 2.49% |
 
-**[Download PPH Data (.csv)](market_data/PPH_2025-01-02_to_2025-11-09.csv)**
+**[Download PPH Data (.csv)](market_data/PPH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6005,14 +6005,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **50.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **51.0** |
 | Period Open | 64.46 |
 | Period High | 65.63 |
 | Period Low | 43.46 |
-| Period Change % | -22.28% |
+| Period Change % | -20.88% |
 
-**[Download PTB Data (.csv)](market_data/PTB_2025-01-02_to_2025-11-09.csv)**
+**[Download PTB Data (.csv)](market_data/PTB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6032,14 +6032,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.3** |
 | Period Open | 10.4 |
 | Period High | 13.8 |
 | Period Low | 7.4 |
-| Period Change % | 4.81% |
+| Period Change % | 8.65% |
 
-**[Download PVC Data (.csv)](market_data/PVC_2025-01-02_to_2025-11-09.csv)**
+**[Download PVC Data (.csv)](market_data/PVC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6059,14 +6059,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **24.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **26.7** |
 | Period Open | 22.98 |
-| Period High | 25.7 |
+| Period High | 27.3 |
 | Period Low | 16.23 |
-| Period Change % | 7.48% |
+| Period Change % | 16.19% |
 
-**[Download PVD Data (.csv)](market_data/PVD_2025-01-02_to_2025-11-09.csv)**
+**[Download PVD Data (.csv)](market_data/PVD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6086,14 +6086,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **79.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **90.0** |
 | Period Open | 58.75 |
-| Period High | 81.2 |
+| Period High | 92.0 |
 | Period Low | 48.8 |
-| Period Change % | 34.47% |
+| Period Change % | 53.19% |
 
-**[Download PVI Data (.csv)](market_data/PVI_2025-01-02_to_2025-11-09.csv)**
+**[Download PVI Data (.csv)](market_data/PVI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6113,14 +6113,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **13.95** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.15** |
 | Period Open | 16.74 |
 | Period High | 17.21 |
 | Period Low | 11.36 |
-| Period Change % | -16.67% |
+| Period Change % | -15.47% |
 
-**[Download PVP Data (.csv)](market_data/PVP_2025-01-02_to_2025-11-09.csv)**
+**[Download PVP Data (.csv)](market_data/PVP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6140,14 +6140,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **35.2** |
 | Period Open | 33.9 |
 | Period High | 39.0 |
 | Period Low | 21.4 |
-| Period Change % | 0.29% |
+| Period Change % | 3.83% |
 
-**[Download PVS Data (.csv)](market_data/PVS_2025-01-02_to_2025-11-09.csv)**
+**[Download PVS Data (.csv)](market_data/PVS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6167,14 +6167,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.5** |
 | Period Open | 21.02 |
 | Period High | 21.52 |
 | Period Low | 14.09 |
-| Period Change % | -16.27% |
+| Period Change % | -11.99% |
 
-**[Download PVT Data (.csv)](market_data/PVT_2025-01-02_to_2025-11-09.csv)**
+**[Download PVT Data (.csv)](market_data/PVT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6194,14 +6194,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **1.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **1.1** |
 | Period Open | 1.9 |
 | Period High | 2.7 |
 | Period Low | 1.1 |
-| Period Change % | -36.84% |
+| Period Change % | -42.11% |
 
-**[Download PXI Data (.csv)](market_data/PXI_2025-01-02_to_2025-11-09.csv)**
+**[Download PXI Data (.csv)](market_data/PXI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6221,14 +6221,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **44.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **44.2** |
 | Period Open | 47.3 |
 | Period High | 49.1 |
 | Period Low | 40.81 |
-| Period Change % | -5.50% |
+| Period Change % | -6.55% |
 
-**[Download QNS Data (.csv)](market_data/QNS_2025-01-02_to_2025-11-09.csv)**
+**[Download QNS Data (.csv)](market_data/QNS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6248,14 +6248,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.7** |
 | Period Open | 13.59 |
 | Period High | 13.99 |
 | Period Low | 11.92 |
-| Period Change % | -5.81% |
+| Period Change % | -6.55% |
 
-**[Download QTP Data (.csv)](market_data/QTP_2025-01-02_to_2025-11-09.csv)**
+**[Download QTP Data (.csv)](market_data/QTP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6275,14 +6275,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **9.4** |
 | Period Open | 7.62 |
 | Period High | 12.8 |
 | Period Low | 5.52 |
 | Period Change % | 23.36% |
 
-**[Download S99 Data (.csv)](market_data/S99_2025-01-02_to_2025-11-09.csv)**
+**[Download S99 Data (.csv)](market_data/S99_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6302,14 +6302,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **46.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **47.1** |
 | Period Open | 52.49 |
 | Period High | 52.49 |
 | Period Low | 39.04 |
-| Period Change % | -12.17% |
+| Period Change % | -10.27% |
 
-**[Download SAB Data (.csv)](market_data/SAB_2025-01-02_to_2025-11-09.csv)**
+**[Download SAB Data (.csv)](market_data/SAB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6329,14 +6329,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **32.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **33.0** |
 | Period Open | 34.46 |
 | Period High | 50.56 |
 | Period Low | 25.75 |
-| Period Change % | -6.27% |
+| Period Change % | -4.24% |
 
-**[Download SAS Data (.csv)](market_data/SAS_2025-01-02_to_2025-11-09.csv)**
+**[Download SAS Data (.csv)](market_data/SAS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6356,14 +6356,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.5** |
 | Period Open | 4.7 |
 | Period High | 7.9 |
 | Period Low | 3.3 |
-| Period Change % | 14.89% |
+| Period Change % | 17.02% |
 
-**[Download SBS Data (.csv)](market_data/SBS_2025-01-02_to_2025-11-09.csv)**
+**[Download SBS Data (.csv)](market_data/SBS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6383,14 +6383,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **25.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **25.25** |
 | Period Open | 11.91 |
 | Period High | 27.6 |
 | Period Low | 10.86 |
-| Period Change % | 111.59% |
+| Period Change % | 112.01% |
 
-**[Download SBT Data (.csv)](market_data/SBT_2025-01-02_to_2025-11-09.csv)**
+**[Download SBT Data (.csv)](market_data/SBT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6410,14 +6410,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **9.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **9.4** |
 | Period Open | 7.9 |
 | Period High | 11.9 |
 | Period Low | 5.7 |
-| Period Change % | 22.78% |
+| Period Change % | 18.99% |
 
-**[Download SCI Data (.csv)](market_data/SCI_2025-01-02_to_2025-11-09.csv)**
+**[Download SCI Data (.csv)](market_data/SCI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6437,14 +6437,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.08** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.78** |
 | Period Open | 5.74 |
 | Period High | 10.5 |
 | Period Low | 5.07 |
-| Period Change % | 40.77% |
+| Period Change % | 52.96% |
 
-**[Download SCR Data (.csv)](market_data/SCR_2025-01-02_to_2025-11-09.csv)**
+**[Download SCR Data (.csv)](market_data/SCR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6464,14 +6464,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **54.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **55.0** |
 | Period Open | 76.9 |
 | Period High | 79.67 |
 | Period Low | 49.52 |
-| Period Change % | -29.00% |
+| Period Change % | -28.48% |
 
-**[Download SCS Data (.csv)](market_data/SCS_2025-01-02_to_2025-11-09.csv)**
+**[Download SCS Data (.csv)](market_data/SCS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6491,14 +6491,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **61.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **61.4** |
 | Period Open | 81.51 |
 | Period High | 101.21 |
 | Period Low | 58.92 |
-| Period Change % | -24.30% |
+| Period Change % | -24.67% |
 
-**[Download SGN Data (.csv)](market_data/SGN_2025-01-02_to_2025-11-09.csv)**
+**[Download SGN Data (.csv)](market_data/SGN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6518,14 +6518,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **20.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **20.55** |
 | Period Open | 37.05 |
 | Period High | 41.15 |
 | Period Low | 18.85 |
-| Period Change % | -43.59% |
+| Period Change % | -44.53% |
 
-**[Download SGR Data (.csv)](market_data/SGR_2025-01-02_to_2025-11-09.csv)**
+**[Download SGR Data (.csv)](market_data/SGR_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6545,14 +6545,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.55** |
 | Period Open | 17.25 |
 | Period High | 22.15 |
 | Period Low | 15.0 |
-| Period Change % | -3.48% |
+| Period Change % | -4.06% |
 
-**[Download SGT Data (.csv)](market_data/SGT_2025-01-02_to_2025-11-09.csv)**
+**[Download SGT Data (.csv)](market_data/SGT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6572,14 +6572,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **15.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.35** |
 | Period Open | 7.91 |
 | Period High | 19.45 |
 | Period Low | 7.72 |
-| Period Change % | 93.43% |
+| Period Change % | 106.70% |
 
-**[Download SHB Data (.csv)](market_data/SHB_2025-01-02_to_2025-11-09.csv)**
+**[Download SHB Data (.csv)](market_data/SHB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6599,14 +6599,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **22.6** |
 | Period Open | 10.06 |
 | Period High | 30.0 |
 | Period Low | 8.54 |
-| Period Change % | 112.72% |
+| Period Change % | 124.65% |
 
-**[Download SHS Data (.csv)](market_data/SHS_2025-01-02_to_2025-11-09.csv)**
+**[Download SHS Data (.csv)](market_data/SHS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6626,14 +6626,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **55.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **59.0** |
 | Period Open | 71.11 |
 | Period High | 81.61 |
 | Period Low | 48.12 |
-| Period Change % | -22.66% |
+| Period Change % | -17.03% |
 
-**[Download SIP Data (.csv)](market_data/SIP_2025-01-02_to_2025-11-09.csv)**
+**[Download SIP Data (.csv)](market_data/SIP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6653,14 +6653,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.15** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.25** |
 | Period Open | 10.83 |
 | Period High | 12.36 |
 | Period Low | 8.55 |
-| Period Change % | -6.28% |
+| Period Change % | -5.36% |
 
-**[Download SKG Data (.csv)](market_data/SKG_2025-01-02_to_2025-11-09.csv)**
+**[Download SKG Data (.csv)](market_data/SKG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6680,14 +6680,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **165.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **166.0** |
 | Period Open | 169.56 |
 | Period High | 197.2 |
 | Period Low | 152.0 |
-| Period Change % | -2.45% |
+| Period Change % | -2.10% |
 
-**[Download SLS Data (.csv)](market_data/SLS_2025-01-02_to_2025-11-09.csv)**
+**[Download SLS Data (.csv)](market_data/SLS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6707,14 +6707,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **13.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **13.25** |
 | Period Open | 8.36 |
 | Period High | 16.9 |
 | Period Low | 5.7 |
-| Period Change % | 55.50% |
+| Period Change % | 58.49% |
 
-**[Download SMC Data (.csv)](market_data/SMC_2025-01-02_to_2025-11-09.csv)**
+**[Download SMC Data (.csv)](market_data/SMC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6734,14 +6734,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-11 |
 | **Latest Close** | **79.0** |
 | Period Open | 66.8 |
 | Period High | 134.2 |
 | Period Low | 66.5 |
 | Period Change % | 18.26% |
 
-**[Download SSH Data (.csv)](market_data/SSH_2025-01-02_to_2025-11-09.csv)**
+**[Download SSH Data (.csv)](market_data/SSH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6761,14 +6761,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **32.95** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **34.95** |
 | Period Open | 25.4 |
 | Period High | 43.3 |
 | Period Low | 20.09 |
-| Period Change % | 29.72% |
+| Period Change % | 37.60% |
 
-**[Download SSI Data (.csv)](market_data/SSI_2025-01-02_to_2025-11-09.csv)**
+**[Download SSI Data (.csv)](market_data/SSI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6788,14 +6788,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **48.35** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **48.05** |
 | Period Open | 36.95 |
 | Period High | 61.3 |
 | Period Low | 32.4 |
-| Period Change % | 30.85% |
+| Period Change % | 30.04% |
 
-**[Download STB Data (.csv)](market_data/STB_2025-01-02_to_2025-11-09.csv)**
+**[Download STB Data (.csv)](market_data/STB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6815,14 +6815,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.9** |
 | Period Open | 17.17 |
 | Period High | 19.31 |
 | Period Low | 12.93 |
-| Period Change % | -0.99% |
+| Period Change % | -1.57% |
 
-**[Download STK Data (.csv)](market_data/STK_2025-01-02_to_2025-11-09.csv)**
+**[Download STK Data (.csv)](market_data/STK_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6842,14 +6842,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **30.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **32.0** |
 | Period Open | 41.31 |
 | Period High | 45.87 |
 | Period Low | 26.92 |
-| Period Change % | -26.65% |
+| Period Change % | -22.54% |
 
-**[Download SZC Data (.csv)](market_data/SZC_2025-01-02_to_2025-11-09.csv)**
+**[Download SZC Data (.csv)](market_data/SZC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6869,14 +6869,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **33.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **35.1** |
 | Period Open | 24.01 |
 | Period High | 42.0 |
 | Period Low | 21.72 |
-| Period Change % | 37.44% |
+| Period Change % | 46.19% |
 
-**[Download TCB Data (.csv)](market_data/TCB_2025-01-02_to_2025-11-09.csv)**
+**[Download TCB Data (.csv)](market_data/TCB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6903,7 +6903,7 @@
 | Period Low | 1.65 |
 | Period Change % | -59.35% |
 
-**[Download TCD Data (.csv)](market_data/TCD_2025-01-02_to_2025-11-09.csv)**
+**[Download TCD Data (.csv)](market_data/TCD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6923,14 +6923,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **21.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **21.3** |
 | Period Open | 13.05 |
 | Period High | 26.25 |
 | Period Low | 11.46 |
-| Period Change % | 60.92% |
+| Period Change % | 63.22% |
 
-**[Download TCH Data (.csv)](market_data/TCH_2025-01-02_to_2025-11-09.csv)**
+**[Download TCH Data (.csv)](market_data/TCH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6950,14 +6950,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.05** |
 | Period Open | 8.9 |
 | Period High | 13.55 |
 | Period Low | 7.49 |
-| Period Change % | 13.48% |
+| Period Change % | 12.92% |
 
-**[Download TCI Data (.csv)](market_data/TCI_2025-01-02_to_2025-11-09.csv)**
+**[Download TCI Data (.csv)](market_data/TCI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -6977,14 +6977,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.45** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **34.65** |
 | Period Open | 32.83 |
 | Period High | 42.04 |
 | Period Low | 31.42 |
-| Period Change % | 4.93% |
+| Period Change % | 5.54% |
 
-**[Download TCL Data (.csv)](market_data/TCL_2025-01-02_to_2025-11-09.csv)**
+**[Download TCL Data (.csv)](market_data/TCL_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7004,14 +7004,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **27.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **28.9** |
 | Period Open | 42.97 |
 | Period High | 43.11 |
 | Period Low | 24.55 |
-| Period Change % | -35.07% |
+| Period Change % | -32.74% |
 
-**[Download TCM Data (.csv)](market_data/TCM_2025-01-02_to_2025-11-09.csv)**
+**[Download TCM Data (.csv)](market_data/TCM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7024,14 +7024,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-10-21 to 2025-11-07 |
-| **Latest Close** | **43.3** |
+| Date Range | 2025-10-21 to 2025-11-14 |
+| **Latest Close** | **44.1** |
 | Period Open | 49.8 |
 | Period High | 51.0 |
 | Period Low | 42.1 |
-| Period Change % | -13.05% |
+| Period Change % | -11.45% |
 
-**[Download TCX Data (.csv)](market_data/TCX_2025-01-02_to_2025-11-09.csv)**
+**[Download TCX Data (.csv)](market_data/TCX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7051,14 +7051,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **11.85** |
 | Period Open | 11.5 |
 | Period High | 14.8 |
 | Period Low | 9.49 |
 | Period Change % | 3.04% |
 
-**[Download TDC Data (.csv)](market_data/TDC_2025-01-02_to_2025-11-09.csv)**
+**[Download TDC Data (.csv)](market_data/TDC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7078,14 +7078,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-06 |
-| **Latest Close** | **56.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **56.5** |
 | Period Open | 48.51 |
 | Period High | 61.0 |
 | Period Low | 47.93 |
-| Period Change % | 16.26% |
+| Period Change % | 16.47% |
 
-**[Download TDM Data (.csv)](market_data/TDM_2025-01-02_to_2025-11-09.csv)**
+**[Download TDM Data (.csv)](market_data/TDM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7105,14 +7105,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **7.8** |
 | Period Open | 13.2 |
 | Period High | 13.5 |
 | Period Low | 5.5 |
 | Period Change % | -40.91% |
 
-**[Download TIG Data (.csv)](market_data/TIG_2025-01-02_to_2025-11-09.csv)**
+**[Download TIG Data (.csv)](market_data/TIG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7132,14 +7132,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.7** |
 | Period Open | 19.86 |
 | Period High | 21.62 |
 | Period Low | 15.28 |
-| Period Change % | -7.35% |
+| Period Change % | -5.84% |
 
-**[Download TIP Data (.csv)](market_data/TIP_2025-01-02_to_2025-11-09.csv)**
+**[Download TIP Data (.csv)](market_data/TIP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7159,14 +7159,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.05** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.24** |
 | Period Open | 5.96 |
 | Period High | 8.6 |
 | Period Low | 5.12 |
-| Period Change % | 35.07% |
+| Period Change % | 38.26% |
 
-**[Download TLD Data (.csv)](market_data/TLD_2025-01-02_to_2025-11-09.csv)**
+**[Download TLD Data (.csv)](market_data/TLD_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7186,14 +7186,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.33** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **5.18** |
 | Period Open | 4.61 |
 | Period High | 6.7 |
 | Period Low | 4.06 |
-| Period Change % | 15.62% |
+| Period Change % | 12.36% |
 
-**[Download TLH Data (.csv)](market_data/TLH_2025-01-02_to_2025-11-09.csv)**
+**[Download TLH Data (.csv)](market_data/TLH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7213,14 +7213,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **19.3** |
-| Period Open | 23.13 |
-| Period High | 23.96 |
-| Period Low | 12.32 |
-| Period Change % | -16.56% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **19.7** |
+| Period Open | 22.52 |
+| Period High | 23.33 |
+| Period Low | 12.0 |
+| Period Change % | -12.52% |
 
-**[Download TNG Data (.csv)](market_data/TNG_2025-01-02_to_2025-11-09.csv)**
+**[Download TNG Data (.csv)](market_data/TNG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7240,14 +7240,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.35** |
 | Period Open | 15.96 |
 | Period High | 18.78 |
 | Period Low | 11.85 |
-| Period Change % | -21.68% |
+| Period Change % | -22.62% |
 
-**[Download TNH Data (.csv)](market_data/TNH_2025-01-02_to_2025-11-09.csv)**
+**[Download TNH Data (.csv)](market_data/TNH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7267,14 +7267,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.36** |
 | Period Open | 4.3 |
 | Period High | 9.5 |
 | Period Low | 4.13 |
-| Period Change % | 86.05% |
+| Period Change % | 94.42% |
 
-**[Download TNT Data (.csv)](market_data/TNT_2025-01-02_to_2025-11-09.csv)**
+**[Download TNT Data (.csv)](market_data/TNT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7294,14 +7294,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.95** |
 | Period Open | 14.83 |
 | Period High | 21.71 |
 | Period Low | 9.85 |
-| Period Change % | 11.26% |
+| Period Change % | 14.30% |
 
-**[Download TPB Data (.csv)](market_data/TPB_2025-01-02_to_2025-11-09.csv)**
+**[Download TPB Data (.csv)](market_data/TPB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7321,14 +7321,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **2.92** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **2.96** |
 | Period Open | 2.46 |
 | Period High | 3.52 |
 | Period Low | 2.31 |
-| Period Change % | 18.70% |
+| Period Change % | 20.33% |
 
-**[Download TSC Data (.csv)](market_data/TSC_2025-01-02_to_2025-11-09.csv)**
+**[Download TSC Data (.csv)](market_data/TSC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7348,14 +7348,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **2.83** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **2.87** |
 | Period Open | 3.17 |
 | Period High | 3.57 |
 | Period Low | 2.31 |
-| Period Change % | -10.73% |
+| Period Change % | -9.46% |
 
-**[Download TTF Data (.csv)](market_data/TTF_2025-01-02_to_2025-11-09.csv)**
+**[Download TTF Data (.csv)](market_data/TTF_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7375,14 +7375,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **17.4** |
 | Period Open | 21.85 |
 | Period High | 25.46 |
 | Period Low | 11.59 |
-| Period Change % | -21.74% |
+| Period Change % | -20.37% |
 
-**[Download TTN Data (.csv)](market_data/TTN_2025-01-02_to_2025-11-09.csv)**
+**[Download TTN Data (.csv)](market_data/TTN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7402,14 +7402,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **34.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **36.0** |
 | Period Open | 33.4 |
 | Period High | 43.7 |
 | Period Low | 27.3 |
-| Period Change % | 2.69% |
+| Period Change % | 7.78% |
 
-**[Download TV2 Data (.csv)](market_data/TV2_2025-01-02_to_2025-11-09.csv)**
+**[Download TV2 Data (.csv)](market_data/TV2_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7429,14 +7429,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **8.87** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **8.68** |
 | Period Open | 8.4 |
 | Period High | 11.15 |
 | Period Low | 5.93 |
-| Period Change % | 5.60% |
+| Period Change % | 3.33% |
 
-**[Download TVB Data (.csv)](market_data/TVB_2025-01-02_to_2025-11-09.csv)**
+**[Download TVB Data (.csv)](market_data/TVB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7456,14 +7456,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **7.8** |
 | Period Open | 7.9 |
 | Period High | 9.7 |
 | Period Low | 5.2 |
 | Period Change % | -1.27% |
 
-**[Download TVN Data (.csv)](market_data/TVN_2025-01-02_to_2025-11-09.csv)**
+**[Download TVN Data (.csv)](market_data/TVN_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7483,14 +7483,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **16.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.75** |
 | Period Open | 17.56 |
 | Period High | 22.06 |
 | Period Low | 13.53 |
-| Period Change % | -4.90% |
+| Period Change % | -4.61% |
 
-**[Download TVS Data (.csv)](market_data/TVS_2025-01-02_to_2025-11-09.csv)**
+**[Download TVS Data (.csv)](market_data/TVS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7510,14 +7510,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.9** |
 | Period Open | 9.6 |
 | Period High | 10.6 |
 | Period Low | 6.4 |
-| Period Change % | -30.21% |
+| Period Change % | -28.12% |
 
-**[Download VC2 Data (.csv)](market_data/VC2_2025-01-02_to_2025-11-09.csv)**
+**[Download VC2 Data (.csv)](market_data/VC2_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7537,14 +7537,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **10.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **10.7** |
 | Period Open | 12.3 |
 | Period High | 13.8 |
 | Period Low | 6.8 |
-| Period Change % | -14.63% |
+| Period Change % | -13.01% |
 
-**[Download VC7 Data (.csv)](market_data/VC7_2025-01-02_to_2025-11-09.csv)**
+**[Download VC7 Data (.csv)](market_data/VC7_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7564,14 +7564,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **59.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **60.0** |
 | Period Open | 60.83 |
 | Period High | 70.09 |
 | Period Low | 51.63 |
-| Period Change % | -2.52% |
+| Period Change % | -1.36% |
 
-**[Download VCB Data (.csv)](market_data/VCB_2025-01-02_to_2025-11-09.csv)**
+**[Download VCB Data (.csv)](market_data/VCB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7591,14 +7591,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **23.45** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **24.1** |
 | Period Open | 16.26 |
 | Period High | 29.1 |
 | Period Low | 15.91 |
-| Period Change % | 44.22% |
+| Period Change % | 48.22% |
 
-**[Download VCG Data (.csv)](market_data/VCG_2025-01-02_to_2025-11-09.csv)**
+**[Download VCG Data (.csv)](market_data/VCG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7618,14 +7618,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **36.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **35.75** |
 | Period Open | 33.01 |
 | Period High | 49.45 |
 | Period Low | 30.73 |
-| Period Change % | 9.06% |
+| Period Change % | 8.30% |
 
-**[Download VCI Data (.csv)](market_data/VCI_2025-01-02_to_2025-11-09.csv)**
+**[Download VCI Data (.csv)](market_data/VCI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7645,14 +7645,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **46.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **47.5** |
 | Period Open | 61.16 |
 | Period High | 61.74 |
 | Period Low | 36.78 |
-| Period Change % | -24.62% |
+| Period Change % | -22.33% |
 
-**[Download VCS Data (.csv)](market_data/VCS_2025-01-02_to_2025-11-09.csv)**
+**[Download VCS Data (.csv)](market_data/VCS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7672,14 +7672,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.25** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.6** |
 | Period Open | 19.0 |
 | Period High | 26.6 |
 | Period Low | 12.05 |
-| Period Change % | -3.95% |
+| Period Change % | -2.11% |
 
-**[Download VDS Data (.csv)](market_data/VDS_2025-01-02_to_2025-11-09.csv)**
+**[Download VDS Data (.csv)](market_data/VDS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7699,14 +7699,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **41.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **41.6** |
 | Period Open | 39.8 |
 | Period High | 44.9 |
 | Period Low | 34.1 |
-| Period Change % | 4.02% |
+| Period Change % | 4.52% |
 
-**[Download VEA Data (.csv)](market_data/VEA_2025-01-02_to_2025-11-09.csv)**
+**[Download VEA Data (.csv)](market_data/VEA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7726,14 +7726,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **46.6** |
-| Period Open | 45.0 |
-| Period High | 69.0 |
-| Period Low | 36.5 |
-| Period Change % | 3.56% |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **46.55** |
+| Period Open | 42.88 |
+| Period High | 65.74 |
+| Period Low | 34.78 |
+| Period Change % | 8.56% |
 
-**[Download VGC Data (.csv)](market_data/VGC_2025-01-02_to_2025-11-09.csv)**
+**[Download VGC Data (.csv)](market_data/VGC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7753,14 +7753,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **80.2** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **81.6** |
 | Period Open | 90.79 |
 | Period High | 93.56 |
 | Period Low | 51.29 |
-| Period Change % | -11.66% |
+| Period Change % | -10.12% |
 
-**[Download VGI Data (.csv)](market_data/VGI_2025-01-02_to_2025-11-09.csv)**
+**[Download VGI Data (.csv)](market_data/VGI_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7780,14 +7780,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **27.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **29.1** |
 | Period Open | 28.09 |
 | Period High | 35.5 |
 | Period Low | 17.55 |
-| Period Change % | -1.74% |
+| Period Change % | 3.60% |
 
-**[Download VGS Data (.csv)](market_data/VGS_2025-01-02_to_2025-11-09.csv)**
+**[Download VGS Data (.csv)](market_data/VGS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7807,14 +7807,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.1** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.7** |
 | Period Open | 14.6 |
 | Period High | 15.1 |
 | Period Low | 7.2 |
-| Period Change % | -17.12% |
+| Period Change % | -13.01% |
 
-**[Download VGT Data (.csv)](market_data/VGT_2025-01-02_to_2025-11-09.csv)**
+**[Download VGT Data (.csv)](market_data/VGT_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7834,14 +7834,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **56.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **58.6** |
 | Period Open | 69.0 |
 | Period High | 70.55 |
 | Period Low | 42.28 |
-| Period Change % | -18.84% |
+| Period Change % | -15.07% |
 
-**[Download VHC Data (.csv)](market_data/VHC_2025-01-02_to_2025-11-09.csv)**
+**[Download VHC Data (.csv)](market_data/VHC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7861,14 +7861,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **92.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **93.9** |
 | Period Open | 40.1 |
 | Period High | 131.5 |
 | Period Low | 37.6 |
-| Period Change % | 129.43% |
+| Period Change % | 134.16% |
 
-**[Download VHM Data (.csv)](market_data/VHM_2025-01-02_to_2025-11-09.csv)**
+**[Download VHM Data (.csv)](market_data/VHM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7888,14 +7888,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.3** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **18.5** |
 | Period Open | 16.62 |
 | Period High | 24.8 |
 | Period Low | 13.75 |
-| Period Change % | 10.11% |
+| Period Change % | 11.31% |
 
-**[Download VIB Data (.csv)](market_data/VIB_2025-01-02_to_2025-11-09.csv)**
+**[Download VIB Data (.csv)](market_data/VIB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7915,14 +7915,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **199.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **211.0** |
 | Period Open | 40.5 |
 | Period High | 226.5 |
 | Period Low | 39.7 |
-| Period Change % | 393.09% |
+| Period Change % | 420.99% |
 
-**[Download VIC Data (.csv)](market_data/VIC_2025-01-02_to_2025-11-09.csv)**
+**[Download VIC Data (.csv)](market_data/VIC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7942,14 +7942,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **14.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **16.0** |
 | Period Open | 16.54 |
 | Period High | 22.7 |
 | Period Low | 14.14 |
-| Period Change % | -9.92% |
+| Period Change % | -3.26% |
 
-**[Download VIF Data (.csv)](market_data/VIF_2025-01-02_to_2025-11-09.csv)**
+**[Download VIF Data (.csv)](market_data/VIF_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7969,14 +7969,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **5.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.0** |
 | Period Open | 5.8 |
 | Period High | 8.9 |
 | Period Low | 5.4 |
-| Period Change % | 1.72% |
+| Period Change % | 3.45% |
 
-**[Download VIG Data (.csv)](market_data/VIG_2025-01-02_to_2025-11-09.csv)**
+**[Download VIG Data (.csv)](market_data/VIG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -7996,14 +7996,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.7** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.9** |
 | Period Open | 13.11 |
 | Period High | 15.39 |
 | Period Low | 10.51 |
-| Period Change % | -3.13% |
+| Period Change % | -1.60% |
 
-**[Download VIP Data (.csv)](market_data/VIP_2025-01-02_to_2025-11-09.csv)**
+**[Download VIP Data (.csv)](market_data/VIP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8023,14 +8023,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **24.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **25.8** |
 | Period Open | 9.37 |
 | Period High | 40.45 |
 | Period Low | 8.6 |
-| Period Change % | 161.47% |
+| Period Change % | 175.35% |
 
-**[Download VIX Data (.csv)](market_data/VIX_2025-01-02_to_2025-11-09.csv)**
+**[Download VIX Data (.csv)](market_data/VIX_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8050,14 +8050,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **178.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **176.4** |
 | Period Open | 100.1 |
 | Period High | 201.2 |
 | Period Low | 77.1 |
-| Period Change % | 77.82% |
+| Period Change % | 76.22% |
 
-**[Download VJC Data (.csv)](market_data/VJC_2025-01-02_to_2025-11-09.csv)**
+**[Download VJC Data (.csv)](market_data/VJC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8077,14 +8077,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **46.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **47.1** |
 | Period Open | 39.77 |
 | Period High | 49.8 |
 | Period Low | 35.02 |
-| Period Change % | 17.93% |
+| Period Change % | 18.43% |
 
-**[Download VLB Data (.csv)](market_data/VLB_2025-01-02_to_2025-11-09.csv)**
+**[Download VLB Data (.csv)](market_data/VLB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8104,14 +8104,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **13.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **14.1** |
 | Period Open | 17.5 |
 | Period High | 19.3 |
 | Period Low | 12.7 |
-| Period Change % | -20.57% |
+| Period Change % | -19.43% |
 
-**[Download VLC Data (.csv)](market_data/VLC_2025-01-02_to_2025-11-09.csv)**
+**[Download VLC Data (.csv)](market_data/VLC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8131,14 +8131,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.5** |
+| Date Range | 2025-01-02 to 2025-11-13 |
+| **Latest Close** | **17.7** |
 | Period Open | 21.14 |
 | Period High | 25.99 |
 | Period Low | 15.7 |
-| Period Change % | -17.22% |
+| Period Change % | -16.27% |
 
-**[Download VNA Data (.csv)](market_data/VNA_2025-01-02_to_2025-11-09.csv)**
+**[Download VNA Data (.csv)](market_data/VNA_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8158,14 +8158,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **18.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **19.65** |
 | Period Open | 12.21 |
 | Period High | 27.35 |
 | Period Low | 10.91 |
-| Period Change % | 54.79% |
+| Period Change % | 60.93% |
 
-**[Download VND Data (.csv)](market_data/VND_2025-01-02_to_2025-11-09.csv)**
+**[Download VND Data (.csv)](market_data/VND_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8185,14 +8185,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.03** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.25** |
 | Period Open | 3.52 |
 | Period High | 8.62 |
 | Period Low | 2.32 |
-| Period Change % | 71.31% |
+| Period Change % | 77.56% |
 
-**[Download VNE Data (.csv)](market_data/VNE_2025-01-02_to_2025-11-09.csv)**
+**[Download VNE Data (.csv)](market_data/VNE_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8212,14 +8212,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **57.6** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **62.8** |
 | Period Open | 58.67 |
-| Period High | 63.23 |
+| Period High | 63.3 |
 | Period Low | 47.42 |
-| Period Change % | -1.82% |
+| Period Change % | 7.04% |
 
-**[Download VNM Data (.csv)](market_data/VNM_2025-01-02_to_2025-11-09.csv)**
+**[Download VNM Data (.csv)](market_data/VNM_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8239,14 +8239,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.9** |
 | Period Open | 15.87 |
 | Period High | 16.48 |
 | Period Low | 10.42 |
-| Period Change % | -21.24% |
+| Period Change % | -18.71% |
 
-**[Download VOS Data (.csv)](market_data/VOS_2025-01-02_to_2025-11-09.csv)**
+**[Download VOS Data (.csv)](market_data/VOS_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8266,14 +8266,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **27.5** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **27.8** |
 | Period Open | 18.59 |
 | Period High | 38.9 |
 | Period Low | 14.75 |
-| Period Change % | 47.93% |
+| Period Change % | 49.54% |
 
-**[Download VPB Data (.csv)](market_data/VPB_2025-01-02_to_2025-11-09.csv)**
+**[Download VPB Data (.csv)](market_data/VPB_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8293,14 +8293,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **6.35** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **6.45** |
 | Period Open | 11.95 |
 | Period High | 13.2 |
 | Period Low | 6.08 |
-| Period Change % | -46.86% |
+| Period Change % | -46.03% |
 
-**[Download VPG Data (.csv)](market_data/VPG_2025-01-02_to_2025-11-09.csv)**
+**[Download VPG Data (.csv)](market_data/VPG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8320,14 +8320,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
+| Date Range | 2025-01-02 to 2025-11-14 |
 | **Latest Close** | **4.95** |
 | Period Open | 6.95 |
 | Period High | 7.21 |
 | Period Low | 4.5 |
 | Period Change % | -28.78% |
 
-**[Download VPH Data (.csv)](market_data/VPH_2025-01-02_to_2025-11-09.csv)**
+**[Download VPH Data (.csv)](market_data/VPH_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8347,14 +8347,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **31.35** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **32.1** |
 | Period Open | 17.2 |
 | Period High | 45.2 |
 | Period Low | 16.1 |
-| Period Change % | 82.27% |
+| Period Change % | 86.63% |
 
-**[Download VRE Data (.csv)](market_data/VRE_2025-01-02_to_2025-11-09.csv)**
+**[Download VRE Data (.csv)](market_data/VRE_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8374,14 +8374,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **17.4** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **17.3** |
 | Period Open | 21.69 |
 | Period High | 28.7 |
 | Period Low | 12.21 |
-| Period Change % | -19.78% |
+| Period Change % | -20.24% |
 
-**[Download VRG Data (.csv)](market_data/VRG_2025-01-02_to_2025-11-09.csv)**
+**[Download VRG Data (.csv)](market_data/VRG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8401,14 +8401,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **20.8** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **22.25** |
 | Period Open | 12.34 |
 | Period High | 38.65 |
 | Period Low | 10.83 |
-| Period Change % | 68.56% |
+| Period Change % | 80.31% |
 
-**[Download VSC Data (.csv)](market_data/VSC_2025-01-02_to_2025-11-09.csv)**
+**[Download VSC Data (.csv)](market_data/VSC_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8428,14 +8428,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **51.9** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **51.4** |
 | Period Open | 67.18 |
 | Period High | 79.96 |
 | Period Low | 38.71 |
-| Period Change % | -22.74% |
+| Period Change % | -23.49% |
 
-**[Download VTK Data (.csv)](market_data/VTK_2025-01-02_to_2025-11-09.csv)**
+**[Download VTK Data (.csv)](market_data/VTK_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8455,14 +8455,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **11.65** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **11.8** |
 | Period Open | 13.67 |
 | Period High | 16.55 |
 | Period Low | 9.99 |
-| Period Change % | -14.78% |
+| Period Change % | -13.68% |
 
-**[Download VTO Data (.csv)](market_data/VTO_2025-01-02_to_2025-11-09.csv)**
+**[Download VTO Data (.csv)](market_data/VTO_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8482,14 +8482,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **105.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **106.3** |
 | Period Open | 137.34 |
 | Period High | 172.74 |
 | Period Low | 90.18 |
-| Period Change % | -23.55% |
+| Period Change % | -22.60% |
 
-**[Download VTP Data (.csv)](market_data/VTP_2025-01-02_to_2025-11-09.csv)**
+**[Download VTP Data (.csv)](market_data/VTP_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
@@ -8509,14 +8509,14 @@
 #### Key Statistics
 | Metric | Value |
 |:---|---:|
-| Date Range | 2025-01-02 to 2025-11-07 |
-| **Latest Close** | **12.0** |
+| Date Range | 2025-01-02 to 2025-11-14 |
+| **Latest Close** | **12.1** |
 | Period Open | 15.88 |
 | Period High | 17.98 |
 | Period Low | 10.4 |
-| Period Change % | -24.43% |
+| Period Change % | -23.80% |
 
-**[Download YEG Data (.csv)](market_data/YEG_2025-01-02_to_2025-11-09.csv)**
+**[Download YEG Data (.csv)](market_data/YEG_2025-01-02_to_2025-11-16.csv)**
 
 ---
 
